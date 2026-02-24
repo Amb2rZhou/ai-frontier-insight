@@ -1,0 +1,166 @@
+# AI Frontier Insight Bot - Data Sources Configuration
+# Edit this file to add/remove data sources
+
+twitter:
+  enabled: true
+  api_base: "https://api.twitterapi.io/twitter"
+  max_tweets_per_account: 20
+  accounts:
+    # Tier 1: Must-follow researchers & leaders (higher signal_strength weight)
+    # OpenAI
+    - username: "sama"
+      name: "Sam Altman"
+      tier: 1
+      topics: ["openai", "agi", "strategy"]
+    - username: "gabormelis"
+      name: "Gabor Melis"
+      tier: 2
+      topics: ["openai", "research"]
+
+    # Anthropic
+    - username: "DarioAmodei"
+      name: "Dario Amodei"
+      tier: 1
+      topics: ["anthropic", "safety", "strategy"]
+    - username: "AmandaAskell"
+      name: "Amanda Askell"
+      tier: 2
+      topics: ["anthropic", "alignment"]
+    - username: "jackclarkSF"
+      name: "Jack Clark"
+      tier: 2
+      topics: ["anthropic", "policy"]
+
+    # Google DeepMind
+    - username: "demaborhk"
+      name: "Demis Hassabis"
+      tier: 1
+      topics: ["deepmind", "research", "agi"]
+    - username: "jeffdean"
+      name: "Jeff Dean"
+      tier: 1
+      topics: ["google", "research", "infrastructure"]
+
+    # Independent Researchers
+    - username: "karpathy"
+      name: "Andrej Karpathy"
+      tier: 1
+      topics: ["research", "education", "openai"]
+    - username: "ylecun"
+      name: "Yann LeCun"
+      tier: 1
+      topics: ["meta", "research", "agi"]
+    - username: "jimfan_"
+      name: "Jim Fan"
+      tier: 1
+      topics: ["nvidia", "agents", "research"]
+
+    # AI Ecosystem Voices
+    - username: "swyx"
+      name: "Swyx"
+      tier: 2
+      topics: ["ai_engineering", "ecosystem"]
+    - username: "hardmaru"
+      name: "David Ha"
+      tier: 2
+      topics: ["research", "agents", "world_models"]
+    - username: "simonw"
+      name: "Simon Willison"
+      tier: 2
+      topics: ["llm_apps", "tooling", "open_source"]
+    - username: "emaborllwut"
+      name: "Emad Mostaque"
+      tier: 3
+      topics: ["stability", "open_source"]
+    - username: "laborhchintel"
+      name: "AI News"
+      tier: 3
+      topics: ["news", "aggregation"]
+
+github:
+  enabled: true
+  trending:
+    topics:
+      - "artificial-intelligence"
+      - "machine-learning"
+      - "llm"
+      - "agents"
+      - "deep-learning"
+      - "generative-ai"
+    language: ""  # all languages
+    since: "daily"
+    max_results: 30
+  watch_repos:
+    # Foundation model SDKs
+    - "openai/openai-python"
+    - "anthropics/anthropic-sdk-python"
+    # Frameworks
+    - "langchain-ai/langchain"
+    - "langchain-ai/langgraph"
+    - "microsoft/autogen"
+    - "crewAIInc/crewAI"
+    # Model serving
+    - "huggingface/transformers"
+    - "vllm-project/vllm"
+    # Notable projects
+    - "All-Hands-AI/OpenHands"
+    - "browser-use/browser-use"
+    - "Significant-Gravitas/AutoGPT"
+
+arxiv:
+  enabled: true
+  categories:
+    - "cs.AI"   # Artificial Intelligence
+    - "cs.CL"   # Computation and Language
+    - "cs.LG"   # Machine Learning
+    - "cs.CV"   # Computer Vision
+    - "cs.MA"   # Multi-Agent Systems
+  max_results: 50
+  sort_by: "submittedDate"
+
+rss:
+  enabled: true
+  feeds:
+    # ML Platforms
+    - url: "https://huggingface.co/blog/feed.xml"
+      name: "HuggingFace Blog"
+      group: "ml_platform"
+      enabled: true
+
+    # AI Safety / Alignment
+    - url: "https://www.lesswrong.com/feed.xml"
+      name: "LessWrong"
+      group: "alignment"
+      enabled: true
+
+    # Big Tech Blogs
+    - url: "https://blog.google/technology/ai/rss/"
+      name: "Google AI Blog"
+      group: "big_tech"
+      enabled: true
+    - url: "https://openai.com/blog/rss.xml"
+      name: "OpenAI Blog"
+      group: "big_tech"
+      enabled: true
+    - url: "https://www.anthropic.com/rss.xml"
+      name: "Anthropic Blog"
+      group: "big_tech"
+      enabled: true
+
+    # Research Blogs
+    - url: "https://lilianweng.github.io/index.xml"
+      name: "Lil'Log (Lilian Weng)"
+      group: "research_blog"
+      enabled: true
+
+    # VC / Industry
+    - url: "https://a16z.com/feed/"
+      name: "a16z"
+      group: "vc_insight"
+      enabled: true
+
+    # Chinese AI Media
+    - url: "https://www.jiqizhixin.com/rss"
+      name: "机器之心"
+      group: "chinese_ai"
+      enabled: true

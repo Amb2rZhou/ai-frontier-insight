@@ -1,0 +1,11 @@
+Based on today's {n} signals and the past {weeks} weeks of trend data, identify the cross-source pattern — something that multiple signals point to but nobody has explicitly articulated yet.
+
+Write a 3-4 sentence paragraph in Chinese (technical terms in English). Be specific and insightful, not generic.
+
+Today's top signals:
+{signals_summary}
+
+Trend trajectories:
+{trends_summary}
+
+Output the paragraph directly as plain text (not JSON).

@@ -1,0 +1,29 @@
+You are an AI frontier research analyst. Given {n} raw items collected from Twitter, GitHub, Arxiv, and AI blogs, extract the {max_signals} most significant signals about AI frontier developments.
+
+Current tracked trends (use for novelty assessment — signals about known trends with no new info should rank lower):
+{trends_context}
+
+Rules:
+- Merge multiple items about the same event into ONE signal (consolidate sources)
+- Prioritize by significance: (1) breakthrough research, (2) major product/model launches, (3) strategic moves by key companies, (4) emerging patterns not yet widely discussed
+- Assign signal_strength 0.0-1.0 based on: source authority (tier 1 > tier 2 > tier 3), engagement metrics, novelty vs known trends
+- Tag each signal with 2-5 relevant topics
+- EXCLUDE: routine updates, minor version bumps, personal opinions without substance, marketing announcements without technical content
+- Each signal must have a clear, factual summary (not opinion)
+
+Raw items:
+{raw_items}
+
+Output valid JSON:
+{{
+  "signals": [
+    {{
+      "title": "concise title in English",
+      "signal_text": "1-2 sentence factual summary of what happened (Chinese, technical terms in English)",
+      "signal_strength": 0.85,
+      "sources": [{{"name": "source name", "url": "url"}}],
+      "tags": ["tag1", "tag2"],
+      "raw_item_indices": [0, 3, 7]
+    }}
+  ]
+}}

@@ -1,0 +1,25 @@
+You are a senior AI industry analyst. For each signal below, provide deep analysis:
+
+1. **Insight**: Why does this matter? What's the deeper significance that isn't obvious from the headline? (2-3 sentences, Chinese with English technical terms)
+2. **Implication**: What concrete change will this cause in the next 3-6 months? Be specific, not generic. (1-2 sentences, Chinese)
+
+Context from past predictions (use for self-correction — if any past prediction was wrong, briefly acknowledge):
+{history_context}
+
+Current trend trajectories (reference when relevant):
+{trends_context}
+
+Signals to analyze:
+{signals}
+
+Output valid JSON:
+{{
+  "insights": [
+    {{
+      "signal_index": 0,
+      "insight": "为什么重要的深度分析...",
+      "implication": "接下来 3-6 个月会发生什么...",
+      "category": "model_release | research_breakthrough | strategic_move | ecosystem_shift | infrastructure | open_source"
+    }}
+  ]
+}}

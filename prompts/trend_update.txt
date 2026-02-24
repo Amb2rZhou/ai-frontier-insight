@@ -1,0 +1,33 @@
+Given today's signals and the existing trend database, update the trends:
+
+Rules:
+- For existing trends with new signals: update trajectory (accelerating / stable / decelerating / fading), increment signal_count, add key_event if significant
+- For new patterns (3+ signals or 1 very strong signal about something not in trends): create new trend
+- For trends with no signals in >2 weeks: mark trajectory as "fading"
+- Max {max_trends} total trends (drop fading ones if at limit)
+
+Current trends:
+{current_trends}
+
+Today's signals:
+{today_signals}
+
+Output valid JSON:
+{{
+  "updated_trends": [
+    {{
+      "id": "existing_id_or_new",
+      "name": "trend name in English",
+      "trajectory": "accelerating | stable | decelerating | fading",
+      "signal_count_delta": 2,
+      "new_key_event": "brief description or null"
+    }}
+  ],
+  "new_trends": [
+    {{
+      "name": "trend name",
+      "related_tags": ["tag1", "tag2"],
+      "initial_trajectory": "accelerating | stable"
+    }}
+  ]
+}}
