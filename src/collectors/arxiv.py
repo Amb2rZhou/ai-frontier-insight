@@ -33,12 +33,13 @@ def _fetch_arxiv(categories: List[str], max_results: int = 50,
         sort_by: "submittedDate" or "lastUpdatedDate" or "relevance"
     """
     # Build category query: cat:cs.AI OR cat:cs.CL OR ...
-    cat_query = "+OR+".join(f"cat:{cat}" for cat in categories)
+    # Use spaces (not +) — requests.get(params=) handles URL encoding
+    cat_query = " OR ".join(f"cat:{cat}" for cat in categories)
 
     # Add date filter for last 3 days (Arxiv has submission delays)
-    three_days_ago = (datetime.utcnow() - timedelta(days=3)).strftime("%Y%m%d")
-    today = datetime.utcnow().strftime("%Y%m%d")
-    date_filter = f"+AND+submittedDate:[{three_days_ago}0000+TO+{today}2359]"
+    three_days_ago = (datetime.utcnow() - timedelta(days=3)).strftime("%Y%m%d") + "000000"
+    today = datetime.utcnow().strftime("%Y%m%d") + "235959"
+    date_filter = f" AND submittedDate:[{three_days_ago} TO {today}]"
 
     params = {
         "search_query": cat_query + date_filter,

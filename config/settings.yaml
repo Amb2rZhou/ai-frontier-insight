@@ -5,10 +5,12 @@ timezone: "Asia/Shanghai"
 
 schedule:
   daily:
-    fetch_hour: 7        # CST 07:00 start collecting
-    fetch_minute: 0
     send_hour: 8         # CST 08:00 send daily brief
     send_minute: 0
+    # x-monitor 和采集时间自动推算：
+    # x-monitor = send_hour 前 45 分钟（需同步更新 launchd plist）
+    # 采集 = send_hour 前 30 分钟
+    fetch_offset_minutes: 30   # 采集在发送前多少分钟开始
   weekly:
     day: "sunday"        # Generate on Sunday
     send_hour: 10        # CST 10:00 send weekly report

@@ -1,0 +1,70 @@
+name: Daily Brief
+
+on:
+  schedule:
+    # UTC 00:00 = CST 08:00 (send time)
+    # Collect at CST 07:30 = UTC 23:30 (previous day)
+    - cron: '30 23 * * *'   # collect + analyze
+    - cron: '0 0 * * *'     # send
+  workflow_dispatch:
+    inputs:
+      command:
+        description: 'Command to run'
+        required: true
+        default: 'daily'
+        type: choice
+        options:
+          - daily
+          - send-daily
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0    # Need full history for x-monitor data
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Determine command
+        id: cmd
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "command=${{ inputs.command }}" >> "$GITHUB_OUTPUT"
+          else
+            # Schedule-based: determine from cron time
+            MINUTE=$(date -u +%M)
+            HOUR=$(date -u +%H)
+            if [ "$HOUR" = "23" ]; then
+              echo "command=daily" >> "$GITHUB_OUTPUT"
+            else
+              echo "command=send-daily" >> "$GITHUB_OUTPUT"
+            fi
+          fi
+
+      - name: Run pipeline
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          WEBHOOK_KEY: ${{ secrets.WEBHOOK_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python -m src.main ${{ steps.cmd.outputs.command }}
+
+      - name: Commit drafts and memory
+        if: steps.cmd.outputs.command == 'daily'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add config/drafts/ memory/
+          git diff --cached --quiet && exit 0
+          git commit -m "daily: $(date -u +%Y-%m-%d) drafts + memory update"
+          git push
