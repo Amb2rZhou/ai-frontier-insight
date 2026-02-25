@@ -1,13 +1,14 @@
 # AI Frontier Insight Bot - Data Sources Configuration
-# Edit this file to add/remove data sources
 
+# ═══════════════════════════════════════════════════
+# Twitter / X (via TwitterAPI.io)
+# ═══════════════════════════════════════════════════
 twitter:
   enabled: true
   api_base: "https://api.twitterapi.io/twitter"
   max_tweets_per_account: 20
   accounts:
-    # Tier 1: Must-follow researchers & leaders (higher signal_strength weight)
-    # OpenAI
+    # ── OpenAI Researchers ──
     - username: "sama"
       name: "Sam Altman"
       tier: 1
@@ -16,8 +17,12 @@ twitter:
       name: "Gabor Melis"
       tier: 2
       topics: ["openai", "research"]
+    - username: "maborhilabel"
+      name: "Mark Chen"
+      tier: 2
+      topics: ["openai", "research"]
 
-    # Anthropic
+    # ── Anthropic Researchers ──
     - username: "DarioAmodei"
       name: "Dario Amodei"
       tier: 1
@@ -31,8 +36,8 @@ twitter:
       tier: 2
       topics: ["anthropic", "policy"]
 
-    # Google DeepMind
-    - username: "demaborhk"
+    # ── Google DeepMind ──
+    - username: "demishassabis"
       name: "Demis Hassabis"
       tier: 1
       topics: ["deepmind", "research", "agi"]
@@ -41,11 +46,11 @@ twitter:
       tier: 1
       topics: ["google", "research", "infrastructure"]
 
-    # Independent Researchers
+    # ── Independent Researchers ──
     - username: "karpathy"
       name: "Andrej Karpathy"
       tier: 1
-      topics: ["research", "education", "openai"]
+      topics: ["research", "education", "llm"]
     - username: "ylecun"
       name: "Yann LeCun"
       tier: 1
@@ -53,30 +58,29 @@ twitter:
     - username: "jimfan_"
       name: "Jim Fan"
       tier: 1
-      topics: ["nvidia", "agents", "research"]
-
-    # AI Ecosystem Voices
-    - username: "swyx"
-      name: "Swyx"
-      tier: 2
-      topics: ["ai_engineering", "ecosystem"]
+      topics: ["nvidia", "agents", "embodied_ai"]
     - username: "hardmaru"
       name: "David Ha"
       tier: 2
       topics: ["research", "agents", "world_models"]
+
+    # ── AI Bloggers / Ecosystem Voices ──
+    - username: "swyx"
+      name: "Swyx"
+      tier: 2
+      topics: ["ai_engineering", "ecosystem"]
     - username: "simonw"
       name: "Simon Willison"
       tier: 2
       topics: ["llm_apps", "tooling", "open_source"]
-    - username: "emaborllwut"
-      name: "Emad Mostaque"
-      tier: 3
-      topics: ["stability", "open_source"]
-    - username: "laborhchintel"
+    - username: "laborchintel"
       name: "AI News"
       tier: 3
       topics: ["news", "aggregation"]
 
+# ═══════════════════════════════════════════════════
+# GitHub
+# ═══════════════════════════════════════════════════
 github:
   enabled: true
   trending:
@@ -87,7 +91,7 @@ github:
       - "agents"
       - "deep-learning"
       - "generative-ai"
-    language: ""  # all languages
+    language: ""
     since: "daily"
     max_results: 30
   watch_repos:
@@ -99,68 +103,151 @@ github:
     - "langchain-ai/langgraph"
     - "microsoft/autogen"
     - "crewAIInc/crewAI"
-    # Model serving
+    # Models & Serving
     - "huggingface/transformers"
     - "vllm-project/vllm"
-    # Notable projects
+    - "ollama/ollama"
+    # Notable Projects
     - "All-Hands-AI/OpenHands"
     - "browser-use/browser-use"
     - "Significant-Gravitas/AutoGPT"
 
+# ═══════════════════════════════════════════════════
+# Arxiv
+# ═══════════════════════════════════════════════════
 arxiv:
   enabled: true
   categories:
     - "cs.AI"   # Artificial Intelligence
-    - "cs.CL"   # Computation and Language
+    - "cs.CL"   # Computation and Language (NLP)
     - "cs.LG"   # Machine Learning
     - "cs.CV"   # Computer Vision
     - "cs.MA"   # Multi-Agent Systems
   max_results: 50
   sort_by: "submittedDate"
 
+# ═══════════════════════════════════════════════════
+# HuggingFace
+# ═══════════════════════════════════════════════════
+huggingface:
+  enabled: true
+  trending_models: 15
+  new_models: 10
+  trending_spaces: 10
+
+# ═══════════════════════════════════════════════════
+# RSS Feeds
+# ═══════════════════════════════════════════════════
 rss:
   enabled: true
   feeds:
-    # ML Platforms
+    # ── 英文科技媒体 ──
+    - url: "https://techcrunch.com/feed/"
+      name: "TechCrunch"
+      group: "english_tech_media"
+      enabled: true
+    - url: "https://www.theverge.com/rss/index.xml"
+      name: "The Verge"
+      group: "english_tech_media"
+      enabled: true
+    - url: "https://feeds.arstechnica.com/arstechnica/technology-lab"
+      name: "Ars Technica"
+      group: "english_tech_media"
+      enabled: true
+    - url: "https://www.wired.com/feed/rss"
+      name: "Wired"
+      group: "english_tech_media"
+      enabled: true
+    - url: "https://venturebeat.com/feed/"
+      name: "VentureBeat"
+      group: "english_tech_media"
+      enabled: true
+    - url: "https://www.technologyreview.com/feed/"
+      name: "MIT Technology Review"
+      group: "english_tech_media"
+      enabled: true
+    - url: "https://feeds.feedburner.com/TechCrunch/artificial-intelligence"
+      name: "TechCrunch AI"
+      group: "english_tech_media"
+      enabled: false  # FeedBurner URL returns 404
+
+    # ── AI 公司博客（官方博客）──
+    - url: "https://openai.com/blog/rss.xml"
+      name: "OpenAI Blog"
+      group: "official_blog"
+      enabled: true
+    - url: "https://blog.google/technology/ai/rss/"
+      name: "Google AI Blog"
+      group: "official_blog"
+      enabled: true
+    - url: "https://engineering.fb.com/feed/"
+      name: "Meta Engineering"
+      group: "official_blog"
+      enabled: true
+    - url: "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml"
+      name: "Anthropic Blog"
+      group: "official_blog"
+      enabled: true
+
+    # ── 技术社区 ──
+    - url: "https://hnrss.org/frontpage"
+      name: "Hacker News"
+      group: "tech_community"
+      enabled: true
+    - url: "https://www.reddit.com/r/MachineLearning/.rss"
+      name: "Reddit ML"
+      group: "tech_community"
+      enabled: true
+    - url: "https://www.reddit.com/r/artificial/.rss"
+      name: "Reddit AI"
+      group: "tech_community"
+      enabled: true
+
+    # ── ML 平台 ──
     - url: "https://huggingface.co/blog/feed.xml"
       name: "HuggingFace Blog"
       group: "ml_platform"
       enabled: true
 
-    # AI Safety / Alignment
-    - url: "https://www.lesswrong.com/feed.xml"
-      name: "LessWrong"
+    # ── AI Safety / Alignment ──
+    - url: "https://www.lesswrong.com/feed.xml?view=curated-rss"
+      name: "LessWrong (Curated)"
+      group: "alignment"
+      enabled: true
+    - url: "https://www.alignmentforum.org/feed.xml"
+      name: "Alignment Forum"
       group: "alignment"
       enabled: true
 
-    # Big Tech Blogs
-    - url: "https://blog.google/technology/ai/rss/"
-      name: "Google AI Blog"
-      group: "big_tech"
+    # ── VC / 行业洞察 (a16z) ──
+    # a16z 博客 RSS 已下线（全 404），改用 podcast feeds
+    - url: "https://feeds.simplecast.com/JGE3yC0V"
+      name: "a16z Podcast (The a16z Show)"
+      group: "vc_insight"
       enabled: true
-    - url: "https://openai.com/blog/rss.xml"
-      name: "OpenAI Blog"
-      group: "big_tech"
+    - url: "https://feeds.simplecast.com/j9kKMsfH"
+      name: "a16z 16 Minutes News"
+      group: "vc_insight"
       enabled: true
-    - url: "https://www.anthropic.com/rss.xml"
-      name: "Anthropic Blog"
-      group: "big_tech"
-      enabled: true
-
-    # Research Blogs
-    - url: "https://lilianweng.github.io/index.xml"
-      name: "Lil'Log (Lilian Weng)"
-      group: "research_blog"
-      enabled: true
-
-    # VC / Industry
-    - url: "https://a16z.com/feed/"
-      name: "a16z"
+    - url: "https://feeds.simplecast.com/AuWJKpna"
+      name: "a16z Live"
       group: "vc_insight"
       enabled: true
 
-    # Chinese AI Media
-    - url: "https://www.jiqizhixin.com/rss"
-      name: "机器之心"
-      group: "chinese_ai"
+    # ── 中文播客 / 自媒体 ──
+    - url: "https://feeds.fireside.fm/sv101/rss"
+      name: "硅谷101"
+      group: "chinese_podcast"
+      enabled: true
+    - url: "https://feed.xyzfm.space/ym6ug8jctfp8"
+      name: "海外独角兽"
+      group: "chinese_podcast"
+      enabled: true
+    # 注：海外独角兽公众号文章暂无稳定 RSS，此为其小宇宙播客 feed（via Apple Podcasts）
+    # 内容为 AI 深度访谈（DeepSeek、Agent、AI Scientist 等主题）
+
+    # ── 研究博客 ──
+    - url: "https://lilianweng.github.io/index.xml"
+      name: "Lil'Log (Lilian Weng)"
+      group: "research_blog"
       enabled: true

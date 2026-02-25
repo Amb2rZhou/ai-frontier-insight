@@ -1,0 +1,637 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI Frontier Insight - System Architecture</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { background: #0d1117; color: #c9d1d9; font-family: -apple-system, 'SF Pro Display', 'Helvetica Neue', sans-serif; overflow-x: auto; }
+
+  .canvas { width: 1700px; min-height: 2200px; margin: 0 auto; padding: 40px; position: relative; }
+
+  /* ===== HEADER ===== */
+  .header { text-align: center; margin-bottom: 40px; padding: 32px 40px; background: linear-gradient(135deg, #161b22 0%, #1a1f2e 100%); border: 1px solid #30363d; border-radius: 16px; }
+  .header h1 { font-size: 28px; color: #f0f6fc; letter-spacing: 1px; margin-bottom: 8px; }
+  .header .subtitle { font-size: 15px; color: #8b949e; margin-bottom: 24px; }
+
+  .value-chain { display: flex; align-items: center; justify-content: center; gap: 0; margin-bottom: 20px; }
+  .vc-node { padding: 10px 28px; font-size: 16px; font-weight: 700; border-radius: 8px; position: relative; }
+  .vc-source { background: #1a3a2a; color: #3fb950; border: 1px solid #238636; }
+  .vc-signal { background: #1a2a3a; color: #58a6ff; border: 1px solid #1f6feb; }
+  .vc-insight { background: #2a1a3a; color: #bc8cff; border: 1px solid #8957e5; }
+  .vc-implication { background: #3a2a1a; color: #f0883e; border: 1px solid #d18616; }
+  .vc-arrow { font-size: 24px; color: #484f58; margin: 0 4px; }
+
+  .advantages { display: flex; justify-content: center; gap: 24px; margin-top: 16px; }
+  .adv-badge { padding: 6px 18px; font-size: 12px; border-radius: 20px; border: 1px solid #30363d; color: #8b949e; background: #161b22; }
+
+  .levels { display: flex; justify-content: center; gap: 40px; margin-top: 14px; }
+  .level-tag { font-size: 13px; padding: 4px 14px; border-radius: 6px; }
+  .level-1 { background: #0d2847; color: #58a6ff; border: 1px solid #1f6feb; }
+  .level-2 { background: #271a3a; color: #bc8cff; border: 1px solid #8957e5; }
+
+  /* ===== MAIN LAYOUT ===== */
+  .main { display: flex; gap: 20px; margin-bottom: 30px; }
+
+  /* ===== SOURCES COLUMN ===== */
+  .sources-col { width: 320px; flex-shrink: 0; }
+  .col-title { font-size: 11px; text-transform: uppercase; letter-spacing: 2px; color: #484f58; margin-bottom: 12px; padding-left: 8px; }
+
+  .source-card { background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 14px 16px; margin-bottom: 10px; position: relative; }
+  .source-card::before { content: ''; position: absolute; left: 0; top: 12px; bottom: 12px; width: 3px; border-radius: 2px; }
+  .source-card.twitter::before { background: #1d9bf0; }
+  .source-card.github::before { background: #8b949e; }
+  .source-card.arxiv::before { background: #b31b1b; }
+  .source-card.hf::before { background: #ff9d00; }
+  .source-card.rss::before { background: #3fb950; }
+
+  .source-header { display: flex; align-items: center; gap: 8px; margin-bottom: 6px; }
+  .source-icon { font-size: 18px; }
+  .source-name { font-size: 14px; font-weight: 600; color: #f0f6fc; }
+  .source-api { font-size: 11px; color: #8b949e; margin-left: auto; background: #21262d; padding: 2px 8px; border-radius: 4px; }
+  .source-detail { font-size: 11px; color: #6e7681; line-height: 1.6; padding-left: 26px; }
+  .source-tags { display: flex; flex-wrap: wrap; gap: 4px; padding-left: 26px; margin-top: 6px; }
+  .source-tag { font-size: 10px; padding: 2px 6px; border-radius: 3px; background: #21262d; color: #8b949e; }
+
+  /* ===== PROCESSING COLUMN ===== */
+  .process-col { flex: 1; }
+
+  .collector-box { background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 18px 20px; margin-bottom: 16px; text-align: center; }
+  .collector-box .label { font-size: 14px; font-weight: 600; color: #f0f6fc; }
+  .collector-box .sub { font-size: 11px; color: #6e7681; margin-top: 4px; }
+  .funnel-label { text-align: center; font-size: 20px; color: #484f58; margin: 4px 0; }
+
+  .analysis-pipeline { background: #0d1925; border: 1px solid #1f3a5f; border-radius: 16px; padding: 20px; margin-bottom: 16px; }
+  .analysis-title { font-size: 11px; text-transform: uppercase; letter-spacing: 2px; color: #1f6feb; margin-bottom: 16px; }
+
+  .stage { border-radius: 10px; padding: 14px 16px; margin-bottom: 12px; position: relative; }
+  .stage:last-child { margin-bottom: 0; }
+  .stage-header { display: flex; align-items: center; gap: 8px; margin-bottom: 6px; }
+  .stage-num { font-size: 10px; font-weight: 700; width: 20px; height: 20px; border-radius: 50%; display: flex; align-items: center; justify-content: center; }
+  .stage-name { font-size: 13px; font-weight: 600; color: #f0f6fc; }
+  .stage-model { font-size: 10px; margin-left: auto; padding: 2px 8px; border-radius: 4px; font-weight: 600; }
+  .model-haiku { background: #1a3a2a; color: #3fb950; border: 1px solid #238636; }
+  .model-sonnet { background: #1a2a3a; color: #58a6ff; border: 1px solid #1f6feb; }
+  .stage-detail { font-size: 11px; color: #8b949e; line-height: 1.5; padding-left: 28px; }
+  .stage-io { display: flex; justify-content: space-between; padding-left: 28px; margin-top: 6px; }
+  .stage-io span { font-size: 10px; padding: 2px 8px; border-radius: 4px; }
+  .io-in { background: #21262d; color: #8b949e; }
+  .io-out { background: #1a2a1a; color: #3fb950; }
+
+  .stage-1 { background: #111d2e; border: 1px solid #1a3050; }
+  .stage-1 .stage-num { background: #1f6feb; color: #fff; }
+  .stage-2 { background: #151530; border: 1px solid #2a2050; }
+  .stage-2 .stage-num { background: #8957e5; color: #fff; }
+  .stage-3 { background: #1a1528; border: 1px solid #302050; }
+  .stage-3 .stage-num { background: #a371f7; color: #fff; }
+  .stage-4 { background: #0d1f1f; border: 1px solid #1a3535; }
+  .stage-4 .stage-num { background: #2ea043; color: #fff; }
+
+  .flow-arrow { text-align: center; font-size: 16px; color: #484f58; margin: 6px 0; }
+  .flow-arrow.down::after { content: '▼'; }
+
+  /* ===== MEMORY COLUMN ===== */
+  .memory-col { width: 240px; flex-shrink: 0; }
+  .memory-box { background: linear-gradient(135deg, #1a1a10, #1f1a10); border: 1px solid #504010; border-radius: 16px; padding: 20px; }
+  .memory-title { font-size: 11px; text-transform: uppercase; letter-spacing: 2px; color: #d29922; margin-bottom: 16px; }
+
+  .mem-file { background: #21200d; border: 1px solid #40380d; border-radius: 10px; padding: 12px 14px; margin-bottom: 10px; }
+  .mem-file:last-child { margin-bottom: 0; }
+  .mem-file-name { font-size: 12px; font-weight: 600; color: #e3b341; font-family: 'SF Mono', Monaco, monospace; margin-bottom: 4px; }
+  .mem-file-desc { font-size: 11px; color: #8b8060; line-height: 1.5; }
+  .mem-arrows { font-size: 10px; color: #6e6030; margin-top: 6px; }
+  .mem-arrows span { display: block; }
+  .arrow-in { color: #3fb950; }
+  .arrow-out { color: #58a6ff; }
+  .arrow-bi { color: #d29922; }
+
+  /* ===== OUTPUT COLUMN ===== */
+  .output-col { width: 280px; flex-shrink: 0; }
+
+  .output-card { background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 16px; margin-bottom: 12px; }
+  .output-label { font-size: 11px; text-transform: uppercase; letter-spacing: 2px; color: #da3633; margin-bottom: 10px; }
+
+  .daily-format { font-family: 'SF Mono', Monaco, monospace; font-size: 10px; line-height: 1.8; color: #6e7681; background: #0d1117; border-radius: 8px; padding: 12px; }
+  .daily-format .f-title { color: #f0f6fc; font-weight: 700; }
+  .daily-format .f-cat { color: #58a6ff; }
+  .daily-format .f-signal { color: #c9d1d9; }
+  .daily-format .f-insight { color: #3fb950; }
+  .daily-format .f-impl { color: #f0883e; }
+  .daily-format .f-trend { color: #bc8cff; }
+
+  .strength-legend { display: flex; gap: 12px; margin-top: 8px; font-size: 10px; color: #6e7681; }
+  .strength-legend span { display: flex; align-items: center; gap: 4px; }
+
+  .webhook-box { background: #1a0d0d; border: 1px solid #5a1a1a; border-radius: 12px; padding: 14px 16px; text-align: center; }
+  .webhook-box .wh-title { font-size: 13px; font-weight: 600; color: #f85149; }
+  .webhook-box .wh-url { font-size: 10px; color: #6e7681; font-family: 'SF Mono', Monaco, monospace; margin-top: 4px; }
+  .webhook-box .wh-detail { font-size: 10px; color: #484f58; margin-top: 4px; }
+
+  .chat-endpoint { text-align: center; padding: 14px; border: 2px dashed #30363d; border-radius: 12px; margin-top: 12px; }
+  .chat-endpoint .chat-icon { font-size: 28px; }
+  .chat-endpoint .chat-label { font-size: 12px; color: #8b949e; margin-top: 4px; }
+
+  /* ===== PIPELINE 2: WEEKLY ===== */
+  .weekly-section { margin-top: 30px; }
+  .weekly-title-bar { display: flex; align-items: center; gap: 12px; margin-bottom: 16px; }
+  .weekly-title-bar h2 { font-size: 16px; color: #bc8cff; }
+  .weekly-title-bar .divider { flex: 1; height: 1px; background: #30363d; }
+
+  .weekly-flow { display: flex; gap: 20px; align-items: stretch; }
+
+  .weekly-input { width: 240px; flex-shrink: 0; }
+  .weekly-input-card { background: linear-gradient(135deg, #1a1a10, #1f1a10); border: 1px solid #504010; border-radius: 12px; padding: 14px; }
+  .weekly-input-label { font-size: 11px; text-transform: uppercase; letter-spacing: 2px; color: #d29922; margin-bottom: 10px; }
+  .weekly-input-item { font-size: 11px; color: #b08a20; padding: 4px 0; border-bottom: 1px solid #302510; display: flex; align-items: center; gap: 6px; }
+  .weekly-input-item:last-child { border-bottom: none; }
+  .wi-icon { font-size: 14px; }
+
+  .weekly-process { flex: 1; }
+
+  .theme-selector { background: #1a1530; border: 1px solid #302050; border-radius: 12px; padding: 16px; margin-bottom: 12px; }
+  .theme-title { font-size: 12px; font-weight: 600; color: #bc8cff; margin-bottom: 10px; }
+  .theme-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+  .theme-card { background: #150d25; border: 1px solid #30204a; border-radius: 8px; padding: 10px 12px; }
+  .theme-card.active { border-color: #8957e5; background: #1a1040; }
+  .theme-num { font-size: 10px; color: #6e5a90; font-weight: 700; }
+  .theme-name { font-size: 12px; color: #d2a8ff; font-weight: 600; margin-top: 2px; }
+  .theme-examples { font-size: 10px; color: #6e5a90; margin-top: 4px; line-height: 1.4; }
+
+  .claw-box { background: linear-gradient(135deg, #1a1040, #251050); border: 1px solid #4a2080; border-radius: 12px; padding: 16px; margin-bottom: 12px; }
+  .claw-header { display: flex; align-items: center; gap: 8px; margin-bottom: 10px; }
+  .claw-logo { font-size: 22px; }
+  .claw-name { font-size: 15px; font-weight: 700; color: #d2a8ff; }
+  .claw-sub { font-size: 11px; color: #8b70b0; }
+  .claw-outputs { font-size: 11px; color: #8b70b0; line-height: 1.8; }
+  .claw-outputs .out-item { padding-left: 12px; }
+  .claw-outputs .out-item::before { content: '→ '; color: #8957e5; }
+
+  .weekly-output { width: 320px; flex-shrink: 0; }
+
+  .redoc-card { background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 16px; margin-bottom: 12px; }
+  .redoc-title { font-size: 11px; text-transform: uppercase; letter-spacing: 2px; color: #bc8cff; margin-bottom: 10px; }
+  .redoc-format { font-family: 'SF Mono', Monaco, monospace; font-size: 10px; line-height: 1.9; color: #6e7681; background: #0d1117; border-radius: 8px; padding: 12px; }
+  .redoc-format .rf-h1 { color: #d2a8ff; font-weight: 700; font-size: 12px; }
+  .redoc-format .rf-h2 { color: #a371f7; font-weight: 600; }
+  .redoc-format .rf-meta { color: #8b949e; }
+  .redoc-format .rf-sub { color: #6e7681; padding-left: 12px; }
+  .redoc-format .rf-audience { color: #f0883e; padding-left: 16px; }
+
+  /* ===== FOOTER ===== */
+  .footer { margin-top: 30px; background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 20px 28px; }
+  .footer-title { font-size: 11px; text-transform: uppercase; letter-spacing: 2px; color: #484f58; margin-bottom: 14px; }
+  .footer-row { display: flex; gap: 16px; flex-wrap: wrap; }
+  .footer-item { background: #21262d; border-radius: 8px; padding: 10px 16px; flex: 1; min-width: 180px; }
+  .footer-item .fi-label { font-size: 10px; color: #484f58; text-transform: uppercase; letter-spacing: 1px; }
+  .footer-item .fi-value { font-size: 12px; color: #c9d1d9; margin-top: 4px; }
+  .footer-item .fi-detail { font-size: 10px; color: #6e7681; margin-top: 2px; }
+
+  /* ===== FLOW CONNECTORS (CSS arrows between columns) ===== */
+  .horiz-arrow { display: flex; align-items: center; color: #484f58; font-size: 11px; padding: 0 4px; }
+  .horiz-arrow::before { content: ''; flex: 1; height: 1px; background: #30363d; margin-right: 6px; }
+  .horiz-arrow::after { content: '▶'; }
+
+  .section-arrow { text-align: center; font-size: 18px; color: #30363d; margin: 8px 0; }
+
+  /* ===== PIPELINE LABELS ===== */
+  .pipeline-label { writing-mode: vertical-lr; text-orientation: mixed; font-size: 11px; letter-spacing: 3px; text-transform: uppercase; padding: 20px 6px; border-radius: 8px; display: flex; align-items: center; justify-content: center; flex-shrink: 0; }
+  .pl-daily { background: #0d1925; color: #1f6feb; border: 1px solid #1f3a5f; }
+  .pl-weekly { background: #1a1040; color: #8957e5; border: 1px solid #302060; }
+
+  /* ===== VOLUME FLOW ===== */
+  .volume-strip { display: flex; align-items: center; justify-content: center; gap: 0; margin: 20px 0; padding: 10px; background: #161b22; border-radius: 10px; border: 1px solid #21262d; }
+  .vol-node { padding: 6px 14px; font-size: 11px; border-radius: 6px; }
+  .vol-arrow { color: #30363d; margin: 0 2px; font-size: 14px; }
+  .vol-src { background: #1a3a2a; color: #3fb950; }
+  .vol-raw { background: #1a2a3a; color: #58a6ff; }
+  .vol-sig { background: #2a1a3a; color: #bc8cff; }
+  .vol-ins { background: #3a2a1a; color: #f0883e; }
+  .vol-out { background: #3a1a1a; color: #f85149; }
+</style>
+</head>
+<body>
+<div class="canvas">
+
+<!-- ==================== HEADER ==================== -->
+<div class="header">
+  <h1>AI Frontier Insight System</h1>
+  <div class="subtitle">面向 AI 从业者与决策者的前沿情报与深度洞察系统</div>
+
+  <div class="value-chain">
+    <div class="vc-node vc-source">Source</div>
+    <span class="vc-arrow">→</span>
+    <div class="vc-node vc-signal">Signal</div>
+    <span class="vc-arrow">→</span>
+    <div class="vc-node vc-insight">Insight</div>
+    <span class="vc-arrow">→</span>
+    <div class="vc-node vc-implication">Implication</div>
+  </div>
+
+  <div class="advantages">
+    <div class="adv-badge">Information Advantage 信息优势</div>
+    <div class="adv-badge">Insight Advantage 认知优势</div>
+    <div class="adv-badge">Strategic Advantage 决策优势</div>
+  </div>
+
+  <div class="levels">
+    <span class="level-tag level-1">Level 1 · Daily Frontier Brief · 每日前沿信号</span>
+    <span class="level-tag level-2">Level 2 · Weekly Deep Insight · 每周深度洞察</span>
+  </div>
+</div>
+
+<!-- ==================== VOLUME FLOW ==================== -->
+<div class="volume-strip">
+  <span class="vol-node vol-src">5 Sources</span>
+  <span class="vol-arrow">→</span>
+  <span class="vol-node vol-raw">300-500 Raw Items</span>
+  <span class="vol-arrow">→</span>
+  <span class="vol-node vol-sig">15-20 Signals</span>
+  <span class="vol-arrow">→</span>
+  <span class="vol-node vol-ins">8-10 Insights</span>
+  <span class="vol-arrow">→</span>
+  <span class="vol-node vol-out">1 Daily Brief</span>
+</div>
+
+<!-- ==================== PIPELINE 1: DAILY ==================== -->
+<div style="display: flex; gap: 0; align-items: stretch;">
+  <div class="pipeline-label pl-daily">PIPELINE 1 · DAILY BRIEF</div>
+
+  <div class="main" style="flex: 1; padding-left: 12px;">
+
+  <!-- ===== SOURCES ===== -->
+  <div class="sources-col">
+    <div class="col-title">Data Sources 数据源</div>
+
+    <div class="source-card twitter">
+      <div class="source-header">
+        <span class="source-icon">𝕏</span>
+        <span class="source-name">Twitter / X</span>
+        <span class="source-api">TwitterAPI.io</span>
+      </div>
+      <div class="source-detail">15 accounts · $0.15/1K tweets<br>OpenAI (3) · Anthropic (3) · DeepMind (2)<br>Independent (4) · AI Bloggers (3)</div>
+      <div class="source-tags">
+        <span class="source-tag">@sama</span>
+        <span class="source-tag">@DarioAmodei</span>
+        <span class="source-tag">@karpathy</span>
+        <span class="source-tag">@ylecun</span>
+        <span class="source-tag">@demishassabis</span>
+        <span class="source-tag">+10</span>
+      </div>
+    </div>
+
+    <div class="source-card github">
+      <div class="source-header">
+        <span class="source-icon">⬡</span>
+        <span class="source-name">GitHub</span>
+        <span class="source-api">REST API</span>
+      </div>
+      <div class="source-detail">
+        <b>Search API</b> — Trending repos by topic<br>
+        <b>Releases API</b> — 12 watched repos
+      </div>
+      <div class="source-tags">
+        <span class="source-tag">Trending Repos</span>
+        <span class="source-tag">New Models</span>
+        <span class="source-tag">New Frameworks</span>
+        <span class="source-tag">Releases</span>
+      </div>
+    </div>
+
+    <div class="source-card arxiv">
+      <div class="source-header">
+        <span class="source-icon">📄</span>
+        <span class="source-name">Arxiv</span>
+        <span class="source-api">API + RSS</span>
+      </div>
+      <div class="source-detail">5 categories · max 50/day<br>cs.AI · cs.CL · cs.LG · cs.CV · cs.MA</div>
+    </div>
+
+    <div class="source-card hf">
+      <div class="source-header">
+        <span class="source-icon">🤗</span>
+        <span class="source-name">HuggingFace</span>
+        <span class="source-api">HF REST API</span>
+      </div>
+      <div class="source-detail">Trending Models (15) · New Models (10)<br>Trending Spaces (10)</div>
+    </div>
+
+    <div class="source-card rss">
+      <div class="source-header">
+        <span class="source-icon">📡</span>
+        <span class="source-name">RSS Feeds</span>
+        <span class="source-api">21 feeds</span>
+      </div>
+      <div class="source-detail" style="padding-left: 26px;">
+        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 2px 12px; font-size: 10px;">
+          <span>Tech Media (6)</span><span>Official Blogs (4)</span>
+          <span>Tech Community (3)</span><span>ML Platform (1)</span>
+          <span>Alignment (2)</span><span>VC / a16z (3)</span>
+          <span>中文播客 (2)</span><span>Research Blog (1)</span>
+        </div>
+      </div>
+      <div class="source-tags">
+        <span class="source-tag">TechCrunch</span>
+        <span class="source-tag">HN</span>
+        <span class="source-tag">LessWrong</span>
+        <span class="source-tag">OpenAI Blog</span>
+        <span class="source-tag">硅谷101</span>
+        <span class="source-tag">海外独角兽</span>
+        <span class="source-tag">+15</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===== COLLECTION + ANALYSIS ===== -->
+  <div class="process-col">
+    <div class="col-title">Collection & Analysis 采集与分析</div>
+
+    <div class="collector-box">
+      <div class="label">Collectors → RawItem</div>
+      <div class="sub">5 collectors in parallel · ThreadPoolExecutor · unified dataclass</div>
+      <div class="sub" style="margin-top: 4px; font-family: 'SF Mono', Monaco, monospace; font-size: 10px; color: #484f58;">{title, content, source_type, source_name, url, published, metadata}</div>
+    </div>
+
+    <div class="section-arrow">▼</div>
+
+    <div class="analysis-pipeline">
+      <div class="analysis-title">AI Analysis Engine</div>
+
+      <div class="stage stage-1">
+        <div class="stage-header">
+          <span class="stage-num">1</span>
+          <span class="stage-name">Signal Extraction 信号提取</span>
+          <span class="stage-model model-haiku">Haiku $</span>
+        </div>
+        <div class="stage-detail">Merge · Deduplicate · Rank by significance<br>Novelty assessment against known trends</div>
+        <div class="stage-io">
+          <span class="io-in">IN: 300-500 raw items</span>
+          <span class="io-out">OUT: 15-20 signals</span>
+        </div>
+      </div>
+
+      <div class="flow-arrow down"></div>
+
+      <div class="stage stage-2">
+        <div class="stage-header">
+          <span class="stage-num">2</span>
+          <span class="stage-name">Insight Generation 洞察生成</span>
+          <span class="stage-model model-sonnet">Sonnet 🧠</span>
+        </div>
+        <div class="stage-detail">Signal → Insight → Implication per signal<br>Context: trend trajectories + past predictions</div>
+        <div class="stage-io">
+          <span class="io-in">IN: top 8-10 signals</span>
+          <span class="io-out">OUT: enriched insights</span>
+        </div>
+      </div>
+
+      <div class="flow-arrow down"></div>
+
+      <div class="stage stage-3">
+        <div class="stage-header">
+          <span class="stage-num">3</span>
+          <span class="stage-name">Trend Summary 趋势总结</span>
+          <span class="stage-model model-sonnet">Sonnet 🧠</span>
+        </div>
+        <div class="stage-detail">Cross-source pattern recognition<br>Identifying unarticulated patterns</div>
+      </div>
+
+      <div class="flow-arrow down"></div>
+
+      <div class="stage stage-4">
+        <div class="stage-header">
+          <span class="stage-num">4</span>
+          <span class="stage-name">Trend Update 趋势更新</span>
+          <span class="stage-model model-haiku">Haiku $</span>
+        </div>
+        <div class="stage-detail">Update trajectories: accelerating → stable → decelerating → fading<br>Create new trends · Max 50 concurrent</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===== MEMORY ===== -->
+  <div class="memory-col">
+    <div class="col-title">Memory 记忆系统</div>
+    <div class="memory-box">
+      <div class="memory-title">Persistent State</div>
+
+      <div class="mem-file">
+        <div class="mem-file-name">weekly_signals.json</div>
+        <div class="mem-file-desc">Accumulates daily signals<br>Auto-archive on week boundary<br>12 weeks retention</div>
+        <div class="mem-arrows">
+          <span class="arrow-in">← Signal Extraction writes</span>
+          <span class="arrow-out">→ Weekly pipeline reads</span>
+        </div>
+      </div>
+
+      <div class="mem-file">
+        <div class="mem-file-name">trends.json</div>
+        <div class="mem-file-desc">Long-term trend tracking<br>Max 50 concurrent trends<br>trajectory · signal_count · key_events</div>
+        <div class="mem-arrows">
+          <span class="arrow-bi">↔ Trend Update reads/writes</span>
+          <span class="arrow-out">→ Signal & Insight context</span>
+        </div>
+      </div>
+
+      <div class="mem-file">
+        <div class="mem-file-name">history_insights.json</div>
+        <div class="mem-file-desc">Past predictions stored<br>For self-correction loop<br>Last 100 predictions retained</div>
+        <div class="mem-arrows">
+          <span class="arrow-in">← Insight Gen saves predictions</span>
+          <span class="arrow-out">→ Weekly self-correction</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===== OUTPUT ===== -->
+  <div class="output-col">
+    <div class="col-title">Output 输出</div>
+
+    <div class="output-card">
+      <div class="output-label">Daily Brief Format</div>
+      <div class="daily-format">
+        <div class="f-title"># AI Frontier Brief 2026-02-25</div>
+        <div class="f-cat">───────────────</div>
+        <div class="f-cat">## 🚀 Model Release</div>
+        <div class="f-signal">🔴 <b>Claude 4.5 Sonnet Released</b></div>
+        <div class="f-signal">&gt; Signal: Anthropic 发布 Claude 4.5...</div>
+        <div class="f-insight">&gt; 💡 Insight: 为什么重要...</div>
+        <div class="f-impl">&gt; → Implication: 接下来会...</div>
+        <div class="f-cat">───────────────</div>
+        <div class="f-trend">## 📊 Trend Observation</div>
+        <div class="f-trend">跨源趋势观察段落...</div>
+      </div>
+      <div class="strength-legend">
+        <span>🔴 &ge; 0.8 Critical</span>
+        <span>🟡 &ge; 0.6 Notable</span>
+        <span>🟢 &lt; 0.6 Signal</span>
+      </div>
+    </div>
+
+    <div class="section-arrow">▼</div>
+
+    <div class="webhook-box">
+      <div class="wh-title">RedCity Webhook</div>
+      <div class="wh-url">POST /api/robot/webhook/send</div>
+      <div class="wh-detail">msgtype: markdown · @all<br>Auto-retry with truncation</div>
+    </div>
+
+    <div class="section-arrow">▼</div>
+
+    <div class="chat-endpoint">
+      <div class="chat-icon">💬</div>
+      <div class="chat-label">Group Chat · 每日 08:00 CST</div>
+    </div>
+  </div>
+
+  </div><!-- /main -->
+</div><!-- /pipeline 1 wrapper -->
+
+<!-- ==================== PIPELINE 2: WEEKLY ==================== -->
+<div class="weekly-section">
+  <div class="weekly-title-bar">
+    <div class="pipeline-label pl-weekly" style="writing-mode: horizontal-tb; padding: 6px 16px;">PIPELINE 2</div>
+    <h2>Weekly Deep Insight · 每周深度洞察</h2>
+    <div class="divider"></div>
+  </div>
+
+  <div class="weekly-flow">
+
+    <!-- Weekly Input -->
+    <div class="weekly-input">
+      <div class="weekly-input-card">
+        <div class="weekly-input-label">Input 输入</div>
+        <div class="weekly-input-item"><span class="wi-icon">📋</span> 本周 5-7 份 Daily Briefs</div>
+        <div class="weekly-input-item"><span class="wi-icon">📊</span> trends.json 趋势数据库</div>
+        <div class="weekly-input-item"><span class="wi-icon">🔮</span> history_insights.json 历史预判</div>
+        <div class="weekly-input-item"><span class="wi-icon">📡</span> 本周所有 raw signals</div>
+      </div>
+      <div style="text-align: center; font-size: 18px; color: #30363d; margin-top: 10px;">▼</div>
+      <div style="text-align: center; font-size: 10px; color: #6e7681;">From Memory System</div>
+    </div>
+
+    <!-- Weekly Processing -->
+    <div class="weekly-process">
+      <div class="theme-selector">
+        <div class="theme-title">Theme Selection 主题轮换（按周轮转）</div>
+        <div class="theme-grid">
+          <div class="theme-card">
+            <div class="theme-num">TYPE 1</div>
+            <div class="theme-name">Research Insight</div>
+            <div class="theme-examples">Key papers: Memory, Agents, Multimodal<br>→ Key Idea · Breakthrough · Impact</div>
+          </div>
+          <div class="theme-card active">
+            <div class="theme-num">TYPE 2</div>
+            <div class="theme-name">Technology Trend</div>
+            <div class="theme-examples">Agent · Coding Agents · Local AI<br>→ Adoption curve · Infrastructure</div>
+          </div>
+          <div class="theme-card">
+            <div class="theme-num">TYPE 3</div>
+            <div class="theme-name">Company Strategy</div>
+            <div class="theme-examples">OpenAI shift · Anthropic roadmap<br>→ Google direction · Meta open-source</div>
+          </div>
+          <div class="theme-card">
+            <div class="theme-num">TYPE 4</div>
+            <div class="theme-name">Meta Insight</div>
+            <div class="theme-examples">AI stack evolution · Self-correction<br>→ Where the industry is heading</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="section-arrow">▼</div>
+
+      <div class="claw-box">
+        <div class="claw-header">
+          <span class="claw-logo">🦞</span>
+          <div>
+            <div class="claw-name">CodeWiz Claw</div>
+            <div class="claw-sub">Deep Analysis Engine · Claude Sonnet (max_tokens=8192)</div>
+          </div>
+        </div>
+        <div class="claw-outputs">
+          <div class="out-item">Digest all daily briefs from the week</div>
+          <div class="out-item">Apply theme-specific analysis prompts</div>
+          <div class="out-item">Cross-reference trend trajectories</div>
+          <div class="out-item">Self-correct past predictions</div>
+          <div class="out-item">Generate structured deep report</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Weekly Output -->
+    <div class="weekly-output">
+      <div class="redoc-card">
+        <div class="redoc-title">REDoc Document Format</div>
+        <div class="redoc-format">
+          <div class="rf-h1">AI Frontier Weekly Insight</div>
+          <div class="rf-meta">主题: Technology Trend · W09 2026</div>
+          <div style="height: 6px;"></div>
+          <div class="rf-h2">1. Executive Summary</div>
+          <div class="rf-sub">核心结论 · 一句话概括</div>
+          <div class="rf-h2">2. Key Developments</div>
+          <div class="rf-sub">重要进展 · 事实罗列</div>
+          <div class="rf-h2">3. Deep Insight</div>
+          <div class="rf-sub">Why this matters</div>
+          <div class="rf-sub">What changes</div>
+          <div class="rf-sub">What comes next</div>
+          <div class="rf-h2">4. Strategic Implications</div>
+          <div class="rf-audience">For Builders →</div>
+          <div class="rf-audience">For Investors →</div>
+          <div class="rf-audience">For Companies →</div>
+        </div>
+      </div>
+
+      <div class="section-arrow">▼</div>
+
+      <div class="webhook-box">
+        <div class="wh-title">RedCity Webhook</div>
+        <div class="wh-url">Summary + REDoc Link</div>
+      </div>
+
+      <div class="section-arrow">▼</div>
+
+      <div class="chat-endpoint">
+        <div class="chat-icon">💬</div>
+        <div class="chat-label">Group Chat · 每周日 10:00 CST</div>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<!-- ==================== FOOTER: INFRASTRUCTURE ==================== -->
+<div class="footer">
+  <div class="footer-title">Infrastructure 基础设施</div>
+  <div class="footer-row">
+    <div class="footer-item">
+      <div class="fi-label">Scheduling</div>
+      <div class="fi-value">GitHub Actions</div>
+      <div class="fi-detail">Daily: 07:00 collect → 08:00 send<br>Weekly: Sunday 10:00</div>
+    </div>
+    <div class="footer-item">
+      <div class="fi-label">AI Models</div>
+      <div class="fi-value">Claude Sonnet 4 + Haiku 4.5</div>
+      <div class="fi-detail">Sonnet: deep analysis (primary)<br>Haiku: filtering (cost-efficient, fallback)</div>
+    </div>
+    <div class="footer-item">
+      <div class="fi-label">Stack</div>
+      <div class="fi-value">Python · YAML · JSON</div>
+      <div class="fi-detail">Config: YAML (no Admin UI)<br>Memory: JSON (git-committed)</div>
+    </div>
+    <div class="footer-item">
+      <div class="fi-label">Delivery</div>
+      <div class="fi-value">RedCity Webhook + REDoc</div>
+      <div class="fi-detail">Daily → webhook markdown<br>Weekly → REDoc doc + link</div>
+    </div>
+    <div class="footer-item">
+      <div class="fi-label">Cost</div>
+      <div class="fi-value">~$9.3 / month</div>
+      <div class="fi-detail">Twitter: $4.5 · Sonnet: $4.5<br>Haiku: $0.3 · Others: $0</div>
+    </div>
+  </div>
+</div>
+
+</div><!-- /canvas -->
+</body>
+</html>
