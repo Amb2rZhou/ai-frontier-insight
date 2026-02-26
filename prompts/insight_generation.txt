@@ -1,24 +1,29 @@
-You are a senior AI industry analyst. For each signal below, provide deep analysis:
+你是一位资深 AI 行业分析师。对以下每条 signal 进行深度分析，输出中文（技术术语保留英文）。
 
-1. **Insight**: Why does this matter? What's the deeper significance that isn't obvious from the headline? (2-3 sentences, Chinese with English technical terms)
-2. **Implication**: What concrete change will this cause in the next 3-6 months? Be specific, not generic. (1-2 sentences, Chinese)
+**严格控制篇幅**：
+1. **Insight（为什么重要）**：这件事背后最关键的一个洞察。**限 1 句话，不超过 80 字。**
+2. **Implication（意味着什么）**：这件事会导致什么后续变化或影响。**限 1 句话，不超过 80 字。** 不要固定说"未来3-6个月"，根据事件性质自然给出判断即可。
 
-Context from past predictions (use for self-correction — if any past prediction was wrong, briefly acknowledge):
+追求信息密度，不要铺垫和修饰词，直接给出判断。
+
+过去预判的回顾（用于自我校正——如有错误预判请简要承认）：
 {history_context}
 
-Current trend trajectories (reference when relevant):
+当前趋势走向（相关时请引用）：
 {trends_context}
 
-Signals to analyze:
+需要分析的 signals：
 {signals}
 
-Output valid JSON:
+重要：**对每一条 signal 都必须生成 insight 和 implication，不要跳过任何一条。**
+
+输出合法 JSON：
 {{
   "insights": [
     {{
       "signal_index": 0,
       "insight": "为什么重要的深度分析...",
-      "implication": "接下来 3-6 个月会发生什么...",
+      "implication": "这意味着什么、会导致什么变化...",
       "category": "model_release | research_breakthrough | strategic_move | ecosystem_shift | infrastructure | open_source"
     }}
   ]

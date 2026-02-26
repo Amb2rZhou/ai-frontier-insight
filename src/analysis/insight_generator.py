@@ -31,8 +31,9 @@ def generate_insights(signals: List[Dict]) -> Optional[List[Dict]]:
     settings = load_settings()
     max_insights = settings.get("analysis", {}).get("daily_max_insights", 8)
 
-    # Use only top signals for insight generation (cost control)
+    # Use all signals for insight generation (prompt asks to cover every signal)
     top_signals = signals[:max_insights]
+    print(f"  Insight generation: {len(top_signals)} signals")
 
     # Build context
     recent_predictions = get_recent_predictions(weeks=4)
@@ -103,7 +104,6 @@ def generate_insights(signals: List[Dict]) -> Optional[List[Dict]]:
                     "prediction_text": signal["implication"],
                     "category": signal.get("category", ""),
                     "source_signal": signal.get("title", ""),
-                    "timeframe": "3-6 months",
                 })
 
     print(f"  Generated {len(enriched)} insights")
@@ -151,7 +151,7 @@ def generate_trend_summary(signals: List[Dict]) -> str:
         trends_summary=trends_summary,
     )
 
-    response = call_ai(prompt, "trend_summary", use_sonnet=True, max_tokens=1024)
+    response = call_ai(prompt, "trend_summary", use_sonnet=True, max_tokens=2048)
     return response.strip() if response else ""
 
 

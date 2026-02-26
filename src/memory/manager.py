@@ -87,6 +87,38 @@ def get_week_signals() -> List[Dict]:
     return all_signals
 
 
+def get_recent_signal_titles(days: int = 3, exclude_date: str = None) -> List[str]:
+    """Get signal titles from recent days for dedup context.
+
+    Args:
+        days: How many days back to look.
+        exclude_date: Date to exclude (typically today, to avoid self-dedup).
+
+    Returns:
+        List of signal title strings.
+    """
+    from datetime import datetime, timedelta
+
+    cutoff = (datetime.now() - timedelta(days=days)).strftime("%Y-%m-%d")
+
+    data = load_weekly_signals()
+    titles = []
+
+    # Collect all day→signals pairs from current week + last archived week
+    all_days = dict(data.get("days", {}))
+    for archive in data.get("archived_weeks", [])[-1:]:
+        for day, signals in archive.get("days", {}).items():
+            if day not in all_days:
+                all_days[day] = signals
+
+    for day, signals in all_days.items():
+        if day == exclude_date or day < cutoff:
+            continue
+        titles.extend(s.get("title", "") for s in signals if s.get("title"))
+
+    return titles
+
+
 def rotate_weekly_signals():
     """Archive current week and reset for new week.
 
