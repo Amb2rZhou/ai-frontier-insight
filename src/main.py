@@ -139,12 +139,20 @@ def cmd_daily():
     }
     draft_path = save_draft(draft_data, "daily")
 
+    # Step 8: Archive structured data for weekly reports
+    print("\n[Archive] Saving daily archive...")
+    from .utils.archive import archive_daily, cleanup_old_data
+    archive_daily(today, raw_items, insights, trend_summary)
+
+    # Step 9: Clean up expired data
+    cleanup_old_data()
+
     print(f"\n=== Daily pipeline complete: {len(insights)} insights saved ===")
     print(f"Draft: {draft_path}")
 
 
 def cmd_send_daily():
-    """Send today's daily brief via webhook."""
+    """Send today's daily brief via webhook (two messages)."""
     today = _get_today()
     print(f"=== Sending Daily Brief: {today} ===")
 
@@ -157,22 +165,27 @@ def cmd_send_daily():
         print(f"Already sent for {today}")
         return
 
-    # Format markdown
-    content = format_daily_brief(
+    # Format as multiple messages
+    messages = format_daily_brief(
         date=today,
         insights=draft.get("insights", []),
         trend_summary=draft.get("trend_summary", ""),
     )
 
-    print(f"Formatted message: {len(content)} chars")
+    # Send all messages with brief pauses; only @all on the last message
+    import time
+    for i, msg in enumerate(messages, 1):
+        is_last = (i == len(messages))
+        print(f"Message {i}/{len(messages)}: {len(msg)} chars, {len(msg.encode('utf-8'))} bytes")
+        success = send_webhook(msg, mention_all=is_last)
+        if not success:
+            print(f"Failed to send message {i}")
+            return
+        if not is_last:
+            time.sleep(1)
 
-    # Send
-    success = send_webhook(content)
-    if success:
-        update_draft_status(today, "sent", "daily")
-        print("Daily brief sent successfully!")
-    else:
-        print("Failed to send daily brief")
+    update_draft_status(today, "sent", "daily")
+    print("Daily brief sent successfully!")
 
 
 def cmd_weekly():
@@ -192,7 +205,9 @@ def cmd_cleanup():
     """Clean up old drafts and archived data."""
     print("=== Cleanup ===")
     from .utils.draft import cleanup_old_drafts
+    from .utils.archive import cleanup_old_data
     cleanup_old_drafts(days=30)
+    cleanup_old_data()
     print("Cleanup complete")
 
 

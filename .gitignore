@@ -24,3 +24,6 @@ venv/
 # Temp
 *.tmp
 *.log
+
+# Daily archive source files (large, regenerable)
+data/daily/*/sources.json
