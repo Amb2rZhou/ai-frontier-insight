@@ -1,15 +1,12 @@
 name: Daily Brief
 
+# Primary automation runs locally via launchd (com.ai-frontier-insight.daily)
+# This workflow is kept as backup / manual trigger only
 on:
-  schedule:
-    # UTC 00:00 = CST 08:00 (send time)
-    # Collect at CST 07:30 = UTC 23:30 (previous day)
-    - cron: '30 23 * * *'   # collect + analyze
-    - cron: '0 0 * * *'     # send
   workflow_dispatch:
     inputs:
       command:
-        description: 'Command to run'
+        description: 'Command to run (backup/manual only)'
         required: true
         default: 'daily'
         type: choice
