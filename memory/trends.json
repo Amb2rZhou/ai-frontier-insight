@@ -1,4 +1,781 @@
 {
-  "last_updated": null,
-  "trends": []
+  "last_updated": "2026-02-25T20:08:57.717666+08:00",
+  "trends": [
+    {
+      "id": "ai_safety_pivot_and_accelerated_agi_time",
+      "name": "AI Safety Pivot and Accelerated AGI Timelines",
+      "related_tags": [
+        "AI Safety",
+        "Corporate Strategy",
+        "AGI Timeline",
+        "Anthropic"
+      ],
+      "trajectory": "accelerating",
+      "signal_count": 6,
+      "weekly_counts": [
+        1,
+        2,
+        1,
+        1,
+        1
+      ],
+      "key_events": [
+        {
+          "date": "2026-02-25",
+          "event": "First detected"
+        },
+        {
+          "date": "2026-02-25",
+          "event": "Anthropic drops Constitutional AI pledge and predicts RSI by early 2027"
+        },
+        {
+          "date": "2026-02-25",
+          "event": "Anthropic drops safety pledge, signaling strategic pivot away from Constitutional AI"
+        },
+        {
+          "date": "2026-02-25",
+          "event": "Anthropic drops key safety pledge, signaling strategic pivot away from Constitutional AI"
+        },
+        {
+          "date": "2026-02-25",
+          "event": "Anthropic drops key safety pledge amid AGI acceleration concerns"
+        }
+      ],
+      "created": "2026-02-25"
+    },
+    {
+      "id": "embodied_ai_and_autonomous_vehicle_inves",
+      "name": "Embodied AI and Autonomous Vehicle Investment Surge",
+      "related_tags": [
+        "Autonomous Vehicles",
+        "Embodied AI",
+        "Funding",
+        "Nvidia"
+      ],
+      "trajectory": "accelerating",
+      "signal_count": 8,
+      "weekly_counts": [
+        1,
+        2,
+        1,
+        2,
+        2
+      ],
+      "key_events": [
+        {
+          "date": "2026-02-25",
+          "event": "First detected"
+        },
+        {
+          "date": "2026-02-25",
+          "event": "Wayve raises $1.2B from Nvidia and automakers; NoRD VLA model research published"
+        },
+        {
+          "date": "2026-02-25",
+          "event": "Wayve raises $1.2B for embodied AI backed by Nvidia and automakers"
+        },
+        {
+          "date": "2026-02-25",
+          "event": "Wayve raises $1.2B from Nvidia, Uber and automakers; Physical Intelligence tests embodied AI models in real-world deployments"
+        },
+        {
+          "date": "2026-02-25",
+          "event": "Wayve raises $1.2B from Nvidia and automakers; Physical Intelligence tests embodied AI models in real-world deployments"
+        }
+      ],
+      "created": "2026-02-25"
+    },
+    {
+      "id": "open_source_foundation_model_proliferati",
+      "name": "Open Source Foundation Model Proliferation",
+      "related_tags": [
+        "Open Source",
+        "Foundation Models",
+        "Mixture of Experts",
+        "Multimodal AI"
+      ],
+      "trajectory": "accelerating",
+      "signal_count": 6,
+      "weekly_counts": [
+        1,
+        2,
+        1,
+        1,
+        1
+      ],
+      "key_events": [
+        {
+          "date": "2026-02-25",
+          "event": "First detected"
+        },
+        {
+          "date": "2026-02-25",
+          "event": "Qwen MoE models gain massive popularity on HuggingFace; Multiverse Computing releases compressed 60B model"
+        },
+        {
+          "date": "2026-02-25",
+          "event": "Qwen releases 3.5 Medium Model Series with architectural efficiency gains"
+        },
+        {
+          "date": "2026-02-25",
+          "event": "Qwen releases new MoE model series claiming efficiency breakthroughs"
+        },
+        {
+          "date": "2026-02-25",
+          "event": "Alibaba Qwen releases new 3.5 Medium Model Series with MoE architecture"
+        }
+      ],
+      "created": "2026-02-25"
+    },
+    {
+      "id": "ai_hardware_competition_and_nvidia_chall",
+      "name": "AI Hardware Competition and Nvidia Challengers",
+      "related_tags": [
+        "AI Hardware",
+        "Semiconductors",
+        "Startups",
+        "Nvidia Competition"
+      ],
+      "trajectory": "accelerating",
+      "signal_count": 5,
+      "weekly_counts": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "key_events": [
+        {
+          "date": "2026-02-25",
+          "event": "First detected"
+        },
+        {
+          "date": "2026-02-25",
+          "event": "MatX raises $500M as Nvidia challenger"
+        },
+        {
+          "date": "2026-02-25",
+          "event": "MatX (Nvidia challenger) raises $500M, founded by ex-Google TPU engineers"
+        },
+        {
+          "date": "2026-02-25",
+          "event": "Nvidia challenger MatX raises $500M, founded by ex-Google TPU engineers"
+        },
+        {
+          "date": "2026-02-25",
+          "event": "Nvidia challenger MatX raises $500M led by former Google TPU engineers"
+        }
+      ],
+      "created": "2026-02-25"
+    },
+    {
+      "id": "enterprise_ai_agent_adoption_and_product",
+      "name": "Enterprise AI Agent Adoption and Product Launches",
+      "related_tags": [
+        "AI Agents",
+        "Enterprise AI",
+        "Product Launch",
+        "Anthropic"
+      ],
+      "trajectory": "accelerating",
+      "signal_count": 6,
+      "weekly_counts": [
+        1,
+        1,
+        2,
+        1,
+        1
+      ],
+      "key_events": [
+        {
+          "date": "2026-02-25",
+          "event": "First detected"
+        },
+        {
+          "date": "2026-02-25",
+          "event": "Anthropic launches Claude Cowork for enterprise AI agents"
+        },
+        {
+          "date": "2026-02-25",
+          "event": "Anthropic launches Claude Code Remote Control for mobile; OpenAI GPT-5.3-Codex GA dominates coding benchmarks"
+        },
+        {
+          "date": "2026-02-25",
+          "event": "OpenAI GPT-5.3-Codex GA and Claude Code Remote Control launch"
+        },
+        {
+          "date": "2026-02-25",
+          "event": "OpenAI's GPT-5.3-Codex GA and Claude Code Remote Control launch"
+        }
+      ],
+      "created": "2026-02-25"
+    },
+    {
+      "id": "ai_infrastructure_and_supply_chain_resho",
+      "name": "AI Infrastructure and Supply Chain Reshoring",
+      "related_tags": [
+        "AI Infrastructure",
+        "Manufacturing",
+        "Supply Chain",
+        "Apple"
+      ],
+      "trajectory": "fading",
+      "signal_count": 2,
+      "weekly_counts": [
+        1,
+        1,
+        0,
+        0
+      ],
+      "key_events": [
+        {
+          "date": "2026-02-25",
+          "event": "First detected"
+        },
+        {
+          "date": "2026-02-25",
+          "event": "Apple announces US production of Mac Mini as part of $600B AI commitment"
+        }
+      ],
+      "created": "2026-02-25"
+    },
+    {
+      "id": "ai_research_acceleration_in_reasoning_an",
+      "name": "AI Research Acceleration in Reasoning and Efficiency",
+      "related_tags": [
+        "Research",
+        "Reasoning",
+        "Efficiency",
+        "Multimodal AI"
+      ],
+      "trajectory": "accelerating",
+      "signal_count": 7,
+      "weekly_counts": [
+        1,
+        2,
+        2,
+        1,
+        1
+      ],
+      "key_events": [
+        {
+          "date": "2026-02-25",
+          "event": "First detected"
+        },
+        {
+          "date": "2026-02-25",
+          "event": "Aletheia AI agent solves FirstProof math challenge; Prompt-level distillation research published"
+        },
+        {
+          "date": "2026-02-25",
+          "event": "Research shows agent failures due to process issues; survey highlights critical role of memory systems for AI agents"
+        },
+        {
+          "date": "2026-02-25",
+          "event": "Research shows agent failure often due to planning, not knowledge gaps"
+        },
+        {
+          "date": "2026-02-25",
+          "event": "Research on agent failure modes reveals memory and planning as key bottlenecks"
+        }
+      ],
+      "created": "2026-02-25"
+    },
+    {
+      "id": "ai_talent_wars_and_legal_battles",
+      "name": "AI Talent Wars and Legal Battles",
+      "related_tags": [
+        "Legal",
+        "Corporate Rivalry",
+        "OpenAI",
+        "xAI"
+      ],
+      "trajectory": "stable",
+      "signal_count": 5,
+      "weekly_counts": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "key_events": [
+        {
+          "date": "2026-02-25",
+          "event": "First detected"
+        },
+        {
+          "date": "2026-02-25",
+          "event": "OpenAI defeats xAI's trade secrets lawsuit"
+        },
+        {
+          "date": "2026-02-25",
+          "event": "OpenAI defeats xAI's trade secrets lawsuit"
+        },
+        {
+          "date": "2026-02-25",
+          "event": "OpenAI defeats xAI's trade secrets lawsuit, legal battle continues"
+        },
+        {
+          "date": "2026-02-25",
+          "event": "OpenAI defeats xAI's trade secrets lawsuit"
+        }
+      ],
+      "created": "2026-02-25"
+    },
+    {
+      "id": "legacy_system_disruption_by_ai_moderniza",
+      "name": "Legacy System Disruption by AI Modernization",
+      "related_tags": [
+        "Legacy Systems",
+        "Market Impact",
+        "Enterprise AI",
+        "Anthropic"
+      ],
+      "trajectory": "accelerating",
+      "signal_count": 4,
+      "weekly_counts": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "key_events": [
+        {
+          "date": "2026-02-25",
+          "event": "First detected"
+        },
+        {
+          "date": "2026-02-25",
+          "event": "Anthropic's COBOL translation tools trigger IBM stock sell-off"
+        },
+        {
+          "date": "2026-02-25",
+          "event": "IBM stock drops $40B on misconception about AI COBOL modernization"
+        },
+        {
+          "date": "2026-02-25",
+          "event": "Anthropic's COBOL modernization tools trigger IBM stock drop"
+        }
+      ],
+      "created": "2026-02-25"
+    },
+    {
+      "id": "ai-powered_search_and_information_retrie",
+      "name": "AI-Powered Search and Information Retrieval Transformation",
+      "related_tags": [
+        "Information Retrieval",
+        "Enterprise AI",
+        "Search",
+        "AI Agents"
+      ],
+      "trajectory": "accelerating",
+      "signal_count": 8,
+      "weekly_counts": [
+        1,
+        1,
+        2,
+        2,
+        2
+      ],
+      "key_events": [
+        {
+          "date": "2026-02-25",
+          "event": "First detected"
+        },
+        {
+          "date": "2026-02-25",
+          "event": "Nimble launches agentic search platform claiming 99% accuracy"
+        },
+        {
+          "date": "2026-02-25",
+          "event": "Nimble launches agentic search platform claiming 99% accuracy; Grok-4.20-Beta1 tops search arena"
+        },
+        {
+          "date": "2026-02-25",
+          "event": "Nimble launches agentic search platform claiming 99% accuracy; Grok-4.20-Beta1 tops search arena"
+        },
+        {
+          "date": "2026-02-25",
+          "event": "Nimble launches agentic search platform claiming 99% accuracy; Grok 4.20 Beta tops search arena"
+        }
+      ],
+      "created": "2026-02-25"
+    },
+    {
+      "id": "autonomous_ai_agent_development_ecosyste",
+      "name": "Autonomous AI Agent Development Ecosystem Growth",
+      "related_tags": [
+        "AI Agents",
+        "Open Source",
+        "Developer Tools",
+        "Automation"
+      ],
+      "trajectory": "accelerating",
+      "signal_count": 10,
+      "weekly_counts": [
+        1,
+        2,
+        3,
+        2,
+        2
+      ],
+      "key_events": [
+        {
+          "date": "2026-02-25",
+          "event": "First detected"
+        },
+        {
+          "date": "2026-02-25",
+          "event": "SELAUR self-evolving agent research; Quoroom experiment on autonomous agents earning money"
+        },
+        {
+          "date": "2026-02-25",
+          "event": "OpenClaw ecosystem explodes with global community; research shows agent failures due to process issues; survey highlights critical role of memory systems"
+        },
+        {
+          "date": "2026-02-25",
+          "event": "OpenClaw ecosystem rapidly expands with global meetups and tools; research shows agent failure often due to planning issues"
+        },
+        {
+          "date": "2026-02-25",
+          "event": "OpenClaw ecosystem explodes with global meetups and tooling; research on agent failure modes"
+        }
+      ],
+      "created": "2026-02-25"
+    },
+    {
+      "id": "efficient_and_compressed_ai_model_innova",
+      "name": "Efficient and Compressed AI Model Innovation",
+      "related_tags": [
+        "Model Efficiency",
+        "Open Source",
+        "Startups",
+        "Europe"
+      ],
+      "trajectory": "accelerating",
+      "signal_count": 8,
+      "weekly_counts": [
+        1,
+        2,
+        1,
+        2,
+        2
+      ],
+      "key_events": [
+        {
+          "date": "2026-02-25",
+          "event": "First detected"
+        },
+        {
+          "date": "2026-02-25",
+          "event": "GitHub project runs 1B parameter LLM on $10 board; Multiverse Computing compressed model release"
+        },
+        {
+          "date": "2026-02-25",
+          "event": "Qwen 3.5 Medium Model Series shows architectural efficiency gains"
+        },
+        {
+          "date": "2026-02-25",
+          "event": "Qwen releases new MoE model series; Spanish startup Multiverse Computing releases free compressed AI model"
+        },
+        {
+          "date": "2026-02-25",
+          "event": "Spanish startup Multiverse Computing releases free compressed AI model; Qwen 3.5 Medium Model Series"
+        }
+      ],
+      "created": "2026-02-25"
+    },
+    {
+      "id": "ai_infrastructure_optimization_and_open_",
+      "name": "AI Infrastructure Optimization and Open Source Tools",
+      "related_tags": [
+        "AI Infrastructure",
+        "Open Source",
+        "Hardware",
+        "Meta"
+      ],
+      "trajectory": "accelerating",
+      "signal_count": 6,
+      "weekly_counts": [
+        1,
+        1,
+        2,
+        1,
+        1
+      ],
+      "key_events": [
+        {
+          "date": "2026-02-25",
+          "event": "First detected"
+        },
+        {
+          "date": "2026-02-25",
+          "event": "Meta open sources RCCLX for enhanced GPU communications on AMD"
+        },
+        {
+          "date": "2026-02-25",
+          "event": "Meta open-sources RCCLX for enhanced GPU communications on AMD; compute bottleneck identified as key limiter for AI economic impact"
+        },
+        {
+          "date": "2026-02-25",
+          "event": "Compute bottleneck identified as key limiter for AI economic impact"
+        },
+        {
+          "date": "2026-02-25",
+          "event": "Meta open sources RCCLX for enhanced GPU communications on AMD"
+        }
+      ],
+      "created": "2026-02-25"
+    },
+    {
+      "id": "government_and_defense_ai_talent_recruit",
+      "name": "Government and Defense AI Talent Recruitment",
+      "related_tags": [
+        "AI Policy",
+        "Defense",
+        "Government",
+        "Talent"
+      ],
+      "trajectory": "accelerating",
+      "signal_count": 4,
+      "weekly_counts": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "key_events": [
+        {
+          "date": "2026-02-25",
+          "event": "First detected"
+        },
+        {
+          "date": "2026-02-25",
+          "event": "Pentagon recruits former Uber exec and billionaire for AI team"
+        },
+        {
+          "date": "2026-02-25",
+          "event": "Pentagon recruits AI talent from Anthropic, Uber, and private equity"
+        },
+        {
+          "date": "2026-02-25",
+          "event": "Pentagon recruits AI talent from Anthropic, Uber, and private equity"
+        }
+      ],
+      "created": "2026-02-25"
+    },
+    {
+      "id": "emerging_market_ai_adoption_and_monetiza",
+      "name": "Emerging Market AI Adoption and Monetization Challenges",
+      "related_tags": [
+        "Market Adoption",
+        "Emerging Markets",
+        "Business Models",
+        "OpenAI"
+      ],
+      "trajectory": "stable",
+      "signal_count": 3,
+      "weekly_counts": [
+        1,
+        1,
+        0,
+        1
+      ],
+      "key_events": [
+        {
+          "date": "2026-02-25",
+          "event": "First detected"
+        },
+        {
+          "date": "2026-02-25",
+          "event": "India's AI boom sees companies trading revenue for user growth"
+        },
+        {
+          "date": "2026-02-25",
+          "event": "India's AI user boom faces monetization challenge"
+        }
+      ],
+      "created": "2026-02-25"
+    },
+    {
+      "id": "ai-enabled_criminal_and_security_threats",
+      "name": "AI-Enabled Criminal and Security Threats",
+      "related_tags": [
+        "AI Ethics",
+        "Security",
+        "Emerging Risk",
+        "Criminal Activity"
+      ],
+      "trajectory": "accelerating",
+      "signal_count": 3,
+      "weekly_counts": [
+        1,
+        1,
+        1,
+        0
+      ],
+      "key_events": [
+        {
+          "date": "2026-02-25",
+          "event": "First detected"
+        },
+        {
+          "date": "2026-02-25",
+          "event": "Systematic vulnerability (prefill attacks) found in 50 open-weight LLMs"
+        },
+        {
+          "date": "2026-02-25",
+          "event": "Mexico's CJNG cartel embraces AI, drones, and social media"
+        }
+      ],
+      "created": "2026-02-25"
+    },
+    {
+      "id": "ai_security_vulnerabilities_in_open-weig",
+      "name": "AI Security Vulnerabilities in Open-Weight Models",
+      "related_tags": [
+        "AI Security",
+        "Model Vulnerability",
+        "Open Source",
+        "Risk Management"
+      ],
+      "trajectory": "accelerating",
+      "signal_count": 3,
+      "weekly_counts": [
+        1,
+        1,
+        1
+      ],
+      "key_events": [
+        {
+          "date": "2026-02-25",
+          "event": "First detected"
+        },
+        {
+          "date": "2026-02-25",
+          "event": "Systematic prefill attack vulnerability found in 50 open-weight LLMs"
+        },
+        {
+          "date": "2026-02-25",
+          "event": "Systematic prefill attack vulnerability found in 50 open-weight LLMs"
+        }
+      ],
+      "created": "2026-02-25"
+    },
+    {
+      "id": "ai_talent_development_and_education_ecos",
+      "name": "AI Talent Development and Education Ecosystem Growth",
+      "related_tags": [
+        "AI Education",
+        "Talent Development",
+        "Software Engineering",
+        "Training"
+      ],
+      "trajectory": "accelerating",
+      "signal_count": 3,
+      "weekly_counts": [
+        1,
+        1,
+        1
+      ],
+      "key_events": [
+        {
+          "date": "2026-02-25",
+          "event": "First detected"
+        },
+        {
+          "date": "2026-02-25",
+          "event": "Gauntlet AI trains developers in full AI-driven coding, high demand for graduates"
+        },
+        {
+          "date": "2026-02-25",
+          "event": "Gauntlet AI trains engineers for 'full-stack LLM mode'"
+        }
+      ],
+      "created": "2026-02-25"
+    },
+    {
+      "id": "japanese_ai_ecosystem_investment_and_gro",
+      "name": "Japanese AI Ecosystem Investment and Growth",
+      "related_tags": [
+        "Japan AI",
+        "Investment",
+        "Enterprise AI",
+        "Regional Development"
+      ],
+      "trajectory": "accelerating",
+      "signal_count": 3,
+      "weekly_counts": [
+        1,
+        1,
+        1
+      ],
+      "key_events": [
+        {
+          "date": "2026-02-25",
+          "event": "First detected"
+        },
+        {
+          "date": "2026-02-25",
+          "event": "Citi makes first strategic investment in Japanese AI firm Sakana AI"
+        },
+        {
+          "date": "2026-02-25",
+          "event": "Citigroup makes first strategic investment in Japanese AI startup Sakana AI"
+        }
+      ],
+      "created": "2026-02-25"
+    },
+    {
+      "id": "chinese_ai_model_competition_and_market_",
+      "name": "Chinese AI Model Competition and Market Impact",
+      "related_tags": [
+        "Chinese AI",
+        "Model Release",
+        "Market Competition",
+        "DeepSeek"
+      ],
+      "trajectory": "accelerating",
+      "signal_count": 2,
+      "weekly_counts": [
+        1,
+        1
+      ],
+      "key_events": [
+        {
+          "date": "2026-02-25",
+          "event": "First detected"
+        },
+        {
+          "date": "2026-02-25",
+          "event": "Alibaba Qwen releases new 3.5 Medium Model Series with MoE architecture"
+        }
+      ],
+      "created": "2026-02-25"
+    },
+    {
+      "id": "ai_data_scraping_and_open_source_data_li",
+      "name": "AI Data Scraping and Open Source Data Liberation Movement",
+      "related_tags": [
+        "Data Scraping",
+        "Open Source",
+        "AI Ethics",
+        "Data Liberation"
+      ],
+      "trajectory": "accelerating",
+      "signal_count": 1,
+      "weekly_counts": [
+        1
+      ],
+      "key_events": [
+        {
+          "date": "2026-02-25",
+          "event": "First detected"
+        }
+      ],
+      "created": "2026-02-25"
+    }
+  ]
 }
