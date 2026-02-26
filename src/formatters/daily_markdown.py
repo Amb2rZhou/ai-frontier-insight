@@ -83,15 +83,15 @@ def _render_signal(i: int, item: Dict) -> str:
     if source_tag:
         parts.append(f'<font color="comment">Source: {source_tag}</font>')
 
-    # Summary (plain)
+    # Summary (black, normal text)
     if signal_text:
-        parts.append(f"> {signal_text}")
+        parts.append(signal_text)
 
-    # Insight (black)
+    # Insight (quoted)
     if insight:
         parts.append(f"> 💡 {insight}")
 
-    # Implication (green)
+    # Implication (quoted, green)
     if implication:
         parts.append(f'> <font color="info">→ {implication}</font>')
 
