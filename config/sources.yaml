@@ -123,7 +123,7 @@ arxiv:
     - "cs.LG"   # Machine Learning
     - "cs.CV"   # Computer Vision
     - "cs.MA"   # Multi-Agent Systems
-  max_results: 50
+  max_results: 25
   sort_by: "submittedDate"
 
 # ═══════════════════════════════════════════════════
@@ -141,6 +141,12 @@ huggingface:
 rss:
   enabled: true
   feeds:
+    # ── 付费科技媒体（标题+摘要作为信号线索）──
+    - url: "https://www.theinformation.com/feed"
+      name: "The Information"
+      group: "premium_tech_media"
+      enabled: true
+
     # ── 英文科技媒体 ──
     - url: "https://techcrunch.com/feed/"
       name: "TechCrunch"

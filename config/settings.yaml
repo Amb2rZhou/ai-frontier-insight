@@ -17,8 +17,8 @@ schedule:
     send_minute: 0
 
 analysis:
-  daily_max_signals: 15          # Max signals extracted from raw data
-  daily_max_insights: 8          # Max full insights (signal+insight+implication)
+  daily_max_signals: 10          # Max signals extracted from raw data
+  daily_max_insights: 10         # Max full insights (signal+insight+implication)
   weekly_theme_rotation:         # Rotate monthly (week 1/2/3/4)
     - "research"                 # Research breakthroughs
     - "tech_trend"               # Technology trends

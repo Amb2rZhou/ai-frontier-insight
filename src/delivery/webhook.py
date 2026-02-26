@@ -33,7 +33,7 @@ def _get_webhook_key() -> Optional[str]:
     return None
 
 
-def _post_webhook(url: str, content: str) -> str:
+def _post_webhook(url: str, content: str, mention_all: bool = True) -> str:
     """Post a single markdown message to webhook.
 
     Returns:
@@ -41,12 +41,12 @@ def _post_webhook(url: str, content: str) -> str:
         "api_error"     - server rejected (safe to retry smaller)
         "network_error" - network issue (NOT safe to retry)
     """
+    markdown_body = {"content": content}
+    if mention_all:
+        markdown_body["mentioned_list"] = ["@all"]
     payload = {
         "msgtype": "markdown",
-        "markdown": {
-            "content": content,
-            "mentioned_list": ["@all"],
-        },
+        "markdown": markdown_body,
     }
 
     data = json.dumps(payload, ensure_ascii=False).encode("utf-8")
@@ -75,11 +75,12 @@ def _post_webhook(url: str, content: str) -> str:
         return "network_error"
 
 
-def send_webhook(content: str) -> bool:
+def send_webhook(content: str, mention_all: bool = True) -> bool:
     """Send markdown content to RedCity webhook.
 
     Args:
         content: Markdown string to send
+        mention_all: Whether to @all in this message
 
     Returns:
         True on success
@@ -98,7 +99,7 @@ def send_webhook(content: str) -> bool:
     content_bytes = len(content.encode("utf-8"))
     print(f"  Webhook message: {content_bytes} bytes")
 
-    result = _post_webhook(url, content)
+    result = _post_webhook(url, content, mention_all=mention_all)
     if result == "ok":
         return True
 
@@ -117,7 +118,7 @@ def send_webhook(content: str) -> bool:
         truncated += "\n\n---\n(message truncated)"
 
         print(f"  Retrying at {int(ratio*100)}% ({len(truncated.encode('utf-8'))} bytes)")
-        result = _post_webhook(url, truncated)
+        result = _post_webhook(url, truncated, mention_all=mention_all)
         if result == "ok":
             return True
         if result == "network_error":

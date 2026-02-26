@@ -7,7 +7,7 @@ import json
 from typing import Dict, List, Optional
 
 from ..collectors.base import RawItem
-from ..memory.manager import load_trends
+from ..memory.manager import load_trends, get_recent_signal_titles
 from ..utils.config import load_prompt, load_settings
 from ..utils.json_repair import parse_json_response
 from .ai_client import call_ai
@@ -43,6 +43,18 @@ def extract_signals(raw_items: List[RawItem]) -> Optional[List[Dict]]:
     else:
         trends_context = "No trends tracked yet (first run)."
 
+    # Load recent signal titles for dedup
+    from ..utils.config import get_timezone
+    from datetime import datetime
+    from zoneinfo import ZoneInfo
+    tz = ZoneInfo(get_timezone())
+    today = datetime.now(tz).strftime("%Y-%m-%d")
+    recent_titles = get_recent_signal_titles(days=3, exclude_date=today)
+    if recent_titles:
+        recent_context = "\n".join(f"- {t}" for t in recent_titles)
+    else:
+        recent_context = "（首次运行，无历史记录）"
+
     # Build compact raw items text for prompt
     raw_items_text = "\n".join(
         f"[{i}] {item.to_compact()}" for i, item in enumerate(raw_items)
@@ -54,6 +66,7 @@ def extract_signals(raw_items: List[RawItem]) -> Optional[List[Dict]]:
         n=len(raw_items),
         max_signals=max_signals,
         trends_context=trends_context,
+        recent_signals=recent_context,
         raw_items=raw_items_text,
     )
 
@@ -61,7 +74,7 @@ def extract_signals(raw_items: List[RawItem]) -> Optional[List[Dict]]:
     print(f"  Prompt size: {len(prompt)} chars")
 
     # Use Haiku for cost efficiency (high volume filtering)
-    response = call_ai(prompt, "signal_extraction", use_sonnet=False, max_tokens=4096)
+    response = call_ai(prompt, "signal_extraction", use_sonnet=False, max_tokens=8192)
     if not response:
         print("  Signal extraction failed: no AI response")
         return None

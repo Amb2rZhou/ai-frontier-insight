@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-25T20:08:57.717666+08:00",
+  "last_updated": "2026-02-26T11:39:36.407728+08:00",
   "trends": [
     {
       "id": "ai_safety_pivot_and_accelerated_agi_time",
@@ -11,10 +11,12 @@
         "Anthropic"
       ],
       "trajectory": "accelerating",
-      "signal_count": 6,
+      "signal_count": 8,
       "weekly_counts": [
         1,
         2,
+        1,
+        1,
         1,
         1,
         1
@@ -39,6 +41,14 @@
         {
           "date": "2026-02-25",
           "event": "Anthropic drops key safety pledge amid AGI acceleration concerns"
+        },
+        {
+          "date": "2026-02-26",
+          "event": "Anthropic experiments with retired model Opus 3 running a Substack blog"
+        },
+        {
+          "date": "2026-02-26",
+          "event": "Anthropic retires Claude Opus 3, grants it a Substack blog as per its 'preferences'"
         }
       ],
       "created": "2026-02-25"
@@ -53,13 +63,15 @@
         "Nvidia"
       ],
       "trajectory": "accelerating",
-      "signal_count": 8,
+      "signal_count": 10,
       "weekly_counts": [
         1,
         2,
         1,
         2,
-        2
+        2,
+        1,
+        1
       ],
       "key_events": [
         {
@@ -81,6 +93,14 @@
         {
           "date": "2026-02-25",
           "event": "Wayve raises $1.2B from Nvidia and automakers; Physical Intelligence tests embodied AI models in real-world deployments"
+        },
+        {
+          "date": "2026-02-26",
+          "event": "NVIDIA's EgoScale enables dexterous manipulation from egocentric human video"
+        },
+        {
+          "date": "2026-02-26",
+          "event": "NVIDIA unveils EgoScale: dexterous robot training from 20K+ hours of egocentric human video"
         }
       ],
       "created": "2026-02-25"
@@ -95,10 +115,11 @@
         "Multimodal AI"
       ],
       "trajectory": "accelerating",
-      "signal_count": 6,
+      "signal_count": 7,
       "weekly_counts": [
         1,
         2,
+        1,
         1,
         1,
         1
@@ -123,6 +144,10 @@
         {
           "date": "2026-02-25",
           "event": "Alibaba Qwen releases new 3.5 Medium Model Series with MoE architecture"
+        },
+        {
+          "date": "2026-02-26",
+          "event": "Qwen 3.5 Medium models released and perform strongly on benchmarks"
         }
       ],
       "created": "2026-02-25"
@@ -137,8 +162,9 @@
         "Nvidia Competition"
       ],
       "trajectory": "accelerating",
-      "signal_count": 5,
+      "signal_count": 6,
       "weekly_counts": [
+        1,
         1,
         1,
         1,
@@ -165,6 +191,10 @@
         {
           "date": "2026-02-25",
           "event": "Nvidia challenger MatX raises $500M led by former Google TPU engineers"
+        },
+        {
+          "date": "2026-02-26",
+          "event": "NVIDIA unveils next-gen Vera Rubin GPU with 10x efficiency gains"
         }
       ],
       "created": "2026-02-25"
@@ -179,12 +209,14 @@
         "Anthropic"
       ],
       "trajectory": "accelerating",
-      "signal_count": 6,
+      "signal_count": 9,
       "weekly_counts": [
         1,
         1,
         2,
         1,
+        1,
+        2,
         1
       ],
       "key_events": [
@@ -207,6 +239,14 @@
         {
           "date": "2026-02-25",
           "event": "OpenAI's GPT-5.3-Codex GA and Claude Code Remote Control launch"
+        },
+        {
+          "date": "2026-02-26",
+          "event": "Anthropic acquires computer-use AI startup Vercept; Perplexity launches 'Computer' as unified AI agent system"
+        },
+        {
+          "date": "2026-02-26",
+          "event": "Anthropic acquires computer-use AI startup Vercept to advance Claude's agentic capabilities"
         }
       ],
       "created": "2026-02-25"
@@ -250,11 +290,13 @@
         "Multimodal AI"
       ],
       "trajectory": "accelerating",
-      "signal_count": 7,
+      "signal_count": 9,
       "weekly_counts": [
         1,
         2,
         2,
+        1,
+        1,
         1,
         1
       ],
@@ -278,6 +320,14 @@
         {
           "date": "2026-02-25",
           "event": "Research on agent failure modes reveals memory and planning as key bottlenecks"
+        },
+        {
+          "date": "2026-02-26",
+          "event": "Google's Aletheia AI agent solves novel math research problems autonomously"
+        },
+        {
+          "date": "2026-02-26",
+          "event": "Google's Aletheia AI agent solves 6/10 unsolved math research problems autonomously"
         }
       ],
       "created": "2026-02-25"
@@ -413,12 +463,14 @@
         "Automation"
       ],
       "trajectory": "accelerating",
-      "signal_count": 10,
+      "signal_count": 13,
       "weekly_counts": [
         1,
         2,
         3,
         2,
+        2,
+        1,
         2
       ],
       "key_events": [
@@ -441,6 +493,14 @@
         {
           "date": "2026-02-25",
           "event": "OpenClaw ecosystem explodes with global meetups and tooling; research on agent failure modes"
+        },
+        {
+          "date": "2026-02-26",
+          "event": "Visual imitation learning for training AI agents on expert videos"
+        },
+        {
+          "date": "2026-02-26",
+          "event": "Guidde's visual imitation learning trains AI agents on human 'expert video' instead of docs; OpenSwarm: multi-agent Claude CLI orchestrator for real linear/GitHub workflows"
         }
       ],
       "created": "2026-02-25"
@@ -497,11 +557,12 @@
         "Meta"
       ],
       "trajectory": "accelerating",
-      "signal_count": 6,
+      "signal_count": 7,
       "weekly_counts": [
         1,
         1,
         2,
+        1,
         1,
         1
       ],
@@ -525,6 +586,10 @@
         {
           "date": "2026-02-25",
           "event": "Meta open sources RCCLX for enhanced GPU communications on AMD"
+        },
+        {
+          "date": "2026-02-26",
+          "event": "AT&T's AI orchestration strategy cuts costs by 90% on 8B daily tokens"
         }
       ],
       "created": "2026-02-25"
@@ -776,6 +841,28 @@
         }
       ],
       "created": "2026-02-25"
+    },
+    {
+      "id": "generative_ai_for_creative_and_design_ap",
+      "name": "Generative AI for Creative and Design Applications",
+      "related_tags": [
+        "Generative AI",
+        "Computer Graphics",
+        "Design Tools",
+        "Startup Funding"
+      ],
+      "trajectory": "accelerating",
+      "signal_count": 1,
+      "weekly_counts": [
+        1
+      ],
+      "key_events": [
+        {
+          "date": "2026-02-26",
+          "event": "First detected"
+        }
+      ],
+      "created": "2026-02-26"
     }
   ]
 }
