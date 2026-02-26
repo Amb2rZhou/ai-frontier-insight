@@ -99,89 +99,72 @@ def _render_signal(i: int, item: Dict) -> str:
     return "\n".join(parts)
 
 
-def format_signals_messages(date: str, insights: List[Dict]) -> List[str]:
-    """Format signals into multiple messages, each within size budget.
-
-    First message includes full header; continuation messages have a short header.
-    """
-    if not insights:
-        return [f"# AI Frontier Daily Brief\n**日期：{date}**\n\n> 今日无重大前沿信号。"]
-
-    first_header = f"# AI Frontier Daily Brief\n**日期：{date}**\n\n## 一、Key Frontier Signals\n\n"
-    footer = f'\n<font color="comment">AI Frontier Insight Bot</font>'
-
-    messages = []
-    current_blocks = []
-    current_header = first_header
-    used_bytes = 0
-
-    for i, item in enumerate(insights, 1):
-        block = _render_signal(i, item)
-        block_bytes = len(block.encode("utf-8"))
-        budget = MAX_CONTENT_BYTES - len(current_header.encode("utf-8")) - len(footer.encode("utf-8")) - OVERHEAD_BYTES
-
-        if used_bytes + block_bytes > budget and current_blocks:
-            # Flush current message
-            messages.append(current_header + "\n".join(current_blocks) + footer)
-            # Next message uses a short continuation header
-            current_header = f"## 一、Key Frontier Signals（续）\n\n"
-            current_blocks = []
-            used_bytes = 0
-
-        current_blocks.append(block)
-        used_bytes += block_bytes
-
-    if current_blocks:
-        messages.append(current_header + "\n".join(current_blocks) + footer)
-
-    return messages
-
-
-def format_trend_message(date: str, trend_summary: str) -> str:
-    """Format message 2: Frontier Trend Summary."""
+def _clean_trend_summary(trend_summary: str) -> str:
+    """Strip echoed prompt data from trend summary."""
     if not trend_summary:
         return ""
-
-    # Strip echoed prompt data
     for marker in ["今日 top signals", "今日top signals", "趋势走向：",
                     "Today's top signals", "Trend trajectories"]:
         idx = trend_summary.find(marker)
         if idx > 0:
             trend_summary = trend_summary[:idx].rstrip()
             break
-
-    if not trend_summary.strip():
-        return ""
-
-    lines = []
-    lines.append(f"## 二、Frontier Trend Summary（{date}）")
-    lines.append("")
-    lines.append(trend_summary.strip())
-    lines.append("")
-    lines.append(f'<font color="comment">AI Frontier Insight Bot</font>')
-
-    return "\n".join(lines)
+    return trend_summary.strip()
 
 
 def format_daily_brief(date: str, insights: List[Dict],
                        trend_summary: str = "") -> List[str]:
-    """Format daily brief as multiple messages.
+    """Format daily brief as exactly 2 messages.
 
-    Tries to merge trend summary into the last signal message if it fits.
+    Message 1: header + as many signals as fit within 8KB budget.
+    Message 2: remaining signals + Frontier Trend Summary.
 
     Returns:
-        List of messages.
+        List of 1-2 messages.
     """
-    messages = format_signals_messages(date, insights)
-    trend_msg = format_trend_message(date, trend_summary)
-    if trend_msg:
-        # Try appending trend to last message
-        if messages:
-            merged = messages[-1] + "\n\n" + trend_msg
-            if len(merged.encode("utf-8")) <= MAX_CONTENT_BYTES:
-                messages[-1] = merged
-            else:
-                messages.append(trend_msg)
-        else:
-            messages.append(trend_msg)
-    return messages
+    if not insights:
+        return [f"# AI Frontier Daily Brief\n**日期：{date}**\n\n> 今日无重大前沿信号。"]
+
+    footer = f'\n<font color="comment">AI Frontier Insight Bot</font>'
+
+    # Render all signal blocks
+    rendered = []
+    for i, item in enumerate(insights, 1):
+        rendered.append(_render_signal(i, item))
+
+    # --- Message 1: pack as many signals as possible ---
+    msg1_header = f"# AI Frontier Daily Brief\n**日期：{date}**\n\n## 一、Key Frontier Signals\n\n"
+    msg1_budget = MAX_CONTENT_BYTES - len(msg1_header.encode("utf-8")) - len(footer.encode("utf-8")) - OVERHEAD_BYTES
+
+    msg1_blocks = []
+    msg1_bytes = 0
+    split_at = len(rendered)  # default: all fit in msg1
+
+    for idx, block in enumerate(rendered):
+        block_bytes = len(block.encode("utf-8"))
+        if msg1_bytes + block_bytes > msg1_budget:
+            split_at = idx
+            break
+        msg1_blocks.append(block)
+        msg1_bytes += block_bytes
+
+    msg1 = msg1_header + "\n".join(msg1_blocks) + footer
+
+    # --- Message 2: remaining signals + trend summary ---
+    remaining = rendered[split_at:]
+    trend_text = _clean_trend_summary(trend_summary)
+
+    msg2_parts = []
+    if remaining:
+        msg2_parts.append(f"## 一、Key Frontier Signals（续）\n")
+        msg2_parts.append("\n".join(remaining))
+
+    if trend_text:
+        msg2_parts.append(f"## 二、Frontier Trend Summary（{date}）\n")
+        msg2_parts.append(trend_text)
+
+    if msg2_parts:
+        msg2 = "\n".join(msg2_parts) + footer
+        return [msg1, msg2]
+
+    return [msg1]
