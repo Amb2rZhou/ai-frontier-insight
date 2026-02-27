@@ -17,19 +17,29 @@ LOG="$LOG_DIR/daily-$(date +%Y-%m-%d).log"
 
 log() { echo "[$(date '+%H:%M:%S')] $*" | tee -a "$LOG"; }
 
-log "========== Daily Pipeline 开始 =========="
-
 # 加载环境变量（API keys）
 ENV_FILE="$DIR/.env"
 if [ -f "$ENV_FILE" ]; then
     set -a
     source "$ENV_FILE"
     set +a
-    log "已加载 .env"
 else
-    log "[!] 未找到 .env 文件，请确保环境变量已设置"
+    echo "[!] 未找到 .env 文件" >> "$LOG"
     exit 1
 fi
+
+# 运维通知（仅关键故障调用）
+alert() {
+    local msg="$1"
+    if [ -n "${ALERT_WEBHOOK_URL:-}" ]; then
+        /usr/bin/curl -s -X POST "$ALERT_WEBHOOK_URL" \
+            -H "Content-Type: application/json" \
+            -d "{\"msgtype\":\"markdown\",\"markdown\":{\"content\":\"${msg}\"}}" >/dev/null 2>&1 || true
+    fi
+}
+
+log "========== Daily Pipeline 开始 =========="
+log "已加载 .env"
 
 # Step 1: 采集 + 分析
 log "Step 1: 采集 + 分析..."
@@ -37,6 +47,7 @@ if /usr/bin/python3 -m src.main daily >> "$LOG" 2>&1; then
     log "采集分析完成"
 else
     log "[!] 采集分析失败"
+    alert "**⚠️ 日报采集/分析失败**\n\n时间：$(date '+%Y-%m-%d %H:%M')\n\n\`$(tail -3 "$LOG" 2>/dev/null)\`"
     exit 1
 fi
 
@@ -70,13 +81,14 @@ if /usr/bin/python3 -m src.main send-daily >> "$LOG" 2>&1; then
     log "发送完成"
 else
     log "[!] 发送失败"
+    alert "**⚠️ 日报发送失败**\n\n时间：$(date '+%Y-%m-%d %H:%M')\n\n\`$(tail -3 "$LOG" 2>/dev/null)\`"
     exit 1
 fi
 
 # Step 4: 提交 draft 和 memory 到 git
 log "Step 4: 提交到 Git..."
 cd "$DIR"
-/usr/bin/git add config/drafts/ memory/ 2>/dev/null || true
+/usr/bin/git add config/drafts/ memory/ data/daily/ 2>/dev/null || true
 if ! /usr/bin/git diff --cached --quiet 2>/dev/null; then
     /usr/bin/git commit -m "daily: $(date +%Y-%m-%d) brief"
     /usr/bin/git push
