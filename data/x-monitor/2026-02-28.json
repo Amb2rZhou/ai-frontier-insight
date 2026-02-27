@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-02-28T03:17:24.934227",
+  "scraped_at": "2026-02-28T06:37:17.477794",
   "date": "2026-02-28",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 89,
-  "account_count": 59,
+  "tweet_count": 136,
+  "account_count": 84,
   "tweets": [
     {
       "id": "2027460453425971280",
@@ -1106,6 +1106,560 @@
       "likes": 92,
       "retweets": 3,
       "views": 6715
+    },
+    {
+      "id": "2027512658543710316",
+      "username": "Miles_Brundage",
+      "text": "Is this what it felt like on the outside of the OpenAI coup",
+      "timestamp": "2026-02-27T22:34:21.000Z",
+      "url": "https://x.com/Miles_Brundage/status/2027512658543710316",
+      "images": [],
+      "likes": 5,
+      "retweets": 0,
+      "views": 66
+    },
+    {
+      "id": "2027512401768435765",
+      "username": "Miles_Brundage",
+      "text": "I'm too old for this but one more update - per Hegseth tweet, there is actually a supply chain risk designation (for now?). So we're back to:",
+      "timestamp": "2026-02-27T22:33:20.000Z",
+      "url": "https://x.com/Miles_Brundage/status/2027512401768435765",
+      "images": [],
+      "likes": 2,
+      "retweets": 0,
+      "views": 146
+    },
+    {
+      "id": "2027511779417592173",
+      "username": "arena",
+      "text": "Top 10 Open Models: February 2026 in Text Arena.\n\nThe top 3 labs have not changed since January, but the scores have gotten tighter between them:\n- \n@Zai_org\n's GLM-5, scoring 1455\n- \n@Alibaba_Qwen\n's Qwen-3.5 397B A17B, scoring1454\n- \n@Kimi_Moonshot\n's Kimi-K2.5 Thinking, 1452\n\nThe",
+      "timestamp": "2026-02-27T22:30:52.000Z",
+      "url": "https://x.com/arena/status/2027511779417592173",
+      "images": [
+        "https://pbs.twimg.com/media/HCMlppfbcAAu6hH?format=jpg&name=small"
+      ],
+      "likes": 9,
+      "retweets": 0,
+      "views": 320
+    },
+    {
+      "id": "2027511782064210368",
+      "username": "arena",
+      "text": "Top 10 Open Models by Provider  - shifts for February 2026 in the Text Arena. \n\nA few notable moves this month \n• GLM-5 takes #1 in Feb (1455), up from #2 in Jan (GLM-4.7 at 1440). \n@Zai_org\n \n• Qwen-3.5 397B A17B climbs into #2 in Feb (1454), replacing",
+      "timestamp": "2026-02-27T22:30:52.000Z",
+      "url": "https://x.com/arena/status/2027511782064210368",
+      "images": [],
+      "likes": 0,
+      "retweets": 0,
+      "views": 206
+    },
+    {
+      "id": "2027511783976747066",
+      "username": "arena",
+      "text": "See the full leaderboard details for Text. You can now filter by open vs proprietary for yourself live on the site.",
+      "timestamp": "2026-02-27T22:30:53.000Z",
+      "url": "https://x.com/arena/status/2027511783976747066",
+      "images": [],
+      "likes": 0,
+      "retweets": 0,
+      "views": 187
+    },
+    {
+      "id": "2027510685215719448",
+      "username": "EMostaque",
+      "text": "AGI is the ultimate National Security Threat.",
+      "timestamp": "2026-02-27T22:26:31.000Z",
+      "url": "https://x.com/EMostaque/status/2027510685215719448",
+      "images": [],
+      "likes": 20,
+      "retweets": 3,
+      "views": 822
+    },
+    {
+      "id": "2027458289517068511",
+      "username": "dgrobinson",
+      "text": "Today, OpenAI is launching the Deployment Safety Hub — a new site that turns our system cards from static PDFs into something you can easily search, browse, and share. \nhttp://\ndeploymentsafety.openai.com\n\nSystem cards are the most detailed window we provide into the technical work behind",
+      "timestamp": "2026-02-27T18:58:19.000Z",
+      "url": "https://x.com/dgrobinson/status/2027458289517068511",
+      "images": [],
+      "likes": 54,
+      "retweets": 14,
+      "views": 4323
+    },
+    {
+      "id": "2027508258299117874",
+      "username": "DeryaTR_",
+      "text": "Here's the thing: Look around you. Everything that's not natural is the creation of human intelligence. Now imagine an artificial intelligence much greater than ours and what we can achieve and create with that. In the future, we will wonder how people could live like we are now.",
+      "timestamp": "2026-02-27T22:16:52.000Z",
+      "url": "https://x.com/DeryaTR_/status/2027508258299117874",
+      "images": [],
+      "likes": 14,
+      "retweets": 0,
+      "views": 804
+    },
+    {
+      "id": "2027501331125239822",
+      "username": "karpathy",
+      "text": "Cool chart showing the ratio of Tab complete requests to Agent requests in Cursor. With improving capability, every point in time has an optimal setup that keeps changing and evolving and the community average tracks the point. None -> Tab -> Agent -> Parallel agents -> Agent",
+      "timestamp": "2026-02-27T21:49:21.000Z",
+      "url": "https://x.com/karpathy/status/2027501331125239822",
+      "images": [
+        "https://pbs.twimg.com/media/HCMha-2bEAA1itr?format=png&name=small"
+      ],
+      "likes": 693,
+      "retweets": 55,
+      "views": 55335
+    },
+    {
+      "id": "2027507254791180759",
+      "username": "timzaman",
+      "text": "This is not due to capability. This is due to people's habits and their influences. When many were using tab complete, others already took the next step (away from handcoding) and knew how to steer the agents more efficiently than tabs. Even now some ppl swear by handcoding. And",
+      "timestamp": "2026-02-27T22:12:53.000Z",
+      "url": "https://x.com/timzaman/status/2027507254791180759",
+      "images": [],
+      "likes": 0,
+      "retweets": 0,
+      "views": 292
+    },
+    {
+      "id": "2027506603042476336",
+      "username": "Jonovono",
+      "text": "Convex is so elite. I cry a bit when I see vibe coders pick something like Supabase not knowing the glory they are missing out on",
+      "timestamp": "2026-02-27T22:10:18.000Z",
+      "url": "https://x.com/Jonovono/status/2027506603042476336",
+      "images": [],
+      "likes": 27,
+      "retweets": 6,
+      "views": 4280
+    },
+    {
+      "id": "2027506381725831520",
+      "username": "shaneguML",
+      "text": "As we voice type and prompt agents, we become wasteful and thoughtless (imagine OpenClaw). Every \"Enter\" could waste many tokens.\n\nJapan: \"I physically made the Enter key 60kg of grip strength.\"\n\nKon Mari-style philosophy lives in the age of LLMs.",
+      "timestamp": "2026-02-27T22:09:25.000Z",
+      "url": "https://x.com/shaneguML/status/2027506381725831520",
+      "images": [
+        "https://pbs.twimg.com/amplify_video_thumb/2027019595513839616/img/ZP5iyZD1xpmwYKIZ.jpg"
+      ],
+      "likes": 5,
+      "retweets": 0,
+      "views": 703
+    },
+    {
+      "id": "2027506093828563397",
+      "username": "steipete",
+      "text": "You can totally lock it down to workspace or dockerize the workspace or restrict it in any ways, but that also takes away of pretty much the reason it's so useful.",
+      "timestamp": "2026-02-27T22:08:16.000Z",
+      "url": "https://x.com/steipete/status/2027506093828563397",
+      "images": [],
+      "likes": 38,
+      "retweets": 1,
+      "views": 3278
+    },
+    {
+      "id": "2027506027323617719",
+      "username": "giffmana",
+      "text": "hmm, I somehow feel like upgrading to Claude Max 20x plan today.",
+      "timestamp": "2026-02-27T22:08:00.000Z",
+      "url": "https://x.com/giffmana/status/2027506027323617719",
+      "images": [],
+      "likes": 38,
+      "retweets": 0,
+      "views": 1196
+    },
+    {
+      "id": "2027504950859772217",
+      "username": "emollick",
+      "text": "So over the past week you are seeing exactly what you would expect if AI is, in fact, both gaining capabilities & proving to be very useful:\n- Rolling market disruption in response to growing awareness of AI capacity\n-Government versus lab struggles for control\n& still very early",
+      "timestamp": "2026-02-27T22:03:44.000Z",
+      "url": "https://x.com/emollick/status/2027504950859772217",
+      "images": [],
+      "likes": 72,
+      "retweets": 6,
+      "views": 2910
+    },
+    {
+      "id": "2027504136694951968",
+      "username": "NVIDIAAI",
+      "text": "New on the NVIDIA AI Podcast:\n\n Kuo Zhang (President, \n@AlibabaGroup\n) shares how AI agents like \n@Accio_official\n are transforming global trade, reducing sourcing from weeks to hours and helping entrepreneurs compete worldwide.\n\n Listen now: \nhttps://\nnvda.ws/3OCHKPj",
+      "timestamp": "2026-02-27T22:00:30.000Z",
+      "url": "https://x.com/NVIDIAAI/status/2027504136694951968",
+      "images": [
+        "https://pbs.twimg.com/media/HCMkQtrXEAADkOF.jpg"
+      ],
+      "likes": 1,
+      "retweets": 0,
+      "views": 775
+    },
+    {
+      "id": "2027504015802511741",
+      "username": "PyTorch",
+      "text": "New to the PyTorch Ecosystem Landscape: Kubetorch.\n\nKubetorch enables ML research and development on Kubernetes across training, inference, RL, evals, data processing, and more, in a simple and unopinionated package.\n\nLearn more: \nhttps://\nhubs.la/Q0453qFd0\n\n#PyTorch #Kubernetes",
+      "timestamp": "2026-02-27T22:00:01.000Z",
+      "url": "https://x.com/PyTorch/status/2027504015802511741",
+      "images": [
+        "https://pbs.twimg.com/media/HCMkKCmWgAAa7kz?format=jpg&name=small"
+      ],
+      "likes": 5,
+      "retweets": 0,
+      "views": 907
+    },
+    {
+      "id": "2027503253223772671",
+      "username": "AravSrinivas",
+      "text": "\"instagram captions\" is now a feature inside perplexity computer",
+      "timestamp": "2026-02-27T21:56:59.000Z",
+      "url": "https://x.com/AravSrinivas/status/2027503253223772671",
+      "images": [],
+      "likes": 18,
+      "retweets": 0,
+      "views": 3498
+    },
+    {
+      "id": "2027501997654741064",
+      "username": "alexgraveley",
+      "text": "Hiring a security-minded hacker for Computer. DMs open.",
+      "timestamp": "2026-02-27T21:52:00.000Z",
+      "url": "https://x.com/alexgraveley/status/2027501997654741064",
+      "images": [],
+      "likes": 10,
+      "retweets": 1,
+      "views": 680
+    },
+    {
+      "id": "2027498705771757975",
+      "username": "steipete",
+      "text": "Kudos to \n@convex\n who were there and hotfixed my slop when ClawHub went from 5 user/day to 100k user/day over a weekend and kept things running.\n\nAnd now they take over the server bill.\n\nThey probably didn't plan for it but it's the best agent-first database/platform you can pick.",
+      "timestamp": "2026-02-27T21:38:55.000Z",
+      "url": "https://x.com/steipete/status/2027498705771757975",
+      "images": [],
+      "likes": 457,
+      "retweets": 29,
+      "views": 17332
+    },
+    {
+      "id": "2027470615746130011",
+      "username": "xkianteb",
+      "text": "Does LLM RL post-training need to be on-policy?",
+      "timestamp": "2026-02-27T19:47:18.000Z",
+      "url": "https://x.com/xkianteb/status/2027470615746130011",
+      "images": [
+        "https://pbs.twimg.com/amplify_video_thumb/2027459547053568000/img/wwRPjIL5FBYH5Kfe.jpg"
+      ],
+      "likes": 58,
+      "retweets": 16,
+      "views": 9812
+    },
+    {
+      "id": "2027496860840083727",
+      "username": "openclaw",
+      "text": "Huge claw-clap for \n@convex\n — now an official OpenClaw sponsor! They already power ClawHub's backend, and now they're covering infra costs too. Fast, reliable, and crustacean-approved",
+      "timestamp": "2026-02-27T21:31:35.000Z",
+      "url": "https://x.com/openclaw/status/2027496860840083727",
+      "images": [],
+      "likes": 393,
+      "retweets": 25,
+      "views": 13970
+    },
+    {
+      "id": "2027491732682600869",
+      "username": "PyTorch",
+      "text": "Are you tired of hand-tuning each model you develop?\n\nWhat if you could describe the architecture once and let a system apply graph transformations and optimized kernels?\n\nNVIDIA TensorRT LLM AutoDeploy marks a shift toward approaching inference optimization as a compiler and",
+      "timestamp": "2026-02-27T21:11:12.000Z",
+      "url": "https://x.com/PyTorch/status/2027491732682600869",
+      "images": [],
+      "likes": 7,
+      "retweets": 1,
+      "views": 1393
+    },
+    {
+      "id": "2021314892947472725",
+      "username": "poetiq_ai",
+      "text": "Following up on our SOTA results on ARC-AGI, we’re excited to share new SOTA results on Humanity’s Last Exam (both with and without tools) and SimpleQA!\n\nOn HLE, Poetiq’s meta-system created multiple new SOTA configurations, going all the way up to 55%.",
+      "timestamp": "2026-02-10T20:06:39.000Z",
+      "url": "https://x.com/poetiq_ai/status/2021314892947472725",
+      "images": [
+        "https://pbs.twimg.com/media/HA0lWK4aAAAiJH-?format=jpg&name=small"
+      ],
+      "likes": 178,
+      "retweets": 41,
+      "views": 60515
+    },
+    {
+      "id": "2027489442697777245",
+      "username": "ArtificialAnlys",
+      "text": "Alibaba has expanded its Qwen3.5 model family with 3 new models - the 27B model is a standout, scoring 42 on the Artificial Analysis Intelligence Index and matching open weights models 8-25x its size\n\n\n@Alibaba_Qwen\n has expanded the Qwen3.5 family with three new models alongside",
+      "timestamp": "2026-02-27T21:02:06.000Z",
+      "url": "https://x.com/ArtificialAnlys/status/2027489442697777245",
+      "images": [
+        "https://pbs.twimg.com/media/HCMRy0FbEAAziYT?format=jpg&name=small"
+      ],
+      "likes": 122,
+      "retweets": 15,
+      "views": 6544
+    },
+    {
+      "id": "2027489448481669201",
+      "username": "ArtificialAnlys",
+      "text": "Qwen3.5 27B used 98M output tokens (88M reasoning) to run the Intelligence Index. This is notably high compared to models at similar intelligence: MiniMax-M2.5 (56M), DeepSeek V3.2 (61M), and even the larger Qwen3.5 397B (86M)",
+      "timestamp": "2026-02-27T21:02:08.000Z",
+      "url": "https://x.com/ArtificialAnlys/status/2027489448481669201",
+      "images": [
+        "https://pbs.twimg.com/media/HCMSW8SbEAEFlY9?format=jpg&name=small"
+      ],
+      "likes": 3,
+      "retweets": 0,
+      "views": 1283
+    },
+    {
+      "id": "2027489450142667255",
+      "username": "ArtificialAnlys",
+      "text": "Compare the full Qwen3.5 family with other leading models at: \nhttps://\nartificialanalysis.ai/models/qwen3-5\n-27b\n…\n\nQwen3.5 27B HuggingFace Repository: \nhttps://\nhuggingface.co/Qwen/Qwen3.5-2\n7B\n…",
+      "timestamp": "2026-02-27T21:02:08.000Z",
+      "url": "https://x.com/ArtificialAnlys/status/2027489450142667255",
+      "images": [],
+      "likes": 2,
+      "retweets": 0,
+      "views": 1135
+    },
+    {
+      "id": "2027087286773714984",
+      "username": "withmartian",
+      "text": "Introducing Code Review Bench v0: \nhttp://\ncodereview.withmartian.com\n\nThe first independent code review benchmark. 200,000+ PRs. Unbiased. Fully OSS. Updated daily. \n\nTool performance highlights \n\nFeaturing: \n@augmentcode\n \n@baz_scm\n \n@claudeai\n \n@coderabbitai\n \n@cursor\n \n@GeminiApp\n \n@github",
+      "timestamp": "2026-02-26T18:24:05.000Z",
+      "url": "https://x.com/withmartian/status/2027087286773714984",
+      "images": [
+        "https://pbs.twimg.com/amplify_video_thumb/2027086780949032960/img/-RfGikb9sMgcsZ9_.jpg"
+      ],
+      "likes": 548,
+      "retweets": 120,
+      "views": 182127
+    },
+    {
+      "id": "2027486969174102261",
+      "username": "ilyasut",
+      "text": "It’s extremely good that Anthropic has not backed down, and it’s siginficant that OpenAI has taken a similar stance.\n\nIn the future, there will be much more challenging situations of this nature, and it will be critical for the relevant leaders to rise up to the occasion, for",
+      "timestamp": "2026-02-27T20:52:16.000Z",
+      "url": "https://x.com/ilyasut/status/2027486969174102261",
+      "images": [],
+      "likes": 8698,
+      "retweets": 1039,
+      "views": 418795
+    },
+    {
+      "id": "2027478619430523273",
+      "username": "mmitchell_ai",
+      "text": "\"threats do not change our position: we cannot in good conscience accede to their request.\"\n\n@AnthropicAI\n drawing a moral line against enabling mass domestic surveillance & fully autonomous weapons, and holding it under pressure. Almost unheard of in BigTech. I stand in support.",
+      "timestamp": "2026-02-27T20:19:06.000Z",
+      "url": "https://x.com/mmitchell_ai/status/2027478619430523273",
+      "images": [],
+      "likes": 42,
+      "retweets": 8,
+      "views": 1657
+    },
+    {
+      "id": "2027484421864231211",
+      "username": "mmitchell_ai",
+      "text": "TBC, this does not mean I morally support all decisions and reasonings from Anthropic in this report and elsewhere. I strongly disagree in several places. I also see a thread in a grave moment that needs recognition.",
+      "timestamp": "2026-02-27T20:42:09.000Z",
+      "url": "https://x.com/mmitchell_ai/status/2027484421864231211",
+      "images": [],
+      "likes": 2,
+      "retweets": 0,
+      "views": 293
+    },
+    {
+      "id": "2027158419640369424",
+      "username": "leanprover",
+      "text": "The first-ever Lean in Munich meetup took place this week at Google Munich. Missed it? Watch Sebastian Ullrich's full talk on Lean's foundations, applications in mathematics and software verification, and its growing role in AI-driven theorem proving \n\n \nhttp://\nyoutube.com/watch?v=2Dr214\n9l_9Y\n…",
+      "timestamp": "2026-02-26T23:06:44.000Z",
+      "url": "https://x.com/leanprover/status/2027158419640369424",
+      "images": [
+        "https://pbs.twimg.com/media/HCHpgHEbEAEqJbc?format=jpg&name=small"
+      ],
+      "likes": 93,
+      "retweets": 11,
+      "views": 3505
+    },
+    {
+      "id": "2027481986001231996",
+      "username": "Austen",
+      "text": "I still think “become an expert in your field” + “become an expert in AI” is a pretty unstoppable combo",
+      "timestamp": "2026-02-27T20:32:28.000Z",
+      "url": "https://x.com/Austen/status/2027481986001231996",
+      "images": [],
+      "likes": 141,
+      "retweets": 8,
+      "views": 3437
+    },
+    {
+      "id": "2027480763763945800",
+      "username": "PyTorch",
+      "text": "Our February PyTorch Foundation newsletter is live:\n\nInside: leadership and membership announcements, live schedule for PyTorch Conference Europe 2026 in Paris, a recap of PyTorch Day India 2026, ambassador highlights, and recent technical blogs from across the ecosystem.",
+      "timestamp": "2026-02-27T20:27:37.000Z",
+      "url": "https://x.com/PyTorch/status/2027480763763945800",
+      "images": [
+        "https://pbs.twimg.com/media/HCMPAnZXsAA3pxZ?format=jpg&name=small"
+      ],
+      "likes": 6,
+      "retweets": 0,
+      "views": 1434
+    },
+    {
+      "id": "2027479980893241557",
+      "username": "AravSrinivas",
+      "text": "What did we get done this week ? \n\n1. Perplexity Computer\n2. Samsung Galaxy S26 integration\n3. Upgraded voice mode in Comet\n4. State of the art search embeddings",
+      "timestamp": "2026-02-27T20:24:30.000Z",
+      "url": "https://x.com/AravSrinivas/status/2027479980893241557",
+      "images": [],
+      "likes": 447,
+      "retweets": 17,
+      "views": 9702
+    },
+    {
+      "id": "2027478357999554995",
+      "username": "gdb",
+      "text": "codex 5.3 for complicated software engineering",
+      "timestamp": "2026-02-27T20:18:03.000Z",
+      "url": "https://x.com/gdb/status/2027478357999554995",
+      "images": [],
+      "likes": 371,
+      "retweets": 11,
+      "views": 36349
+    },
+    {
+      "id": "2026801777023037447",
+      "username": "how_cvpr2026",
+      "text": "Do you like reading awesome interpretability papers on vision models?\n\nWe are recruiting reviewers for the How Do Vision Models Work? (HOW) workshop \n@CVPR\n 2026\n\nPaper Deadline (New): Mar 07 2026 AoE\nReviews Due: Mar 17 2026 AoE \n\nLink to sign up: \nhttps://\nforms.gle/aZutGJVuRsvwP3\nYc9\n…",
+      "timestamp": "2026-02-25T23:29:34.000Z",
+      "url": "https://x.com/how_cvpr2026/status/2026801777023037447",
+      "images": [
+        "https://pbs.twimg.com/tweet_video_thumb/HCChkbRXQAEarFH.jpg"
+      ],
+      "likes": 19,
+      "retweets": 7,
+      "views": 4331
+    },
+    {
+      "id": "2027477069798523200",
+      "username": "minchoi",
+      "text": "Anthropic said no to the Pentagon.\n\nNow Sam Altman is backing them:\n\n\"For all the differences I have with Anthropic, I mostly trust them as a company and I think they really do care about safety.\"\n\nOpenAI and Anthropic both drawing the same line.\n\nThis is a big deal.",
+      "timestamp": "2026-02-27T20:12:56.000Z",
+      "url": "https://x.com/minchoi/status/2027477069798523200",
+      "images": [
+        "https://pbs.twimg.com/amplify_video_thumb/2027476671553781760/img/7L-7C34xZ59YZM0b.jpg"
+      ],
+      "likes": 4114,
+      "retweets": 464,
+      "views": 300890
+    },
+    {
+      "id": "2027435365275967591",
+      "username": "antigravity",
+      "text": "To the builders: we heard you. We're welcoming back everyone who recently had their Google Antigravity accounts restricted for use of third-party tools. Moving forward, we’ll have clear steps for users to restore  their account if it’s restricted.\n\nTo maintain the integrity of",
+      "timestamp": "2026-02-27T17:27:13.000Z",
+      "url": "https://x.com/antigravity/status/2027435365275967591",
+      "images": [],
+      "likes": 2096,
+      "retweets": 159,
+      "views": 209153
+    },
+    {
+      "id": "2027474021910995106",
+      "username": "levie",
+      "text": "I talk to Fortune 500 CEOs and CIOs all time that are starting to think about all the new things that they’re going to build software for, and automate. Agents are the first thing that makes this viable for them. And expert engineers are needed to manage those agents.",
+      "timestamp": "2026-02-27T20:00:50.000Z",
+      "url": "https://x.com/levie/status/2027474021910995106",
+      "images": [],
+      "likes": 218,
+      "retweets": 21,
+      "views": 49516
+    },
+    {
+      "id": "2027472857995911643",
+      "username": "dylan522p",
+      "text": "SemiAnalysis x Fluidstack are kicking off GTC with A Full-Stack AI Infra GPU Hackathon\nPower to Prefill, Dirt to Decode\nBuild with the best, win prizes, and hear \n@marksaroufim\n GPU MODE, \n@cHHillee\n Thinking Machines, Thomas Raoux OpenAI, \n@garywu\n\nApply below",
+      "timestamp": "2026-02-27T19:56:12.000Z",
+      "url": "https://x.com/dylan522p/status/2027472857995911643",
+      "images": [],
+      "likes": 43,
+      "retweets": 7,
+      "views": 7320
+    },
+    {
+      "id": "2027068494261457166",
+      "username": "DeryaTR_",
+      "text": "Nano Banana Pro was already amazing. Now version 2 is even more amazing! I'll share some more examples soon. \n\nNBP 2 also follows instructions perfectly to fix errors in the images or modify them. It's sooo good! \n@GeminiApp\n does it again!",
+      "timestamp": "2026-02-26T17:09:24.000Z",
+      "url": "https://x.com/DeryaTR_/status/2027068494261457166",
+      "images": [
+        "https://pbs.twimg.com/media/HCGYDO8aQAArRwz?format=jpg&name=small",
+        "https://pbs.twimg.com/tweet_video_thumb/HCGHbQnaYAEbEM-?format=jpg&name=120x120"
+      ],
+      "likes": 175,
+      "retweets": 19,
+      "views": 15603
+    },
+    {
+      "id": "2027466080785191080",
+      "username": "AravSrinivas",
+      "text": "computer is 24*7 btw. goodbye 9-9-6",
+      "timestamp": "2026-02-27T19:29:16.000Z",
+      "url": "https://x.com/AravSrinivas/status/2027466080785191080",
+      "images": [],
+      "likes": 390,
+      "retweets": 11,
+      "views": 14503
+    },
+    {
+      "id": "2027465738559098964",
+      "username": "steipete",
+      "text": "bring your clawwww",
+      "timestamp": "2026-02-27T19:27:55.000Z",
+      "url": "https://x.com/steipete/status/2027465738559098964",
+      "images": [
+        "https://pbs.twimg.com/amplify_video_thumb/1945912263883522048/img/oWoUEGa7FTRIusxB.jpg"
+      ],
+      "likes": 193,
+      "retweets": 14,
+      "views": 23974
+    },
+    {
+      "id": "2027463725498720306",
+      "username": "GoogleAI",
+      "text": "This week we had a BUNCH of updates  Here’s what we announced:\n\n— Nano Banana 2, our SoTA image generation model, which you can use to generate images with real-world knowledge, add text in many languages, and bring your most creative ideas to life\n\n— Nano Banana, Veo 3.1,",
+      "timestamp": "2026-02-27T19:19:55.000Z",
+      "url": "https://x.com/GoogleAI/status/2027463725498720306",
+      "images": [],
+      "likes": 302,
+      "retweets": 28,
+      "views": 19588
+    },
+    {
+      "id": "2027462862059540794",
+      "username": "a16z",
+      "text": "Older GPUs are still in the game\n\nCharts of the week: \nhttps://\na16z.news/p/charts-of-th\ne-week-dexit-real-or\n…",
+      "timestamp": "2026-02-27T19:16:29.000Z",
+      "url": "https://x.com/a16z/status/2027462862059540794",
+      "images": [
+        "https://pbs.twimg.com/media/HCL-uqubEAUOjS2?format=jpg&name=small"
+      ],
+      "likes": 54,
+      "retweets": 12,
+      "views": 6044
+    },
+    {
+      "id": "2027462787358949679",
+      "username": "bcherny",
+      "text": "Claude Code Remote is rolling out now for Pro users",
+      "timestamp": "2026-02-27T19:16:11.000Z",
+      "url": "https://x.com/bcherny/status/2027462787358949679",
+      "images": [
+        "https://pbs.twimg.com/tweet_video_thumb/HCL816Ta0AEtVwd.jpg"
+      ],
+      "likes": 1673,
+      "retweets": 75,
+      "views": 110951
     }
   ]
 }
