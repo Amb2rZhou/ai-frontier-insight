@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-26T19:28:51.362392+08:00",
+  "last_updated": "2026-02-27T07:33:00.712954+08:00",
   "trends": [
     {
       "id": "ai_safety_pivot_and_accelerated_agi_time",
@@ -11,10 +11,11 @@
         "Anthropic"
       ],
       "trajectory": "accelerating",
-      "signal_count": 6,
+      "signal_count": 7,
       "weekly_counts": [
         1,
         2,
+        1,
         1,
         1,
         1
@@ -47,6 +48,10 @@
         {
           "date": "2026-02-26",
           "event": "Anthropic retires Claude Opus 3, grants it a Substack blog as per its 'preferences'"
+        },
+        {
+          "date": "2026-02-27",
+          "event": "Anthropic refuses Pentagon demands on lethal AI and surveillance, reinforcing safety stance"
         }
       ],
       "created": "2026-02-25"
@@ -203,14 +208,15 @@
         "Anthropic"
       ],
       "trajectory": "accelerating",
-      "signal_count": 8,
+      "signal_count": 11,
       "weekly_counts": [
         1,
         1,
         2,
         1,
         1,
-        2
+        2,
+        3
       ],
       "key_events": [
         {
@@ -240,6 +246,10 @@
         {
           "date": "2026-02-26",
           "event": "Anthropic acquires computer-use AI startup Vercept to advance Claude's agentic capabilities"
+        },
+        {
+          "date": "2026-02-27",
+          "event": "Microsoft launches Copilot Tasks cloud-based autonomous AI agent system; ServiceNow achieves 90% autonomous IT request resolution"
         }
       ],
       "created": "2026-02-25"
@@ -257,7 +267,8 @@
       "signal_count": 2,
       "weekly_counts": [
         1,
-        1
+        1,
+        0
       ],
       "key_events": [
         {
@@ -281,11 +292,12 @@
         "Multimodal AI"
       ],
       "trajectory": "accelerating",
-      "signal_count": 8,
+      "signal_count": 9,
       "weekly_counts": [
         1,
         2,
         2,
+        1,
         1,
         1,
         1
@@ -318,6 +330,10 @@
         {
           "date": "2026-02-26",
           "event": "Google's Aletheia AI agent solves 6/10 unsolved math research problems autonomously"
+        },
+        {
+          "date": "2026-02-27",
+          "event": "Solaris multiplayer video world model research in Minecraft advances multi-agent AI capabilities"
         }
       ],
       "created": "2026-02-25"
@@ -331,9 +347,10 @@
         "OpenAI",
         "xAI"
       ],
-      "trajectory": "stable",
-      "signal_count": 3,
+      "trajectory": "accelerating",
+      "signal_count": 4,
       "weekly_counts": [
+        1,
         1,
         1,
         1
@@ -350,6 +367,10 @@
         {
           "date": "2026-02-25",
           "event": "OpenAI defeats xAI's trade secrets lawsuit, legal battle continues"
+        },
+        {
+          "date": "2026-02-27",
+          "event": "OpenAI expands London research hub to compete directly with DeepMind for UK AI talent"
         }
       ],
       "created": "2026-02-25"
@@ -435,14 +456,15 @@
         "Automation"
       ],
       "trajectory": "accelerating",
-      "signal_count": 11,
+      "signal_count": 13,
       "weekly_counts": [
         1,
         2,
         3,
         2,
         2,
-        1
+        1,
+        2
       ],
       "key_events": [
         {
@@ -472,6 +494,10 @@
         {
           "date": "2026-02-26",
           "event": "Guidde's visual imitation learning trains AI agents on human 'expert video' instead of docs; OpenSwarm: multi-agent Claude CLI orchestrator for real linear/GitHub workflows"
+        },
+        {
+          "date": "2026-02-27",
+          "event": "Open-source agent OS 'Openfang' gains rapid traction; invisible Unicode character attack reveals new agent vulnerabilities"
         }
       ],
       "created": "2026-02-25"
@@ -526,11 +552,12 @@
         "Meta"
       ],
       "trajectory": "accelerating",
-      "signal_count": 6,
+      "signal_count": 7,
       "weekly_counts": [
         1,
         1,
         2,
+        1,
         1,
         1
       ],
@@ -554,6 +581,10 @@
         {
           "date": "2026-02-26",
           "event": "AT&T's AI orchestration strategy cuts costs by 90% on 8B daily tokens"
+        },
+        {
+          "date": "2026-02-27",
+          "event": "Apple releases Python SDK for on-device LLM on Mac, expanding edge AI infrastructure"
         }
       ],
       "created": "2026-02-25"
@@ -567,11 +598,12 @@
         "Government",
         "Talent"
       ],
-      "trajectory": "accelerating",
+      "trajectory": "stable",
       "signal_count": 2,
       "weekly_counts": [
         1,
-        1
+        1,
+        0
       ],
       "key_events": [
         {
@@ -602,7 +634,8 @@
       "signal_count": 2,
       "weekly_counts": [
         1,
-        1
+        1,
+        0
       ],
       "key_events": [
         {
@@ -661,8 +694,10 @@
         "Risk Management"
       ],
       "trajectory": "accelerating",
-      "signal_count": 1,
+      "signal_count": 3,
       "weekly_counts": [
+        1,
+        1,
         1
       ],
       "key_events": [
@@ -673,6 +708,14 @@
         {
           "date": "2026-02-25",
           "event": "Systematic prefill attack vulnerability found in 50 open-weight LLMs"
+        },
+        {
+          "date": "2026-02-27",
+          "event": "Invisible Unicode character attack tricks AI agents, revealing new vulnerability class"
+        },
+        {
+          "date": "2026-02-27",
+          "event": "Invisible Unicode character attack tricks AI agents, revealing new vulnerability class"
         }
       ],
       "created": "2026-02-25"
@@ -796,8 +839,9 @@
         "Startup Funding"
       ],
       "trajectory": "accelerating",
-      "signal_count": 2,
+      "signal_count": 3,
       "weekly_counts": [
+        1,
         1,
         1
       ],
@@ -809,9 +853,35 @@
         {
           "date": "2026-02-26",
           "event": "New AI Lab Quiver AI raises $8.3M for vector graphics model"
+        },
+        {
+          "date": "2026-02-27",
+          "event": "Google Nano Banana 2 aims to reduce AI image generation costs by 10x"
         }
       ],
       "created": "2026-02-26"
+    },
+    {
+      "id": "ai-driven_workforce_restructuring_and_co",
+      "name": "AI-Driven Workforce Restructuring and Corporate Transformation",
+      "related_tags": [
+        "AI Workforce Impact",
+        "Corporate Strategy",
+        "Labor Market",
+        "Automation"
+      ],
+      "trajectory": "accelerating",
+      "signal_count": 1,
+      "weekly_counts": [
+        1
+      ],
+      "key_events": [
+        {
+          "date": "2026-02-27",
+          "event": "First detected"
+        }
+      ],
+      "created": "2026-02-27"
     }
   ]
 }

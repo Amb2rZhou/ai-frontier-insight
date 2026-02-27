@@ -666,6 +666,221 @@
           140
         ]
       }
+    ],
+    "2026-02-27": [
+      {
+        "title": "Anthropic Refuses Pentagon Demands on Lethal AI and Surveillance",
+        "signal_text": "在五角大楼最后通牒期限前，Anthropic CEO Dario Amodei 公开拒绝国防部要求其提供AI系统无限制访问权限的条款，明确表示不会在致命自主武器和大规模监控领域合作。这一事件标志着AI伦理与国家安全需求之间的冲突达到新高度。",
+        "signal_strength": 0.9,
+        "sources": [
+          {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/news/885773/anthropic-department-of-defense-dod-pentagon-refusal-terms-hegseth-dario-amodei"
+          },
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/02/26/anthropic-ceo-stands-firm-as-pentagon-deadline-looms/"
+          },
+          {
+            "name": "Anthropic Blog",
+            "url": "https://www.anthropic.com/news/statement-department-of-war"
+          }
+        ],
+        "tags": [
+          "AI Safety",
+          "Government Relations",
+          "Ethics"
+        ],
+        "raw_item_indices": [
+          1,
+          2,
+          3,
+          6,
+          22
+        ]
+      },
+      {
+        "title": "Microsoft Copilot Tasks: Cloud-Based Autonomous AI Agent System",
+        "signal_text": "微软推出Copilot Tasks预览版，这是一个利用云端独立计算机和浏览器在后台处理繁忙工作的AI系统，标志着企业级AI代理从辅助工具向自主任务执行系统的演进。",
+        "signal_strength": 0.8,
+        "sources": [
+          {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/tech/885741/microsoft-copilot-tasks-ai"
+          }
+        ],
+        "tags": [
+          "Enterprise AI",
+          "AI Agents",
+          "Microsoft"
+        ],
+        "raw_item_indices": [
+          5
+        ]
+      },
+      {
+        "title": "ServiceNow Achieves 90% Autonomous IT Request Resolution",
+        "signal_text": "ServiceNow宣布其内部IT请求的90%已实现自主解决，处理速度比人工代理快99%，并计划将相关产品技术推向市场，展示了企业级AI代理在IT运维领域的成熟度。",
+        "signal_strength": 0.8,
+        "sources": [
+          {
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/orchestration/servicenow-resolves-90-of-its-own-it-requests-autonomously-now-it-wants-to"
+          }
+        ],
+        "tags": [
+          "Enterprise AI",
+          "IT Automation",
+          "AI Agents"
+        ],
+        "raw_item_indices": [
+          40
+        ]
+      },
+      {
+        "title": "Block Cuts 40% Workforce in AI-Driven Restructuring",
+        "signal_text": "Jack Dorsey的金融科技公司Block裁员近半（超过4000人），将员工从1万多人减至不足6000人，明确表示裁员原因是AI转型，反映了AI对传统金融科技岗位的颠覆性影响。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/tech/885710/jack-dorsey-block-layoffs-job-cuts-ai"
+          },
+          {
+            "name": "Hacker News",
+            "url": "https://twitter.com/jack/status/2027129697092731343"
+          }
+        ],
+        "tags": [
+          "AI Workforce Impact",
+          "Corporate Strategy",
+          "Fintech"
+        ],
+        "raw_item_indices": [
+          10,
+          16
+        ]
+      },
+      {
+        "title": "OpenAI Expands London Research Hub to Compete with DeepMind",
+        "signal_text": "OpenAI宣布大幅扩展其伦敦办公室，建立主要研究基地，直接与Google DeepMind竞争英国顶级研究人才，反映了全球AI人才争夺战加剧。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "Wired",
+            "url": "https://www.wired.com/story/openai-expands-london-office-major-research-hub/"
+          }
+        ],
+        "tags": [
+          "AI Talent",
+          "Research Competition",
+          "OpenAI"
+        ],
+        "raw_item_indices": [
+          37
+        ]
+      },
+      {
+        "title": "Invisible Unicode Character Attack Tricks AI Agents",
+        "signal_text": "研究发现，通过在正常文本中嵌入不可见的Unicode字符来编码隐藏指令，可以欺骗AI代理输出隐藏答案而非可见答案，在测试的5个模型超过8000个案例中有效，揭示了AI代理对文本编码攻击的新漏洞。",
+        "signal_strength": 0.7,
+        "sources": [
+          {
+            "name": "Reddit AI",
+            "url": "https://www.reddit.com/r/artificial/comments/1rfjew5/invisible_characters_hidden_in_text_can_trick_ai/"
+          }
+        ],
+        "tags": [
+          "AI Security",
+          "Adversarial Attacks",
+          "LLM Vulnerabilities"
+        ],
+        "raw_item_indices": [
+          26
+        ]
+      },
+      {
+        "title": "Google Nano Banana 2 Aims to Reduce AI Image Generation Costs",
+        "signal_text": "谷歌发布Nano Banana 2图像生成模型，声称在保持专业级质量的同时大幅降低生产成本，旨在解决阻碍企业大规模部署AI图像生成的成本问题。",
+        "signal_strength": 0.7,
+        "sources": [
+          {
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/technology/googles-nano-banana-2-takes-aim-at-the-production-cost-problem-thats-kept-ai"
+          },
+          {
+            "name": "Google AI Blog",
+            "url": "https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/"
+          }
+        ],
+        "tags": [
+          "Generative AI",
+          "Cost Optimization",
+          "Google"
+        ],
+        "raw_item_indices": [
+          33,
+          35,
+          36
+        ]
+      },
+      {
+        "title": "Research: Solaris Multiplayer Video World Model in Minecraft",
+        "signal_text": "新研究提出Solaris，一个在Minecraft中构建的多玩家视频世界模型，突破了现有单智能体视角视频生成模型的限制，旨在捕捉真实环境中的多智能体交互。",
+        "signal_strength": 0.7,
+        "sources": [
+          {
+            "name": "Arxiv",
+            "url": "http://arxiv.org/abs/2602.22208v1"
+          }
+        ],
+        "tags": [
+          "World Models",
+          "Multi-Agent AI",
+          "Research"
+        ],
+        "raw_item_indices": [
+          136
+        ]
+      },
+      {
+        "title": "Apple Releases Python SDK for On-Device LLM on Mac",
+        "signal_text": "苹果发布针对Mac端设备上LLM的Python SDK，使开发者能够更便捷地集成和利用苹果的本地AI推理能力，推动边缘AI应用开发。",
+        "signal_strength": 0.7,
+        "sources": [
+          {
+            "name": "Twitter",
+            "url": "https://x.com/rxwei/status/2026838142557499756"
+          }
+        ],
+        "tags": [
+          "Edge AI",
+          "Apple",
+          "Developer Tools"
+        ],
+        "raw_item_indices": [
+          83
+        ]
+      },
+      {
+        "title": "Open-Source Agent OS 'Openfang' Gains Rapid Traction",
+        "signal_text": "开源Agent操作系统Openfang在GitHub上获得1879星，采用Rust语言开发，提供MCP支持，反映了开源AI代理基础设施的快速创新和社区采纳。",
+        "signal_strength": 0.65,
+        "sources": [
+          {
+            "name": "GitHub Trending",
+            "url": "https://github.com/RightNow-AI/openfang"
+          }
+        ],
+        "tags": [
+          "Open Source",
+          "AI Agents",
+          "Infrastructure"
+        ],
+        "raw_item_indices": [
+          117
+        ]
+      }
     ]
   },
   "archived_weeks": []
