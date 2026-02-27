@@ -47,7 +47,7 @@ if /usr/bin/python3 -m src.main daily >> "$LOG" 2>&1; then
     log "采集分析完成"
 else
     log "[!] 采集分析失败"
-    alert "**⚠️ 日报采集/分析失败**\n\n时间：$(date '+%Y-%m-%d %H:%M')\n\n\`$(tail -3 "$LOG" 2>/dev/null)\`"
+    alert "**⚠️ \[AI Frontier Insight\] 日报采集/分析失败**\n\n时间：$(date '+%Y-%m-%d %H:%M')\n\n\`$(tail -3 "$LOG" 2>/dev/null)\`"
     exit 1
 fi
 
@@ -81,7 +81,7 @@ if /usr/bin/python3 -m src.main send-daily >> "$LOG" 2>&1; then
     log "发送完成"
 else
     log "[!] 发送失败"
-    alert "**⚠️ 日报发送失败**\n\n时间：$(date '+%Y-%m-%d %H:%M')\n\n\`$(tail -3 "$LOG" 2>/dev/null)\`"
+    alert "**⚠️ \[AI Frontier Insight\] 日报发送失败**\n\n时间：$(date '+%Y-%m-%d %H:%M')\n\n\`$(tail -3 "$LOG" 2>/dev/null)\`"
     exit 1
 fi
 
