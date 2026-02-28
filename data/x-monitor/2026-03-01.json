@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-01T04:31:36.489819",
+  "scraped_at": "2026-03-01T07:02:09.149268",
   "date": "2026-03-01",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 84,
-  "account_count": 31,
+  "tweet_count": 95,
+  "account_count": 36,
   "tweets": [
     {
       "id": "2027801122405249153",
@@ -979,6 +979,130 @@
       "likes": 31026,
       "retweets": 3539,
       "views": 22374790
+    },
+    {
+      "id": "2027877210456265146",
+      "username": "mitchellh",
+      "text": "Love to see it! Prediction: within a couple years the terminal GUI will no longer be the primary interface to agents, but there's going to be a hell of a lot of libghostty because agents are going to be increasingly talking to CLIs on the back side for a good long while.",
+      "timestamp": "2026-02-28T22:42:57+00:00",
+      "url": "https://x.com/mitchellh/status/2027877210456265146",
+      "images": [],
+      "likes": 79,
+      "retweets": 2,
+      "views": 5447
+    },
+    {
+      "id": "2027874422884127111",
+      "username": "Austen",
+      "text": "While this isn’t 100% true it’s more true than most people would like to believe and I feel immense pressure to solve.\n\nWhat you can build without engineering knowledge is very limited. \n\nBecomes less limited with time but if you’re serious about great software you have to learn.",
+      "timestamp": "2026-02-28T22:31:53+00:00",
+      "url": "https://x.com/Austen/status/2027874422884127111",
+      "images": [],
+      "likes": 31,
+      "retweets": 0,
+      "views": 7547
+    },
+    {
+      "id": "2027872889090064487",
+      "username": "Miles_Brundage",
+      "text": "Now add \"and also you have a country full of geniuses in a datacenter that will do anything you ask,\" and you have a sense of why people are freaking out this week https://t.co/ZrgODhDHiX",
+      "timestamp": "2026-02-28T22:25:47+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2027872889090064487",
+      "images": [],
+      "likes": 34,
+      "retweets": 5,
+      "views": 2515
+    },
+    {
+      "id": "2027865598609527036",
+      "username": "khoomeik",
+      "text": "maybe im dumb, but my subconscious picture of transistors was that they’re about as big as a human neuron\n\nturns out that the avg neuron can enclose 10,000 to 10,000,000 modern transistors",
+      "timestamp": "2026-02-28T21:56:49+00:00",
+      "url": "https://x.com/khoomeik/status/2027865598609527036",
+      "images": [],
+      "likes": 77,
+      "retweets": 0,
+      "views": 3347
+    },
+    {
+      "id": "2027863376748286165",
+      "username": "PalmerLuckey",
+      "text": "\"The Pentagon isn’t asking you to help build Skynet. They’re asking you to not have veto power over how a democratically accountable military uses a tool it purchased. Their point about “all lawful purposes” is actually the correct institutional boundary: the military operates",
+      "timestamp": "2026-02-28T21:47:59+00:00",
+      "url": "https://x.com/PalmerLuckey/status/2027863376748286165",
+      "images": [],
+      "likes": 2605,
+      "retweets": 253,
+      "views": 150116
+    },
+    {
+      "id": "2027863004604158399",
+      "username": "julien_c",
+      "text": "We don’t want to have to choose between 2 model providers\n\nWe want to choose between 1,000s of model providers",
+      "timestamp": "2026-02-28T21:46:30+00:00",
+      "url": "https://x.com/julien_c/status/2027863004604158399",
+      "images": [],
+      "likes": 52,
+      "retweets": 10,
+      "views": 2204
+    },
+    {
+      "id": "2027860345264472549",
+      "username": "thsottiaux",
+      "text": "Codex is now starting to be associated to speed.\n\nExcited for the team to keep building here, there is a lot more we can do and the next few weeks will be fun!",
+      "timestamp": "2026-02-28T21:35:56+00:00",
+      "url": "https://x.com/thsottiaux/status/2027860345264472549",
+      "images": [],
+      "likes": 297,
+      "retweets": 14,
+      "views": 10174
+    },
+    {
+      "id": "2027852551220011496",
+      "username": "DeryaTR_",
+      "text": "Absolutely! Another great move from Dr. Makary! AI will accelerate cures in dramatic ways at all fronts!",
+      "timestamp": "2026-02-28T21:04:58+00:00",
+      "url": "https://x.com/DeryaTR_/status/2027852551220011496",
+      "images": [],
+      "likes": 49,
+      "retweets": 1,
+      "views": 6283
+    },
+    {
+      "id": "2027850059875029335",
+      "username": "polynoamial",
+      "text": "For those following the DoW AI drama, I highly recommend reading this post explaining how @OpenAI approached the negotiations with the DoW. https://t.co/IW79AU1BJY",
+      "timestamp": "2026-02-28T20:55:04+00:00",
+      "url": "https://x.com/polynoamial/status/2027850059875029335",
+      "images": [
+        "https://pbs.twimg.com/media/HCRd12UbQAAaxDB.png",
+        "https://pbs.twimg.com/media/HCReFFjbIAEBZdN.png"
+      ],
+      "likes": 314,
+      "retweets": 16,
+      "views": 41782
+    },
+    {
+      "id": "2027847287163224255",
+      "username": "boazbaraktcs",
+      "text": "To be clear, I have a great appreciation for Anthropic and its people. It is great company that cares deeply about AI safety. The supply chain designation is insane.\n\nAs much as I have criticism of Anthropic's original decision to deploy in DoW via Palantir, I believe it was made",
+      "timestamp": "2026-02-28T20:44:03+00:00",
+      "url": "https://x.com/boazbaraktcs/status/2027847287163224255",
+      "images": [],
+      "likes": 118,
+      "retweets": 11,
+      "views": 9078
+    },
+    {
+      "id": "2027845786034192440",
+      "username": "boazbaraktcs",
+      "text": "Please read this blog post. Our red lines are clear and we will protect them. Unlike other agreements, we are not working through Palantir, we are responsible for our own models and our own safety. We will have our people in place to guarantee that responsible &amp; safe deployment.",
+      "timestamp": "2026-02-28T20:38:05+00:00",
+      "url": "https://x.com/boazbaraktcs/status/2027845786034192440",
+      "images": [],
+      "likes": 94,
+      "retweets": 11,
+      "views": 11700
     }
   ]
 }
