@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-01T02:11:14.057148",
+  "scraped_at": "2026-03-01T04:31:36.489819",
   "date": "2026-03-01",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 74,
-  "account_count": 28,
+  "tweet_count": 84,
+  "account_count": 31,
   "tweets": [
     {
       "id": "2027801122405249153",
@@ -865,6 +865,120 @@
       "likes": 12,
       "retweets": 2,
       "views": 2626
+    },
+    {
+      "id": "2027836848790507894",
+      "username": "Miles_Brundage",
+      "text": "Good thing we have reasons for full confidence in the Pentagon’s decision-making right now",
+      "timestamp": "2026-02-28T20:02:34+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2027836848790507894",
+      "images": [],
+      "likes": 21,
+      "retweets": 0,
+      "views": 714
+    },
+    {
+      "id": "2027832382695637070",
+      "username": "AravSrinivas",
+      "text": "it was a good idea to give computers to humans. it’s a better idea to give computers to computers so that they can create the same outputs we do on a computer for our work. that’s the core idea of perplexity computer in a nutshell.",
+      "timestamp": "2026-02-28T19:44:49+00:00",
+      "url": "https://x.com/AravSrinivas/status/2027832382695637070",
+      "images": [],
+      "likes": 203,
+      "retweets": 5,
+      "views": 7456
+    },
+    {
+      "id": "2027828718383862090",
+      "username": "alexgraveley",
+      "text": "Computer uses cgi-bin scripts by default as a simple way to keep backend requests transactional. \n\nThis allows us to spin up the sandbox on demand, so you can make apps &amp; dashboards without paying to keep servers running.",
+      "timestamp": "2026-02-28T19:30:16+00:00",
+      "url": "https://x.com/alexgraveley/status/2027828718383862090",
+      "images": [],
+      "likes": 15,
+      "retweets": 1,
+      "views": 1998
+    },
+    {
+      "id": "2027828482039025702",
+      "username": "GaryMarcus",
+      "text": "https://t.co/Mdp16zqWel – check it out!",
+      "timestamp": "2026-02-28T19:29:20+00:00",
+      "url": "https://x.com/GaryMarcus/status/2027828482039025702",
+      "images": [],
+      "likes": 98,
+      "retweets": 22,
+      "views": 3999
+    },
+    {
+      "id": "2027828049966678076",
+      "username": "NielsRogge",
+      "text": "OpenAI's Slack right now https://t.co/K2Ajhl4cBO",
+      "timestamp": "2026-02-28T19:27:36+00:00",
+      "url": "https://x.com/NielsRogge/status/2027828049966678076",
+      "images": [
+        "https://pbs.twimg.com/media/HCRK1eIWEAA1n7o.png"
+      ],
+      "likes": 14,
+      "retweets": 0,
+      "views": 392
+    },
+    {
+      "id": "2027826691914043574",
+      "username": "DeryaTR_",
+      "text": "Wow! Asimov is an open-source robot! Looks amazing! 😍 \nFull repo here: https://t.co/AWvIMJR25G",
+      "timestamp": "2026-02-28T19:22:13+00:00",
+      "url": "https://x.com/DeryaTR_/status/2027826691914043574",
+      "images": [],
+      "likes": 25,
+      "retweets": 1,
+      "views": 5094
+    },
+    {
+      "id": "2027817421336379707",
+      "username": "natolambert",
+      "text": "All of this happening will push a lot more investment in open models, so there’s transparency in the tools that’re being used across high stakes domains. \n\nAt the same time, these models won’t be received well if they’re built in an overly prescriptive way by any government.",
+      "timestamp": "2026-02-28T18:45:22+00:00",
+      "url": "https://x.com/natolambert/status/2027817421336379707",
+      "images": [],
+      "likes": 84,
+      "retweets": 7,
+      "views": 7515
+    },
+    {
+      "id": "2027815046953496801",
+      "username": "ibab",
+      "text": "It is strange to imagine this today, but one day AI companies might dictate terms to the US government instead of the other way around. We have only seen a glimpse of what AI is capable of. No matter what the future holds, I hope we’ll continue to live in a democratic society.",
+      "timestamp": "2026-02-28T18:35:56+00:00",
+      "url": "https://x.com/ibab/status/2027815046953496801",
+      "images": [],
+      "likes": 627,
+      "retweets": 26,
+      "views": 32982
+    },
+    {
+      "id": "2027808583979610333",
+      "username": "thegautamkamath",
+      "text": "Went to the lab https://t.co/jlPxLhPRvs",
+      "timestamp": "2026-02-28T18:10:15+00:00",
+      "url": "https://x.com/thegautamkamath/status/2027808583979610333",
+      "images": [
+        "https://pbs.twimg.com/media/HCQ5D5vakAASFsd.jpg"
+      ],
+      "likes": 5,
+      "retweets": 0,
+      "views": 876
+    },
+    {
+      "id": "2027578652477821175",
+      "username": "sama",
+      "text": "Tonight, we reached an agreement with the Department of War to deploy our models in their classified network.\n\nIn all of our interactions, the DoW displayed a deep respect for safety and a desire to partner to achieve the best possible outcome.\n\nAI safety and wide distribution of",
+      "timestamp": "2026-02-28T02:56:35+00:00",
+      "url": "https://x.com/sama/status/2027578652477821175",
+      "images": [],
+      "likes": 31026,
+      "retweets": 3539,
+      "views": 22374790
     }
   ]
 }
