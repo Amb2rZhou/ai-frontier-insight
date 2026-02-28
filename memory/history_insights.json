@@ -1,76 +1,6 @@
 {
   "predictions": [
     {
-      "date": "2026-02-25T18:08:43.570219+08:00",
-      "prediction_text": "未来 3-6 个月，将有更多自动驾驶公司转向端到端架构，并寻求与芯片巨头（Nvidia、Qualcomm）或云厂商（AWS、Azure）的战略投资/合作；同时，用于机器人基础模型训练的专业数据集和仿真平台价值将凸显。",
-      "category": "ecosystem_shift",
-      "source_signal": "Wayve Raises $1.2B for Embodied AI, Signaling Major Investment in End-to-End Autonomous Driving",
-      "timeframe": "3-6 months"
-    },
-    {
-      "date": "2026-02-25T18:08:43.584989+08:00",
-      "prediction_text": "未来 3-6 个月，基于这些开源 MoE 和 Agent 专用模型的行业解决方案将大量涌现，尤其在金融、代码、客服等领域；同时，闭源厂商（如 OpenAI、Anthropic）将面临更大压力，需通过更强大的推理或专属数据能力来维持溢价。",
-      "category": "open_source",
-      "source_signal": "Major New Open-Source MoE and Multimodal Models Released (Qwen, GLM-5, Kimi)",
-      "timeframe": "3-6 months"
-    },
-    {
-      "date": "2026-02-25T18:08:43.599767+08:00",
-      "prediction_text": "未来 3-6 个月，MatX 将密集与大型云厂商和 AI 实验室进行早期技术验证与设计定制；同时，更多拥有系统级优化经验的团队将获得融资，但产品落地和生态构建仍需至少 12-18 个月。",
-      "category": "infrastructure",
-      "source_signal": "MatX Emerges as Major Nvidia Challenger with $500M Raise from Ex-Google TPU Engineers",
-      "timeframe": "3-6 months"
-    },
-    {
-      "date": "2026-02-25T18:08:43.613766+08:00",
-      "prediction_text": "未来 3-6 个月，Anthropic 将大力拓展企业销售和合作伙伴渠道，并与 Salesforce、ServiceNow 等平台展开更激烈的竞争；同时，开发者工具链（如 SDK、本地部署方案）的完善将成为其市场渗透的关键。",
-      "category": "strategic_move",
-      "source_signal": "Anthropic Launches Claude Cowork and Expands Claude Code, Pushing Aggressively into Enterprise AI Agents",
-      "timeframe": "3-6 months"
-    },
-    {
-      "date": "2026-02-25T18:08:43.624711+08:00",
-      "prediction_text": "未来 3-6 个月，Apple 将加速其数据中心 AI 芯片（如 M4 Ultra 服务器版本）的部署，并可能公布更多与本土芯片制造（TSMC Arizona）合作的细节；同时，其他科技巨头可能效仿，宣布在北美或欧洲的类似制造投资。",
-      "category": "infrastructure",
-      "source_signal": "Apple Announces Major US Manufacturing Push for AI Servers and Mac Mini, Part of $600B Commitment",
-      "timeframe": "3-6 months"
-    },
-    {
-      "date": "2026-02-25T18:08:43.636481+08:00",
-      "prediction_text": "未来 3-6 个月，这些论文中的技术将迅速被开源社区和工业界实验室吸收并工程化，导致下半年发布的新模型在推理效率和多模态理解能力上有显著提升；同时，基于 'world model' 的具身智能研究将获得更多关注与资源。",
-      "category": "research_breakthrough",
-      "source_signal": "Arxiv Flood with Advanced Reasoning, Efficiency, and Multimodal Research",
-      "timeframe": "3-6 months"
-    },
-    {
-      "date": "2026-02-25T18:08:43.649212+08:00",
-      "prediction_text": "未来 3-6 个月，AI 巨头之间的人才争夺战将更加激烈且不受法律诉讼的明显制约；同时，各公司会加强内部数据与代码的访问控制，并更依赖竞业协议而非商业秘密法来保护核心资产。",
-      "category": "ecosystem_shift",
-      "source_signal": "OpenAI Defeats xAI's Trade Secrets Lawsuit, Legal Battle Over Talent Poaching Continues",
-      "timeframe": "3-6 months"
-    },
-    {
-      "date": "2026-02-25T18:46:38.355874+08:00",
-      "prediction_text": "未来3-6个月，其他领先的AI实验室（如OpenAI、DeepMind）将面临更大压力，需要公开阐述其安全与商业化之间的新平衡点，并可能调整其治理结构。同时，针对“后宪法AI”时代的新型安全研究（如动态监控、可中断性）将获得更多资金和关注。",
-      "category": "strategic_move",
-      "source_signal": "Anthropic Drops Constitutional AI Pledge, Signals Safety Pivot",
-      "timeframe": "3-6 months"
-    },
-    {
-      "date": "2026-02-25T18:46:38.362077+08:00",
-      "prediction_text": "未来3-6个月，将看到更多自动驾驶初创公司以Wayve为对标，寻求与芯片巨头和主机厂形成类似的“铁三角”战略联盟。同时，用于端到端模型训练的大规模真实世界驾驶数据集（Real-World Driving Datasets）的价值将急剧上升，成为新的竞争壁垒。",
-      "category": "ecosystem_shift",
-      "source_signal": "Autonomous Driving Startup Wayve Raises $1.2B from Nvidia, Automakers",
-      "timeframe": "3-6 months"
-    },
-    {
-      "date": "2026-02-25T18:46:38.374027+08:00",
-      "prediction_text": "未来3-6个月，AI安全与治理将成为全球科技政策议程的绝对核心，可能催生新的国际对话或监管框架提案。同时，AI实验室将加速投资于“对齐工程”（Alignment Engineering）和“失控预防”（Containment）技术的实用化，相关人才争夺将白热化。",
-      "category": "strategic_move",
-      "source_signal": "Anthropic Predicts Recursive Self-Improvement (RSI) by Early 2027",
-      "timeframe": "3-6 months"
-    },
-    {
       "date": "2026-02-25T18:46:38.385906+08:00",
       "prediction_text": "未来3-6个月，企业软件市场将出现明确的“AI原生工作流”与“AI增强传统工作流”两条路线之争。Anthropic将大力投资于与企业ERP、CRM系统的深度集成，并与系统集成商（SIs）建立伙伴关系，以加速其Agent平台在企业内部的部署。",
       "category": "strategic_move",
@@ -680,6 +610,66 @@
       "prediction_text": "将加速企业级AI Agent架构的标准化进程，并可能催生一个由开源框架、工具链和托管服务组成的繁荣生态，类似Kubernetes在容器编排领域的历史。",
       "category": "open_source",
       "source_signal": "Open-Source Agent OS 'Openfang' Gains Rapid Traction"
+    },
+    {
+      "date": "2026-02-28T07:32:50.847759+08:00",
+      "prediction_text": "这将迫使其他AI巨头寻求更激进的垂直整合或差异化定位，并可能加速监管机构对其市场主导地位的审查与干预。",
+      "category": "strategic_move",
+      "source_signal": "OpenAI Raises $110B from Amazon, Nvidia, SoftBank; ChatGPT Hits 900M Weekly Users"
+    },
+    {
+      "date": "2026-02-28T07:32:50.863365+08:00",
+      "prediction_text": "将催生新一代具备“即时学习”能力的个性化AI应用，并可能使基于超长上下文窗口的竞争路径价值大幅降低。",
+      "category": "research_breakthrough",
+      "source_signal": "Sakana AI Introduces Doc-to-LoRA: Hypernetwork for Instant Document Compression into Model Weights"
+    },
+    {
+      "date": "2026-02-28T07:32:50.883412+08:00",
+      "prediction_text": "将加剧AI Agent平台层的竞争，推动更多搜索和工具类公司通过构建开放Agent生态来巩固用户入口和开发者关系。",
+      "category": "product_launch",
+      "source_signal": "Perplexity Launches 'Computer' Unified AI Agent System and First Developer Conference"
+    },
+    {
+      "date": "2026-02-28T07:32:50.897857+08:00",
+      "prediction_text": "将进一步挤压独立图像生成初创公司的生存空间，并推动多模态模型竞争焦点从“有无”转向“质量与成本”的极致优化。",
+      "category": "model_release",
+      "source_signal": "Google Releases Nano Banana 2: State-of-the-Art Image Generation Model with Real-World Knowledge"
+    },
+    {
+      "date": "2026-02-28T07:32:50.913160+08:00",
+      "prediction_text": "将加速中等规模（10B-30B）高效模型在边缘计算和特定垂直领域的商业化部署，挑战“越大越好”的行业叙事。",
+      "category": "open_source",
+      "source_signal": "Alibaba Expands Qwen3.5 Family with New 27B Model, Matching Larger Open Weights Models"
+    },
+    {
+      "date": "2026-02-28T07:32:50.929703+08:00",
+      "prediction_text": "将引发一波上市公司效仿，通过宣布类似的AI驱动重组计划来寻求短期股价提升，并迫使所有企业重新评估其中后台岗位的长期必要性。",
+      "category": "ecosystem_shift",
+      "source_signal": "Block Cuts 40% Workforce in AI-Driven Restructuring, Stock Rises 20%+"
+    },
+    {
+      "date": "2026-02-28T07:32:50.940569+08:00",
+      "prediction_text": "将迅速被主流云厂商和推理服务商集成，显著改善复杂Agent工作流的用户体验与经济性，推动更广泛的企业级采纳。",
+      "category": "infrastructure",
+      "source_signal": "ContextCache: Persistent KV Cache with Content-Hash Addressing for 29x TTFT Speedup"
+    },
+    {
+      "date": "2026-02-28T07:32:50.967736+08:00",
+      "prediction_text": "将刺激全球视频生成领域投资与研发竞赛进一步升温，并可能加速好莱坞等传统内容产业与特定区域AI实验室的定向合作。",
+      "category": "model_release",
+      "source_signal": "Kling V3 Pro Tops Video Arena Leaderboards in Text-to-Video and Image-to-Video"
+    },
+    {
+      "date": "2026-02-28T07:32:50.986010+08:00",
+      "prediction_text": "将催生一批基于真实工作流数据优化的垂直领域AI助手，并推动AI UX设计从通用对话范式向专业化、工作流嵌入式范式演进。",
+      "category": "research_breakthrough",
+      "source_signal": "Allen AI Releases Asta Interaction Dataset: 250K+ Queries on AI-Powered Research Assistant Usage"
+    },
+    {
+      "date": "2026-02-28T07:32:51.000498+08:00",
+      "prediction_text": "将推动形成企业级AI Agent的部署框架与最佳实践标准，降低采用门槛，并催生专注于Agent监控、审计与治理的新兴工具市场。",
+      "category": "enterprise_ai",
+      "source_signal": "Google Opal Presents New Blueprint for Enterprise AI Agent Development"
     }
   ]
 }

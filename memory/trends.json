@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-27T07:33:00.712954+08:00",
+  "last_updated": "2026-02-28T07:34:06.116391+08:00",
   "trends": [
     {
       "id": "ai_safety_pivot_and_accelerated_agi_time",
@@ -18,7 +18,8 @@
         1,
         1,
         1,
-        1
+        1,
+        0
       ],
       "key_events": [
         {
@@ -73,7 +74,8 @@
         1,
         2,
         2,
-        1
+        1,
+        0
       ],
       "key_events": [
         {
@@ -117,10 +119,11 @@
         "Multimodal AI"
       ],
       "trajectory": "accelerating",
-      "signal_count": 5,
+      "signal_count": 6,
       "weekly_counts": [
         1,
         2,
+        1,
         1,
         1
       ],
@@ -148,6 +151,10 @@
         {
           "date": "2026-02-26",
           "event": "Qwen 3.5 Medium models released and perform strongly on benchmarks"
+        },
+        {
+          "date": "2026-02-28",
+          "event": "Alibaba expands Qwen3.5 family with new 27B model matching larger open weights models"
         }
       ],
       "created": "2026-02-25"
@@ -168,7 +175,8 @@
         1,
         1,
         1,
-        1
+        1,
+        0
       ],
       "key_events": [
         {
@@ -208,7 +216,7 @@
         "Anthropic"
       ],
       "trajectory": "accelerating",
-      "signal_count": 11,
+      "signal_count": 13,
       "weekly_counts": [
         1,
         1,
@@ -216,7 +224,8 @@
         1,
         1,
         2,
-        3
+        3,
+        2
       ],
       "key_events": [
         {
@@ -250,6 +259,10 @@
         {
           "date": "2026-02-27",
           "event": "Microsoft launches Copilot Tasks cloud-based autonomous AI agent system; ServiceNow achieves 90% autonomous IT request resolution"
+        },
+        {
+          "date": "2026-02-28",
+          "event": "Perplexity launches 'Computer' unified AI agent system and first developer conference; Google Opal presents new blueprint for enterprise AI agent development"
         }
       ],
       "created": "2026-02-25"
@@ -268,6 +281,7 @@
       "weekly_counts": [
         1,
         1,
+        0,
         0
       ],
       "key_events": [
@@ -292,7 +306,7 @@
         "Multimodal AI"
       ],
       "trajectory": "accelerating",
-      "signal_count": 9,
+      "signal_count": 12,
       "weekly_counts": [
         1,
         2,
@@ -300,7 +314,8 @@
         1,
         1,
         1,
-        1
+        1,
+        3
       ],
       "key_events": [
         {
@@ -334,6 +349,10 @@
         {
           "date": "2026-02-27",
           "event": "Solaris multiplayer video world model research in Minecraft advances multi-agent AI capabilities"
+        },
+        {
+          "date": "2026-02-28",
+          "event": "Sakana AI introduces Doc-to-LoRA: hypernetwork for instant document compression into model weights; ContextCache enables 29x TTFT speedup; Allen AI releases Asta interaction dataset"
         }
       ],
       "created": "2026-02-25"
@@ -353,7 +372,8 @@
         1,
         1,
         1,
-        1
+        1,
+        0
       ],
       "key_events": [
         {
@@ -388,7 +408,8 @@
       "signal_count": 2,
       "weekly_counts": [
         1,
-        1
+        1,
+        0
       ],
       "key_events": [
         {
@@ -420,11 +441,12 @@
         "AI Agents"
       ],
       "trajectory": "accelerating",
-      "signal_count": 4,
+      "signal_count": 5,
       "weekly_counts": [
         1,
         1,
-        2
+        2,
+        1
       ],
       "key_events": [
         {
@@ -442,6 +464,10 @@
         {
           "date": "2026-02-25",
           "event": "Nimble launches agentic search platform claiming 99% accuracy; Grok 4.20 Beta tops search arena"
+        },
+        {
+          "date": "2026-02-28",
+          "event": "Perplexity launches 'Computer' unified AI agent system"
         }
       ],
       "created": "2026-02-25"
@@ -456,7 +482,7 @@
         "Automation"
       ],
       "trajectory": "accelerating",
-      "signal_count": 13,
+      "signal_count": 15,
       "weekly_counts": [
         1,
         2,
@@ -464,6 +490,7 @@
         2,
         2,
         1,
+        2,
         2
       ],
       "key_events": [
@@ -498,6 +525,10 @@
         {
           "date": "2026-02-27",
           "event": "Open-source agent OS 'Openfang' gains rapid traction; invisible Unicode character attack reveals new agent vulnerabilities"
+        },
+        {
+          "date": "2026-02-28",
+          "event": "Perplexity launches 'Computer' unified AI agent system; Google Opal presents new blueprint for enterprise AI agent development"
         }
       ],
       "created": "2026-02-25"
@@ -512,10 +543,11 @@
         "Europe"
       ],
       "trajectory": "accelerating",
-      "signal_count": 4,
+      "signal_count": 5,
       "weekly_counts": [
         1,
         2,
+        1,
         1
       ],
       "key_events": [
@@ -538,6 +570,10 @@
         {
           "date": "2026-02-25",
           "event": "Spanish startup Multiverse Computing releases free compressed AI model; Qwen 3.5 Medium Model Series"
+        },
+        {
+          "date": "2026-02-28",
+          "event": "Sakana AI introduces Doc-to-LoRA for instant document compression into model weights"
         }
       ],
       "created": "2026-02-25"
@@ -552,11 +588,12 @@
         "Meta"
       ],
       "trajectory": "accelerating",
-      "signal_count": 7,
+      "signal_count": 8,
       "weekly_counts": [
         1,
         1,
         2,
+        1,
         1,
         1,
         1
@@ -585,6 +622,10 @@
         {
           "date": "2026-02-27",
           "event": "Apple releases Python SDK for on-device LLM on Mac, expanding edge AI infrastructure"
+        },
+        {
+          "date": "2026-02-28",
+          "event": "ContextCache enables persistent KV cache with 29x TTFT speedup"
         }
       ],
       "created": "2026-02-25"
@@ -598,11 +639,12 @@
         "Government",
         "Talent"
       ],
-      "trajectory": "stable",
+      "trajectory": "fading",
       "signal_count": 2,
       "weekly_counts": [
         1,
         1,
+        0,
         0
       ],
       "key_events": [
@@ -630,11 +672,12 @@
         "Business Models",
         "OpenAI"
       ],
-      "trajectory": "stable",
+      "trajectory": "fading",
       "signal_count": 2,
       "weekly_counts": [
         1,
         1,
+        0,
         0
       ],
       "key_events": [
@@ -666,7 +709,8 @@
       "signal_count": 2,
       "weekly_counts": [
         1,
-        1
+        1,
+        0
       ],
       "key_events": [
         {
@@ -698,7 +742,8 @@
       "weekly_counts": [
         1,
         1,
-        1
+        1,
+        0
       ],
       "key_events": [
         {
@@ -732,7 +777,8 @@
       "trajectory": "accelerating",
       "signal_count": 1,
       "weekly_counts": [
-        1
+        1,
+        0
       ],
       "key_events": [
         {
@@ -762,7 +808,8 @@
       "trajectory": "accelerating",
       "signal_count": 1,
       "weekly_counts": [
-        1
+        1,
+        0
       ],
       "key_events": [
         {
@@ -790,8 +837,9 @@
         "DeepSeek"
       ],
       "trajectory": "accelerating",
-      "signal_count": 2,
+      "signal_count": 3,
       "weekly_counts": [
+        1,
         1,
         1
       ],
@@ -803,6 +851,10 @@
         {
           "date": "2026-02-25",
           "event": "Alibaba Qwen releases new 3.5 Medium Model Series with MoE architecture"
+        },
+        {
+          "date": "2026-02-28",
+          "event": "Alibaba expands Qwen3.5 family with new 27B model"
         }
       ],
       "created": "2026-02-25"
@@ -819,7 +871,8 @@
       "trajectory": "accelerating",
       "signal_count": 1,
       "weekly_counts": [
-        1
+        1,
+        0
       ],
       "key_events": [
         {
@@ -839,11 +892,12 @@
         "Startup Funding"
       ],
       "trajectory": "accelerating",
-      "signal_count": 3,
+      "signal_count": 5,
       "weekly_counts": [
         1,
         1,
-        1
+        1,
+        2
       ],
       "key_events": [
         {
@@ -857,6 +911,10 @@
         {
           "date": "2026-02-27",
           "event": "Google Nano Banana 2 aims to reduce AI image generation costs by 10x"
+        },
+        {
+          "date": "2026-02-28",
+          "event": "Google releases Nano Banana 2 state-of-the-art image generation model; Kling V3 Pro tops video arena leaderboards"
         }
       ],
       "created": "2026-02-26"
@@ -871,17 +929,43 @@
         "Automation"
       ],
       "trajectory": "accelerating",
-      "signal_count": 1,
+      "signal_count": 2,
       "weekly_counts": [
+        1,
         1
       ],
       "key_events": [
         {
           "date": "2026-02-27",
           "event": "First detected"
+        },
+        {
+          "date": "2026-02-28",
+          "event": "Block cuts 40% workforce in AI-driven restructuring, stock rises 20%+"
         }
       ],
       "created": "2026-02-27"
+    },
+    {
+      "id": "mega-funding_rounds_and_market_consolida",
+      "name": "Mega-Funding Rounds and Market Consolidation",
+      "related_tags": [
+        "Funding",
+        "Market Leadership",
+        "Corporate Strategy"
+      ],
+      "trajectory": "accelerating",
+      "signal_count": 1,
+      "weekly_counts": [
+        1
+      ],
+      "key_events": [
+        {
+          "date": "2026-02-28",
+          "event": "First detected"
+        }
+      ],
+      "created": "2026-02-28"
     }
   ]
 }
