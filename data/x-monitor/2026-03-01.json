@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-01T10:32:43.119872",
+  "scraped_at": "2026-03-01T14:07:19.581801",
   "date": "2026-03-01",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 103,
-  "account_count": 38,
+  "tweet_count": 110,
+  "account_count": 39,
   "tweets": [
     {
       "id": "2027801122405249153",
@@ -1195,6 +1195,85 @@
       "likes": 3362,
       "retweets": 288,
       "views": 107864
+    },
+    {
+      "id": "2027982013966520364",
+      "username": "Miles_Brundage",
+      "text": "Who called it a tweet in favor of Anthropic and not a Claude C-ode",
+      "timestamp": "2026-03-01T05:39:24+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2027982013966520364",
+      "images": [],
+      "likes": 1,
+      "retweets": 0,
+      "views": 340
+    },
+    {
+      "id": "2027965551276859845",
+      "username": "DeryaTR_",
+      "text": "I was talking to a close Professor friend about AI models. He is also all in on AI like me. He said something that totally resonated with me: \n\n“I must say, not sure how we survived without AI. Total game changer. Do not need another colleague to discuss. No more chalk talk BS!”",
+      "timestamp": "2026-03-01T04:33:59+00:00",
+      "url": "https://x.com/DeryaTR_/status/2027965551276859845",
+      "images": [],
+      "likes": 27,
+      "retweets": 0,
+      "views": 2390
+    },
+    {
+      "id": "2027952658154192913",
+      "username": "minchoi",
+      "text": "If you're building agents, bookmark this.\n\nDesigning the action space is the whole game. https://t.co/qFhXOirrhI",
+      "timestamp": "2026-03-01T03:42:45+00:00",
+      "url": "https://x.com/minchoi/status/2027952658154192913",
+      "images": [
+        "https://pbs.twimg.com/media/HCS8E7-WMAAZGCl.jpg"
+      ],
+      "likes": 65,
+      "retweets": 9,
+      "views": 12390
+    },
+    {
+      "id": "2027950829525954935",
+      "username": "fchollet",
+      "text": "It's basically impossible to predict what emergent properties you might get from scaling up a given algorithm. That's why AGI is much more an engineering endeavor than a theoretical one. It's a process of discovery through building.",
+      "timestamp": "2026-03-01T03:35:29+00:00",
+      "url": "https://x.com/fchollet/status/2027950829525954935",
+      "images": [],
+      "likes": 291,
+      "retweets": 21,
+      "views": 17805
+    },
+    {
+      "id": "2027946594205659197",
+      "username": "DeryaTR_",
+      "text": "If you want to understand what a free Iran means &amp; its amazing potential, especially in the age of AI, you need to read this article from Farzad. Iran is one of the oldest civilizations &amp; has some of the smartest people on earth. A free Iran would make the world a better place!🇮🇷",
+      "timestamp": "2026-03-01T03:18:40+00:00",
+      "url": "https://x.com/DeryaTR_/status/2027946594205659197",
+      "images": [],
+      "likes": 79,
+      "retweets": 5,
+      "views": 8217
+    },
+    {
+      "id": "2027939853862592961",
+      "username": "DeryaTR_",
+      "text": "“Freedom is the rare inheritance that cannot be kept by possession alone; it must be deserved again and again by people willing to stand upright when fear invites them to kneel.”\n\nGPT-5.2 Pro",
+      "timestamp": "2026-03-01T02:51:53+00:00",
+      "url": "https://x.com/DeryaTR_/status/2027939853862592961",
+      "images": [],
+      "likes": 32,
+      "retweets": 6,
+      "views": 4400
+    },
+    {
+      "id": "2027935253386694691",
+      "username": "EMostaque",
+      "text": "Vibe code as variable reward skinner boxes",
+      "timestamp": "2026-03-01T02:33:36+00:00",
+      "url": "https://x.com/EMostaque/status/2027935253386694691",
+      "images": [],
+      "likes": 8,
+      "retweets": 0,
+      "views": 3718
     }
   ]
 }
