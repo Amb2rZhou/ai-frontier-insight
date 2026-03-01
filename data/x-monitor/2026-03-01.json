@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-01T07:02:09.149268",
+  "scraped_at": "2026-03-01T10:32:43.119872",
   "date": "2026-03-01",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 95,
-  "account_count": 36,
+  "tweet_count": 103,
+  "account_count": 38,
   "tweets": [
     {
       "id": "2027801122405249153",
@@ -1103,6 +1103,98 @@
       "likes": 94,
       "retweets": 11,
       "views": 11700
+    },
+    {
+      "id": "2027922300323156374",
+      "username": "docmilanfar",
+      "text": "“I’ve never wished a man dead, but I have read some obituaries with great pleasure.”",
+      "timestamp": "2026-03-01T01:42:08+00:00",
+      "url": "https://x.com/docmilanfar/status/2027922300323156374",
+      "images": [],
+      "likes": 92,
+      "retweets": 4,
+      "views": 3405
+    },
+    {
+      "id": "2027918583049642165",
+      "username": "deliprao",
+      "text": "fun fact: NSA is part of DOW. https://t.co/s8Qih7QfPQ",
+      "timestamp": "2026-03-01T01:27:21+00:00",
+      "url": "https://x.com/deliprao/status/2027918583049642165",
+      "images": [
+        "https://pbs.twimg.com/media/HCSc3S_bEAQM696.jpg"
+      ],
+      "likes": 1,
+      "retweets": 0,
+      "views": 416
+    },
+    {
+      "id": "2027918504935231932",
+      "username": "Miles_Brundage",
+      "text": "Having a nice bowl of supply chain bisque",
+      "timestamp": "2026-03-01T01:27:03+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2027918504935231932",
+      "images": [],
+      "likes": 4,
+      "retweets": 0,
+      "views": 660
+    },
+    {
+      "id": "2027912344823861677",
+      "username": "EMostaque",
+      "text": "It is inevitable that AI will run government\n\nThe question is who that AI works for if anyone at all\n\nAll watched over by machines of loving grace?",
+      "timestamp": "2026-03-01T01:02:34+00:00",
+      "url": "https://x.com/EMostaque/status/2027912344823861677",
+      "images": [],
+      "likes": 41,
+      "retweets": 2,
+      "views": 5043
+    },
+    {
+      "id": "2027898258782130519",
+      "username": "minchoi",
+      "text": "This guy ran Claude Code in bypass mode on production all week.\n\nOutran his todo board for the first time ever.\n\n~10x normal output.\n\nReal bottleneck is now the human. 💀",
+      "timestamp": "2026-03-01T00:06:36+00:00",
+      "url": "https://x.com/minchoi/status/2027898258782130519",
+      "images": [],
+      "likes": 71,
+      "retweets": 5,
+      "views": 14102
+    },
+    {
+      "id": "2027885099677553116",
+      "username": "thsottiaux",
+      "text": "Personal view. On the DoW deal, time and time again I witness how OpenAI operates thoughtfully and diplomatically when it comes to raising the bar on safety. I also believe that figuring out how to deploy powerful new technology in the pursuit of national security (not just the",
+      "timestamp": "2026-02-28T23:14:18+00:00",
+      "url": "https://x.com/thsottiaux/status/2027885099677553116",
+      "images": [],
+      "likes": 283,
+      "retweets": 22,
+      "views": 16995
+    },
+    {
+      "id": "2027884295268991104",
+      "username": "levie",
+      "text": "Agents having their own computer and filesystem to work with will be core primitives of the most powerful agentic systems. The models would not have been able to make this work even a year ago, but now it’s clear that this is the dominant architecture pattern going forward.",
+      "timestamp": "2026-02-28T23:11:06+00:00",
+      "url": "https://x.com/levie/status/2027884295268991104",
+      "images": [],
+      "likes": 276,
+      "retweets": 29,
+      "views": 55737
+    },
+    {
+      "id": "2027882977422610586",
+      "username": "mikeyk",
+      "text": "Claude is #1 in the App Store today — I want to say a huge thank you to all of our new (and existing!) users for the support. We’re working hard for you, please share your thoughts and feedback along the way. https://t.co/xbCLxqR0Yi",
+      "timestamp": "2026-02-28T23:05:52+00:00",
+      "url": "https://x.com/mikeyk/status/2027882977422610586",
+      "images": [
+        "https://pbs.twimg.com/media/HCR8vLCW0AAnMzJ.jpg"
+      ],
+      "likes": 3362,
+      "retweets": 288,
+      "views": 107864
     }
   ]
 }
