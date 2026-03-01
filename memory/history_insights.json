@@ -1,76 +1,6 @@
 {
   "predictions": [
     {
-      "date": "2026-02-25T18:46:38.385906+08:00",
-      "prediction_text": "未来3-6个月，企业软件市场将出现明确的“AI原生工作流”与“AI增强传统工作流”两条路线之争。Anthropic将大力投资于与企业ERP、CRM系统的深度集成，并与系统集成商（SIs）建立伙伴关系，以加速其Agent平台在企业内部的部署。",
-      "category": "strategic_move",
-      "source_signal": "Anthropic Launches Claude Cowork, Expanding Enterprise AI Agent Push",
-      "timeframe": "3-6 months"
-    },
-    {
-      "date": "2026-02-25T18:46:38.396940+08:00",
-      "prediction_text": "未来3-6个月，MatX将密集与大型云厂商（AWS、GCP、Azure）和头部AI研究机构进行早期技术验证（Proof-of-Concept）和联合设计。同时，风险投资将更青睐那些拥有系统级（硬件-软件协同设计）经验和成熟tape-out记录的AI芯片创业团队。",
-      "category": "infrastructure",
-      "source_signal": "Nvidia Challenger AI Chip Startup MatX Raises $500M",
-      "timeframe": "3-6 months"
-    },
-    {
-      "date": "2026-02-25T18:46:38.407091+08:00",
-      "prediction_text": "未来3-6个月，其他科技巨头（如微软、谷歌）将效仿苹果，公布更多在北美或欧洲本土的AI专用硬件（服务器芯片、边缘设备）制造或封装投资计划。同时，服务于“回流”需求的本地化高端制造和测试设备供应商将迎来增长机会。",
-      "category": "infrastructure",
-      "source_signal": "Apple Announces US Production of Mac Mini as Part of $600B AI Commitment",
-      "timeframe": "3-6 months"
-    },
-    {
-      "date": "2026-02-25T18:46:38.416619+08:00",
-      "prediction_text": "未来3-6个月，我们将看到更多AI研究实验室和学术机构成立专门的“AI科学家”团队，探索在数学、物理、材料科学等领域的自动化发现。同时，用于形式验证和定理证明的专用工具链与LLM的结合将成为热门研究方向。",
-      "category": "research_breakthrough",
-      "source_signal": "Arxiv: Aletheia AI Agent Autonomously Solves FirstProof Math Challenge",
-      "timeframe": "3-6 months"
-    },
-    {
-      "date": "2026-02-25T18:46:38.427636+08:00",
-      "prediction_text": "未来3-6个月，基于Qwen等开源MoE模型的行业垂直解决方案（如金融分析、代码生成、多语言客服）将大量涌现，进一步挤压闭源模型API在中端市场的空间。同时，闭源厂商必须通过展示在复杂推理、专属数据或更低延迟上的显著优势来维持其溢价。",
-      "category": "open_source",
-      "source_signal": "HuggingFace Trending: Qwen Series MoE Models Gain Massive Popularity",
-      "timeframe": "3-6 months"
-    },
-    {
-      "date": "2026-02-25T18:46:38.434172+08:00",
-      "prediction_text": "未来3-6个月，传统企业搜索供应商（如Elasticsearch、Solr的周边生态）将面临巨大压力，必须快速整合LLM和Agent能力。同时，我们将看到更多垂直行业（如法律、医疗、学术）出现专注于“深度问答”和“证据合成”的Agentic Search初创公司。",
-      "category": "ecosystem_shift",
-      "source_signal": "Nimble Launches Agentic Search Platform Claiming 99% Accuracy",
-      "timeframe": "3-6 months"
-    },
-    {
-      "date": "2026-02-25T18:46:38.444417+08:00",
-      "prediction_text": "未来3-6个月，自动驾驶领域的研究重点将部分从“ scaling law ”转向“数据效率”和“学习算法”的创新。更多论文将探讨如何利用语言、仿真和少量高质量真实数据来训练高性能驾驶策略。同时，专注于高质量驾驶场景数据标注和生成的公司价值将凸显。",
-      "category": "research_breakthrough",
-      "source_signal": "Arxiv: NoRD - Data-Efficient Vision-Language-Action Model for Autonomous Driving",
-      "timeframe": "3-6 months"
-    },
-    {
-      "date": "2026-02-25T18:46:38.450901+08:00",
-      "prediction_text": "未来3-6个月，我们将看到更多来自欧洲、亚洲其他地区以及垂直行业（如生物科技、金融科技）的公司发布其定制化或领域优化的高效开源模型，进一步丰富和碎片化开源模型生态。",
-      "category": "open_source",
-      "source_signal": "Spanish Startup Multiverse Computing Releases Free Compressed 60B Model",
-      "timeframe": "3-6 months"
-    },
-    {
-      "date": "2026-02-25T18:46:38.466298+08:00",
-      "prediction_text": "未来3-6个月，MCU（微控制器）和低功耗SoC厂商将加速与AI软件栈公司合作，推出针对超低功耗LLM推理优化的硬件参考设计和SDK。同时，面向“1美元AI”或“纽扣电池供电AI”场景的创业想法将开始涌现。",
-      "category": "open_source",
-      "source_signal": "GitHub Project: Run 1B Parameter LLM on $10 Board with 256MB RAM",
-      "timeframe": "3-6 months"
-    },
-    {
-      "date": "2026-02-25T18:46:38.475860+08:00",
-      "prediction_text": "未来3-6个月，基于不确定性驱动探索的强化学习（RL）算法将与LLM规划器更深度地结合，成为AI Agent研究的热点。我们将在游戏、仿真环境甚至简单的现实世界任务中，看到更多展示“从零开始学习”或“持续技能提升”的Agent演示。",
-      "category": "research_breakthrough",
-      "source_signal": "Arxiv: SELAUR - Self Evolving LLM Agent via Uncertainty-aware Rewards",
-      "timeframe": "3-6 months"
-    },
-    {
       "date": "2026-02-25T18:46:38.483693+08:00",
       "prediction_text": "未来3-6个月，更多云服务商和大型企业将在其AI基础设施中增加对AMD GPU实例的测试和部署。同时，其他硬件厂商（如Intel）也会加速其AI软件栈与主流框架（PyTorch, JAX）的集成，以争夺Meta等超大规模客户。",
       "category": "open_source",
@@ -670,6 +600,66 @@
       "prediction_text": "将推动形成企业级AI Agent的部署框架与最佳实践标准，降低采用门槛，并催生专注于Agent监控、审计与治理的新兴工具市场。",
       "category": "enterprise_ai",
       "source_signal": "Google Opal Presents New Blueprint for Enterprise AI Agent Development"
+    },
+    {
+      "date": "2026-03-01T07:32:37.038190+08:00",
+      "prediction_text": "这将开创政府-企业合作的新范式，迫使其他 AI 公司必须在商业机会与伦理红线间做出更明确的战略选择，并可能加速全球范围内针对军事 AI 应用的监管框架制定。",
+      "category": "strategic_move",
+      "source_signal": "OpenAI Secures Pentagon Deal with 'Technical Safeguards' After Anthropic Rejection"
+    },
+    {
+      "date": "2026-03-01T07:32:37.149403+08:00",
+      "prediction_text": "此举将加剧 AI 行业在国家安全项目上的寒蝉效应，可能驱使部分顶尖人才和资本流向监管更宽松的地区或领域，并激发关于政府过度干预科技公司的法律与舆论反弹。",
+      "category": "ecosystem_shift",
+      "source_signal": "Anthropic Designated as Supply Chain Risk by US DoD, Sparking Industry Backlash"
+    },
+    {
+      "date": "2026-03-01T07:32:37.169120+08:00",
+      "prediction_text": "这直接推动了‘Enterprise AI Agent Adoption’趋势，未来半年内将迫使所有代码助手竞品跟进类似的多代理编排能力，并催生针对遗留系统现代化的大规模自动化服务市场。",
+      "category": "product_launch",
+      "source_signal": "Claude Code Introduces /batch and /simplify Skills for Parallel Agentic Coding"
+    },
+    {
+      "date": "2026-03-01T07:32:37.179352+08:00",
+      "prediction_text": "这将重塑全球开源 AI 的权力格局，迫使西方巨头在模型开源策略上更激进，并可能加速地缘政治因素对开源社区的技术供应链（如芯片、算力）产生更直接的干预。",
+      "category": "open_source",
+      "source_signal": "Chinese Open-Weight Models Dominate HuggingFace Trends and Code Arena"
+    },
+    {
+      "date": "2026-03-01T07:32:37.186277+08:00",
+      "prediction_text": "这将为‘Efficient and Compressed AI Model Innovation’趋势提供新方向，推动学界和工业界重新探索模型架构的算法效率极限，并可能催生新一代超低功耗的嵌入式推理芯片。",
+      "category": "research_breakthrough",
+      "source_signal": "Research: Tiny Transformers (<100 Params) Can Master 10-Digit Addition"
+    },
+    {
+      "date": "2026-03-01T07:32:37.194685+08:00",
+      "prediction_text": "各国政府将在未来几周内紧急升级对社交平台 AI 内容溯源与限流的技术要求，并大幅增加对 AI 赋能的信息战（InfoOps）和网络安全防御项目的预算与采购。",
+      "category": "ecosystem_shift",
+      "source_signal": "AI-Powered Disinformation and Cyber Attacks Amplify Amid Real-World Conflict"
+    },
+    {
+      "date": "2026-03-01T07:32:37.207278+08:00",
+      "prediction_text": "类似的开源基础设施项目将在未来一年内大量涌现，侵蚀商用 Agent 平台的基础份额，并推动企业级 Agent 部署走向以开源框架为核心、混合多云服务的异构架构。",
+      "category": "open_source",
+      "source_signal": "Open-Source Agent OS 'Openfang' Gains Rapid Traction on GitHub"
+    },
+    {
+      "date": "2026-03-01T07:32:37.216341+08:00",
+      "prediction_text": "相关技术若被验证有效，将在未来 3-6 个月内被集成进主流 Agent 框架，显著提升复杂工作流的完成度与可靠性，并推动长周期、高自主性 Agent（如自动化科研、持续运营）的实用化。",
+      "category": "research_breakthrough",
+      "source_signal": "Arxiv: ParamMem Augments Language Agents with Parametric Reflective Memory"
+    },
+    {
+      "date": "2026-03-01T07:32:37.226490+08:00",
+      "prediction_text": "主要学术出版机构将在未来一年内被迫修订作者指南，明确要求披露 AI 在思想生成阶段的贡献程度，并可能催生新的 AI 辅助研究溯源与伦理审查工具。",
+      "category": "ecosystem_shift",
+      "source_signal": "Community Debate: AI's Role in Academic Paper Ideation Raises Authorship Ethics Questions"
+    },
+    {
+      "date": "2026-03-01T07:32:37.233062+08:00",
+      "prediction_text": "这将开启‘始终在线’的社交代理新品类，未来 6 个月内会有大量消费级 AI 公司效仿此通信集成路径，并可能引发电信运营商对 AI 信息服务的监管与收费模式调整。",
+      "category": "product_launch",
+      "source_signal": "Pika Labs Launches 'AI Selves' with Phone Numbers for iMessage/SMS Integration"
     }
   ]
 }

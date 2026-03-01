@@ -1179,6 +1179,254 @@
           0
         ]
       }
+    ],
+    "2026-03-01": [
+      {
+        "title": "OpenAI Secures Pentagon Deal with 'Technical Safeguards' After Anthropic Rejection",
+        "signal_text": "OpenAI 宣布与美国国防部达成协议，将在其机密网络中部署模型，并强调包含了“技术保障措施”。此举发生在 Anthropic 因拒绝修改合同条款（涉及自主致命武器和国内大规模监控）而被国防部指定为“供应链风险”之后，引发了关于 AI 公司军事合作伦理、政府干预以及竞争格局剧变的广泛讨论。",
+        "signal_strength": 0.95,
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/our-agreement-with-the-department-of-war"
+          },
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/02/28/openais-sam-altman-announces-pentagon-deal-with-technical-safeguards/"
+          },
+          {
+            "name": "Twitter @sama",
+            "url": "https://x.com/sama/status/2027578580159631610"
+          }
+        ],
+        "tags": [
+          "AI Safety",
+          "Government Policy",
+          "Corporate Strategy"
+        ],
+        "raw_item_indices": [
+          21,
+          30,
+          134,
+          135,
+          157
+        ]
+      },
+      {
+        "title": "Anthropic Designated as Supply Chain Risk by US DoD, Sparking Industry Backlash",
+        "signal_text": "美国国防部将 Anthropic 指定为“供应链风险”，禁止其承包商与 Anthropic 开展业务，以回应后者拒绝在合同条款上让步（包括禁止用于自主致命武器和国内大规模监控）。此举引发 AI 社区强烈反弹，被视为对坚持安全红线的公司的惩罚，并可能损害美国 AI 领导力。",
+        "signal_strength": 0.9,
+        "sources": [
+          {
+            "name": "Twitter @AnthropicAI",
+            "url": "https://x.com/AnthropicAI/status/2027555481699446918"
+          },
+          {
+            "name": "Twitter @boazbaraktcs",
+            "url": "https://x.com/boazbaraktcs/status/2027528391394537534"
+          },
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/02/28/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute/"
+          }
+        ],
+        "tags": [
+          "AI Ethics",
+          "Government Regulation",
+          "Industry Dynamics"
+        ],
+        "raw_item_indices": [
+          7,
+          9,
+          34,
+          37,
+          40,
+          67,
+          101,
+          108,
+          143
+        ]
+      },
+      {
+        "title": "Claude Code Introduces /batch and /simplify Skills for Parallel Agentic Coding",
+        "signal_text": "Anthropic 为 Claude Code 推出两项新技能：/batch 用于并行规划和执行代码迁移（使用数十个隔离的代理），/simplify 用于自动代码清理。这标志着 AI 编程助手从单任务代码生成向大规模、多代理工作流编排的演进。",
+        "signal_strength": 0.85,
+        "sources": [
+          {
+            "name": "Twitter @bcherny",
+            "url": "https://x.com/bcherny/status/2027534984534544489"
+          },
+          {
+            "name": "Twitter @minchoi",
+            "url": "https://x.com/minchoi/status/2027772823511429367"
+          }
+        ],
+        "tags": [
+          "AI Agents",
+          "Software Development",
+          "Product Launch"
+        ],
+        "raw_item_indices": [
+          61,
+          62,
+          88
+        ]
+      },
+      {
+        "title": "Chinese Open-Weight Models Dominate HuggingFace Trends and Code Arena",
+        "signal_text": "Qwen、GLM、Nanbeige 等中国开源模型家族（如 Qwen3.5-397B-A17B, GLM-5）在 HuggingFace 趋势榜上占据主导，下载量和点赞数极高。同时，GLM-5 在 Code Arena 的智能体编码排行榜上位居榜首，显示中国开源模型在能力和社区影响力上正快速接近甚至超越国际领先水平。",
+        "signal_strength": 0.85,
+        "sources": [
+          {
+            "name": "HuggingFace Trending Models",
+            "url": "https://huggingface.co/Qwen/Qwen3.5-397B-A17B"
+          },
+          {
+            "name": "HuggingFace Trending Models",
+            "url": "https://huggingface.co/zai-org/GLM-5"
+          },
+          {
+            "name": "Twitter @arena",
+            "url": "https://x.com/arena/status/2027540296276607105"
+          }
+        ],
+        "tags": [
+          "Open Source",
+          "Chinese AI",
+          "Benchmarks"
+        ],
+        "raw_item_indices": [
+          55,
+          211,
+          212,
+          215,
+          217
+        ]
+      },
+      {
+        "title": "Research: Tiny Transformers (<100 Params) Can Master 10-Digit Addition",
+        "signal_text": "一项新研究表明，参数少于 100 的微型 Transformer 模型可以学会对两个 10 位数进行加法运算，并达到 100% 的准确率。这挑战了“模型能力严格依赖于参数规模”的普遍认知，为理解 Transformer 的算法学习能力和开发极致高效的微型模型提供了新视角。",
+        "signal_strength": 0.8,
+        "sources": [
+          {
+            "name": "Hacker News",
+            "url": "https://alexlitzenberger.com/blog/post.html?post=/building_a_minimal_transformer_for_10_digit_addition"
+          },
+          {
+            "name": "Reddit ML",
+            "url": "https://www.reddit.com/r/MachineLearning/comments/1rh84o0/r_tiny_transformers_100_params_can_add_two/"
+          }
+        ],
+        "tags": [
+          "AI Research",
+          "Model Efficiency",
+          "Interpretability"
+        ],
+        "raw_item_indices": [
+          4,
+          18
+        ]
+      },
+      {
+        "title": "AI-Powered Disinformation and Cyber Attacks Amplify Amid Real-World Conflict",
+        "signal_text": "在美以袭击伊朗的实时事件中，X/Twitter 平台被虚假信息淹没，同时一款伊朗祈祷应用被黑并向用户发送“投降”信息。这凸显了在高速演变的现实冲突中，AI 生成内容与自动化网络攻击结合，对社会稳定和信息环境构成即时且严峻的威胁。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "Wired",
+            "url": "https://www.wired.com/story/x-is-drowning-in-disinformation-following-us-and-israels-attack-on-iran/"
+          },
+          {
+            "name": "Wired",
+            "url": "https://www.wired.com/story/hacked-prayer-app-sends-surrender-messages-to-iranians-amid-israeli-strikes/"
+          }
+        ],
+        "tags": [
+          "AI Security",
+          "Disinformation",
+          "Cybersecurity"
+        ],
+        "raw_item_indices": [
+          2,
+          24
+        ]
+      },
+      {
+        "title": "Open-Source Agent OS 'Openfang' Gains Rapid Traction on GitHub",
+        "signal_text": "开源智能体操作系统 Openfang 在 GitHub 上迅速走红，获得超过 5500 颗星。该项目使用 Rust 编写，提供模块化的 AI 智能体框架，反映了市场对可定制、可掌控的底层智能体基础设施的强烈需求，与封闭的商用智能体平台形成竞争。",
+        "signal_strength": 0.7,
+        "sources": [
+          {
+            "name": "GitHub Trending",
+            "url": "https://github.com/RightNow-AI/openfang"
+          }
+        ],
+        "tags": [
+          "AI Agents",
+          "Open Source",
+          "Developer Tools"
+        ],
+        "raw_item_indices": [
+          169
+        ]
+      },
+      {
+        "title": "Arxiv: ParamMem Augments Language Agents with Parametric Reflective Memory",
+        "signal_text": "新论文提出 ParamMem，一种通过参数化反思记忆来增强语言智能体的方法，旨在解决传统自我反思导致的输出重复问题，提升推理性能。这代表了在提高智能体长期任务执行和迭代优化能力方面的新研究方向。",
+        "signal_strength": 0.65,
+        "sources": [
+          {
+            "name": "Arxiv",
+            "url": "http://arxiv.org/abs/2602.23320v1"
+          }
+        ],
+        "tags": [
+          "AI Research",
+          "AI Agents",
+          "Memory"
+        ],
+        "raw_item_indices": [
+          204
+        ]
+      },
+      {
+        "title": "Community Debate: AI's Role in Academic Paper Ideation Raises Authorship Ethics Questions",
+        "signal_text": "AI 工具（如 Claude）正被用于生成学术论文的核心思想，引发了关于作者责任的讨论。批评指出，AI 不擅长为所用思想溯源，这可能导致学术不端和归因问题，迫使学术界重新思考在 AI 辅助下的作者身份和贡献界定标准。",
+        "signal_strength": 0.6,
+        "sources": [
+          {
+            "name": "Twitter @littmath",
+            "url": "https://x.com/littmath/status/2027584126467870947"
+          }
+        ],
+        "tags": [
+          "AI Ethics",
+          "Academia",
+          "Content Generation"
+        ],
+        "raw_item_indices": [
+          132
+        ]
+      },
+      {
+        "title": "Pika Labs Launches 'AI Selves' with Phone Numbers for iMessage/SMS Integration",
+        "signal_text": "Pika Labs 推出“AI Selves”功能，为用户创建的 AI 角色分配真实的电话号码，可集成到 iMessage 或 SMS 群聊中。这标志着 AI 智能体从封闭的聊天界面向无缝融入日常通信基础设施迈出一步，开启了社交代理和持续存在助手的新可能。",
+        "signal_strength": 0.6,
+        "sources": [
+          {
+            "name": "Twitter @pika_labs",
+            "url": "https://x.com/pika_labs/status/2027549433261658534"
+          }
+        ],
+        "tags": [
+          "AI Agents",
+          "Product Launch",
+          "Consumer AI"
+        ],
+        "raw_item_indices": [
+          35
+        ]
+      }
     ]
   },
   "archived_weeks": []
