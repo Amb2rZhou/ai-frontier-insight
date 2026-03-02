@@ -1,76 +1,6 @@
 {
   "predictions": [
     {
-      "date": "2026-02-25T18:46:38.483693+08:00",
-      "prediction_text": "未来3-6个月，更多云服务商和大型企业将在其AI基础设施中增加对AMD GPU实例的测试和部署。同时，其他硬件厂商（如Intel）也会加速其AI软件栈与主流框架（PyTorch, JAX）的集成，以争夺Meta等超大规模客户。",
-      "category": "open_source",
-      "source_signal": "Meta Open Sources RCCLX for Enhanced GPU Communications on AMD",
-      "timeframe": "3-6 months"
-    },
-    {
-      "date": "2026-02-25T18:46:38.495487+08:00",
-      "prediction_text": "未来3-6个月，类似的开放、多智能体经济仿真实验将吸引更多研究者和爱好者的参与，形成一个小的社区。其初步发现可能会引发关于AI Agents所有权、价值分配以及监管框架的早期学术和伦理讨论。",
-      "category": "open_source",
-      "source_signal": "GitHub Project: Quoroom - Public Experiment on Autonomous AI Agents Earning Money",
-      "timeframe": "3-6 months"
-    },
-    {
-      "date": "2026-02-25T19:54:52.175492+08:00",
-      "prediction_text": "未来3-6个月，我们将看到更多AI公司（包括其他安全导向的初创公司）在公开声明和产品路线图中淡化安全考量，转而强调能力突破和上市速度。同时，监管机构和公众对AI公司自我监管承诺的信任将降至冰点，推动更严厉的监管提案加速出台。",
-      "category": "strategic_move",
-      "source_signal": "Anthropic Drops Safety Pledge, Signals Strategic Pivot",
-      "timeframe": "3-6 months"
-    },
-    {
-      "date": "2026-02-25T19:54:52.181859+08:00",
-      "prediction_text": "未来3-6个月，企业软件开发和DevOps团队将大规模采购和集成此类编码Agent，导致对传统IDE插件和代码辅助工具的需求急剧下降。同时，基于此类强大编码Agent的、面向特定垂直领域（如金融系统、嵌入式开发）的二次开发平台将大量涌现。",
-      "category": "model_release",
-      "source_signal": "OpenAI GPT-5.3-Codex GA, Dominates Coding Agent Benchmarks",
-      "timeframe": "3-6 months"
-    },
-    {
-      "date": "2026-02-25T19:54:52.197103+08:00",
-      "prediction_text": "未来3-6个月，我们将看到一系列针对此漏洞的紧急补丁和新的安全测试框架（如专门针对推理阶段攻击的Benchmark）被快速推出。同时，企业客户在选择开源模型时将把‘安全审计报告’和‘漏洞修复响应速度’作为核心评估指标，催生新的模型安全即服务（Model Security as a Service）市场。",
-      "category": "ecosystem_shift",
-      "source_signal": "Systematic Vulnerability (Prefill Attacks) Found in 50 Open-Weight LLMs",
-      "timeframe": "3-6 months"
-    },
-    {
-      "date": "2026-02-25T19:54:52.214522+08:00",
-      "prediction_text": "未来3-6个月，其他自动驾驶公司（如Cruise、Mobileye）将被迫加速其端到端AI模型的研发和路测，并寻求类似的战略联盟。同时，资本市场将出现明显的‘马太效应’，资金和人才将进一步向拥有类似‘AI+车企+芯片巨头’三角联盟的头部玩家集中。",
-      "category": "strategic_move",
-      "source_signal": "Wayve Raises $1.2B for Embodied AI, Backed by Nvidia and Automakers",
-      "timeframe": "3-6 months"
-    },
-    {
-      "date": "2026-02-25T19:54:52.225280+08:00",
-      "prediction_text": "未来3-6个月，所有主要的AI编码助手（包括GitHub Copilot、Cursor）都将推出类似的移动端协同与控制功能。同时，我们将看到更多非编码类的AI Agent（如数据分析、设计）开始支持跨设备的状态同步和任务接管，推动‘移动优先’的Agent设计理念。",
-      "category": "product_launch",
-      "source_signal": "Anthropic Launches Claude Code Remote Control for Mobile",
-      "timeframe": "3-6 months"
-    },
-    {
-      "date": "2026-02-25T19:54:52.247814+08:00",
-      "prediction_text": "未来3-6个月，大型银行、政府机构等COBOL系统持有者将启动大量POC项目，评估使用AI进行核心系统现代化改造的可行性。同时，传统系统集成商（如Accenture、Infosys）将面临巨大压力，必须快速转型，将其咨询服务从‘人力外包’转向‘AI解决方案设计与调优’。",
-      "category": "ecosystem_shift",
-      "source_signal": "Anthropic's COBOL Translation Tools Trigger IBM Stock Sell-off",
-      "timeframe": "3-6 months"
-    },
-    {
-      "date": "2026-02-25T19:54:52.254342+08:00",
-      "prediction_text": "未来3-6个月，我们将看到MatX公布其具体的芯片架构细节和早期客户（很可能是超大规模云厂商或AI实验室）。同时，其他AI芯片初创公司（如Groq、Cerebras）的估值和融资活动也将因此受益，整个赛道将吸引更多来自传统半导体巨头（如Intel、AMD）的资深人才加入创业。",
-      "category": "infrastructure",
-      "source_signal": "MatX (Nvidia Challenger) Raises $500M, Founded by Ex-Google TPU Engineers",
-      "timeframe": "3-6 months"
-    },
-    {
-      "date": "2026-02-25T19:54:52.263744+08:00",
-      "prediction_text": "未来3-6个月，更多开源模型团队将发布其‘中等规模、顶级性能’的MoE模型，形成介于7B-70B参数之间的高性能模型矩阵。同时，云服务商将大力推广基于此类高效模型的推理实例，以其极佳的性价比吸引中小企业和开发者，加剧模型即服务（MaaS）市场的价格竞争。",
-      "category": "model_release",
-      "source_signal": "Qwen Releases 3.5 Medium Model Series with Architectural Efficiency Gains",
-      "timeframe": "3-6 months"
-    },
-    {
       "date": "2026-02-25T19:54:52.270451+08:00",
       "prediction_text": "未来3-6个月，头部AI公司之间针对高级别人才的‘挖角’竞争将更加激烈且公开化，薪酬包可能再创新高。同时，各公司将更加注重通过技术手段（如代码库监控、内部知识管理）而非法律手段来保护核心知识产权。",
       "category": "strategic_move",
@@ -660,6 +590,66 @@
       "prediction_text": "这将开启‘始终在线’的社交代理新品类，未来 6 个月内会有大量消费级 AI 公司效仿此通信集成路径，并可能引发电信运营商对 AI 信息服务的监管与收费模式调整。",
       "category": "product_launch",
       "source_signal": "Pika Labs Launches 'AI Selves' with Phone Numbers for iMessage/SMS Integration"
+    },
+    {
+      "date": "2026-03-02T10:07:03.745753+08:00",
+      "prediction_text": "这将迫使所有寻求政府合同的AI公司必须制定并公开更严格的技术可靠性评估与使用限制框架，并可能催生独立的第三方AI军事应用审计行业。",
+      "category": "ecosystem_shift",
+      "source_signal": "[Update] OpenAI Pentagon Deal Triggers Industry and Expert Backlash on AI Ethics"
+    },
+    {
+      "date": "2026-03-02T10:07:03.774403+08:00",
+      "prediction_text": "未来12-18个月内，主流视频生成模型将快速集成此类联合优化框架，大幅提升AI生成内容的感官协调性与专业可用性，冲击传统多媒体内容生产管线。",
+      "category": "research_breakthrough",
+      "source_signal": "JavisDiT++: Unified Modeling for Joint Audio-Video Generation"
+    },
+    {
+      "date": "2026-03-02T10:07:03.811829+08:00",
+      "prediction_text": "未来消费电子巨头将加速推出融合柔性屏、模块化组件与具身AI的混合形态设备，推动‘Ambient Computing’与‘Embodied AI’趋势在终端落地，相关传感器与交互技术供应链将受益。",
+      "category": "infrastructure",
+      "source_signal": "Lenovo Unveils Modular AI PC and Companion Robot Concepts at MWC"
+    },
+    {
+      "date": "2026-03-02T10:07:03.835312+08:00",
+      "prediction_text": "AGI研发将更倾向于由拥有庞大算力与工程资源的巨头主导，加剧‘ scaling law’军备竞赛，同时可能边缘化纯理论AI安全研究，引发学界关于研发路径的新论战。",
+      "category": "ecosystem_shift",
+      "source_signal": "François Chollet: AGI is an Engineering Endeavor of Discovery Through Building"
+    },
+    {
+      "date": "2026-03-02T10:07:03.862162+08:00",
+      "prediction_text": "将催生一波专注于AI开发流程标准化、团队协作与知识沉淀的新工具与平台，类似‘AGENTS.md’的规范可能在未来1-2年内成为高质量开源项目的标配。",
+      "category": "open_source",
+      "source_signal": "Empirical Study Reveals Low Adoption of AI Configuration Files in Open Source"
+    },
+    {
+      "date": "2026-03-02T10:07:03.889143+08:00",
+      "prediction_text": "中小型团队利用此类工具实现‘一人团队’开发将成为可能，迫使传统软件开发管理（如Scrum）模式革新，并加速低代码平台与AI Agent平台的融合。",
+      "category": "infrastructure",
+      "source_signal": "Forge: Orchestrating Multi-Role AI Development Teams from Single CLI"
+    },
+    {
+      "date": "2026-03-02T10:07:03.930619+08:00",
+      "prediction_text": "将加剧全球AI人才枢纽（如印度、东南亚）的竞争，推动更多跨国‘学术-产业-政府’三角合作模式，可能影响全球AI技术流向与治理联盟的形成。",
+      "category": "strategic_move",
+      "source_signal": "McGill University Establishes AI Centre of Excellence in India"
+    },
+    {
+      "date": "2026-03-02T10:07:03.954693+08:00",
+      "prediction_text": "若被广泛采纳，将推动AI Agent开发、部署与运维工作流深度融入现有DevOps体系，降低企业采用门槛，并可能成为未来Agent互操作性的底层标准之一。",
+      "category": "open_source",
+      "source_signal": "Git-Native AI Agent Standard ‘gitagent’ Emerges on GitHub"
+    },
+    {
+      "date": "2026-03-02T10:07:03.979915+08:00",
+      "prediction_text": "将激励更多开发者针对Apple Silicon、ARM服务器、RISC-V等新兴计算平台开发原生优化的AI算法库，进一步碎片化和专业化AI底层软件栈。",
+      "category": "infrastructure",
+      "source_signal": "UMAP in Pure MLX Achieves 30x Speedup on Apple Silicon"
+    },
+    {
+      "date": "2026-03-02T10:07:04.008911+08:00",
+      "prediction_text": "企业级AI编码助手必须内置或集成此类隐私过滤工具，推动‘Privacy-Preserving AI Development’成为标准需求，并可能催生AI开发活动监控与审计的新细分赛道。",
+      "category": "ecosystem_shift",
+      "source_signal": "VibeGuard: Privacy Tool for ‘Vibecoding’ with AI Assistants"
     }
   ]
 }

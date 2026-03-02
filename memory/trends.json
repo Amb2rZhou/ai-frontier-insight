@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-01T07:33:36.587175+08:00",
+  "last_updated": "2026-03-02T10:08:03.931883+08:00",
   "trends": [
     {
       "id": "ai_safety_pivot_and_accelerated_agi_time",
@@ -11,7 +11,7 @@
         "Anthropic"
       ],
       "trajectory": "accelerating",
-      "signal_count": 9,
+      "signal_count": 10,
       "weekly_counts": [
         1,
         2,
@@ -20,7 +20,8 @@
         1,
         1,
         0,
-        2
+        2,
+        1
       ],
       "key_events": [
         {
@@ -58,6 +59,10 @@
         {
           "date": "2026-03-01",
           "event": "OpenAI secures Pentagon deal with safeguards after Anthropic rejection; Anthropic designated as supply chain risk by US DoD"
+        },
+        {
+          "date": "2026-03-02",
+          "event": "OpenAI Pentagon deal triggers industry and expert backlash on AI ethics"
         }
       ],
       "created": "2026-02-25"
@@ -72,7 +77,7 @@
         "Nvidia"
       ],
       "trajectory": "accelerating",
-      "signal_count": 9,
+      "signal_count": 10,
       "weekly_counts": [
         1,
         2,
@@ -80,7 +85,8 @@
         2,
         2,
         1,
-        0
+        0,
+        1
       ],
       "key_events": [
         {
@@ -110,6 +116,10 @@
         {
           "date": "2026-02-26",
           "event": "NVIDIA unveils EgoScale: dexterous robot training from 20K+ hours of egocentric human video"
+        },
+        {
+          "date": "2026-03-02",
+          "event": "Lenovo unveils modular AI PC and companion robot concepts at MWC"
         }
       ],
       "created": "2026-02-25"
@@ -124,10 +134,11 @@
         "Multimodal AI"
       ],
       "trajectory": "accelerating",
-      "signal_count": 6,
+      "signal_count": 7,
       "weekly_counts": [
         1,
         2,
+        1,
         1,
         1,
         1
@@ -160,6 +171,10 @@
         {
           "date": "2026-02-28",
           "event": "Alibaba expands Qwen3.5 family with new 27B model matching larger open weights models"
+        },
+        {
+          "date": "2026-03-02",
+          "event": "Empirical study reveals low adoption of AI configuration files in open source"
         }
       ],
       "created": "2026-02-25"
@@ -174,14 +189,15 @@
         "Nvidia Competition"
       ],
       "trajectory": "accelerating",
-      "signal_count": 5,
+      "signal_count": 6,
       "weekly_counts": [
         1,
         1,
         1,
         1,
         1,
-        0
+        0,
+        1
       ],
       "key_events": [
         {
@@ -207,6 +223,10 @@
         {
           "date": "2026-02-26",
           "event": "NVIDIA unveils next-gen Vera Rubin GPU with 10x efficiency gains"
+        },
+        {
+          "date": "2026-03-02",
+          "event": "Lenovo unveils modular AI PC and companion robot concepts at MWC"
         }
       ],
       "created": "2026-02-25"
@@ -317,7 +337,7 @@
         "Multimodal AI"
       ],
       "trajectory": "accelerating",
-      "signal_count": 13,
+      "signal_count": 15,
       "weekly_counts": [
         1,
         2,
@@ -327,7 +347,8 @@
         1,
         1,
         3,
-        1
+        1,
+        2
       ],
       "key_events": [
         {
@@ -369,6 +390,10 @@
         {
           "date": "2026-03-01",
           "event": "Research: Tiny transformers (<100 params) can master 10-digit addition"
+        },
+        {
+          "date": "2026-03-02",
+          "event": "JavisDiT++: Unified modeling for joint audio-video generation; François Chollet: AGI is an engineering endeavor of discovery through building"
         }
       ],
       "created": "2026-02-25"
@@ -383,13 +408,14 @@
         "xAI"
       ],
       "trajectory": "accelerating",
-      "signal_count": 5,
+      "signal_count": 6,
       "weekly_counts": [
         1,
         1,
         1,
         1,
         0,
+        1,
         1
       ],
       "key_events": [
@@ -412,6 +438,10 @@
         {
           "date": "2026-03-01",
           "event": "OpenAI secures Pentagon deal after Anthropic rejection, highlighting competitive dynamics"
+        },
+        {
+          "date": "2026-03-02",
+          "event": "McGill University establishes AI Centre of Excellence in India"
         }
       ],
       "created": "2026-02-25"
@@ -503,7 +533,7 @@
         "Automation"
       ],
       "trajectory": "accelerating",
-      "signal_count": 17,
+      "signal_count": 19,
       "weekly_counts": [
         1,
         2,
@@ -511,6 +541,7 @@
         2,
         2,
         1,
+        2,
         2,
         2,
         2
@@ -555,6 +586,10 @@
         {
           "date": "2026-03-01",
           "event": "Open-source agent OS 'Openfang' gains rapid traction; Arxiv: ParamMem augments language agents with parametric reflective memory"
+        },
+        {
+          "date": "2026-03-02",
+          "event": "Forge: Orchestrating multi-role AI development teams from single CLI; Git-native AI agent standard 'gitagent' emerges on GitHub"
         }
       ],
       "created": "2026-02-25"
@@ -614,7 +649,7 @@
         "Meta"
       ],
       "trajectory": "accelerating",
-      "signal_count": 8,
+      "signal_count": 10,
       "weekly_counts": [
         1,
         1,
@@ -622,7 +657,8 @@
         1,
         1,
         1,
-        1
+        1,
+        2
       ],
       "key_events": [
         {
@@ -652,6 +688,10 @@
         {
           "date": "2026-02-28",
           "event": "ContextCache enables persistent KV cache with 29x TTFT speedup"
+        },
+        {
+          "date": "2026-03-02",
+          "event": "UMAP in pure MLX achieves 30x speedup on Apple Silicon; VibeGuard: Privacy tool for 'vibecoding' with AI assistants"
         }
       ],
       "created": "2026-02-25"
@@ -771,12 +811,13 @@
         "Risk Management"
       ],
       "trajectory": "accelerating",
-      "signal_count": 4,
+      "signal_count": 5,
       "weekly_counts": [
         1,
         1,
         1,
         0,
+        1,
         1
       ],
       "key_events": [
@@ -799,6 +840,10 @@
         {
           "date": "2026-03-01",
           "event": "AI-powered disinformation and cyber attacks amplify amid real-world conflict"
+        },
+        {
+          "date": "2026-03-02",
+          "event": "VibeGuard: Privacy tool for 'vibecoding' with AI assistants"
         }
       ],
       "created": "2026-02-25"
@@ -938,12 +983,13 @@
         "Startup Funding"
       ],
       "trajectory": "accelerating",
-      "signal_count": 5,
+      "signal_count": 6,
       "weekly_counts": [
         1,
         1,
         1,
-        2
+        2,
+        1
       ],
       "key_events": [
         {
@@ -961,6 +1007,10 @@
         {
           "date": "2026-02-28",
           "event": "Google releases Nano Banana 2 state-of-the-art image generation model; Kling V3 Pro tops video arena leaderboards"
+        },
+        {
+          "date": "2026-03-02",
+          "event": "JavisDiT++: Unified modeling for joint audio-video generation"
         }
       ],
       "created": "2026-02-26"
