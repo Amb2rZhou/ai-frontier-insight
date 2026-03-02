@@ -30,7 +30,8 @@ analysis:
 delivery:
   webhook:
     url_base: "https://redcity-open.xiaohongshu.com/api/robot/webhook/send"
-    # Key from WEBHOOK_KEY GitHub Secret
+    # Channel keys from WEBHOOK_CHANNELS env var (JSON: {"测试":"key1","夏月":"key2"})
+    alert_channels: ["测试"]   # 运营错误信息只发这些频道
   redoc:
     enabled: true
     # API details from REDOC_API_KEY / REDOC_BASE_URL GitHub Secrets

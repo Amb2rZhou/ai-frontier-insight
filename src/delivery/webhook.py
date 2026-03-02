@@ -1,37 +1,53 @@
-"""RedCity webhook delivery.
+"""RedCity webhook delivery — supports multiple named channels.
 
-Adapted from daily-news-digest send_webhook.py.
+Channel config via WEBHOOK_CHANNELS env var (JSON):
+  {"测试": "key1", "夏月": "key2"}
+
+Channels are tagged with roles in settings.yaml:
+  delivery.webhook.alert_channels: ["测试"]
+  (defaults to first channel only)
 """
 
 import json
 import os
 import urllib.error
 import urllib.request
-from typing import Optional
+from typing import List, Optional
 
 from ..utils.config import load_settings
 
 
-def _get_webhook_key() -> Optional[str]:
-    """Get webhook key from environment variable."""
-    key = os.environ.get("WEBHOOK_KEY", "").strip()
-    if key:
-        return key
+# ── Channel resolution ─────────────────────────────────────────
 
-    # Fallback: try WEBHOOK_KEYS JSON with 'frontier' key
-    keys_json = os.environ.get("WEBHOOK_KEYS", "").strip()
-    if keys_json:
+def _get_channels() -> dict:
+    """Get all named webhook channels.
+
+    Returns:
+        dict of {name: key}
+    """
+    # Primary: WEBHOOK_CHANNELS JSON  {"name": "key", ...}
+    raw = os.environ.get("WEBHOOK_CHANNELS", "").strip()
+    if raw:
         try:
-            keys_map = json.loads(keys_json)
-            key = keys_map.get("frontier", keys_map.get("default", ""))
-            if key:
-                return key.strip()
+            channels = json.loads(raw)
+            if isinstance(channels, dict) and channels:
+                return {k: v.strip() for k, v in channels.items() if v.strip()}
         except (json.JSONDecodeError, AttributeError):
             pass
 
-    print("  Warning: No webhook key found (set WEBHOOK_KEY env var)")
-    return None
+    # Fallback: legacy WEBHOOK_KEY (single or comma-separated)
+    legacy = os.environ.get("WEBHOOK_KEY", "").strip()
+    if legacy:
+        keys = [k.strip() for k in legacy.split(",") if k.strip()]
+        if len(keys) == 1:
+            return {"default": keys[0]}
+        return {f"channel_{i+1}": k for i, k in enumerate(keys)}
 
+    print("  Warning: No webhook channels found (set WEBHOOK_CHANNELS env var)")
+    return {}
+
+
+# ── Low-level send ─────────────────────────────────────────────
 
 def _post_webhook(url: str, content: str, mention_all: bool = True) -> str:
     """Post a single markdown message to webhook.
@@ -75,30 +91,8 @@ def _post_webhook(url: str, content: str, mention_all: bool = True) -> str:
         return "network_error"
 
 
-def send_webhook(content: str, mention_all: bool = True) -> bool:
-    """Send markdown content to RedCity webhook.
-
-    Args:
-        content: Markdown string to send
-        mention_all: Whether to @all in this message
-
-    Returns:
-        True on success
-    """
-    webhook_key = _get_webhook_key()
-    if not webhook_key:
-        return False
-
-    settings = load_settings()
-    url_base = settings.get("delivery", {}).get("webhook", {}).get(
-        "url_base",
-        "https://redcity-open.xiaohongshu.com/api/robot/webhook/send",
-    )
-    url = f"{url_base}?key={webhook_key}"
-
-    content_bytes = len(content.encode("utf-8"))
-    print(f"  Webhook message: {content_bytes} bytes")
-
+def _send_one(url: str, content: str, mention_all: bool) -> bool:
+    """Send to a single webhook URL with retry on API error."""
     result = _post_webhook(url, content, mention_all=mention_all)
     if result == "ok":
         return True
@@ -108,10 +102,8 @@ def send_webhook(content: str, mention_all: bool = True) -> bool:
         return False
 
     # API error — try trimming content
-    # Simple strategy: truncate at 80%, 60%, 40% of original
     for ratio in [0.8, 0.6, 0.4]:
         truncated = content[:int(len(content) * ratio)]
-        # Try to cut at a clean line boundary
         last_newline = truncated.rfind("\n")
         if last_newline > len(truncated) * 0.5:
             truncated = truncated[:last_newline]
@@ -127,3 +119,58 @@ def send_webhook(content: str, mention_all: bool = True) -> bool:
 
     print("  All retry attempts failed")
     return False
+
+
+# ── Public API ─────────────────────────────────────────────────
+
+def send_webhook(content: str, mention_all: bool = True,
+                 alert_only: bool = False) -> bool:
+    """Send markdown content to RedCity webhook channels.
+
+    Args:
+        content: Markdown string to send
+        mention_all: Whether to @all in this message
+        alert_only: If True, only send to alert channels (e.g. 测试)
+
+    Returns:
+        True if at least one channel succeeded
+    """
+    channels = _get_channels()
+    if not channels:
+        return False
+
+    settings = load_settings()
+    webhook_cfg = settings.get("delivery", {}).get("webhook", {})
+    url_base = webhook_cfg.get(
+        "url_base",
+        "https://redcity-open.xiaohongshu.com/api/robot/webhook/send",
+    )
+
+    # Filter to alert-only channels if requested
+    if alert_only:
+        alert_names = webhook_cfg.get("alert_channels", [])
+        if not alert_names:
+            # Default: first channel only
+            first_name = next(iter(channels))
+            alert_names = [first_name]
+        channels = {k: v for k, v in channels.items() if k in alert_names}
+        if not channels:
+            print("  Warning: No alert channels matched")
+            return False
+
+    content_bytes = len(content.encode("utf-8"))
+    names = ", ".join(channels.keys())
+    print(f"  Webhook message: {content_bytes} bytes → [{names}]")
+
+    any_ok = False
+    for i, (name, key) in enumerate(channels.items()):
+        url = f"{url_base}?key={key}"
+        tag = f"[{i+1}/{len(channels)} {name}]"
+        print(f"  {tag} Sending...")
+        if _send_one(url, content, mention_all):
+            print(f"  {tag} OK")
+            any_ok = True
+        else:
+            print(f"  {tag} FAILED")
+
+    return any_ok
