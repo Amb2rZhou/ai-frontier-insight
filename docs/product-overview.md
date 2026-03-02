@@ -17,7 +17,7 @@
 | 数据源平台 | 5 个（X/Twitter、RSS、GitHub、ArXiv、HuggingFace） |
 | 日均原始数据 | 100–350 条 |
 | 日均精选输出 | 10 条信号 + 洞察 |
-| 推送频率 | 每日 08:00 CST |
+| 推送频率 | 每日 10:00 CST |
 
 ---
 
@@ -86,7 +86,7 @@
 
 - **X List 机制**：通过单个 X List 聚合所有监控账号，单次请求读取整个列表，避免逐账号请求触发风控
 - **API 响应拦截**：不依赖 DOM 渲染（X 在 headless 模式下阻止 DOM 渲染），而是拦截 `ListLatestTweetsTimeline` GraphQL API 响应，提取结构化数据
-- **智能调度**：2–5 小时随机间隔 + 0–5 分钟抖动，日报前（07:00–07:25）强制采集保证数据时效
+- **智能调度**：2–5 小时随机间隔 + 0–5 分钟抖动，日报前（09:00–09:25）强制采集保证数据时效
 - **失败重试**：最多 2 次，10 分钟间隔；Cookie 过期自动检测 + webhook 告警
 - **三层过滤**：硬规则（低价值/低互动）→ DeepSeek 语义分类（AI 相关性）→ seen_ids 去重
 - **分页支持**：自动分页最多 5 页，最多 500 条推文；连续已知推文时提前终止
@@ -136,7 +136,7 @@
 ### 3.3 GitHub
 
 - **Trending**：6 个 AI 相关 topic（artificial-intelligence, machine-learning, llm, agents, deep-learning, generative-ai）
-- **Releases**：12 个核心 repo 监控
+- **Releases**：12 个核心 repo 监控，通过 `GITHUB_TOKEN` 认证避免 API 限速
 
 | 类别 | 项目 |
 |------|------|
@@ -226,7 +226,14 @@ data/
 ├── daily/{date}/
 │   ├── brief.json              # 当日信号+洞察（永久保留）
 │   └── sources.json            # 被引用原始数据（30 天保留）
-└── weekly/{week}.json|md       # 周报（永久保留）
+└── weekly/
+    ├── {week}.json                # 周报结构化数据（永久保留）
+    ├── {week}.md                  # 周报综合 Markdown
+    ├── {week}-research.md         # Research Insight 维度
+    ├── {week}-techtrend.md        # Tech Trend 维度
+    ├── {week}-strategy.md         # Company Strategy 维度
+    ├── {week}.docx                # Word 版
+    └── {week}.pdf                 # PDF 版
 
 memory/
 ├── weekly_signals.json         # 周信号累积器（12 周滚动）
@@ -263,19 +270,35 @@ config/
 
 | 项目 | 详情 |
 |------|------|
-| 推送时间 | 每日 08:00 CST |
-| 推送渠道 | RedCity webhook（小红书内部群聊机器人） |
+| 推送时间 | 每日 10:00 CST |
+| 推送渠道 | RedCity webhook（小红书内部群聊机器人），支持多频道命名管理 |
 | 内容格式 | Markdown |
 | 内容结构 | 10 条精选信号 + insight + implication + 趋势总结 |
 | 消息分割 | 分 2 条消息发送（8KB/条限制），末条 @all |
+
+**多频道 Webhook 架构**：
+
+- 通过 `WEBHOOK_CHANNELS` 环境变量配置命名频道（JSON 格式：`{"频道名": "key"}`）
+- 日报默认发送至所有频道，告警通过 `alert_channels` 配置项指定特定频道
+- `ALERT_WEBHOOK_URL` 独立配置 shell 层运维告警（采集/发送失败时触发）
+- 发送失败自动截断重试（80% → 60% → 40%），网络错误不重试避免重复
 
 ### 6.2 周报（已实现，自动生成）
 
 - **自动化**：通过 Claude Cowork 定时读取周数据，自动生成周报
 - **三个分析维度**：Research Insight / Tech Trend / Company Strategy
 - **主题轮换**：每月 4 周依次覆盖 research → tech_trend → company_strategy → meta_reflection
-- **输出格式**：JSON + Markdown + DOCX
+- **输出格式**：JSON + Markdown（3 个维度各一份）+ DOCX + PDF
 - **当前局限**：生成后转为 Redoc 格式仍需手动操作
+
+**Cowork 周报数据来源**：
+
+| 数据 | 路径 | 说明 |
+|------|------|------|
+| 一周的日报 | `data/daily/{date}/brief.json` × 7 天 | 每天 10 条信号 + insight + implication |
+| 周信号累积 | `memory/weekly_signals.json` | 当周所有信号按天聚合，12 周滚动归档 |
+| 趋势数据库 | `memory/trends.json` | 当前趋势的轨迹变化（加速/稳定/衰退/消退） |
+| 预测历史 | `memory/history_insights.json` | 过往 100 条预测，用于回顾验证准确度 |
 
 ---
 
@@ -362,4 +385,4 @@ config/
 
 ---
 
-*文档生成日期：2026-03-02*
+*文档更新日期：2026-03-02*
