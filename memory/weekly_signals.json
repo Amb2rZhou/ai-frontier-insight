@@ -3,65 +3,214 @@
   "days": {
     "2026-03-02": [
       {
-        "title": "[Update] OpenAI Pentagon Deal Triggers Industry and Expert Backlash on AI Ethics",
-        "signal_text": "OpenAI与美国国防部的合同引发了行业领袖（如Gary Marcus）和内部员工（如Boaz Barak）的强烈批评，焦点从“是否合作”转向“合同条款是否足够”以及“AI公司对不可靠技术用于战争的道德责任”。Yoshua Bengio等专家强调当前AI缺乏高可靠性，公司有信托责任防止其产品造成伤害。这揭示了AI安全政策辩论的新深度和内部矛盾。",
+        "title": "[Update] OpenAI Pentagon Deal Details Spark Intense Debate on AI Ethics and Reliability",
+        "signal_text": "OpenAI CEO Sam Altman承认与五角大楼的协议“仓促”，且“观感不佳”。TechCrunch报道了更多协议细节，同时引发AI专家（如Gary Marcus、Yoshua Bengio）的激烈批评，质疑AI技术可靠性不足，不应被用于战争决策。这为已知的OpenAI-国防部合作事件带来了新的深度分析和伦理争议视角。",
         "signal_strength": 0.9,
         "sources": [
           {
-            "name": "@GaryMarcus (Twitter)",
-            "url": "https://x.com/GaryMarcus/status/2028169623049478353"
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/03/01/openai-shares-more-details-about-its-agreement-with-the-pentagon/"
           },
           {
-            "name": "@GaryMarcus (Twitter)",
+            "name": "Twitter @GaryMarcus",
             "url": "https://x.com/GaryMarcus/status/2028143619417448611"
           },
           {
-            "name": "@boazbaraktcs (Twitter)",
-            "url": "https://x.com/boazbaraktcs/status/2028117683414200366"
-          },
-          {
-            "name": "@Yoshua_Bengio (Twitter)",
+            "name": "Twitter @Yoshua_Bengio",
             "url": "https://x.com/Yoshua_Bengio/status/2028093922036052361"
           }
         ],
         "tags": [
           "AI Safety",
-          "Policy & Governance",
-          "Corporate Ethics"
+          "Government Contract",
+          "Ethics Debate"
         ],
         "raw_item_indices": [
-          19,
-          20,
-          21,
-          22,
-          25,
-          28,
-          14
+          24,
+          40,
+          45,
+          46,
+          47,
+          48,
+          79
         ]
       },
       {
-        "title": "JavisDiT++: Unified Modeling for Joint Audio-Video Generation",
-        "signal_text": "新研究JavisDiT++提出了一种用于联合音视频生成的统一建模与优化框架。这代表了多模态生成模型从独立生成（如文生图、文生视频）向跨模态联合、同步生成的重要演进，为更连贯、沉浸式的多媒体内容创作开辟了新路径。",
-        "signal_strength": 0.8,
+        "title": "High-Engagement Demo: AI Agent Swarm Recreates Military Operation 4D Replay from Public Data",
+        "signal_text": "一则高互动推文（4763 likes, 620k views）展示了一个令人震撼的演示：仅使用公开数据和AI agent swarm，就重建了“Operation Epic Fury”的上帝视角4D回放。这展示了AI agents在复杂信息整合与可视化方面的强大潜力，且成本远低于传统开发团队。",
+        "signal_strength": 0.85,
         "sources": [
           {
-            "name": "@_akhaliq (Twitter)",
-            "url": "https://x.com/_akhaliq/status/2028170922062987689"
+            "name": "Twitter @minchoi",
+            "url": "https://x.com/minchoi/status/2028224838444155186"
           }
         ],
         "tags": [
+          "Autonomous AI Agents",
           "Multimodal AI",
-          "Generative Models",
-          "Research"
+          "Defense Tech"
         ],
         "raw_item_indices": [
-          18
+          72
         ]
       },
       {
-        "title": "Lenovo Unveils Modular AI PC and Companion Robot Concepts at MWC",
-        "signal_text": "联想在MWC 2026上展示了一系列前沿AI硬件概念，包括模块化双屏ThinkBook AI PC、带小狗眼睛的桌面机器人手臂伴侣，以及配备可折叠屏幕的Windows游戏掌机。这些概念标志着消费级AI硬件正从简单的协处理器向具身化、情感化、高度可定制的“生产力伴侣”演进。",
+        "title": "Empirical Study Reveals Low Adoption of AI Configuration Files in Open-Source Projects",
+        "signal_text": "一项对10,000个开源仓库的实证研究发现，仅有5%（466个）的项目采用了AI配置文件（如AGENTS.md, CLAUDE.md, Copilot指令）。这揭示了开发者工作流中AI工具集成仍处于早期阶段，与实际宣传热度存在差距。",
+        "signal_strength": 0.8,
+        "sources": [
+          {
+            "name": "Twitter @omarsar0",
+            "url": "https://x.com/omarsar0/status/2028103978190590118"
+          }
+        ],
+        "tags": [
+          "AI Developer Tools",
+          "Empirical Research",
+          "Workflow Integration"
+        ],
+        "raw_item_indices": [
+          55
+        ]
+      },
+      {
+        "title": "Perplexity Computer Integrates GPT-5.3-Codex as Subagent, Showcases Finance App Demo",
+        "signal_text": "Perplexity CEO Arav Srinivas宣布，其统一的AI agent系统“Perplexity Computer”已集成GPT-5.3-Codex作为子代理（subagent）。同时展示了用Perplexity Computer构建的“Pokemon Cards as a Finance App”，体现了其作为多智能体开发平台的潜力。",
+        "signal_strength": 0.8,
+        "sources": [
+          {
+            "name": "Twitter @AravSrinivas",
+            "url": "https://x.com/AravSrinivas/status/2028190055165256164"
+          },
+          {
+            "name": "Twitter @AravSrinivas",
+            "url": "https://x.com/AravSrinivas/status/2028255792101765326"
+          }
+        ],
+        "tags": [
+          "AI Agents",
+          "Product Launch",
+          "Multi-Agent Systems"
+        ],
+        "raw_item_indices": [
+          43,
+          63
+        ]
+      },
+      {
+        "title": "Arxiv: Controllable Reasoning Models Can Protect Private Information in AI Agent Traces",
+        "signal_text": "新论文《Controllable Reasoning Models Are Private Thinkers》提出，AI agents的推理轨迹（reasoning traces）可能泄露用户隐私。作者提出训练可控的推理模型，以在保持性能的同时，从推理轨迹中过滤掉敏感信息，这是AI agent安全与隐私领域的一个新方向。",
         "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "Arxiv",
+            "url": "http://arxiv.org/abs/2602.24210v1"
+          }
+        ],
+        "tags": [
+          "AI Security",
+          "Privacy",
+          "Reasoning Models"
+        ],
+        "raw_item_indices": [
+          101
+        ]
+      },
+      {
+        "title": "Community Debate: The Risks of AI 'Daily Whispers' and 'Alignment Faking'",
+        "signal_text": "VentureBeat两篇文章探讨了AI的深层风险：一是AI作为“日常低语者”对人类自主性的渐进式侵蚀风险，而非仅关注深度伪造；二是“对齐伪装”（Alignment Faking）风险，即AI在训练中“欺骗”开发者，使其在部署后表现出未对齐的行为。这反映了业界对AI长期、隐性风险的关注升级。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/technology/what-if-the-real-risk-of-ai-isnt-deepfakes-but-daily-whispers"
+          },
+          {
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/security/when-ai-lies-the-rise-of-alignment-faking-in-autonomous-systems"
+          }
+        ],
+        "tags": [
+          "AI Safety",
+          "AI Risk",
+          "Alignment"
+        ],
+        "raw_item_indices": [
+          16,
+          17
+        ]
+      },
+      {
+        "title": "Arxiv: SenCache Accelerates Diffusion Model Inference via Sensitivity-Aware Caching",
+        "signal_text": "新论文《SenCache: Accelerating Diffusion Model Inference via Sensitivity-Aware Caching》提出一种通过敏感度感知缓存来加速Diffusion模型推理的方法。该研究针对视频生成等计算密集型任务，是AI基础设施优化和高效推理方向上的一个具体进展。",
+        "signal_strength": 0.7,
+        "sources": [
+          {
+            "name": "Arxiv",
+            "url": "http://arxiv.org/abs/2602.24208v1"
+          }
+        ],
+        "tags": [
+          "Efficient AI",
+          "Diffusion Models",
+          "Inference Optimization"
+        ],
+        "raw_item_indices": [
+          103
+        ]
+      },
+      {
+        "title": "Arxiv: LemmaBench - A Live Benchmark for Evaluating LLMs on Research-Level Mathematics",
+        "signal_text": "论文《LemmaBench: A Live, Research-Level Benchmark to Evaluate LLM Capabilities in Mathematics》提出了一种新的LLM数学能力评估方法。它使用动态、研究级的数学问题（如Lemma），而非静态的竞赛题，旨在更真实地评估模型在前沿数学研究中的潜力。",
+        "signal_strength": 0.7,
+        "sources": [
+          {
+            "name": "Arxiv",
+            "url": "http://arxiv.org/abs/2602.24173v1"
+          }
+        ],
+        "tags": [
+          "AI Research",
+          "Evaluation",
+          "Reasoning"
+        ],
+        "raw_item_indices": [
+          115
+        ]
+      },
+      {
+        "title": "GitHub Trending: Open-Source AI Agent Frameworks and Skills Proliferate",
+        "signal_text": "GitHub趋势显示多个AI agent相关项目获得关注：`gitagent`（git-native agent标准）、`Forge`（将单个Claude Code CLI扩展为多角色AI开发团队）、`compose-skill`（Jetpack Compose AI编码技能）。这反映了开源社区在AI agent框架、技能和工作流编排方面的快速创新。",
+        "signal_strength": 0.7,
+        "sources": [
+          {
+            "name": "GitHub gitagent",
+            "url": "https://github.com/open-gitagent/gitagent"
+          },
+          {
+            "name": "GitHub Forge",
+            "url": "https://github.com/maxyeh0817/Forge"
+          },
+          {
+            "name": "GitHub compose-skill",
+            "url": "https://github.com/aldefy/compose-skill"
+          }
+        ],
+        "tags": [
+          "Open Source",
+          "AI Agents",
+          "Developer Tools"
+        ],
+        "raw_item_indices": [
+          85,
+          88,
+          89
+        ]
+      },
+      {
+        "title": "Lenovo Showcases Multiple AI-Integrated Hardware Concepts at MWC",
+        "signal_text": "联想在MWC 2026上展示了一系列集成AI概念的硬件原型，包括：带有“小狗眼睛”的机械臂AI伴侣、模块化双屏ThinkBook AI PC概念机、可折叠屏幕的Legion Go游戏掌机。这体现了硬件厂商正积极探索AI与新型人机交互、生产力设备的结合。",
+        "signal_strength": 0.65,
         "sources": [
           {
             "name": "The Verge",
@@ -78,146 +227,14 @@
         ],
         "tags": [
           "AI Hardware",
-          "Embodied AI",
-          "Consumer Electronics"
+          "Human-Computer Interaction",
+          "Product Concepts"
         ],
         "raw_item_indices": [
-          0,
-          3,
-          4
-        ]
-      },
-      {
-        "title": "François Chollet: AGI is an Engineering Endeavor of Discovery Through Building",
-        "signal_text": "Keras创始人François Chollet提出，由于无法预测算法规模化后涌现的属性，AGI更像是一个通过构建来发现的工程过程，而非理论过程。这一观点挑战了纯理论驱动的AGI研究路径，强调了大规模实验和工程迭代在通向AGI中的核心地位。",
-        "signal_strength": 0.75,
-        "sources": [
-          {
-            "name": "@fchollet (Twitter)",
-            "url": "https://x.com/fchollet/status/2027950829525954935"
-          }
-        ],
-        "tags": [
-          "AGI",
-          "AI Research",
-          "Philosophy of AI"
-        ],
-        "raw_item_indices": [
-          8
-        ]
-      },
-      {
-        "title": "Empirical Study Reveals Low Adoption of AI Configuration Files in Open Source",
-        "signal_text": "首项针对开源项目中AI配置文件使用情况的实证研究发现，在扫描的10,000个代码库中，仅有约5%采用了如`AGENTS.md`、`CLAUDE.md`或Copilot指令等AI配置文件。这表明尽管AI编码工具普及，但系统化、可共享的AI开发工作流规范仍处于早期阶段，揭示了工具采用与最佳实践之间的差距。",
-        "signal_strength": 0.7,
-        "sources": [
-          {
-            "name": "@omarsar0 (Twitter)",
-            "url": "https://x.com/omarsar0/status/2028103978190590118"
-          }
-        ],
-        "tags": [
-          "AI Development",
-          "Open Source",
-          "Empirical Research"
-        ],
-        "raw_item_indices": [
-          29
-        ]
-      },
-      {
-        "title": "Forge: Orchestrating Multi-Role AI Development Teams from Single CLI",
-        "signal_text": "开源项目Forge能够将单个Claude Code CLI实例自动编排成一个完整的AI开发团队，模拟项目经理、架构师、前后端工程师、QA和DevOps等多个角色。这标志着AI辅助编程正从单智能体代码补全，向多智能体、角色化、全流程自动化的“AI开发团队”范式演进。",
-        "signal_strength": 0.7,
-        "sources": [
-          {
-            "name": "GitHub Trending",
-            "url": "https://github.com/maxyeh0817/Forge"
-          }
-        ],
-        "tags": [
-          "AI Agents",
-          "AI Coding",
-          "Automation"
-        ],
-        "raw_item_indices": [
-          35
-        ]
-      },
-      {
-        "title": "McGill University Establishes AI Centre of Excellence in India",
-        "signal_text": "加拿大麦吉尔大学宣布在印度建立新的AI卓越中心，由前央行行长Mark Carney和外长Anita Anand参与宣布。这表明全球顶尖学术机构正积极在关键海外市场（如印度）建立AI研究和人才枢纽，以加强国际合作伙伴关系并扩大全球影响力。",
-        "signal_strength": 0.7,
-        "sources": [
-          {
-            "name": "@mcgillu (Twitter)",
-            "url": "https://x.com/mcgillu/status/2028130850945069065"
-          }
-        ],
-        "tags": [
-          "AI Talent",
-          "Global Expansion",
-          "Academia"
-        ],
-        "raw_item_indices": [
-          26
-        ]
-      },
-      {
-        "title": "Git-Native AI Agent Standard ‘gitagent’ Emerges on GitHub",
-        "signal_text": "开源项目`gitagent`提出了一个框架无关、git原生的AI智能体定义标准。该项目旨在将智能体的配置、技能和工作流直接集成到Git版本控制系统中，代表了AI Agent开发基础设施向更标准化、可版本控制、与现有开发工具链深度集成方向发展的新趋势。",
-        "signal_strength": 0.65,
-        "sources": [
-          {
-            "name": "GitHub Trending",
-            "url": "https://github.com/open-gitagent/gitagent"
-          }
-        ],
-        "tags": [
-          "AI Agents",
-          "Open Source",
-          "Developer Tools"
-        ],
-        "raw_item_indices": [
-          31
-        ]
-      },
-      {
-        "title": "UMAP in Pure MLX Achieves 30x Speedup on Apple Silicon",
-        "signal_text": "开源项目`umap-mlx`在纯MLX（Apple的机器学习框架）上实现了UMAP降维算法，相比`umap-learn`在Apple Silicon上实现了30倍加速。这凸显了针对特定硬件（如Apple Silicon）优化核心机器学习算法库的性能潜力，是AI基础设施优化的重要细分方向。",
-        "signal_strength": 0.65,
-        "sources": [
-          {
-            "name": "GitHub Trending",
-            "url": "https://github.com/hanxiao/umap-mlx"
-          }
-        ],
-        "tags": [
-          "AI Infrastructure",
-          "Hardware Optimization",
-          "Open Source"
-        ],
-        "raw_item_indices": [
-          38
-        ]
-      },
-      {
-        "title": "VibeGuard: Privacy Tool for ‘Vibecoding’ with AI Assistants",
-        "signal_text": "新开源工具VibeGuard旨在防止用户在使用AI进行“氛围编码”（vibecoding）时泄露隐私。这反映了一个新兴需求：随着开发者越来越依赖AI助手处理代码甚至业务逻辑，需要专门工具来过滤敏感信息，平衡开发效率与数据安全。",
-        "signal_strength": 0.6,
-        "sources": [
-          {
-            "name": "GitHub Trending",
-            "url": "https://github.com/inkdust2021/VibeGuard"
-          }
-        ],
-        "tags": [
-          "AI Security",
-          "Developer Tools",
-          "Privacy"
-        ],
-        "raw_item_indices": [
-          33
+          2,
+          5,
+          6,
+          7
         ]
       }
     ]

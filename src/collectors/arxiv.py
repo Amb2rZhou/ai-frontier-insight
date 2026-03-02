@@ -15,6 +15,7 @@ import requests
 
 from .base import BaseCollector, RawItem
 from ..utils.config import load_sources
+from ..utils.http import robust_get
 
 ARXIV_API = "http://export.arxiv.org/api/query"
 ARXIV_NS = {
@@ -49,7 +50,7 @@ def _fetch_arxiv(categories: List[str], max_results: int = 50,
         "sortOrder": "descending",
     }
 
-    resp = requests.get(ARXIV_API, params=params, timeout=30)
+    resp = robust_get(ARXIV_API, params=params, timeout=30)
     resp.raise_for_status()
 
     root = ET.fromstring(resp.text)
@@ -174,7 +175,7 @@ class ArxivCollector(BaseCollector):
         feed_url = f"https://rss.arxiv.org/rss/{combined}"
 
         try:
-            resp = requests.get(feed_url, timeout=30, headers={
+            resp = robust_get(feed_url, timeout=30, headers={
                 "User-Agent": "AI-Frontier-Insight-Bot/1.0"
             })
             resp.raise_for_status()

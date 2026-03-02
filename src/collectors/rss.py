@@ -14,6 +14,7 @@ import requests
 
 from .base import BaseCollector, RawItem
 from ..utils.config import load_sources
+from ..utils.http import robust_get
 
 
 def _parse_single_feed(feed_url: str, feed_name: str, group: str,
@@ -25,7 +26,7 @@ def _parse_single_feed(feed_url: str, feed_name: str, group: str,
 
     try:
         # Use requests for fetching (handles SSL/timeouts better than feedparser)
-        resp = requests.get(
+        resp = robust_get(
             feed_url,
             timeout=15,
             headers={"User-Agent": "AI-Frontier-Insight-Bot/1.0"},

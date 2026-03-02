@@ -16,6 +16,7 @@ import requests
 
 from .base import BaseCollector, RawItem
 from ..utils.config import load_sources
+from ..utils.http import robust_get
 
 
 def _github_headers() -> Dict[str, str]:
@@ -33,7 +34,7 @@ def _search_trending_by_topic(topic: str, days_back: int = 7,
     date_threshold = (datetime.utcnow() - timedelta(days=days_back)).strftime("%Y-%m-%d")
     query = f"topic:{topic} created:>{date_threshold} stars:>={min_stars}"
 
-    resp = requests.get(
+    resp = robust_get(
         "https://api.github.com/search/repositories",
         headers=_github_headers(),
         params={
@@ -57,7 +58,7 @@ def _fetch_releases(repo: str, since_date: str = None,
         since_date: ISO date string, only return releases published after this
         max_releases: Max releases to return
     """
-    resp = requests.get(
+    resp = robust_get(
         f"https://api.github.com/repos/{repo}/releases",
         headers=_github_headers(),
         params={"per_page": max_releases},

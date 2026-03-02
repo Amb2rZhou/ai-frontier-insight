@@ -1,80 +1,133 @@
 {
   "week": "2026-W09",
-  "date_range": "2026-02-25 ~ 2026-02-26",
-  "generated_at": "2026-02-26T20:00:00+08:00",
-  "insight_type": "Meta",
-  "theme": "AI从'对话智能'向'行动智能'全栈跃迁——从芯片到应用范式的同步重构",
-  "data_coverage_note": "Based on 2 days of data (Tue-Wed). High signal density but limited time span.",
-  "top_signals": [
+  "date_range": "2026-02-25 ~ 2026-02-28",
+  "generated_at": "2026-02-28T23:30:00+08:00",
+  "type_tag": "Meta",
+  "theme": "AI产业的'价值实现循环'正式闭合——Agent产品成熟→企业重组→市场奖励→资本加注",
+  "key_signals": [
     {
-      "title": "NVIDIA Unveils Vera Rubin Architecture: 10x Efficiency Leap",
-      "signal_strength": 0.9,
-      "category": "infrastructure",
-      "dates_appeared": ["2026-02-26"],
-      "sources": [{"name": "Twitter @minchoi", "url": "https://x.com/minchoi/status/2026800952263496021"}],
-      "weekly_insight": "Vera Rubin的10倍能效提升直接针对Agent工作负载的核心瓶颈——高并发低延迟推理的成本。这不仅是硬件迭代，更是让一大批此前不经济的Agent应用场景越过可行性门槛的关键基础设施突破。"
+      "title": "Block Cuts 40% Workforce, Stock Surges 24%",
+      "signal_strength": 0.8,
+      "category": "ecosystem_shift",
+      "dates_appeared": ["2026-02-27", "2026-02-28"],
+      "sources": [
+        {"name": "CNBC", "url": "https://www.cnbc.com/2026/02/26/block-laying-off-about-4000-employees-nearly-half-of-its-workforce.html"},
+        {"name": "Fortune", "url": "https://fortune.com/2026/02/27/block-jack-dorsey-ceo-xyz-stock-square-4000-ai-layoffs/"},
+        {"name": "The Verge", "url": "https://www.theverge.com/tech/885710/jack-dorsey-block-layoffs-job-cuts-ai"}
+      ],
+      "relevance_to_thesis": "循环第二环——企业据Agent产品成熟重组人力；循环第三环——市场用24%涨幅奖励这一决策，形成新的激励结构"
     },
     {
-      "title": "AI Math Research Agent Solves 6/10 Unsolved Problems Autonomously",
-      "signal_strength": 0.87,
-      "category": "research_breakthrough",
-      "dates_appeared": ["2026-02-26"],
-      "sources": [{"name": "Twitter @lmthang", "url": "https://x.com/lmthang/status/2026689272456294850"}],
-      "weekly_insight": "Aletheia自主解决开放数学研究问题，标志着AI从辅助工具升级为独立研究者（co-discoverer），证明了Agent在非结构化frontier research中的可行性，是行动智能在纯推理领域的最高水准演示。"
+      "title": "Microsoft Copilot Tasks: Cloud-Based Autonomous Agent",
+      "signal_strength": 0.8,
+      "category": "product_launch",
+      "dates_appeared": ["2026-02-27"],
+      "sources": [
+        {"name": "The Verge", "url": "https://www.theverge.com/tech/885741/microsoft-copilot-tasks-ai"}
+      ],
+      "relevance_to_thesis": "循环第一环——Agent产品到达生产级，独立执行环境是Copilot→Autopilot范式跃迁的标志"
     },
     {
-      "title": "Anthropic Acquires Computer-Use AI Startup Vercept",
-      "signal_strength": 0.85,
-      "category": "strategic_move",
-      "dates_appeared": ["2026-02-26"],
-      "sources": [{"name": "TechCrunch", "url": "https://techcrunch.com/2026/02/25/anthropic-acquires-vercept-ai-startup-agents-computer-use-founders-investors/"}],
-      "weekly_insight": "收购Vercept补齐了Claude在GUI操作（Agent的'眼和手'）上的关键能力短板，同时Meta挖走创始人说明人才争夺白热化。竞争焦点正从'对话智能'向'行动智能'全面转移。"
+      "title": "ServiceNow: 90% Autonomous IT Resolution",
+      "signal_strength": 0.8,
+      "category": "enterprise_ai",
+      "dates_appeared": ["2026-02-27"],
+      "sources": [
+        {"name": "VentureBeat", "url": "https://venturebeat.com/orchestration/servicenow-resolves-90-of-its-own-it-requests-autonomously-now-it-wants-to"}
+      ],
+      "relevance_to_thesis": "循环第一环——垂直领域最具说服力的Agent规模化验证数据"
     },
     {
-      "title": "Anthropic Drops Key Safety Pledge Amid AGI Acceleration Concerns",
-      "signal_strength": 0.9,
-      "category": "strategic_move",
-      "dates_appeared": ["2026-02-25"],
-      "sources": [{"name": "Reddit AI", "url": "https://www.reddit.com/r/artificial/comments/1re0m36/anthropic_drops_flagship_safety_pledge/"}],
-      "weekly_insight": "最'安全优先'的AI公司放弃旗舰安全承诺，与同期加速Agent能力建设（收购Vercept）形成鲜明对比。揭示了AGI军备竞赛压力下，安全与速度的平衡正在向后者倾斜，这对所有部署Agent的企业意味着需要自建安全层。"
-    },
-    {
-      "title": "NVIDIA EgoScale: Dexterous Manipulation from Egocentric Human Video",
+      "title": "Perplexity 'Computer' Unified Agent Platform",
       "signal_strength": 0.88,
-      "category": "research_breakthrough",
-      "dates_appeared": ["2026-02-26"],
-      "sources": [{"name": "Twitter @DrJimFan", "url": "https://x.com/DrJimFan/status/2026709304984875202"}],
-      "weekly_insight": "证明了'无需机器人参与即可从海量人类视频学习机器人技能'的范式可行性，从根本上改变了Embodied AI训练数据的成本结构，加速了人形机器人从实验室走向商业化。"
+      "category": "product_launch",
+      "dates_appeared": ["2026-02-26", "2026-02-28"],
+      "sources": [
+        {"name": "Twitter @AravSrinivas", "url": "https://x.com/AravSrinivas/status/2027295873848504723"},
+        {"name": "Twitter @perplexity_ai", "url": "https://x.com/perplexity_ai/status/2027444475510038694"}
+      ],
+      "relevance_to_thesis": "循环第一环——从搜索引擎到统一任务执行平台的战略转型，验证Agent平台化可行性"
+    },
+    {
+      "title": "Google Opal: Enterprise Agent Safety Framework",
+      "signal_strength": 0.7,
+      "category": "product_launch",
+      "dates_appeared": ["2026-02-28"],
+      "sources": [
+        {"name": "VentureBeat", "url": "https://venturebeat.com/technology/googles-opal-just-quietly-showed-enterprise-teams-the-new-blueprint-for"}
+      ],
+      "relevance_to_thesis": "循环第一环的安全维度——'人在回路中'设计解决企业Agent部署的信任问题"
+    },
+    {
+      "title": "OpenAI Raises $110B at $730B Pre-Money Valuation",
+      "signal_strength": 0.95,
+      "category": "strategic_move",
+      "dates_appeared": ["2026-02-28"],
+      "sources": [
+        {"name": "CNBC", "url": "https://www.cnbc.com/2026/02/27/open-ai-funding-round-amazon.html"},
+        {"name": "TechCrunch", "url": "https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/"},
+        {"name": "OpenAI Blog", "url": "https://openai.com/index/scaling-ai-for-everyone/"}
+      ],
+      "relevance_to_thesis": "循环第四环——资本加注，Amazon/Nvidia/SoftBank投注的是Agent时代的基础设施定位"
+    },
+    {
+      "title": "Anthropic: Safety Stance Evolution + Vercept Acquisition",
+      "signal_strength": 0.9,
+      "category": "strategic_move",
+      "dates_appeared": ["2026-02-25", "2026-02-26", "2026-02-27"],
+      "sources": [
+        {"name": "The Verge", "url": "https://www.theverge.com/news/885773/anthropic-department-of-defense-dod-pentagon-refusal-terms-hegseth-dario-amodei"},
+        {"name": "TechCrunch", "url": "https://techcrunch.com/2026/02/25/anthropic-acquires-vercept-ai-startup-agents-computer-use-founders-investors/"},
+        {"name": "Reddit", "url": "https://www.reddit.com/r/artificial/comments/1re0m36/anthropic_drops_flagship_safety_pledge/"}
+      ],
+      "relevance_to_thesis": "循环中的张力——在加速循环中如何划定安全红线，从学术原则到商业实践的转变"
     }
   ],
-  "trend_analysis": [
+  "trend_context": [
     {
       "trend_name": "Enterprise AI Agent Adoption and Product Launches",
       "trajectory": "accelerating",
-      "this_week_signals": 8,
-      "analysis": "从GPT-5.3-Codex正式GA、Claude Code Remote Control上线、Anthropic收购Vercept、到Perplexity 'Computer'发布，头部公司的Agent产品从实验性功能升级为核心商业产品。AT&T的编排案例证明了大规模部署的可行性。Agent已从开发者玩具转变为有明确ROI的企业工具。"
+      "this_week_signals": 13,
+      "relationship_to_thesis": "循环第一环的核心趋势，4家公司同时推出生产级Agent产品构成Autopilot范式的集体验证"
     },
     {
-      "trend_name": "Embodied AI and Autonomous Vehicle Investment Surge",
+      "trend_name": "AI-Driven Workforce Restructuring and Corporate Transformation",
       "trajectory": "accelerating",
-      "this_week_signals": 9,
-      "analysis": "Wayve 12亿美元融资→EgoScale训练范式突破→Physical Intelligence真实场景测试→Google将Intrinsic收归核心。资本、技术、商业化三条线同时推进。12个月后可能出现第一批可规模复制的商业机器人应用场景。"
+      "this_week_signals": 2,
+      "relationship_to_thesis": "循环第二环——Block裁员40%是Agent能力向组织结构渗透的标志性事件"
     },
     {
-      "trend_name": "AI Hardware Competition and Nvidia Challengers",
+      "trend_name": "Mega-Funding Rounds and Market Consolidation",
       "trajectory": "accelerating",
-      "this_week_signals": 5,
-      "analysis": "Vera Rubin（NVIDIA防守）和MatX $5亿融资（挑战者进攻）同周出现。NVIDIA用架构创新巩固护城河，但前Google TPU团队带着大额资金和系统级经验入场。未来12个月是判断NVIDIA垄断能否被打破的关键窗口。"
-    }
-  ],
-  "prediction_review": [
+      "this_week_signals": 1,
+      "relationship_to_thesis": "循环第四环——OpenAI $110B融资为整个循环提供资本确认"
+    },
     {
-      "note": "本期为系统第一周运行，尚无历史预测可供回顾。从下周起开始追踪。"
+      "trend_name": "AI Security Vulnerabilities in Open-Weight Models",
+      "trajectory": "accelerating",
+      "this_week_signals": 3,
+      "relationship_to_thesis": "循环中的张力——Prefill/Unicode攻击暴露Agent安全的结构性缺陷"
     }
   ],
-  "next_week_watchlist": [
-    "DeepSeek V4是否发布及其性能表现——将直接冲击闭源模型定价权和开源生态格局",
-    "GTC大会NVIDIA是否公布Vera Rubin更多细节和云厂商合作——影响2026下半年AI基础设施投资决策",
-    "Anthropic安全立场调整后的社区和监管反应——可能加速AI治理框架制定进程"
+  "prediction_review": [],
+  "new_predictions": [
+    {
+      "prediction": "Block模式将被快速效仿，近期将有其他上市公司以AI为由进行大规模重组",
+      "confidence_level": "中",
+      "timeframe": "近期",
+      "basis": "Block +24%的市场反应、CrowdStrike/Pinterest/Chegg已有先例、Axios关于'embolden效应'的分析。但随着案例增多，市场甄别力会加强。"
+    },
+    {
+      "prediction": "企业级Agent的核心竞争将从'能力'转向'信任与可审计性'",
+      "confidence_level": "高",
+      "timeframe": "未来数月",
+      "basis": "Google Opal已明确提出安全框架方向，ServiceNow用90%数据证明可靠性，Enterprise AI Agent趋势连续4天加速、累计13个信号。能力层面趋同后，信任成为差异化的关键。"
+    }
+  ],
+  "watchlist": [
+    "Block下一季财报（预计5月）——AI重组的实际效果验证",
+    "Perplexity开发者大会Ask（3月11日）——Agent平台生态策略",
+    "OpenAI-AWS融合的企业产品形态——直接挑战Microsoft Copilot生态",
+    "更多上市公司AI重组公告——CrowdStrike/Pinterest等的后续动作"
   ]
 }

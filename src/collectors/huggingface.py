@@ -13,6 +13,7 @@ import requests
 
 from .base import BaseCollector, RawItem
 from ..utils.config import load_sources
+from ..utils.http import robust_get
 
 HF_API_BASE = "https://huggingface.co/api"
 
@@ -24,7 +25,7 @@ def _hf_get(endpoint: str, params: Dict = None, limit: int = 20) -> List[Dict]:
         params = {}
     params.setdefault("limit", str(limit))
 
-    resp = requests.get(url, params=params, timeout=30, headers={
+    resp = robust_get(url, params=params, timeout=30, headers={
         "User-Agent": "AI-Frontier-Insight-Bot/1.0",
     })
     resp.raise_for_status()
