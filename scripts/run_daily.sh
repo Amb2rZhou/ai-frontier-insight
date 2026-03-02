@@ -2,11 +2,11 @@
 # AI Frontier Insight Bot — 每日流水线
 # 由 launchd 定时调用：先采集+分析，等到发送时间后推送
 #
-# 时间线（以 send_hour=8:00 为例）：
-#   07:30  launchd 触发本脚本
-#   07:30  采集 + AI 分析（约 3-5 分钟）
-#   07:35  等待到 08:00
-#   08:00  发送日报到 webhook
+# 时间线（以 send_hour=10:00 为例）：
+#   09:30  launchd 触发本脚本
+#   09:30  采集 + AI 分析（约 3-5 分钟）
+#   09:35  等待到 10:00
+#   10:00  发送日报到 webhook
 
 set -euo pipefail
 

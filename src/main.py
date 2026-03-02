@@ -102,14 +102,14 @@ def cmd_daily():
     raw_items = _collect_all()
     if not raw_items:
         print("No items collected, aborting")
-        return
+        sys.exit(1)
 
     # Step 2: Extract signals
     print("\n[Analysis] Extracting signals...")
     signals = extract_signals(raw_items)
     if not signals:
         print("No signals extracted, aborting")
-        return
+        sys.exit(1)
 
     # Step 3: Generate insights
     print("\n[Analysis] Generating insights...")
@@ -159,7 +159,7 @@ def cmd_send_daily():
     draft = load_draft(today, "daily")
     if not draft:
         print(f"No draft found for {today}")
-        return
+        sys.exit(1)
 
     if draft.get("status") == "sent":
         print(f"Already sent for {today}")
@@ -180,7 +180,7 @@ def cmd_send_daily():
         success = send_webhook(msg, mention_all=is_last)
         if not success:
             print(f"Failed to send message {i}")
-            return
+            sys.exit(1)
         if not is_last:
             time.sleep(1)
 
