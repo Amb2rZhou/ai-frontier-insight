@@ -237,6 +237,229 @@
           7
         ]
       }
+    ],
+    "2026-03-03": [
+      {
+        "title": "Open Source AI Assistant OpenClaw Surpasses React in GitHub Stars",
+        "signal_text": "开源个人AI助手项目OpenClaw在GitHub上的star数已超过React，成为历史上增长最快的开源项目之一，这标志着AI原生应用在开发者社区中的影响力已超越传统核心基础设施。",
+        "signal_strength": 0.9,
+        "sources": [
+          {
+            "name": "Twitter @openclaw",
+            "url": "https://x.com/openclaw/status/2028347703621464481"
+          },
+          {
+            "name": "Twitter @steipete",
+            "url": "https://x.com/steipete/status/2028575910027313248"
+          }
+        ],
+        "tags": [
+          "Open Source",
+          "AI Agents",
+          "Developer Tools"
+        ],
+        "raw_item_indices": [
+          49,
+          75,
+          103
+        ]
+      },
+      {
+        "title": "Alibaba Releases Ultra-Efficient Qwen3.5 Small Models (0.8B-9B) for Edge Devices",
+        "signal_text": "阿里巴巴通义千问团队发布Qwen3.5系列超小模型（0.8B, 2B, 4B, 9B），其中9B模型在标准笔记本上运行性能超越OpenAI的120B开源模型，标志着高效能边缘AI模型的重大突破。",
+        "signal_strength": 0.85,
+        "sources": [
+          {
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/technology/alibabas-small-open-source-qwen3-5-9b-beats-openais-gpt-oss-120b-and-can-run"
+          },
+          {
+            "name": "Twitter @UnslothAI",
+            "url": "https://x.com/UnslothAI/status/2028463220063871426"
+          },
+          {
+            "name": "GitHub Release (ollama/ollama)",
+            "url": "https://github.com/ollama/ollama/releases/tag/v0.17.5"
+          }
+        ],
+        "tags": [
+          "Efficient Models",
+          "Open Source",
+          "Edge AI"
+        ],
+        "raw_item_indices": [
+          28,
+          39,
+          117
+        ]
+      },
+      {
+        "title": "Deutsche Telekom Partners with ElevenLabs for Network-Wide AI Phone Call Assistant",
+        "signal_text": "德国电信（Deutsche Telekom）与ElevenLabs合作，将在其德国全网范围内启用AI通话助手，用户无需安装任何应用即可在通话中使用，这是AI助手大规模集成到电信基础设施的重要一步。",
+        "signal_strength": 0.8,
+        "sources": [
+          {
+            "name": "Wired",
+            "url": "https://www.wired.com/story/deutsche-telekom-elevenlabs-ai-phone-calls-mwc-2026/"
+          }
+        ],
+        "tags": [
+          "AI Agents",
+          "Telecom",
+          "Product Launch"
+        ],
+        "raw_item_indices": [
+          3
+        ]
+      },
+      {
+        "title": "Arxiv: CUDA Agent - Large-Scale Agentic RL for High-Performance GPU Kernel Generation",
+        "signal_text": "新研究提出CUDA Agent，一个基于大规模智能体强化学习（Agentic RL）的框架，用于自动生成高性能CUDA内核，旨在解决LLM在底层硬件优化方面竞争力不足的问题。",
+        "signal_strength": 0.8,
+        "sources": [
+          {
+            "name": "Arxiv",
+            "url": "http://arxiv.org/abs/2602.24286v1"
+          }
+        ],
+        "tags": [
+          "AI Research",
+          "GPU Optimization",
+          "Reinforcement Learning"
+        ],
+        "raw_item_indices": [
+          122
+        ]
+      },
+      {
+        "title": "[Update] Public Backlash Intensifies: ChatGPT Uninstalls Surge 295% After DoD Deal",
+        "signal_text": "OpenAI与美国国防部的合作引发持续强烈的公众反弹，数据显示ChatGPT应用卸载量激增295%，而竞争对手Claude的下载量则出现增长，#deleteChatGPT成为趋势标签。",
+        "signal_strength": 0.8,
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/03/02/chatgpt-uninstalls-surged-by-295-after-dod-deal/"
+          },
+          {
+            "name": "Twitter @GaryMarcus",
+            "url": "https://x.com/GaryMarcus/status/2028519928094171570"
+          }
+        ],
+        "tags": [
+          "AI Ethics",
+          "Public Sentiment",
+          "Competitive Dynamics"
+        ],
+        "raw_item_indices": [
+          5,
+          88
+        ]
+      },
+      {
+        "title": "Stripe Launches AI Cost Pass-Through and Profit Feature for AI Companies",
+        "signal_text": "支付巨头Stripe发布预览功能，允许AI公司轻松追踪、转嫁底层AI模型费用并从中获利，旨在将AI成本中心转化为利润中心，反映了AI经济基础设施的成熟。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/03/02/stripe-wants-to-turn-your-ai-costs-into-a-profit-center/"
+          }
+        ],
+        "tags": [
+          "AI Infrastructure",
+          "Monetization",
+          "Enterprise AI"
+        ],
+        "raw_item_indices": [
+          10
+        ]
+      },
+      {
+        "title": "Arxiv: A Minimal Agent for Automated Theorem Proving",
+        "signal_text": "研究人员提出一个用于自动定理证明（Automated Theorem Proving）的极简智能体基线，该系统实现了SOTA系统的核心迭代搜索功能，但设计更简洁，旨在促进不同AI证明器架构的系统性比较。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "Arxiv",
+            "url": "http://arxiv.org/abs/2602.24273v1"
+          },
+          {
+            "name": "Twitter @omarsar0",
+            "url": "https://x.com/omarsar0/status/2028591203579822112"
+          }
+        ],
+        "tags": [
+          "AI Research",
+          "Automated Reasoning",
+          "AI Agents"
+        ],
+        "raw_item_indices": [
+          128,
+          98
+        ]
+      },
+      {
+        "title": "GitHub Trending: Timber - Ollama for Classical ML Models with 336x Speedup",
+        "signal_text": "开源项目Timber（Ollama for classical ML models）登上GitHub趋势榜，它是一个AOT编译器，可将XGBoost、LightGBM等传统ML模型编译为原生C99推理代码，号称比Python推理快336倍。",
+        "signal_strength": 0.7,
+        "sources": [
+          {
+            "name": "GitHub Trending",
+            "url": "https://github.com/kossisoroyce/timber"
+          }
+        ],
+        "tags": [
+          "Open Source",
+          "Model Efficiency",
+          "MLOps"
+        ],
+        "raw_item_indices": [
+          105
+        ]
+      },
+      {
+        "title": "Anthropic Makes Memory Feature Free to Attract Users Switching from Competitors",
+        "signal_text": "Anthropic将Claude的记忆功能向免费用户开放，并推出了从其他聊天机器人导入数据的新工具，旨在降低用户从竞争对手（如OpenAI）切换过来的门槛，加剧了消费级AI市场的竞争。",
+        "signal_strength": 0.7,
+        "sources": [
+          {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/887885/anthropic-claude-memory-upgrades-importing"
+          },
+          {
+            "name": "Twitter @minchoi",
+            "url": "https://x.com/minchoi/status/2028621263342584172"
+          }
+        ],
+        "tags": [
+          "Product Strategy",
+          "Consumer AI",
+          "Competition"
+        ],
+        "raw_item_indices": [
+          17,
+          92
+        ]
+      },
+      {
+        "title": "Arxiv: Vera - A Programming Language Designed for LLMs to Write",
+        "signal_text": "研究人员发布Vera，一种专为大型语言模型（LLM）使用而设计的编程语言，其编译器端到端工作。作者认为，LLM编程能力的显著提升部分源于语言设计上的改进，而Vera旨在进一步推动这一趋势。",
+        "signal_strength": 0.7,
+        "sources": [
+          {
+            "name": "Reddit ML",
+            "url": "https://www.reddit.com/r/MachineLearning/comments/1rj5moq/p_vera_a_programming_language_designed_for_llms/"
+          }
+        ],
+        "tags": [
+          "AI Research",
+          "Programming Languages",
+          "AI for Code"
+        ],
+        "raw_item_indices": [
+          20
+        ]
+      }
     ]
   },
   "archived_weeks": [
