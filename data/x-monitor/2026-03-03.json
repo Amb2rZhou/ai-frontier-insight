@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-03T20:26:32.004464",
+  "scraped_at": "2026-03-03T23:29:46.853073",
   "date": "2026-03-03",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 70,
-  "account_count": 32,
+  "tweet_count": 77,
+  "account_count": 33,
   "tweets": [
     {
       "id": "2028514741057093962",
@@ -803,6 +803,93 @@
       "likes": 759,
       "retweets": 14,
       "views": 21116
+    },
+    {
+      "id": "2028855121174544581",
+      "username": "_akhaliq",
+      "text": "From Scale to Speed\n\nAdaptive Test-Time Scaling for Image Editing\npaper: https://t.co/hk64M452W6",
+      "timestamp": "2026-03-03T15:28:49+00:00",
+      "url": "https://x.com/_akhaliq/status/2028855121174544581",
+      "images": [],
+      "likes": 4,
+      "retweets": 0,
+      "views": 103
+    },
+    {
+      "id": "2028845314506150079",
+      "username": "UnslothAI",
+      "text": "You can now fine-tune Qwen3.5 with our free notebook! 🔥\n\nYou just need 5GB VRAM to train Qwen3.5-2B LoRA locally!\n\nUnsloth trains Qwen3.5 1.5x faster with 50% less VRAM.\n\nGitHub: https://t.co/aZWYAtakBP\nGuide: https://t.co/7d3BW8Qcjg\n\nQwen3.5-4B Colab: https://t.co/TxZ7pvbdTI https://t.co/jqwTBDarJS",
+      "timestamp": "2026-03-03T14:49:51+00:00",
+      "url": "https://x.com/UnslothAI/status/2028845314506150079",
+      "images": [
+        "https://pbs.twimg.com/media/HCfoCBZbkAACyVn.jpg"
+      ],
+      "likes": 192,
+      "retweets": 28,
+      "views": 4235
+    },
+    {
+      "id": "2028840977922674842",
+      "username": "omarsar0",
+      "text": "MCP is dead?\n\nWhat are your thoughts?\n\nI mostly use Skills and CLI lately. I still use a few MCP tools for orchestrating agents more efficiently. https://t.co/o6saSxNQ9s",
+      "timestamp": "2026-03-03T14:32:37+00:00",
+      "url": "https://x.com/omarsar0/status/2028840977922674842",
+      "images": [
+        "https://pbs.twimg.com/media/HCfjo0sW8AAGjcU.png"
+      ],
+      "likes": 16,
+      "retweets": 4,
+      "views": 2027
+    },
+    {
+      "id": "2028834415464304678",
+      "username": "omarsar0",
+      "text": "Voice is now natively supported in Claude Code. \n\n/voice",
+      "timestamp": "2026-03-03T14:06:33+00:00",
+      "url": "https://x.com/omarsar0/status/2028834415464304678",
+      "images": [],
+      "likes": 15,
+      "retweets": 0,
+      "views": 2397
+    },
+    {
+      "id": "2028823724196343923",
+      "username": "omarsar0",
+      "text": "Can AI agents agree?\n\nCommunication is one of the biggest challenges in multi-agent systems.\n\nNew research tests LLM-based agents on Byzantine consensus games, scenarios where agents must agree on a value even when some participants behave adversarially.\n\nThe main finding: valid https://t.co/xYsbsGBQ80",
+      "timestamp": "2026-03-03T13:24:04+00:00",
+      "url": "https://x.com/omarsar0/status/2028823724196343923",
+      "images": [
+        "https://pbs.twimg.com/media/HCfUbNKboAA5tK5.jpg"
+      ],
+      "likes": 112,
+      "retweets": 18,
+      "views": 13273
+    },
+    {
+      "id": "2028814246163959909",
+      "username": "__tinygrad__",
+      "text": "Stop relying on other people's computer. Skip the downtime by owning your own. #tinybox https://t.co/OmUGzRw3Ck",
+      "timestamp": "2026-03-03T12:46:24+00:00",
+      "url": "https://x.com/__tinygrad__/status/2028814246163959909",
+      "images": [
+        "https://pbs.twimg.com/media/HCfLXnoawAAlqkh.jpg"
+      ],
+      "likes": 194,
+      "retweets": 5,
+      "views": 5123
+    },
+    {
+      "id": "2028811096602120310",
+      "username": "minchoi",
+      "text": "🚨DeepSeek V4 drops this week.\n\nTrillion parameters. Multimodal. Text + image + video.\n\nOptimized for Huawei/Cambricon chips\n\nOpen source. From China. For free. https://t.co/psSeDwUQXu",
+      "timestamp": "2026-03-03T12:33:53+00:00",
+      "url": "https://x.com/minchoi/status/2028811096602120310",
+      "images": [
+        "https://pbs.twimg.com/media/HCfItNKXYAAMWau.jpg"
+      ],
+      "likes": 390,
+      "retweets": 40,
+      "views": 21296
     }
   ]
 }
