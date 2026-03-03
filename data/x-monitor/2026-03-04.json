@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-04T03:33:58.569502",
+  "scraped_at": "2026-03-04T06:34:38.855719",
   "date": "2026-03-04",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 30,
-  "account_count": 24,
+  "tweet_count": 44,
+  "account_count": 32,
   "tweets": [
     {
       "id": "2028915338935714208",
@@ -343,6 +343,164 @@
       "likes": 73,
       "retweets": 12,
       "views": 5254
+    },
+    {
+      "id": "2028961822372425941",
+      "username": "rasbt",
+      "text": "A small Qwen3.5 from-scratch reimplementation for edu purposes: https://t.co/OnupgeE55l \n\n(probably the best \"small\" LLM today for on-device tinkering) https://t.co/LwyF8x6sle",
+      "timestamp": "2026-03-03T22:32:49+00:00",
+      "url": "https://x.com/rasbt/status/2028961822372425941",
+      "images": [
+        "https://pbs.twimg.com/media/HChR_aoWcAAAOjD.jpg"
+      ],
+      "likes": 5,
+      "retweets": 3,
+      "views": 115
+    },
+    {
+      "id": "2028957459717423346",
+      "username": "minchoi",
+      "text": "It's over for Xcode...\n\nRork Max builds iOS apps from a browser.\n\n1-click install. 2-click App Store.\n\nVibe coding just leveled up.\nhttps://t.co/vJxd5BWCDC",
+      "timestamp": "2026-03-03T22:15:29+00:00",
+      "url": "https://x.com/minchoi/status/2028957459717423346",
+      "images": [],
+      "likes": 17,
+      "retweets": 1,
+      "views": 5370
+    },
+    {
+      "id": "2028955237206376651",
+      "username": "khoomeik",
+      "text": "mfs talk abt \"quantum computers\" as if the computers we use today aren't already the product of quantum-scale engineering https://t.co/pcnRHmBuY3",
+      "timestamp": "2026-03-03T22:06:39+00:00",
+      "url": "https://x.com/khoomeik/status/2028955237206376651",
+      "images": [
+        "https://pbs.twimg.com/media/HChMCQsawAA3k6K.jpg"
+      ],
+      "likes": 19,
+      "retweets": 0,
+      "views": 1057
+    },
+    {
+      "id": "2028942088105263192",
+      "username": "nvidia",
+      "text": "This is where it all started. 🚀\n\nTen years ago at #NVIDIAGTC, the journey of #NVIDIADGX began with our CEO Jensen Huang's announcement of DGX-1, the world’s first AI supercomputer. \n\nWhat started as a single system has since evolved into the universal blueprint for modern AI https://t.co/iHPAyNPqql",
+      "timestamp": "2026-03-03T21:14:24+00:00",
+      "url": "https://x.com/nvidia/status/2028942088105263192",
+      "images": [],
+      "likes": 87,
+      "retweets": 20,
+      "views": 9562
+    },
+    {
+      "id": "2028941824224612675",
+      "username": "NVIDIARobotics",
+      "text": "How do you bring real-time AI to robots and smart devices?\n\nJoin Chen Su at #NVIDIAGTC to discover how NVIDIA’s edge AI platform enables machines to perceive, reason, and act in real time without relying on the cloud, shaping the future of smart edge and autonomous robotics.\n\n📅 https://t.co/rsnR6SUeMc",
+      "timestamp": "2026-03-03T21:13:21+00:00",
+      "url": "https://x.com/NVIDIARobotics/status/2028941824224612675",
+      "images": [],
+      "likes": 11,
+      "retweets": 1,
+      "views": 839
+    },
+    {
+      "id": "2028941452911284417",
+      "username": "DeryaTR_",
+      "text": "This is great news! You can’t copyright AI-generated art per the US Supreme Court! In fact, copyright laws are mostly obsolete or pointless in the age of AI.",
+      "timestamp": "2026-03-03T21:11:52+00:00",
+      "url": "https://x.com/DeryaTR_/status/2028941452911284417",
+      "images": [],
+      "likes": 42,
+      "retweets": 2,
+      "views": 4383
+    },
+    {
+      "id": "2028933169697767906",
+      "username": "DeryaTR_",
+      "text": "Wow, this is a big one! Donald Knuth wrote what’s considered the bible of computer programming! Maybe Claude can be a co-author in the next edition ☺️",
+      "timestamp": "2026-03-03T20:38:58+00:00",
+      "url": "https://x.com/DeryaTR_/status/2028933169697767906",
+      "images": [],
+      "likes": 19,
+      "retweets": 3,
+      "views": 4835
+    },
+    {
+      "id": "2028932468170973399",
+      "username": "omarsar0",
+      "text": "Impressive if true.\n\nThe agent harness is powered by recursive and parallel planning. \n\nClever planning is a big deal.\n\nEveryone should be trying to build their own harness. Trust me, you really want to be exploring higher levels of orchestration for your agents right now.",
+      "timestamp": "2026-03-03T20:36:10+00:00",
+      "url": "https://x.com/omarsar0/status/2028932468170973399",
+      "images": [],
+      "likes": 36,
+      "retweets": 3,
+      "views": 5427
+    },
+    {
+      "id": "2028931025833951246",
+      "username": "a16z",
+      "text": "\"In 90 days... we've had 1.2 million of the 3 million people at the department use some form of AI. That number was 80,000 before I started.\"\n\n@emilmichael on reshaping the Department of War's priorities and going all in on AI:\n\n\"When I took the role in May... we had 14 critical https://t.co/9PSHL81cFr",
+      "timestamp": "2026-03-03T20:30:26+00:00",
+      "url": "https://x.com/a16z/status/2028931025833951246",
+      "images": [],
+      "likes": 102,
+      "retweets": 7,
+      "views": 14638
+    },
+    {
+      "id": "2028927817849745765",
+      "username": "minchoi",
+      "text": "🚨OpenAI just confirmed GPT-5.4...\n\nIf the GPT‑5.4 leak is real (2M context + persistent state)… 🤯",
+      "timestamp": "2026-03-03T20:17:42+00:00",
+      "url": "https://x.com/minchoi/status/2028927817849745765",
+      "images": [],
+      "likes": 658,
+      "retweets": 22,
+      "views": 75800
+    },
+    {
+      "id": "2028927321412125121",
+      "username": "Yoshua_Bengio",
+      "text": "I am deeply honored to have been elected as Co-Chair of the @UN's Independent International Scientific Panel on AI alongside Nobel Peace Prize laureate @mariaressa.\n\nI’m grateful for the trust of my colleagues and look forward to our collaboration to create a reliable,",
+      "timestamp": "2026-03-03T20:15:43+00:00",
+      "url": "https://x.com/Yoshua_Bengio/status/2028927321412125121",
+      "images": [],
+      "likes": 184,
+      "retweets": 31,
+      "views": 8215
+    },
+    {
+      "id": "2028924000517177580",
+      "username": "mervenoyann",
+      "text": "just yesterday I posted this\n\nQwen delivers the absolute best base models that everyone builds on them\n\nquite shaking changes for every single lab in open-source AI tbf",
+      "timestamp": "2026-03-03T20:02:31+00:00",
+      "url": "https://x.com/mervenoyann/status/2028924000517177580",
+      "images": [],
+      "likes": 46,
+      "retweets": 1,
+      "views": 2629
+    },
+    {
+      "id": "2028923616755368182",
+      "username": "satyanadella",
+      "text": "Counting down to a new Build in San Francisco. Hope you’ll join us! https://t.co/eZ3ysZTdQb https://t.co/z24oeE9wk2",
+      "timestamp": "2026-03-03T20:01:00+00:00",
+      "url": "https://x.com/satyanadella/status/2028923616755368182",
+      "images": [],
+      "likes": 540,
+      "retweets": 72,
+      "views": 46695
+    },
+    {
+      "id": "2028920053790306417",
+      "username": "minchoi",
+      "text": "🚨Google just dropped Gemini 3.1 Flash‑Lite.\n\nThe AI story is getting boring in the best way:\nsame intelligence, cheaper at scale. https://t.co/bohjKt5zV3",
+      "timestamp": "2026-03-03T19:46:50+00:00",
+      "url": "https://x.com/minchoi/status/2028920053790306417",
+      "images": [],
+      "likes": 72,
+      "retweets": 6,
+      "views": 12781
     }
   ]
 }
