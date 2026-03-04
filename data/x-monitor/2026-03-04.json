@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-04T09:05:21.472275",
+  "scraped_at": "2026-03-04T14:23:28.939181",
   "date": "2026-03-04",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 58,
-  "account_count": 40,
+  "tweet_count": 68,
+  "account_count": 43,
   "tweets": [
     {
       "id": "2028915338935714208",
@@ -657,6 +657,118 @@
       "likes": 127,
       "retweets": 14,
       "views": 18237
+    },
+    {
+      "id": "2029079283751366786",
+      "username": "ChrSzegedy",
+      "text": "The next volume of the Art of Computer Programming will be written by an AI for AIs.",
+      "timestamp": "2026-03-04T06:19:34+00:00",
+      "url": "https://x.com/ChrSzegedy/status/2029079283751366786",
+      "images": [],
+      "likes": 3,
+      "retweets": 0,
+      "views": 76
+    },
+    {
+      "id": "2029070128617275755",
+      "username": "roydanroy",
+      "text": "In case you're interested in AI for Math and don't already recognize Leonardo de Moura's name below.... he invented Lean at MSR a decade ago.\n\nGive him a follow.",
+      "timestamp": "2026-03-04T05:43:11+00:00",
+      "url": "https://x.com/roydanroy/status/2029070128617275755",
+      "images": [],
+      "likes": 19,
+      "retweets": 2,
+      "views": 1854
+    },
+    {
+      "id": "2029069678039974222",
+      "username": "roydanroy",
+      "text": "How are mathematicians facing the wave of rapidly advancing AI-for-math capabilities?\n\nJeremy Avigad (CMU prof and co-author on the original 2015 system description paper for Lean) just posted a paper with his thoughts in the wake of the Math, Inc. announcement on sphere packing. https://t.co/JLbk37Aae9",
+      "timestamp": "2026-03-04T05:41:24+00:00",
+      "url": "https://x.com/roydanroy/status/2029069678039974222",
+      "images": [
+        "https://pbs.twimg.com/media/HCizsfuXMAAAafu.png"
+      ],
+      "likes": 29,
+      "retweets": 4,
+      "views": 1091
+    },
+    {
+      "id": "2029050115470836224",
+      "username": "natolambert",
+      "text": "Small niche's like @interconnectsai (yes, I want the right help) and tiny AI product labs will hire people that leverage a ton of AI + niche knowledge. It'll take a long time for more people to find their niches, so short term the market will be flooded with talent.",
+      "timestamp": "2026-03-04T04:23:40+00:00",
+      "url": "https://x.com/natolambert/status/2029050115470836224",
+      "images": [],
+      "likes": 13,
+      "retweets": 0,
+      "views": 3897
+    },
+    {
+      "id": "2029049751472357631",
+      "username": "natolambert",
+      "text": "An existential risk for near term open-weight models. In the coming years, the only places with business reasons for building them\n1) non profits -- good for research/the world\n2) nvidia's -- keep their hardware up with ai\n3) meta's -- commodotize their complements",
+      "timestamp": "2026-03-04T04:22:13+00:00",
+      "url": "https://x.com/natolambert/status/2029049751472357631",
+      "images": [],
+      "likes": 91,
+      "retweets": 8,
+      "views": 8757
+    },
+    {
+      "id": "2029048692020330531",
+      "username": "DeryaTR_",
+      "text": "Big congratulations to my friend Alex at @InSilicoMeds &amp; to my friends at @liquidai, @xanamini &amp; @ramin_m_h on this incredibly important collaboration. You are pushing AI at the biomedical frontier, moving toward BioAI intelligence that will cure all diseases &amp; reverse aging! 👏",
+      "timestamp": "2026-03-04T04:18:00+00:00",
+      "url": "https://x.com/DeryaTR_/status/2029048692020330531",
+      "images": [],
+      "likes": 19,
+      "retweets": 2,
+      "views": 4145
+    },
+    {
+      "id": "2029047670191333805",
+      "username": "_akhaliq",
+      "text": "Image Generation with a Sphere Encoder\nhttps://t.co/6I2FbpogaC",
+      "timestamp": "2026-03-04T04:13:57+00:00",
+      "url": "https://x.com/_akhaliq/status/2029047670191333805",
+      "images": [],
+      "likes": 17,
+      "retweets": 5,
+      "views": 3172
+    },
+    {
+      "id": "2029047252275060895",
+      "username": "demishassabis",
+      "text": "small but mighty 💪 - our new Gemini 3.1 Flash-Lite model is incredibly fast and cost-efficient for its performance",
+      "timestamp": "2026-03-04T04:12:17+00:00",
+      "url": "https://x.com/demishassabis/status/2029047252275060895",
+      "images": [],
+      "likes": 616,
+      "retweets": 42,
+      "views": 52211
+    },
+    {
+      "id": "2029017584750702801",
+      "username": "NVIDIARobotics",
+      "text": "Robots that only work in isolated cells won’t cut it for the next generation of smart factories. 🦾\n\nAt #NVIDIAGTC, hear from leading robotics innovators from @IDEALworksGmbH, @Universal_Robot, Vention, KUKA, and @theworldlabs are breaking out of these silos by integrating NVIDIA https://t.co/HQyfNfs6xD",
+      "timestamp": "2026-03-04T02:14:24+00:00",
+      "url": "https://x.com/NVIDIARobotics/status/2029017584750702801",
+      "images": [],
+      "likes": 23,
+      "retweets": 5,
+      "views": 1196
+    },
+    {
+      "id": "2029013145692586221",
+      "username": "dylan522p",
+      "text": "The number 1 reason Cursor and Thinking Machines should merge is not because one has amazing product and the other research.\nIt's because they have strong culture fits, they both are no shoes in the office.",
+      "timestamp": "2026-03-04T01:56:45+00:00",
+      "url": "https://x.com/dylan522p/status/2029013145692586221",
+      "images": [],
+      "likes": 378,
+      "retweets": 6,
+      "views": 28545
     }
   ]
 }
