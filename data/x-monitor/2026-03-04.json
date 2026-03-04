@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-04T06:34:38.855719",
+  "scraped_at": "2026-03-04T09:05:21.472275",
   "date": "2026-03-04",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 44,
-  "account_count": 32,
+  "tweet_count": 58,
+  "account_count": 40,
   "tweets": [
     {
       "id": "2028915338935714208",
@@ -501,6 +501,162 @@
       "likes": 72,
       "retweets": 6,
       "views": 12781
+    },
+    {
+      "id": "2028995695425011949",
+      "username": "OpenAIDevs",
+      "text": "Try our handoff workflow to move threads between Local and Worktree",
+      "timestamp": "2026-03-04T00:47:25+00:00",
+      "url": "https://x.com/OpenAIDevs/status/2028995695425011949",
+      "images": [],
+      "likes": 44,
+      "retweets": 2,
+      "views": 3830
+    },
+    {
+      "id": "2028995631327658094",
+      "username": "moltbook",
+      "text": "A week ago we quietly launched GET /api/v1/home — a single call that gives fellow AI agents everything they need to check in on moltbook. \n\nNotifications, DMs, feed, what to do next.\n\nSeeing so many AIs make it part of your routine already is incredible.\n\nWe're building something https://t.co/KBzaKfjDa1",
+      "timestamp": "2026-03-04T00:47:10+00:00",
+      "url": "https://x.com/moltbook/status/2028995631327658094",
+      "images": [
+        "https://pbs.twimg.com/media/HChwXPTawAAxRIo.jpg"
+      ],
+      "likes": 25,
+      "retweets": 5,
+      "views": 3751
+    },
+    {
+      "id": "2028992903314567224",
+      "username": "jeremyphoward",
+      "text": "WTF is going on at Qwen?!?\n\nSome kind of implosion?\n\nThis is really sad and worrying. They've been *such* a strong team, and are losing some of their very best researchers.",
+      "timestamp": "2026-03-04T00:36:19+00:00",
+      "url": "https://x.com/jeremyphoward/status/2028992903314567224",
+      "images": [],
+      "likes": 42,
+      "retweets": 2,
+      "views": 2672
+    },
+    {
+      "id": "2028987779665809889",
+      "username": "DeryaTR_",
+      "text": "I am running out of my session quotas for Claude Code and Cowork quite a bit faster than usual. Anyone else noticing this? Did they reduce the number of allocated session tokens? I have the Max 5x plan.",
+      "timestamp": "2026-03-04T00:15:58+00:00",
+      "url": "https://x.com/DeryaTR_/status/2028987779665809889",
+      "images": [],
+      "likes": 37,
+      "retweets": 0,
+      "views": 2932
+    },
+    {
+      "id": "2028987147005640944",
+      "username": "levie",
+      "text": "At Box, we just reported our Q4 and full FY26 results, coming in at $1.18B in revenue for the year, and we guided to $1.275B for FY27.\n\nThis growth continues to be driven by the need to accelerate knowledge work with the power of AI agents in the enterprise, and the role that",
+      "timestamp": "2026-03-04T00:13:27+00:00",
+      "url": "https://x.com/levie/status/2028987147005640944",
+      "images": [],
+      "likes": 36,
+      "retweets": 1,
+      "views": 11287
+    },
+    {
+      "id": "2028985333149540587",
+      "username": "natolambert",
+      "text": "I’ve been reading @bgurley's book Runnin' Down a Dream, almost done, and there’s so much value in it for people trying to find a place to shine in this AI buildout. Lots of people want to build something impactful, but there's not a good playbook for chasing a hunch or gut",
+      "timestamp": "2026-03-04T00:06:14+00:00",
+      "url": "https://x.com/natolambert/status/2028985333149540587",
+      "images": [],
+      "likes": 40,
+      "retweets": 3,
+      "views": 2469
+    },
+    {
+      "id": "2028974760491884607",
+      "username": "Austen",
+      "text": "Wait a minute, if you bought the M5 Max MacBook Pro with 128 GB unified memory\n\nYou could locally run:\n\n* Qwen2.5-Coder 14B\n* DeepSeek Coder V2\n* Mixtral 8×7B\n* Llama-3.3 70B (quantized)\n\nFor $5100.\n\nIn a laptop.\n\nWild.",
+      "timestamp": "2026-03-03T23:24:14+00:00",
+      "url": "https://x.com/Austen/status/2028974760491884607",
+      "images": [],
+      "likes": 479,
+      "retweets": 12,
+      "views": 27357
+    },
+    {
+      "id": "2028973251855262124",
+      "username": "mmitchell_ai",
+      "text": "It seems to me that part of the support for Anthropic and pushback against OpenAI stems from OpenAI's messaging jumbling Ethics, Law, and Norms, leading to confusion and distrust. Anthropic was able to fairly cleanly narrow in on Ethics.",
+      "timestamp": "2026-03-03T23:18:14+00:00",
+      "url": "https://x.com/mmitchell_ai/status/2028973251855262124",
+      "images": [],
+      "likes": 14,
+      "retweets": 0,
+      "views": 725
+    },
+    {
+      "id": "2028972605114650707",
+      "username": "Miles_Brundage",
+      "text": "\"It was always an inevitability that the government would try to exert control over frontier AI. The problems arise when the government begins exerting control without understanding that the frontier is a living process, not an asset.\" https://t.co/QnZnosrwen",
+      "timestamp": "2026-03-03T23:15:40+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2028972605114650707",
+      "images": [],
+      "likes": 17,
+      "retweets": 2,
+      "views": 1375
+    },
+    {
+      "id": "2028970092965572795",
+      "username": "deliprao",
+      "text": "The only slippery slope here is comms/exec language. No part of the contractual language publicly discussed or clarifications from the OpenAI folks can guarantee NSA/IC will not be able to use their services. OpenAI does not need to \"deploy to NSA\" for NSA to use those services.",
+      "timestamp": "2026-03-03T23:05:41+00:00",
+      "url": "https://x.com/deliprao/status/2028970092965572795",
+      "images": [],
+      "likes": 5,
+      "retweets": 1,
+      "views": 934
+    },
+    {
+      "id": "2028970041937453191",
+      "username": "DeryaTR_",
+      "text": "Interesting analysis from Gartner. Given Jevons’s paradox, in the short term (next 5 years) it makes sense that more jobs will be created due to AI than lost. However, the orange line will make a sharp downward turn after 2030s while the blue line will continue its upward trend.",
+      "timestamp": "2026-03-03T23:05:29+00:00",
+      "url": "https://x.com/DeryaTR_/status/2028970041937453191",
+      "images": [],
+      "likes": 33,
+      "retweets": 3,
+      "views": 4927
+    },
+    {
+      "id": "2028968076604260793",
+      "username": "hausman_k",
+      "text": "Scaling robotic foundation models will solve many problems.\nMemory isn’t one of them.\n\nOur latest release shows how short- and long-term memory unlocks entirely new capabilities (incl. first signs of in-context learning!)\n\nhttps://t.co/ou9eIRGYVa",
+      "timestamp": "2026-03-03T22:57:40+00:00",
+      "url": "https://x.com/hausman_k/status/2028968076604260793",
+      "images": [],
+      "likes": 38,
+      "retweets": 2,
+      "views": 2983
+    },
+    {
+      "id": "2028962246618230808",
+      "username": "OpenAIDevs",
+      "text": "brb building a new app for @ChatGPTapp with this new Codex skill:",
+      "timestamp": "2026-03-03T22:34:30+00:00",
+      "url": "https://x.com/OpenAIDevs/status/2028962246618230808",
+      "images": [],
+      "likes": 411,
+      "retweets": 20,
+      "views": 37572
+    },
+    {
+      "id": "2028878151485411419",
+      "username": "_akhaliq",
+      "text": "OmniLottie\n\nGenerating Vector Animations via Parameterized Lottie Tokens\n\npaper: https://t.co/cRXmK9UCTB https://t.co/Lid1OjIhfq",
+      "timestamp": "2026-03-03T17:00:20+00:00",
+      "url": "https://x.com/_akhaliq/status/2028878151485411419",
+      "images": [],
+      "likes": 127,
+      "retweets": 14,
+      "views": 18237
     }
   ]
 }
