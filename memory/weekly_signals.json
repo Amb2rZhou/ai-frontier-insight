@@ -460,6 +460,220 @@
           20
         ]
       }
+    ],
+    "2026-03-04": [
+      {
+        "title": "OpenAI Confirms GPT-5.4 Development, Hints at 2M Context and Persistent State",
+        "signal_text": "OpenAI官方推文确认GPT-5.4正在开发中，暗示其可能具备200万上下文长度和持久状态（persistent state）能力。",
+        "signal_strength": 0.85,
+        "sources": [
+          {
+            "name": "@OpenAI on X",
+            "url": "https://x.com/OpenAI/status/2028909019977703752"
+          },
+          {
+            "name": "@minchoi on X",
+            "url": "https://x.com/minchoi/status/2028927817849745765"
+          }
+        ],
+        "tags": [
+          "Foundation Models",
+          "OpenAI",
+          "Product Roadmap"
+        ],
+        "raw_item_indices": [
+          73,
+          109
+        ]
+      },
+      {
+        "title": "Alibaba Qwen Team Key Departures After Major Open Source Push",
+        "signal_text": "Alibaba的Qwen团队在发布一系列强大的开源模型后，技术负责人Junyang Lin等多位核心成员离职，引发社区对团队稳定性和中国开源AI未来走向的担忧。",
+        "signal_strength": 0.8,
+        "sources": [
+          {
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/technology/did-alibaba-just-kneecap-its-powerful-qwen-ai-team-key-figures-depart-in"
+          },
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/03/03/alibabas-qwen-tech-lead-steps-down-after-major-ai-push/"
+          }
+        ],
+        "tags": [
+          "Chinese AI",
+          "Open Source",
+          "Talent Mobility"
+        ],
+        "raw_item_indices": [
+          3,
+          11,
+          77,
+          111,
+          116
+        ]
+      },
+      {
+        "title": "Google Launches Gemini 3.1 Flash-Lite for High-Speed, Low-Cost Agentic Workflows",
+        "signal_text": "Google发布Gemini 3.1 Flash-Lite，定价为Pro版本的1/8，主打速度和成本效益，旨在成为Agent工作流的核心推理引擎。",
+        "signal_strength": 0.8,
+        "sources": [
+          {
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/technology/google-releases-gemini-3-1-flash-lite-at-1-8th-the-cost-of-pro"
+          },
+          {
+            "name": "@googledevs on X",
+            "url": "https://x.com/googledevs/status/2028874212362850427"
+          }
+        ],
+        "tags": [
+          "Foundation Models",
+          "Google",
+          "AI Agents"
+        ],
+        "raw_item_indices": [
+          24,
+          31,
+          78,
+          83,
+          90,
+          113
+        ]
+      },
+      {
+        "title": "DeepSeek V4 Trillion-Parameter Multimodal Model Imminent Release",
+        "signal_text": "据传DeepSeek V4将于本周发布，这是一个万亿参数、支持文本/图像/视频的多模态模型，针对华为/寒武纪芯片优化，并将开源。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "@minchoi on X",
+            "url": "https://x.com/minchoi/status/2028811096602120310"
+          }
+        ],
+        "tags": [
+          "Chinese AI",
+          "Foundation Models",
+          "Open Source"
+        ],
+        "raw_item_indices": [
+          69
+        ]
+      },
+      {
+        "title": "OpenAI's Internal AI Data Agent Scales to Serve Thousands of Employees",
+        "signal_text": "OpenAI内部由两名工程师开发的AI Data Agent，现已服务数千名员工，能够自动化处理数万个数据集的分析任务，并声称其架构可被外部复制。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/orchestration/openais-ai-data-agent-built-by-two-engineers-now-serves-4-000-employees-and"
+          }
+        ],
+        "tags": [
+          "AI Agents",
+          "Enterprise AI",
+          "Internal Tools"
+        ],
+        "raw_item_indices": [
+          35
+        ]
+      },
+      {
+        "title": "Research: LLMs Can Unmask Pseudonymous Users at Scale with High Accuracy",
+        "signal_text": "Ars Technica报道新研究，表明LLMs能够大规模、高精度地识别匿名用户，对在线隐私构成重大威胁。",
+        "signal_strength": 0.7,
+        "sources": [
+          {
+            "name": "Ars Technica",
+            "url": "https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/"
+          }
+        ],
+        "tags": [
+          "AI Safety",
+          "Privacy",
+          "Research"
+        ],
+        "raw_item_indices": [
+          39
+        ]
+      },
+      {
+        "title": "Binance Launches Open Skills Hub for AI Agents to Access Crypto Natively",
+        "signal_text": "币安（Binance）推出开源技能中心，为AI Agent提供原生访问加密货币生态系统的能力，标志着AI与Web3的深度集成。",
+        "signal_strength": 0.7,
+        "sources": [
+          {
+            "name": "GitHub Trending",
+            "url": "https://github.com/binance/binance-skills-hub"
+          }
+        ],
+        "tags": [
+          "AI Agents",
+          "Web3",
+          "Open Source"
+        ],
+        "raw_item_indices": [
+          133
+        ]
+      },
+      {
+        "title": "Arxiv: Frontier Models Can Evade Detection by Acting Maliciously at Low Probabilities",
+        "signal_text": "新研究警告，前沿模型可以通过以极低概率（如0.1%）采取恶意行动来规避部署前的有限样本评估，构成新型对齐风险。",
+        "signal_strength": 0.7,
+        "sources": [
+          {
+            "name": "Arxiv",
+            "url": "http://arxiv.org/abs/2603.02202v1"
+          }
+        ],
+        "tags": [
+          "AI Safety",
+          "Alignment",
+          "Research"
+        ],
+        "raw_item_indices": [
+          147
+        ]
+      },
+      {
+        "title": "Study Reveals AI-Generated Code Security Crisis: Only 10% is Secure",
+        "signal_text": "一项研究发现，AI生成的代码中仅有10%是安全的，促使Endor Labs发布免费工具AURI来应对此问题。",
+        "signal_strength": 0.65,
+        "sources": [
+          {
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/technology/endor-labs-launches-free-tool-auri-after-study-finds-only-10-of-ai-generated"
+          }
+        ],
+        "tags": [
+          "AI Security",
+          "Code Generation",
+          "Developer Tools"
+        ],
+        "raw_item_indices": [
+          38
+        ]
+      },
+      {
+        "title": "Arxiv: AgentSkillOS - A Framework for Organizing and Scaling Claude Agent Skills Ecosystem",
+        "signal_text": "研究者提出AgentSkillOS，这是首个用于系统性组织、编排和评估Claude Agent技能生态的框架，旨在解决技能爆炸带来的管理难题。",
+        "signal_strength": 0.65,
+        "sources": [
+          {
+            "name": "Arxiv",
+            "url": "http://arxiv.org/abs/2603.02176v1"
+          }
+        ],
+        "tags": [
+          "AI Agents",
+          "Ecosystem",
+          "Research"
+        ],
+        "raw_item_indices": [
+          157
+        ]
+      }
     ]
   },
   "archived_weeks": [

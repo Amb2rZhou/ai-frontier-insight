@@ -1,76 +1,6 @@
 {
   "predictions": [
     {
-      "date": "2026-02-25T20:08:15.566600+08:00",
-      "prediction_text": "未来3-6个月，其他前沿实验室（如OpenAI、DeepMind）可能效仿，公开淡化安全承诺以加速产品化，同时引发监管机构更严格的审查与质询。",
-      "category": "strategic_move",
-      "source_signal": "Anthropic Drops Key Safety Pledge Amid AGI Acceleration Concerns",
-      "timeframe": "3-6 months"
-    },
-    {
-      "date": "2026-02-25T20:08:15.575661+08:00",
-      "prediction_text": "未来3-6个月，企业将大规模采购并集成这些编码代理，推动CI/CD流程重构，同时催生针对Agent协作、代码库安全与合规监控的新工具市场。",
-      "category": "product_launch",
-      "source_signal": "OpenAI's GPT-5.3-Codex GA and Claude Code Remote Control Launch",
-      "timeframe": "3-6 months"
-    },
-    {
-      "date": "2026-02-25T20:08:15.594286+08:00",
-      "prediction_text": "未来3-6个月，更多传统车企将寻求投资或收购类似初创公司，同时激光雷达等传统传感器供应商将面临估值压力，被迫向AI软件与数据服务转型。",
-      "category": "strategic_move",
-      "source_signal": "Embodied AI Startup Wayve Raises $1.2B from Nvidia, Automakers",
-      "timeframe": "3-6 months"
-    },
-    {
-      "date": "2026-02-25T20:08:15.618383+08:00",
-      "prediction_text": "未来3-6个月，围绕OpenClaw等主流框架将出现首批商业化技能市场与托管平台，同时科技巨头可能通过收购核心贡献团队或推出兼容框架来争夺生态主导权。",
-      "category": "open_source",
-      "source_signal": "OpenClaw Ecosystem Explodes with Global Meetups and Tooling",
-      "timeframe": "3-6 months"
-    },
-    {
-      "date": "2026-02-25T20:08:15.626569+08:00",
-      "prediction_text": "未来3-6个月，MatX将公布其针对LLM训练与推理优化的系统架构细节，并锁定1-2家超大规模云厂商作为早期标杆客户，以证明其全栈能力。",
-      "category": "infrastructure",
-      "source_signal": "Nvidia Challenger MatX Raises $500M Led by Former Google TPU Engineers",
-      "timeframe": "3-6 months"
-    },
-    {
-      "date": "2026-02-25T20:08:15.636891+08:00",
-      "prediction_text": "未来3-6个月，大型金融机构与政府将启动基于AI的遗留系统现代化POC，但重点将从代码翻译转向业务流程与数据模型的AI辅助重构，迫使IBM等厂商加速转型。",
-      "category": "ecosystem_shift",
-      "source_signal": "Anthropic's COBOL Modernization Tools Trigger IBM Stock Drop",
-      "timeframe": "3-6 months"
-    },
-    {
-      "date": "2026-02-25T20:08:15.643448+08:00",
-      "prediction_text": "未来3-6个月，更多中美实验室将发布类似的高效MoE模型，推动70B以下参数模型在边缘和企业端的部署，同时加剧开源模型在垂直领域（如代码、数学）的细分竞争。",
-      "category": "model_release",
-      "source_signal": "Alibaba Qwen Releases New 3.5 Medium Model Series with MoE Architecture",
-      "timeframe": "3-6 months"
-    },
-    {
-      "date": "2026-02-25T20:08:15.660100+08:00",
-      "prediction_text": "未来3-6个月，xAI将基于Grok的性能数据，积极寻求与更多搜索引擎、社交媒体或硬件设备商进行深度集成合作，迫使OpenAI和谷歌加速其RAG与实时信息处理能力。",
-      "category": "model_benchmark",
-      "source_signal": "Grok 4.20 Beta Tops Search Arena, Challenges Frontier Models",
-      "timeframe": "3-6 months"
-    },
-    {
-      "date": "2026-02-25T20:08:15.666583+08:00",
-      "prediction_text": "未来3-6个月，科技公司将大规模引入类似内部培训，并调整招聘考核标准；同时，面向AI辅助的软件设计、测试与验证工具需求将激增。",
-      "category": "ecosystem_shift",
-      "source_signal": "Gauntlet AI Trains Engineers for 'Full-Stack LLM Mode'",
-      "timeframe": "3-6 months"
-    },
-    {
-      "date": "2026-02-25T20:08:15.680775+08:00",
-      "prediction_text": "未来3-6个月，将有更多初创公司发布基于新颖算法（如结构化剪枝、非均匀量化）的高效模型，在特定任务上挑战更大规模的基础模型，推动边缘AI部署。",
-      "category": "research_breakthrough",
-      "source_signal": "Spanish Startup Multiverse Computing Releases Free Compressed AI Model",
-      "timeframe": "3-6 months"
-    },
-    {
       "date": "2026-02-25T20:08:15.687269+08:00",
       "prediction_text": "未来3-6个月，其他跨国银行将效仿，加大对特定区域（如欧洲、东南亚）头部AI实验室的战略投资或建立深度合作，推动AI金融应用本地化竞争。",
       "category": "strategic_move",
@@ -630,6 +560,66 @@
       "prediction_text": "将催生一系列为AI生成代码优化的新语言或DSL，它们可能比传统语言更易被AI掌握但人类难以阅读，从而在长期内形成人机代码的“双语”甚至“双栈”开发环境。",
       "category": "research_breakthrough",
       "source_signal": "Arxiv: Vera - A Programming Language Designed for LLMs to Write"
+    },
+    {
+      "date": "2026-03-04T09:32:53.219288+08:00",
+      "prediction_text": "这将迫使所有竞品模型（如Claude、Gemini）在接下来3-6个月内必须跟进类似能力，并催生一批基于超长上下文和持久状态的AI原生应用，重塑人机交互范式。",
+      "category": "model_release",
+      "source_signal": "OpenAI Confirms GPT-5.4 Development, Hints at 2M Context and Persistent State"
+    },
+    {
+      "date": "2026-03-04T09:32:53.234717+08:00",
+      "prediction_text": "中国开源AI模型的迭代速度和创新质量短期内可能放缓，同时加速顶尖AI人才向创业公司或海外流动，促使企业重新评估对单一明星团队的依赖。",
+      "category": "ecosystem_shift",
+      "source_signal": "Alibaba Qwen Team Key Departures After Major Open Source Push"
+    },
+    {
+      "date": "2026-03-04T09:32:53.252624+08:00",
+      "prediction_text": "未来一年内，AI Agent的开发与部署成本将急剧下降，大量中小企业和开发者将能负担复杂多步工作流，加速Agent在垂直行业的渗透，同时挤压专用中间件厂商的生存空间。",
+      "category": "strategic_move",
+      "source_signal": "Google Launches Gemini 3.1 Flash-Lite for High-Speed, Low-Cost Agentic Workflows"
+    },
+    {
+      "date": "2026-03-04T09:32:53.264232+08:00",
+      "prediction_text": "将极大推动华为昇腾、寒武纪等国产AI芯片的开发者生态和应用落地，并在未来18个月内，促使全球其他地区（如欧盟）加速扶持本土替代性AI硬件与模型生态。",
+      "category": "open_source",
+      "source_signal": "DeepSeek V4 Trillion-Parameter Multimodal Model Imminent Release"
+    },
+    {
+      "date": "2026-03-04T09:32:53.284492+08:00",
+      "prediction_text": "未来6-12个月，企业级AI Agent将从概念验证快速进入核心业务系统改造阶段，数据工程师和数据分析师的角色将首先被大规模重构，推动MLOps向AgentOps演进。",
+      "category": "enterprise_ai",
+      "source_signal": "OpenAI's Internal AI Data Agent Scales to Serve Thousands of Employees"
+    },
+    {
+      "date": "2026-03-04T09:32:53.299460+08:00",
+      "prediction_text": "将立即引发全球数据保护监管机构的关注，迫使所有LLM提供商在年内必须内嵌更严格的隐私保护机制，并催生一个专注于对抗AI去匿名化的新安全技术赛道。",
+      "category": "ai_safety",
+      "source_signal": "Research: LLMs Can Unmask Pseudonymous Users at Scale with High Accuracy"
+    },
+    {
+      "date": "2026-03-04T09:32:53.312275+08:00",
+      "prediction_text": "将加速AI与区块链的融合，未来一年会出现大量具备自主交易、投资、治理能力的DeFi Agent，同时引发关于AI资产所有权、法律责任和金融监管的新一轮全球辩论。",
+      "category": "ecosystem_shift",
+      "source_signal": "Binance Launches Open Skills Hub for AI Agents to Access Crypto Natively"
+    },
+    {
+      "date": "2026-03-04T09:32:53.330344+08:00",
+      "prediction_text": "AI安全研究将被迫从“行为对齐”转向“动机与内部表征对齐”，推动更复杂的动态对抗性评估和持续监控成为模型部署前的强制标准，大幅增加前沿模型的上市成本与时间。",
+      "category": "research_breakthrough",
+      "source_signal": "Arxiv: Frontier Models Can Evade Detection by Acting Maliciously at Low Probabilities"
+    },
+    {
+      "date": "2026-03-04T09:32:53.346750+08:00",
+      "prediction_text": "将促使企业CI/CD管道在未来3个月内强制集成AI代码安全扫描工具，推动Secure AI Coding成为独立赛道，并可能引发针对AI生成代码漏洞的首批重大诉讼。",
+      "category": "ai_security",
+      "source_signal": "Study Reveals AI-Generated Code Security Crisis: Only 10% is Secure"
+    },
+    {
+      "date": "2026-03-04T09:32:53.357831+08:00",
+      "prediction_text": "未来一年，各大AI平台（如OpenAI、Anthropic）将纷纷推出或整合类似的技能管理与编排系统，推动Agent开发从“手工作坊”模式转向基于标准化接口和商店的“插件化”生态。",
+      "category": "infrastructure",
+      "source_signal": "Arxiv: AgentSkillOS - A Framework for Organizing and Scaling Claude Agent Skills Ecosystem"
     }
   ]
 }
