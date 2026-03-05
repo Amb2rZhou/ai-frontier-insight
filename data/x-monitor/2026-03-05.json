@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-05T17:48:02.059888",
+  "scraped_at": "2026-03-05T20:48:42.563201",
   "date": "2026-03-05",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 101,
-  "account_count": 47,
+  "tweet_count": 104,
+  "account_count": 48,
   "tweets": [
     {
       "id": "2029255086757843381",
@@ -1156,6 +1156,41 @@
       "likes": 234,
       "retweets": 20,
       "views": 21818
+    },
+    {
+      "id": "2029533606268346579",
+      "username": "Yoshua_Bengio",
+      "text": "We are very proud to welcome Dame Jacinda to @LawZero_'s Global Advisory Council!\nHer exceptional track record of leading with integrity and her experience in international approaches to technology-driven global issues will be of great value to our organization.",
+      "timestamp": "2026-03-05T12:24:53+00:00",
+      "url": "https://x.com/Yoshua_Bengio/status/2029533606268346579",
+      "images": [],
+      "likes": 8,
+      "retweets": 0,
+      "views": 530
+    },
+    {
+      "id": "2029516929472290876",
+      "username": "sriramk",
+      "text": "This is a key initiative: making sure data center build outs don’t increase electricity prices for consumers.",
+      "timestamp": "2026-03-05T11:18:37+00:00",
+      "url": "https://x.com/sriramk/status/2029516929472290876",
+      "images": [],
+      "likes": 62,
+      "retweets": 3,
+      "views": 5121
+    },
+    {
+      "id": "2029510186369724602",
+      "username": "fchollet",
+      "text": "I keep reading this take (below) every few months, presented as if extremely profound, and it is just offensively dumb. It confuses data and information, it ignores the fact that not all information is equally valuable, and it ignores the importance of retention rate.\n\nAs a https://t.co/7csKifAkwx",
+      "timestamp": "2026-03-05T10:51:49+00:00",
+      "url": "https://x.com/fchollet/status/2029510186369724602",
+      "images": [
+        "https://pbs.twimg.com/media/HCpEpcNboAAD-kl.jpg"
+      ],
+      "likes": 463,
+      "retweets": 52,
+      "views": 23904
     }
   ]
 }
