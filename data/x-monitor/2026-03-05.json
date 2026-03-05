@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-05T09:15:42.001196",
+  "scraped_at": "2026-03-05T14:17:13.729252",
   "date": "2026-03-05",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 64,
-  "account_count": 36,
+  "tweet_count": 94,
+  "account_count": 45,
   "tweets": [
     {
       "id": "2029255086757843381",
@@ -735,6 +735,346 @@
       "likes": 708,
       "retweets": 31,
       "views": 49534
+    },
+    {
+      "id": "2029438857742336309",
+      "username": "mmitchell_ai",
+      "text": "People are now being killed based (in part) on LLM outputs…\nAre there people being saved based on LLM outputs?",
+      "timestamp": "2026-03-05T06:08:23+00:00",
+      "url": "https://x.com/mmitchell_ai/status/2029438857742336309",
+      "images": [],
+      "likes": 1,
+      "retweets": 0,
+      "views": 101
+    },
+    {
+      "id": "2029438571577524309",
+      "username": "Miles_Brundage",
+      "text": "We will have at least 3 distinct $10 trillion companies focused on AI before Ed Zitr*n admits there is money to be made here",
+      "timestamp": "2026-03-05T06:07:15+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2029438571577524309",
+      "images": [],
+      "likes": 10,
+      "retweets": 0,
+      "views": 189
+    },
+    {
+      "id": "2029434986462634473",
+      "username": "Miles_Brundage",
+      "text": "I remember when I first fully appreciated, in 2019, that many people would die as a result of language model outputs…\n\nIt’s unclear exactly when we left the gray area period, in which there were LM-*linked* deaths but no smoking gun of causality.\n\nBut it is def. in the past now:",
+      "timestamp": "2026-03-05T05:53:00+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2029434986462634473",
+      "images": [],
+      "likes": 6,
+      "retweets": 1,
+      "views": 600
+    },
+    {
+      "id": "2029413587869962587",
+      "username": "_akhaliq",
+      "text": "Helios\n\nReal Real-Time Long Video Generation Model\n\npaper: https://t.co/ae0ZH4zPzn https://t.co/kCnNfF3ImI",
+      "timestamp": "2026-03-05T04:27:58+00:00",
+      "url": "https://x.com/_akhaliq/status/2029413587869962587",
+      "images": [],
+      "likes": 34,
+      "retweets": 5,
+      "views": 3741
+    },
+    {
+      "id": "2029409078775029860",
+      "username": "minchoi",
+      "text": "3 years of AI progress https://t.co/AKpvlsde3W",
+      "timestamp": "2026-03-05T04:10:03+00:00",
+      "url": "https://x.com/minchoi/status/2029409078775029860",
+      "images": [],
+      "likes": 228,
+      "retweets": 32,
+      "views": 22714
+    },
+    {
+      "id": "2029405918136549550",
+      "username": "EMostaque",
+      "text": "More than one major AI-assisted advance due to be announced next few months 🔜 \n\nFolk dismissive of AI’s innovation impact are so wrong 😣 \n\nAll major discoveries will be AI assisted or driven in a few years 🤖 \n\nThe next step change is coming soon 👀",
+      "timestamp": "2026-03-05T03:57:30+00:00",
+      "url": "https://x.com/EMostaque/status/2029405918136549550",
+      "images": [],
+      "likes": 112,
+      "retweets": 7,
+      "views": 5751
+    },
+    {
+      "id": "2029403515206987865",
+      "username": "fchollet",
+      "text": "Unsurprisingly, discretizing continuous signals yields... discrete representations (hence why computers are digital). Even better: you can use these discrete representations to encode continuous representations again! That's what deep learning does (a differentiable continuous",
+      "timestamp": "2026-03-05T03:47:57+00:00",
+      "url": "https://x.com/fchollet/status/2029403515206987865",
+      "images": [],
+      "likes": 168,
+      "retweets": 8,
+      "views": 17263
+    },
+    {
+      "id": "2029402480644129243",
+      "username": "NVIDIARobotics",
+      "text": ".@LightwheelAI is bringing their physical AI simulation, data, and evaluation tools to #NVIDIAGTC. 🤖 \n\nCatch them at booth #1406 and dive deeper through these sessions and trainings:\n\n→ Building the Next Wave of AI-Enabled Robots with Lightwheel CEO Steve Xie\n \n→ Accelerate https://t.co/mwfjcQrsQi",
+      "timestamp": "2026-03-05T03:43:50+00:00",
+      "url": "https://x.com/NVIDIARobotics/status/2029402480644129243",
+      "images": [
+        "https://pbs.twimg.com/media/HCnizOUXIAAtIIf.jpg"
+      ],
+      "likes": 23,
+      "retweets": 5,
+      "views": 1222
+    },
+    {
+      "id": "2029396883605791121",
+      "username": "natolambert",
+      "text": "If anyone at @AlibabaGroup needs a report on Qwen's impact in order to make changes to keep the team happy I can throw it together.\n\nQwen's hitting open model numbers Llama never even did. Most successful open model family of all time. \n\nJust keep it going, don't overthink.",
+      "timestamp": "2026-03-05T03:21:36+00:00",
+      "url": "https://x.com/natolambert/status/2029396883605791121",
+      "images": [],
+      "likes": 317,
+      "retweets": 16,
+      "views": 15738
+    },
+    {
+      "id": "2029396268334891384",
+      "username": "Miles_Brundage",
+      "text": "Frontier AI companies have had many years to prepare for this DPA + contract negotiation stuff and didn’t really do much. None of this came out of nowhere.\n\nShould give you pause re: how on top of AGI safety and security they are",
+      "timestamp": "2026-03-05T03:19:09+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2029396268334891384",
+      "images": [],
+      "likes": 70,
+      "retweets": 5,
+      "views": 3203
+    },
+    {
+      "id": "2029384334545957254",
+      "username": "NVIDIARobotics",
+      "text": "Congrats to our NVIDIA Research team for hitting #1 on the MolmoSpaces and RoboArena policy leaderboard. 🎉",
+      "timestamp": "2026-03-05T02:31:44+00:00",
+      "url": "https://x.com/NVIDIARobotics/status/2029384334545957254",
+      "images": [],
+      "likes": 19,
+      "retweets": 2,
+      "views": 1854
+    },
+    {
+      "id": "2029383746395488579",
+      "username": "Miles_Brundage",
+      "text": "Machines of Hugging Face",
+      "timestamp": "2026-03-05T02:29:23+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2029383746395488579",
+      "images": [],
+      "likes": 84,
+      "retweets": 5,
+      "views": 2691
+    },
+    {
+      "id": "2029376777429368866",
+      "username": "Miles_Brundage",
+      "text": "I hear a Claude-managed swarm of drones is en route to the leaker's house RN",
+      "timestamp": "2026-03-05T02:01:42+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2029376777429368866",
+      "images": [],
+      "likes": 43,
+      "retweets": 1,
+      "views": 2411
+    },
+    {
+      "id": "2029376373777711269",
+      "username": "PyTorch",
+      "text": "Got #CloudNative, #OpenInfra, or #PyTorch insights to share? 🎤\n\nTake the stage at #KubeCon + #CloudNativeCon + #OpenInfraSummit + #PyTorchCon China. Topics span #AI, infrastructure, #Kubernetes, #ML systems, #OpenSource leadership &amp; more.\n\n🗓 Submit your proposal by 3 May. 👉 https://t.co/2Rfz5OgIuw",
+      "timestamp": "2026-03-05T02:00:06+00:00",
+      "url": "https://x.com/PyTorch/status/2029376373777711269",
+      "images": [],
+      "likes": 5,
+      "retweets": 0,
+      "views": 2398
+    },
+    {
+      "id": "2029376349492683123",
+      "username": "googledevs",
+      "text": "🗓️ It’s official: #GoogleIO is back on May 19 to 20, 2026.\n\nExplore the build process of the Save the Date puzzle experience for inspiration on how to speed up prototyping and developer workflows using Google AI Studio and Google Antigravity.\n\nRead the blog → https://t.co/z05WJ9SGeE",
+      "timestamp": "2026-03-05T02:00:00+00:00",
+      "url": "https://x.com/googledevs/status/2029376349492683123",
+      "images": [],
+      "likes": 55,
+      "retweets": 11,
+      "views": 5110
+    },
+    {
+      "id": "2029374073516769758",
+      "username": "AravSrinivas",
+      "text": "curiosity is the necessary \"skill\" of the biological computer",
+      "timestamp": "2026-03-05T01:50:57+00:00",
+      "url": "https://x.com/AravSrinivas/status/2029374073516769758",
+      "images": [],
+      "likes": 298,
+      "retweets": 23,
+      "views": 13236
+    },
+    {
+      "id": "2029372736267805081",
+      "username": "addyosmani",
+      "text": "Introducing the Google Workspace CLI: https://t.co/8yWtbxiVPp - built for humans and agents.\n\nGoogle Drive, Gmail, Calendar, and every Workspace API. 40+ agent skills included.",
+      "timestamp": "2026-03-05T01:45:38+00:00",
+      "url": "https://x.com/addyosmani/status/2029372736267805081",
+      "images": [],
+      "likes": 3589,
+      "retweets": 404,
+      "views": 621311
+    },
+    {
+      "id": "2029369663210008835",
+      "username": "demishassabis",
+      "text": "Still super underrated what the incredible @NotebookLM can do. It's magical - one of my favourite AI tools.",
+      "timestamp": "2026-03-05T01:33:26+00:00",
+      "url": "https://x.com/demishassabis/status/2029369663210008835",
+      "images": [],
+      "likes": 1002,
+      "retweets": 84,
+      "views": 64444
+    },
+    {
+      "id": "2029363714642837806",
+      "username": "steipete",
+      "text": "Amazing. My whole motivation for building https://t.co/o15a6lOxec was that nothing good was out there. But now gog is *really* good, looking at the json commands needed for gws I'm less sure. Will run some evals and see what works better for agents. https://t.co/X5pL7bm6gl",
+      "timestamp": "2026-03-05T01:09:47+00:00",
+      "url": "https://x.com/steipete/status/2029363714642837806",
+      "images": [
+        "https://pbs.twimg.com/media/HCm_dklWQAAObDN.jpg"
+      ],
+      "likes": 1334,
+      "retweets": 56,
+      "views": 162342
+    },
+    {
+      "id": "2029362422851748094",
+      "username": "osanseviero",
+      "text": "Qwen friends: \n\nif any of you want a new home to build great models and contribute to the open models ecosystem, please reach out! Lots of exciting things in the roadmap and so much to build ahead of us",
+      "timestamp": "2026-03-05T01:04:39+00:00",
+      "url": "https://x.com/osanseviero/status/2029362422851748094",
+      "images": [],
+      "likes": 866,
+      "retweets": 57,
+      "views": 159686
+    },
+    {
+      "id": "2029358591275335912",
+      "username": "levie",
+      "text": "Agents will be the biggest users of software. They’ll often need their own computers, identities, file systems, and tools to do their work. As a result, software will increasingly become API-first to be as useful to agents as they are to people. This is a huge opportunity.",
+      "timestamp": "2026-03-05T00:49:26+00:00",
+      "url": "https://x.com/levie/status/2029358591275335912",
+      "images": [],
+      "likes": 367,
+      "retweets": 33,
+      "views": 61680
+    },
+    {
+      "id": "2029356962995945875",
+      "username": "DeryaTR_",
+      "text": "GPT-5.4 is coming sooner than sooner. ☺️",
+      "timestamp": "2026-03-05T00:42:58+00:00",
+      "url": "https://x.com/DeryaTR_/status/2029356962995945875",
+      "images": [],
+      "likes": 121,
+      "retweets": 2,
+      "views": 7245
+    },
+    {
+      "id": "2029352945901273485",
+      "username": "deliprao",
+      "text": "Every negative result paper is a reward signal. Which means, with modern LLMs, all negative results are ephemeral.",
+      "timestamp": "2026-03-05T00:27:00+00:00",
+      "url": "https://x.com/deliprao/status/2029352945901273485",
+      "images": [],
+      "likes": 12,
+      "retweets": 1,
+      "views": 1884
+    },
+    {
+      "id": "2029349058314178942",
+      "username": "DeryaTR_",
+      "text": "When Dario said a year ago that by the end of 2025, 90% of code would be written by AI, most laughed at this, saying that it wasn’t possible. Now it’s at near 100%. Over the past several years, we keep repeating that there is no wall in the age of AI &amp; advances are exponential.",
+      "timestamp": "2026-03-05T00:11:33+00:00",
+      "url": "https://x.com/DeryaTR_/status/2029349058314178942",
+      "images": [],
+      "likes": 156,
+      "retweets": 9,
+      "views": 13897
+    },
+    {
+      "id": "2029348087538565612",
+      "username": "mitchellh",
+      "text": "Ahhhh, Codex 5.3 (xhigh) with a vague prompt just solved a bug that I and others have been struggling to fix for over 6 months. Other reasoning levels with Codex failed, Opus 4.6 failed. Cost $4.14 and 45 minutes. Full trace plus includes original issue: https://t.co/ck1WJI6fa8",
+      "timestamp": "2026-03-05T00:07:42+00:00",
+      "url": "https://x.com/mitchellh/status/2029348087538565612",
+      "images": [],
+      "likes": 1911,
+      "retweets": 114,
+      "views": 121139
+    },
+    {
+      "id": "2029332936550695420",
+      "username": "GaryMarcus",
+      "text": "trust me bro, this may be missing a few zeros, but it’s a good meme",
+      "timestamp": "2026-03-04T23:07:29+00:00",
+      "url": "https://x.com/GaryMarcus/status/2029332936550695420",
+      "images": [],
+      "likes": 91,
+      "retweets": 9,
+      "views": 7821
+    },
+    {
+      "id": "2029330843945320927",
+      "username": "AravSrinivas",
+      "text": "Building a kind of JARVIS",
+      "timestamp": "2026-03-04T22:59:10+00:00",
+      "url": "https://x.com/AravSrinivas/status/2029330843945320927",
+      "images": [],
+      "likes": 445,
+      "retweets": 27,
+      "views": 56474
+    },
+    {
+      "id": "2029328990675083759",
+      "username": "NVIDIARobotics",
+      "text": "Want to get hands-on with the latest in robotics, edge computing, and computer vision?\n\nTake your skills to the next level at #NVIDIAGTC with these can’t-miss training labs:\n\n📈 Scaling Robotic AI Development from Prototype to Production with @genrobotics_ai: https://t.co/g8H9m16ZrR",
+      "timestamp": "2026-03-04T22:51:49+00:00",
+      "url": "https://x.com/NVIDIARobotics/status/2029328990675083759",
+      "images": [],
+      "likes": 73,
+      "retweets": 7,
+      "views": 3720
+    },
+    {
+      "id": "2029323652487946431",
+      "username": "minchoi",
+      "text": "This chart is insane...\n\nFeb 2025: ChatGPT owned 90% of the US business market for AI chat\n\nFeb 2026: Claude took 70% of it.\n\nThe fastest market shift in enterprise software history. 💀 https://t.co/VtjoEYuVur",
+      "timestamp": "2026-03-04T22:30:36+00:00",
+      "url": "https://x.com/minchoi/status/2029323652487946431",
+      "images": [
+        "https://pbs.twimg.com/media/HCma396XcAA6G9c.jpg"
+      ],
+      "likes": 106,
+      "retweets": 23,
+      "views": 13521
+    },
+    {
+      "id": "2029273545625198938",
+      "username": "emollick",
+      "text": "D&amp;D puzzle creation is still an unsolved benchmark.\n\nGemini 3.1 Deep Think designs something that is at least an interesting scenario, but not actually a puzzle.\n\nGPT-5.2 Pro and Opus 4.6 tie themselves in knots creating stuff that won't work, making things overcomplicated etc. https://t.co/OKUdQhCwbR",
+      "timestamp": "2026-03-04T19:11:30+00:00",
+      "url": "https://x.com/emollick/status/2029273545625198938",
+      "images": [
+        "https://pbs.twimg.com/media/HCltKxEasAA3SZP.jpg",
+        "https://pbs.twimg.com/media/HCltONmW4AEh9tQ.jpg",
+        "https://pbs.twimg.com/media/HCltcVpXwAAIHMl.jpg"
+      ],
+      "likes": 198,
+      "retweets": 5,
+      "views": 21546
     }
   ]
 }
