@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-05T14:17:13.729252",
+  "scraped_at": "2026-03-05T17:48:02.059888",
   "date": "2026-03-05",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 94,
-  "account_count": 45,
+  "tweet_count": 101,
+  "account_count": 47,
   "tweets": [
     {
       "id": "2029255086757843381",
@@ -1075,6 +1075,87 @@
       "likes": 198,
       "retweets": 5,
       "views": 21546
+    },
+    {
+      "id": "2029472484106653880",
+      "username": "__tinygrad__",
+      "text": "tinygrad's built in 321 line LLM server is now fast. This is on one 9070XT in a tinybox red. Try it. It has 0 deps, and includes the tokenizer and web page in the file. https://t.co/ZV2afa09YI",
+      "timestamp": "2026-03-05T08:22:00+00:00",
+      "url": "https://x.com/__tinygrad__/status/2029472484106653880",
+      "images": [],
+      "likes": 129,
+      "retweets": 3,
+      "views": 3311
+    },
+    {
+      "id": "2029467325674455075",
+      "username": "NielsRogge",
+      "text": "The news feature on @X is pretty goated\n\nOne of the best examples of topic modeling that works really well https://t.co/exDCYSqp2Q",
+      "timestamp": "2026-03-05T08:01:30+00:00",
+      "url": "https://x.com/NielsRogge/status/2029467325674455075",
+      "images": [
+        "https://pbs.twimg.com/media/HCodo1fW4AEFrP9.png"
+      ],
+      "likes": 1,
+      "retweets": 0,
+      "views": 214
+    },
+    {
+      "id": "2029466972275032087",
+      "username": "PyTorch",
+      "text": "💡 Share ideas. Build models. Meet the community.\n\n#PyTorchCon Europe\n7–8 April | Paris\n\n💰 Rates increase €100 after 20 March. 🎟 https://t.co/jod4fkDoG2\n🎓 Less than a week left to apply for a scholarship: https://t.co/7t0H4Xmukz https://t.co/cwazYvBo4G",
+      "timestamp": "2026-03-05T08:00:06+00:00",
+      "url": "https://x.com/PyTorch/status/2029466972275032087",
+      "images": [],
+      "likes": 3,
+      "retweets": 0,
+      "views": 1680
+    },
+    {
+      "id": "2029445637582852589",
+      "username": "Austen",
+      "text": "If you recently graduated from Berkeley CS and can’t find a job please DM me",
+      "timestamp": "2026-03-05T06:35:19+00:00",
+      "url": "https://x.com/Austen/status/2029445637582852589",
+      "images": [],
+      "likes": 84,
+      "retweets": 5,
+      "views": 13762
+    },
+    {
+      "id": "2029441985237631095",
+      "username": "mmitchell_ai",
+      "text": "People are being killed based (in part) on LLM outputs…\nAre there people being saved based on LLM outputs?",
+      "timestamp": "2026-03-05T06:20:49+00:00",
+      "url": "https://x.com/mmitchell_ai/status/2029441985237631095",
+      "images": [],
+      "likes": 14,
+      "retweets": 3,
+      "views": 1245
+    },
+    {
+      "id": "2029363591640748392",
+      "username": "Miles_Brundage",
+      "text": "Curious about the vibes at GDM these days",
+      "timestamp": "2026-03-05T01:09:18+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2029363591640748392",
+      "images": [],
+      "likes": 166,
+      "retweets": 5,
+      "views": 28369
+    },
+    {
+      "id": "2029284431278862660",
+      "username": "arena",
+      "text": "Qwen-Image-2.0 by @Alibaba_Qwen is in the Image Arena.\n\nPrevious gen Qwen-Image-2512 is currently the #2 open model in Text-to-Image and Single-Image Edit, let's see how this stacks up.\n\nTest this model with your most complex prompts and don't forget to vote to power the https://t.co/bXyeT9QHVZ",
+      "timestamp": "2026-03-04T19:54:45+00:00",
+      "url": "https://x.com/arena/status/2029284431278862660",
+      "images": [
+        "https://pbs.twimg.com/media/HCl13YZaUAANjEn.jpg"
+      ],
+      "likes": 234,
+      "retweets": 20,
+      "views": 21818
     }
   ]
 }
