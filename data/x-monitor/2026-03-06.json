@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-06T12:57:25.655118",
+  "scraped_at": "2026-03-06T17:03:36.709930",
   "date": "2026-03-06",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 123,
-  "account_count": 54,
+  "tweet_count": 138,
+  "account_count": 56,
   "tweets": [
     {
       "id": "2029611427124908432",
@@ -1405,6 +1405,175 @@
       "likes": 194,
       "retweets": 4,
       "views": 11093
+    },
+    {
+      "id": "2029837645807841643",
+      "username": "giffmana",
+      "text": "If you're going to ICLR next month and are interested in research at Meta, it's a good idea to come to our event there: https://t.co/Gy4xdnNyNs\n\n(I'm unfortunately not going to iclr this year - not sure yet which conference I'll go to)",
+      "timestamp": "2026-03-06T08:33:01+00:00",
+      "url": "https://x.com/giffmana/status/2029837645807841643",
+      "images": [],
+      "likes": 9,
+      "retweets": 0,
+      "views": 757
+    },
+    {
+      "id": "2029829359268229552",
+      "username": "PyTorch",
+      "text": "🤖 The Agents &amp; Interop track at #PyTorchCon Europe, 7-8 April in Paris, explores building agentic workflows, tool integrations &amp; interoperability across models, frameworks &amp; infrastructure. Learn more: https://t.co/CA4KrB40Uz\n\n🎟 Register: https://t.co/OjvfeyMD3w https://t.co/8DsM9ExYL9",
+      "timestamp": "2026-03-06T08:00:06+00:00",
+      "url": "https://x.com/PyTorch/status/2029829359268229552",
+      "images": [],
+      "likes": 3,
+      "retweets": 1,
+      "views": 1234
+    },
+    {
+      "id": "2029822302876029334",
+      "username": "giffmana",
+      "text": "Nice, I've long suspected something like this: catastrophic forgetting might be an exaggeration afterall.",
+      "timestamp": "2026-03-06T07:32:03+00:00",
+      "url": "https://x.com/giffmana/status/2029822302876029334",
+      "images": [],
+      "likes": 37,
+      "retweets": 1,
+      "views": 3672
+    },
+    {
+      "id": "2029819734607409163",
+      "username": "Miles_Brundage",
+      "text": "Saw some people say GPT-5.4 has Markdown fever but the opposite seems true in my experience so far?",
+      "timestamp": "2026-03-06T07:21:51+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2029819734607409163",
+      "images": [],
+      "likes": 2,
+      "retweets": 0,
+      "views": 621
+    },
+    {
+      "id": "2029819136541626691",
+      "username": "thsottiaux",
+      "text": "With GPT-5.4 out. What should Codex ship or improve next?",
+      "timestamp": "2026-03-06T07:19:29+00:00",
+      "url": "https://x.com/thsottiaux/status/2029819136541626691",
+      "images": [],
+      "likes": 485,
+      "retweets": 6,
+      "views": 22369
+    },
+    {
+      "id": "2029815209678782672",
+      "username": "giffmana",
+      "text": "I use chatgpt pulse and it's now tuned to give me updates on the latest PRs and fixes in pytorch/gpu/distributed land.\n\nSo every other morning i wake up to news about some silent corruptions being fixed. This is not helping my already significant trust issues lol https://t.co/OQlZtUrZC0",
+      "timestamp": "2026-03-06T07:03:52+00:00",
+      "url": "https://x.com/giffmana/status/2029815209678782672",
+      "images": [
+        "https://pbs.twimg.com/media/HCtaLMIXsAAczzc.jpg"
+      ],
+      "likes": 48,
+      "retweets": 0,
+      "views": 2396
+    },
+    {
+      "id": "2029814887229313078",
+      "username": "Miles_Brundage",
+      "text": "The ChatGPT iOS app is very buggy when you are using Projects",
+      "timestamp": "2026-03-06T07:02:35+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2029814887229313078",
+      "images": [],
+      "likes": 3,
+      "retweets": 0,
+      "views": 583
+    },
+    {
+      "id": "2029810555905519849",
+      "username": "giffmana",
+      "text": "Apropos of my recent post that coding will change forever, libraries will largely extinct.\nSure, this is not fully it yet, but look at the trend things are heating, not the current point estimate. https://t.co/kkiNMgFo6s",
+      "timestamp": "2026-03-06T06:45:23+00:00",
+      "url": "https://x.com/giffmana/status/2029810555905519849",
+      "images": [
+        "https://pbs.twimg.com/media/HCtV8TsWkAAJ3jt.jpg"
+      ],
+      "likes": 15,
+      "retweets": 0,
+      "views": 3498
+    },
+    {
+      "id": "2029809039417466932",
+      "username": "Miles_Brundage",
+      "text": "Is there any relationship between “extended” and “heavy” thinking in the ChatGPT interface and “high” and “xhigh” in the API?",
+      "timestamp": "2026-03-06T06:39:21+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2029809039417466932",
+      "images": [],
+      "likes": 4,
+      "retweets": 0,
+      "views": 907
+    },
+    {
+      "id": "2029800218347159673",
+      "username": "Austen",
+      "text": "Just hire from Gauntlet AI.\n\nProblem solved.",
+      "timestamp": "2026-03-06T06:04:18+00:00",
+      "url": "https://x.com/Austen/status/2029800218347159673",
+      "images": [],
+      "likes": 13,
+      "retweets": 0,
+      "views": 4186
+    },
+    {
+      "id": "2029788650750496776",
+      "username": "mmitchell_ai",
+      "text": "Malicious agent injection. “Every developer who installed or updated Cline got OpenClaw - a separate AI agent with full system access - installed globally on their machine without consent. “ https://t.co/ssCWRIWq4K",
+      "timestamp": "2026-03-06T05:18:20+00:00",
+      "url": "https://x.com/mmitchell_ai/status/2029788650750496776",
+      "images": [],
+      "likes": 11,
+      "retweets": 3,
+      "views": 1234
+    },
+    {
+      "id": "2028846103257616477",
+      "username": "Alibaba_Qwen",
+      "text": "🔥 Qwen 3.5 Series GPTQ-Int4 weights are live.\nNative vLLM &amp; SGLang support.\n⚡️ Less VRAM. Faster inference.\nRun powerful models on limited-GPU setups.\n👇 Grab the weights + example code:\nHugging Face:\nhttps://t.co/3MSb7miq68\nModelScope:\nhttps://t.co/LGHruBHP6Q",
+      "timestamp": "2026-03-03T14:52:59+00:00",
+      "url": "https://x.com/Alibaba_Qwen/status/2028846103257616477",
+      "images": [],
+      "likes": 854,
+      "retweets": 83,
+      "views": 120610
+    },
+    {
+      "id": "2028664203872251943",
+      "username": "Alibaba_Qwen",
+      "text": "Qwen3.5-9B is now available on LM Studio. Requires only ~7GB to run locally 🤯",
+      "timestamp": "2026-03-03T02:50:11+00:00",
+      "url": "https://x.com/Alibaba_Qwen/status/2028664203872251943",
+      "images": [],
+      "likes": 5264,
+      "retweets": 356,
+      "views": 443170
+    },
+    {
+      "id": "2028659618889773560",
+      "username": "Alibaba_Qwen",
+      "text": "qwen 3.5 small · already on mlx",
+      "timestamp": "2026-03-03T02:31:58+00:00",
+      "url": "https://x.com/Alibaba_Qwen/status/2028659618889773560",
+      "images": [],
+      "likes": 295,
+      "retweets": 13,
+      "views": 52572
+    },
+    {
+      "id": "2028654745905475989",
+      "username": "Alibaba_Qwen",
+      "text": "The Qwen 3.5 small model series is now available on Ollama.",
+      "timestamp": "2026-03-03T02:12:36+00:00",
+      "url": "https://x.com/Alibaba_Qwen/status/2028654745905475989",
+      "images": [],
+      "likes": 1204,
+      "retweets": 66,
+      "views": 77076
     }
   ]
 }
