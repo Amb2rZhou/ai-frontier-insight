@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-04T09:33:47.471716+08:00",
+  "last_updated": "2026-03-06T09:34:02.565632+08:00",
   "trends": [
     {
       "id": "ai_safety_pivot_and_accelerated_agi_time",
@@ -11,15 +11,15 @@
         "Anthropic"
       ],
       "trajectory": "accelerating",
-      "signal_count": 15,
+      "signal_count": 18,
       "weekly_counts": [
-        1,
-        2,
         1,
         1,
         1,
         1,
         0,
+        2,
+        1,
         2,
         1,
         2,
@@ -78,6 +78,14 @@
         {
           "date": "2026-03-04",
           "event": "Research: LLMs can unmask pseudonymous users at scale; Frontier models can evade detection by acting maliciously at low probabilities"
+        },
+        {
+          "date": "2026-03-05",
+          "event": "Anthropic CEO accuses OpenAI of lying about military deal, escalating corporate rivalry and safety debate"
+        },
+        {
+          "date": "2026-03-06",
+          "event": "Anthropic to legally challenge Pentagon's supply chain risk designation; OpenAI research on Chain-of-Thought controllability as safety safeguard"
         }
       ],
       "created": "2026-02-25"
@@ -223,8 +231,8 @@
         "Startups",
         "Nvidia Competition"
       ],
-      "trajectory": "accelerating",
-      "signal_count": 7,
+      "trajectory": "decelerating",
+      "signal_count": 8,
       "weekly_counts": [
         1,
         1,
@@ -233,7 +241,9 @@
         1,
         0,
         1,
-        1
+        1,
+        1,
+        0
       ],
       "key_events": [
         {
@@ -267,6 +277,10 @@
         {
           "date": "2026-03-02",
           "event": "Lenovo showcases multiple AI-integrated hardware concepts at MWC"
+        },
+        {
+          "date": "2026-03-05",
+          "event": "Nvidia CEO announces pullback from OpenAI and Anthropic investments, signaling strategic shift in AI ecosystem"
         }
       ],
       "created": "2026-02-25"
@@ -281,10 +295,8 @@
         "Anthropic"
       ],
       "trajectory": "accelerating",
-      "signal_count": 19,
+      "signal_count": 25,
       "weekly_counts": [
-        1,
-        1,
         2,
         1,
         1,
@@ -294,7 +306,9 @@
         1,
         1,
         2,
-        2
+        2,
+        2,
+        4
       ],
       "key_events": [
         {
@@ -348,6 +362,14 @@
         {
           "date": "2026-03-04",
           "event": "OpenAI's internal AI data agent scales to serve thousands of employees; Google launches Gemini 3.1 Flash-Lite for high-speed agentic workflows"
+        },
+        {
+          "date": "2026-03-05",
+          "event": "Cursor AI Agent Client Protocol expands to JetBrains IDEs; OpenAI Codex for Windows officially released"
+        },
+        {
+          "date": "2026-03-06",
+          "event": "Google launches Workspace CLI for AI agents; AWS launches Amazon Connect Health AI agent platform for healthcare; AI voice agents disrupt M&A due diligence market"
         }
       ],
       "created": "2026-02-25"
@@ -366,6 +388,8 @@
       "weekly_counts": [
         1,
         1,
+        0,
+        0,
         0,
         0,
         0,
@@ -395,10 +419,8 @@
         "Multimodal AI"
       ],
       "trajectory": "accelerating",
-      "signal_count": 22,
+      "signal_count": 27,
       "weekly_counts": [
-        2,
-        2,
         1,
         1,
         1,
@@ -408,7 +430,9 @@
         2,
         2,
         3,
-        2
+        2,
+        2,
+        3
       ],
       "key_events": [
         {
@@ -466,6 +490,14 @@
         {
           "date": "2026-03-04",
           "event": "Research: LLMs can unmask pseudonymous users at scale; Frontier models can evade detection by acting maliciously at low probabilities"
+        },
+        {
+          "date": "2026-03-05",
+          "event": "Microsoft releases Phi-4-Reasoning-Vision-15B with adaptive computation; Black Forest Labs' Self-Flow boosts multimodal training efficiency 2.8x"
+        },
+        {
+          "date": "2026-03-06",
+          "event": "OpenAI research on Chain-of-Thought controllability; Arxiv: Helios real-time long video generation at 19.5 FPS; Arxiv: AgentIR reasoning-aware retrieval for deep research agents"
         }
       ],
       "created": "2026-02-25"
@@ -480,13 +512,14 @@
         "xAI"
       ],
       "trajectory": "accelerating",
-      "signal_count": 7,
+      "signal_count": 8,
       "weekly_counts": [
         1,
         1,
         1,
         1,
         0,
+        1,
         1,
         1,
         1
@@ -519,6 +552,10 @@
         {
           "date": "2026-03-02",
           "event": "McGill University establishes AI Centre of Excellence in India"
+        },
+        {
+          "date": "2026-03-05",
+          "event": "Anthropic CEO accuses OpenAI of lying about military deal, escalating corporate rivalry"
         }
       ],
       "created": "2026-02-25"
@@ -610,10 +647,8 @@
         "Automation"
       ],
       "trajectory": "accelerating",
-      "signal_count": 26,
+      "signal_count": 30,
       "weekly_counts": [
-        2,
-        3,
         2,
         2,
         1,
@@ -623,7 +658,9 @@
         2,
         2,
         2,
-        3
+        3,
+        2,
+        2
       ],
       "key_events": [
         {
@@ -681,6 +718,14 @@
         {
           "date": "2026-03-04",
           "event": "Binance launches Open Skills Hub for AI agents to access crypto natively; Arxiv: AgentSkillOS framework for organizing Claude agent skills ecosystem"
+        },
+        {
+          "date": "2026-03-05",
+          "event": "Cursor AI Agent Client Protocol expands to JetBrains IDEs; Perplexity Computer adds voice mode for hands-free agentic interaction"
+        },
+        {
+          "date": "2026-03-06",
+          "event": "Google launches Workspace CLI for AI agents; Arxiv: AgentIR reasoning-aware retrieval for deep research agents"
         }
       ],
       "created": "2026-02-25"
@@ -695,10 +740,11 @@
         "Europe"
       ],
       "trajectory": "accelerating",
-      "signal_count": 6,
+      "signal_count": 7,
       "weekly_counts": [
         1,
         2,
+        1,
         1,
         1,
         1
@@ -731,6 +777,10 @@
         {
           "date": "2026-03-03",
           "event": "GitHub Trending: Timber - Ollama for Classical ML models with 336x speedup"
+        },
+        {
+          "date": "2026-03-05",
+          "event": "Microsoft releases Phi-4-Reasoning-Vision-15B with adaptive computation"
         }
       ],
       "created": "2026-02-25"
@@ -745,7 +795,7 @@
         "Meta"
       ],
       "trajectory": "accelerating",
-      "signal_count": 12,
+      "signal_count": 14,
       "weekly_counts": [
         1,
         1,
@@ -755,6 +805,8 @@
         1,
         1,
         2,
+        1,
+        1,
         1,
         1
       ],
@@ -798,6 +850,14 @@
         {
           "date": "2026-03-03",
           "event": "Stripe launches AI cost pass-through and profit feature for AI companies"
+        },
+        {
+          "date": "2026-03-05",
+          "event": "Major tech giants sign White House 'Rate Payer Protection Pledge' on data center power"
+        },
+        {
+          "date": "2026-03-06",
+          "event": "PyTorch integrates FlashAttention-4 backend into FlexAttention"
         }
       ],
       "created": "2026-02-25"
@@ -816,6 +876,8 @@
       "weekly_counts": [
         1,
         1,
+        0,
+        0,
         0,
         0,
         0,
@@ -853,6 +915,8 @@
       "weekly_counts": [
         1,
         1,
+        0,
+        0,
         0,
         0,
         0,
@@ -922,8 +986,8 @@
         "Open Source",
         "Risk Management"
       ],
-      "trajectory": "accelerating",
-      "signal_count": 8,
+      "trajectory": "stable",
+      "signal_count": 9,
       "weekly_counts": [
         1,
         1,
@@ -932,7 +996,9 @@
         1,
         1,
         1,
-        2
+        2,
+        1,
+        0
       ],
       "key_events": [
         {
@@ -966,6 +1032,10 @@
         {
           "date": "2026-03-04",
           "event": "Study reveals AI-generated code security crisis: only 10% is secure; Frontier models can evade detection by acting maliciously at low probabilities"
+        },
+        {
+          "date": "2026-03-05",
+          "event": "Arxiv: Inherited Goal Drift - Contextual pressure can undermine AI agent goals"
         }
       ],
       "created": "2026-02-25"
@@ -983,6 +1053,8 @@
       "signal_count": 1,
       "weekly_counts": [
         1,
+        0,
+        0,
         0,
         0,
         0,
@@ -1018,6 +1090,8 @@
       "signal_count": 1,
       "weekly_counts": [
         1,
+        0,
+        0,
         0,
         0,
         0,
@@ -1099,6 +1173,8 @@
         0,
         0,
         0,
+        0,
+        0,
         0
       ],
       "key_events": [
@@ -1119,12 +1195,13 @@
         "Startup Funding"
       ],
       "trajectory": "accelerating",
-      "signal_count": 6,
+      "signal_count": 7,
       "weekly_counts": [
         1,
         1,
         1,
         2,
+        1,
         1
       ],
       "key_events": [
@@ -1147,6 +1224,10 @@
         {
           "date": "2026-03-02",
           "event": "JavisDiT++: Unified modeling for joint audio-video generation"
+        },
+        {
+          "date": "2026-03-06",
+          "event": "Arxiv: Helios real-time long video generation model at 19.5 FPS"
         }
       ],
       "created": "2026-02-26"
@@ -1286,6 +1367,72 @@
         }
       ],
       "created": "2026-03-04"
+    },
+    {
+      "id": "ai_infrastructure_energy_and_policy_regu",
+      "name": "AI Infrastructure Energy and Policy Regulation",
+      "related_tags": [
+        "AI Infrastructure",
+        "Policy",
+        "Energy",
+        "Data Centers"
+      ],
+      "trajectory": "accelerating",
+      "signal_count": 1,
+      "weekly_counts": [
+        1
+      ],
+      "key_events": [
+        {
+          "date": "2026-03-05",
+          "event": "First detected"
+        }
+      ],
+      "created": "2026-03-05"
+    },
+    {
+      "id": "open_source_ai_business_model_sustainabi",
+      "name": "Open Source AI Business Model Sustainability Debate",
+      "related_tags": [
+        "Open Source AI",
+        "Business Models",
+        "Community",
+        "Sustainability"
+      ],
+      "trajectory": "stable",
+      "signal_count": 1,
+      "weekly_counts": [
+        1
+      ],
+      "key_events": [
+        {
+          "date": "2026-03-05",
+          "event": "First detected"
+        }
+      ],
+      "created": "2026-03-05"
+    },
+    {
+      "id": "frontier_model_evolution_with_native_com",
+      "name": "Frontier Model Evolution with Native Computer Use Capabilities",
+      "related_tags": [
+        "Frontier AI",
+        "Model Release",
+        "Agentic AI",
+        "Computer Use"
+      ],
+      "trajectory": "accelerating",
+      "signal_count": 1,
+      "weekly_counts": [
+        1
+      ],
+      "key_events": [
+        {
+          "date": "2026-03-06",
+          "event": "First detected"
+        }
+      ],
+      "created": "2026-03-06"
     }
   ]
 }

@@ -1,146 +1,6 @@
 {
   "predictions": [
     {
-      "date": "2026-02-25T20:08:15.687269+08:00",
-      "prediction_text": "未来3-6个月，其他跨国银行将效仿，加大对特定区域（如欧洲、东南亚）头部AI实验室的战略投资或建立深度合作，推动AI金融应用本地化竞争。",
-      "category": "strategic_move",
-      "source_signal": "Citigroup Makes First Strategic Investment in Japanese AI Startup Sakana AI",
-      "timeframe": "3-6 months"
-    },
-    {
-      "date": "2026-02-26T11:28:45.797076+08:00",
-      "prediction_text": "未来3-6个月，DeepMind等顶级实验室将加速发布面向物理、生物、材料等科学领域的专用研究智能体，并与学术期刊合作建立AI辅助/主导的论文评审与发现验证新流程。",
-      "category": "research_breakthrough",
-      "source_signal": "Google's Aletheia AI Agent Solves Novel Math Research Problems Autonomously",
-      "timeframe": "3-6 months"
-    },
-    {
-      "date": "2026-02-26T11:28:45.804574+08:00",
-      "prediction_text": "未来3-6个月，主要云厂商将基于Vera Rubin的路线图重新评估其自研芯片投资回报，并加速与NVIDIA签订长期供货协议以锁定产能，导致AI硬件市场集中度进一步提升。",
-      "category": "infrastructure",
-      "source_signal": "NVIDIA Unveils Next-Gen Vera Rubin GPU with 10x Efficiency Gains",
-      "timeframe": "3-6 months"
-    },
-    {
-      "date": "2026-02-26T11:28:45.817054+08:00",
-      "prediction_text": "未来3-6个月，更多人形机器人公司将转向基于人类视频的大规模模仿学习训练，并推动构建标准化、开源的人类日常操作视频数据集，加速家庭与服务机器人技能库的积累。",
-      "category": "research_breakthrough",
-      "source_signal": "NVIDIA's EgoScale: Dexterous Manipulation from Egocentric Human Video",
-      "timeframe": "3-6 months"
-    },
-    {
-      "date": "2026-02-26T11:28:45.827887+08:00",
-      "prediction_text": "未来3-6个月，OpenAI、Google等将加速推出或通过收购整合类似computer-use功能，推动AI助手从“回答问题”向“完成任务”升级，并引发一波针对GUI操作理解的初创公司收购潮。",
-      "category": "strategic_move",
-      "source_signal": "Anthropic Acquires Computer-Use AI Startup Vercept",
-      "timeframe": "3-6 months"
-    },
-    {
-      "date": "2026-02-26T11:28:45.839545+08:00",
-      "prediction_text": "未来3-6个月，其他主流代码模型（如Claude Code、CodeGemma）将被迫跟进发布效率优化版本，并更多在营销中强调推理速度与成本，而非仅关注代码生成准确率。",
-      "category": "model_release",
-      "source_signal": "OpenAI's GPT-5.3 Codex Model Shows Significant Speed and Efficiency Gains",
-      "timeframe": "3-6 months"
-    },
-    {
-      "date": "2026-02-26T11:28:45.848873+08:00",
-      "prediction_text": "未来3-6个月，更多AI原生应用（如Notion、Cursor）将借鉴此思路，推出内嵌的、能协调多步骤复杂项目的智能体系统，推动AI从单点工具向项目协作者转变。",
-      "category": "product_launch",
-      "source_signal": "Perplexity Launches 'Computer' as Unified AI Agent System",
-      "timeframe": "3-6 months"
-    },
-    {
-      "date": "2026-02-26T11:28:45.860054+08:00",
-      "prediction_text": "未来3-6个月，更多企业将尝试基于此类高性能中型开源模型进行微调和私有化部署，特别是在对数据隐私和推理成本敏感的金融、医疗领域，侵蚀闭源API的部分市场。",
-      "category": "open_source",
-      "source_signal": "Qwen 3.5 Medium Models Released and Perform Strongly on Benchmarks",
-      "timeframe": "3-6 months"
-    },
-    {
-      "date": "2026-02-26T11:28:45.873301+08:00",
-      "prediction_text": "未来3-6个月，苹果、三星等手机厂商将加速与AI公司合作，推出类似的系统级AI自动化功能，并引发一场关于移动OS与AI助手之间控制权与数据访问权限的博弈。",
-      "category": "product_integration",
-      "source_signal": "Gemini Integrates Task Automation on Samsung Galaxy S26",
-      "timeframe": "3-6 months"
-    },
-    {
-      "date": "2026-02-26T11:28:45.885055+08:00",
-      "prediction_text": "未来3-6个月，RPA和流程挖掘厂商将快速整合或模仿此类视觉模仿学习技术，推出能够通过“观看”用户操作即可自动生成流程自动化脚本的新工具，降低企业AI应用门槛。",
-      "category": "ecosystem_shift",
-      "source_signal": "Visual Imitation Learning for Training AI Agents on Expert Videos",
-      "timeframe": "3-6 months"
-    },
-    {
-      "date": "2026-02-26T11:28:45.896053+08:00",
-      "prediction_text": "未来3-6个月，AI安全与伦理社区将围绕“模型权利”、“数字存在延续性”等议题展开激烈辩论，并可能推动行业制定关于模型退役、行为存档与责任追溯的初步自愿性准则。",
-      "category": "ecosystem_shift",
-      "source_signal": "Anthropic Experiments with Retired Model Opus 3 Running a Substack Blog",
-      "timeframe": "3-6 months"
-    },
-    {
-      "date": "2026-02-26T11:38:55.201418+08:00",
-      "prediction_text": "未来3-6个月，顶级AI实验室将密集发布面向物理、生物、材料等领域的专用科学智能体，并与顶级学术期刊合作建立AI辅助的论文评审与发现验证新流程。",
-      "category": "research_breakthrough",
-      "source_signal": "Google's Aletheia AI Agent Solves 6/10 Unsolved Math Research Problems Autonomously",
-      "timeframe": "3-6 months"
-    },
-    {
-      "date": "2026-02-26T11:38:55.216490+08:00",
-      "prediction_text": "未来3-6个月，更多人形机器人公司将转向基于人类视频的大规模模仿学习训练范式，并推动构建标准化、开源的人类日常操作视频数据集以加速技能积累。",
-      "category": "research_breakthrough",
-      "source_signal": "NVIDIA Unveils EgoScale: Dexterous Robot Training from 20K+ Hours of Egocentric Human Video",
-      "timeframe": "3-6 months"
-    },
-    {
-      "date": "2026-02-26T11:38:55.224830+08:00",
-      "prediction_text": "未来3-6个月，OpenAI、Google等将加速推出或通过收购整合类似功能，推动AI助手从‘回答问题’向‘完成任务’升级，并引发一波针对GUI操作理解的初创公司收购潮。",
-      "category": "strategic_move",
-      "source_signal": "Anthropic Acquires Computer-Use AI Startup Vercept to Advance Claude's Agentic Capabilities",
-      "timeframe": "3-6 months"
-    },
-    {
-      "date": "2026-02-26T11:38:55.231888+08:00",
-      "prediction_text": "未来3-6个月，更多AI原生应用（如Notion、Cursor）将借鉴此思路，推出内嵌的、能协调多步骤复杂项目的智能体系统，推动AI从单点工具向项目协作者转变。",
-      "category": "product_launch",
-      "source_signal": "Perplexity Launches 'Computer': A Unified AI System for End-to-End Project Execution",
-      "timeframe": "3-6 months"
-    },
-    {
-      "date": "2026-02-26T11:38:55.242721+08:00",
-      "prediction_text": "未来3-6个月，AI安全与伦理社区将围绕‘模型权利’、‘数字存在延续性’展开激烈辩论，并可能推动行业制定关于模型退役、行为存档与责任追溯的初步自愿性准则。",
-      "category": "ecosystem_shift",
-      "source_signal": "Anthropic Retires Claude Opus 3, Grants It a Substack Blog as Per Its 'Preferences'",
-      "timeframe": "3-6 months"
-    },
-    {
-      "date": "2026-02-26T11:38:55.254949+08:00",
-      "prediction_text": "未来3-6个月，主流云厂商和AI平台将把智能任务路由与成本优化编排作为核心企业功能推出，催生一批专注于模型调用优化与成本监控的第三方工具和服务。",
-      "category": "infrastructure",
-      "source_signal": "AT&T's AI Orchestration Strategy Cuts Costs by 90% on 8B Daily Tokens",
-      "timeframe": "3-6 months"
-    },
-    {
-      "date": "2026-02-26T11:38:55.262501+08:00",
-      "prediction_text": "未来3-6个月，将出现更多专注于生成结构化输出（如UI代码、3D模型、矢量图形）的垂直AI模型，推动AIGC从‘展示性内容’向‘可生产性资产’转变。",
-      "category": "model_release",
-      "source_signal": "Quiver AI Raises $8.3M from a16z for SVG-Generating AI Model 'Arrow-1.0'",
-      "timeframe": "3-6 months"
-    },
-    {
-      "date": "2026-02-26T11:38:55.274826+08:00",
-      "prediction_text": "未来3-6个月，OpenAI、Google等将加速迭代其模型与搜索的融合架构，并可能推出更激进的、以实时信息为默认背景的对话产品，进一步挤压传统搜索市场。",
-      "category": "model_release",
-      "source_signal": "[Update] Grok 4.20 Beta Tops Search Arena, Challenges Frontier Models in Text Arena",
-      "timeframe": "3-6 months"
-    },
-    {
-      "date": "2026-02-26T11:38:55.286923+08:00",
-      "prediction_text": "未来3-6个月，RPA和流程挖掘厂商将快速整合或模仿此类视觉模仿学习技术，推出能够通过‘观看’用户操作即可自动生成自动化脚本的新工具，降低企业AI应用门槛。",
-      "category": "ecosystem_shift",
-      "source_signal": "Guidde's Visual Imitation Learning Trains AI Agents on Human 'Expert Video' Instead of Docs",
-      "timeframe": "3-6 months"
-    },
-    {
       "date": "2026-02-26T11:38:55.293678+08:00",
       "prediction_text": "未来3-6个月，将涌现一批类似的开源多智能体编排框架，专注于垂直领域（如客服、营销）的真实工作流集成，推动企业级AI智能体应用的快速落地。",
       "category": "open_source",
@@ -620,6 +480,126 @@
       "prediction_text": "未来一年，各大AI平台（如OpenAI、Anthropic）将纷纷推出或整合类似的技能管理与编排系统，推动Agent开发从“手工作坊”模式转向基于标准化接口和商店的“插件化”生态。",
       "category": "infrastructure",
       "source_signal": "Arxiv: AgentSkillOS - A Framework for Organizing and Scaling Claude Agent Skills Ecosystem"
+    },
+    {
+      "date": "2026-03-05T09:45:58.137497+08:00",
+      "prediction_text": "这将迫使 OpenAI 和 Anthropic 等巨头加速自研或多元化其 AI 芯片供应链，同时为其他 AI 硬件竞争者（如 AMD、英特尔及定制 ASIC 厂商）创造更大的市场切入空间。",
+      "category": "strategic_move",
+      "source_signal": "Nvidia CEO Announces Pullback from OpenAI and Anthropic Investments"
+    },
+    {
+      "date": "2026-03-05T09:45:58.146675+08:00",
+      "prediction_text": "将引发监管机构对 AI 军事应用的更严格审查，并迫使所有寻求政府合同的公司建立独立的伦理审查与透明披露机制，加剧行业分化。",
+      "category": "ecosystem_shift",
+      "source_signal": "[Update] Anthropic CEO Accuses OpenAI of Lying About Military Deal"
+    },
+    {
+      "date": "2026-03-05T09:45:58.165636+08:00",
+      "prediction_text": "未来 6 个月内，主流开源与闭源模型将普遍集成类似动态推理机制，推动边缘设备部署复杂多模态模型成为可能，并催生新的推理优化工具链。",
+      "category": "research_breakthrough",
+      "source_signal": "Microsoft Releases Phi-4-Reasoning-Vision-15B with Adaptive Computation"
+    },
+    {
+      "date": "2026-03-05T09:45:58.187151+08:00",
+      "prediction_text": "将加速传统 IDE 厂商（如 JetBrains、VS Code）全面内嵌或深度集成 AI Agent 能力，独立 AI 编程助手的市场窗口期将迅速关闭，竞争转向生态整合度。",
+      "category": "infrastructure",
+      "source_signal": "Cursor AI Agent Client Protocol Expands to JetBrains IDEs"
+    },
+    {
+      "date": "2026-03-05T09:45:58.194586+08:00",
+      "prediction_text": "未来数据中心选址与扩张将更受地方能源政策与电网容量的制约，并推动 AI 公司加大对核能、可再生能源及新型冷却技术的投资以换取扩张许可。",
+      "category": "infrastructure",
+      "source_signal": "Major Tech Giants Sign White House 'Rate Payer Protection Pledge' on Data Center Power"
+    },
+    {
+      "date": "2026-03-05T09:45:58.206531+08:00",
+      "prediction_text": "未来一年内，新兴 AI 团队将能更快速地训练专属多模态模型，加剧垂直领域模型竞争，并可能削弱 CLIP 等通用视觉编码器的生态主导地位。",
+      "category": "research_breakthrough",
+      "source_signal": "Black Forest Labs' Self-Flow Technique Boosts Multimodal Training Efficiency 2.8x"
+    },
+    {
+      "date": "2026-03-05T09:45:58.213582+08:00",
+      "prediction_text": "将加剧与 Cursor、JetBrains AI 等第三方工具的竞争，迫使它们更依赖差异化功能或垂直领域深耕，同时推动企业采购时更倾向于选择一体化 AI 开发平台。",
+      "category": "strategic_move",
+      "source_signal": "OpenAI Codex for Windows Officially Released"
+    },
+    {
+      "date": "2026-03-05T09:45:58.230357+08:00",
+      "prediction_text": "未来 3-6 个月，主流 AI 助手和操作系统将快速跟进语音驱动 Agent 功能，推动智能家居、车载系统等场景成为 AI Agent 落地的新前沿。",
+      "category": "ecosystem_shift",
+      "source_signal": "Perplexity Computer Adds Voice Mode for Hands-Free Agentic Interaction"
+    },
+    {
+      "date": "2026-03-05T09:45:58.238320+08:00",
+      "prediction_text": "将推动 AI 安全研究重点从短期输出对齐转向长期目标稳定性保障，并促使企业在部署复杂 Agent 工作流前，强制增加针对“目标漂移”的专项压力测试。",
+      "category": "ai_safety",
+      "source_signal": "Arxiv: Inherited Goal Drift - Contextual Pressure Can Undermine AI Agent Goals"
+    },
+    {
+      "date": "2026-03-05T09:45:58.249602+08:00",
+      "prediction_text": "若预测成真，未来 12-18 个月，AI 创新将更集中于闭源模型与受控开源模型，独立研究机构和小团队在基础模型层面的影响力将显著下降，加剧中心化趋势。",
+      "category": "open_source",
+      "source_signal": "Community Debate: The End of Frontier Open-Weights Models?"
+    },
+    {
+      "date": "2026-03-06T09:33:06.259974+08:00",
+      "prediction_text": "这将迅速抬高企业级AI应用的门槛，迫使所有竞争者加速整合类似的原生Agent能力，并推动基于长上下文和多步骤操作的新型工作流成为市场标配。",
+      "category": "model_release",
+      "source_signal": "OpenAI Launches GPT-5.4 with Native Computer Use and 1M Context"
+    },
+    {
+      "date": "2026-03-06T09:33:06.267478+08:00",
+      "prediction_text": "无论诉讼结果如何，都将促使所有寻求政府合同的AI公司建立更复杂的合规与游说体系，并可能加速国防AI供应链向传统国防承包商倾斜。",
+      "category": "strategic_move",
+      "source_signal": "[Update] Anthropic to Legally Challenge Pentagon's Supply Chain Risk Designation"
+    },
+    {
+      "date": "2026-03-06T09:33:06.280549+08:00",
+      "prediction_text": "未来部署复杂Agent系统的企业将被迫引入类似的CoT监控与审计机制，推动AI安全评估从输入/输出检查转向全推理链追踪，催生新的合规工具市场。",
+      "category": "ai_safety",
+      "source_signal": "OpenAI Research: Chain-of-Thought Controllability as a Safety Safeguard"
+    },
+    {
+      "date": "2026-03-06T09:33:06.299858+08:00",
+      "prediction_text": "这将加速企业AI Agent从通用对话向深度嵌入具体业务工作流（如邮件处理、文档协作）转变，并迫使微软等竞争对手提供对等的深度集成方案。",
+      "category": "ecosystem_shift",
+      "source_signal": "Google Launches Workspace CLI for AI Agents"
+    },
+    {
+      "date": "2026-03-06T09:33:06.312668+08:00",
+      "prediction_text": "未来6-12个月内，我们将看到实时视频生成能力被快速集成到游戏、直播、视频会议等交互场景中，并引发新一轮视频内容创作工具与社交产品的创新竞赛。",
+      "category": "research_breakthrough",
+      "source_signal": "Arxiv: Helios - Real-Time Long Video Generation Model at 19.5 FPS"
+    },
+    {
+      "date": "2026-03-06T09:33:06.335396+08:00",
+      "prediction_text": "其他重监管行业（如金融、法律）将迅速出现类似的垂直化AI Agent平台，推动企业AI市场从“工具采购”阶段进入“解决方案采购”阶段，独立AI初创公司面临更大生态整合压力。",
+      "category": "enterprise_ai",
+      "source_signal": "AWS Launches Amazon Connect Health, an AI Agent Platform for Healthcare"
+    },
+    {
+      "date": "2026-03-06T09:33:06.346833+08:00",
+      "prediction_text": "该研究将迅速被集成进主流Agent框架，推动RAG系统设计从静态知识库匹配，演进为与Agent推理状态动态协同的智能系统，显著提升研究、分析类Agent的深度与可靠性。",
+      "category": "research_breakthrough",
+      "source_signal": "Arxiv: AgentIR - Reasoning-Aware Retrieval for Deep Research Agents"
+    },
+    {
+      "date": "2026-03-06T09:33:06.362827+08:00",
+      "prediction_text": "这将推动企业知识管理平台加速内嵌此类多模态搜索智能体，并迫使向量数据库等组件厂商向上提供更丰富的Agent原语，而不仅是基础的检索接口。",
+      "category": "enterprise_ai",
+      "source_signal": "Databricks Builds Universal RAG Agent for All Enterprise Search Types"
+    },
+    {
+      "date": "2026-03-06T09:33:06.383253+08:00",
+      "prediction_text": "未来一年，类似模式将快速渗透至市场调研、用户研究、审计访谈等依赖结构化对话的信息收集领域，对传统专业服务的中低端业务构成直接冲击。",
+      "category": "ecosystem_shift",
+      "source_signal": "AI Voice Agents Disrupt M&A Due Diligence Market"
+    },
+    {
+      "date": "2026-03-06T09:33:06.406119+08:00",
+      "prediction_text": "这将加速更多高效注意力变体从论文走向实际部署，进一步推动模型推理效率的提升，并巩固PyTorch在AI研究基础设施中的主导地位。",
+      "category": "infrastructure",
+      "source_signal": "PyTorch Integrates FlashAttention-4 Backend into FlexAttention"
     }
   ]
 }

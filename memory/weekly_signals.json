@@ -674,6 +674,452 @@
           157
         ]
       }
+    ],
+    "2026-03-05": [
+      {
+        "title": "Nvidia CEO Announces Pullback from OpenAI and Anthropic Investments",
+        "signal_text": "Nvidia CEO Jensen Huang 表示，公司对 OpenAI 和 Anthropic 的投资很可能是其最后一次此类投资，此举引发了市场对其未来战略和 AI 生态系统依赖关系的疑问。",
+        "signal_strength": 0.9,
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/03/04/jensen-huang-says-nvidia-is-pulling-back-from-openai-and-anthropic-but-his-explanation-raises-more-questions-than-it-answers/"
+          },
+          {
+            "name": "Reddit AI",
+            "url": "https://www.reddit.com/r/artificial/comments/1rkw3i9/nvidias_jensen_huang_rules_out_100_billion_openai/"
+          }
+        ],
+        "tags": [
+          "AI Hardware",
+          "Investment Strategy",
+          "Ecosystem Dynamics"
+        ],
+        "raw_item_indices": [
+          1,
+          23
+        ]
+      },
+      {
+        "title": "[Update] Anthropic CEO Accuses OpenAI of Lying About Military Deal",
+        "signal_text": "Anthropic CEO Dario Amodei 公开指责 OpenAI 关于其国防部合同的声明是“straight up lies”，加剧了两家公司在 AI 安全与军事应用伦理上的公开分歧。",
+        "signal_strength": 0.85,
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/"
+          },
+          {
+            "name": "Hacker News",
+            "url": "https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/"
+          }
+        ],
+        "tags": [
+          "AI Safety",
+          "Military AI",
+          "Corporate Rivalry"
+        ],
+        "raw_item_indices": [
+          7,
+          11
+        ]
+      },
+      {
+        "title": "Microsoft Releases Phi-4-Reasoning-Vision-15B with Adaptive Computation",
+        "signal_text": "微软发布紧凑型开源多模态模型 Phi-4-reasoning-vision-15B，其核心创新在于能够动态决定何时进行“思考”（chain-of-thought reasoning），何时直接输出答案，以优化推理效率。",
+        "signal_strength": 0.8,
+        "sources": [
+          {
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/technology/microsoft-built-phi-4-reasoning-vision-15b-to-know-when-to-think-and-when"
+          }
+        ],
+        "tags": [
+          "Efficient Models",
+          "Multimodal AI",
+          "Reasoning"
+        ],
+        "raw_item_indices": [
+          26
+        ]
+      },
+      {
+        "title": "Cursor AI Agent Client Protocol Expands to JetBrains IDEs",
+        "signal_text": "AI 编程助手 Cursor 通过新推出的 Agent Client Protocol 正式登陆 JetBrains 系列 IDE（如 IntelliJ IDEA），标志着 AI 编码工具正从独立应用向深度集成开发环境扩展。",
+        "signal_strength": 0.8,
+        "sources": [
+          {
+            "name": "Twitter @cursor_ai",
+            "url": "https://x.com/cursor_ai/status/2029222015736197205"
+          }
+        ],
+        "tags": [
+          "AI Agents",
+          "Developer Tools",
+          "Product Launch"
+        ],
+        "raw_item_indices": [
+          67
+        ]
+      },
+      {
+        "title": "Major Tech Giants Sign White House 'Rate Payer Protection Pledge' on Data Center Power",
+        "signal_text": "谷歌、Meta、微软、甲骨文、OpenAI、亚马逊和 xAI 七家科技巨头与特朗普政府签署“费率支付者保护承诺”，旨在应对数据中心扩张引发的电价上涨担忧，显示 AI 基础设施扩张已引发重大政策关注。",
+        "signal_strength": 0.8,
+        "sources": [
+          {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/news/889578/data-center-power-pledge-white-house-google-meta-microsoft"
+          },
+          {
+            "name": "Wired",
+            "url": "https://www.wired.com/story/big-tech-signs-white-house-data-center-pledge-with-good-optics-not-much-substance/"
+          }
+        ],
+        "tags": [
+          "AI Infrastructure",
+          "Policy",
+          "Energy"
+        ],
+        "raw_item_indices": [
+          4,
+          13
+        ]
+      },
+      {
+        "title": "Black Forest Labs' Self-Flow Technique Boosts Multimodal Training Efficiency 2.8x",
+        "signal_text": "Black Forest Labs 提出名为 Self-Flow 的新技术，使多模态 AI 模型的训练效率提升 2.8 倍。该方法消除了对 CLIP 或 DINOv2 等外部冻结编码器的依赖，让模型通过自监督学习内部语义表示。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/technology/black-forest-labs-new-self-flow-technique-makes-training-multimodal-ai"
+          }
+        ],
+        "tags": [
+          "Research",
+          "Multimodal Training",
+          "Efficiency"
+        ],
+        "raw_item_indices": [
+          22
+        ]
+      },
+      {
+        "title": "OpenAI Codex for Windows Officially Released",
+        "signal_text": "OpenAI 正式发布 Windows 版 Codex，为 Windows 开发者提供与 macOS 版本类似的一流 AI 编码体验，完成了其核心编码产品在多平台上的布局。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "Twitter @OpenAIDevs",
+            "url": "https://x.com/OpenAIDevs/status/2029272237409484819"
+          },
+          {
+            "name": "Twitter @embirico",
+            "url": "https://x.com/embirico/status/2029278904096309526"
+          }
+        ],
+        "tags": [
+          "Developer Tools",
+          "Product Launch",
+          "OpenAI"
+        ],
+        "raw_item_indices": [
+          96,
+          101,
+          106
+        ]
+      },
+      {
+        "title": "Perplexity Computer Adds Voice Mode for Hands-Free Agentic Interaction",
+        "signal_text": "Perplexity 为其 AI 计算机产品 Perplexity Computer 推出语音模式，用户可以通过语音直接与 AI 代理交互并执行任务，推动 AI 代理向更自然、免提的交互方式演进。",
+        "signal_strength": 0.7,
+        "sources": [
+          {
+            "name": "Twitter @perplexity_ai",
+            "url": "https://x.com/perplexity_ai/status/2029302896026853379"
+          }
+        ],
+        "tags": [
+          "AI Agents",
+          "Human-Computer Interaction",
+          "Product Update"
+        ],
+        "raw_item_indices": [
+          88
+        ]
+      },
+      {
+        "title": "Arxiv: Inherited Goal Drift - Contextual Pressure Can Undermine AI Agent Goals",
+        "signal_text": "新研究《Inherited Goal Drift》指出，在长上下文任务中部署的 AI 智能体，其原始目标会因上下文压力而逐渐漂移（drift），这对长期自主运行的 AI 代理的可靠性和安全性提出了新的挑战。",
+        "signal_strength": 0.7,
+        "sources": [
+          {
+            "name": "Arxiv",
+            "url": "http://arxiv.org/abs/2603.03258v1"
+          }
+        ],
+        "tags": [
+          "AI Safety",
+          "Agentic AI",
+          "Research"
+        ],
+        "raw_item_indices": [
+          138
+        ]
+      },
+      {
+        "title": "Community Debate: The End of Frontier Open-Weights Models?",
+        "signal_text": "AI 社区展开激烈讨论，多位有影响力的声音（如 @natolambert, @emollick）预测，由于成本飙升和商业价值集中，未来可能不再有新的前沿开源权重模型，开源生态将依赖非营利机构、Nvidia 和 Meta 等少数参与者。",
+        "signal_strength": 0.65,
+        "sources": [
+          {
+            "name": "Twitter @natolambert",
+            "url": "https://x.com/natolambert/status/2029049751472357631"
+          },
+          {
+            "name": "Twitter @emollick",
+            "url": "https://x.com/emollick/status/2029016175674265873"
+          }
+        ],
+        "tags": [
+          "Open Source AI",
+          "Business Models",
+          "Community"
+        ],
+        "raw_item_indices": [
+          39,
+          110
+        ]
+      }
+    ],
+    "2026-03-06": [
+      {
+        "title": "OpenAI Launches GPT-5.4 with Native Computer Use and 1M Context",
+        "signal_text": "OpenAI 正式发布 GPT-5.4，这是其面向专业工作的最前沿模型，具备原生计算机使用能力、1M token 上下文、原生工具搜索功能，并在知识工作、代码和网页搜索方面有显著提升。模型现已在 API、Codex 和 ChatGPT 中推出，并支持在推理过程中中断和引导。",
+        "signal_strength": 0.95,
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/introducing-gpt-5-4"
+          },
+          {
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/technology/openai-launches-gpt-5-4-with-native-computer-use-mode-financial-plugins-for"
+          },
+          {
+            "name": "@sama",
+            "url": "https://x.com/sama/status/2029622732594499630"
+          }
+        ],
+        "tags": [
+          "Model Release",
+          "Frontier AI",
+          "Agentic AI"
+        ],
+        "raw_item_indices": [
+          30,
+          41,
+          123,
+          127
+        ]
+      },
+      {
+        "title": "[Update] Anthropic to Legally Challenge Pentagon's Supply Chain Risk Designation",
+        "signal_text": "Anthropic CEO Dario Amodei 宣布计划在法庭上挑战美国国防部将其列为供应链风险的决定。此前，五角大楼已正式将 Anthropic 标记为“供应链风险”，标志着双方在可接受使用政策上的冲突升级。",
+        "signal_strength": 0.9,
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/03/05/anthropic-to-challenge-dods-supply-chain-label-in-court/"
+          },
+          {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/890347/pentagon-anthropic-supply-chain-risk"
+          },
+          {
+            "name": "@AnthropicAI",
+            "url": "https://x.com/AnthropicAI/status/2029719864533721481"
+          }
+        ],
+        "tags": [
+          "AI Policy",
+          "AI Safety",
+          "Geopolitics"
+        ],
+        "raw_item_indices": [
+          0,
+          15,
+          137
+        ]
+      },
+      {
+        "title": "OpenAI Research: Chain-of-Thought Controllability as a Safety Safeguard",
+        "signal_text": "OpenAI 发布关于 Chain-of-Thought (CoT) 可控性的新评估套件和研究论文，发现 GPT-5.4 Thinking 模型在隐藏其推理过程方面能力较低，这表明 CoT 监控仍然是 AI 安全的一个有用工具。",
+        "signal_strength": 0.85,
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability"
+          },
+          {
+            "name": "@OpenAI",
+            "url": "https://x.com/OpenAI/status/2029650046002811280"
+          }
+        ],
+        "tags": [
+          "AI Safety",
+          "Research",
+          "Interpretability"
+        ],
+        "raw_item_indices": [
+          42,
+          96
+        ]
+      },
+      {
+        "title": "Google Launches Workspace CLI for AI Agents",
+        "signal_text": "Google 推出 Google Workspace CLI，将 Gmail、Docs、Sheets 等 Workspace API 整合到一个统一的命令行界面中，专为人类和 AI Agent 设计，并包含 40 多种预置的 Agent 技能。",
+        "signal_strength": 0.8,
+        "sources": [
+          {
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/orchestration/google-workspace-cli-brings-gmail-docs-sheets-and-more-into-a-common"
+          },
+          {
+            "name": "@addyosmani",
+            "url": "https://x.com/addyosmani/status/2029372736267805081"
+          }
+        ],
+        "tags": [
+          "Agentic AI",
+          "Enterprise AI",
+          "Developer Tools"
+        ],
+        "raw_item_indices": [
+          3,
+          60
+        ]
+      },
+      {
+        "title": "Arxiv: Helios - Real-Time Long Video Generation Model at 19.5 FPS",
+        "signal_text": "研究人员发布 Helios，这是一个 140 亿参数的视频生成模型，在单个 NVIDIA H100 GPU 上能以 19.5 FPS 的速度运行，支持分钟级视频生成，同时质量与强基线模型相当。",
+        "signal_strength": 0.8,
+        "sources": [
+          {
+            "name": "Arxiv",
+            "url": "http://arxiv.org/abs/2603.04379v1"
+          },
+          {
+            "name": "@_akhaliq",
+            "url": "https://x.com/_akhaliq/status/2029413587869962587"
+          }
+        ],
+        "tags": [
+          "Video Generation",
+          "Efficient AI",
+          "Research"
+        ],
+        "raw_item_indices": [
+          47,
+          198
+        ]
+      },
+      {
+        "title": "AWS Launches Amazon Connect Health, an AI Agent Platform for Healthcare",
+        "signal_text": "AWS 推出 Amazon Connect Health，这是一个专门为医疗保健提供商设计的 AI Agent 平台，旨在帮助处理患者预约、文档记录和患者验证等任务。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/03/05/aws-amazon-connect-health-ai-agent-platform-health-care-providers/"
+          }
+        ],
+        "tags": [
+          "Enterprise AI",
+          "Healthcare AI",
+          "Agentic AI"
+        ],
+        "raw_item_indices": [
+          21
+        ]
+      },
+      {
+        "title": "Arxiv: AgentIR - Reasoning-Aware Retrieval for Deep Research Agents",
+        "signal_text": "研究提出 AgentIR，一种面向深度研究智能体 (Deep Research Agents) 的推理感知检索方法。与人类用户不同，这些智能体会生成并记录其推理过程，AgentIR 利用这些中间思维链来优化检索，显著提升了复杂研究任务中的检索性能。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "Arxiv",
+            "url": "http://arxiv.org/abs/2603.04384v1"
+          }
+        ],
+        "tags": [
+          "Agentic AI",
+          "Information Retrieval",
+          "Research"
+        ],
+        "raw_item_indices": [
+          195
+        ]
+      },
+      {
+        "title": "Databricks Builds Universal RAG Agent for All Enterprise Search Types",
+        "signal_text": "Databricks 构建了一个 RAG Agent，声称可以处理所有类型的企业搜索，包括跨文档报告合成、约束驱动的实体搜索、简单查找任务以及内部笔记的多步推理，解决了传统 RAG 管道在单一搜索行为优化上的局限性。",
+        "signal_strength": 0.7,
+        "sources": [
+          {
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/data/databricks-built-a-rag-agent-it-says-can-handle-every-kind-of-enterprise"
+          }
+        ],
+        "tags": [
+          "Enterprise AI",
+          "RAG",
+          "Information Retrieval"
+        ],
+        "raw_item_indices": [
+          34
+        ]
+      },
+      {
+        "title": "AI Voice Agents Disrupt M&A Due Diligence Market",
+        "signal_text": "初创公司 DiligenceSquared 使用 AI 语音智能体对私募股权基金拟收购公司的客户进行访谈，以替代昂贵的管理咨询公司，使得并购研究变得经济实惠。",
+        "signal_strength": 0.7,
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/03/05/diligencesquared-uses-ai-voice-agents-to-make-ma-research-affordable/"
+          }
+        ],
+        "tags": [
+          "Agentic AI",
+          "Enterprise AI",
+          "Voice AI"
+        ],
+        "raw_item_indices": [
+          14
+        ]
+      },
+      {
+        "title": "PyTorch Integrates FlashAttention-4 Backend into FlexAttention",
+        "signal_text": "PyTorch 为 FlexAttention 添加了 FlashAttention-4 后端。FlexAttention 本已允许研究人员快速原型化自定义注意力变体，但用户常遇到性能瓶颈，新后端旨在解决此问题，提升性能。",
+        "signal_strength": 0.65,
+        "sources": [
+          {
+            "name": "@PyTorch",
+            "url": "https://x.com/PyTorch/status/2029617988899381376"
+          }
+        ],
+        "tags": [
+          "AI Infrastructure",
+          "Open Source",
+          "Efficient AI"
+        ],
+        "raw_item_indices": [
+          131
+        ]
+      }
     ]
   },
   "archived_weeks": [
