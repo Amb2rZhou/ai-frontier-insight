@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-06T17:03:36.709930",
+  "scraped_at": "2026-03-06T19:34:52.389903",
   "date": "2026-03-06",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 138,
-  "account_count": 56,
+  "tweet_count": 142,
+  "account_count": 57,
   "tweets": [
     {
       "id": "2029611427124908432",
@@ -1574,6 +1574,56 @@
       "likes": 1204,
       "retweets": 66,
       "views": 77076
+    },
+    {
+      "id": "2029881161582006624",
+      "username": "RisingSayak",
+      "text": "Yesterday's Diffusers release featured everyone's hot favorite RAEs from @boyangzheng_ et al. 🧨\n\nAll the public variants are supported. Thanks to @krasul, there is also a simple RAE training script as well 🔥\n\nI would say we have delivered more than expected 🤗 https://t.co/bissvUNg17",
+      "timestamp": "2026-03-06T11:25:56+00:00",
+      "url": "https://x.com/RisingSayak/status/2029881161582006624",
+      "images": [
+        "https://pbs.twimg.com/media/HCuWHvIaUAUCAck.jpg"
+      ],
+      "likes": 3,
+      "retweets": 0,
+      "views": 77
+    },
+    {
+      "id": "2029689565846364444",
+      "username": "emollick",
+      "text": "GPT-5.4 Pro, Opus, and Gemini DeepThink: \"Prove to me in a PowerPoint that there was no advanced dinosaur civilization by downloading whatever data you think appropriate &amp; running tests\"\n\nGPT-5.4 and Claude did some original analyses, but someone build a harness for Deep Think! https://t.co/QMzmAIfFtL",
+      "timestamp": "2026-03-05T22:44:36+00:00",
+      "url": "https://x.com/emollick/status/2029689565846364444",
+      "images": [
+        "https://pbs.twimg.com/media/HCrn0MaXkAAFgca.jpg",
+        "https://pbs.twimg.com/media/HCrn09-WEAAazBU.jpg",
+        "https://pbs.twimg.com/media/HCrn2ZqaUAE_Ai9.jpg"
+      ],
+      "likes": 716,
+      "retweets": 35,
+      "views": 101928
+    },
+    {
+      "id": "2029294509230874896",
+      "username": "xai",
+      "text": "xAI is committed to deploying artificial intelligence that makes the lives of people better as well as adding more power near our datacenters to reduce the cost of energy for the American people",
+      "timestamp": "2026-03-04T20:34:48+00:00",
+      "url": "https://x.com/xai/status/2029294509230874896",
+      "images": [],
+      "likes": 6365,
+      "retweets": 1177,
+      "views": 867701
+    },
+    {
+      "id": "2029293440346059059",
+      "username": "OpenAIDevs",
+      "text": "We heard you, now the Codex app is now live on Windows.\n\nHere are app targets you can add to your workflow:\n\nhttps://t.co/pgQvzjeubb",
+      "timestamp": "2026-03-04T20:30:33+00:00",
+      "url": "https://x.com/OpenAIDevs/status/2029293440346059059",
+      "images": [],
+      "likes": 813,
+      "retweets": 51,
+      "views": 76779
     }
   ]
 }
