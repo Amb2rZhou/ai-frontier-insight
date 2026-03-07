@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-07T09:27:18.146346",
+  "scraped_at": "2026-03-07T13:52:57.970943",
   "date": "2026-03-07",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 85,
-  "account_count": 41,
+  "tweet_count": 97,
+  "account_count": 44,
   "tweets": [
     {
       "id": "2029996083527426199",
@@ -972,6 +972,149 @@
       "likes": 106,
       "retweets": 13,
       "views": 8595
+    },
+    {
+      "id": "2030145774839816701",
+      "username": "emollick",
+      "text": "I have always wondered about the answer to this question, so answering it would be really good for engagement:\n\nA young boy who has been in a car accident is rushed to the emergency room. Upon seeing him, the surgeon says, \"I can operate on this boy!\" How is this possible? https://t.co/HZZzdIHfW2",
+      "timestamp": "2026-03-07T04:57:25+00:00",
+      "url": "https://x.com/emollick/status/2030145774839816701",
+      "images": [
+        "https://pbs.twimg.com/media/HCyGbS-WEAA7F0M.jpg"
+      ],
+      "likes": 47,
+      "retweets": 0,
+      "views": 7801
+    },
+    {
+      "id": "2030145123179450418",
+      "username": "Miles_Brundage",
+      "text": "What’s the deal w these Sarvam models @natolambert",
+      "timestamp": "2026-03-07T04:54:50+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2030145123179450418",
+      "images": [],
+      "likes": 4,
+      "retweets": 0,
+      "views": 500
+    },
+    {
+      "id": "2030134472381976804",
+      "username": "thsottiaux",
+      "text": "Codex ❤️ Open Source",
+      "timestamp": "2026-03-07T04:12:30+00:00",
+      "url": "https://x.com/thsottiaux/status/2030134472381976804",
+      "images": [],
+      "likes": 164,
+      "retweets": 8,
+      "views": 8044
+    },
+    {
+      "id": "2030131909129564337",
+      "username": "dylan522p",
+      "text": "We're in the Golden Era of AI recommending products to purchase.\nSoon we will be in the dark era of agentic commerce monetization slop.",
+      "timestamp": "2026-03-07T04:02:19+00:00",
+      "url": "https://x.com/dylan522p/status/2030131909129564337",
+      "images": [],
+      "likes": 116,
+      "retweets": 1,
+      "views": 7717
+    },
+    {
+      "id": "2030117413354885522",
+      "username": "natolambert",
+      "text": "If your rl experiments are doing this you know your rl infra is really cracked and you just gotta get the right checkpoint out of it.",
+      "timestamp": "2026-03-07T03:04:43+00:00",
+      "url": "https://x.com/natolambert/status/2030117413354885522",
+      "images": [],
+      "likes": 117,
+      "retweets": 3,
+      "views": 8843
+    },
+    {
+      "id": "2030109720418115696",
+      "username": "emollick",
+      "text": "Another unsolved (&amp; admittedly hard) AI benchmark: \"write a satisfying 10 paragraph murder mystery. the pieces you need to solve the mystery should be clear enough in the first five paragraphs that you could solve it, but obscure enough that the vast majority of people will not\" https://t.co/L4CZgVxqzz",
+      "timestamp": "2026-03-07T02:34:09+00:00",
+      "url": "https://x.com/emollick/status/2030109720418115696",
+      "images": [
+        "https://pbs.twimg.com/media/HCxjNglWQAAZ1qy.jpg",
+        "https://pbs.twimg.com/media/HCxjPDQWAAEM74N.jpg",
+        "https://pbs.twimg.com/media/HCxjQQtXAAATt_R.jpg"
+      ],
+      "likes": 92,
+      "retweets": 9,
+      "views": 8237
+    },
+    {
+      "id": "2030109703238217808",
+      "username": "DeryaTR_",
+      "text": "Ray published this in 1992. I read it the same year, still have the original copy. It completely changed my perspective on how the world was going to be &amp; that’s when I got very interested in AI and robotics. I’ve never lost the conviction and have been waiting for today since☺️ https://t.co/ASq3UUIZH4",
+      "timestamp": "2026-03-07T02:34:05+00:00",
+      "url": "https://x.com/DeryaTR_/status/2030109703238217808",
+      "images": [
+        "https://pbs.twimg.com/media/HCxmA-VWIAA-4EE.jpg"
+      ],
+      "likes": 31,
+      "retweets": 7,
+      "views": 4077
+    },
+    {
+      "id": "2030099814101266831",
+      "username": "DeryaTR_",
+      "text": "This is a super cool feat by GPT-5.4 Pro! It’s actually unbelievable!",
+      "timestamp": "2026-03-07T01:54:47+00:00",
+      "url": "https://x.com/DeryaTR_/status/2030099814101266831",
+      "images": [],
+      "likes": 53,
+      "retweets": 2,
+      "views": 5546
+    },
+    {
+      "id": "2030095482597618039",
+      "username": "fchollet",
+      "text": "It takes zero energy to stay certain of your current thesis. Meanwhile curiosity takes a lot of energy and discomfort. It requires constantly disassembling and rebuilding your world model.\n\nThat's what makes certainty so dangerous: it's the bottom of the potential well and it's",
+      "timestamp": "2026-03-07T01:37:35+00:00",
+      "url": "https://x.com/fchollet/status/2030095482597618039",
+      "images": [],
+      "likes": 380,
+      "retweets": 51,
+      "views": 15311
+    },
+    {
+      "id": "2030095380772442173",
+      "username": "NVIDIARobotics",
+      "text": "🦞 Want an always‑on personal assistant on your NVIDIA Jetson?\n\nFollow our step‑by‑step OpenClaw tutorial to run it fully local on your Jetson with zero cloud APIs. 👉 https://t.co/LBYmT2eE8J https://t.co/oFQTa6Vocg",
+      "timestamp": "2026-03-07T01:37:10+00:00",
+      "url": "https://x.com/NVIDIARobotics/status/2030095380772442173",
+      "images": [],
+      "likes": 49,
+      "retweets": 6,
+      "views": 2651
+    },
+    {
+      "id": "2030095262706979090",
+      "username": "gdb",
+      "text": "gpt-5.4 is very strong at productivity tasks with excel and word:",
+      "timestamp": "2026-03-07T01:36:42+00:00",
+      "url": "https://x.com/gdb/status/2030095262706979090",
+      "images": [],
+      "likes": 480,
+      "retweets": 26,
+      "views": 44121
+    },
+    {
+      "id": "2030093421738951141",
+      "username": "AmandaAskell",
+      "text": "I asked Claude to write my constitution. I thought its Amanda constitution was very touching. https://t.co/qGiO4h6Bel",
+      "timestamp": "2026-03-07T01:29:23+00:00",
+      "url": "https://x.com/AmandaAskell/status/2030093421738951141",
+      "images": [
+        "https://pbs.twimg.com/media/HCxWbe0bkAAas6o.png",
+        "https://pbs.twimg.com/media/HCxWg26aUAIfBr7.png"
+      ],
+      "likes": 1218,
+      "retweets": 71,
+      "views": 48041
     }
   ]
 }
