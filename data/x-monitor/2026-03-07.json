@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-07T05:40:23.236236",
+  "scraped_at": "2026-03-07T08:16:12.371915",
   "date": "2026-03-07",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 62,
-  "account_count": 34,
+  "tweet_count": 78,
+  "account_count": 40,
   "tweets": [
     {
       "id": "2029996083527426199",
@@ -713,6 +713,186 @@
       "likes": 55,
       "retweets": 2,
       "views": 6208
+    },
+    {
+      "id": "2030063199052255504",
+      "username": "mitchellh",
+      "text": "Ghostty 1.3 is going to have a preview of AppleScript support. All windows, tabs, splits, terminals are exposed via AppleScript. For macOS users, this satisfies some of the most common requests: broadcast commands, automatic layouts, jump to working directory, etc. PR here: https://t.co/C54tzgZqyA",
+      "timestamp": "2026-03-06T23:29:18+00:00",
+      "url": "https://x.com/mitchellh/status/2030063199052255504",
+      "images": [],
+      "likes": 267,
+      "retweets": 14,
+      "views": 9763
+    },
+    {
+      "id": "2030058546419675526",
+      "username": "DeryaTR_",
+      "text": "I shared this paragraph from GPT-5.4 Pro, which was included in a 30-page scientific report for a massive data analysis, with a top scientist friend. He was like, “Oh wow! I’m going to paste this on my wall!” Totally agree. I’m pasting it on my wall as well!\n\n“None of these ideas",
+      "timestamp": "2026-03-06T23:10:48+00:00",
+      "url": "https://x.com/DeryaTR_/status/2030058546419675526",
+      "images": [],
+      "likes": 20,
+      "retweets": 1,
+      "views": 1834
+    },
+    {
+      "id": "2030054307266187716",
+      "username": "JeffDean",
+      "text": "We've been working on the Waxal dataset project since 2021, aiming to enhance the amount of data available for African languages.  This public speech dataset initially covers 27 Sub-Saharan African languages spoken by over 100 million speakers across more than 26 countries. 🌍",
+      "timestamp": "2026-03-06T22:53:58+00:00",
+      "url": "https://x.com/JeffDean/status/2030054307266187716",
+      "images": [],
+      "likes": 281,
+      "retweets": 56,
+      "views": 28387
+    },
+    {
+      "id": "2030052017079550142",
+      "username": "CSProfKGD",
+      "text": "That labmate who got all their #CVPR2026 papers accepted and was not sweating a #ECCV2026 resubmission on deadline day.\n\nhttps://t.co/FAUqd1cCaj",
+      "timestamp": "2026-03-06T22:44:52+00:00",
+      "url": "https://x.com/CSProfKGD/status/2030052017079550142",
+      "images": [],
+      "likes": 24,
+      "retweets": 0,
+      "views": 1455
+    },
+    {
+      "id": "2030049511398330663",
+      "username": "levie",
+      "text": "It’s clear that AI agents will be the biggest users of software in the future, and by extension computers as well. We are going to need so much infrastructure to build out to scale agents in enterprise. And all software will have to become API-first as a result.",
+      "timestamp": "2026-03-06T22:34:54+00:00",
+      "url": "https://x.com/levie/status/2030049511398330663",
+      "images": [],
+      "likes": 156,
+      "retweets": 18,
+      "views": 37132
+    },
+    {
+      "id": "2030048309184975084",
+      "username": "minchoi",
+      "text": "The creator of OpenClaw joined OpenAI 3 weeks ago.\n\nGPT-5.4 just dropped with:\n\n&gt; Computer use\n&gt; Persistent agentic workflows\n&gt; Codex deeply integrated\n&gt; 1M context window\n&gt; Runs autonomously for hours\n\nThat's literally OpenClaw's entire architecture... inside a foundation model.",
+      "timestamp": "2026-03-06T22:30:08+00:00",
+      "url": "https://x.com/minchoi/status/2030048309184975084",
+      "images": [],
+      "likes": 206,
+      "retweets": 18,
+      "views": 32538
+    },
+    {
+      "id": "2030048163239727507",
+      "username": "soumithchintala",
+      "text": "Qwen 3.5 is🔥, and now it's available on 🚀!",
+      "timestamp": "2026-03-06T22:29:33+00:00",
+      "url": "https://x.com/soumithchintala/status/2030048163239727507",
+      "images": [],
+      "likes": 116,
+      "retweets": 7,
+      "views": 8872
+    },
+    {
+      "id": "2030048071795572842",
+      "username": "DeryaTR_",
+      "text": "This is not their once-in-a-generation opportunity, this is the only opportunity they have left, ever. Once we enter the Singularity through robotics &amp; superintelligence, there are no other opportunities. So only a few years of window remain open. After that, it’s game over!",
+      "timestamp": "2026-03-06T22:29:11+00:00",
+      "url": "https://x.com/DeryaTR_/status/2030048071795572842",
+      "images": [],
+      "likes": 43,
+      "retweets": 8,
+      "views": 4145
+    },
+    {
+      "id": "2030046292572094918",
+      "username": "AravSrinivas",
+      "text": "What did we get done this week?\n\n1. Voice Mode in Computer (Jarvis)\n2. Skills in Computer\n3. Model Council in Computer\n4. GPT-5.3-Codex coding subagent in Computer\n5. GPT-5.4 and GPT-5.4 Thinking (inside Perplexity and as orchestrator model in Computer)\n\nhttps://t.co/mrmMURIe3Y",
+      "timestamp": "2026-03-06T22:22:07+00:00",
+      "url": "https://x.com/AravSrinivas/status/2030046292572094918",
+      "images": [],
+      "likes": 70,
+      "retweets": 5,
+      "views": 4557
+    },
+    {
+      "id": "2030045442868695478",
+      "username": "omarsar0",
+      "text": "You can now schedule tasks with Claude Code desktop!\n\nThis is huge on many levels.\n\nScheduling and automating is starting to become an important way of how I work with coding agents.",
+      "timestamp": "2026-03-06T22:18:44+00:00",
+      "url": "https://x.com/omarsar0/status/2030045442868695478",
+      "images": [],
+      "likes": 21,
+      "retweets": 1,
+      "views": 2466
+    },
+    {
+      "id": "2030044625428246988",
+      "username": "lateinteraction",
+      "text": ".@LakshyAAAgrawal has done an unbelievably nice job collecting successful applications of GEPA to everything from state-of-the-art research to new products and established enterprises at this page.\n\nStaying on top of these is harder than one would think!\n\nhttps://t.co/2LTv6oFFrg",
+      "timestamp": "2026-03-06T22:15:29+00:00",
+      "url": "https://x.com/lateinteraction/status/2030044625428246988",
+      "images": [],
+      "likes": 27,
+      "retweets": 5,
+      "views": 1635
+    },
+    {
+      "id": "2030041272837181512",
+      "username": "emollick",
+      "text": "My Excel toolbar right now.\n\nThey are all different from each other in ways that are only clear when you use them a lot, and which also differ from the results if you ask Claude or ChatGPT on their websites to create an Excel sheet, or if you use Cowork or Codex. Complicated! https://t.co/iAo1cxZPXg",
+      "timestamp": "2026-03-06T22:02:10+00:00",
+      "url": "https://x.com/emollick/status/2030041272837181512",
+      "images": [
+        "https://pbs.twimg.com/media/HCwkEViWwAAzI06.png"
+      ],
+      "likes": 198,
+      "retweets": 7,
+      "views": 13282
+    },
+    {
+      "id": "2030040727833420167",
+      "username": "Azure",
+      "text": "Moving VMware workloads to Azure? This official Learn Plan walks you through migrating Windows Server and VMware resources to Azure VMware Solution, plus using Azure Arc for hybrid management. \n\nStart the plan and migrate with confidence: https://t.co/BUgMPeQjUd https://t.co/LOI60i7jHZ",
+      "timestamp": "2026-03-06T22:00:00+00:00",
+      "url": "https://x.com/Azure/status/2030040727833420167",
+      "images": [
+        "https://pbs.twimg.com/media/HCv0-uqWUAAewdw.jpg"
+      ],
+      "likes": 11,
+      "retweets": 1,
+      "views": 1961
+    },
+    {
+      "id": "2030037949287391724",
+      "username": "GoogleAI",
+      "text": "ICYMI, here’s a recap of this week’s launches:\n\n— Gemini 3.1 Flash-Lite (in preview), our most cost-efficient Gemini 3 series model yet\n\n— Cinematic Video Overviews from @NotebookLM, turning your sources into bespoke, immersive videos \n\n— 10 custom styles for NotebookLM",
+      "timestamp": "2026-03-06T21:48:58+00:00",
+      "url": "https://x.com/GoogleAI/status/2030037949287391724",
+      "images": [],
+      "likes": 102,
+      "retweets": 10,
+      "views": 9281
+    },
+    {
+      "id": "2030036089843659185",
+      "username": "a16z",
+      "text": "Alex Rampell: \"Humans are capable and willing to pay for incompetence.\"\n\n\"Imagine you're locked out of your apartment. It's midnight. You hire a locksmith.\"\n\n\"He comes one minute later. Lets you in in 30 seconds. Says it's 500 bucks.\"\n\n\"You're like 500 bucks? What the F?\"\n\n\"Now https://t.co/S2JwCAs3Tc",
+      "timestamp": "2026-03-06T21:41:34+00:00",
+      "url": "https://x.com/a16z/status/2030036089843659185",
+      "images": [],
+      "likes": 144,
+      "retweets": 8,
+      "views": 34790
+    },
+    {
+      "id": "2029999624149225783",
+      "username": "steipete",
+      "text": "First project I I was involved in shipping! 🚢\nFree token, API credits and security scanner for hard working open source maintainers.",
+      "timestamp": "2026-03-06T19:16:40+00:00",
+      "url": "https://x.com/steipete/status/2029999624149225783",
+      "images": [],
+      "likes": 2161,
+      "retweets": 117,
+      "views": 127456
     }
   ]
 }
