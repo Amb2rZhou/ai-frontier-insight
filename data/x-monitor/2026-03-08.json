@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-08T14:50:09.043746",
+  "scraped_at": "2026-03-08T23:20:44.166719",
   "date": "2026-03-08",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 95,
-  "account_count": 36,
+  "tweet_count": 102,
+  "account_count": 38,
   "tweets": [
     {
       "id": "2030335268201619805",
@@ -1082,6 +1082,83 @@
       "likes": 42,
       "retweets": 0,
       "views": 4929
+    },
+    {
+      "id": "2030630016506048896",
+      "username": "giffmana",
+      "text": "Mood: write Python, but only import ctypes.\n\nJust to feel something.",
+      "timestamp": "2026-03-08T13:01:37+00:00",
+      "url": "https://x.com/giffmana/status/2030630016506048896",
+      "images": [],
+      "likes": 10,
+      "retweets": 0,
+      "views": 1410
+    },
+    {
+      "id": "2030628960644599917",
+      "username": "giffmana",
+      "text": "Both codex-cli and claude code like to use \"X is the smoking gun\" way too much during investigations.\n\nEither OAI and Anthro use the exact same env provider company, or both use a public reasoning/agentic dataset that over-uses this phrase.\n\nAny of my follewers knows by chance?",
+      "timestamp": "2026-03-08T12:57:26+00:00",
+      "url": "https://x.com/giffmana/status/2030628960644599917",
+      "images": [],
+      "likes": 100,
+      "retweets": 1,
+      "views": 10440
+    },
+    {
+      "id": "2030622714927452309",
+      "username": "DeryaTR_",
+      "text": "My new Sunday morning routine:\n\n1. Get coffee    \n2. Check GPT-5.4 projects on the Codex App, continue &amp; start new ones  \n4. Launch ChatGPT 5.4 Pro for fresh brainstorming sessions  \n5. Think/learn how to use the 90% of AI capabilities I have yet to explore  \n6. Drink more coffee",
+      "timestamp": "2026-03-08T12:32:37+00:00",
+      "url": "https://x.com/DeryaTR_/status/2030622714927452309",
+      "images": [],
+      "likes": 169,
+      "retweets": 4,
+      "views": 6292
+    },
+    {
+      "id": "2030620267442045271",
+      "username": "giffmana",
+      "text": "I had a funny/cute back-and-forth with Claude last week at work, where I had two trainings running, and one was much slower then the other, but there was no good reason for it.\n\nSo I asked claude for help, but claude could not access either system, so I let Claude use me as a",
+      "timestamp": "2026-03-08T12:22:53+00:00",
+      "url": "https://x.com/giffmana/status/2030620267442045271",
+      "images": [],
+      "likes": 108,
+      "retweets": 2,
+      "views": 7083
+    },
+    {
+      "id": "2030620174366495219",
+      "username": "Everlyn_ai",
+      "text": "In the middle of chaos, something still stands.\n\n- generated on Everlyn in 12.5 seconds https://t.co/RuIa23dbYd",
+      "timestamp": "2026-03-08T12:22:31+00:00",
+      "url": "https://x.com/Everlyn_ai/status/2030620174366495219",
+      "images": [],
+      "likes": 9,
+      "retweets": 3,
+      "views": 584
+    },
+    {
+      "id": "2030560122338984075",
+      "username": "NielsRogge",
+      "text": "I’m pretty sure at this point that OpenAI just resets rate limits to move more people from Claude to Codex",
+      "timestamp": "2026-03-08T08:23:53+00:00",
+      "url": "https://x.com/NielsRogge/status/2030560122338984075",
+      "images": [],
+      "likes": 8,
+      "retweets": 0,
+      "views": 1554
+    },
+    {
+      "id": "2030537511030915074",
+      "username": "gdb",
+      "text": "gpt-5.4 pro for research-level physics problems:",
+      "timestamp": "2026-03-08T06:54:02+00:00",
+      "url": "https://x.com/gdb/status/2030537511030915074",
+      "images": [],
+      "likes": 569,
+      "retweets": 40,
+      "views": 48155
     }
   ]
 }
