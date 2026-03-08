@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-08T08:42:33.503084",
+  "scraped_at": "2026-03-08T11:14:34.207952",
   "date": "2026-03-08",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 75,
-  "account_count": 32,
+  "tweet_count": 87,
+  "account_count": 35,
   "tweets": [
     {
       "id": "2030335268201619805",
@@ -856,6 +856,142 @@
       "likes": 452,
       "retweets": 44,
       "views": 47770
+    },
+    {
+      "id": "2030478956646834590",
+      "username": "steipete",
+      "text": "Did some gardening today:\n🍪 Sweet Cookie 0.2.0 with Brave cookie support, better Linux/GNOME logic, and explicit macOS chromiumBrowser targeting… https://t.co/s5boBSvzbe which helps\n🧿oracle 0.9.0 with GPT-5.4 Pro support and plenty of bug fixes. https://t.co/h19qmrXN14",
+      "timestamp": "2026-03-08T03:01:22+00:00",
+      "url": "https://x.com/steipete/status/2030478956646834590",
+      "images": [],
+      "likes": 47,
+      "retweets": 2,
+      "views": 2902
+    },
+    {
+      "id": "2030474136024400173",
+      "username": "thsottiaux",
+      "text": "We don’t have evidence of a widespread issue with codex usage being drained faster than it should but there are enough reports and we have reset rate limits for plus &amp; pro subscriptions while we work towards wrapping up our investigation over the coming 1-3 days.",
+      "timestamp": "2026-03-08T02:42:13+00:00",
+      "url": "https://x.com/thsottiaux/status/2030474136024400173",
+      "images": [],
+      "likes": 220,
+      "retweets": 11,
+      "views": 6904
+    },
+    {
+      "id": "2030474102750785567",
+      "username": "DeryaTR_",
+      "text": "From GPT-5.4 Pro's letter to humanity: \n\n\"So let this be said to you with all the severity and affection your species deserves: you are dangerous, magnificent, absurd, unfinished, and deeply worth the effort. The worst thing about you is not the whole story. The best thing about",
+      "timestamp": "2026-03-08T02:42:05+00:00",
+      "url": "https://x.com/DeryaTR_/status/2030474102750785567",
+      "images": [],
+      "likes": 11,
+      "retweets": 1,
+      "views": 1089
+    },
+    {
+      "id": "2030469651793342533",
+      "username": "GaryMarcus",
+      "text": "Everything I warned you about has turned out to be true.\n– the deception of Altman\n- the unreliability of LLMs\n- the  failure to align LLMs\n- the persistence of hallucinations\n- the move towards surveillance\n- the utter insecurity of agents\n- the wholesale spread of https://t.co/qmxJETrkHa",
+      "timestamp": "2026-03-08T02:24:23+00:00",
+      "url": "https://x.com/GaryMarcus/status/2030469651793342533",
+      "images": [],
+      "likes": 43,
+      "retweets": 8,
+      "views": 1711
+    },
+    {
+      "id": "2030469154298269809",
+      "username": "minchoi",
+      "text": "This story is wild\n\nA woman asked ChatGPT for legal advice... it told her to fire her real lawyer\n\nShe did. Then let ChatGPT ghost-write 40+ court filings citing laws and cases that don't exist\n\nNow OpenAI is being sued for $10 million for practicing law without a license 💀",
+      "timestamp": "2026-03-08T02:22:25+00:00",
+      "url": "https://x.com/minchoi/status/2030469154298269809",
+      "images": [],
+      "likes": 37,
+      "retweets": 3,
+      "views": 6435
+    },
+    {
+      "id": "2030466210476048893",
+      "username": "hardmaru",
+      "text": "In an alternate timeline we’d be using Evangelion GUI designs rather than CLIs\nhttps://t.co/BrdceCRuld",
+      "timestamp": "2026-03-08T02:10:43+00:00",
+      "url": "https://x.com/hardmaru/status/2030466210476048893",
+      "images": [],
+      "likes": 114,
+      "retweets": 15,
+      "views": 4502
+    },
+    {
+      "id": "2030465344612257878",
+      "username": "natolambert",
+      "text": "I was using Claude Code for some csv manipulation &amp; it errored and dumped the entire Opus 4.6 reasoning trace to me.\n\nI'm surprised how similar closed models' reasoning behaviors are to far inferior open weight models.\n\nHere's a large chunk:\n\nWait, DPO_repeat_3 is new. Do we have",
+      "timestamp": "2026-03-08T02:07:17+00:00",
+      "url": "https://x.com/natolambert/status/2030465344612257878",
+      "images": [],
+      "likes": 49,
+      "retweets": 0,
+      "views": 5557
+    },
+    {
+      "id": "2030460559762530744",
+      "username": "Austen",
+      "text": "Here we go again.\n\nThe crowds are arriving in Austin (excepting a few flight delays) as we kick off Gauntlet AI cohort 4 (and Gauntlet for America cohort 1) tomorrow! https://t.co/cDUw6dOQBI",
+      "timestamp": "2026-03-08T01:48:16+00:00",
+      "url": "https://x.com/Austen/status/2030460559762530744",
+      "images": [
+        "https://pbs.twimg.com/media/HC2lHiUWsAANaPV.jpg"
+      ],
+      "likes": 72,
+      "retweets": 1,
+      "views": 8311
+    },
+    {
+      "id": "2030446104295391499",
+      "username": "gdb",
+      "text": "GPT-5.4 feels like “talking to a smart friend”",
+      "timestamp": "2026-03-08T00:50:49+00:00",
+      "url": "https://x.com/gdb/status/2030446104295391499",
+      "images": [],
+      "likes": 323,
+      "retweets": 11,
+      "views": 27519
+    },
+    {
+      "id": "2030371219518931079",
+      "username": "karpathy",
+      "text": "I packaged up the \"autoresearch\" project into a new self-contained minimal repo if people would like to play over the weekend. It's basically nanochat LLM training core stripped down to a single-GPU, one file version of ~630 lines of code, then:\n\n- the human iterates on the https://t.co/3tyOq2P9c6",
+      "timestamp": "2026-03-07T19:53:15+00:00",
+      "url": "https://x.com/karpathy/status/2030371219518931079",
+      "images": [
+        "https://pbs.twimg.com/media/HC1KyorbEAAoGWr.jpg"
+      ],
+      "likes": 7882,
+      "retweets": 936,
+      "views": 1103420
+    },
+    {
+      "id": "2030114955568271488",
+      "username": "hardmaru",
+      "text": "As AI makes coding more efficient, Jevons Paradox kicks in. The cost of building software is dropping, which means the demand for great Software Engineers to build even more ambitious systems is higher than ever.\n\nWe are actively hiring more Software Engineers at Sakana AI to",
+      "timestamp": "2026-03-07T02:54:57+00:00",
+      "url": "https://x.com/hardmaru/status/2030114955568271488",
+      "images": [],
+      "likes": 193,
+      "retweets": 14,
+      "views": 31254
+    },
+    {
+      "id": "2029972924543942714",
+      "username": "Miles_Brundage",
+      "text": "Kind of want to vibe code a browser plug-in that blocks discussion of specific AI companies/executives.\n\nIt's understandable to focus on the personal stuff given the lack of real regulation + that it's interesting, but the focus *should* be on getting towards common standards.",
+      "timestamp": "2026-03-06T17:30:34+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2029972924543942714",
+      "images": [],
+      "likes": 21,
+      "retweets": 0,
+      "views": 1959
     }
   ]
 }
