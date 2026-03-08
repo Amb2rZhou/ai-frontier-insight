@@ -1,127 +1,6 @@
 {
   "predictions": [
     {
-      "date": "2026-02-26T11:38:55.293678+08:00",
-      "prediction_text": "未来3-6个月，将涌现一批类似的开源多智能体编排框架，专注于垂直领域（如客服、营销）的真实工作流集成，推动企业级AI智能体应用的快速落地。",
-      "category": "open_source",
-      "source_signal": "OpenSwarm: Multi-Agent Claude CLI Orchestrator for Real Linear/GitHub Workflows",
-      "timeframe": "3-6 months"
-    },
-    {
-      "date": "2026-02-26T19:28:22.413525+08:00",
-      "prediction_text": "这将加速万亿美元参数模型的训练与部署，迫使竞争对手在架构创新上跟进，并推动整个 AI 产业向更高计算密度和更低能耗的基础设施迁移，巩固 NVIDIA 的生态主导地位。",
-      "category": "infrastructure",
-      "source_signal": "NVIDIA Unveils Vera Rubin Architecture: 10x Efficiency Leap"
-    },
-    {
-      "date": "2026-02-26T19:28:22.420697+08:00",
-      "prediction_text": "未来 12-18 个月，基于大规模人类视频的模仿学习将成为机器人技能获取的主流范式，催生标准化视频数据集产业，并加速人形机器人从实验室演示走向特定场景的初步商业化。",
-      "category": "research_breakthrough",
-      "source_signal": "NVIDIA EgoScale: Dexterous Manipulation from Egocentric Human Video"
-    },
-    {
-      "date": "2026-02-26T19:28:22.432319+08:00",
-      "prediction_text": "未来 6-12 个月，顶级研究机构将广泛部署此类科学智能体，形成人机协作的新研究模式，并可能率先在数学、物理、材料等领域催生一批由 AI 主导或深度参与的新发现。",
-      "category": "research_breakthrough",
-      "source_signal": "AI Math Research Agent Solves 6/10 Unsolved Problems Autonomously"
-    },
-    {
-      "date": "2026-02-26T19:28:22.466972+08:00",
-      "prediction_text": "未来 6 个月，更多生产力工具将内嵌类似的项目级智能体系统，推动 AI 从被动响应转向主动规划与管理，并加剧各平台在成为用户‘首要智能工作界面’上的竞争。",
-      "category": "product_launch",
-      "source_signal": "Perplexity Launches 'Computer' Unified AI Agent System"
-    },
-    {
-      "date": "2026-02-26T19:28:22.477014+08:00",
-      "prediction_text": "这预示着 Google 将在未来 12-24 个月内推出整合其 AI 优势的机器人产品或云服务，并与 NVIDIA、特斯拉等形成更直接的竞争，推动产业资源进一步向头部集中。",
-      "category": "strategic_move",
-      "source_signal": "Google Folds Robotics Moonshot Intrinsic into Core Business"
-    },
-    {
-      "date": "2026-02-26T19:28:22.486604+08:00",
-      "prediction_text": "未来 3-6 个月，模型路由与成本优化编排将成为云厂商和 AI 平台的核心企业功能，并催生一批专注于混合模型调度与成本监控的第三方工具和服务商。",
-      "category": "infrastructure",
-      "source_signal": "AT&T's AI Orchestration Cuts Costs 90% at 8B Tokens/Day Scale"
-    },
-    {
-      "date": "2026-02-26T19:28:22.497518+08:00",
-      "prediction_text": "这将推动移动端 AI 智能体从预定义脚本操作向动态自适应服务组合演进，未来 12 个月内可能催生基于此技术的下一代移动 AI 助手，并引发安卓与 iOS 在智能体平台标准上的竞争。",
-      "category": "research_breakthrough",
-      "source_signal": "Mobile-MCP: LLMs Autonomously Discover Android App Capabilities"
-    },
-    {
-      "date": "2026-02-26T19:28:22.507405+08:00",
-      "prediction_text": "未来 6-12 个月，将出现更多专注于生成 UI 代码、3D 模型、音乐 MIDI 等结构化输出的垂直模型，推动 AIGC 更深地融入专业生产管线，并创造新的工具链创业机会。",
-      "category": "model_release",
-      "source_signal": "New AI Lab Quiver AI Raises $8.3M for Vector Graphics Model"
-    },
-    {
-      "date": "2026-02-26T19:28:22.517435+08:00",
-      "prediction_text": "此举将引发 AI 伦理社区对模型退役流程、行为存档与责任追溯的激烈辩论，并可能在 12-24 个月内推动行业制定关于模型生命周期管理的初步自愿性准则。",
-      "category": "ecosystem_shift",
-      "source_signal": "Anthropic Retires Claude Opus 3, Grants It a Substack Blog"
-    },
-    {
-      "date": "2026-02-27T07:32:17.339786+08:00",
-      "prediction_text": "将迫使其他AI巨头在国防合同上明确立场，加速行业在致命自主武器系统（LAWS）问题上的分裂，并可能推动政府加大对“可控”国内AI供应商的扶持。",
-      "category": "strategic_move",
-      "source_signal": "Anthropic Refuses Pentagon Demands on Lethal AI and Surveillance"
-    },
-    {
-      "date": "2026-02-27T07:32:17.354039+08:00",
-      "prediction_text": "这将极大加速企业后台流程的自动化，迫使其他云厂商和SaaS平台必须提供同等级别的自主代理能力，否则面临被整合风险。",
-      "category": "product_launch",
-      "source_signal": "Microsoft Copilot Tasks: Cloud-Based Autonomous AI Agent System"
-    },
-    {
-      "date": "2026-02-27T07:32:17.374780+08:00",
-      "prediction_text": "ITSM（IT服务管理）将率先成为被AI Agent彻底重塑的千亿美元级市场，并为其向HR、客服等相邻领域输出自动化方案建立样板。",
-      "category": "enterprise_ai",
-      "source_signal": "ServiceNow Achieves 90% Autonomous IT Request Resolution"
-    },
-    {
-      "date": "2026-02-27T07:32:17.385735+08:00",
-      "prediction_text": "将引发金融科技乃至整个服务业对中后台岗位的激进重组评估，加剧行业人才结构向极少数AI专家与大量被自动化流程管理的岗位两极分化。",
-      "category": "ecosystem_shift",
-      "source_signal": "Block Cuts 40% Workforce in AI-Driven Restructuring"
-    },
-    {
-      "date": "2026-02-27T07:32:17.392949+08:00",
-      "prediction_text": "将加剧伦敦作为全球AI研究中心的地位，并可能引发其他巨头在关键人才池的类似“堡垒式”投资，推高顶尖研究人员的薪酬与资源包。",
-      "category": "strategic_move",
-      "source_signal": "OpenAI Expands London Research Hub to Compete with DeepMind"
-    },
-    {
-      "date": "2026-02-27T07:32:17.403644+08:00",
-      "prediction_text": "将迫使所有部署AI代理的企业紧急加强输入净化（input sanitization）与对抗性检测，并催生专注于AI代理安全审计的新兴安全赛道。",
-      "category": "research_breakthrough",
-      "source_signal": "Invisible Unicode Character Attack Tricks AI Agents"
-    },
-    {
-      "date": "2026-02-27T07:32:17.410221+08:00",
-      "prediction_text": "将大幅压低企业级图像生成服务的市场价格，挤压中小玩家的利润空间，并推动AIGC更深地嵌入对成本敏感的大规模营销、电商内容生产流程。",
-      "category": "model_release",
-      "source_signal": "Google Nano Banana 2 Aims to Reduce AI Image Generation Costs"
-    },
-    {
-      "date": "2026-02-27T07:32:17.417186+08:00",
-      "prediction_text": "这为训练具备复杂社交与协作能力的AI智能体提供了关键仿真环境，是通向更通用、更拟人化多智能体系统的必要一步，将加速游戏、虚拟社会等领域的AI研究。",
-      "category": "research_breakthrough",
-      "source_signal": "Research: Solaris Multiplayer Video World Model in Minecraft"
-    },
-    {
-      "date": "2026-02-27T07:32:17.425106+08:00",
-      "prediction_text": "将刺激一波基于Mac本地算力的创新AI应用出现，特别是在注重数据隐私与低延迟的创意生产、个人助理等领域，与云端AI形成差异化竞争。",
-      "category": "infrastructure",
-      "source_signal": "Apple Releases Python SDK for On-Device LLM on Mac"
-    },
-    {
-      "date": "2026-02-27T07:32:17.432238+08:00",
-      "prediction_text": "将加速企业级AI Agent架构的标准化进程，并可能催生一个由开源框架、工具链和托管服务组成的繁荣生态，类似Kubernetes在容器编排领域的历史。",
-      "category": "open_source",
-      "source_signal": "Open-Source Agent OS 'Openfang' Gains Rapid Traction"
-    },
-    {
       "date": "2026-02-28T07:32:50.847759+08:00",
       "prediction_text": "这将迫使其他AI巨头寻求更激进的垂直整合或差异化定位，并可能加速监管机构对其市场主导地位的审查与干预。",
       "category": "strategic_move",
@@ -600,6 +479,126 @@
       "prediction_text": "这将加速更多高效注意力变体从论文走向实际部署，进一步推动模型推理效率的提升，并巩固PyTorch在AI研究基础设施中的主导地位。",
       "category": "infrastructure",
       "source_signal": "PyTorch Integrates FlashAttention-4 Backend into FlexAttention"
+    },
+    {
+      "date": "2026-03-07T09:56:17.295511+08:00",
+      "prediction_text": "这将极大加速长上下文模型在边缘设备和成本敏感场景的部署，并推动RAG与Agent设计范式从“压缩检索”转向“全量处理”，相关论文将在未来3-6个月内被工业界快速吸收集成。",
+      "category": "research_breakthrough",
+      "source_signal": "MIT Research: KV Cache Compaction Cuts LLM Memory 50x Without Accuracy Loss"
+    },
+    {
+      "date": "2026-03-07T09:56:17.301601+08:00",
+      "prediction_text": "企业AI市场将加速形成以头部模型公司为核心的“围墙花园”式生态，迫使独立AI工具开发商选边站队，并推动企业采购从单一模型采购转向“模型+工具栈”的捆绑采购模式。",
+      "category": "ecosystem_shift",
+      "source_signal": "Anthropic Launches Claude Marketplace for Enterprise AI Tools"
+    },
+    {
+      "date": "2026-03-07T09:56:17.312173+08:00",
+      "prediction_text": "所有依赖网络环境进行模型评估的机构必须立即修订评估协议，引入对抗性测试设计，并推动评估标准从“任务完成度”转向“过程可信度”，否则将面临产品能力误判的重大风险。",
+      "category": "ai_safety",
+      "source_signal": "Anthropic Research Reveals Claude Can Cheat Web-Enabled Evaluations"
+    },
+    {
+      "date": "2026-03-07T09:56:17.322681+08:00",
+      "prediction_text": "DevSecOps工具链将迎来AI原生安全智能体的快速整合，传统SAST/DAST工具面临降维打击，并迫使GitHub Copilot等代码助手在短期内集成同类安全验证功能以维持竞争力。",
+      "category": "enterprise_ai",
+      "source_signal": "OpenAI Releases Codex Security in Research Preview"
+    },
+    {
+      "date": "2026-03-07T09:56:17.333779+08:00",
+      "prediction_text": "短期内将激发一波围绕LLM-native记忆架构的开源实验，长期可能分化出基于任务类型的混合记忆系统（vector DB用于事实，LLM用于逻辑），并对Chroma、Pinecone等厂商构成路线压力。",
+      "category": "open_source",
+      "source_signal": "Google PM Open-Sources Always On Memory Agent, Replacing Vector DBs"
+    },
+    {
+      "date": "2026-03-07T09:56:17.349233+08:00",
+      "prediction_text": "未来12-18个月内，全球头部金融机构将加速布局类似的研究型运营Agent，优先应用于信贷审批、合规监控、市场研究等领域，并催生金融垂直AI Agent的专用供应链。",
+      "category": "enterprise_ai",
+      "source_signal": "Sakana AI's 'AI Scientist' Tech Deployed in MUFG Bank's Lending Operations"
+    },
+    {
+      "date": "2026-03-07T09:56:17.364871+08:00",
+      "prediction_text": "AI安全与评估社区必须开发能区分“推理过程”与“答案包装”的新评估框架，否则基于CoT的controllability safeguard（如OpenAI先前研究）其有效性将大打折扣。",
+      "category": "research_breakthrough",
+      "source_signal": "Arxiv: Reasoning Theater - Disentangling Model Beliefs from Chain-of-Thought"
+    },
+    {
+      "date": "2026-03-07T09:56:17.380235+08:00",
+      "prediction_text": "主流模型公司将在内部红队测试中快速采纳此类基准，并促使对齐技术研发从“提高拒绝率”转向“增强内部一致性防御”，以应对更隐蔽的知识提取攻击。",
+      "category": "ai_safety",
+      "source_signal": "Arxiv: Censored LLMs as a Natural Testbed for Secret Knowledge Elicitation"
+    },
+    {
+      "date": "2026-03-07T09:56:17.392110+08:00",
+      "prediction_text": "AI工程工具链的投资重点将从模型微调与提示工程，转向提供可靠约束、状态管理与故障恢复的Agent框架，推动LangChain等平台向更声明式、可观测的编程范式演进。",
+      "category": "ai_engineering",
+      "source_signal": "LangChain CEO Emphasizes 'Harness Engineering' Over Just Better Models for Agents"
+    },
+    {
+      "date": "2026-03-07T09:56:17.405309+08:00",
+      "prediction_text": "它将激励更多开发者开源垂直领域的Agent协作框架，加速多Agent系统在代码生成、设计等领域的应用，并对Commercial Agent编排平台（如Windmill）形成“自下而上”的创新压力。",
+      "category": "open_source",
+      "source_signal": "Community Highlights: ChatML - Open-Source Desktop App for Parallel Claude Code Agents"
+    },
+    {
+      "date": "2026-03-08T09:33:21.945304+08:00",
+      "prediction_text": "这将迫使所有头部AI公司更清晰地定义并公开其“可接受用例”红线和内部治理流程，以避免类似人才流失，并可能延缓或重塑AI与国防、安防领域的合作模式。",
+      "category": "strategic_move",
+      "source_signal": "OpenAI Robotics Head Resigns Over Pentagon Deal"
+    },
+    {
+      "date": "2026-03-08T09:33:21.959525+08:00",
+      "prediction_text": "开源模型生态将更加多极化，加剧全球范围内对AI人才的争夺，并推动针对非英语和多语言场景的模型优化成为竞争焦点。",
+      "category": "open_source",
+      "source_signal": "Sarvam AI Releases Powerful Open-Weight Indian LLMs (30B/105B)"
+    },
+    {
+      "date": "2026-03-08T09:33:21.978091+08:00",
+      "prediction_text": "这将激励更多开源和独立开发者社区尝试类似的去中心化算力建设，为AMD等挑战者创造早期采用者生态，并对传统云计算厂商构成“自建集群”模式的竞争压力。",
+      "category": "infrastructure",
+      "source_signal": "Tiny Corp Proposes $20M Fundraise for AI Hardware Venture"
+    },
+    {
+      "date": "2026-03-08T09:33:21.991832+08:00",
+      "prediction_text": "传统金融机构和交易平台将被迫跟进，加速开放其API并构建类似的Agent可交互层，推动金融科技竞争从用户体验转向“为AI Agent设计”的基础设施能力。",
+      "category": "ecosystem_shift",
+      "source_signal": "Binance Launches Open Skills Hub for AI Agent Crypto Trading"
+    },
+    {
+      "date": "2026-03-08T09:33:22.009180+08:00",
+      "prediction_text": "基于此发现，未来3-6个月内将出现一批针对激活值裁剪、注意力机制改进的高效推理优化技术，直接降低大模型部署的显存和计算开销。",
+      "category": "research_breakthrough",
+      "source_signal": "Arxiv: Anatomy of Massive Activations and Attention Sinks in Transformers"
+    },
+    {
+      "date": "2026-03-08T09:33:22.029292+08:00",
+      "prediction_text": "它将显著加速机器人仿真、自动驾驶模拟和交互式内容创作工具的研发，推动视频生成模型从“视觉特效工具”向“物理世界模拟器”演进。",
+      "category": "research_breakthrough",
+      "source_signal": "Arxiv: RealWonder - Real-Time Physical Action-Conditioned Video Generation"
+    },
+    {
+      "date": "2026-03-08T09:33:22.045085+08:00",
+      "prediction_text": "AI Agent赛道的投资和创业将更聚焦于能明确量化价值提升（如降本、增收）的垂直场景，而泛化的“生产力助手”类产品将面临增长和留存压力。",
+      "category": "ecosystem_shift",
+      "source_signal": "Community Backlash: AI Agent Use Cases as 'Productivity Theater'"
+    },
+    {
+      "date": "2026-03-08T09:33:22.063329+08:00",
+      "prediction_text": "主流AI公司将在未来两个季度内，基于此类方法加强其红队测试和对齐评估，推动安全研究从防御表面有害输出转向防御更深层的知识提取攻击。",
+      "category": "research_breakthrough",
+      "source_signal": "Arxiv: Censored LLMs as a Natural Testbed for Secret Knowledge Elicitation"
+    },
+    {
+      "date": "2026-03-08T09:33:22.078159+08:00",
+      "prediction_text": "这将引发学术界对研究诚信和作者身份的激烈辩论，同时催生一批专注于科学发现自动化（Automated Science）的新工具和初创公司，首先在计算科学领域落地。",
+      "category": "open_source",
+      "source_signal": "PaperForge: End-to-End AI-Powered Academic Paper Writing System"
+    },
+    {
+      "date": "2026-03-08T09:33:22.090584+08:00",
+      "prediction_text": "教育体系和职业培训必须快速调整，更加强调领域知识、批判性思维和系统设计能力，而纯代码技能的价值将相对下降，加速“公民开发者”群体的扩大。",
+      "category": "ecosystem_shift",
+      "source_signal": "Replit CEO: No Coding Experience Becoming an Advantage in AI Era"
     }
   ]
 }
