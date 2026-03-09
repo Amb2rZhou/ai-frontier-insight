@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-09T18:27:15.700011",
+  "scraped_at": "2026-03-09T23:57:41.775837",
   "date": "2026-03-09",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 59,
-  "account_count": 29,
+  "tweet_count": 71,
+  "account_count": 34,
   "tweets": [
     {
       "id": "2030823028272349631",
@@ -680,6 +680,144 @@
       "likes": 727,
       "retweets": 32,
       "views": 75107
+    },
+    {
+      "id": "2031035111857062131",
+      "username": "_akhaliq",
+      "text": "Penguin-VL\n\nExploring the Efficiency Limits of VLM with LLM-based Vision Encoders\n\napp: https://t.co/VZ8IvEdjN3\n\npaper: https://t.co/XSM2GGVcCz https://t.co/ovxWSRJG0n",
+      "timestamp": "2026-03-09T15:51:20+00:00",
+      "url": "https://x.com/_akhaliq/status/2031035111857062131",
+      "images": [
+        "https://pbs.twimg.com/media/HC-vbHQWcAAEJgn.jpg"
+      ],
+      "likes": 4,
+      "retweets": 0,
+      "views": 472
+    },
+    {
+      "id": "2031034276053925997",
+      "username": "code",
+      "text": "C++ devs: your AI-assisted flows just got even smarter!\n\nWith the new symbol‑level context and CMake‑aware build tools, your agents now have access to rich C++ specific intelligence directly in VS Code.\n\nLearn more: https://t.co/ErgApqTzZc",
+      "timestamp": "2026-03-09T15:48:00+00:00",
+      "url": "https://x.com/code/status/2031034276053925997",
+      "images": [],
+      "likes": 8,
+      "retweets": 0,
+      "views": 1290
+    },
+    {
+      "id": "2031032618716959014",
+      "username": "thsottiaux",
+      "text": "Happy Monday, there are reports of codex hanging for some users where it is not responsive after sending a request and the team is investigating.",
+      "timestamp": "2026-03-09T15:41:25+00:00",
+      "url": "https://x.com/thsottiaux/status/2031032618716959014",
+      "images": [],
+      "likes": 158,
+      "retweets": 4,
+      "views": 2743
+    },
+    {
+      "id": "2031031537341264171",
+      "username": "_akhaliq",
+      "text": "MatAnyone 2 is out on Hugging Face\n\nScaling Video Matting via a Learned Quality Evaluator\n\npaper: https://t.co/KPMaG8teJ2\napp: https://t.co/wkMpaOdoCh https://t.co/ZSQNrOKcv4",
+      "timestamp": "2026-03-09T15:37:07+00:00",
+      "url": "https://x.com/_akhaliq/status/2031031537341264171",
+      "images": [],
+      "likes": 7,
+      "retweets": 3,
+      "views": 1288
+    },
+    {
+      "id": "2031029707462885440",
+      "username": "_akhaliq",
+      "text": "KARL\n\nKnowledge Agents via Reinforcement Learning\npaper: https://t.co/sTeBtxk5Ls",
+      "timestamp": "2026-03-09T15:29:51+00:00",
+      "url": "https://x.com/_akhaliq/status/2031029707462885440",
+      "images": [],
+      "likes": 7,
+      "retweets": 1,
+      "views": 1372
+    },
+    {
+      "id": "2031020221792977152",
+      "username": "chelseabfinn",
+      "text": "We lack simulated test-beds for studying memory in robot learning.\n\nRoboMME is provides a sim benchmark for multiple forms of memory. No single method performs well on all tasks!\n\nPaper, code, leaderboard: https://t.co/JEImhxOvbV",
+      "timestamp": "2026-03-09T14:52:10+00:00",
+      "url": "https://x.com/chelseabfinn/status/2031020221792977152",
+      "images": [],
+      "likes": 60,
+      "retweets": 8,
+      "views": 3923
+    },
+    {
+      "id": "2031018192785588461",
+      "username": "minchoi",
+      "text": "This is literally my new workflow now:\n\nReal-time search → Grok 4.20\nPlanning → Opus 4.6\nCoding (complex) → Claude Code (Opus 4.6)\nCoding (well-defined) → Codex (GPT-5.4 XHigh)\nWrite/Triage Tests → Claude Code (Sonnet 4.6)\nDebug → Opus 4.6 (1M)\n\nBookmark this.",
+      "timestamp": "2026-03-09T14:44:06+00:00",
+      "url": "https://x.com/minchoi/status/2031018192785588461",
+      "images": [],
+      "likes": 123,
+      "retweets": 6,
+      "views": 6809
+    },
+    {
+      "id": "2031012103914406082",
+      "username": "DeryaTR_",
+      "text": "In the age of AI, with some practical training &amp; AI it’s possible to become a scientist without credentials like PhD. These were highly valuable when acquiring knowledge &amp; expertise required years of training, but no longer needed due to abundant intelligence &amp; AI as your mentor.",
+      "timestamp": "2026-03-09T14:19:54+00:00",
+      "url": "https://x.com/DeryaTR_/status/2031012103914406082",
+      "images": [],
+      "likes": 63,
+      "retweets": 3,
+      "views": 3233
+    },
+    {
+      "id": "2031008078850924840",
+      "username": "UnslothAI",
+      "text": "Learn how to run Qwen3.5 locally using Claude Code.\n\nOur guide shows you how to run Qwen3.5 on your server for local agentic coding.\n\nWe then build a Qwen 3.5 agent that autonomously fine-tunes models using Unsloth.\n\nWorks on 24GB RAM or less.\n\nGuide: https://t.co/acnMzxsOu9 https://t.co/BCxLTlUbbB",
+      "timestamp": "2026-03-09T14:03:54+00:00",
+      "url": "https://x.com/UnslothAI/status/2031008078850924840",
+      "images": [
+        "https://pbs.twimg.com/media/HC-Vl_KbQAED5-L.jpg"
+      ],
+      "likes": 628,
+      "retweets": 88,
+      "views": 28287
+    },
+    {
+      "id": "2031006858971058537",
+      "username": "omarsar0",
+      "text": "New research on scaling agent memory for long-horizon tasks.\n\nOne of the biggest challenges with AI agents is memory.\n\nAs tasks get longer and more complex, agents lose track of what they've learned, what they've tried, and what worked.\n\nThis paper, from Accenture, introduces https://t.co/GPovRPuJIs",
+      "timestamp": "2026-03-09T13:59:04+00:00",
+      "url": "https://x.com/omarsar0/status/2031006858971058537",
+      "images": [
+        "https://pbs.twimg.com/media/HC-V-WqboAABwPi.png"
+      ],
+      "likes": 73,
+      "retweets": 10,
+      "views": 5315
+    },
+    {
+      "id": "2030998298203754755",
+      "username": "omarsar0",
+      "text": "Knowledge agents via RL",
+      "timestamp": "2026-03-09T13:25:03+00:00",
+      "url": "https://x.com/omarsar0/status/2030998298203754755",
+      "images": [],
+      "likes": 41,
+      "retweets": 7,
+      "views": 5416
+    },
+    {
+      "id": "2030971826042527860",
+      "username": "gneubig",
+      "text": "I've been playing with GPT-5.4 over the weekend, and it definitely feels like a better match for me than Opus 4.6. Pros:\n\nGPT-5.4: Better instruction adherence, does what you ask, not what you don't. Asks for confirmation more.\nOpus: A bit faster. Seems better at frontend design.",
+      "timestamp": "2026-03-09T11:39:51+00:00",
+      "url": "https://x.com/gneubig/status/2030971826042527860",
+      "images": [],
+      "likes": 113,
+      "retweets": 4,
+      "views": 8566
     }
   ]
 }
