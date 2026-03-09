@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-09T14:22:00.788849",
+  "scraped_at": "2026-03-09T18:27:15.700011",
   "date": "2026-03-09",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 48,
-  "account_count": 24,
+  "tweet_count": 59,
+  "account_count": 29,
   "tweets": [
     {
       "id": "2030823028272349631",
@@ -551,6 +551,135 @@
       "likes": 41,
       "retweets": 2,
       "views": 6960
+    },
+    {
+      "id": "2030940437184405641",
+      "username": "jeremyphoward",
+      "text": "it do be like that…",
+      "timestamp": "2026-03-09T09:35:07+00:00",
+      "url": "https://x.com/jeremyphoward/status/2030940437184405641",
+      "images": [],
+      "likes": 6,
+      "retweets": 1,
+      "views": 1823
+    },
+    {
+      "id": "2030930024245989774",
+      "username": "__tinygrad__",
+      "text": "this raise is for thought complex one",
+      "timestamp": "2026-03-09T08:53:45+00:00",
+      "url": "https://x.com/__tinygrad__/status/2030930024245989774",
+      "images": [],
+      "likes": 29,
+      "retweets": 0,
+      "views": 2608
+    },
+    {
+      "id": "2030924089024471045",
+      "username": "openclaw",
+      "text": "OpenClaw 2026.3.8 🦞\n\n🔒 ACP provenance — your agent finally knows who's talking to it\n💾 openclaw backup — because YOLO deploys need a safety net\n📱 Telegram dupes killed\n🛡️ 12+ security fixes\n\nWe fixed more things than we broke. Progress. https://t.co/ahq26lABw3",
+      "timestamp": "2026-03-09T08:30:10+00:00",
+      "url": "https://x.com/openclaw/status/2030924089024471045",
+      "images": [],
+      "likes": 1046,
+      "retweets": 98,
+      "views": 84056
+    },
+    {
+      "id": "2030923652078748090",
+      "username": "roydanroy",
+      "text": "My money is on the problem being solved by AI, but also, not any time soon, and so my statement is also a tautology. https://t.co/GRdjtw3PO4",
+      "timestamp": "2026-03-09T08:28:26+00:00",
+      "url": "https://x.com/roydanroy/status/2030923652078748090",
+      "images": [
+        "https://pbs.twimg.com/media/HC9KCLUXkAEFgNq.png"
+      ],
+      "likes": 20,
+      "retweets": 0,
+      "views": 1692
+    },
+    {
+      "id": "2030907791389667351",
+      "username": "steipete",
+      "text": "omg parallels has prlctl and I've been smoke-testing openclaw like a caveman so far. 🤦 https://t.co/dYPvIQYSnq",
+      "timestamp": "2026-03-09T07:25:24+00:00",
+      "url": "https://x.com/steipete/status/2030907791389667351",
+      "images": [
+        "https://pbs.twimg.com/media/HC87sXvbEAA7doZ.jpg"
+      ],
+      "likes": 142,
+      "retweets": 6,
+      "views": 19896
+    },
+    {
+      "id": "2030905221145403619",
+      "username": "jeremyphoward",
+      "text": "This is a real gold mine! 😎",
+      "timestamp": "2026-03-09T07:15:11+00:00",
+      "url": "https://x.com/jeremyphoward/status/2030905221145403619",
+      "images": [],
+      "likes": 101,
+      "retweets": 12,
+      "views": 12067
+    },
+    {
+      "id": "2030901424771457438",
+      "username": "PyTorch",
+      "text": "💡 The Applications &amp; Case Studies track at #PyTorchCon Europe, 7-8 April in Paris, showcases production deployments, lessons learned &amp; innovative use cases across industries. Learn more: https://t.co/YkKx8kYir6 \n\n🎟 Register: https://t.co/kN0M3grGlE https://t.co/nt6npAnpuG",
+      "timestamp": "2026-03-09T07:00:06+00:00",
+      "url": "https://x.com/PyTorch/status/2030901424771457438",
+      "images": [],
+      "likes": 6,
+      "retweets": 0,
+      "views": 2591
+    },
+    {
+      "id": "2030894678438985832",
+      "username": "steipete",
+      "text": "🧭 Shipped gogcli 0.12.0: Google in your terminal, now with Workspace Admin, ADC/access-token auth, Docs tab editing + Markdown/HTML export, huge Sheets upgrade, calendar aliases/subscribe, forms watches and slides templates.\n\nbrew install gogcli\nhttps://t.co/4kvDZ80Hgj",
+      "timestamp": "2026-03-09T06:33:18+00:00",
+      "url": "https://x.com/steipete/status/2030894678438985832",
+      "images": [],
+      "likes": 672,
+      "retweets": 30,
+      "views": 40427
+    },
+    {
+      "id": "2030770343778889989",
+      "username": "steipete",
+      "text": "birdclaw import verification",
+      "timestamp": "2026-03-08T22:19:14+00:00",
+      "url": "https://x.com/steipete/status/2030770343778889989",
+      "images": [],
+      "likes": 321,
+      "retweets": 11,
+      "views": 70571
+    },
+    {
+      "id": "2030464128733614343",
+      "username": "emollick",
+      "text": "I gave ChatGPT for Excel and Claude for Excel a try on a very hard Excel file: macro-economic data from 1,000 years of English history across over a hundred tabs.\n\nI think both did a good job, and I did not spot errors (though I only did spot checks). However, Claude was harder https://t.co/8tKf9HVJLH",
+      "timestamp": "2026-03-08T02:02:27+00:00",
+      "url": "https://x.com/emollick/status/2030464128733614343",
+      "images": [
+        "https://pbs.twimg.com/media/HC2nXjpWMAAzlk9.png",
+        "https://pbs.twimg.com/media/HC2nZtSbEAA2cPl.jpg",
+        "https://pbs.twimg.com/media/HC2nxHCWkAApr0U.jpg"
+      ],
+      "likes": 1242,
+      "retweets": 80,
+      "views": 136972
+    },
+    {
+      "id": "2030290489937666434",
+      "username": "sriramk",
+      "text": "openclaw +  a mac mini + a dgx spark is some of the most fun I've hard \"coding\" in many years.\n\nprops to @steipete for creating something special.",
+      "timestamp": "2026-03-07T14:32:28+00:00",
+      "url": "https://x.com/sriramk/status/2030290489937666434",
+      "images": [],
+      "likes": 727,
+      "retweets": 32,
+      "views": 75107
     }
   ]
 }
