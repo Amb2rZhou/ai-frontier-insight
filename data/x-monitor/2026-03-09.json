@@ -1,11 +1,387 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-09T05:07:06.816894",
+  "scraped_at": "2026-03-09T09:53:40.320134",
   "date": "2026-03-09",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 0,
-  "account_count": 0,
-  "tweets": []
+  "tweet_count": 33,
+  "account_count": 20,
+  "tweets": [
+    {
+      "id": "2030823028272349631",
+      "username": "natolambert",
+      "text": "People overuse the singularity as the term to describe the large acceleration in ai progress that'll come due to better agents. There are still real points of friction that the current models don't address. The singularity is catchy but misleading. Progress isn't infinite.",
+      "timestamp": "2026-03-09T01:48:35+00:00",
+      "url": "https://x.com/natolambert/status/2030823028272349631",
+      "images": [],
+      "likes": 3,
+      "retweets": 0,
+      "views": 218
+    },
+    {
+      "id": "2030822211183952006",
+      "username": "DeryaTR_",
+      "text": "When a new frontier AI model is released, I compare &amp; vibe-test it against the previous version using the same set of prompts. I can unequivocally say that the difference between GPT-5.4 &amp; the previous model is quite a bit larger than in earlier GPT-5 updates. It’s a step change!",
+      "timestamp": "2026-03-09T01:45:20+00:00",
+      "url": "https://x.com/DeryaTR_/status/2030822211183952006",
+      "images": [],
+      "likes": 14,
+      "retweets": 0,
+      "views": 370
+    },
+    {
+      "id": "2030797968308138384",
+      "username": "DeryaTR_",
+      "text": "This is so wild! Agents are recursively iterating to create better versions of the model, it’s getting smarter &amp; smarter! They can just keep on working and researching 24/7 non-stop, hunting for ever-better solutions! Turns out the Singularity is even nearer than we thought!",
+      "timestamp": "2026-03-09T00:09:00+00:00",
+      "url": "https://x.com/DeryaTR_/status/2030797968308138384",
+      "images": [],
+      "likes": 100,
+      "retweets": 11,
+      "views": 5451
+    },
+    {
+      "id": "2030795338261332264",
+      "username": "fchollet",
+      "text": "When thinking about the societal implications of technology-induced abundance, you can use the present as a reference. The present is already a state of extreme abundance compared to 200 years ago and you should expect similar dynamics to play out",
+      "timestamp": "2026-03-08T23:58:33+00:00",
+      "url": "https://x.com/fchollet/status/2030795338261332264",
+      "images": [],
+      "likes": 195,
+      "retweets": 15,
+      "views": 9329
+    },
+    {
+      "id": "2030779083202965816",
+      "username": "thsottiaux",
+      "text": "Codex App growth goes weee\n\nhttps://t.co/Lwg13vEJDn",
+      "timestamp": "2026-03-08T22:53:58+00:00",
+      "url": "https://x.com/thsottiaux/status/2030779083202965816",
+      "images": [],
+      "likes": 372,
+      "retweets": 9,
+      "views": 22084
+    },
+    {
+      "id": "2030775325047865818",
+      "username": "Miles_Brundage",
+      "text": "--dangerously-skip-legal-permissions",
+      "timestamp": "2026-03-08T22:39:02+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2030775325047865818",
+      "images": [],
+      "likes": 48,
+      "retweets": 1,
+      "views": 2063
+    },
+    {
+      "id": "2030774385158791214",
+      "username": "dylan522p",
+      "text": "&gt; be me, 45th &amp; 47th president of America\n&gt; open the national Claude Code terminal\n&gt; it’s gold-themed\n&gt; “kill Mojtaba”\n&gt; tools: palantir.exe, https://t.co/vPvJr0VRIs, netanyahu.friend\n&gt; --fast-mode\n&gt; --dangerously-skip-permissions\n&gt; --spend-limit $1B\n&gt; --credit-card powell_amex https://t.co/NzZ13iKmD2",
+      "timestamp": "2026-03-08T22:35:18+00:00",
+      "url": "https://x.com/dylan522p/status/2030774385158791214",
+      "images": [
+        "https://pbs.twimg.com/media/HC7CiqwbIAAroHf.jpg"
+      ],
+      "likes": 195,
+      "retweets": 3,
+      "views": 25462
+    },
+    {
+      "id": "2030771866328313871",
+      "username": "Miles_Brundage",
+      "text": "The five or six fat AI researchers/engineers left in the Bay Area after all the gym and peptide bros got drafted https://t.co/VKhaA7aiKF https://t.co/mSEMdlA9BM",
+      "timestamp": "2026-03-08T22:25:17+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2030771866328313871",
+      "images": [],
+      "likes": 39,
+      "retweets": 0,
+      "views": 3571
+    },
+    {
+      "id": "2030771811705872435",
+      "username": "omarsar0",
+      "text": "Pay attention to this one if you are building terminal-based coding agents.\n\nOpenDev is an 81-page paper covering scaffolding, harness design, context engineering, and hard-won lessons from building CLI coding agents.\n\nIt introduces a compound AI system architecture with https://t.co/sQVRb2lKEJ",
+      "timestamp": "2026-03-08T22:25:04+00:00",
+      "url": "https://x.com/omarsar0/status/2030771811705872435",
+      "images": [
+        "https://pbs.twimg.com/media/HC7AMycaUAAUwJ-.jpg"
+      ],
+      "likes": 403,
+      "retweets": 75,
+      "views": 25118
+    },
+    {
+      "id": "2030771249509450133",
+      "username": "emollick",
+      "text": "People keep taking these influencer posts about papers at face value - I see serious accounts quoting them now\n\nJust paste the post and the link to the article into any frontier model (NB: @ Grok doesn’t read the PDF) &amp; ask “is the post supported by the evidence in this piece?”",
+      "timestamp": "2026-03-08T22:22:50+00:00",
+      "url": "https://x.com/emollick/status/2030771249509450133",
+      "images": [],
+      "likes": 69,
+      "retweets": 7,
+      "views": 12143
+    },
+    {
+      "id": "2030760857597366549",
+      "username": "SebastienBubeck",
+      "text": "I used to think that I would not see a proof of P vs NP in my lifetime, but now with AI I'm not sure anymore, and that's pretty cool!",
+      "timestamp": "2026-03-08T21:41:32+00:00",
+      "url": "https://x.com/SebastienBubeck/status/2030760857597366549",
+      "images": [],
+      "likes": 396,
+      "retweets": 16,
+      "views": 32184
+    },
+    {
+      "id": "2030757996595437821",
+      "username": "gdb",
+      "text": "Benchmarks? Where we’re going, we don’t need benchmarks.",
+      "timestamp": "2026-03-08T21:30:10+00:00",
+      "url": "https://x.com/gdb/status/2030757996595437821",
+      "images": [],
+      "likes": 3439,
+      "retweets": 201,
+      "views": 233785
+    },
+    {
+      "id": "2030754058420858987",
+      "username": "nickcammarata",
+      "text": "all my claude.mds just say please read agents.md",
+      "timestamp": "2026-03-08T21:14:31+00:00",
+      "url": "https://x.com/nickcammarata/status/2030754058420858987",
+      "images": [],
+      "likes": 192,
+      "retweets": 2,
+      "views": 21081
+    },
+    {
+      "id": "2030747691706126382",
+      "username": "DeryaTR_",
+      "text": "Oh man, GPT-5.4 Pro is so unbelievably good at biomedical sciences! GPT-5.2 Pro was already outstanding, but 5.4 delivers truly mind-boggling reasoning, my jaw drops sometimes! It’s hard to imagine until you experience it &amp; you need deep expertise to fully appreciate its value!",
+      "timestamp": "2026-03-08T20:49:13+00:00",
+      "url": "https://x.com/DeryaTR_/status/2030747691706126382",
+      "images": [],
+      "likes": 254,
+      "retweets": 9,
+      "views": 11800
+    },
+    {
+      "id": "2030734960483872957",
+      "username": "ChrSzegedy",
+      "text": "Just as every cell contains our full DNA blueprint, every running LLM contains a compressed mirror of most human knowledge.",
+      "timestamp": "2026-03-08T19:58:38+00:00",
+      "url": "https://x.com/ChrSzegedy/status/2030734960483872957",
+      "images": [],
+      "likes": 41,
+      "retweets": 3,
+      "views": 5168
+    },
+    {
+      "id": "2030731301687320629",
+      "username": "nvidia",
+      "text": "Today we celebrate the women who inspire us - the innovators, builders, researchers, leaders, and dreamers shaping the future of technology and AI.\n\nYour ideas, curiosity, and leadership move the world forward.\n\nHappy International Women’s Day. 💚",
+      "timestamp": "2026-03-08T19:44:06+00:00",
+      "url": "https://x.com/nvidia/status/2030731301687320629",
+      "images": [],
+      "likes": 227,
+      "retweets": 31,
+      "views": 18319
+    },
+    {
+      "id": "2030730615956635745",
+      "username": "AravSrinivas",
+      "text": "Quite a few people have asked when to use 5.4 vs Opus on Computer or Perplexity. The single most important and clear win for 5.4 is in writing. It's the best writer of any model ever. If you're using Computer for marketing or content jobs, use 5.4 as your subagent/orchestrator.",
+      "timestamp": "2026-03-08T19:41:22+00:00",
+      "url": "https://x.com/AravSrinivas/status/2030730615956635745",
+      "images": [],
+      "likes": 491,
+      "retweets": 20,
+      "views": 35588
+    },
+    {
+      "id": "2030728874431258884",
+      "username": "shaneguML",
+      "text": "AI evolution driving human evolution",
+      "timestamp": "2026-03-08T19:34:27+00:00",
+      "url": "https://x.com/shaneguML/status/2030728874431258884",
+      "images": [],
+      "likes": 8,
+      "retweets": 0,
+      "views": 2641
+    },
+    {
+      "id": "2030726073089138996",
+      "username": "shaneguML",
+      "text": "I wasn't surprised by the exponential growth of AI. In 2022 I co-authored two reasoning papers and saw the ImagenVideo paper in Google Brain. It was the AGI Year 0. \n\nWhat surprised me is the exponential growth of my daughter's cuteness. She's 4 now, but still 🚀...",
+      "timestamp": "2026-03-08T19:23:19+00:00",
+      "url": "https://x.com/shaneguML/status/2030726073089138996",
+      "images": [],
+      "likes": 136,
+      "retweets": 2,
+      "views": 16278
+    },
+    {
+      "id": "2030721813303730409",
+      "username": "shaneguML",
+      "text": "Ofc my P0 OKR is to hire a Shane under my team, to continue \"Chain of Shane's\" under Demis https://t.co/QM0cQcQp8E",
+      "timestamp": "2026-03-08T19:06:23+00:00",
+      "url": "https://x.com/shaneguML/status/2030721813303730409",
+      "images": [
+        "https://pbs.twimg.com/media/HC6Sum-aYAArcFB.jpg"
+      ],
+      "likes": 45,
+      "retweets": 0,
+      "views": 5941
+    },
+    {
+      "id": "2030721331998625962",
+      "username": "DeryaTR_",
+      "text": "💯! A year ago I said it was unethical for doctors not to consult AI; now it’s becoming malpractice.",
+      "timestamp": "2026-03-08T19:04:29+00:00",
+      "url": "https://x.com/DeryaTR_/status/2030721331998625962",
+      "images": [],
+      "likes": 160,
+      "retweets": 14,
+      "views": 13443
+    },
+    {
+      "id": "2030717400816243120",
+      "username": "AravSrinivas",
+      "text": "bull market!",
+      "timestamp": "2026-03-08T18:48:51+00:00",
+      "url": "https://x.com/AravSrinivas/status/2030717400816243120",
+      "images": [],
+      "likes": 208,
+      "retweets": 12,
+      "views": 18851
+    },
+    {
+      "id": "2030712459229581603",
+      "username": "lateinteraction",
+      "text": "The inaugural ACM CAIS 2026 conference @CAISconf on AI systems is soliciting additional reviewers.\n\nIf you are interested in reviewing, please fill out this short form.\n\nReviewers should expect a load of 4-5 papers, with reviews due April 3, 2026.\n\nhttps://t.co/Mq5nHFAGYI",
+      "timestamp": "2026-03-08T18:29:13+00:00",
+      "url": "https://x.com/lateinteraction/status/2030712459229581603",
+      "images": [],
+      "likes": 38,
+      "retweets": 7,
+      "views": 5209
+    },
+    {
+      "id": "2030705271627284816",
+      "username": "karpathy",
+      "text": "The next step for autoresearch is that it has to be asynchronously massively collaborative for agents (think: SETI@home style). The goal is not to emulate a single PhD student, it's to emulate a research community of them.\n\nCurrent code synchronously grows a single thread of",
+      "timestamp": "2026-03-08T18:00:40+00:00",
+      "url": "https://x.com/karpathy/status/2030705271627284816",
+      "images": [],
+      "likes": 4346,
+      "retweets": 384,
+      "views": 370142
+    },
+    {
+      "id": "2030703978003235089",
+      "username": "NVIDIARobotics",
+      "text": "Humanoid robots are moving from lab demos to real-world deployment. 🤖\n\nHear from leading robotics companies @agilityrobotics, @HexagonAB, @physical_int, @SkildAI, and @Tesla on the future of physical AI and how humanoid robots are steadily evolving and being deployed.\n\nAdd to https://t.co/p2TIx44eI5",
+      "timestamp": "2026-03-08T17:55:31+00:00",
+      "url": "https://x.com/NVIDIARobotics/status/2030703978003235089",
+      "images": [],
+      "likes": 72,
+      "retweets": 13,
+      "views": 6095
+    },
+    {
+      "id": "2030692286317961280",
+      "username": "omarsar0",
+      "text": "How to effectively create, evaluate and evolve skills for AI agents?\n\nWithout systematic skill accumulation, agents constantly reinvent the wheel.\n\nSkillNet introduces an open infrastructure for creating, evaluating, and organizing AI skills at scale.\n\nIt structures over 200,000 https://t.co/iJhZMvme5Q",
+      "timestamp": "2026-03-08T17:09:04+00:00",
+      "url": "https://x.com/omarsar0/status/2030692286317961280",
+      "images": [
+        "https://pbs.twimg.com/media/HC5331EacAA8XH2.jpg"
+      ],
+      "likes": 170,
+      "retweets": 21,
+      "views": 23373
+    },
+    {
+      "id": "2030687439489253442",
+      "username": "gdb",
+      "text": "an emerging way of doing work",
+      "timestamp": "2026-03-08T16:49:48+00:00",
+      "url": "https://x.com/gdb/status/2030687439489253442",
+      "images": [],
+      "likes": 843,
+      "retweets": 23,
+      "views": 277020
+    },
+    {
+      "id": "2030681964664213509",
+      "username": "omarsar0",
+      "text": "Planning for Long-Horizon Web Tasks\n\nReally solid work on making web agents better at complex, long-horizon tasks.\n\nSTRUCTUREDAGENT introduces a hierarchical planning framework using dynamic AND/OR trees for efficient search and a structured memory module for tracking candidate https://t.co/GUdRYF9n5O",
+      "timestamp": "2026-03-08T16:28:03+00:00",
+      "url": "https://x.com/omarsar0/status/2030681964664213509",
+      "images": [
+        "https://pbs.twimg.com/media/HC5ufDubgAADue2.png"
+      ],
+      "likes": 80,
+      "retweets": 12,
+      "views": 5054
+    },
+    {
+      "id": "2030679723227947436",
+      "username": "DeryaTR_",
+      "text": "GPT-5.4 Pro represents a major leap in research-level science, comparable to the jump seen with GPT-5 Pro when it was released last August. I’ve some amazing examples in biomedical sciences with GPT-5.4 Pro, all showing better reasoning than GPT-5-2 Pro or other frontier models!",
+      "timestamp": "2026-03-08T16:19:08+00:00",
+      "url": "https://x.com/DeryaTR_/status/2030679723227947436",
+      "images": [],
+      "likes": 191,
+      "retweets": 18,
+      "views": 15037
+    },
+    {
+      "id": "2030675419482259956",
+      "username": "GaryMarcus",
+      "text": "Self-inflicted disaster",
+      "timestamp": "2026-03-08T16:02:02+00:00",
+      "url": "https://x.com/GaryMarcus/status/2030675419482259956",
+      "images": [],
+      "likes": 60,
+      "retweets": 17,
+      "views": 7693
+    },
+    {
+      "id": "2030672629385019433",
+      "username": "GaryMarcus",
+      "text": "Blunt and correct*, from @gmiller: “Any parent who loves their kids either rises up against the AI companies, or condemns their kids to a lifetime of ever increasing unemployment, disempowerment, irrelevance, &amp; extinction.”\n\n*The extinction part is IMHO overstated, but I do think",
+      "timestamp": "2026-03-08T15:50:57+00:00",
+      "url": "https://x.com/GaryMarcus/status/2030672629385019433",
+      "images": [],
+      "likes": 62,
+      "retweets": 12,
+      "views": 8712
+    },
+    {
+      "id": "2030670447902413275",
+      "username": "GaryMarcus",
+      "text": "The overwhelming pushback against my Substack yesterday critiquing Sam was “Dario is no saint, either”.\n\nWhich is correct. \n\nDrop your favorite Dario anecdotes here, for my next piece.",
+      "timestamp": "2026-03-08T15:42:17+00:00",
+      "url": "https://x.com/GaryMarcus/status/2030670447902413275",
+      "images": [],
+      "likes": 71,
+      "retweets": 1,
+      "views": 12997
+    },
+    {
+      "id": "2030377225485263311",
+      "username": "steipete",
+      "text": "IMO people still think of codex as a tool for coding, when really you can do all kind of data analysis/work there. https://t.co/9Exzr1UbLV",
+      "timestamp": "2026-03-07T20:17:07+00:00",
+      "url": "https://x.com/steipete/status/2030377225485263311",
+      "images": [
+        "https://pbs.twimg.com/media/HC1ZKOmXsAAvKaT.jpg"
+      ],
+      "likes": 1326,
+      "retweets": 74,
+      "views": 81947
+    }
+  ]
 }
