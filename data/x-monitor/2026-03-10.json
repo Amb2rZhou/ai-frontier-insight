@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-10T11:54:41.376258",
+  "scraped_at": "2026-03-10T15:33:24.198125",
   "date": "2026-03-10",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 66,
-  "account_count": 35,
+  "tweet_count": 74,
+  "account_count": 41,
   "tweets": [
     {
       "id": "2031090347150041242",
@@ -773,6 +773,96 @@
       "likes": 263,
       "retweets": 58,
       "views": 21869
+    },
+    {
+      "id": "2031268686984527936",
+      "username": "ylecun",
+      "text": "Unveiling our new startup Advanced Machine Intelligence (AMI Labs).\nWe just completed our seed round: $1.03B / 890M€, one the largest seeds ever, probably the largest for a European company.\nWe're hiring! \n\n[the background image is the Veil Nebula -  a picture I took from my",
+      "timestamp": "2026-03-10T07:19:28+00:00",
+      "url": "https://x.com/ylecun/status/2031268686984527936",
+      "images": [],
+      "likes": 163,
+      "retweets": 24,
+      "views": 5151
+    },
+    {
+      "id": "2031263813140455586",
+      "username": "PyTorch",
+      "text": "⚙️ The Frameworks &amp; Compilers track at #PyTorchCon Europe, Paris 7-8 April, dives into #PyTorch internals, compiler innovations &amp; tools that accelerate #ML workloads. Learn more: https://t.co/mzRUd0mQHv \n\n🎟 Register: https://t.co/xefEGAVvyX https://t.co/XFNSB6FqUX",
+      "timestamp": "2026-03-10T07:00:06+00:00",
+      "url": "https://x.com/PyTorch/status/2031263813140455586",
+      "images": [],
+      "likes": 2,
+      "retweets": 0,
+      "views": 778
+    },
+    {
+      "id": "2031260447698202855",
+      "username": "alexgraveley",
+      "text": "They predicted fast takeoff almost exactly.",
+      "timestamp": "2026-03-10T06:46:44+00:00",
+      "url": "https://x.com/alexgraveley/status/2031260447698202855",
+      "images": [],
+      "likes": 6,
+      "retweets": 0,
+      "views": 885
+    },
+    {
+      "id": "2031250646649975243",
+      "username": "RisingSayak",
+      "text": "This is happening today.\n\nThis also kicks off the HF ML Club India @ariG23498, and I have been sharing about it for the past few days. \n\nWe hope to see you folks. Come prepared, ask cool questions, and help everyone grow a tiny bit. \n\nWe hope this takes off big time.",
+      "timestamp": "2026-03-10T06:07:47+00:00",
+      "url": "https://x.com/RisingSayak/status/2031250646649975243",
+      "images": [],
+      "likes": 8,
+      "retweets": 0,
+      "views": 482
+    },
+    {
+      "id": "2031245769584553987",
+      "username": "__tinygrad__",
+      "text": "Think different. https://t.co/yNpuxVBECj",
+      "timestamp": "2026-03-10T05:48:24+00:00",
+      "url": "https://x.com/__tinygrad__/status/2031245769584553987",
+      "images": [
+        "https://pbs.twimg.com/media/HDBvLmnaMAAoh_G.jpg"
+      ],
+      "likes": 254,
+      "retweets": 9,
+      "views": 8084
+    },
+    {
+      "id": "2031219225906282803",
+      "username": "code",
+      "text": "Agent Hooks in VS Code let you enforce policies, run checks, and guide Copilot at key moments during a session. Instead of repeating prompts, you can program how agents behave in your workflow.\n\nLearn how hooks work and when to use them. https://t.co/dHQ9z9pJw3 https://t.co/ycggIJAVbn",
+      "timestamp": "2026-03-10T04:02:56+00:00",
+      "url": "https://x.com/code/status/2031219225906282803",
+      "images": [],
+      "likes": 141,
+      "retweets": 15,
+      "views": 12877
+    },
+    {
+      "id": "2031218737266016347",
+      "username": "fchollet",
+      "text": "AI agents will soon graduate to fully-fledged economic actors that buy services, compute, and even data in the course of accomplishing high-level goals. 1-2 years before we start seeing this at scale.",
+      "timestamp": "2026-03-10T04:00:59+00:00",
+      "url": "https://x.com/fchollet/status/2031218737266016347",
+      "images": [],
+      "likes": 709,
+      "retweets": 70,
+      "views": 42094
+    },
+    {
+      "id": "2030991999357042887",
+      "username": "googledevs",
+      "text": "Mini templating code golf challenge: replace variables in a string using values from an object. We’ve given a JavaScript example but you can use any language you want. The shortest solution wins! https://t.co/ka5rGuAgxL",
+      "timestamp": "2026-03-09T13:00:01+00:00",
+      "url": "https://x.com/googledevs/status/2030991999357042887",
+      "images": [],
+      "likes": 72,
+      "retweets": 14,
+      "views": 7796
     }
   ]
 }
