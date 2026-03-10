@@ -1,0 +1,427 @@
+{
+  "source": "x-monitor",
+  "scraped_at": "2026-03-11T02:33:46.104334",
+  "date": "2026-03-11",
+  "list_urls": [
+    "https://x.com/i/lists/2026486577304842549"
+  ],
+  "tweet_count": 36,
+  "account_count": 21,
+  "tweets": [
+    {
+      "id": "2031434536375230731",
+      "username": "GaryMarcus",
+      "text": "Jeezus. Racism in AI targeting.",
+      "timestamp": "2026-03-10T18:18:30+00:00",
+      "url": "https://x.com/GaryMarcus/status/2031434536375230731",
+      "images": [],
+      "likes": 3,
+      "retweets": 1,
+      "views": 1242
+    },
+    {
+      "id": "2031433419658592600",
+      "username": "a16z",
+      "text": "Ben Thompson on how AI could push us back toward shared experiences:\n\n\"AI is a perfectly individualized experience; what you read is not necessarily what I read.\"\n\n\"So stuff that we both read — is actually compelling.\"\n\n\"Identifying things that are common experiences are going to https://t.co/f9V5QW36gd",
+      "timestamp": "2026-03-10T18:14:04+00:00",
+      "url": "https://x.com/a16z/status/2031433419658592600",
+      "images": [],
+      "likes": 9,
+      "retweets": 1,
+      "views": 2809
+    },
+    {
+      "id": "2031428029029954036",
+      "username": "NielsRogge",
+      "text": "My Instagram feed has literally become 90% AI slop like this one https://t.co/bHzIapNqLt",
+      "timestamp": "2026-03-10T17:52:38+00:00",
+      "url": "https://x.com/NielsRogge/status/2031428029029954036",
+      "images": [],
+      "likes": 2,
+      "retweets": 0,
+      "views": 206
+    },
+    {
+      "id": "2031426008285421933",
+      "username": "omarsar0",
+      "text": "context engineering —&gt; harness engineering\n\nbuild your own agent harness \n\nit gets you in the mindset of building for agents (eg. cli, api, skills, memory, automations, schedulers,…)\n\nwhere things are headed, you won’t regret having a good understanding of these",
+      "timestamp": "2026-03-10T17:44:37+00:00",
+      "url": "https://x.com/omarsar0/status/2031426008285421933",
+      "images": [],
+      "likes": 18,
+      "retweets": 2,
+      "views": 1015
+    },
+    {
+      "id": "2031424825311326665",
+      "username": "DeryaTR_",
+      "text": "This seems like a very impressive physical intelligence foundation model! Physical AGI is the next frontier and more difficult to achieve, but critical for robotic intelligence.",
+      "timestamp": "2026-03-10T17:39:55+00:00",
+      "url": "https://x.com/DeryaTR_/status/2031424825311326665",
+      "images": [],
+      "likes": 20,
+      "retweets": 3,
+      "views": 3204
+    },
+    {
+      "id": "2031424003651547597",
+      "username": "lm_zheng",
+      "text": "Fish audio is one of the most popular and powerful open source TTS models. They have been hacking sglang for a while to support audio models.\n\nThis day 0 integration marks the first official support for this model. Give it a try!",
+      "timestamp": "2026-03-10T17:36:39+00:00",
+      "url": "https://x.com/lm_zheng/status/2031424003651547597",
+      "images": [],
+      "likes": 8,
+      "retweets": 0,
+      "views": 515
+    },
+    {
+      "id": "2031422353998020959",
+      "username": "julien_c",
+      "text": "you can now just `brew install hf` 🎉 https://t.co/OXPNsCHQ6o",
+      "timestamp": "2026-03-10T17:30:05+00:00",
+      "url": "https://x.com/julien_c/status/2031422353998020959",
+      "images": [
+        "https://pbs.twimg.com/media/HDEP0t1W0AAeTRI.jpg"
+      ],
+      "likes": 27,
+      "retweets": 6,
+      "views": 1505
+    },
+    {
+      "id": "2031422031120535990",
+      "username": "emollick",
+      "text": "The core focus for the AI Labs really is \"make the smartest model you can so it can make better models so it can make a superintelligence 1st.\" That is where the money goes\n\nThe fact that they ship a whole bunch of consumer and B2B products using those models is almost incidental",
+      "timestamp": "2026-03-10T17:28:48+00:00",
+      "url": "https://x.com/emollick/status/2031422031120535990",
+      "images": [],
+      "likes": 115,
+      "retweets": 8,
+      "views": 5740
+    },
+    {
+      "id": "2031420419350344045",
+      "username": "_akhaliq",
+      "text": "Hugging Face just launched Storage Buckets\n\nblog: https://t.co/SAlKv1eehu https://t.co/cOiev5p4TT",
+      "timestamp": "2026-03-10T17:22:24+00:00",
+      "url": "https://x.com/_akhaliq/status/2031420419350344045",
+      "images": [
+        "https://pbs.twimg.com/media/HDENp-BaMAMGAsF.jpg"
+      ],
+      "likes": 6,
+      "retweets": 1,
+      "views": 1710
+    },
+    {
+      "id": "2031417866646413688",
+      "username": "DeryaTR_",
+      "text": "Also known as the “Move 37 moment,” referring to instances when you yield to AI’s shocking response in your own field. I experienced my Move 37 moment last August.",
+      "timestamp": "2026-03-10T17:12:15+00:00",
+      "url": "https://x.com/DeryaTR_/status/2031417866646413688",
+      "images": [],
+      "likes": 22,
+      "retweets": 2,
+      "views": 3993
+    },
+    {
+      "id": "2031415062649241793",
+      "username": "NVIDIARobotics",
+      "text": "Open models are moving beyond the data center and into the physical world. 🤖\n\nModels like @Alibaba_Qwen, @Google's Gemma, @MistralAI’s Mistral, @OpenAI’s GPT‑OSS, @physical_int’s Pi, and others now run locally on NVIDIA Jetson, powering everything from industrial machines to https://t.co/WYUjPrLhk1",
+      "timestamp": "2026-03-10T17:01:07+00:00",
+      "url": "https://x.com/NVIDIARobotics/status/2031415062649241793",
+      "images": [
+        "https://pbs.twimg.com/media/HDEJO5zWQAArs6D.jpg"
+      ],
+      "likes": 20,
+      "retweets": 4,
+      "views": 957
+    },
+    {
+      "id": "2031412028657774699",
+      "username": "mmitchell_ai",
+      "text": "Nice work from some of my old colleagues at MSR, related to agent control and system efficiency. I love me some classic information extraction, structured data and KBP. Also love me some modern efficiency and thoughtful agent work. Appeals to many me-s.\nhttps://t.co/IWkxNbw6KR",
+      "timestamp": "2026-03-10T16:49:04+00:00",
+      "url": "https://x.com/mmitchell_ai/status/2031412028657774699",
+      "images": [],
+      "likes": 3,
+      "retweets": 0,
+      "views": 336
+    },
+    {
+      "id": "2031411642618228935",
+      "username": "thsottiaux",
+      "text": "We are adding compute as fast as we can for Codex, but demand is surging faster than anticipated and service can be a little bit choppy for some. Team is working hard behind the scenes.",
+      "timestamp": "2026-03-10T16:47:32+00:00",
+      "url": "https://x.com/thsottiaux/status/2031411642618228935",
+      "images": [],
+      "likes": 1035,
+      "retweets": 18,
+      "views": 28322
+    },
+    {
+      "id": "2031411032845885725",
+      "username": "googledevs",
+      "text": "Announcing Gemini Embedding 2 ✨ the first fully multimodal embedding model built on the Gemini architecture. Now available in preview via the Gemini API and Vertex AI. \n\nThe new model provides semantic understanding across 100+ languages — and support for modalities across text, https://t.co/gAlVQ5fPaV",
+      "timestamp": "2026-03-10T16:45:06+00:00",
+      "url": "https://x.com/googledevs/status/2031411032845885725",
+      "images": [],
+      "likes": 618,
+      "retweets": 81,
+      "views": 50343
+    },
+    {
+      "id": "2031409546766499891",
+      "username": "a16z",
+      "text": "AI is becoming more global, more multimodal, and more deeply embedded in everyday products.\n\nThe newest edition of the Top 100 Gen AI Consumer Apps report reveals how quickly the consumer AI landscape is shifting.\n\nIn this conversation, a16z’s Anish Acharya and Olivia Moore break https://t.co/EboPGeJ9Yd",
+      "timestamp": "2026-03-10T16:39:12+00:00",
+      "url": "https://x.com/a16z/status/2031409546766499891",
+      "images": [],
+      "likes": 76,
+      "retweets": 11,
+      "views": 7549
+    },
+    {
+      "id": "2031407777508446432",
+      "username": "code",
+      "text": "VS Code Live: Code to Canvas with Figma MCP and GitHub Copilot https://t.co/IYEBlEjzvc",
+      "timestamp": "2026-03-10T16:32:10+00:00",
+      "url": "https://x.com/code/status/2031407777508446432",
+      "images": [],
+      "likes": 62,
+      "retweets": 9,
+      "views": 6738
+    },
+    {
+      "id": "2031405314889654476",
+      "username": "emollick",
+      "text": "NotebookLM: Do a deep research report and make a video telling me exactly how to take over Rome if I time travelled to 66 BC with a single backpack.\n\nActually pretty fun to watch and gets a lot of historical details in as well. https://t.co/SOWAnMHdeC",
+      "timestamp": "2026-03-10T16:22:23+00:00",
+      "url": "https://x.com/emollick/status/2031405314889654476",
+      "images": [],
+      "likes": 237,
+      "retweets": 25,
+      "views": 22666
+    },
+    {
+      "id": "2031404079583473953",
+      "username": "polynoamial",
+      "text": "The recipe behind today’s frontier reasoning models is surprisingly similar to AlphaGo:\n\n1) Imitate large amounts of human data\n\n2) Scale inference compute to reason better (back then it was Monte Carlo Tree Search, today it's Chain of Thought)\n\n3) Use RL to go beyond imitation",
+      "timestamp": "2026-03-10T16:17:28+00:00",
+      "url": "https://x.com/polynoamial/status/2031404079583473953",
+      "images": [],
+      "likes": 471,
+      "retweets": 36,
+      "views": 26798
+    },
+    {
+      "id": "2031400265434186199",
+      "username": "_akhaliq",
+      "text": "AutoResearch-RL\n\nPerpetual Self-Evaluating Reinforcement Learning Agents for Autonomous Neural Architecture Discovery\n\npaper: https://t.co/M92rs8MfIg https://t.co/MEF5wjtLns",
+      "timestamp": "2026-03-10T16:02:19+00:00",
+      "url": "https://x.com/_akhaliq/status/2031400265434186199",
+      "images": [
+        "https://pbs.twimg.com/media/HDD7xJJXcAAlJv-.jpg"
+      ],
+      "likes": 46,
+      "retweets": 8,
+      "views": 4296
+    },
+    {
+      "id": "2031399096267718847",
+      "username": "GoogleDeepMind",
+      "text": "Ten years after AlphaGo, we’re still building on its foundations to advance AI.\n\nThe techniques pioneered have helped us prove mathematical statements and are now assisting the scientific community in making new discoveries.\n\nRead more from @DemisHassabis ↓ https://t.co/lY4nE9tau8",
+      "timestamp": "2026-03-10T15:57:40+00:00",
+      "url": "https://x.com/GoogleDeepMind/status/2031399096267718847",
+      "images": [],
+      "likes": 306,
+      "retweets": 42,
+      "views": 33318
+    },
+    {
+      "id": "2031398531832177143",
+      "username": "Austen",
+      "text": "We know there are more than two words we can use to name AI products, right?",
+      "timestamp": "2026-03-10T15:55:26+00:00",
+      "url": "https://x.com/Austen/status/2031398531832177143",
+      "images": [],
+      "likes": 33,
+      "retweets": 1,
+      "views": 6835
+    },
+    {
+      "id": "2031397975365394716",
+      "username": "AravSrinivas",
+      "text": "Perplexity Pro and Max subscribers who are experiencing difficulties with temporary issues like status going away or not being able to buy extra credits for Computer: all these billing eng issues will be fixed today. Apologies for the inconvenience.",
+      "timestamp": "2026-03-10T15:53:13+00:00",
+      "url": "https://x.com/AravSrinivas/status/2031397975365394716",
+      "images": [],
+      "likes": 352,
+      "retweets": 10,
+      "views": 16485
+    },
+    {
+      "id": "2031397968511717584",
+      "username": "SchmidhuberAI",
+      "text": "Everybody is talking about recursive self-improvement (RSI) and meta learning. Here is my old 2020 talk about this [1]. It has aged well. Example: humans still define the starts &amp; ends of trials of many modern meta learners. My RSI systems since 1994 LEARN to (re)define them [2]! https://t.co/PQ2vbk1JzK",
+      "timestamp": "2026-03-10T15:53:11+00:00",
+      "url": "https://x.com/SchmidhuberAI/status/2031397968511717584",
+      "images": [],
+      "likes": 195,
+      "retweets": 28,
+      "views": 16952
+    },
+    {
+      "id": "2031396883579453692",
+      "username": "_akhaliq",
+      "text": "V1\n\nUnifying Generation and Self-Verification for Parallel Reasoners\n\npaper: https://t.co/rvwLehsRcI https://t.co/NXCtt56mg1",
+      "timestamp": "2026-03-10T15:48:53+00:00",
+      "url": "https://x.com/_akhaliq/status/2031396883579453692",
+      "images": [],
+      "likes": 15,
+      "retweets": 8,
+      "views": 4135
+    },
+    {
+      "id": "2031396116244135988",
+      "username": "_akhaliq",
+      "text": "VGGT-Det\n\nMining VGGT Internal Priors for Sensor-Geometry-Free Multi-View Indoor 3D Object Detection\n\npaper: https://t.co/fjQwdzF9ZW https://t.co/o8JimHIQAT",
+      "timestamp": "2026-03-10T15:45:50+00:00",
+      "url": "https://x.com/_akhaliq/status/2031396116244135988",
+      "images": [
+        "https://pbs.twimg.com/media/HDD38qjWkAAl0kV.jpg"
+      ],
+      "likes": 11,
+      "retweets": 0,
+      "views": 5636
+    },
+    {
+      "id": "2031395607508570183",
+      "username": "_akhaliq",
+      "text": "NLE\n\nNon-autoregressive LLM-based ASR by Transcript Editing\n\npaper: https://t.co/O0oIVCp0IM https://t.co/AwK5Rl9Gag",
+      "timestamp": "2026-03-10T15:43:48+00:00",
+      "url": "https://x.com/_akhaliq/status/2031395607508570183",
+      "images": [
+        "https://pbs.twimg.com/media/HDD3gf7WQAAUvaL.jpg"
+      ],
+      "likes": 4,
+      "retweets": 1,
+      "views": 2057
+    },
+    {
+      "id": "2031393966831124805",
+      "username": "_akhaliq",
+      "text": "Sparse-BitNet\n\n1.58-bit LLMs are Naturally Friendly to Semi-Structured Sparsity\n\npaper: https://t.co/4QzqCY8MgA https://t.co/dcqvUo4KzY",
+      "timestamp": "2026-03-10T15:37:17+00:00",
+      "url": "https://x.com/_akhaliq/status/2031393966831124805",
+      "images": [
+        "https://pbs.twimg.com/media/HDD2AFWWQAEgetA.jpg"
+      ],
+      "likes": 24,
+      "retweets": 7,
+      "views": 3012
+    },
+    {
+      "id": "2031393012324913256",
+      "username": "_akhaliq",
+      "text": "Believe Your Model\n\nDistribution-Guided Confidence Calibration\nhttps://t.co/v8c1Rwu0dq",
+      "timestamp": "2026-03-10T15:33:30+00:00",
+      "url": "https://x.com/_akhaliq/status/2031393012324913256",
+      "images": [],
+      "likes": 8,
+      "retweets": 2,
+      "views": 2475
+    },
+    {
+      "id": "2031390677343289468",
+      "username": "_akhaliq",
+      "text": "LoGeR\n\nLong-Context Geometric Reconstruction with Hybrid Memory\n\npaper: https://t.co/izA7QCjBqZ https://t.co/C4lAp2TL4x",
+      "timestamp": "2026-03-10T15:24:13+00:00",
+      "url": "https://x.com/_akhaliq/status/2031390677343289468",
+      "images": [],
+      "likes": 47,
+      "retweets": 5,
+      "views": 4861
+    },
+    {
+      "id": "2031390379388350507",
+      "username": "_akhaliq",
+      "text": "How Far Can Unsupervised RLVR Scale LLM Training?\n\npaper: https://t.co/Jagm3lcbKl https://t.co/DaHZeKpnOk",
+      "timestamp": "2026-03-10T15:23:02+00:00",
+      "url": "https://x.com/_akhaliq/status/2031390379388350507",
+      "images": [
+        "https://pbs.twimg.com/media/HDDywW6aMAknv0g.jpg"
+      ],
+      "likes": 12,
+      "retweets": 0,
+      "views": 2523
+    },
+    {
+      "id": "2031390236484436108",
+      "username": "GaryMarcus",
+      "text": "No shit, @Elonmusk, this has been what I have been trying to tell you … for years.",
+      "timestamp": "2026-03-10T15:22:28+00:00",
+      "url": "https://x.com/GaryMarcus/status/2031390236484436108",
+      "images": [],
+      "likes": 28,
+      "retweets": 3,
+      "views": 5894
+    },
+    {
+      "id": "2031389246372593888",
+      "username": "_akhaliq",
+      "text": "Holi-Spatial\n\nEvolving Video Streams into Holistic 3D Spatial Intelligence\npaper: https://t.co/pq9E3IO5Fi https://t.co/aZeBQoF4Le",
+      "timestamp": "2026-03-10T15:18:32+00:00",
+      "url": "https://x.com/_akhaliq/status/2031389246372593888",
+      "images": [],
+      "likes": 14,
+      "retweets": 5,
+      "views": 3128
+    },
+    {
+      "id": "2031388738727575590",
+      "username": "_akhaliq",
+      "text": "Lost in Stories\n\nConsistency Bugs in Long Story Generation by LLMs\npaper: https://t.co/T7JzASbAWa",
+      "timestamp": "2026-03-10T15:16:31+00:00",
+      "url": "https://x.com/_akhaliq/status/2031388738727575590",
+      "images": [],
+      "likes": 7,
+      "retweets": 2,
+      "views": 2292
+    },
+    {
+      "id": "2031388399098019887",
+      "username": "DeryaTR_",
+      "text": "Amazing advance in Frontier Math by GPT-5.4 Pro! It really is a super smart AI model!",
+      "timestamp": "2026-03-10T15:15:10+00:00",
+      "url": "https://x.com/DeryaTR_/status/2031388399098019887",
+      "images": [],
+      "likes": 136,
+      "retweets": 7,
+      "views": 10575
+    },
+    {
+      "id": "2031326481817940309",
+      "username": "CSProfKGD",
+      "text": "Based on a prompt by @umesh_ai https://t.co/CDdLnx6L9M",
+      "timestamp": "2026-03-10T11:09:08+00:00",
+      "url": "https://x.com/CSProfKGD/status/2031326481817940309",
+      "images": [
+        "https://pbs.twimg.com/media/HDC4qRhaoAAC6i0.jpg",
+        "https://pbs.twimg.com/media/HDC4qRCWkAAKfAv.jpg"
+      ],
+      "likes": 4,
+      "retweets": 0,
+      "views": 1091
+    },
+    {
+      "id": "2030854996007256550",
+      "username": "steipete",
+      "text": "I'm using AI to detect and block AI. Set up a claw cron to block accounts that just post slop via birdclaw. https://t.co/6rc57M1Hjh",
+      "timestamp": "2026-03-09T03:55:37+00:00",
+      "url": "https://x.com/steipete/status/2030854996007256550",
+      "images": [],
+      "likes": 1188,
+      "retweets": 35,
+      "views": 68898
+    }
+  ]
+}
