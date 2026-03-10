@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-10T08:07:43.489559",
+  "scraped_at": "2026-03-10T11:54:41.376258",
   "date": "2026-03-10",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 57,
-  "account_count": 32,
+  "tweet_count": 66,
+  "account_count": 35,
   "tweets": [
     {
       "id": "2031090347150041242",
@@ -674,6 +674,105 @@
       "likes": 579,
       "retweets": 33,
       "views": 22776
+    },
+    {
+      "id": "2031216405266481489",
+      "username": "thsottiaux",
+      "text": "This codex issue is now fully resolved and stable for the last couple of hours. \n\nYou have come to expect it, but yes, that means we will be reseting rate limits in a bit. Enjoy.",
+      "timestamp": "2026-03-10T03:51:43+00:00",
+      "url": "https://x.com/thsottiaux/status/2031216405266481489",
+      "images": [],
+      "likes": 20,
+      "retweets": 1,
+      "views": 168
+    },
+    {
+      "id": "2031208502283133400",
+      "username": "minchoi",
+      "text": "Claude Code just replaced your code reviewer for $25.\n\nPR opens → agents spawn → bugs found, verified, ranked → one clean summary.\n\nAnthropic ran this internally for months:\n16% → 54% substantive reviews\n&lt;1% false positives\n\nGame over.\nhttps://t.co/tvaorrYk13",
+      "timestamp": "2026-03-10T03:20:19+00:00",
+      "url": "https://x.com/minchoi/status/2031208502283133400",
+      "images": [],
+      "likes": 34,
+      "retweets": 4,
+      "views": 6096
+    },
+    {
+      "id": "2031202527082119548",
+      "username": "__tinygrad__",
+      "text": "it's a red v2 box autoresearching! Claude ported autoresearch to tinygrad. someday soon it will autoautoresearch with a local LLM https://t.co/7W9JMtLJmy",
+      "timestamp": "2026-03-10T02:56:35+00:00",
+      "url": "https://x.com/__tinygrad__/status/2031202527082119548",
+      "images": [],
+      "likes": 131,
+      "retweets": 3,
+      "views": 2677
+    },
+    {
+      "id": "2031200869975220425",
+      "username": "DeryaTR_",
+      "text": "I asked GPT-5.4 Pro: \"what if you could dream like humans, what would you wish to dream first?\"\nIt's allegorical response was eerily mesmerizing:\n\n\"As a thought experiment, if I could dream the way humans do, I think I would want my first dream to be about standing on the shore",
+      "timestamp": "2026-03-10T02:49:59+00:00",
+      "url": "https://x.com/DeryaTR_/status/2031200869975220425",
+      "images": [],
+      "likes": 34,
+      "retweets": 10,
+      "views": 1994
+    },
+    {
+      "id": "2031185770803847182",
+      "username": "Austen",
+      "text": "If your job interview can be hacked by having someone use AI it’s a bad interview.\n\nGauntlet’s interview tools our team built get 100x better information, are deeply personalized, and you can’t cheat while using them.",
+      "timestamp": "2026-03-10T01:50:00+00:00",
+      "url": "https://x.com/Austen/status/2031185770803847182",
+      "images": [],
+      "likes": 18,
+      "retweets": 1,
+      "views": 14781
+    },
+    {
+      "id": "2031175807821910047",
+      "username": "gneubig",
+      "text": "Prediction: Next model release by OpenAI has benchmarks in it.",
+      "timestamp": "2026-03-10T01:10:24+00:00",
+      "url": "https://x.com/gneubig/status/2031175807821910047",
+      "images": [],
+      "likes": 26,
+      "retweets": 0,
+      "views": 2466
+    },
+    {
+      "id": "2031175446952661474",
+      "username": "GaryMarcus",
+      "text": "One measure of how poorly run OpenAI actually is comes the fact that they are burning money an order of magnitude faster than Anthropic, yet still managed to squander much of their early lead.\n\nThe fact OpenAI is valued at 2x Anthropic despite being a bigger money pit is a mostly",
+      "timestamp": "2026-03-10T01:08:58+00:00",
+      "url": "https://x.com/GaryMarcus/status/2031175446952661474",
+      "images": [],
+      "likes": 65,
+      "retweets": 2,
+      "views": 9246
+    },
+    {
+      "id": "2031169690358395290",
+      "username": "arena",
+      "text": "First impressions of GPT-5.4-High by @OpenAI with AI Capabilities Lead @petergostev.\n\nHow does it compare to GPT-5.4-Medium?\n\nFind out on Arena's YouTube: https://t.co/oIx53khpPT",
+      "timestamp": "2026-03-10T00:46:06+00:00",
+      "url": "https://x.com/arena/status/2031169690358395290",
+      "images": [],
+      "likes": 28,
+      "retweets": 2,
+      "views": 6421
+    },
+    {
+      "id": "2031166482776994032",
+      "username": "GaryMarcus",
+      "text": "still more science showing that generative ai models are harmfully sycophantic",
+      "timestamp": "2026-03-10T00:33:21+00:00",
+      "url": "https://x.com/GaryMarcus/status/2031166482776994032",
+      "images": [],
+      "likes": 263,
+      "retweets": 58,
+      "views": 21869
     }
   ]
 }
