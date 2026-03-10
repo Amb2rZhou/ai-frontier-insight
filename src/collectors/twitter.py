@@ -90,6 +90,7 @@ class TwitterCollector(BaseCollector):
                     "likes": t.get("likes", 0),
                     "retweets": t.get("retweets", 0),
                     "views": t.get("views", 0),
+                    "user_bio": t.get("user_bio", ""),
                 },
             ))
 

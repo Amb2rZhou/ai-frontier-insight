@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>A. Clean Editorial</title>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,wght@0,400;0,600;0,700;1,400&family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #ffffff;
+    --bg-subtle: #f8f9fb;
+    --border: #e8ebf0;
+    --text: #1a1a2e;
+    --text-2: #5a5f72;
+    --text-3: #9196a8;
+    --accent: #5046e5;
+    --accent-light: #eeecfc;
+    --green: #16a34a;
+    --green-bg: #f0fdf4;
+    --blue: #2563eb;
+    --blue-bg: #eff6ff;
+    --purple: #7c3aed;
+    --purple-bg: #f5f3ff;
+    --orange: #ea580c;
+    --orange-bg: #fff7ed;
+    --amber: #d97706;
+    --amber-bg: #fffbeb;
+    --rose: #e11d48;
+    --rose-bg: #fff1f2;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { background: var(--bg); color: var(--text); font-family: 'Inter', sans-serif; font-size: 15px; line-height: 1.7; }
+
+  .page { max-width: 960px; margin: 0 auto; padding: 60px 32px 80px; }
+
+  /* Header */
+  .header { padding-bottom: 48px; border-bottom: 1px solid var(--border); margin-bottom: 48px; }
+  .header h1 { font-family: 'Newsreader', Georgia, serif; font-size: 48px; font-weight: 700; color: var(--text); letter-spacing: -1px; line-height: 1.1; }
+  .header h1 em { font-style: italic; color: var(--accent); }
+  .header .sub { font-size: 17px; color: var(--text-2); margin-top: 12px; font-weight: 400; }
+
+  .value-chain { display: flex; align-items: center; gap: 0; margin-top: 32px; }
+  .vc-node { padding: 10px 24px; font-size: 14px; font-weight: 600; border-radius: 8px; }
+  .vc-arr { color: var(--text-3); margin: 0 8px; font-size: 18px; }
+  .vc-1 { background: var(--green-bg); color: var(--green); }
+  .vc-2 { background: var(--blue-bg); color: var(--blue); }
+  .vc-3 { background: var(--purple-bg); color: var(--purple); }
+  .vc-4 { background: var(--orange-bg); color: var(--orange); }
+
+  .stats { display: flex; gap: 32px; margin-top: 24px; }
+  .stat { font-size: 13px; color: var(--text-3); }
+  .stat strong { font-size: 22px; color: var(--text); font-weight: 700; display: block; }
+
+  /* Section */
+  .section { margin-bottom: 48px; }
+  .section-head { font-family: 'Newsreader', serif; font-size: 13px; text-transform: uppercase; letter-spacing: 3px; color: var(--text-3); margin-bottom: 20px; font-weight: 600; }
+
+  /* Flow arrow */
+  .flow { display: flex; flex-direction: column; align-items: center; padding: 24px 0; gap: 4px; }
+  .flow .line { width: 1px; height: 24px; background: var(--border); }
+  .flow .dot { width: 7px; height: 7px; border-radius: 50%; background: var(--accent); }
+  .flow .label { font-size: 12px; color: var(--text-3); margin-top: 4px; font-family: 'IBM Plex Mono', monospace; }
+
+  /* Source cards */
+  .sources { display: grid; grid-template-columns: repeat(auto-fill, minmax(170px, 1fr)); gap: 12px; }
+  .src-card { background: var(--bg); border: 1px solid var(--border); border-radius: 12px; padding: 16px; transition: box-shadow 0.3s; }
+  .src-card:hover { box-shadow: 0 4px 20px rgba(0,0,0,0.06); }
+  .src-card .name { font-weight: 700; font-size: 15px; margin-bottom: 4px; }
+  .src-card .api { font-family: 'IBM Plex Mono', monospace; font-size: 11px; color: var(--text-3); background: var(--bg-subtle); padding: 2px 6px; border-radius: 4px; float: right; }
+  .src-card .desc { font-size: 12px; color: var(--text-2); line-height: 1.6; margin-top: 6px; }
+  .src-card .icon { font-size: 20px; margin-bottom: 8px; display: block; }
+
+  /* AI Engine */
+  .engine { background: var(--purple-bg); border: 1px solid #e4ddf7; border-radius: 16px; padding: 28px; }
+  .engine-title { font-family: 'IBM Plex Mono', monospace; font-size: 11px; text-transform: uppercase; letter-spacing: 2px; color: var(--purple); margin-bottom: 20px; font-weight: 600; }
+  .stage { background: var(--bg); border: 1px solid #e4ddf7; border-radius: 10px; padding: 16px; margin-bottom: 10px; }
+  .stage:last-child { margin-bottom: 0; }
+  .stage-head { display: flex; align-items: center; gap: 10px; }
+  .stage-n { width: 24px; height: 24px; border-radius: 50%; background: var(--purple); color: #fff; font-size: 11px; font-weight: 700; display: flex; align-items: center; justify-content: center; }
+  .stage-name { font-weight: 700; font-size: 15px; }
+  .stage-model { margin-left: auto; font-family: 'IBM Plex Mono', monospace; font-size: 10px; color: var(--green); background: var(--green-bg); padding: 2px 8px; border-radius: 4px; }
+  .stage-desc { font-size: 13px; color: var(--text-2); margin-top: 6px; padding-left: 34px; }
+  .stage-arrow { text-align: center; color: var(--text-3); font-size: 14px; padding: 4px 0; opacity: 0.4; }
+
+  /* Infra */
+  .infra-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; }
+  .infra-card { background: var(--bg-subtle); border-radius: 12px; padding: 16px; }
+  .infra-card .label { font-family: 'IBM Plex Mono', monospace; font-size: 10px; text-transform: uppercase; letter-spacing: 2px; color: var(--text-3); margin-bottom: 6px; }
+  .infra-card .val { font-weight: 700; font-size: 15px; color: var(--text); margin-bottom: 4px; }
+  .infra-card .detail { font-size: 12px; color: var(--text-2); line-height: 1.5; }
+
+  /* Limits */
+  .limits { display: flex; gap: 16px; }
+  .limits > div { flex: 1; border-radius: 12px; padding: 20px; }
+  .limits-bad { background: var(--rose-bg); border: 1px solid #fecdd3; }
+  .limits-good { background: var(--green-bg); border: 1px solid #bbf7d0; }
+  .limits h4 { font-size: 15px; margin-bottom: 12px; }
+  .limits-bad h4 { color: var(--rose); }
+  .limits-good h4 { color: var(--green); }
+  .lim-item { padding: 8px 0; border-bottom: 1px solid rgba(0,0,0,0.05); }
+  .lim-item:last-child { border-bottom: none; }
+  .lim-item .t { font-weight: 600; font-size: 13px; color: var(--text); }
+  .lim-item .d { font-size: 12px; color: var(--text-2); }
+
+  .footer { text-align: center; padding: 40px 0; color: var(--text-3); font-size: 12px; }
+</style>
+</head>
+<body>
+<div class="page">
+  <div class="header">
+    <h1>AI Frontier <em>Insight</em></h1>
+    <div class="sub">自动化 AI 前沿情报采集、分析与推送系统</div>
+    <div class="value-chain">
+      <div class="vc-node vc-1">数据源</div><span class="vc-arr">&rarr;</span>
+      <div class="vc-node vc-2">信号</div><span class="vc-arr">&rarr;</span>
+      <div class="vc-node vc-3">洞察</div><span class="vc-arr">&rarr;</span>
+      <div class="vc-node vc-4">预判</div>
+    </div>
+    <div class="stats">
+      <div class="stat"><strong>5</strong>数据源</div>
+      <div class="stat"><strong>100-350</strong>原始数据/日</div>
+      <div class="stat"><strong>10</strong>条信号</div>
+      <div class="stat"><strong>1</strong>份日报</div>
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="section-head">数据源层</div>
+    <div class="sources">
+      <div class="src-card"><span class="icon">&#x1D54F;</span><span class="api">x-monitor</span><div class="name">X / Twitter</div><div class="desc">~200 个账号 · X List + Playwright<br>API 响应拦截 · 2-5h 随机调度</div></div>
+      <div class="src-card"><span class="icon">&#x1F4E1;</span><span class="api">23 个源</span><div class="name">RSS</div><div class="desc">9 个分组 · 并行抓取<br>24h 时间窗口</div></div>
+      <div class="src-card"><span class="icon">&#x2666;</span><span class="api">REST API</span><div class="name">GitHub</div><div class="desc">Trending 6 个 AI topic<br>Releases 12 个核心仓库</div></div>
+      <div class="src-card"><span class="icon">&#x1F4C4;</span><span class="api">API</span><div class="name">ArXiv</div><div class="desc">5 个类别 · 每日 &le;25 篇</div></div>
+      <div class="src-card"><span class="icon">&#x1F917;</span><span class="api">HF API</span><div class="name">HuggingFace</div><div class="desc">热门模型 (15) · 新模型 (10)<br>热门 Spaces (10)</div></div>
+    </div>
+  </div>
+
+  <div class="flow"><div class="line"></div><div class="dot"></div><div class="line"></div><span class="label">100-350 RawItem / 日</span></div>
+
+  <div class="section">
+    <div class="engine">
+      <div class="engine-title">AI 分析引擎 — 四步流水线</div>
+      <div class="stage"><div class="stage-head"><span class="stage-n">1</span><span class="stage-name">信号提取</span><span class="stage-model">DeepSeek V3</span></div><div class="stage-desc">合并 · 去重 · 按重要性排序 · 参考已有趋势评估新颖度</div></div>
+      <div class="stage-arrow">&#x25BC;</div>
+      <div class="stage"><div class="stage-head"><span class="stage-n">2</span><span class="stage-name">洞察生成</span><span class="stage-model">DeepSeek V3</span></div><div class="stage-desc">信号 → 洞察 → 预判（逐条生成）· 上下文: 趋势轨迹 + 历史预测</div></div>
+      <div class="stage-arrow">&#x25BC;</div>
+      <div class="stage"><div class="stage-head"><span class="stage-n">3</span><span class="stage-name">趋势总结</span><span class="stage-model">DeepSeek V3</span></div><div class="stage-desc">跨来源模式识别 · 发现未被明确表述的趋势</div></div>
+      <div class="stage-arrow">&#x25BC;</div>
+      <div class="stage"><div class="stage-head"><span class="stage-n">4</span><span class="stage-name">趋势更新</span><span class="stage-model">DeepSeek V3</span></div><div class="stage-desc">更新轨迹: 加速 → 稳定 → 衰退 → 消退 · 最多 50 条</div></div>
+    </div>
+  </div>
+
+  <div class="flow"><div class="line"></div><div class="dot"></div><div class="line"></div></div>
+
+  <div class="section">
+    <div class="section-head">基础设施</div>
+    <div class="infra-grid">
+      <div class="infra-card"><div class="label">调度</div><div class="val">macOS launchd</div><div class="detail">日报 09:30 · x-monitor 每 30 分钟<br>周报 每周一 8:00 AM</div></div>
+      <div class="infra-card"><div class="label">AI 模型</div><div class="val">DeepSeek V3</div><div class="detail">日报全流程主力模型<br>备选 Claude Sonnet + Haiku</div></div>
+      <div class="infra-card"><div class="label">技术栈</div><div class="val">Python · YAML · JSON</div><div class="detail">Playwright 爬虫<br>JSON 记忆 + git 管理</div></div>
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="section-head">局限性与改进方向</div>
+    <div class="limits">
+      <div class="limits-bad"><h4>当前局限</h4>
+        <div class="lim-item"><div class="t">X 采集依赖 Playwright</div><div class="d">Cookie 过期可能中断</div></div>
+        <div class="lim-item"><div class="t">本地部署依赖电脑开机</div><div class="d">关机无法采集</div></div>
+        <div class="lim-item"><div class="t">DeepSeek V3 稳定性</div><div class="d">偶发错误</div></div>
+      </div>
+      <div class="limits-good"><h4>改进方向</h4>
+        <div class="lim-item"><div class="t">X API 替代爬虫</div><div class="d">消除 Cookie 问题</div></div>
+        <div class="lim-item"><div class="t">云端部署</div><div class="d">7×24 运行</div></div>
+        <div class="lim-item"><div class="t">来源自动化管理</div><div class="d">自动发现/评分/淘汰</div></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer">AI Frontier Insight · Clean Editorial Style</div>
+</div>
+</body>
+</html>

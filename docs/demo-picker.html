@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>选择设计风格</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { background: #f5f5f5; font-family: -apple-system, 'PingFang SC', sans-serif; padding: 40px 20px; }
+  h1 { text-align: center; font-size: 24px; color: #333; margin-bottom: 8px; }
+  p.sub { text-align: center; color: #888; margin-bottom: 40px; font-size: 15px; }
+  .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; max-width: 1100px; margin: 0 auto; }
+  .preview { border-radius: 16px; overflow: hidden; box-shadow: 0 4px 24px rgba(0,0,0,0.1); transition: transform 0.3s, box-shadow 0.3s; cursor: pointer; }
+  .preview:hover { transform: translateY(-4px); box-shadow: 0 8px 40px rgba(0,0,0,0.18); }
+  .preview-frame { width: 100%; height: 420px; border: none; pointer-events: none; }
+  .preview-label { padding: 16px 20px; background: #fff; border-top: 1px solid #eee; }
+  .preview-label h3 { font-size: 16px; color: #1a1a2e; margin-bottom: 4px; }
+  .preview-label p { font-size: 13px; color: #888; line-height: 1.5; }
+  .preview-label .pick { display: inline-block; margin-top: 8px; padding: 6px 16px; background: #5046e5; color: #fff; border-radius: 8px; font-size: 13px; font-weight: 600; text-decoration: none; }
+  .preview-label .pick:hover { background: #3d35c4; }
+</style>
+</head>
+<body>
+<h1>选一个你喜欢的风格</h1>
+<p class="sub">点击 "选这个" 告诉我，我会用这个风格重写 architecture.html</p>
+<div class="grid">
+  <div class="preview" onclick="window.open('demo-a.html')">
+    <iframe class="preview-frame" src="demo-a.html"></iframe>
+    <div class="preview-label">
+      <h3>A. Clean Editorial</h3>
+      <p>Stripe / Linear 风格 — 纯白底、大留白、精致排版、淡灰线条。高级感来自克制。</p>
+    </div>
+  </div>
+  <div class="preview" onclick="window.open('demo-b.html')">
+    <iframe class="preview-frame" src="demo-b.html"></iframe>
+    <div class="preview-label">
+      <h3>B. Warm Paper</h3>
+      <p>Notion / 高端杂志风 — 暖白米色底、棕色调排版、纸质纹理感。有温度的技术文档。</p>
+    </div>
+  </div>
+  <div class="preview" onclick="window.open('demo-c.html')">
+    <iframe class="preview-frame" src="demo-c.html"></iframe>
+    <div class="preview-label">
+      <h3>C. Gradient Glass</h3>
+      <p>Apple 产品页风 — 浅色渐变背景、毛玻璃卡片、彩色渐变强调。现代感拉满。</p>
+    </div>
+  </div>
+  <div class="preview" onclick="window.open('demo-d.html')">
+    <iframe class="preview-frame" src="demo-d.html"></iframe>
+    <div class="preview-label">
+      <h3>D. Blueprint 工程图</h3>
+      <p>建筑蓝图风 — 淡蓝网格底、深蓝线条、等宽字体。技术系统的工程美感。</p>
+    </div>
+  </div>
+</div>
+</body>
+</html>

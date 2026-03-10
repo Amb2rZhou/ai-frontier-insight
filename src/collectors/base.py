@@ -45,6 +45,10 @@ class RawItem:
             parts.append(f"URL: {self.url}")
         if self.published:
             parts.append(f"Time: {self.published}")
+        # 用户简介（推文）
+        user_bio = self.metadata.get("user_bio", "")
+        if user_bio:
+            parts.append(f"Author Bio: {user_bio[:150]}")
         # 互动数据（推文）
         likes = self.metadata.get("likes", 0)
         views = self.metadata.get("views", 0)

@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>D. Blueprint 工程图</title>
+<link href="https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400&family=Barlow:wght@400;500;600;700&family=Barlow+Condensed:wght@600;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #edf2f8;
+    --bg-card: #f7f9fc;
+    --border: #b8cce0;
+    --border-light: #d4e0ed;
+    --grid: #d4e0ed;
+    --text: #1a2744;
+    --text-2: #4a6080;
+    --text-3: #8da3be;
+    --accent: #1d4ed8;
+    --accent-dark: #1e3a5f;
+    --green: #0f766e;
+    --green-bg: #e6f5f3;
+    --blue: #1d4ed8;
+    --blue-bg: #e8eeff;
+    --purple: #6d28d9;
+    --purple-bg: #f0e8ff;
+    --orange: #c2410c;
+    --orange-bg: #fff2e8;
+    --rose: #be123c;
+    --rose-bg: #ffeaef;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    background-color: var(--bg);
+    background-image:
+      linear-gradient(var(--grid) 1px, transparent 1px),
+      linear-gradient(90deg, var(--grid) 1px, transparent 1px);
+    background-size: 24px 24px;
+    color: var(--text);
+    font-family: 'Barlow', sans-serif;
+    font-size: 15px;
+    line-height: 1.7;
+  }
+
+  .page { max-width: 960px; margin: 0 auto; padding: 56px 32px 80px; }
+
+  /* Header */
+  .header { padding: 36px; border: 2px solid var(--accent); border-radius: 4px; margin-bottom: 48px; background: var(--bg-card); position: relative; }
+  .header::before { content: 'SYSTEM OVERVIEW'; position: absolute; top: -10px; left: 20px; background: var(--bg-card); padding: 0 10px; font-family: 'Space Mono', monospace; font-size: 10px; letter-spacing: 3px; color: var(--accent); font-weight: 700; }
+  .header h1 { font-family: 'Barlow Condensed', sans-serif; font-size: 48px; font-weight: 700; color: var(--accent-dark); letter-spacing: 1px; line-height: 1.1; text-transform: uppercase; }
+  .header h1 span { color: var(--accent); }
+  .header .sub { font-size: 15px; color: var(--text-2); margin-top: 10px; font-family: 'Space Mono', monospace; font-size: 13px; }
+
+  .value-chain { display: flex; align-items: center; gap: 0; margin-top: 28px; }
+  .vc-node { padding: 8px 20px; font-size: 13px; font-weight: 600; border-radius: 2px; border: 1.5px solid; font-family: 'Space Mono', monospace; }
+  .vc-arr { color: var(--accent); margin: 0 6px; font-size: 20px; font-family: 'Space Mono', monospace; }
+  .vc-1 { background: var(--green-bg); color: var(--green); border-color: var(--green); }
+  .vc-2 { background: var(--blue-bg); color: var(--blue); border-color: var(--blue); }
+  .vc-3 { background: var(--purple-bg); color: var(--purple); border-color: var(--purple); }
+  .vc-4 { background: var(--orange-bg); color: var(--orange); border-color: var(--orange); }
+
+  .stats { display: flex; gap: 36px; margin-top: 24px; }
+  .stat { font-size: 11px; color: var(--text-3); font-family: 'Space Mono', monospace; text-transform: uppercase; letter-spacing: 1px; }
+  .stat strong { font-size: 24px; color: var(--accent-dark); font-weight: 700; display: block; font-family: 'Barlow Condensed', sans-serif; letter-spacing: 0; }
+
+  /* Section */
+  .section { margin-bottom: 48px; }
+  .section-head { font-family: 'Space Mono', monospace; font-size: 11px; text-transform: uppercase; letter-spacing: 3px; color: var(--accent); margin-bottom: 16px; font-weight: 700; padding-left: 12px; border-left: 3px solid var(--accent); }
+
+  /* Flow */
+  .flow { display: flex; flex-direction: column; align-items: center; padding: 16px 0; gap: 2px; }
+  .flow .pipe { width: 2px; height: 22px; background: var(--accent); }
+  .flow .arrow { width: 0; height: 0; border-left: 6px solid transparent; border-right: 6px solid transparent; border-top: 8px solid var(--accent); }
+  .flow .label { font-size: 10px; color: var(--accent); margin-top: 4px; font-family: 'Space Mono', monospace; font-weight: 700; letter-spacing: 1px; }
+
+  /* Source cards */
+  .sources { display: grid; grid-template-columns: repeat(auto-fill, minmax(165px, 1fr)); gap: 12px; }
+  .src-card { background: var(--bg-card); border: 1.5px solid var(--border); border-radius: 3px; padding: 16px; transition: border-color 0.3s; }
+  .src-card:hover { border-color: var(--accent); }
+  .src-card .name { font-weight: 700; font-size: 15px; margin-bottom: 4px; color: var(--accent-dark); }
+  .src-card .api { font-family: 'Space Mono', monospace; font-size: 9px; color: var(--accent); background: var(--blue-bg); padding: 2px 6px; border-radius: 2px; float: right; text-transform: uppercase; letter-spacing: 0.5px; font-weight: 700; }
+  .src-card .desc { font-size: 12px; color: var(--text-2); line-height: 1.6; margin-top: 6px; }
+  .src-card .icon { font-size: 20px; margin-bottom: 8px; display: block; }
+
+  /* Engine */
+  .engine { background: var(--bg-card); border: 2px solid var(--purple); border-radius: 4px; padding: 28px; position: relative; }
+  .engine::before { content: 'PROCESSING PIPELINE'; position: absolute; top: -10px; left: 20px; background: var(--bg-card); padding: 0 10px; font-family: 'Space Mono', monospace; font-size: 10px; letter-spacing: 3px; color: var(--purple); font-weight: 700; }
+  .engine-title { font-family: 'Space Mono', monospace; font-size: 10px; text-transform: uppercase; letter-spacing: 2px; color: var(--purple); margin-bottom: 20px; font-weight: 700; }
+  .stage { background: var(--bg); border: 1.5px solid var(--border); border-radius: 3px; padding: 14px 16px; margin-bottom: 8px; }
+  .stage:last-child { margin-bottom: 0; }
+  .stage-head { display: flex; align-items: center; gap: 10px; }
+  .stage-n { width: 24px; height: 24px; border-radius: 2px; background: var(--purple); color: #fff; font-size: 11px; font-weight: 700; display: flex; align-items: center; justify-content: center; font-family: 'Space Mono', monospace; }
+  .stage-name { font-weight: 700; font-size: 14px; color: var(--accent-dark); }
+  .stage-model { margin-left: auto; font-family: 'Space Mono', monospace; font-size: 9px; color: var(--green); background: var(--green-bg); padding: 2px 8px; border-radius: 2px; font-weight: 700; text-transform: uppercase; }
+  .stage-desc { font-size: 12.5px; color: var(--text-2); margin-top: 4px; padding-left: 34px; }
+  .stage-arrow { text-align: center; color: var(--purple); font-size: 13px; padding: 2px 0; font-family: 'Space Mono', monospace; }
+
+  /* Infra */
+  .infra-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; }
+  .infra-card { background: var(--bg-card); border: 1.5px solid var(--border); border-radius: 3px; padding: 16px; }
+  .infra-card .label { font-family: 'Space Mono', monospace; font-size: 9px; text-transform: uppercase; letter-spacing: 2px; color: var(--accent); margin-bottom: 6px; font-weight: 700; }
+  .infra-card .val { font-weight: 700; font-size: 15px; color: var(--accent-dark); margin-bottom: 4px; }
+  .infra-card .detail { font-size: 12px; color: var(--text-2); line-height: 1.55; }
+
+  /* Limits */
+  .limits { display: flex; gap: 14px; }
+  .limits > div { flex: 1; border-radius: 3px; padding: 20px; }
+  .limits-bad { background: var(--rose-bg); border: 1.5px solid var(--rose); }
+  .limits-good { background: var(--green-bg); border: 1.5px solid var(--green); }
+  .limits h4 { font-size: 14px; margin-bottom: 12px; font-family: 'Space Mono', monospace; text-transform: uppercase; letter-spacing: 1px; }
+  .limits-bad h4 { color: var(--rose); }
+  .limits-good h4 { color: var(--green); }
+  .lim-item { padding: 7px 0; border-bottom: 1px solid rgba(0,0,0,0.06); }
+  .lim-item:last-child { border-bottom: none; }
+  .lim-item .t { font-weight: 600; font-size: 13px; color: var(--text); }
+  .lim-item .d { font-size: 12px; color: var(--text-2); }
+
+  .footer { text-align: center; padding: 40px 0; color: var(--text-3); font-size: 10px; font-family: 'Space Mono', monospace; letter-spacing: 2px; text-transform: uppercase; }
+</style>
+</head>
+<body>
+<div class="page">
+  <div class="header">
+    <h1>AI Frontier <span>Insight</span></h1>
+    <div class="sub">// 自动化 AI 前沿情报采集、分析与推送系统</div>
+    <div class="value-chain">
+      <div class="vc-node vc-1">数据源</div><span class="vc-arr">&rarr;</span>
+      <div class="vc-node vc-2">信号</div><span class="vc-arr">&rarr;</span>
+      <div class="vc-node vc-3">洞察</div><span class="vc-arr">&rarr;</span>
+      <div class="vc-node vc-4">预判</div>
+    </div>
+    <div class="stats">
+      <div class="stat"><strong>5</strong>数据源</div>
+      <div class="stat"><strong>100-350</strong>原始/日</div>
+      <div class="stat"><strong>10</strong>条信号</div>
+      <div class="stat"><strong>1</strong>份日报</div>
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="section-head">数据源层</div>
+    <div class="sources">
+      <div class="src-card"><span class="icon">&#x1D54F;</span><span class="api">x-monitor</span><div class="name">X / Twitter</div><div class="desc">~200 个账号 · X List + Playwright<br>API 响应拦截 · 2-5h 随机调度</div></div>
+      <div class="src-card"><span class="icon">&#x1F4E1;</span><span class="api">23 feeds</span><div class="name">RSS</div><div class="desc">9 个分组 · 并行抓取<br>24h 时间窗口</div></div>
+      <div class="src-card"><span class="icon">&#x2666;</span><span class="api">REST API</span><div class="name">GitHub</div><div class="desc">Trending 6 个 AI topic<br>Releases 12 个核心仓库</div></div>
+      <div class="src-card"><span class="icon">&#x1F4C4;</span><span class="api">API</span><div class="name">ArXiv</div><div class="desc">5 个类别 · 每日 &le;25 篇</div></div>
+      <div class="src-card"><span class="icon">&#x1F917;</span><span class="api">HF API</span><div class="name">HuggingFace</div><div class="desc">热门模型 (15) · 新模型 (10)<br>热门 Spaces (10)</div></div>
+    </div>
+  </div>
+
+  <div class="flow"><div class="pipe"></div><div class="arrow"></div><span class="label">100-350 RawItem / Day</span></div>
+
+  <div class="section">
+    <div class="engine">
+      <div class="engine-title">AI 分析引擎 — 四步流水线</div>
+      <div class="stage"><div class="stage-head"><span class="stage-n">1</span><span class="stage-name">信号提取</span><span class="stage-model">DeepSeek V3</span></div><div class="stage-desc">合并 · 去重 · 按重要性排序 · 参考已有趋势评估新颖度</div></div>
+      <div class="stage-arrow">|</div>
+      <div class="stage"><div class="stage-head"><span class="stage-n">2</span><span class="stage-name">洞察生成</span><span class="stage-model">DeepSeek V3</span></div><div class="stage-desc">信号 → 洞察 → 预判（逐条生成）· 上下文: 趋势轨迹 + 历史预测</div></div>
+      <div class="stage-arrow">|</div>
+      <div class="stage"><div class="stage-head"><span class="stage-n">3</span><span class="stage-name">趋势总结</span><span class="stage-model">DeepSeek V3</span></div><div class="stage-desc">跨来源模式识别 · 发现未被明确表述的趋势</div></div>
+      <div class="stage-arrow">|</div>
+      <div class="stage"><div class="stage-head"><span class="stage-n">4</span><span class="stage-name">趋势更新</span><span class="stage-model">DeepSeek V3</span></div><div class="stage-desc">更新轨迹: 加速 → 稳定 → 衰退 → 消退 · 最多 50 条</div></div>
+    </div>
+  </div>
+
+  <div class="flow"><div class="pipe"></div><div class="arrow"></div></div>
+
+  <div class="section">
+    <div class="section-head">基础设施</div>
+    <div class="infra-grid">
+      <div class="infra-card"><div class="label">调度</div><div class="val">macOS launchd</div><div class="detail">日报 09:30 · x-monitor 每 30 分钟<br>周报 每周一 8:00 AM</div></div>
+      <div class="infra-card"><div class="label">AI 模型</div><div class="val">DeepSeek V3</div><div class="detail">日报全流程主力模型<br>备选 Claude Sonnet + Haiku</div></div>
+      <div class="infra-card"><div class="label">技术栈</div><div class="val">Python · YAML · JSON</div><div class="detail">Playwright 爬虫<br>JSON 记忆 + git 管理</div></div>
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="section-head">局限性与改进方向</div>
+    <div class="limits">
+      <div class="limits-bad"><h4>Limitations</h4>
+        <div class="lim-item"><div class="t">X 采集依赖 Playwright</div><div class="d">Cookie 过期可能中断</div></div>
+        <div class="lim-item"><div class="t">本地部署依赖电脑开机</div><div class="d">关机无法采集</div></div>
+        <div class="lim-item"><div class="t">DeepSeek V3 稳定性</div><div class="d">偶发错误</div></div>
+      </div>
+      <div class="limits-good"><h4>Roadmap</h4>
+        <div class="lim-item"><div class="t">X API 替代爬虫</div><div class="d">消除 Cookie 问题</div></div>
+        <div class="lim-item"><div class="t">云端部署</div><div class="d">7×24 运行</div></div>
+        <div class="lim-item"><div class="t">来源自动化管理</div><div class="d">自动发现/评分/淘汰</div></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer">AI Frontier Insight · Blueprint Engineering Style</div>
+</div>
+</body>
+</html>

@@ -5,8 +5,9 @@
 # 时间线（以 send_hour=10:00 为例）：
 #   09:30  launchd 触发本脚本
 #   09:30  采集 + AI 分析（约 3-5 分钟）
+#   09:35  发送草稿到测试频道供审核
 #   09:35  等待到 10:00
-#   10:00  发送日报到 webhook
+#   10:00  发送日报到全部频道
 
 set -euo pipefail
 
@@ -51,7 +52,15 @@ else
     exit 1
 fi
 
-# Step 2: 等待到发送时间
+# Step 2: 发送草稿到测试频道供审核
+log "Step 2: 发送草稿到测试频道..."
+if /usr/bin/python3 -m src.main send-daily --alert-only >> "$LOG" 2>&1; then
+    log "测试频道发送完成，等待审核"
+else
+    log "[!] 测试频道发送失败"
+fi
+
+# Step 3: 等待到发送时间
 SEND_HOUR=$(/usr/bin/python3 -c "
 import yaml
 cfg = yaml.safe_load(open('$DIR/config/settings.yaml'))
@@ -69,14 +78,14 @@ NOW=$(date "+%s")
 
 if [ "$TARGET" -gt "$NOW" ]; then
     WAIT=$((TARGET - NOW))
-    log "Step 2: 等待 ${WAIT} 秒到 ${SEND_HOUR}:$(printf '%02d' $SEND_MIN) 发送..."
+    log "Step 3: 等待 ${WAIT} 秒到 ${SEND_HOUR}:$(printf '%02d' $SEND_MIN) 发送..."
     sleep "$WAIT"
 else
-    log "Step 2: 已过发送时间，立即发送"
+    log "Step 3: 已过发送时间，立即发送"
 fi
 
-# Step 3: 发送
-log "Step 3: 发送日报..."
+# Step 4: 发送到全部频道
+log "Step 4: 发送日报..."
 if /usr/bin/python3 -m src.main send-daily >> "$LOG" 2>&1; then
     log "发送完成"
 else
@@ -85,7 +94,7 @@ else
     exit 1
 fi
 
-# Step 4: 提交 draft 和 memory 到 git
+# Step 5: 提交 draft 和 memory 到 git
 log "Step 4: 提交到 Git..."
 cd "$DIR"
 /usr/bin/git add config/drafts/ memory/ data/daily/ 2>/dev/null || true

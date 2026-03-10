@@ -111,6 +111,8 @@ github:
     - "All-Hands-AI/OpenHands"
     - "browser-use/browser-use"
     - "Significant-Gravitas/AutoGPT"
+    # Benchmarks
+    - "princeton-nlp/SWE-bench"
 
 # ═══════════════════════════════════════════════════
 # Arxiv
@@ -256,4 +258,22 @@ rss:
     - url: "https://lilianweng.github.io/index.xml"
       name: "Lil'Log (Lilian Weng)"
       group: "research_blog"
+      enabled: true
+
+    # ── Benchmark / Leaderboard ──
+    - url: "https://blog.lmarena.ai/feed"
+      name: "LMSYS Arena Blog"
+      group: "benchmark"
+      enabled: true
+    - url: "https://scale.com/blog/rss.xml"
+      name: "Scale AI Blog"
+      group: "benchmark"
+      enabled: true
+    - url: "https://aider.chat/feed.xml"
+      name: "Aider Leaderboard"
+      group: "benchmark"
+      enabled: true
+    - url: "https://arcprize.org/feed"
+      name: "ARC Prize"
+      group: "benchmark"
       enabled: true

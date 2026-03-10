@@ -83,6 +83,11 @@ def _collect_all() -> list:
     except Exception as e:
         print(f"  HuggingFace collector error: {e}")
 
+    # Benchmarks (disabled — waiting for user approval before adding to daily brief)
+    # from .collectors.benchmarks import BenchmarkCollector
+    # bench = BenchmarkCollector()
+    # all_items.extend(bench.collect())
+
     print(f"\n=== Total collected: {len(all_items)} items ===")
     return all_items
 
@@ -152,16 +157,25 @@ def cmd_daily():
 
 
 def cmd_send_daily():
-    """Send today's daily brief via webhook (two messages)."""
+    """Send today's daily brief via webhook (two messages).
+
+    Options:
+        --alert-only    Only send to alert/test channels
+    """
+    alert_only = "--alert-only" in sys.argv
     today = _get_today()
-    print(f"=== Sending Daily Brief: {today} ===")
+
+    if alert_only:
+        print(f"=== Sending Daily Brief (TEST ONLY): {today} ===")
+    else:
+        print(f"=== Sending Daily Brief: {today} ===")
 
     draft = load_draft(today, "daily")
     if not draft:
         print(f"No draft found for {today}")
         sys.exit(1)
 
-    if draft.get("status") == "sent":
+    if draft.get("status") == "sent" and not alert_only:
         print(f"Already sent for {today}")
         return
 
@@ -177,14 +191,15 @@ def cmd_send_daily():
     for i, msg in enumerate(messages, 1):
         is_last = (i == len(messages))
         print(f"Message {i}/{len(messages)}: {len(msg)} chars, {len(msg.encode('utf-8'))} bytes")
-        success = send_webhook(msg, mention_all=is_last)
+        success = send_webhook(msg, mention_all=(is_last and not alert_only), alert_only=alert_only)
         if not success:
             print(f"Failed to send message {i}")
             sys.exit(1)
         if not is_last:
             time.sleep(1)
 
-    update_draft_status(today, "sent", "daily")
+    if not alert_only:
+        update_draft_status(today, "sent", "daily")
     print("Daily brief sent successfully!")
 
 
