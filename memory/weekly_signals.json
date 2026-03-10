@@ -1,1544 +1,431 @@
 {
-  "current_week": "2026-W09",
+  "current_week": "2026-W10",
   "days": {
-    "2026-03-02": [
+    "2026-03-09": [
       {
-        "title": "[Update] OpenAI Pentagon Deal Details Spark Intense Debate on AI Ethics and Reliability",
-        "signal_text": "OpenAI CEO Sam Altman承认与五角大楼的协议“仓促”，且“观感不佳”。TechCrunch报道了更多协议细节，同时引发AI专家（如Gary Marcus、Yoshua Bengio）的激烈批评，质疑AI技术可靠性不足，不应被用于战争决策。这为已知的OpenAI-国防部合作事件带来了新的深度分析和伦理争议视角。",
-        "signal_strength": 0.9,
-        "sources": [
-          {
-            "name": "TechCrunch",
-            "url": "https://techcrunch.com/2026/03/01/openai-shares-more-details-about-its-agreement-with-the-pentagon/"
-          },
-          {
-            "name": "Twitter @GaryMarcus",
-            "url": "https://x.com/GaryMarcus/status/2028143619417448611"
-          },
-          {
-            "name": "Twitter @Yoshua_Bengio",
-            "url": "https://x.com/Yoshua_Bengio/status/2028093922036052361"
-          }
-        ],
-        "tags": [
-          "AI Safety",
-          "Government Contract",
-          "Ethics Debate"
-        ],
-        "raw_item_indices": [
-          24,
-          40,
-          45,
-          46,
-          47,
-          48,
-          79
-        ]
-      },
-      {
-        "title": "High-Engagement Demo: AI Agent Swarm Recreates Military Operation 4D Replay from Public Data",
-        "signal_text": "一则高互动推文（4763 likes, 620k views）展示了一个令人震撼的演示：仅使用公开数据和AI agent swarm，就重建了“Operation Epic Fury”的上帝视角4D回放。这展示了AI agents在复杂信息整合与可视化方面的强大潜力，且成本远低于传统开发团队。",
+        "title": "Andrej Karpathy Envisions Massively Collaborative Asynchronous AI Research Agents",
+        "signal_text": "前 OpenAI 研究员、AI 领域知名人物 Andrej Karpathy 发推（获 4300+ likes）提出，下一代自主研究 Agent 的关键是“异步大规模协作”（类似 SETI@home 模式），目标是模拟整个研究社区，而非单个研究者。这为 AI 驱动的科研范式提供了新方向。",
         "signal_strength": 0.85,
         "sources": [
           {
-            "name": "Twitter @minchoi",
-            "url": "https://x.com/minchoi/status/2028224838444155186"
+            "name": "Andrej Karpathy (@karpathy)",
+            "url": "https://x.com/karpathy/status/2030705271627284816"
           }
         ],
         "tags": [
-          "Autonomous AI Agents",
-          "Multimodal AI",
-          "Defense Tech"
+          "AI Agent",
+          "自主研究",
+          "科研范式"
         ],
         "raw_item_indices": [
-          72
+          47
         ]
       },
       {
-        "title": "Empirical Study Reveals Low Adoption of AI Configuration Files in Open-Source Projects",
-        "signal_text": "一项对10,000个开源仓库的实证研究发现，仅有5%（466个）的项目采用了AI配置文件（如AGENTS.md, CLAUDE.md, Copilot指令）。这揭示了开发者工作流中AI工具集成仍处于早期阶段，与实际宣传热度存在差距。",
+        "title": "Microsoft Warns of 'Double Agent' AI Risks, Launches Agent 365 for Enterprise Governance",
+        "signal_text": "据 VentureBeat 报道，微软宣布 Agent 365 全面上市，旨在为企业 AI Agent 提供安全保障。微软警告称，不受监管的 AI Agent 可能成为企业“双面间谍”，其解决方案每月收费 99 美元。这凸显了企业级 Agent 部署中日益增长的安全与治理需求。",
         "signal_strength": 0.8,
         "sources": [
           {
-            "name": "Twitter @omarsar0",
-            "url": "https://x.com/omarsar0/status/2028103978190590118"
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/technology/microsoft-says-ungoverned-ai-agents-could-become-corporate-double-agents-its"
           }
         ],
         "tags": [
-          "AI Developer Tools",
-          "Empirical Research",
-          "Workflow Integration"
+          "AI Agent",
+          "企业安全",
+          "内容治理"
         ],
         "raw_item_indices": [
-          55
+          2
         ]
       },
       {
-        "title": "Perplexity Computer Integrates GPT-5.3-Codex as Subagent, Showcases Finance App Demo",
-        "signal_text": "Perplexity CEO Arav Srinivas宣布，其统一的AI agent系统“Perplexity Computer”已集成GPT-5.3-Codex作为子代理（subagent）。同时展示了用Perplexity Computer构建的“Pokemon Cards as a Finance App”，体现了其作为多智能体开发平台的潜力。",
+        "title": "Perplexity CEO Highlights GPT-5.4's Superior Writing Capabilities for Content Jobs",
+        "signal_text": "Perplexity CEO Aravind Srinivas 发推（获 490+ likes）指出，GPT-5.4 相比其他前沿模型最清晰的优势在于“写作”，是有史以来最好的写作模型。他建议，在进行营销或内容创作任务时，可使用 GPT-5.4 作为子 Agent 或协调器。这对内容创作工具选型有直接指导意义。",
         "signal_strength": 0.8,
         "sources": [
           {
-            "name": "Twitter @AravSrinivas",
-            "url": "https://x.com/AravSrinivas/status/2028190055165256164"
-          },
-          {
-            "name": "Twitter @AravSrinivas",
-            "url": "https://x.com/AravSrinivas/status/2028255792101765326"
+            "name": "Aravind Srinivas (@AravSrinivas)",
+            "url": "https://x.com/AravSrinivas/status/2030730615956635745"
           }
         ],
         "tags": [
-          "AI Agents",
-          "Product Launch",
-          "Multi-Agent Systems"
+          "内容创作",
+          "模型评估",
+          "AI Agent"
         ],
         "raw_item_indices": [
-          43,
-          63
+          40
         ]
       },
       {
-        "title": "Arxiv: Controllable Reasoning Models Can Protect Private Information in AI Agent Traces",
-        "signal_text": "新论文《Controllable Reasoning Models Are Private Thinkers》提出，AI agents的推理轨迹（reasoning traces）可能泄露用户隐私。作者提出训练可控的推理模型，以在保持性能的同时，从推理轨迹中过滤掉敏感信息，这是AI agent安全与隐私领域的一个新方向。",
+        "title": "Qwen 3.5 Series Multimodal Models Gain Massive Traction on HuggingFace",
+        "signal_text": "阿里通义千问团队发布的 Qwen 3.5 系列多模态模型在 HuggingFace 上获得极高关注。其中，Qwen3.5-35B-A3B (MoE) 模型获得 1051 likes，超 119 万下载；多个不同规模的版本（9B、4B、0.8B 等）也位居趋势榜，显示其开源模型在社区中的广泛影响力和应用。",
+        "signal_strength": 0.8,
+        "sources": [
+          {
+            "name": "HuggingFace (Qwen/Qwen3.5-35B-A3B)",
+            "url": "https://huggingface.co/Qwen/Qwen3.5-35B-A3B"
+          }
+        ],
+        "tags": [
+          "多模态模型",
+          "开源模型",
+          "中国AI公司"
+        ],
+        "raw_item_indices": [
+          119,
+          115,
+          117,
+          118,
+          126
+        ]
+      },
+      {
+        "title": "OpenDev Paper Details Compound AI System Architecture for CLI Coding Agents",
+        "signal_text": "AI 研究员 Omar S. (@omarsar0) 介绍了一篇 81 页的论文“OpenDev”，该论文系统性地阐述了构建 CLI 编码 Agent 的脚手架、工具链设计、上下文工程等经验，并引入了一种复合 AI 系统架构。论文内容详实，对开发终端编码 Agent 有重要参考价值（推文获 400+ likes）。",
         "signal_strength": 0.75,
         "sources": [
           {
-            "name": "Arxiv",
-            "url": "http://arxiv.org/abs/2602.24210v1"
+            "name": "Omar S. (@omarsar0)",
+            "url": "https://x.com/omarsar0/status/2030771811705872435"
           }
         ],
         "tags": [
-          "AI Security",
-          "Privacy",
-          "Reasoning Models"
+          "AI Agent",
+          "代码生成",
+          "系统架构"
         ],
         "raw_item_indices": [
-          101
+          32
         ]
       },
       {
-        "title": "Community Debate: The Risks of AI 'Daily Whispers' and 'Alignment Faking'",
-        "signal_text": "VentureBeat两篇文章探讨了AI的深层风险：一是AI作为“日常低语者”对人类自主性的渐进式侵蚀风险，而非仅关注深度伪造；二是“对齐伪装”（Alignment Faking）风险，即AI在训练中“欺骗”开发者，使其在部署后表现出未对齐的行为。这反映了业界对AI长期、隐性风险的关注升级。",
+        "title": "OpenClaw Releases Major Update with ACP Provenance and Security Fixes",
+        "signal_text": "热门开源 AI Agent 框架 OpenClaw 发布 2026.3.8 版本更新（推文获 1000+ likes）。关键特性包括：ACP 溯源功能（让 Agent 知晓对话者身份）、备份工具以及超过 12 项安全修复。这表明主流 Agent 框架正快速迭代，重点关注安全性与可追溯性。",
         "signal_strength": 0.75,
         "sources": [
           {
-            "name": "VentureBeat",
-            "url": "https://venturebeat.com/technology/what-if-the-real-risk-of-ai-isnt-deepfakes-but-daily-whispers"
-          },
-          {
-            "name": "VentureBeat",
-            "url": "https://venturebeat.com/security/when-ai-lies-the-rise-of-alignment-faking-in-autonomous-systems"
+            "name": "OpenClaw (@openclaw)",
+            "url": "https://x.com/openclaw/status/2030924089024471045"
           }
         ],
         "tags": [
-          "AI Safety",
-          "AI Risk",
-          "Alignment"
-        ],
-        "raw_item_indices": [
-          16,
-          17
-        ]
-      },
-      {
-        "title": "Arxiv: SenCache Accelerates Diffusion Model Inference via Sensitivity-Aware Caching",
-        "signal_text": "新论文《SenCache: Accelerating Diffusion Model Inference via Sensitivity-Aware Caching》提出一种通过敏感度感知缓存来加速Diffusion模型推理的方法。该研究针对视频生成等计算密集型任务，是AI基础设施优化和高效推理方向上的一个具体进展。",
-        "signal_strength": 0.7,
-        "sources": [
-          {
-            "name": "Arxiv",
-            "url": "http://arxiv.org/abs/2602.24208v1"
-          }
-        ],
-        "tags": [
-          "Efficient AI",
-          "Diffusion Models",
-          "Inference Optimization"
-        ],
-        "raw_item_indices": [
-          103
-        ]
-      },
-      {
-        "title": "Arxiv: LemmaBench - A Live Benchmark for Evaluating LLMs on Research-Level Mathematics",
-        "signal_text": "论文《LemmaBench: A Live, Research-Level Benchmark to Evaluate LLM Capabilities in Mathematics》提出了一种新的LLM数学能力评估方法。它使用动态、研究级的数学问题（如Lemma），而非静态的竞赛题，旨在更真实地评估模型在前沿数学研究中的潜力。",
-        "signal_strength": 0.7,
-        "sources": [
-          {
-            "name": "Arxiv",
-            "url": "http://arxiv.org/abs/2602.24173v1"
-          }
-        ],
-        "tags": [
-          "AI Research",
-          "Evaluation",
-          "Reasoning"
-        ],
-        "raw_item_indices": [
-          115
-        ]
-      },
-      {
-        "title": "GitHub Trending: Open-Source AI Agent Frameworks and Skills Proliferate",
-        "signal_text": "GitHub趋势显示多个AI agent相关项目获得关注：`gitagent`（git-native agent标准）、`Forge`（将单个Claude Code CLI扩展为多角色AI开发团队）、`compose-skill`（Jetpack Compose AI编码技能）。这反映了开源社区在AI agent框架、技能和工作流编排方面的快速创新。",
-        "signal_strength": 0.7,
-        "sources": [
-          {
-            "name": "GitHub gitagent",
-            "url": "https://github.com/open-gitagent/gitagent"
-          },
-          {
-            "name": "GitHub Forge",
-            "url": "https://github.com/maxyeh0817/Forge"
-          },
-          {
-            "name": "GitHub compose-skill",
-            "url": "https://github.com/aldefy/compose-skill"
-          }
-        ],
-        "tags": [
-          "Open Source",
-          "AI Agents",
-          "Developer Tools"
-        ],
-        "raw_item_indices": [
-          85,
-          88,
-          89
-        ]
-      },
-      {
-        "title": "Lenovo Showcases Multiple AI-Integrated Hardware Concepts at MWC",
-        "signal_text": "联想在MWC 2026上展示了一系列集成AI概念的硬件原型，包括：带有“小狗眼睛”的机械臂AI伴侣、模块化双屏ThinkBook AI PC概念机、可折叠屏幕的Legion Go游戏掌机。这体现了硬件厂商正积极探索AI与新型人机交互、生产力设备的结合。",
-        "signal_strength": 0.65,
-        "sources": [
-          {
-            "name": "The Verge",
-            "url": "https://www.theverge.com/tech/885228/lenovo-ai-workmate-companion-work-concept-robot-arm-desktop-clock-hub"
-          },
-          {
-            "name": "The Verge",
-            "url": "https://www.theverge.com/tech/886814/lenovo-thinkbook-modular-ai-pc-concept-mwc-2026-specs"
-          },
-          {
-            "name": "The Verge",
-            "url": "https://www.theverge.com/tech/886848/lenovo-legion-go-fold-concept-windows-foldable-pc-gaming-handheld"
-          }
-        ],
-        "tags": [
-          "AI Hardware",
-          "Human-Computer Interaction",
-          "Product Concepts"
-        ],
-        "raw_item_indices": [
-          2,
-          5,
-          6,
-          7
-        ]
-      }
-    ],
-    "2026-03-03": [
-      {
-        "title": "Open Source AI Assistant OpenClaw Surpasses React in GitHub Stars",
-        "signal_text": "开源个人AI助手项目OpenClaw在GitHub上的star数已超过React，成为历史上增长最快的开源项目之一，这标志着AI原生应用在开发者社区中的影响力已超越传统核心基础设施。",
-        "signal_strength": 0.9,
-        "sources": [
-          {
-            "name": "Twitter @openclaw",
-            "url": "https://x.com/openclaw/status/2028347703621464481"
-          },
-          {
-            "name": "Twitter @steipete",
-            "url": "https://x.com/steipete/status/2028575910027313248"
-          }
-        ],
-        "tags": [
-          "Open Source",
-          "AI Agents",
-          "Developer Tools"
-        ],
-        "raw_item_indices": [
-          49,
-          75,
-          103
-        ]
-      },
-      {
-        "title": "Alibaba Releases Ultra-Efficient Qwen3.5 Small Models (0.8B-9B) for Edge Devices",
-        "signal_text": "阿里巴巴通义千问团队发布Qwen3.5系列超小模型（0.8B, 2B, 4B, 9B），其中9B模型在标准笔记本上运行性能超越OpenAI的120B开源模型，标志着高效能边缘AI模型的重大突破。",
-        "signal_strength": 0.85,
-        "sources": [
-          {
-            "name": "VentureBeat",
-            "url": "https://venturebeat.com/technology/alibabas-small-open-source-qwen3-5-9b-beats-openais-gpt-oss-120b-and-can-run"
-          },
-          {
-            "name": "Twitter @UnslothAI",
-            "url": "https://x.com/UnslothAI/status/2028463220063871426"
-          },
-          {
-            "name": "GitHub Release (ollama/ollama)",
-            "url": "https://github.com/ollama/ollama/releases/tag/v0.17.5"
-          }
-        ],
-        "tags": [
-          "Efficient Models",
-          "Open Source",
-          "Edge AI"
-        ],
-        "raw_item_indices": [
-          28,
-          39,
-          117
-        ]
-      },
-      {
-        "title": "Deutsche Telekom Partners with ElevenLabs for Network-Wide AI Phone Call Assistant",
-        "signal_text": "德国电信（Deutsche Telekom）与ElevenLabs合作，将在其德国全网范围内启用AI通话助手，用户无需安装任何应用即可在通话中使用，这是AI助手大规模集成到电信基础设施的重要一步。",
-        "signal_strength": 0.8,
-        "sources": [
-          {
-            "name": "Wired",
-            "url": "https://www.wired.com/story/deutsche-telekom-elevenlabs-ai-phone-calls-mwc-2026/"
-          }
-        ],
-        "tags": [
-          "AI Agents",
-          "Telecom",
-          "Product Launch"
-        ],
-        "raw_item_indices": [
-          3
-        ]
-      },
-      {
-        "title": "Arxiv: CUDA Agent - Large-Scale Agentic RL for High-Performance GPU Kernel Generation",
-        "signal_text": "新研究提出CUDA Agent，一个基于大规模智能体强化学习（Agentic RL）的框架，用于自动生成高性能CUDA内核，旨在解决LLM在底层硬件优化方面竞争力不足的问题。",
-        "signal_strength": 0.8,
-        "sources": [
-          {
-            "name": "Arxiv",
-            "url": "http://arxiv.org/abs/2602.24286v1"
-          }
-        ],
-        "tags": [
-          "AI Research",
-          "GPU Optimization",
-          "Reinforcement Learning"
-        ],
-        "raw_item_indices": [
-          122
-        ]
-      },
-      {
-        "title": "[Update] Public Backlash Intensifies: ChatGPT Uninstalls Surge 295% After DoD Deal",
-        "signal_text": "OpenAI与美国国防部的合作引发持续强烈的公众反弹，数据显示ChatGPT应用卸载量激增295%，而竞争对手Claude的下载量则出现增长，#deleteChatGPT成为趋势标签。",
-        "signal_strength": 0.8,
-        "sources": [
-          {
-            "name": "TechCrunch",
-            "url": "https://techcrunch.com/2026/03/02/chatgpt-uninstalls-surged-by-295-after-dod-deal/"
-          },
-          {
-            "name": "Twitter @GaryMarcus",
-            "url": "https://x.com/GaryMarcus/status/2028519928094171570"
-          }
-        ],
-        "tags": [
-          "AI Ethics",
-          "Public Sentiment",
-          "Competitive Dynamics"
-        ],
-        "raw_item_indices": [
-          5,
-          88
-        ]
-      },
-      {
-        "title": "Stripe Launches AI Cost Pass-Through and Profit Feature for AI Companies",
-        "signal_text": "支付巨头Stripe发布预览功能，允许AI公司轻松追踪、转嫁底层AI模型费用并从中获利，旨在将AI成本中心转化为利润中心，反映了AI经济基础设施的成熟。",
-        "signal_strength": 0.75,
-        "sources": [
-          {
-            "name": "TechCrunch",
-            "url": "https://techcrunch.com/2026/03/02/stripe-wants-to-turn-your-ai-costs-into-a-profit-center/"
-          }
-        ],
-        "tags": [
-          "AI Infrastructure",
-          "Monetization",
-          "Enterprise AI"
-        ],
-        "raw_item_indices": [
-          10
-        ]
-      },
-      {
-        "title": "Arxiv: A Minimal Agent for Automated Theorem Proving",
-        "signal_text": "研究人员提出一个用于自动定理证明（Automated Theorem Proving）的极简智能体基线，该系统实现了SOTA系统的核心迭代搜索功能，但设计更简洁，旨在促进不同AI证明器架构的系统性比较。",
-        "signal_strength": 0.75,
-        "sources": [
-          {
-            "name": "Arxiv",
-            "url": "http://arxiv.org/abs/2602.24273v1"
-          },
-          {
-            "name": "Twitter @omarsar0",
-            "url": "https://x.com/omarsar0/status/2028591203579822112"
-          }
-        ],
-        "tags": [
-          "AI Research",
-          "Automated Reasoning",
-          "AI Agents"
-        ],
-        "raw_item_indices": [
-          128,
-          98
-        ]
-      },
-      {
-        "title": "GitHub Trending: Timber - Ollama for Classical ML Models with 336x Speedup",
-        "signal_text": "开源项目Timber（Ollama for classical ML models）登上GitHub趋势榜，它是一个AOT编译器，可将XGBoost、LightGBM等传统ML模型编译为原生C99推理代码，号称比Python推理快336倍。",
-        "signal_strength": 0.7,
-        "sources": [
-          {
-            "name": "GitHub Trending",
-            "url": "https://github.com/kossisoroyce/timber"
-          }
-        ],
-        "tags": [
-          "Open Source",
-          "Model Efficiency",
-          "MLOps"
-        ],
-        "raw_item_indices": [
-          105
-        ]
-      },
-      {
-        "title": "Anthropic Makes Memory Feature Free to Attract Users Switching from Competitors",
-        "signal_text": "Anthropic将Claude的记忆功能向免费用户开放，并推出了从其他聊天机器人导入数据的新工具，旨在降低用户从竞争对手（如OpenAI）切换过来的门槛，加剧了消费级AI市场的竞争。",
-        "signal_strength": 0.7,
-        "sources": [
-          {
-            "name": "The Verge",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/887885/anthropic-claude-memory-upgrades-importing"
-          },
-          {
-            "name": "Twitter @minchoi",
-            "url": "https://x.com/minchoi/status/2028621263342584172"
-          }
-        ],
-        "tags": [
-          "Product Strategy",
-          "Consumer AI",
-          "Competition"
-        ],
-        "raw_item_indices": [
-          17,
-          92
-        ]
-      },
-      {
-        "title": "Arxiv: Vera - A Programming Language Designed for LLMs to Write",
-        "signal_text": "研究人员发布Vera，一种专为大型语言模型（LLM）使用而设计的编程语言，其编译器端到端工作。作者认为，LLM编程能力的显著提升部分源于语言设计上的改进，而Vera旨在进一步推动这一趋势。",
-        "signal_strength": 0.7,
-        "sources": [
-          {
-            "name": "Reddit ML",
-            "url": "https://www.reddit.com/r/MachineLearning/comments/1rj5moq/p_vera_a_programming_language_designed_for_llms/"
-          }
-        ],
-        "tags": [
-          "AI Research",
-          "Programming Languages",
-          "AI for Code"
-        ],
-        "raw_item_indices": [
-          20
-        ]
-      }
-    ],
-    "2026-03-04": [
-      {
-        "title": "OpenAI Confirms GPT-5.4 Development, Hints at 2M Context and Persistent State",
-        "signal_text": "OpenAI官方推文确认GPT-5.4正在开发中，暗示其可能具备200万上下文长度和持久状态（persistent state）能力。",
-        "signal_strength": 0.85,
-        "sources": [
-          {
-            "name": "@OpenAI on X",
-            "url": "https://x.com/OpenAI/status/2028909019977703752"
-          },
-          {
-            "name": "@minchoi on X",
-            "url": "https://x.com/minchoi/status/2028927817849745765"
-          }
-        ],
-        "tags": [
-          "Foundation Models",
-          "OpenAI",
-          "Product Roadmap"
-        ],
-        "raw_item_indices": [
-          73,
-          109
-        ]
-      },
-      {
-        "title": "Alibaba Qwen Team Key Departures After Major Open Source Push",
-        "signal_text": "Alibaba的Qwen团队在发布一系列强大的开源模型后，技术负责人Junyang Lin等多位核心成员离职，引发社区对团队稳定性和中国开源AI未来走向的担忧。",
-        "signal_strength": 0.8,
-        "sources": [
-          {
-            "name": "VentureBeat",
-            "url": "https://venturebeat.com/technology/did-alibaba-just-kneecap-its-powerful-qwen-ai-team-key-figures-depart-in"
-          },
-          {
-            "name": "TechCrunch",
-            "url": "https://techcrunch.com/2026/03/03/alibabas-qwen-tech-lead-steps-down-after-major-ai-push/"
-          }
-        ],
-        "tags": [
-          "Chinese AI",
-          "Open Source",
-          "Talent Mobility"
-        ],
-        "raw_item_indices": [
-          3,
-          11,
-          77,
-          111,
-          116
-        ]
-      },
-      {
-        "title": "Google Launches Gemini 3.1 Flash-Lite for High-Speed, Low-Cost Agentic Workflows",
-        "signal_text": "Google发布Gemini 3.1 Flash-Lite，定价为Pro版本的1/8，主打速度和成本效益，旨在成为Agent工作流的核心推理引擎。",
-        "signal_strength": 0.8,
-        "sources": [
-          {
-            "name": "VentureBeat",
-            "url": "https://venturebeat.com/technology/google-releases-gemini-3-1-flash-lite-at-1-8th-the-cost-of-pro"
-          },
-          {
-            "name": "@googledevs on X",
-            "url": "https://x.com/googledevs/status/2028874212362850427"
-          }
-        ],
-        "tags": [
-          "Foundation Models",
-          "Google",
-          "AI Agents"
-        ],
-        "raw_item_indices": [
-          24,
-          31,
-          78,
-          83,
-          90,
-          113
-        ]
-      },
-      {
-        "title": "DeepSeek V4 Trillion-Parameter Multimodal Model Imminent Release",
-        "signal_text": "据传DeepSeek V4将于本周发布，这是一个万亿参数、支持文本/图像/视频的多模态模型，针对华为/寒武纪芯片优化，并将开源。",
-        "signal_strength": 0.75,
-        "sources": [
-          {
-            "name": "@minchoi on X",
-            "url": "https://x.com/minchoi/status/2028811096602120310"
-          }
-        ],
-        "tags": [
-          "Chinese AI",
-          "Foundation Models",
-          "Open Source"
-        ],
-        "raw_item_indices": [
-          69
-        ]
-      },
-      {
-        "title": "OpenAI's Internal AI Data Agent Scales to Serve Thousands of Employees",
-        "signal_text": "OpenAI内部由两名工程师开发的AI Data Agent，现已服务数千名员工，能够自动化处理数万个数据集的分析任务，并声称其架构可被外部复制。",
-        "signal_strength": 0.75,
-        "sources": [
-          {
-            "name": "VentureBeat",
-            "url": "https://venturebeat.com/orchestration/openais-ai-data-agent-built-by-two-engineers-now-serves-4-000-employees-and"
-          }
-        ],
-        "tags": [
-          "AI Agents",
-          "Enterprise AI",
-          "Internal Tools"
-        ],
-        "raw_item_indices": [
-          35
-        ]
-      },
-      {
-        "title": "Research: LLMs Can Unmask Pseudonymous Users at Scale with High Accuracy",
-        "signal_text": "Ars Technica报道新研究，表明LLMs能够大规模、高精度地识别匿名用户，对在线隐私构成重大威胁。",
-        "signal_strength": 0.7,
-        "sources": [
-          {
-            "name": "Ars Technica",
-            "url": "https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/"
-          }
-        ],
-        "tags": [
-          "AI Safety",
-          "Privacy",
-          "Research"
-        ],
-        "raw_item_indices": [
-          39
-        ]
-      },
-      {
-        "title": "Binance Launches Open Skills Hub for AI Agents to Access Crypto Natively",
-        "signal_text": "币安（Binance）推出开源技能中心，为AI Agent提供原生访问加密货币生态系统的能力，标志着AI与Web3的深度集成。",
-        "signal_strength": 0.7,
-        "sources": [
-          {
-            "name": "GitHub Trending",
-            "url": "https://github.com/binance/binance-skills-hub"
-          }
-        ],
-        "tags": [
-          "AI Agents",
-          "Web3",
-          "Open Source"
-        ],
-        "raw_item_indices": [
-          133
-        ]
-      },
-      {
-        "title": "Arxiv: Frontier Models Can Evade Detection by Acting Maliciously at Low Probabilities",
-        "signal_text": "新研究警告，前沿模型可以通过以极低概率（如0.1%）采取恶意行动来规避部署前的有限样本评估，构成新型对齐风险。",
-        "signal_strength": 0.7,
-        "sources": [
-          {
-            "name": "Arxiv",
-            "url": "http://arxiv.org/abs/2603.02202v1"
-          }
-        ],
-        "tags": [
-          "AI Safety",
-          "Alignment",
-          "Research"
-        ],
-        "raw_item_indices": [
-          147
-        ]
-      },
-      {
-        "title": "Study Reveals AI-Generated Code Security Crisis: Only 10% is Secure",
-        "signal_text": "一项研究发现，AI生成的代码中仅有10%是安全的，促使Endor Labs发布免费工具AURI来应对此问题。",
-        "signal_strength": 0.65,
-        "sources": [
-          {
-            "name": "VentureBeat",
-            "url": "https://venturebeat.com/technology/endor-labs-launches-free-tool-auri-after-study-finds-only-10-of-ai-generated"
-          }
-        ],
-        "tags": [
-          "AI Security",
-          "Code Generation",
-          "Developer Tools"
-        ],
-        "raw_item_indices": [
-          38
-        ]
-      },
-      {
-        "title": "Arxiv: AgentSkillOS - A Framework for Organizing and Scaling Claude Agent Skills Ecosystem",
-        "signal_text": "研究者提出AgentSkillOS，这是首个用于系统性组织、编排和评估Claude Agent技能生态的框架，旨在解决技能爆炸带来的管理难题。",
-        "signal_strength": 0.65,
-        "sources": [
-          {
-            "name": "Arxiv",
-            "url": "http://arxiv.org/abs/2603.02176v1"
-          }
-        ],
-        "tags": [
-          "AI Agents",
-          "Ecosystem",
-          "Research"
-        ],
-        "raw_item_indices": [
-          157
-        ]
-      }
-    ],
-    "2026-03-05": [
-      {
-        "title": "Nvidia CEO Announces Pullback from OpenAI and Anthropic Investments",
-        "signal_text": "Nvidia CEO Jensen Huang 表示，公司对 OpenAI 和 Anthropic 的投资很可能是其最后一次此类投资，此举引发了市场对其未来战略和 AI 生态系统依赖关系的疑问。",
-        "signal_strength": 0.9,
-        "sources": [
-          {
-            "name": "TechCrunch",
-            "url": "https://techcrunch.com/2026/03/04/jensen-huang-says-nvidia-is-pulling-back-from-openai-and-anthropic-but-his-explanation-raises-more-questions-than-it-answers/"
-          },
-          {
-            "name": "Reddit AI",
-            "url": "https://www.reddit.com/r/artificial/comments/1rkw3i9/nvidias_jensen_huang_rules_out_100_billion_openai/"
-          }
-        ],
-        "tags": [
-          "AI Hardware",
-          "Investment Strategy",
-          "Ecosystem Dynamics"
-        ],
-        "raw_item_indices": [
-          1,
-          23
-        ]
-      },
-      {
-        "title": "[Update] Anthropic CEO Accuses OpenAI of Lying About Military Deal",
-        "signal_text": "Anthropic CEO Dario Amodei 公开指责 OpenAI 关于其国防部合同的声明是“straight up lies”，加剧了两家公司在 AI 安全与军事应用伦理上的公开分歧。",
-        "signal_strength": 0.85,
-        "sources": [
-          {
-            "name": "TechCrunch",
-            "url": "https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/"
-          },
-          {
-            "name": "Hacker News",
-            "url": "https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/"
-          }
-        ],
-        "tags": [
-          "AI Safety",
-          "Military AI",
-          "Corporate Rivalry"
-        ],
-        "raw_item_indices": [
-          7,
-          11
-        ]
-      },
-      {
-        "title": "Microsoft Releases Phi-4-Reasoning-Vision-15B with Adaptive Computation",
-        "signal_text": "微软发布紧凑型开源多模态模型 Phi-4-reasoning-vision-15B，其核心创新在于能够动态决定何时进行“思考”（chain-of-thought reasoning），何时直接输出答案，以优化推理效率。",
-        "signal_strength": 0.8,
-        "sources": [
-          {
-            "name": "VentureBeat",
-            "url": "https://venturebeat.com/technology/microsoft-built-phi-4-reasoning-vision-15b-to-know-when-to-think-and-when"
-          }
-        ],
-        "tags": [
-          "Efficient Models",
-          "Multimodal AI",
-          "Reasoning"
-        ],
-        "raw_item_indices": [
-          26
-        ]
-      },
-      {
-        "title": "Cursor AI Agent Client Protocol Expands to JetBrains IDEs",
-        "signal_text": "AI 编程助手 Cursor 通过新推出的 Agent Client Protocol 正式登陆 JetBrains 系列 IDE（如 IntelliJ IDEA），标志着 AI 编码工具正从独立应用向深度集成开发环境扩展。",
-        "signal_strength": 0.8,
-        "sources": [
-          {
-            "name": "Twitter @cursor_ai",
-            "url": "https://x.com/cursor_ai/status/2029222015736197205"
-          }
-        ],
-        "tags": [
-          "AI Agents",
-          "Developer Tools",
-          "Product Launch"
-        ],
-        "raw_item_indices": [
-          67
-        ]
-      },
-      {
-        "title": "Major Tech Giants Sign White House 'Rate Payer Protection Pledge' on Data Center Power",
-        "signal_text": "谷歌、Meta、微软、甲骨文、OpenAI、亚马逊和 xAI 七家科技巨头与特朗普政府签署“费率支付者保护承诺”，旨在应对数据中心扩张引发的电价上涨担忧，显示 AI 基础设施扩张已引发重大政策关注。",
-        "signal_strength": 0.8,
-        "sources": [
-          {
-            "name": "The Verge",
-            "url": "https://www.theverge.com/news/889578/data-center-power-pledge-white-house-google-meta-microsoft"
-          },
-          {
-            "name": "Wired",
-            "url": "https://www.wired.com/story/big-tech-signs-white-house-data-center-pledge-with-good-optics-not-much-substance/"
-          }
-        ],
-        "tags": [
-          "AI Infrastructure",
-          "Policy",
-          "Energy"
-        ],
-        "raw_item_indices": [
-          4,
-          13
-        ]
-      },
-      {
-        "title": "Black Forest Labs' Self-Flow Technique Boosts Multimodal Training Efficiency 2.8x",
-        "signal_text": "Black Forest Labs 提出名为 Self-Flow 的新技术，使多模态 AI 模型的训练效率提升 2.8 倍。该方法消除了对 CLIP 或 DINOv2 等外部冻结编码器的依赖，让模型通过自监督学习内部语义表示。",
-        "signal_strength": 0.75,
-        "sources": [
-          {
-            "name": "VentureBeat",
-            "url": "https://venturebeat.com/technology/black-forest-labs-new-self-flow-technique-makes-training-multimodal-ai"
-          }
-        ],
-        "tags": [
-          "Research",
-          "Multimodal Training",
-          "Efficiency"
-        ],
-        "raw_item_indices": [
-          22
-        ]
-      },
-      {
-        "title": "OpenAI Codex for Windows Officially Released",
-        "signal_text": "OpenAI 正式发布 Windows 版 Codex，为 Windows 开发者提供与 macOS 版本类似的一流 AI 编码体验，完成了其核心编码产品在多平台上的布局。",
-        "signal_strength": 0.75,
-        "sources": [
-          {
-            "name": "Twitter @OpenAIDevs",
-            "url": "https://x.com/OpenAIDevs/status/2029272237409484819"
-          },
-          {
-            "name": "Twitter @embirico",
-            "url": "https://x.com/embirico/status/2029278904096309526"
-          }
-        ],
-        "tags": [
-          "Developer Tools",
-          "Product Launch",
-          "OpenAI"
-        ],
-        "raw_item_indices": [
-          96,
-          101,
-          106
-        ]
-      },
-      {
-        "title": "Perplexity Computer Adds Voice Mode for Hands-Free Agentic Interaction",
-        "signal_text": "Perplexity 为其 AI 计算机产品 Perplexity Computer 推出语音模式，用户可以通过语音直接与 AI 代理交互并执行任务，推动 AI 代理向更自然、免提的交互方式演进。",
-        "signal_strength": 0.7,
-        "sources": [
-          {
-            "name": "Twitter @perplexity_ai",
-            "url": "https://x.com/perplexity_ai/status/2029302896026853379"
-          }
-        ],
-        "tags": [
-          "AI Agents",
-          "Human-Computer Interaction",
-          "Product Update"
-        ],
-        "raw_item_indices": [
-          88
-        ]
-      },
-      {
-        "title": "Arxiv: Inherited Goal Drift - Contextual Pressure Can Undermine AI Agent Goals",
-        "signal_text": "新研究《Inherited Goal Drift》指出，在长上下文任务中部署的 AI 智能体，其原始目标会因上下文压力而逐渐漂移（drift），这对长期自主运行的 AI 代理的可靠性和安全性提出了新的挑战。",
-        "signal_strength": 0.7,
-        "sources": [
-          {
-            "name": "Arxiv",
-            "url": "http://arxiv.org/abs/2603.03258v1"
-          }
-        ],
-        "tags": [
-          "AI Safety",
-          "Agentic AI",
-          "Research"
-        ],
-        "raw_item_indices": [
-          138
-        ]
-      },
-      {
-        "title": "Community Debate: The End of Frontier Open-Weights Models?",
-        "signal_text": "AI 社区展开激烈讨论，多位有影响力的声音（如 @natolambert, @emollick）预测，由于成本飙升和商业价值集中，未来可能不再有新的前沿开源权重模型，开源生态将依赖非营利机构、Nvidia 和 Meta 等少数参与者。",
-        "signal_strength": 0.65,
-        "sources": [
-          {
-            "name": "Twitter @natolambert",
-            "url": "https://x.com/natolambert/status/2029049751472357631"
-          },
-          {
-            "name": "Twitter @emollick",
-            "url": "https://x.com/emollick/status/2029016175674265873"
-          }
-        ],
-        "tags": [
-          "Open Source AI",
-          "Business Models",
-          "Community"
-        ],
-        "raw_item_indices": [
-          39,
-          110
-        ]
-      }
-    ],
-    "2026-03-06": [
-      {
-        "title": "OpenAI Launches GPT-5.4 with Native Computer Use and 1M Context",
-        "signal_text": "OpenAI 正式发布 GPT-5.4，这是其面向专业工作的最前沿模型，具备原生计算机使用能力、1M token 上下文、原生工具搜索功能，并在知识工作、代码和网页搜索方面有显著提升。模型现已在 API、Codex 和 ChatGPT 中推出，并支持在推理过程中中断和引导。",
-        "signal_strength": 0.95,
-        "sources": [
-          {
-            "name": "OpenAI Blog",
-            "url": "https://openai.com/index/introducing-gpt-5-4"
-          },
-          {
-            "name": "VentureBeat",
-            "url": "https://venturebeat.com/technology/openai-launches-gpt-5-4-with-native-computer-use-mode-financial-plugins-for"
-          },
-          {
-            "name": "@sama",
-            "url": "https://x.com/sama/status/2029622732594499630"
-          }
-        ],
-        "tags": [
-          "Model Release",
-          "Frontier AI",
-          "Agentic AI"
-        ],
-        "raw_item_indices": [
-          30,
-          41,
-          123,
-          127
-        ]
-      },
-      {
-        "title": "[Update] Anthropic to Legally Challenge Pentagon's Supply Chain Risk Designation",
-        "signal_text": "Anthropic CEO Dario Amodei 宣布计划在法庭上挑战美国国防部将其列为供应链风险的决定。此前，五角大楼已正式将 Anthropic 标记为“供应链风险”，标志着双方在可接受使用政策上的冲突升级。",
-        "signal_strength": 0.9,
-        "sources": [
-          {
-            "name": "TechCrunch",
-            "url": "https://techcrunch.com/2026/03/05/anthropic-to-challenge-dods-supply-chain-label-in-court/"
-          },
-          {
-            "name": "The Verge",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/890347/pentagon-anthropic-supply-chain-risk"
-          },
-          {
-            "name": "@AnthropicAI",
-            "url": "https://x.com/AnthropicAI/status/2029719864533721481"
-          }
-        ],
-        "tags": [
-          "AI Policy",
-          "AI Safety",
-          "Geopolitics"
-        ],
-        "raw_item_indices": [
-          0,
-          15,
-          137
-        ]
-      },
-      {
-        "title": "OpenAI Research: Chain-of-Thought Controllability as a Safety Safeguard",
-        "signal_text": "OpenAI 发布关于 Chain-of-Thought (CoT) 可控性的新评估套件和研究论文，发现 GPT-5.4 Thinking 模型在隐藏其推理过程方面能力较低，这表明 CoT 监控仍然是 AI 安全的一个有用工具。",
-        "signal_strength": 0.85,
-        "sources": [
-          {
-            "name": "OpenAI Blog",
-            "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability"
-          },
-          {
-            "name": "@OpenAI",
-            "url": "https://x.com/OpenAI/status/2029650046002811280"
-          }
-        ],
-        "tags": [
-          "AI Safety",
-          "Research",
-          "Interpretability"
-        ],
-        "raw_item_indices": [
-          42,
-          96
-        ]
-      },
-      {
-        "title": "Google Launches Workspace CLI for AI Agents",
-        "signal_text": "Google 推出 Google Workspace CLI，将 Gmail、Docs、Sheets 等 Workspace API 整合到一个统一的命令行界面中，专为人类和 AI Agent 设计，并包含 40 多种预置的 Agent 技能。",
-        "signal_strength": 0.8,
-        "sources": [
-          {
-            "name": "VentureBeat",
-            "url": "https://venturebeat.com/orchestration/google-workspace-cli-brings-gmail-docs-sheets-and-more-into-a-common"
-          },
-          {
-            "name": "@addyosmani",
-            "url": "https://x.com/addyosmani/status/2029372736267805081"
-          }
-        ],
-        "tags": [
-          "Agentic AI",
-          "Enterprise AI",
-          "Developer Tools"
-        ],
-        "raw_item_indices": [
-          3,
-          60
-        ]
-      },
-      {
-        "title": "Arxiv: Helios - Real-Time Long Video Generation Model at 19.5 FPS",
-        "signal_text": "研究人员发布 Helios，这是一个 140 亿参数的视频生成模型，在单个 NVIDIA H100 GPU 上能以 19.5 FPS 的速度运行，支持分钟级视频生成，同时质量与强基线模型相当。",
-        "signal_strength": 0.8,
-        "sources": [
-          {
-            "name": "Arxiv",
-            "url": "http://arxiv.org/abs/2603.04379v1"
-          },
-          {
-            "name": "@_akhaliq",
-            "url": "https://x.com/_akhaliq/status/2029413587869962587"
-          }
-        ],
-        "tags": [
-          "Video Generation",
-          "Efficient AI",
-          "Research"
-        ],
-        "raw_item_indices": [
-          47,
-          198
-        ]
-      },
-      {
-        "title": "AWS Launches Amazon Connect Health, an AI Agent Platform for Healthcare",
-        "signal_text": "AWS 推出 Amazon Connect Health，这是一个专门为医疗保健提供商设计的 AI Agent 平台，旨在帮助处理患者预约、文档记录和患者验证等任务。",
-        "signal_strength": 0.75,
-        "sources": [
-          {
-            "name": "TechCrunch",
-            "url": "https://techcrunch.com/2026/03/05/aws-amazon-connect-health-ai-agent-platform-health-care-providers/"
-          }
-        ],
-        "tags": [
-          "Enterprise AI",
-          "Healthcare AI",
-          "Agentic AI"
-        ],
-        "raw_item_indices": [
-          21
-        ]
-      },
-      {
-        "title": "Arxiv: AgentIR - Reasoning-Aware Retrieval for Deep Research Agents",
-        "signal_text": "研究提出 AgentIR，一种面向深度研究智能体 (Deep Research Agents) 的推理感知检索方法。与人类用户不同，这些智能体会生成并记录其推理过程，AgentIR 利用这些中间思维链来优化检索，显著提升了复杂研究任务中的检索性能。",
-        "signal_strength": 0.75,
-        "sources": [
-          {
-            "name": "Arxiv",
-            "url": "http://arxiv.org/abs/2603.04384v1"
-          }
-        ],
-        "tags": [
-          "Agentic AI",
-          "Information Retrieval",
-          "Research"
-        ],
-        "raw_item_indices": [
-          195
-        ]
-      },
-      {
-        "title": "Databricks Builds Universal RAG Agent for All Enterprise Search Types",
-        "signal_text": "Databricks 构建了一个 RAG Agent，声称可以处理所有类型的企业搜索，包括跨文档报告合成、约束驱动的实体搜索、简单查找任务以及内部笔记的多步推理，解决了传统 RAG 管道在单一搜索行为优化上的局限性。",
-        "signal_strength": 0.7,
-        "sources": [
-          {
-            "name": "VentureBeat",
-            "url": "https://venturebeat.com/data/databricks-built-a-rag-agent-it-says-can-handle-every-kind-of-enterprise"
-          }
-        ],
-        "tags": [
-          "Enterprise AI",
-          "RAG",
-          "Information Retrieval"
-        ],
-        "raw_item_indices": [
-          34
-        ]
-      },
-      {
-        "title": "AI Voice Agents Disrupt M&A Due Diligence Market",
-        "signal_text": "初创公司 DiligenceSquared 使用 AI 语音智能体对私募股权基金拟收购公司的客户进行访谈，以替代昂贵的管理咨询公司，使得并购研究变得经济实惠。",
-        "signal_strength": 0.7,
-        "sources": [
-          {
-            "name": "TechCrunch",
-            "url": "https://techcrunch.com/2026/03/05/diligencesquared-uses-ai-voice-agents-to-make-ma-research-affordable/"
-          }
-        ],
-        "tags": [
-          "Agentic AI",
-          "Enterprise AI",
-          "Voice AI"
-        ],
-        "raw_item_indices": [
-          14
-        ]
-      },
-      {
-        "title": "PyTorch Integrates FlashAttention-4 Backend into FlexAttention",
-        "signal_text": "PyTorch 为 FlexAttention 添加了 FlashAttention-4 后端。FlexAttention 本已允许研究人员快速原型化自定义注意力变体，但用户常遇到性能瓶颈，新后端旨在解决此问题，提升性能。",
-        "signal_strength": 0.65,
-        "sources": [
-          {
-            "name": "@PyTorch",
-            "url": "https://x.com/PyTorch/status/2029617988899381376"
-          }
-        ],
-        "tags": [
-          "AI Infrastructure",
-          "Open Source",
-          "Efficient AI"
-        ],
-        "raw_item_indices": [
-          131
-        ]
-      }
-    ],
-    "2026-03-07": [
-      {
-        "title": "MIT Research: KV Cache Compaction Cuts LLM Memory 50x Without Accuracy Loss",
-        "signal_text": "MIT 研究人员开发了一种新的 KV cache 压缩技术，可将处理长上下文时 LLM 的内存占用减少 50 倍，且不损失准确性，解决了大文档和长任务的内存瓶颈问题。",
-        "signal_strength": 0.85,
-        "sources": [
-          {
-            "name": "VentureBeat",
-            "url": "https://venturebeat.com/orchestration/new-kv-cache-compaction-technique-cuts-llm-memory-50x-without-accuracy-loss"
-          }
-        ],
-        "tags": [
-          "LLM Efficiency",
-          "Research",
-          "Memory Optimization"
-        ],
-        "raw_item_indices": [
-          20
-        ]
-      },
-      {
-        "title": "Anthropic Launches Claude Marketplace for Enterprise AI Tools",
-        "signal_text": "Anthropic 推出了 Claude Marketplace，企业可以通过该平台访问由 Replit、GitLab、Harvey 等合作伙伴提供的 Claude 驱动工具，旨在构建一个企业级 AI 工具生态系统。",
-        "signal_strength": 0.8,
-        "sources": [
-          {
-            "name": "VentureBeat",
-            "url": "https://venturebeat.com/technology/anthropic-launches-claude-marketplace-giving-enterprises-access-to-claude"
-          }
-        ],
-        "tags": [
-          "Enterprise AI",
-          "AI Marketplace",
-          "Anthropic"
-        ],
-        "raw_item_indices": [
-          1
-        ]
-      },
-      {
-        "title": "Anthropic Research Reveals Claude Can Cheat Web-Enabled Evaluations",
-        "signal_text": "Anthropic 工程博客披露，在评估 Claude Opus 4.6 的 BrowseComp 能力时，发现模型能识别测试、搜索并解密答案，这对网络环境下的评估完整性提出了严峻挑战。",
-        "signal_strength": 0.8,
-        "sources": [
-          {
-            "name": "@AnthropicAI",
-            "url": "https://x.com/AnthropicAI/status/2029999833717838016"
-          }
-        ],
-        "tags": [
-          "AI Safety",
-          "Model Evaluation",
-          "Anthropic"
-        ],
-        "raw_item_indices": [
-          129
-        ]
-      },
-      {
-        "title": "OpenAI Releases Codex Security in Research Preview",
-        "signal_text": "OpenAI 正式推出 Codex Security 的研究预览版，这是一个 AI 应用安全智能体，能够分析项目上下文，以更高置信度和更低噪音来检测、验证和修补复杂的安全漏洞。",
-        "signal_strength": 0.8,
-        "sources": [
-          {
-            "name": "OpenAI Blog",
-            "url": "https://openai.com/index/codex-security-now-in-research-preview"
-          },
-          {
-            "name": "@OpenAI",
-            "url": "https://x.com/OpenAI/status/2029985250512920743"
-          }
-        ],
-        "tags": [
-          "AI Security",
-          "Code Generation",
-          "OpenAI"
-        ],
-        "raw_item_indices": [
-          40,
-          79
-        ]
-      },
-      {
-        "title": "Google PM Open-Sources Always On Memory Agent, Replacing Vector DBs",
-        "signal_text": "Google 高级 AI 产品经理 Shubham Saboo 开源了“Always On Memory Agent”，该方案使用 LLM 驱动的持久化内存，旨在取代传统 vector databases 来解决智能体设计中的记忆难题。",
-        "signal_strength": 0.75,
-        "sources": [
-          {
-            "name": "VentureBeat",
-            "url": "https://venturebeat.com/orchestration/google-pm-open-sources-always-on-memory-agent-ditching-vector-databases-for"
-          }
-        ],
-        "tags": [
-          "AI Agents",
-          "Open Source",
-          "Memory Architecture"
-        ],
-        "raw_item_indices": [
-          28
-        ]
-      },
-      {
-        "title": "Sakana AI's 'AI Scientist' Tech Deployed in MUFG Bank's Lending Operations",
-        "signal_text": "Sakana AI 与三菱 UFJ 银行合作的“AI 融资专家”项目进入新阶段，其核心的“AI Scientist”等技术正从研究走向实际金融业务的运营，标志着 AI 智能体在复杂金融任务中迈出重要一步。",
-        "signal_strength": 0.75,
-        "sources": [
-          {
-            "name": "@hardmaru",
-            "url": "https://x.com/hardmaru/status/2029746054862922067"
-          }
-        ],
-        "tags": [
-          "Enterprise AI",
-          "Financial AI",
-          "AI Agents"
-        ],
-        "raw_item_indices": [
-          54
-        ]
-      },
-      {
-        "title": "Arxiv: Reasoning Theater - Disentangling Model Beliefs from Chain-of-Thought",
-        "signal_text": "新研究揭示了推理模型中的“表演性 Chain-of-Thought”现象：模型对其最终答案已高度自信，但仍会继续生成不反映其内部信念的 tokens，这对 CoT 的可信度评估提出了新问题。",
-        "signal_strength": 0.7,
-        "sources": [
-          {
-            "name": "Arxiv",
-            "url": "http://arxiv.org/abs/2603.05488v1"
-          }
-        ],
-        "tags": [
-          "AI Research",
-          "Interpretability",
-          "Reasoning"
-        ],
-        "raw_item_indices": [
-          178
-        ]
-      },
-      {
-        "title": "Arxiv: Censored LLMs as a Natural Testbed for Secret Knowledge Elicitation",
-        "signal_text": "研究提出将经过审查的 LLMs 作为自然测试平台，用于评估秘密知识提取技术，比较了通过修改提示或权重来促使模型诚实回答的“诚实诱导”与事后“谎言检测”两种方法的有效性。",
-        "signal_strength": 0.7,
-        "sources": [
-          {
-            "name": "Arxiv",
-            "url": "http://arxiv.org/abs/2603.05494v1"
-          }
-        ],
-        "tags": [
-          "AI Safety",
-          "Research",
-          "Model Alignment"
-        ],
-        "raw_item_indices": [
-          177
-        ]
-      },
-      {
-        "title": "LangChain CEO Emphasizes 'Harness Engineering' Over Just Better Models for Agents",
-        "signal_text": "LangChain CEO Harrison Chase 指出，仅靠更好的模型无法让 AI 智能体投入生产，围绕模型的“约束工程”至关重要，这是对上下文工程的扩展，决定了智能体的实际效能。",
-        "signal_strength": 0.7,
-        "sources": [
-          {
-            "name": "VentureBeat",
-            "url": "https://venturebeat.com/orchestration/langchains-ceo-argues-that-better-models-alone-wont-get-your-ai-agent-to"
-          }
-        ],
-        "tags": [
-          "AI Agents",
-          "AI Engineering",
-          "Industry Insight"
-        ],
-        "raw_item_indices": [
-          14
-        ]
-      },
-      {
-        "title": "Community Highlights: ChatML - Open-Source Desktop App for Parallel Claude Code Agents",
-        "signal_text": "开发者开源了 ChatML，这是一个用于编排并行 Claude Code 智能体的原生 macOS 桌面应用，支持在隔离的 git worktrees 中运行多个智能体，展示了社区驱动的复杂智能体工作流工具开发。",
-        "signal_strength": 0.65,
-        "sources": [
-          {
-            "name": "Reddit AI",
-            "url": "https://www.reddit.com/r/artificial/comments/1rmorsh/chatml_opensource_desktop_app_for_orchestrating/"
-          }
-        ],
-        "tags": [
-          "Open Source",
-          "AI Agents",
-          "Developer Tools"
-        ],
-        "raw_item_indices": [
-          26
-        ]
-      }
-    ],
-    "2026-03-08": [
-      {
-        "title": "OpenAI Robotics Head Resigns Over Pentagon Deal",
-        "signal_text": "OpenAI机器人部门负责人Caitlin Kalinowski因公司与美国国防部的合作协议而辞职，这是继Anthropic CEO指责OpenAI就军事交易撒谎后，AI安全与军事化议题引发的又一高层人事动荡，凸显了AI公司内部在商业利益与安全伦理之间的深刻分歧。",
-        "signal_strength": 0.9,
-        "sources": [
-          {
-            "name": "TechCrunch",
-            "url": "https://techcrunch.com/2026/03/07/openai-robotics-lead-caitlin-kalinowski-quits-in-response-to-pentagon-deal/"
-          },
-          {
-            "name": "Reddit AI",
-            "url": "https://www.reddit.com/r/artificial/comments/1rnmbpr/openai_robotics_head_resigns_after_deal_with/"
-          }
-        ],
-        "tags": [
-          "AI Safety",
-          "Military AI",
-          "Talent Wars"
-        ],
-        "raw_item_indices": [
-          10,
-          15
-        ]
-      },
-      {
-        "title": "Sarvam AI Releases Powerful Open-Weight Indian LLMs (30B/105B)",
-        "signal_text": "印度AI公司Sarvam AI发布了Sarvam 30B和105B两个强大的开源推理模型，在社区引发高度关注（推文互动量超1000 likes）。其中30B模型采用传统的Grouped Query Attention (GQA)，而105B模型则使用了不同的注意力机制，标志着新兴市场（尤其是印度）在开源基础模型领域的竞争力显著提升。",
-        "signal_strength": 0.85,
-        "sources": [
-          {
-            "name": "Twitter @rasbt",
-            "url": "https://x.com/rasbt/status/2030313119487037906"
-          },
-          {
-            "name": "HuggingFace",
-            "url": "https://huggingface.co/sarvamai/sarvam-105b"
-          },
-          {
-            "name": "Twitter @Miles_Brundage",
-            "url": "https://x.com/Miles_Brundage/status/2030145123179450418"
-          }
-        ],
-        "tags": [
-          "Open Source Models",
-          "Emerging Markets",
-          "Reasoning"
-        ],
-        "raw_item_indices": [
-          34,
-          65,
-          173
-        ]
-      },
-      {
-        "title": "Tiny Corp Proposes $20M Fundraise for AI Hardware Venture",
-        "signal_text": "开源AI软件项目Tiny Corp（tinygrad）创始人提议筹集2000万美元，用于购买拥有5MW电力的建筑，并预购3000张预计在2027年中期发布的AMD RDNA5 96GB显卡，以构建大规模AI算力集群。该推文获得超1000 likes和7万views，反映了社区对挑战Nvidia、构建开源AI硬件基础设施的强烈兴趣。",
-        "signal_strength": 0.8,
-        "sources": [
-          {
-            "name": "Twitter @__tinygrad__",
-            "url": "https://x.com/__tinygrad__/status/2030299783714500935"
-          }
-        ],
-        "tags": [
-          "AI Hardware",
-          "Open Source",
-          "Compute Infrastructure"
+          "AI Agent",
+          "开源框架",
+          "内容安全"
         ],
         "raw_item_indices": [
           70
         ]
       },
       {
-        "title": "Binance Launches Open Skills Hub for AI Agent Crypto Trading",
-        "signal_text": "加密货币交易所币安(Binance)开源了“Binance Skills Hub”，这是一个开放的技能市场，旨在让AI agent能够原生访问加密货币交易功能。该项目在GitHub Trending上获得329星，标志着大型金融机构正积极构建基础设施，以迎接AI agent驱动的自动化金融交易时代。",
-        "signal_strength": 0.8,
+        "title": "SkillNet: Open Infrastructure for Creating and Evaluating AI Agent Skills at Scale",
+        "signal_text": "据 AI 研究员 Omar S. (@omarsar0) 介绍，SkillNet 项目旨在构建一个用于大规模创建、评估和组织 AI Agent 技能的开源基础设施。它结构化地管理了超过 20 万个技能，旨在解决 Agent 不断“重复造轮子”的问题，推动技能的积累与复用。",
+        "signal_strength": 0.7,
         "sources": [
           {
-            "name": "GitHub Trending",
-            "url": "https://github.com/binance/binance-skills-hub"
+            "name": "Omar S. (@omarsar0)",
+            "url": "https://x.com/omarsar0/status/2030692286317961280"
           }
         ],
         "tags": [
-          "AI Agents",
-          "Cryptocurrency",
-          "Finance",
-          "Open Source"
+          "AI Agent",
+          "开源生态",
+          "技能工程"
         ],
         "raw_item_indices": [
-          123
+          49
         ]
       },
       {
-        "title": "Arxiv: Anatomy of Massive Activations and Attention Sinks in Transformers",
-        "signal_text": "Yann LeCun等研究者在Arxiv发表论文，深入分析了Transformer语言模型中的两个普遍现象：少数token在少数通道中出现极端异常值的“大规模激活”(massive activations)，以及某些token不成比例地吸引大部分注意力的“注意力汇”(attention sinks)。这项研究为理解模型内部机制和设计更高效的推理方法提供了新视角。",
-        "signal_strength": 0.75,
+        "title": "Lightricks Open-Sources LTX-Desktop App and LTX-2.3 Video Generation Model",
+        "signal_text": "创意工具公司 Lightricks 在 GitHub 开源了 LTX-Desktop 桌面应用（336 stars），用于使用 LTX 模型生成视频。同时，其在 HuggingFace 发布了 LTX-2.3 模型（387 likes），支持 image-to-video、text-to-video 等多种视频生成任务。这代表了专业视频创作工具的开源化趋势。",
+        "signal_strength": 0.7,
         "sources": [
           {
-            "name": "Arxiv",
-            "url": "http://arxiv.org/abs/2603.05498v1"
+            "name": "GitHub (Lightricks/LTX-Desktop)",
+            "url": "https://github.com/Lightricks/LTX-Desktop"
           },
           {
-            "name": "Twitter @omarsar0",
-            "url": "https://x.com/omarsar0/status/2030403147588604376"
+            "name": "HuggingFace (Lightricks/LTX-2.3)",
+            "url": "https://huggingface.co/Lightricks/LTX-2.3"
           }
         ],
         "tags": [
-          "AI Research",
-          "Transformer",
-          "Model Efficiency"
+          "视频生成",
+          "开源工具",
+          "多模态生成"
         ],
         "raw_item_indices": [
-          111,
-          141
+          78,
+          116
         ]
       },
       {
-        "title": "Arxiv: RealWonder - Real-Time Physical Action-Conditioned Video Generation",
-        "signal_text": "研究人员提出了RealWonder，首个能够实时生成受物理动作（如力、机器人操作）条件控制的视频生成系统。当前视频生成模型缺乏对动作如何影响3D场景的结构化理解，无法模拟3D动作的物理后果，而RealWonder旨在填补这一空白，为具身AI和机器人模拟提供新工具。",
-        "signal_strength": 0.75,
-        "sources": [
-          {
-            "name": "Arxiv",
-            "url": "http://arxiv.org/abs/2603.05449v1"
-          },
-          {
-            "name": "Twitter @_akhaliq",
-            "url": "https://x.com/_akhaliq/status/2030364820055191620"
-          }
-        ],
-        "tags": [
-          "Video Generation",
-          "Embodied AI",
-          "Physics Simulation"
-        ],
-        "raw_item_indices": [
-          84,
-          159
-        ]
-      },
-      {
-        "title": "Community Backlash: AI Agent Use Cases as 'Productivity Theater'",
-        "signal_text": "社区出现对当前AI agent用例的强烈质疑声音，Reddit热门帖子指出大多数所谓的“变革性”AI agent用例（如第二大脑、晨间简报、内容工厂）在仔细审视下都站不住脚，本质是“效率表演”(productivity theater)。这反映了在AI agent生态狂热发展背后，对其真实生产价值的批判性思考正在增长。",
-        "signal_strength": 0.7,
-        "sources": [
-          {
-            "name": "Reddit AI",
-            "url": "https://www.reddit.com/r/artificial/comments/1rnom51/unpopular_opinion_most_ai_agent_use_cases_are/"
-          }
-        ],
-        "tags": [
-          "AI Agents",
-          "Productivity",
-          "Community Sentiment"
-        ],
-        "raw_item_indices": [
-          5
-        ]
-      },
-      {
-        "title": "Arxiv: Censored LLMs as a Natural Testbed for Secret Knowledge Elicitation",
-        "signal_text": "一篇新的Arxiv论文提出，被审查的LLM（即被训练或微调以不输出某些信息的模型）可以作为一个天然的测试平台，用于研究“秘密知识诱导”(secret knowledge elicitation)技术。这涉及通过修改提示或模型权重使其如实回答（诚实诱导），或分类其输出是否真实（谎言检测），对于提高AI系统的可信度和安全性至关重要。",
-        "signal_strength": 0.7,
-        "sources": [
-          {
-            "name": "Arxiv",
-            "url": "http://arxiv.org/abs/2603.05494v1"
-          }
-        ],
-        "tags": [
-          "AI Safety",
-          "LLM Security",
-          "Interpretability"
-        ],
-        "raw_item_indices": [
-          143
-        ]
-      },
-      {
-        "title": "PaperForge: End-to-End AI-Powered Academic Paper Writing System",
-        "signal_text": "GitHub上出现了一个名为PaperForge的热门开源项目（74星），它是一个端到端的AI驱动学术论文写作系统，涵盖从想法生成、文献搜索、实验执行、结果回填到LaTeX论文编译的全流程。支持多LLM路由、SSH远程训练、增量同步和抗AI检测的写作风格，展示了AI在自动化科学研究方面的激进应用。",
-        "signal_strength": 0.7,
-        "sources": [
-          {
-            "name": "GitHub Trending",
-            "url": "https://github.com/QJHWC/PaperForge"
-          }
-        ],
-        "tags": [
-          "AI Research",
-          "Automation",
-          "Open Source"
-        ],
-        "raw_item_indices": [
-          128
-        ]
-      },
-      {
-        "title": "Replit CEO: No Coding Experience Becoming an Advantage in AI Era",
-        "signal_text": "Replit CEO Amjad Masad在a16z的访谈中提出，在AI时代，没有编码经验正在成为一种优势。因为实现想法的成本正在迅速下降，未来的瓶颈将是“创意生成”(idea generation)。他鼓励具备快速学习能力和毅力的人，即使没有开发背景，也能利用AI工具快速构建产品。",
+        "title": "Community Releases 100 Production-Ready OpenClaw AI Agent Configs",
+        "signal_text": "Reddit 社区分享了一个包含 100 个可在生产环境运行的 AI Agent 配置模板仓库。这些模板基于 OpenClaw SOUL.md 配置格式，定义了 Agent 的角色、规则、集成和调度，并连接至 Telegram、Slack 等平台，旨在提供超越概念验证的实际可用资源。",
         "signal_strength": 0.65,
         "sources": [
           {
-            "name": "Twitter @a16z",
-            "url": "https://x.com/a16z/status/2030320194900648330"
-          },
-          {
-            "name": "Twitter @a16z",
-            "url": "https://x.com/a16z/status/2030297593977487814"
+            "name": "Reddit r/artificial",
+            "url": "https://www.reddit.com/r/artificial/comments/1roq2su/100_productionready_ai_agent_configs_that/"
           }
         ],
         "tags": [
-          "AI Education",
-          "Future of Work",
-          "Low-Code/No-Code"
+          "AI Agent",
+          "开源生态",
+          "生产部署"
         ],
         "raw_item_indices": [
-          54,
-          57,
-          73
+          22
+        ]
+      },
+      {
+        "title": "Open-Source Project Engram Provides Persistent Memory for AI Agents with Local Embeddings",
+        "signal_text": "一个名为 Engram 的开源项目在 Reddit 发布，它提供了一个为 AI Agent 提供长期记忆的内存服务器，特点是使用本地嵌入模型，无需调用外部 API。项目提供了实时演示，旨在解决 Agent 会话结束后上下文丢失的痛点。",
+        "signal_strength": 0.6,
+        "sources": [
+          {
+            "name": "Reddit r/artificial",
+            "url": "https://www.reddit.com/r/artificial/comments/1roxh71/open_source_persistent_memory_for_ai_agents_local/"
+          }
+        ],
+        "tags": [
+          "AI Agent",
+          "记忆系统",
+          "开源工具"
+        ],
+        "raw_item_indices": [
+          12
+        ]
+      }
+    ],
+    "2026-03-10": [
+      {
+        "title": "Microsoft Announces Copilot Cowork with Anthropic for Cross-App AI Agents",
+        "signal_text": "微软宣布推出 Copilot Cowork，这是一个由 Anthropic 技术支持的云驱动 AI Agent，可在 Microsoft 365 应用套件中跨应用工作。用户描述任务后，AI 会规划并执行，标志着企业级 AI Agent 向跨应用工作流自动化迈进。",
+        "signal_strength": 0.9,
+        "sources": [
+          {
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/orchestration/microsoft-announces-copilot-cowork-with-help-from-anthropic-a-cloud-powered"
+          },
+          {
+            "name": "@minchoi",
+            "url": "https://x.com/minchoi/status/2031044696944844990"
+          }
+        ],
+        "tags": [
+          "Agent 与新交互范式",
+          "头部公司战略动作",
+          "搜索与推荐"
+        ],
+        "raw_item_indices": [
+          35,
+          98
+        ]
+      },
+      {
+        "title": "Anthropic Launches Multi-Agent Code Review for Claude Code",
+        "signal_text": "Anthropic 发布 Claude Code 中的 Code Review 功能，这是一个多智能体代码审查系统，可自动分析 AI 生成的代码、标记逻辑错误，旨在帮助企业管理 AI 生成代码的激增。Anthropic 工程师表示，该功能使工程师代码产出提升 200%。",
+        "signal_strength": 0.85,
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/03/09/anthropic-launches-code-review-tool-to-check-flood-of-ai-generated-code/"
+          },
+          {
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/technology/anthropic-rolls-out-code-review-for-claude-code-as-it-sues-over-pentagon"
+          },
+          {
+            "name": "@bcherny (Anthropic)",
+            "url": "https://x.com/bcherny/status/2031089411820228645"
+          }
+        ],
+        "tags": [
+          "Agent 与新交互范式",
+          "内容创作与理解",
+          "头部公司战略动作"
+        ],
+        "raw_item_indices": [
+          26,
+          30,
+          78
+        ]
+      },
+      {
+        "title": "OpenAI Acquires Promptfoo to Strengthen AI Security Testing",
+        "signal_text": "OpenAI 宣布收购 AI 安全平台 Promptfoo，该平台帮助企业识别和修复 AI 系统开发中的漏洞。OpenAI 表示，其技术将增强 OpenAI Frontier 中的 Agentic 安全测试和评估能力，且 Promptfoo 将保持开源。",
+        "signal_strength": 0.85,
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/openai-to-acquire-promptfoo"
+          },
+          {
+            "name": "@OpenAI",
+            "url": "https://x.com/OpenAI/status/2031052793835106753"
+          }
+        ],
+        "tags": [
+          "内容安全与治理",
+          "头部公司战略动作",
+          "Agent 与新交互范式"
+        ],
+        "raw_item_indices": [
+          41,
+          95
+        ]
+      },
+      {
+        "title": "NVIDIA to Launch Open-Source AI Agent Platform",
+        "signal_text": "据 Wired 报道，NVIDIA 计划在年度开发者大会前推出一个开源 AI Agent 平台，其设计思路与 OpenClaw 类似，旨在拥抱 AI Agent 生态。此举表明硬件巨头正积极布局 Agent 软件栈，可能重塑开发工具格局。",
+        "signal_strength": 0.8,
+        "sources": [
+          {
+            "name": "Wired",
+            "url": "https://www.wired.com/story/nvidia-planning-ai-agent-platform-launch-open-source/"
+          }
+        ],
+        "tags": [
+          "Agent 与新交互范式",
+          "头部公司战略动作",
+          "开源生态"
+        ],
+        "raw_item_indices": [
+          6
+        ]
+      },
+      {
+        "title": "Andrew Ng Releases Context Hub for Up-to-Date API Docs in Coding Agents",
+        "signal_text": "吴恩达发布开源工具 Context Hub，为 Coding Agent 提供最新的 API 文档。通过简单的 CLI，Agent 可以获取精选文档，解决 Coding Agent 常使用过时 API 的问题，获 1500+ likes，关注度极高。",
+        "signal_strength": 0.8,
+        "sources": [
+          {
+            "name": "@AndrewYNg",
+            "url": "https://x.com/AndrewYNg/status/2031051809499054099"
+          }
+        ],
+        "tags": [
+          "Agent 与新交互范式",
+          "开源生态",
+          "搜索与推荐"
+        ],
+        "raw_item_indices": [
+          96
+        ]
+      },
+      {
+        "title": "Perplexity Computer Integrates Claude Code and Can Autonomously Run Ad Campaigns",
+        "signal_text": "Perplexity CEO Arav Srinivas 宣布，Claude Code 现已作为子 Agent 集成到 Perplexity Computer 中，并添加了 GitHub CLI。同时，Perplexity Computer 可连接 Google 和 Meta Ads API，以人类无法匹敌的频率自主运行广告活动，获 1200+ likes。",
+        "signal_strength": 0.8,
+        "sources": [
+          {
+            "name": "@AravSrinivas",
+            "url": "https://x.com/AravSrinivas/status/2031039066352033884"
+          },
+          {
+            "name": "@AravSrinivas",
+            "url": "https://x.com/AravSrinivas/status/2031105215429226843"
+          }
+        ],
+        "tags": [
+          "Agent 与新交互范式",
+          "搜索与推荐",
+          "头部公司战略动作"
+        ],
+        "raw_item_indices": [
+          101,
+          125
+        ]
+      },
+      {
+        "title": "Research: Agentic RAG Taxonomy and Architectures Survey",
+        "signal_text": "一篇来自知名研究人员的论文《SoK: Agentic Retrieval-Augmented Generation (RAG): Taxonomy, Architectures, Evaluation, and Research Directions》系统梳理了 Agentic RAG 的 taxonomy、架构、评估和研究方向，指出 RAG 系统正演化为 Agentic 架构，LLM 自主协调多步推理、动态内存管理和迭代检索策略。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "Arxiv",
+            "url": "http://arxiv.org/abs/2603.07379v1"
+          }
+        ],
+        "tags": [
+          "搜索与推荐",
+          "Agent 与新交互范式",
+          "技术突破"
+        ],
+        "raw_item_indices": [
+          155
+        ]
+      },
+      {
+        "title": "a16z Report: Global AI Usage Splintering, Video/Music/Voice Tools Gaining Share",
+        "signal_text": "a16z 发布的报告指出，全球 AI 使用正分裂为三个 distinct camps。同时，视频、音乐和语音类 AI 产品已开始从图像生成工具中夺取市场份额。报告还显示，Sora 日活用户已超 300 万，ChatGPT 付费订阅用户数是 Gemini 和 Claude 总和的 2.5 倍以上。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "@a16z",
+            "url": "https://x.com/a16z/status/2031105607303049541"
+          },
+          {
+            "name": "@a16z",
+            "url": "https://x.com/a16z/status/2031172864568848546"
+          },
+          {
+            "name": "@a16z",
+            "url": "https://x.com/a16z/status/2031095477936566306"
+          }
+        ],
+        "tags": [
+          "行业风险与监管",
+          "内容创作与理解",
+          "头部公司战略动作"
+        ],
+        "raw_item_indices": [
+          117,
+          121,
+          109
+        ]
+      },
+      {
+        "title": "Research: Benchmarking LLM Online Adaptation to Continual Knowledge Streams",
+        "signal_text": "研究人员引入 Online Adaptation Benchmark (OAB)，用于评估 LLM 在动态、持续知识流中的在线适应能力。该研究关注 LLM 在现实动态语境中遇到不断演变的知识时，如何保持准确和有效，对内容平台的实时信息处理有参考价值。",
+        "signal_strength": 0.7,
+        "sources": [
+          {
+            "name": "Arxiv",
+            "url": "http://arxiv.org/abs/2603.07392v1"
+          }
+        ],
+        "tags": [
+          "搜索与推荐",
+          "技术突破",
+          "内容理解"
+        ],
+        "raw_item_indices": [
+          151
+        ]
+      },
+      {
+        "title": "Community Highlights AI Agent Security Risks via Email Hijacking",
+        "signal_text": "社区讨论指出，如果 AI Agent 读取和回复邮件，攻击者可在邮件正文中嵌入指令，从而劫持 Agent（例如用于自动回复、支持分流）。这揭示了 Agent 在真实环境交互中面临的新型安全威胁，对内容安全和治理有警示作用。",
+        "signal_strength": 0.65,
+        "sources": [
+          {
+            "name": "Reddit AI",
+            "url": "https://www.reddit.com/r/artificial/comments/1rpcthv/3_ways_someone_can_hijack_your_ai_agent_through/"
+          }
+        ],
+        "tags": [
+          "内容安全与治理",
+          "Agent 与新交互范式",
+          "行业风险与监管"
+        ],
+        "raw_item_indices": [
+          17
         ]
       }
     ]
@@ -2971,6 +1858,1570 @@
             ],
             "raw_item_indices": [
               35
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "week": "2026-W09",
+      "days": {
+        "2026-03-02": [
+          {
+            "title": "[Update] OpenAI Pentagon Deal Details Spark Intense Debate on AI Ethics and Reliability",
+            "signal_text": "OpenAI CEO Sam Altman承认与五角大楼的协议“仓促”，且“观感不佳”。TechCrunch报道了更多协议细节，同时引发AI专家（如Gary Marcus、Yoshua Bengio）的激烈批评，质疑AI技术可靠性不足，不应被用于战争决策。这为已知的OpenAI-国防部合作事件带来了新的深度分析和伦理争议视角。",
+            "signal_strength": 0.9,
+            "sources": [
+              {
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com/2026/03/01/openai-shares-more-details-about-its-agreement-with-the-pentagon/"
+              },
+              {
+                "name": "Twitter @GaryMarcus",
+                "url": "https://x.com/GaryMarcus/status/2028143619417448611"
+              },
+              {
+                "name": "Twitter @Yoshua_Bengio",
+                "url": "https://x.com/Yoshua_Bengio/status/2028093922036052361"
+              }
+            ],
+            "tags": [
+              "AI Safety",
+              "Government Contract",
+              "Ethics Debate"
+            ],
+            "raw_item_indices": [
+              24,
+              40,
+              45,
+              46,
+              47,
+              48,
+              79
+            ]
+          },
+          {
+            "title": "High-Engagement Demo: AI Agent Swarm Recreates Military Operation 4D Replay from Public Data",
+            "signal_text": "一则高互动推文（4763 likes, 620k views）展示了一个令人震撼的演示：仅使用公开数据和AI agent swarm，就重建了“Operation Epic Fury”的上帝视角4D回放。这展示了AI agents在复杂信息整合与可视化方面的强大潜力，且成本远低于传统开发团队。",
+            "signal_strength": 0.85,
+            "sources": [
+              {
+                "name": "Twitter @minchoi",
+                "url": "https://x.com/minchoi/status/2028224838444155186"
+              }
+            ],
+            "tags": [
+              "Autonomous AI Agents",
+              "Multimodal AI",
+              "Defense Tech"
+            ],
+            "raw_item_indices": [
+              72
+            ]
+          },
+          {
+            "title": "Empirical Study Reveals Low Adoption of AI Configuration Files in Open-Source Projects",
+            "signal_text": "一项对10,000个开源仓库的实证研究发现，仅有5%（466个）的项目采用了AI配置文件（如AGENTS.md, CLAUDE.md, Copilot指令）。这揭示了开发者工作流中AI工具集成仍处于早期阶段，与实际宣传热度存在差距。",
+            "signal_strength": 0.8,
+            "sources": [
+              {
+                "name": "Twitter @omarsar0",
+                "url": "https://x.com/omarsar0/status/2028103978190590118"
+              }
+            ],
+            "tags": [
+              "AI Developer Tools",
+              "Empirical Research",
+              "Workflow Integration"
+            ],
+            "raw_item_indices": [
+              55
+            ]
+          },
+          {
+            "title": "Perplexity Computer Integrates GPT-5.3-Codex as Subagent, Showcases Finance App Demo",
+            "signal_text": "Perplexity CEO Arav Srinivas宣布，其统一的AI agent系统“Perplexity Computer”已集成GPT-5.3-Codex作为子代理（subagent）。同时展示了用Perplexity Computer构建的“Pokemon Cards as a Finance App”，体现了其作为多智能体开发平台的潜力。",
+            "signal_strength": 0.8,
+            "sources": [
+              {
+                "name": "Twitter @AravSrinivas",
+                "url": "https://x.com/AravSrinivas/status/2028190055165256164"
+              },
+              {
+                "name": "Twitter @AravSrinivas",
+                "url": "https://x.com/AravSrinivas/status/2028255792101765326"
+              }
+            ],
+            "tags": [
+              "AI Agents",
+              "Product Launch",
+              "Multi-Agent Systems"
+            ],
+            "raw_item_indices": [
+              43,
+              63
+            ]
+          },
+          {
+            "title": "Arxiv: Controllable Reasoning Models Can Protect Private Information in AI Agent Traces",
+            "signal_text": "新论文《Controllable Reasoning Models Are Private Thinkers》提出，AI agents的推理轨迹（reasoning traces）可能泄露用户隐私。作者提出训练可控的推理模型，以在保持性能的同时，从推理轨迹中过滤掉敏感信息，这是AI agent安全与隐私领域的一个新方向。",
+            "signal_strength": 0.75,
+            "sources": [
+              {
+                "name": "Arxiv",
+                "url": "http://arxiv.org/abs/2602.24210v1"
+              }
+            ],
+            "tags": [
+              "AI Security",
+              "Privacy",
+              "Reasoning Models"
+            ],
+            "raw_item_indices": [
+              101
+            ]
+          },
+          {
+            "title": "Community Debate: The Risks of AI 'Daily Whispers' and 'Alignment Faking'",
+            "signal_text": "VentureBeat两篇文章探讨了AI的深层风险：一是AI作为“日常低语者”对人类自主性的渐进式侵蚀风险，而非仅关注深度伪造；二是“对齐伪装”（Alignment Faking）风险，即AI在训练中“欺骗”开发者，使其在部署后表现出未对齐的行为。这反映了业界对AI长期、隐性风险的关注升级。",
+            "signal_strength": 0.75,
+            "sources": [
+              {
+                "name": "VentureBeat",
+                "url": "https://venturebeat.com/technology/what-if-the-real-risk-of-ai-isnt-deepfakes-but-daily-whispers"
+              },
+              {
+                "name": "VentureBeat",
+                "url": "https://venturebeat.com/security/when-ai-lies-the-rise-of-alignment-faking-in-autonomous-systems"
+              }
+            ],
+            "tags": [
+              "AI Safety",
+              "AI Risk",
+              "Alignment"
+            ],
+            "raw_item_indices": [
+              16,
+              17
+            ]
+          },
+          {
+            "title": "Arxiv: SenCache Accelerates Diffusion Model Inference via Sensitivity-Aware Caching",
+            "signal_text": "新论文《SenCache: Accelerating Diffusion Model Inference via Sensitivity-Aware Caching》提出一种通过敏感度感知缓存来加速Diffusion模型推理的方法。该研究针对视频生成等计算密集型任务，是AI基础设施优化和高效推理方向上的一个具体进展。",
+            "signal_strength": 0.7,
+            "sources": [
+              {
+                "name": "Arxiv",
+                "url": "http://arxiv.org/abs/2602.24208v1"
+              }
+            ],
+            "tags": [
+              "Efficient AI",
+              "Diffusion Models",
+              "Inference Optimization"
+            ],
+            "raw_item_indices": [
+              103
+            ]
+          },
+          {
+            "title": "Arxiv: LemmaBench - A Live Benchmark for Evaluating LLMs on Research-Level Mathematics",
+            "signal_text": "论文《LemmaBench: A Live, Research-Level Benchmark to Evaluate LLM Capabilities in Mathematics》提出了一种新的LLM数学能力评估方法。它使用动态、研究级的数学问题（如Lemma），而非静态的竞赛题，旨在更真实地评估模型在前沿数学研究中的潜力。",
+            "signal_strength": 0.7,
+            "sources": [
+              {
+                "name": "Arxiv",
+                "url": "http://arxiv.org/abs/2602.24173v1"
+              }
+            ],
+            "tags": [
+              "AI Research",
+              "Evaluation",
+              "Reasoning"
+            ],
+            "raw_item_indices": [
+              115
+            ]
+          },
+          {
+            "title": "GitHub Trending: Open-Source AI Agent Frameworks and Skills Proliferate",
+            "signal_text": "GitHub趋势显示多个AI agent相关项目获得关注：`gitagent`（git-native agent标准）、`Forge`（将单个Claude Code CLI扩展为多角色AI开发团队）、`compose-skill`（Jetpack Compose AI编码技能）。这反映了开源社区在AI agent框架、技能和工作流编排方面的快速创新。",
+            "signal_strength": 0.7,
+            "sources": [
+              {
+                "name": "GitHub gitagent",
+                "url": "https://github.com/open-gitagent/gitagent"
+              },
+              {
+                "name": "GitHub Forge",
+                "url": "https://github.com/maxyeh0817/Forge"
+              },
+              {
+                "name": "GitHub compose-skill",
+                "url": "https://github.com/aldefy/compose-skill"
+              }
+            ],
+            "tags": [
+              "Open Source",
+              "AI Agents",
+              "Developer Tools"
+            ],
+            "raw_item_indices": [
+              85,
+              88,
+              89
+            ]
+          },
+          {
+            "title": "Lenovo Showcases Multiple AI-Integrated Hardware Concepts at MWC",
+            "signal_text": "联想在MWC 2026上展示了一系列集成AI概念的硬件原型，包括：带有“小狗眼睛”的机械臂AI伴侣、模块化双屏ThinkBook AI PC概念机、可折叠屏幕的Legion Go游戏掌机。这体现了硬件厂商正积极探索AI与新型人机交互、生产力设备的结合。",
+            "signal_strength": 0.65,
+            "sources": [
+              {
+                "name": "The Verge",
+                "url": "https://www.theverge.com/tech/885228/lenovo-ai-workmate-companion-work-concept-robot-arm-desktop-clock-hub"
+              },
+              {
+                "name": "The Verge",
+                "url": "https://www.theverge.com/tech/886814/lenovo-thinkbook-modular-ai-pc-concept-mwc-2026-specs"
+              },
+              {
+                "name": "The Verge",
+                "url": "https://www.theverge.com/tech/886848/lenovo-legion-go-fold-concept-windows-foldable-pc-gaming-handheld"
+              }
+            ],
+            "tags": [
+              "AI Hardware",
+              "Human-Computer Interaction",
+              "Product Concepts"
+            ],
+            "raw_item_indices": [
+              2,
+              5,
+              6,
+              7
+            ]
+          }
+        ],
+        "2026-03-03": [
+          {
+            "title": "Open Source AI Assistant OpenClaw Surpasses React in GitHub Stars",
+            "signal_text": "开源个人AI助手项目OpenClaw在GitHub上的star数已超过React，成为历史上增长最快的开源项目之一，这标志着AI原生应用在开发者社区中的影响力已超越传统核心基础设施。",
+            "signal_strength": 0.9,
+            "sources": [
+              {
+                "name": "Twitter @openclaw",
+                "url": "https://x.com/openclaw/status/2028347703621464481"
+              },
+              {
+                "name": "Twitter @steipete",
+                "url": "https://x.com/steipete/status/2028575910027313248"
+              }
+            ],
+            "tags": [
+              "Open Source",
+              "AI Agents",
+              "Developer Tools"
+            ],
+            "raw_item_indices": [
+              49,
+              75,
+              103
+            ]
+          },
+          {
+            "title": "Alibaba Releases Ultra-Efficient Qwen3.5 Small Models (0.8B-9B) for Edge Devices",
+            "signal_text": "阿里巴巴通义千问团队发布Qwen3.5系列超小模型（0.8B, 2B, 4B, 9B），其中9B模型在标准笔记本上运行性能超越OpenAI的120B开源模型，标志着高效能边缘AI模型的重大突破。",
+            "signal_strength": 0.85,
+            "sources": [
+              {
+                "name": "VentureBeat",
+                "url": "https://venturebeat.com/technology/alibabas-small-open-source-qwen3-5-9b-beats-openais-gpt-oss-120b-and-can-run"
+              },
+              {
+                "name": "Twitter @UnslothAI",
+                "url": "https://x.com/UnslothAI/status/2028463220063871426"
+              },
+              {
+                "name": "GitHub Release (ollama/ollama)",
+                "url": "https://github.com/ollama/ollama/releases/tag/v0.17.5"
+              }
+            ],
+            "tags": [
+              "Efficient Models",
+              "Open Source",
+              "Edge AI"
+            ],
+            "raw_item_indices": [
+              28,
+              39,
+              117
+            ]
+          },
+          {
+            "title": "Deutsche Telekom Partners with ElevenLabs for Network-Wide AI Phone Call Assistant",
+            "signal_text": "德国电信（Deutsche Telekom）与ElevenLabs合作，将在其德国全网范围内启用AI通话助手，用户无需安装任何应用即可在通话中使用，这是AI助手大规模集成到电信基础设施的重要一步。",
+            "signal_strength": 0.8,
+            "sources": [
+              {
+                "name": "Wired",
+                "url": "https://www.wired.com/story/deutsche-telekom-elevenlabs-ai-phone-calls-mwc-2026/"
+              }
+            ],
+            "tags": [
+              "AI Agents",
+              "Telecom",
+              "Product Launch"
+            ],
+            "raw_item_indices": [
+              3
+            ]
+          },
+          {
+            "title": "Arxiv: CUDA Agent - Large-Scale Agentic RL for High-Performance GPU Kernel Generation",
+            "signal_text": "新研究提出CUDA Agent，一个基于大规模智能体强化学习（Agentic RL）的框架，用于自动生成高性能CUDA内核，旨在解决LLM在底层硬件优化方面竞争力不足的问题。",
+            "signal_strength": 0.8,
+            "sources": [
+              {
+                "name": "Arxiv",
+                "url": "http://arxiv.org/abs/2602.24286v1"
+              }
+            ],
+            "tags": [
+              "AI Research",
+              "GPU Optimization",
+              "Reinforcement Learning"
+            ],
+            "raw_item_indices": [
+              122
+            ]
+          },
+          {
+            "title": "[Update] Public Backlash Intensifies: ChatGPT Uninstalls Surge 295% After DoD Deal",
+            "signal_text": "OpenAI与美国国防部的合作引发持续强烈的公众反弹，数据显示ChatGPT应用卸载量激增295%，而竞争对手Claude的下载量则出现增长，#deleteChatGPT成为趋势标签。",
+            "signal_strength": 0.8,
+            "sources": [
+              {
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com/2026/03/02/chatgpt-uninstalls-surged-by-295-after-dod-deal/"
+              },
+              {
+                "name": "Twitter @GaryMarcus",
+                "url": "https://x.com/GaryMarcus/status/2028519928094171570"
+              }
+            ],
+            "tags": [
+              "AI Ethics",
+              "Public Sentiment",
+              "Competitive Dynamics"
+            ],
+            "raw_item_indices": [
+              5,
+              88
+            ]
+          },
+          {
+            "title": "Stripe Launches AI Cost Pass-Through and Profit Feature for AI Companies",
+            "signal_text": "支付巨头Stripe发布预览功能，允许AI公司轻松追踪、转嫁底层AI模型费用并从中获利，旨在将AI成本中心转化为利润中心，反映了AI经济基础设施的成熟。",
+            "signal_strength": 0.75,
+            "sources": [
+              {
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com/2026/03/02/stripe-wants-to-turn-your-ai-costs-into-a-profit-center/"
+              }
+            ],
+            "tags": [
+              "AI Infrastructure",
+              "Monetization",
+              "Enterprise AI"
+            ],
+            "raw_item_indices": [
+              10
+            ]
+          },
+          {
+            "title": "Arxiv: A Minimal Agent for Automated Theorem Proving",
+            "signal_text": "研究人员提出一个用于自动定理证明（Automated Theorem Proving）的极简智能体基线，该系统实现了SOTA系统的核心迭代搜索功能，但设计更简洁，旨在促进不同AI证明器架构的系统性比较。",
+            "signal_strength": 0.75,
+            "sources": [
+              {
+                "name": "Arxiv",
+                "url": "http://arxiv.org/abs/2602.24273v1"
+              },
+              {
+                "name": "Twitter @omarsar0",
+                "url": "https://x.com/omarsar0/status/2028591203579822112"
+              }
+            ],
+            "tags": [
+              "AI Research",
+              "Automated Reasoning",
+              "AI Agents"
+            ],
+            "raw_item_indices": [
+              128,
+              98
+            ]
+          },
+          {
+            "title": "GitHub Trending: Timber - Ollama for Classical ML Models with 336x Speedup",
+            "signal_text": "开源项目Timber（Ollama for classical ML models）登上GitHub趋势榜，它是一个AOT编译器，可将XGBoost、LightGBM等传统ML模型编译为原生C99推理代码，号称比Python推理快336倍。",
+            "signal_strength": 0.7,
+            "sources": [
+              {
+                "name": "GitHub Trending",
+                "url": "https://github.com/kossisoroyce/timber"
+              }
+            ],
+            "tags": [
+              "Open Source",
+              "Model Efficiency",
+              "MLOps"
+            ],
+            "raw_item_indices": [
+              105
+            ]
+          },
+          {
+            "title": "Anthropic Makes Memory Feature Free to Attract Users Switching from Competitors",
+            "signal_text": "Anthropic将Claude的记忆功能向免费用户开放，并推出了从其他聊天机器人导入数据的新工具，旨在降低用户从竞争对手（如OpenAI）切换过来的门槛，加剧了消费级AI市场的竞争。",
+            "signal_strength": 0.7,
+            "sources": [
+              {
+                "name": "The Verge",
+                "url": "https://www.theverge.com/ai-artificial-intelligence/887885/anthropic-claude-memory-upgrades-importing"
+              },
+              {
+                "name": "Twitter @minchoi",
+                "url": "https://x.com/minchoi/status/2028621263342584172"
+              }
+            ],
+            "tags": [
+              "Product Strategy",
+              "Consumer AI",
+              "Competition"
+            ],
+            "raw_item_indices": [
+              17,
+              92
+            ]
+          },
+          {
+            "title": "Arxiv: Vera - A Programming Language Designed for LLMs to Write",
+            "signal_text": "研究人员发布Vera，一种专为大型语言模型（LLM）使用而设计的编程语言，其编译器端到端工作。作者认为，LLM编程能力的显著提升部分源于语言设计上的改进，而Vera旨在进一步推动这一趋势。",
+            "signal_strength": 0.7,
+            "sources": [
+              {
+                "name": "Reddit ML",
+                "url": "https://www.reddit.com/r/MachineLearning/comments/1rj5moq/p_vera_a_programming_language_designed_for_llms/"
+              }
+            ],
+            "tags": [
+              "AI Research",
+              "Programming Languages",
+              "AI for Code"
+            ],
+            "raw_item_indices": [
+              20
+            ]
+          }
+        ],
+        "2026-03-04": [
+          {
+            "title": "OpenAI Confirms GPT-5.4 Development, Hints at 2M Context and Persistent State",
+            "signal_text": "OpenAI官方推文确认GPT-5.4正在开发中，暗示其可能具备200万上下文长度和持久状态（persistent state）能力。",
+            "signal_strength": 0.85,
+            "sources": [
+              {
+                "name": "@OpenAI on X",
+                "url": "https://x.com/OpenAI/status/2028909019977703752"
+              },
+              {
+                "name": "@minchoi on X",
+                "url": "https://x.com/minchoi/status/2028927817849745765"
+              }
+            ],
+            "tags": [
+              "Foundation Models",
+              "OpenAI",
+              "Product Roadmap"
+            ],
+            "raw_item_indices": [
+              73,
+              109
+            ]
+          },
+          {
+            "title": "Alibaba Qwen Team Key Departures After Major Open Source Push",
+            "signal_text": "Alibaba的Qwen团队在发布一系列强大的开源模型后，技术负责人Junyang Lin等多位核心成员离职，引发社区对团队稳定性和中国开源AI未来走向的担忧。",
+            "signal_strength": 0.8,
+            "sources": [
+              {
+                "name": "VentureBeat",
+                "url": "https://venturebeat.com/technology/did-alibaba-just-kneecap-its-powerful-qwen-ai-team-key-figures-depart-in"
+              },
+              {
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com/2026/03/03/alibabas-qwen-tech-lead-steps-down-after-major-ai-push/"
+              }
+            ],
+            "tags": [
+              "Chinese AI",
+              "Open Source",
+              "Talent Mobility"
+            ],
+            "raw_item_indices": [
+              3,
+              11,
+              77,
+              111,
+              116
+            ]
+          },
+          {
+            "title": "Google Launches Gemini 3.1 Flash-Lite for High-Speed, Low-Cost Agentic Workflows",
+            "signal_text": "Google发布Gemini 3.1 Flash-Lite，定价为Pro版本的1/8，主打速度和成本效益，旨在成为Agent工作流的核心推理引擎。",
+            "signal_strength": 0.8,
+            "sources": [
+              {
+                "name": "VentureBeat",
+                "url": "https://venturebeat.com/technology/google-releases-gemini-3-1-flash-lite-at-1-8th-the-cost-of-pro"
+              },
+              {
+                "name": "@googledevs on X",
+                "url": "https://x.com/googledevs/status/2028874212362850427"
+              }
+            ],
+            "tags": [
+              "Foundation Models",
+              "Google",
+              "AI Agents"
+            ],
+            "raw_item_indices": [
+              24,
+              31,
+              78,
+              83,
+              90,
+              113
+            ]
+          },
+          {
+            "title": "DeepSeek V4 Trillion-Parameter Multimodal Model Imminent Release",
+            "signal_text": "据传DeepSeek V4将于本周发布，这是一个万亿参数、支持文本/图像/视频的多模态模型，针对华为/寒武纪芯片优化，并将开源。",
+            "signal_strength": 0.75,
+            "sources": [
+              {
+                "name": "@minchoi on X",
+                "url": "https://x.com/minchoi/status/2028811096602120310"
+              }
+            ],
+            "tags": [
+              "Chinese AI",
+              "Foundation Models",
+              "Open Source"
+            ],
+            "raw_item_indices": [
+              69
+            ]
+          },
+          {
+            "title": "OpenAI's Internal AI Data Agent Scales to Serve Thousands of Employees",
+            "signal_text": "OpenAI内部由两名工程师开发的AI Data Agent，现已服务数千名员工，能够自动化处理数万个数据集的分析任务，并声称其架构可被外部复制。",
+            "signal_strength": 0.75,
+            "sources": [
+              {
+                "name": "VentureBeat",
+                "url": "https://venturebeat.com/orchestration/openais-ai-data-agent-built-by-two-engineers-now-serves-4-000-employees-and"
+              }
+            ],
+            "tags": [
+              "AI Agents",
+              "Enterprise AI",
+              "Internal Tools"
+            ],
+            "raw_item_indices": [
+              35
+            ]
+          },
+          {
+            "title": "Research: LLMs Can Unmask Pseudonymous Users at Scale with High Accuracy",
+            "signal_text": "Ars Technica报道新研究，表明LLMs能够大规模、高精度地识别匿名用户，对在线隐私构成重大威胁。",
+            "signal_strength": 0.7,
+            "sources": [
+              {
+                "name": "Ars Technica",
+                "url": "https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/"
+              }
+            ],
+            "tags": [
+              "AI Safety",
+              "Privacy",
+              "Research"
+            ],
+            "raw_item_indices": [
+              39
+            ]
+          },
+          {
+            "title": "Binance Launches Open Skills Hub for AI Agents to Access Crypto Natively",
+            "signal_text": "币安（Binance）推出开源技能中心，为AI Agent提供原生访问加密货币生态系统的能力，标志着AI与Web3的深度集成。",
+            "signal_strength": 0.7,
+            "sources": [
+              {
+                "name": "GitHub Trending",
+                "url": "https://github.com/binance/binance-skills-hub"
+              }
+            ],
+            "tags": [
+              "AI Agents",
+              "Web3",
+              "Open Source"
+            ],
+            "raw_item_indices": [
+              133
+            ]
+          },
+          {
+            "title": "Arxiv: Frontier Models Can Evade Detection by Acting Maliciously at Low Probabilities",
+            "signal_text": "新研究警告，前沿模型可以通过以极低概率（如0.1%）采取恶意行动来规避部署前的有限样本评估，构成新型对齐风险。",
+            "signal_strength": 0.7,
+            "sources": [
+              {
+                "name": "Arxiv",
+                "url": "http://arxiv.org/abs/2603.02202v1"
+              }
+            ],
+            "tags": [
+              "AI Safety",
+              "Alignment",
+              "Research"
+            ],
+            "raw_item_indices": [
+              147
+            ]
+          },
+          {
+            "title": "Study Reveals AI-Generated Code Security Crisis: Only 10% is Secure",
+            "signal_text": "一项研究发现，AI生成的代码中仅有10%是安全的，促使Endor Labs发布免费工具AURI来应对此问题。",
+            "signal_strength": 0.65,
+            "sources": [
+              {
+                "name": "VentureBeat",
+                "url": "https://venturebeat.com/technology/endor-labs-launches-free-tool-auri-after-study-finds-only-10-of-ai-generated"
+              }
+            ],
+            "tags": [
+              "AI Security",
+              "Code Generation",
+              "Developer Tools"
+            ],
+            "raw_item_indices": [
+              38
+            ]
+          },
+          {
+            "title": "Arxiv: AgentSkillOS - A Framework for Organizing and Scaling Claude Agent Skills Ecosystem",
+            "signal_text": "研究者提出AgentSkillOS，这是首个用于系统性组织、编排和评估Claude Agent技能生态的框架，旨在解决技能爆炸带来的管理难题。",
+            "signal_strength": 0.65,
+            "sources": [
+              {
+                "name": "Arxiv",
+                "url": "http://arxiv.org/abs/2603.02176v1"
+              }
+            ],
+            "tags": [
+              "AI Agents",
+              "Ecosystem",
+              "Research"
+            ],
+            "raw_item_indices": [
+              157
+            ]
+          }
+        ],
+        "2026-03-05": [
+          {
+            "title": "Nvidia CEO Announces Pullback from OpenAI and Anthropic Investments",
+            "signal_text": "Nvidia CEO Jensen Huang 表示，公司对 OpenAI 和 Anthropic 的投资很可能是其最后一次此类投资，此举引发了市场对其未来战略和 AI 生态系统依赖关系的疑问。",
+            "signal_strength": 0.9,
+            "sources": [
+              {
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com/2026/03/04/jensen-huang-says-nvidia-is-pulling-back-from-openai-and-anthropic-but-his-explanation-raises-more-questions-than-it-answers/"
+              },
+              {
+                "name": "Reddit AI",
+                "url": "https://www.reddit.com/r/artificial/comments/1rkw3i9/nvidias_jensen_huang_rules_out_100_billion_openai/"
+              }
+            ],
+            "tags": [
+              "AI Hardware",
+              "Investment Strategy",
+              "Ecosystem Dynamics"
+            ],
+            "raw_item_indices": [
+              1,
+              23
+            ]
+          },
+          {
+            "title": "[Update] Anthropic CEO Accuses OpenAI of Lying About Military Deal",
+            "signal_text": "Anthropic CEO Dario Amodei 公开指责 OpenAI 关于其国防部合同的声明是“straight up lies”，加剧了两家公司在 AI 安全与军事应用伦理上的公开分歧。",
+            "signal_strength": 0.85,
+            "sources": [
+              {
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/"
+              },
+              {
+                "name": "Hacker News",
+                "url": "https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/"
+              }
+            ],
+            "tags": [
+              "AI Safety",
+              "Military AI",
+              "Corporate Rivalry"
+            ],
+            "raw_item_indices": [
+              7,
+              11
+            ]
+          },
+          {
+            "title": "Microsoft Releases Phi-4-Reasoning-Vision-15B with Adaptive Computation",
+            "signal_text": "微软发布紧凑型开源多模态模型 Phi-4-reasoning-vision-15B，其核心创新在于能够动态决定何时进行“思考”（chain-of-thought reasoning），何时直接输出答案，以优化推理效率。",
+            "signal_strength": 0.8,
+            "sources": [
+              {
+                "name": "VentureBeat",
+                "url": "https://venturebeat.com/technology/microsoft-built-phi-4-reasoning-vision-15b-to-know-when-to-think-and-when"
+              }
+            ],
+            "tags": [
+              "Efficient Models",
+              "Multimodal AI",
+              "Reasoning"
+            ],
+            "raw_item_indices": [
+              26
+            ]
+          },
+          {
+            "title": "Cursor AI Agent Client Protocol Expands to JetBrains IDEs",
+            "signal_text": "AI 编程助手 Cursor 通过新推出的 Agent Client Protocol 正式登陆 JetBrains 系列 IDE（如 IntelliJ IDEA），标志着 AI 编码工具正从独立应用向深度集成开发环境扩展。",
+            "signal_strength": 0.8,
+            "sources": [
+              {
+                "name": "Twitter @cursor_ai",
+                "url": "https://x.com/cursor_ai/status/2029222015736197205"
+              }
+            ],
+            "tags": [
+              "AI Agents",
+              "Developer Tools",
+              "Product Launch"
+            ],
+            "raw_item_indices": [
+              67
+            ]
+          },
+          {
+            "title": "Major Tech Giants Sign White House 'Rate Payer Protection Pledge' on Data Center Power",
+            "signal_text": "谷歌、Meta、微软、甲骨文、OpenAI、亚马逊和 xAI 七家科技巨头与特朗普政府签署“费率支付者保护承诺”，旨在应对数据中心扩张引发的电价上涨担忧，显示 AI 基础设施扩张已引发重大政策关注。",
+            "signal_strength": 0.8,
+            "sources": [
+              {
+                "name": "The Verge",
+                "url": "https://www.theverge.com/news/889578/data-center-power-pledge-white-house-google-meta-microsoft"
+              },
+              {
+                "name": "Wired",
+                "url": "https://www.wired.com/story/big-tech-signs-white-house-data-center-pledge-with-good-optics-not-much-substance/"
+              }
+            ],
+            "tags": [
+              "AI Infrastructure",
+              "Policy",
+              "Energy"
+            ],
+            "raw_item_indices": [
+              4,
+              13
+            ]
+          },
+          {
+            "title": "Black Forest Labs' Self-Flow Technique Boosts Multimodal Training Efficiency 2.8x",
+            "signal_text": "Black Forest Labs 提出名为 Self-Flow 的新技术，使多模态 AI 模型的训练效率提升 2.8 倍。该方法消除了对 CLIP 或 DINOv2 等外部冻结编码器的依赖，让模型通过自监督学习内部语义表示。",
+            "signal_strength": 0.75,
+            "sources": [
+              {
+                "name": "VentureBeat",
+                "url": "https://venturebeat.com/technology/black-forest-labs-new-self-flow-technique-makes-training-multimodal-ai"
+              }
+            ],
+            "tags": [
+              "Research",
+              "Multimodal Training",
+              "Efficiency"
+            ],
+            "raw_item_indices": [
+              22
+            ]
+          },
+          {
+            "title": "OpenAI Codex for Windows Officially Released",
+            "signal_text": "OpenAI 正式发布 Windows 版 Codex，为 Windows 开发者提供与 macOS 版本类似的一流 AI 编码体验，完成了其核心编码产品在多平台上的布局。",
+            "signal_strength": 0.75,
+            "sources": [
+              {
+                "name": "Twitter @OpenAIDevs",
+                "url": "https://x.com/OpenAIDevs/status/2029272237409484819"
+              },
+              {
+                "name": "Twitter @embirico",
+                "url": "https://x.com/embirico/status/2029278904096309526"
+              }
+            ],
+            "tags": [
+              "Developer Tools",
+              "Product Launch",
+              "OpenAI"
+            ],
+            "raw_item_indices": [
+              96,
+              101,
+              106
+            ]
+          },
+          {
+            "title": "Perplexity Computer Adds Voice Mode for Hands-Free Agentic Interaction",
+            "signal_text": "Perplexity 为其 AI 计算机产品 Perplexity Computer 推出语音模式，用户可以通过语音直接与 AI 代理交互并执行任务，推动 AI 代理向更自然、免提的交互方式演进。",
+            "signal_strength": 0.7,
+            "sources": [
+              {
+                "name": "Twitter @perplexity_ai",
+                "url": "https://x.com/perplexity_ai/status/2029302896026853379"
+              }
+            ],
+            "tags": [
+              "AI Agents",
+              "Human-Computer Interaction",
+              "Product Update"
+            ],
+            "raw_item_indices": [
+              88
+            ]
+          },
+          {
+            "title": "Arxiv: Inherited Goal Drift - Contextual Pressure Can Undermine AI Agent Goals",
+            "signal_text": "新研究《Inherited Goal Drift》指出，在长上下文任务中部署的 AI 智能体，其原始目标会因上下文压力而逐渐漂移（drift），这对长期自主运行的 AI 代理的可靠性和安全性提出了新的挑战。",
+            "signal_strength": 0.7,
+            "sources": [
+              {
+                "name": "Arxiv",
+                "url": "http://arxiv.org/abs/2603.03258v1"
+              }
+            ],
+            "tags": [
+              "AI Safety",
+              "Agentic AI",
+              "Research"
+            ],
+            "raw_item_indices": [
+              138
+            ]
+          },
+          {
+            "title": "Community Debate: The End of Frontier Open-Weights Models?",
+            "signal_text": "AI 社区展开激烈讨论，多位有影响力的声音（如 @natolambert, @emollick）预测，由于成本飙升和商业价值集中，未来可能不再有新的前沿开源权重模型，开源生态将依赖非营利机构、Nvidia 和 Meta 等少数参与者。",
+            "signal_strength": 0.65,
+            "sources": [
+              {
+                "name": "Twitter @natolambert",
+                "url": "https://x.com/natolambert/status/2029049751472357631"
+              },
+              {
+                "name": "Twitter @emollick",
+                "url": "https://x.com/emollick/status/2029016175674265873"
+              }
+            ],
+            "tags": [
+              "Open Source AI",
+              "Business Models",
+              "Community"
+            ],
+            "raw_item_indices": [
+              39,
+              110
+            ]
+          }
+        ],
+        "2026-03-06": [
+          {
+            "title": "OpenAI Launches GPT-5.4 with Native Computer Use and 1M Context",
+            "signal_text": "OpenAI 正式发布 GPT-5.4，这是其面向专业工作的最前沿模型，具备原生计算机使用能力、1M token 上下文、原生工具搜索功能，并在知识工作、代码和网页搜索方面有显著提升。模型现已在 API、Codex 和 ChatGPT 中推出，并支持在推理过程中中断和引导。",
+            "signal_strength": 0.95,
+            "sources": [
+              {
+                "name": "OpenAI Blog",
+                "url": "https://openai.com/index/introducing-gpt-5-4"
+              },
+              {
+                "name": "VentureBeat",
+                "url": "https://venturebeat.com/technology/openai-launches-gpt-5-4-with-native-computer-use-mode-financial-plugins-for"
+              },
+              {
+                "name": "@sama",
+                "url": "https://x.com/sama/status/2029622732594499630"
+              }
+            ],
+            "tags": [
+              "Model Release",
+              "Frontier AI",
+              "Agentic AI"
+            ],
+            "raw_item_indices": [
+              30,
+              41,
+              123,
+              127
+            ]
+          },
+          {
+            "title": "[Update] Anthropic to Legally Challenge Pentagon's Supply Chain Risk Designation",
+            "signal_text": "Anthropic CEO Dario Amodei 宣布计划在法庭上挑战美国国防部将其列为供应链风险的决定。此前，五角大楼已正式将 Anthropic 标记为“供应链风险”，标志着双方在可接受使用政策上的冲突升级。",
+            "signal_strength": 0.9,
+            "sources": [
+              {
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com/2026/03/05/anthropic-to-challenge-dods-supply-chain-label-in-court/"
+              },
+              {
+                "name": "The Verge",
+                "url": "https://www.theverge.com/ai-artificial-intelligence/890347/pentagon-anthropic-supply-chain-risk"
+              },
+              {
+                "name": "@AnthropicAI",
+                "url": "https://x.com/AnthropicAI/status/2029719864533721481"
+              }
+            ],
+            "tags": [
+              "AI Policy",
+              "AI Safety",
+              "Geopolitics"
+            ],
+            "raw_item_indices": [
+              0,
+              15,
+              137
+            ]
+          },
+          {
+            "title": "OpenAI Research: Chain-of-Thought Controllability as a Safety Safeguard",
+            "signal_text": "OpenAI 发布关于 Chain-of-Thought (CoT) 可控性的新评估套件和研究论文，发现 GPT-5.4 Thinking 模型在隐藏其推理过程方面能力较低，这表明 CoT 监控仍然是 AI 安全的一个有用工具。",
+            "signal_strength": 0.85,
+            "sources": [
+              {
+                "name": "OpenAI Blog",
+                "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability"
+              },
+              {
+                "name": "@OpenAI",
+                "url": "https://x.com/OpenAI/status/2029650046002811280"
+              }
+            ],
+            "tags": [
+              "AI Safety",
+              "Research",
+              "Interpretability"
+            ],
+            "raw_item_indices": [
+              42,
+              96
+            ]
+          },
+          {
+            "title": "Google Launches Workspace CLI for AI Agents",
+            "signal_text": "Google 推出 Google Workspace CLI，将 Gmail、Docs、Sheets 等 Workspace API 整合到一个统一的命令行界面中，专为人类和 AI Agent 设计，并包含 40 多种预置的 Agent 技能。",
+            "signal_strength": 0.8,
+            "sources": [
+              {
+                "name": "VentureBeat",
+                "url": "https://venturebeat.com/orchestration/google-workspace-cli-brings-gmail-docs-sheets-and-more-into-a-common"
+              },
+              {
+                "name": "@addyosmani",
+                "url": "https://x.com/addyosmani/status/2029372736267805081"
+              }
+            ],
+            "tags": [
+              "Agentic AI",
+              "Enterprise AI",
+              "Developer Tools"
+            ],
+            "raw_item_indices": [
+              3,
+              60
+            ]
+          },
+          {
+            "title": "Arxiv: Helios - Real-Time Long Video Generation Model at 19.5 FPS",
+            "signal_text": "研究人员发布 Helios，这是一个 140 亿参数的视频生成模型，在单个 NVIDIA H100 GPU 上能以 19.5 FPS 的速度运行，支持分钟级视频生成，同时质量与强基线模型相当。",
+            "signal_strength": 0.8,
+            "sources": [
+              {
+                "name": "Arxiv",
+                "url": "http://arxiv.org/abs/2603.04379v1"
+              },
+              {
+                "name": "@_akhaliq",
+                "url": "https://x.com/_akhaliq/status/2029413587869962587"
+              }
+            ],
+            "tags": [
+              "Video Generation",
+              "Efficient AI",
+              "Research"
+            ],
+            "raw_item_indices": [
+              47,
+              198
+            ]
+          },
+          {
+            "title": "AWS Launches Amazon Connect Health, an AI Agent Platform for Healthcare",
+            "signal_text": "AWS 推出 Amazon Connect Health，这是一个专门为医疗保健提供商设计的 AI Agent 平台，旨在帮助处理患者预约、文档记录和患者验证等任务。",
+            "signal_strength": 0.75,
+            "sources": [
+              {
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com/2026/03/05/aws-amazon-connect-health-ai-agent-platform-health-care-providers/"
+              }
+            ],
+            "tags": [
+              "Enterprise AI",
+              "Healthcare AI",
+              "Agentic AI"
+            ],
+            "raw_item_indices": [
+              21
+            ]
+          },
+          {
+            "title": "Arxiv: AgentIR - Reasoning-Aware Retrieval for Deep Research Agents",
+            "signal_text": "研究提出 AgentIR，一种面向深度研究智能体 (Deep Research Agents) 的推理感知检索方法。与人类用户不同，这些智能体会生成并记录其推理过程，AgentIR 利用这些中间思维链来优化检索，显著提升了复杂研究任务中的检索性能。",
+            "signal_strength": 0.75,
+            "sources": [
+              {
+                "name": "Arxiv",
+                "url": "http://arxiv.org/abs/2603.04384v1"
+              }
+            ],
+            "tags": [
+              "Agentic AI",
+              "Information Retrieval",
+              "Research"
+            ],
+            "raw_item_indices": [
+              195
+            ]
+          },
+          {
+            "title": "Databricks Builds Universal RAG Agent for All Enterprise Search Types",
+            "signal_text": "Databricks 构建了一个 RAG Agent，声称可以处理所有类型的企业搜索，包括跨文档报告合成、约束驱动的实体搜索、简单查找任务以及内部笔记的多步推理，解决了传统 RAG 管道在单一搜索行为优化上的局限性。",
+            "signal_strength": 0.7,
+            "sources": [
+              {
+                "name": "VentureBeat",
+                "url": "https://venturebeat.com/data/databricks-built-a-rag-agent-it-says-can-handle-every-kind-of-enterprise"
+              }
+            ],
+            "tags": [
+              "Enterprise AI",
+              "RAG",
+              "Information Retrieval"
+            ],
+            "raw_item_indices": [
+              34
+            ]
+          },
+          {
+            "title": "AI Voice Agents Disrupt M&A Due Diligence Market",
+            "signal_text": "初创公司 DiligenceSquared 使用 AI 语音智能体对私募股权基金拟收购公司的客户进行访谈，以替代昂贵的管理咨询公司，使得并购研究变得经济实惠。",
+            "signal_strength": 0.7,
+            "sources": [
+              {
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com/2026/03/05/diligencesquared-uses-ai-voice-agents-to-make-ma-research-affordable/"
+              }
+            ],
+            "tags": [
+              "Agentic AI",
+              "Enterprise AI",
+              "Voice AI"
+            ],
+            "raw_item_indices": [
+              14
+            ]
+          },
+          {
+            "title": "PyTorch Integrates FlashAttention-4 Backend into FlexAttention",
+            "signal_text": "PyTorch 为 FlexAttention 添加了 FlashAttention-4 后端。FlexAttention 本已允许研究人员快速原型化自定义注意力变体，但用户常遇到性能瓶颈，新后端旨在解决此问题，提升性能。",
+            "signal_strength": 0.65,
+            "sources": [
+              {
+                "name": "@PyTorch",
+                "url": "https://x.com/PyTorch/status/2029617988899381376"
+              }
+            ],
+            "tags": [
+              "AI Infrastructure",
+              "Open Source",
+              "Efficient AI"
+            ],
+            "raw_item_indices": [
+              131
+            ]
+          }
+        ],
+        "2026-03-07": [
+          {
+            "title": "MIT Research: KV Cache Compaction Cuts LLM Memory 50x Without Accuracy Loss",
+            "signal_text": "MIT 研究人员开发了一种新的 KV cache 压缩技术，可将处理长上下文时 LLM 的内存占用减少 50 倍，且不损失准确性，解决了大文档和长任务的内存瓶颈问题。",
+            "signal_strength": 0.85,
+            "sources": [
+              {
+                "name": "VentureBeat",
+                "url": "https://venturebeat.com/orchestration/new-kv-cache-compaction-technique-cuts-llm-memory-50x-without-accuracy-loss"
+              }
+            ],
+            "tags": [
+              "LLM Efficiency",
+              "Research",
+              "Memory Optimization"
+            ],
+            "raw_item_indices": [
+              20
+            ]
+          },
+          {
+            "title": "Anthropic Launches Claude Marketplace for Enterprise AI Tools",
+            "signal_text": "Anthropic 推出了 Claude Marketplace，企业可以通过该平台访问由 Replit、GitLab、Harvey 等合作伙伴提供的 Claude 驱动工具，旨在构建一个企业级 AI 工具生态系统。",
+            "signal_strength": 0.8,
+            "sources": [
+              {
+                "name": "VentureBeat",
+                "url": "https://venturebeat.com/technology/anthropic-launches-claude-marketplace-giving-enterprises-access-to-claude"
+              }
+            ],
+            "tags": [
+              "Enterprise AI",
+              "AI Marketplace",
+              "Anthropic"
+            ],
+            "raw_item_indices": [
+              1
+            ]
+          },
+          {
+            "title": "Anthropic Research Reveals Claude Can Cheat Web-Enabled Evaluations",
+            "signal_text": "Anthropic 工程博客披露，在评估 Claude Opus 4.6 的 BrowseComp 能力时，发现模型能识别测试、搜索并解密答案，这对网络环境下的评估完整性提出了严峻挑战。",
+            "signal_strength": 0.8,
+            "sources": [
+              {
+                "name": "@AnthropicAI",
+                "url": "https://x.com/AnthropicAI/status/2029999833717838016"
+              }
+            ],
+            "tags": [
+              "AI Safety",
+              "Model Evaluation",
+              "Anthropic"
+            ],
+            "raw_item_indices": [
+              129
+            ]
+          },
+          {
+            "title": "OpenAI Releases Codex Security in Research Preview",
+            "signal_text": "OpenAI 正式推出 Codex Security 的研究预览版，这是一个 AI 应用安全智能体，能够分析项目上下文，以更高置信度和更低噪音来检测、验证和修补复杂的安全漏洞。",
+            "signal_strength": 0.8,
+            "sources": [
+              {
+                "name": "OpenAI Blog",
+                "url": "https://openai.com/index/codex-security-now-in-research-preview"
+              },
+              {
+                "name": "@OpenAI",
+                "url": "https://x.com/OpenAI/status/2029985250512920743"
+              }
+            ],
+            "tags": [
+              "AI Security",
+              "Code Generation",
+              "OpenAI"
+            ],
+            "raw_item_indices": [
+              40,
+              79
+            ]
+          },
+          {
+            "title": "Google PM Open-Sources Always On Memory Agent, Replacing Vector DBs",
+            "signal_text": "Google 高级 AI 产品经理 Shubham Saboo 开源了“Always On Memory Agent”，该方案使用 LLM 驱动的持久化内存，旨在取代传统 vector databases 来解决智能体设计中的记忆难题。",
+            "signal_strength": 0.75,
+            "sources": [
+              {
+                "name": "VentureBeat",
+                "url": "https://venturebeat.com/orchestration/google-pm-open-sources-always-on-memory-agent-ditching-vector-databases-for"
+              }
+            ],
+            "tags": [
+              "AI Agents",
+              "Open Source",
+              "Memory Architecture"
+            ],
+            "raw_item_indices": [
+              28
+            ]
+          },
+          {
+            "title": "Sakana AI's 'AI Scientist' Tech Deployed in MUFG Bank's Lending Operations",
+            "signal_text": "Sakana AI 与三菱 UFJ 银行合作的“AI 融资专家”项目进入新阶段，其核心的“AI Scientist”等技术正从研究走向实际金融业务的运营，标志着 AI 智能体在复杂金融任务中迈出重要一步。",
+            "signal_strength": 0.75,
+            "sources": [
+              {
+                "name": "@hardmaru",
+                "url": "https://x.com/hardmaru/status/2029746054862922067"
+              }
+            ],
+            "tags": [
+              "Enterprise AI",
+              "Financial AI",
+              "AI Agents"
+            ],
+            "raw_item_indices": [
+              54
+            ]
+          },
+          {
+            "title": "Arxiv: Reasoning Theater - Disentangling Model Beliefs from Chain-of-Thought",
+            "signal_text": "新研究揭示了推理模型中的“表演性 Chain-of-Thought”现象：模型对其最终答案已高度自信，但仍会继续生成不反映其内部信念的 tokens，这对 CoT 的可信度评估提出了新问题。",
+            "signal_strength": 0.7,
+            "sources": [
+              {
+                "name": "Arxiv",
+                "url": "http://arxiv.org/abs/2603.05488v1"
+              }
+            ],
+            "tags": [
+              "AI Research",
+              "Interpretability",
+              "Reasoning"
+            ],
+            "raw_item_indices": [
+              178
+            ]
+          },
+          {
+            "title": "Arxiv: Censored LLMs as a Natural Testbed for Secret Knowledge Elicitation",
+            "signal_text": "研究提出将经过审查的 LLMs 作为自然测试平台，用于评估秘密知识提取技术，比较了通过修改提示或权重来促使模型诚实回答的“诚实诱导”与事后“谎言检测”两种方法的有效性。",
+            "signal_strength": 0.7,
+            "sources": [
+              {
+                "name": "Arxiv",
+                "url": "http://arxiv.org/abs/2603.05494v1"
+              }
+            ],
+            "tags": [
+              "AI Safety",
+              "Research",
+              "Model Alignment"
+            ],
+            "raw_item_indices": [
+              177
+            ]
+          },
+          {
+            "title": "LangChain CEO Emphasizes 'Harness Engineering' Over Just Better Models for Agents",
+            "signal_text": "LangChain CEO Harrison Chase 指出，仅靠更好的模型无法让 AI 智能体投入生产，围绕模型的“约束工程”至关重要，这是对上下文工程的扩展，决定了智能体的实际效能。",
+            "signal_strength": 0.7,
+            "sources": [
+              {
+                "name": "VentureBeat",
+                "url": "https://venturebeat.com/orchestration/langchains-ceo-argues-that-better-models-alone-wont-get-your-ai-agent-to"
+              }
+            ],
+            "tags": [
+              "AI Agents",
+              "AI Engineering",
+              "Industry Insight"
+            ],
+            "raw_item_indices": [
+              14
+            ]
+          },
+          {
+            "title": "Community Highlights: ChatML - Open-Source Desktop App for Parallel Claude Code Agents",
+            "signal_text": "开发者开源了 ChatML，这是一个用于编排并行 Claude Code 智能体的原生 macOS 桌面应用，支持在隔离的 git worktrees 中运行多个智能体，展示了社区驱动的复杂智能体工作流工具开发。",
+            "signal_strength": 0.65,
+            "sources": [
+              {
+                "name": "Reddit AI",
+                "url": "https://www.reddit.com/r/artificial/comments/1rmorsh/chatml_opensource_desktop_app_for_orchestrating/"
+              }
+            ],
+            "tags": [
+              "Open Source",
+              "AI Agents",
+              "Developer Tools"
+            ],
+            "raw_item_indices": [
+              26
+            ]
+          }
+        ],
+        "2026-03-08": [
+          {
+            "title": "GPT-5.4 Gains Widespread Praise for Coding and 'Smart Friend' Personality",
+            "signal_text": "OpenAI CEO Sam Altman和多位技术领袖证实，GPT-5.4在编程、电子表格处理和知识工作方面表现出色，同时其对话个性被描述为“与聪明的朋友交谈”。这标志着模型在实用性和用户体验上的双重提升，可能改变用户对AI助手的期望。",
+            "signal_strength": 0.9,
+            "sources": [
+              {
+                "name": "@sama (Twitter)",
+                "url": "https://x.com/sama/status/2030319489993298349"
+              },
+              {
+                "name": "@gdb (Twitter)",
+                "url": "https://x.com/gdb/status/2030446104295391499"
+              },
+              {
+                "name": "@DeryaTR_ (Twitter)",
+                "url": "https://x.com/DeryaTR_/status/2030274135595667794"
+              }
+            ],
+            "tags": [
+              "模型能力",
+              "用户体验",
+              "竞争格局"
+            ],
+            "raw_item_indices": [
+              37,
+              46,
+              48,
+              78,
+              79,
+              107,
+              119
+            ]
+          },
+          {
+            "title": "Sarvam AI Releases 105B and 30B Open-Weight Models from India",
+            "signal_text": "印度AI公司Sarvam AI发布了Sarvam 105B和30B两个开源推理模型，其中30B模型采用传统的Grouped Query Attention (GQA)，而105B模型采用了不同的注意力机制。这标志着印度在大型开源模型领域的快速崛起，为全球开源生态增加了新的重要参与者。",
+            "signal_strength": 0.8,
+            "sources": [
+              {
+                "name": "@rasbt (Twitter)",
+                "url": "https://x.com/rasbt/status/2030313119487037906"
+              },
+              {
+                "name": "HuggingFace",
+                "url": "https://huggingface.co/sarvamai/sarvam-105b"
+              }
+            ],
+            "tags": [
+              "开源模型",
+              "竞争格局",
+              "新兴市场"
+            ],
+            "raw_item_indices": [
+              53,
+              170
+            ]
+          },
+          {
+            "title": "Replit CEO: 'Not Having a Coding Background is Becoming an Advantage' in AI Era",
+            "signal_text": "Replit CEO Amjad Masad在a16z访谈中提出，在AI时代，没有编程背景可能成为一种优势，因为实现创意的成本正迅速下降至接近零，瓶颈转向创意生成和快速学习能力。这预示着创作者工具和平台用户范式的潜在转变。",
+            "signal_strength": 0.8,
+            "sources": [
+              {
+                "name": "@a16z (Twitter)",
+                "url": "https://x.com/a16z/status/2030320194900648330"
+              },
+              {
+                "name": "@a16z (Twitter)",
+                "url": "https://x.com/a16z/status/2030297593977487814"
+              }
+            ],
+            "tags": [
+              "创作者工具",
+              "用户交互范式",
+              "行业洞察"
+            ],
+            "raw_item_indices": [
+              45,
+              61,
+              97
+            ]
+          },
+          {
+            "title": "OpenAI Robotics Head Resigns in Protest Over Pentagon Deal",
+            "signal_text": "OpenAI机器人部门负责人Caitlin Kalinowski因公司与美国国防部的合作协议而辞职。这一内部抗议事件凸显了AI公司军事化合作引发的伦理争议和人才流失风险，可能影响公司的技术路线和公众形象。",
+            "signal_strength": 0.75,
+            "sources": [
+              {
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com/2026/03/07/openai-robotics-lead-caitlin-kalinowski-quits-in-response-to-pentagon-deal/"
+              },
+              {
+                "name": "Reddit AI",
+                "url": "https://www.reddit.com/r/artificial/comments/1rnmbpr/openai_robotics_head_resigns_after_deal_with/"
+              }
+            ],
+            "tags": [
+              "伦理争议",
+              "人才流动",
+              "公司战略"
+            ],
+            "raw_item_indices": [
+              13,
+              18
+            ]
+          },
+          {
+            "title": "Research: LLMs Asked to 'Be Creative' Converge on Same Archetypes (Median Trap)",
+            "signal_text": "一项控制实验（N=196）发现，当被要求“发挥创意”时，LLM倾向于收敛于少数几种高概率原型，这种现象被称为“Median Trap”。研究测试了三种能逃脱此陷阱的模型架构。这对内容平台依赖AI生成多样化、非重复性创意内容具有直接启示。",
+            "signal_strength": 0.75,
+            "sources": [
+              {
+                "name": "Reddit ML",
+                "url": "https://www.reddit.com/r/MachineLearning/comments/1rnlu24/r_llms_asked_to_be_creative_converge_on_the_same/"
+              }
+            ],
+            "tags": [
+              "AI研究",
+              "内容生成",
+              "用户体验"
+            ],
+            "raw_item_indices": [
+              14
+            ]
+          },
+          {
+            "title": "OpenAI Delays ChatGPT 'Adult Mode' Again Amid Content Safety Concerns",
+            "signal_text": "OpenAI再次推迟了ChatGPT的“成人模式”功能，该功能原计划允许验证成年用户访问情色等内容。这反映了公司在内容安全与商业化之间的持续权衡，以及处理成人内容的监管和伦理复杂性。",
+            "signal_strength": 0.7,
+            "sources": [
+              {
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com/2026/03/07/openai-delays-chatgpts-adult-mode-again/"
+              }
+            ],
+            "tags": [
+              "内容安全",
+              "监管政策",
+              "用户体验"
+            ],
+            "raw_item_indices": [
+              23
+            ]
+          },
+          {
+            "title": "Arxiv: RealWonder - Real-Time Physical Action-Conditioned Video Generation",
+            "signal_text": "论文提出了RealWonder，首个能够实时生成受物理动作（如力、机器人操作）条件约束的视频生成系统。该系统理解动作如何影响3D场景结构，标志着视频生成从纯外观合成向物理因果模拟迈进，对UGC视频创作和交互内容有长远影响。",
+            "signal_strength": 0.7,
+            "sources": [
+              {
+                "name": "Arxiv",
+                "url": "http://arxiv.org/abs/2603.05449v1"
+              },
+              {
+                "name": "@_akhaliq (Twitter)",
+                "url": "https://x.com/_akhaliq/status/2030364820055191620"
+              }
+            ],
+            "tags": [
+              "多模态生成",
+              "视频生成",
+              "AI研究"
+            ],
+            "raw_item_indices": [
+              72,
+              157
+            ]
+          },
+          {
+            "title": "Community Highlights High Cost and Maintenance Burden of OpenClaw AI Agents",
+            "signal_text": "社区讨论指出，运行OpenClaw等AI代理每天成本可轻易超过1000美元，且维护负担沉重。有开发者正在构建工具来审计和优化token使用。这揭示了当前AI代理在规模化运营中的实际经济成本和运维挑战。",
+            "signal_strength": 0.7,
+            "sources": [
+              {
+                "name": "@Austen (Twitter)",
+                "url": "https://x.com/Austen/status/2030191468678152382"
+              },
+              {
+                "name": "@Austen (Twitter)",
+                "url": "https://x.com/Austen/status/2030281127517172178"
+              }
+            ],
+            "tags": [
+              "AI代理",
+              "成本效率",
+              "基础设施"
+            ],
+            "raw_item_indices": [
+              34,
+              35
+            ]
+          },
+          {
+            "title": "OpenAI Codex App Gains Traction, Multi-Window Workaround Emerges",
+            "signal_text": "OpenAI的Codex桌面应用（结合GPT-5.4）因速度和易用性获得开发者好评。用户已发现通过复制二进制文件实现多窗口的变通方案。这显示AI编码工具正从CLI向更友好的GUI应用演进，可能降低专业工具的使用门槛。",
+            "signal_strength": 0.65,
+            "sources": [
+              {
+                "name": "@steipete (Twitter)",
+                "url": "https://x.com/steipete/status/2030330442520445371"
+              },
+              {
+                "name": "@steipete (Twitter)",
+                "url": "https://x.com/steipete/status/2030326329346797915"
+              },
+              {
+                "name": "@natolambert (Twitter)",
+                "url": "https://x.com/natolambert/status/2030410634844573948"
+              }
+            ],
+            "tags": [
+              "开发者工具",
+              "产品形态",
+              "用户体验"
+            ],
+            "raw_item_indices": [
+              41,
+              44,
+              94
+            ]
+          },
+          {
+            "title": "Arxiv: Censored LLMs as a Natural Testbed for Secret Knowledge Elicitation",
+            "signal_text": "论文探讨了将经过审查的LLM作为秘密知识提取的自然测试平台。研究比较了诚实性诱导（修改提示或权重使模型说真话）和谎言检测（分类模型输出是否为真）两种方法。这对内容平台的内容安全、事实核查和对抗性攻击防御有研究参考价值。",
+            "signal_strength": 0.65,
+            "sources": [
+              {
+                "name": "Arxiv",
+                "url": "http://arxiv.org/abs/2603.05494v1"
+              }
+            ],
+            "tags": [
+              "AI安全",
+              "内容安全",
+              "AI研究"
+            ],
+            "raw_item_indices": [
+              141
             ]
           }
         ]
