@@ -198,6 +198,16 @@ Save to `data/weekly/`:
 
 **Critical**: Do NOT modify any files in `memory/`. Only write to `data/weekly/`.
 
+### Step 7: Git Push
+
+After all files are saved, run:
+
+```bash
+cd /Users/zhouzhile/ai-frontier-insight && git add data/weekly/ && git commit -m "weekly: $(date +%Y)-W$(date +%V) insight" && git push
+```
+
+This ensures the weekly report is immediately available on GitHub for downstream consumers (e.g. OpenClaw).
+
 ## Language Guidelines
 
 - Primary language: Chinese (中文)
