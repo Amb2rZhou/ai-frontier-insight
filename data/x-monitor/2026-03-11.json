@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-11T09:10:59.891420",
+  "scraped_at": "2026-03-11T11:57:58.571401",
   "date": "2026-03-11",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 66,
-  "account_count": 35,
+  "tweet_count": 73,
+  "account_count": 36,
   "tweets": [
     {
       "id": "2031434536375230731",
@@ -768,6 +768,83 @@
       "likes": 55,
       "retweets": 3,
       "views": 3626
+    },
+    {
+      "id": "2031579053879091504",
+      "username": "emollick",
+      "text": "Since it is AI Lab vagueposting season, the following rules should apply:\n1) If it is a upcoming product launch, use obscure emoji\n2) If it is a subtle dig at another lab, use emoticons\n3) If it is vagueposting about AGI or RSI or whatever, it must be as ominous rhyming prophecy",
+      "timestamp": "2026-03-11T03:52:46+00:00",
+      "url": "https://x.com/emollick/status/2031579053879091504",
+      "images": [],
+      "likes": 7,
+      "retweets": 0,
+      "views": 483
+    },
+    {
+      "id": "2031575412967616632",
+      "username": "levie",
+      "text": "There are some pretty wild downstream effects in a world with trillions of agents using the internet and software. \n\nOne very big one is what happens with agents with budgets and wallets. There are lots of business models that never ended up working out for the human-based",
+      "timestamp": "2026-03-11T03:38:17+00:00",
+      "url": "https://x.com/levie/status/2031575412967616632",
+      "images": [],
+      "likes": 30,
+      "retweets": 3,
+      "views": 7227
+    },
+    {
+      "id": "2031573326737387644",
+      "username": "NVIDIARobotics",
+      "text": "Need a quick guide to running OpenClaw locally on an NVIDIA Jetson? 🦞\n\nCheck out this walkthrough using @Ollama and a compact Qwen 3.5 2B model, featuring a two‑agent demo on the same device, showing how this setup can power robot copilots, operator assist, and edge AI https://t.co/7RXyC8wcOp",
+      "timestamp": "2026-03-11T03:30:00+00:00",
+      "url": "https://x.com/NVIDIARobotics/status/2031573326737387644",
+      "images": [],
+      "likes": 24,
+      "retweets": 8,
+      "views": 1284
+    },
+    {
+      "id": "2031562175970684965",
+      "username": "RisingSayak",
+      "text": "Thanks for using 🤗 kernels, @karpathy :)\n\nWhat should we improve? \n\nAny kernel(s) on your mind we should make available on the Hub and compatible with 🤗 kernels?",
+      "timestamp": "2026-03-11T02:45:42+00:00",
+      "url": "https://x.com/RisingSayak/status/2031562175970684965",
+      "images": [],
+      "likes": 14,
+      "retweets": 0,
+      "views": 739
+    },
+    {
+      "id": "2031554936115442095",
+      "username": "natolambert",
+      "text": "Wow the first time Olmo is top is for LEAST DEPRESSED that's a huge win. Go team. \n\nHappy models make happy users.",
+      "timestamp": "2026-03-11T02:16:55+00:00",
+      "url": "https://x.com/natolambert/status/2031554936115442095",
+      "images": [],
+      "likes": 21,
+      "retweets": 0,
+      "views": 2693
+    },
+    {
+      "id": "2031549266963878300",
+      "username": "gdb",
+      "text": "such suspense — gpt-5.4 pro (potentially) for open mathematics:",
+      "timestamp": "2026-03-11T01:54:24+00:00",
+      "url": "https://x.com/gdb/status/2031549266963878300",
+      "images": [],
+      "likes": 210,
+      "retweets": 14,
+      "views": 22728
+    },
+    {
+      "id": "2031545221943624008",
+      "username": "DeryaTR_",
+      "text": "I have an important message for the record. I have tested the GPT-5.4 Pro model with over 100 prompts from my private cross-domain generalization benchmark battery. I am now confident that GPT-5.4 Pro has reached AGI Level 1 threshold!\n\nThis means it can generalize and deduce",
+      "timestamp": "2026-03-11T01:38:19+00:00",
+      "url": "https://x.com/DeryaTR_/status/2031545221943624008",
+      "images": [],
+      "likes": 326,
+      "retweets": 29,
+      "views": 15870
     }
   ]
 }
