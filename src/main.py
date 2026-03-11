@@ -11,6 +11,7 @@ Commands:
 import json
 import sys
 from datetime import datetime, timedelta
+from pathlib import Path
 from zoneinfo import ZoneInfo
 
 from .analysis.insight_generator import (
@@ -21,7 +22,7 @@ from .analysis.insight_generator import (
 from .analysis.signal_extractor import extract_signals
 from .collectors.rss import RSSCollector
 from .delivery.webhook import send_webhook
-from .formatters.daily_markdown import format_daily_brief
+from .formatters.daily_markdown import format_daily_brief, export_daily_markdown
 from .memory.manager import save_daily_signals
 from .utils.config import get_timezone, load_settings
 from .utils.draft import load_draft, save_draft, update_draft_status
@@ -149,7 +150,12 @@ def cmd_daily():
     from .utils.archive import archive_daily, cleanup_old_data
     archive_daily(today, raw_items, insights, trend_summary)
 
-    # Step 9: Clean up expired data
+    # Step 9: Export markdown for Redoc / OpenClaw
+    daily_dir = str(Path(__file__).resolve().parents[1] / "data" / "daily" / today)
+    md_content = export_daily_markdown(today, insights, trend_summary, output_dir=daily_dir)
+    print(f"  - Markdown exported: {daily_dir}/{today}_daily.md")
+
+    # Step 10: Clean up expired data
     cleanup_old_data()
 
     print(f"\n=== Daily pipeline complete: {len(insights)} insights saved ===")
