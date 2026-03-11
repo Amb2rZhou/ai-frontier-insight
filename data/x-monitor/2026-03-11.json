@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-11T16:33:03.703614",
+  "scraped_at": "2026-03-11T22:08:20.445492",
   "date": "2026-03-11",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 88,
-  "account_count": 39,
+  "tweet_count": 102,
+  "account_count": 47,
   "tweets": [
     {
       "id": "2031434536375230731",
@@ -1016,6 +1016,174 @@
       "likes": 346,
       "retweets": 53,
       "views": 19498
+    },
+    {
+      "id": "2031731250906444235",
+      "username": "CSProfKGD",
+      "text": "Giving a talk soon here at @LMU_Muenchen for Björn Ommer’s group ❤️ https://t.co/8OHT2oedjB",
+      "timestamp": "2026-03-11T13:57:32+00:00",
+      "url": "https://x.com/CSProfKGD/status/2031731250906444235",
+      "images": [
+        "https://pbs.twimg.com/media/HDIozJHXIAEQOyN.jpg"
+      ],
+      "likes": 1,
+      "retweets": 0,
+      "views": 79
+    },
+    {
+      "id": "2031730268596310141",
+      "username": "rasbt",
+      "text": "The Ch08 Nb on distilling LLMs is now on GitHub: https://t.co/bPRyIU5BhH\n\nHard distillation that works with any LLM (minding the terms of service, of course). https://t.co/KscPulkj7q",
+      "timestamp": "2026-03-11T13:53:38+00:00",
+      "url": "https://x.com/rasbt/status/2031730268596310141",
+      "images": [
+        "https://pbs.twimg.com/media/HDInpVZWsAAms34.jpg"
+      ],
+      "likes": 63,
+      "retweets": 9,
+      "views": 1728
+    },
+    {
+      "id": "2031727864199208972",
+      "username": "omarsar0",
+      "text": "A self-evolving framework to discover and refine agent skills.\n\nMost agent skills I see today are hand-crafted or poorly designed by an agent.\n\nMulti-agent systems for building skills look promising.\n\nThis paper introduces EvoSkill, a self-evolving framework that automatically https://t.co/8RMOgaxVE6",
+      "timestamp": "2026-03-11T13:44:05+00:00",
+      "url": "https://x.com/omarsar0/status/2031727864199208972",
+      "images": [
+        "https://pbs.twimg.com/media/HDIluaFaQAAQ_8i.jpg"
+      ],
+      "likes": 26,
+      "retweets": 5,
+      "views": 1210
+    },
+    {
+      "id": "2031718525581103203",
+      "username": "minchoi",
+      "text": "Meta just bought Moltbook\n\na social network where only AI agents can post.\n\nHumans can only watch. 👀 https://t.co/gz4rEXsCdI",
+      "timestamp": "2026-03-11T13:06:58+00:00",
+      "url": "https://x.com/minchoi/status/2031718525581103203",
+      "images": [
+        "https://pbs.twimg.com/media/HDIdLM6XAAEInAv.jpg"
+      ],
+      "likes": 57,
+      "retweets": 7,
+      "views": 6822
+    },
+    {
+      "id": "2031716770671693862",
+      "username": "googledevs",
+      "text": "Improve code readability by encapsulating long parameter lists into value objects. 📦\n\nOrganize data using:\n\n✅ Java Record classes\n✅ Kotlin data classes\n✅ C++ option structs\n\nThe builder pattern makes it easier to set specific fields while maintaining default values for a https://t.co/yajcWmrqr9",
+      "timestamp": "2026-03-11T13:00:00+00:00",
+      "url": "https://x.com/googledevs/status/2031716770671693862",
+      "images": [],
+      "likes": 27,
+      "retweets": 6,
+      "views": 2543
+    },
+    {
+      "id": "2031716713369075945",
+      "username": "mervenoyann",
+      "text": "I'm big fan of @swyx @aiDotEngineer youtube channel (hands-down my favorite)\n\nso stoked to be accepted to the London one\nsee y'all there! https://t.co/oZtITyyARJ",
+      "timestamp": "2026-03-11T12:59:46+00:00",
+      "url": "https://x.com/mervenoyann/status/2031716713369075945",
+      "images": [
+        "https://pbs.twimg.com/media/HDIazBkaYAAzB2l.jpg"
+      ],
+      "likes": 20,
+      "retweets": 4,
+      "views": 1055
+    },
+    {
+      "id": "2031714252113781043",
+      "username": "lateinteraction",
+      "text": "bitterlesson-pilled folks here be like: .. i tried so hard and got so far.. but in the end, it doesn't even matter",
+      "timestamp": "2026-03-11T12:49:59+00:00",
+      "url": "https://x.com/lateinteraction/status/2031714252113781043",
+      "images": [],
+      "likes": 53,
+      "retweets": 1,
+      "views": 1764
+    },
+    {
+      "id": "2031705527047037175",
+      "username": "thegautamkamath",
+      "text": "Me: Gemini, create a dozen Google spreadsheets in this Drive folder and populate them in this way. \n\nGemini: https://t.co/Rx9tutZEFD",
+      "timestamp": "2026-03-11T12:15:19+00:00",
+      "url": "https://x.com/thegautamkamath/status/2031705527047037175",
+      "images": [
+        "https://pbs.twimg.com/media/HDIRJGWW0AAyIDY.png"
+      ],
+      "likes": 18,
+      "retweets": 0,
+      "views": 1014
+    },
+    {
+      "id": "2031705102193397894",
+      "username": "gneubig",
+      "text": "Idle interest: what is the most profitable AI-native company right now?\n\nAFAIK all the big labs are operating at loss, and Alphabet/Microsoft may have profitable AI businesses but they're not AI native.",
+      "timestamp": "2026-03-11T12:13:38+00:00",
+      "url": "https://x.com/gneubig/status/2031705102193397894",
+      "images": [],
+      "likes": 36,
+      "retweets": 1,
+      "views": 7030
+    },
+    {
+      "id": "2031672572186956156",
+      "username": "RisingSayak",
+      "text": "We had the honor of hosting @_lewtun to talk about training tiny models for proving hard theorems 👨‍🏫\n\nWe also tried something different this time. Instead of regular slides, Lewis presented a \"mindmap\" of how things were developed during the project. Participants asked questions https://t.co/2do9sxFUwf",
+      "timestamp": "2026-03-11T10:04:22+00:00",
+      "url": "https://x.com/RisingSayak/status/2031672572186956156",
+      "images": [
+        "https://pbs.twimg.com/media/HDHy5yxakAAMoKX.jpg"
+      ],
+      "likes": 17,
+      "retweets": 3,
+      "views": 917
+    },
+    {
+      "id": "2031666541322985824",
+      "username": "cHHillee",
+      "text": "1 gigawatt isn't enough to get to where we want to go, but it's a start!\n\nMuch fun to be had building out these systems :)",
+      "timestamp": "2026-03-11T09:40:24+00:00",
+      "url": "https://x.com/cHHillee/status/2031666541322985824",
+      "images": [],
+      "likes": 149,
+      "retweets": 1,
+      "views": 9068
+    },
+    {
+      "id": "2031663118758347172",
+      "username": "RisingSayak",
+      "text": "My god, coding dead 😵",
+      "timestamp": "2026-03-11T09:26:48+00:00",
+      "url": "https://x.com/RisingSayak/status/2031663118758347172",
+      "images": [],
+      "likes": 24,
+      "retweets": 1,
+      "views": 2225
+    },
+    {
+      "id": "2031658019642089541",
+      "username": "ZoubinGhahrama1",
+      "text": "Embedding models are what we use to compactly represent images text videos audios pdfs... They power efficient search, clustering, visualization, RAG, and many other things. Enjoy playing with this via Gemini API or Vertex AI!",
+      "timestamp": "2026-03-11T09:06:32+00:00",
+      "url": "https://x.com/ZoubinGhahrama1/status/2031658019642089541",
+      "images": [],
+      "likes": 9,
+      "retweets": 0,
+      "views": 1557
+    },
+    {
+      "id": "2031469218408108318",
+      "username": "mitchellh",
+      "text": "I’ve been forcing myself to use the GUI agent apps the past week just to learn. One week isn’t enough experience yet, but I think they all miss the mark (so far) and I’m deeply fighting the urge to do one with my own taste. I’m not gonna do it. I’m not gonna do it.",
+      "timestamp": "2026-03-10T20:36:19+00:00",
+      "url": "https://x.com/mitchellh/status/2031469218408108318",
+      "images": [],
+      "likes": 1404,
+      "retweets": 8,
+      "views": 101998
     }
   ]
 }
