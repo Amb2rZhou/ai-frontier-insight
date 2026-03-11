@@ -31,6 +31,7 @@ LEADERBOARD_FILTER_URL = (
 
 TOP_N = 20  # Track top N models
 SCORE_THRESHOLD = 40  # Only fetch models scoring above this
+RANK_CHANGE_THRESHOLD = 5  # Only report rank changes >= this
 
 # SWE-bench leaderboard JSON (from GitHub Pages source repo)
 SWEBENCH_URL = (
@@ -38,6 +39,13 @@ SWEBENCH_URL = (
     "/master/data/leaderboards.json"
 )
 SWEBENCH_TOP_N = 15  # Track top N entries for SWE-bench Verified
+
+# 关注机构关键词 — 这些机构的模型上榜即报
+WATCHED_ORGS = [
+    "openai", "google", "deepmind", "anthropic", "meta", "llama",
+    "bytedance", "doubao", "字节", "tencent", "腾讯", "alibaba", "qwen", "阿里",
+    "baidu", "百度", "nvidia", "microsoft", "apple",
+]
 
 
 def _curl_json(url: str, timeout: int = 60) -> Optional[dict]:
@@ -133,12 +141,25 @@ def _extract_top_models(rows: List[Dict]) -> List[Dict]:
     return models[:TOP_N]
 
 
+def _is_watched_org(model_name: str) -> bool:
+    """Check if a model belongs to a watched organization."""
+    name_lower = model_name.lower()
+    return any(org in name_lower for org in WATCHED_ORGS)
+
+
 def _diff_snapshots(old_top: List[Dict], new_top: List[Dict]) -> List[Dict]:
-    """Compare old and new top-N lists, return list of change dicts."""
+    """Compare old and new top-N lists, return list of change dicts.
+
+    Reporting rules:
+    1. New #1 — always report
+    2. New entry in top 5 — always report
+    3. New entry from watched org — always report (regardless of rank)
+    4. Rank jump >= RANK_CHANGE_THRESHOLD — report
+    5. Dropped / small rank changes — skip
+    """
     changes = []
 
     old_by_name = {m["name"]: (i, m) for i, m in enumerate(old_top)}
-    new_by_name = {m["name"]: (i, m) for i, m in enumerate(new_top)}
 
     # Check for new #1
     if new_top and old_top:
@@ -151,20 +172,22 @@ def _diff_snapshots(old_top: List[Dict], new_top: List[Dict]) -> List[Dict]:
                 "previous_score": old_top[0]["score"],
             })
 
-    # New entries in top N
+    # New entries and rank changes
     for rank, model in enumerate(new_top):
         name = model["name"]
         if name not in old_by_name:
-            changes.append({
-                "type": "new_entry",
-                "model": name,
-                "score": model["score"],
-                "rank": rank + 1,
-            })
+            # New entry: report if top 5 or watched org
+            if rank < 5 or _is_watched_org(name):
+                changes.append({
+                    "type": "new_entry",
+                    "model": name,
+                    "score": model["score"],
+                    "rank": rank + 1,
+                })
         else:
             old_rank = old_by_name[name][0]
             rank_delta = old_rank - rank  # positive = climbed
-            if abs(rank_delta) >= 3:
+            if rank_delta >= RANK_CHANGE_THRESHOLD:
                 changes.append({
                     "type": "rank_change",
                     "model": name,
@@ -174,14 +197,7 @@ def _diff_snapshots(old_top: List[Dict], new_top: List[Dict]) -> List[Dict]:
                     "delta": rank_delta,
                 })
 
-    # Models that dropped out of top N
-    for name, (old_rank, model) in old_by_name.items():
-        if name not in new_by_name:
-            changes.append({
-                "type": "dropped",
-                "model": name,
-                "old_rank": old_rank + 1,
-            })
+    # Dropped models — skip (not reported)
 
     return changes
 
@@ -354,12 +370,11 @@ class BenchmarkCollector(BaseCollector):
             )
 
         if ctype == "rank_change":
-            direction = "上升" if change["delta"] > 0 else "下降"
             return RawItem(
-                title=f"{board_name}: {change['model']} {direction}{abs(change['delta'])}名 → 第{change['new_rank']}",
+                title=f"{board_name}: {change['model']} 上升{change['delta']}名 → 第{change['new_rank']}",
                 content=(
                     f"{change['model']} 在 {board_name} 排名从第 {change['old_rank']} "
-                    f"{direction}至第 {change['new_rank']}，当前得分 {change['score']}{unit}"
+                    f"上升至第 {change['new_rank']}，当前得分 {change['score']}{unit}"
                 ),
                 source_type="benchmark",
                 source_name=board_name,
