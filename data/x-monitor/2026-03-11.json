@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-11T07:39:47.035403",
+  "scraped_at": "2026-03-11T09:10:59.891420",
   "date": "2026-03-11",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 57,
-  "account_count": 31,
+  "tweet_count": 66,
+  "account_count": 35,
   "tweets": [
     {
       "id": "2031434536375230731",
@@ -659,6 +659,115 @@
       "likes": 97,
       "retweets": 13,
       "views": 10050
+    },
+    {
+      "id": "2031535685103137170",
+      "username": "a16z",
+      "text": ".@pmarca breaks down his reading diet:\n\n\"I have an almost perfect barbell strategy, which is: I read X and I read old books.\"\n\n\"It's either up-to-the-minute what's happening right now, or it's a book that was written 50 years ago that has stood the test of time.\"\n\nWith @lennysan https://t.co/xmxAciP1WJ",
+      "timestamp": "2026-03-11T01:00:26+00:00",
+      "url": "https://x.com/a16z/status/2031535685103137170",
+      "images": [],
+      "likes": 34,
+      "retweets": 2,
+      "views": 3270
+    },
+    {
+      "id": "2031535461483614628",
+      "username": "gdb",
+      "text": "ChatGPT for interactive learning of math and science:",
+      "timestamp": "2026-03-11T00:59:32+00:00",
+      "url": "https://x.com/gdb/status/2031535461483614628",
+      "images": [],
+      "likes": 47,
+      "retweets": 5,
+      "views": 3353
+    },
+    {
+      "id": "2031534867633049990",
+      "username": "DeryaTR_",
+      "text": "Fantastic discussion between my friends Alex and Ramin on why the collaboration between @liquidai and @InsilicoMed is so important in advancing BioAI! \n\nAlex also demos real-life examples of using AI models in drug discovery! \n\nNo doubt that AI will make the world a better place!",
+      "timestamp": "2026-03-11T00:57:11+00:00",
+      "url": "https://x.com/DeryaTR_/status/2031534867633049990",
+      "images": [],
+      "likes": 1,
+      "retweets": 0,
+      "views": 510
+    },
+    {
+      "id": "2031534824302010500",
+      "username": "nickaturley",
+      "text": "We rolled out interactive visual explanations in ChatGPT to help people understand math and science concepts more intuitively. You can adjust variables, manipulate formulas, and instantly see how those changes affect graphs and outcomes.\n\nOne cool thing behind the scenes: the https://t.co/3LJDMaiTN4",
+      "timestamp": "2026-03-11T00:57:00+00:00",
+      "url": "https://x.com/nickaturley/status/2031534824302010500",
+      "images": [
+        "https://pbs.twimg.com/media/HDF1-qVaMAIxkuv.jpg"
+      ],
+      "likes": 18,
+      "retweets": 1,
+      "views": 504
+    },
+    {
+      "id": "2031528082520289442",
+      "username": "a16z",
+      "text": "On a time spent basis, ChatGPT holds a massive lead over all other consumer AI chatbots\n\nFull report: https://t.co/P2BUkn6fvY https://t.co/GDWLoQFDXN",
+      "timestamp": "2026-03-11T00:30:13+00:00",
+      "url": "https://x.com/a16z/status/2031528082520289442",
+      "images": [
+        "https://pbs.twimg.com/media/HDFwBo8aMAEp7TD.png"
+      ],
+      "likes": 22,
+      "retweets": 0,
+      "views": 5256
+    },
+    {
+      "id": "2031524511854801261",
+      "username": "tydsh",
+      "text": "In GTC in person next week. Welcome to meet and chat!",
+      "timestamp": "2026-03-11T00:16:02+00:00",
+      "url": "https://x.com/tydsh/status/2031524511854801261",
+      "images": [],
+      "likes": 16,
+      "retweets": 0,
+      "views": 1400
+    },
+    {
+      "id": "2031521410896793764",
+      "username": "a16z",
+      "text": "After its release as a side project in January 2026, OpenClaw managed to surpass both Linux and React on its way to the number one all-time leader in Github stars\n\nFull report: https://t.co/P2BUkn6fvY https://t.co/N55fMcKPJF",
+      "timestamp": "2026-03-11T00:03:42+00:00",
+      "url": "https://x.com/a16z/status/2031521410896793764",
+      "images": [
+        "https://pbs.twimg.com/media/HDFp9UTbEAAKkV6.png"
+      ],
+      "likes": 47,
+      "retweets": 3,
+      "views": 8622
+    },
+    {
+      "id": "2031519480371683594",
+      "username": "emollick",
+      "text": "Lets look at the criteria for \"weak AGI\":\n✅Loebner prize was a weak Turing Test, equivalent achieved by GPT-4.5 \n✅Winograd passed by GPT-3 \n✅SAT passed at 75% by GPT-4\n\nOnly remaining thing is playing an old Atari game from 1984.  The labs could do the funniest thing right now https://t.co/Za2VwTsPvg",
+      "timestamp": "2026-03-10T23:56:02+00:00",
+      "url": "https://x.com/emollick/status/2031519480371683594",
+      "images": [
+        "https://pbs.twimg.com/media/HDFoA_LbQAADP7k.jpg"
+      ],
+      "likes": 40,
+      "retweets": 2,
+      "views": 8887
+    },
+    {
+      "id": "2030950426233950315",
+      "username": "RisingSayak",
+      "text": "We go live tomorrow at 20:00 Indian time with Lewis Tunstall to talk about how to teach tiny models to prove hard theorems 🤯\n\nAll talk details are in the link commented below 👇\n\nQuestions like \"how do I join, how do I register\" won't be entertained. https://t.co/7Vjtn5E9D7",
+      "timestamp": "2026-03-09T10:14:49+00:00",
+      "url": "https://x.com/RisingSayak/status/2030950426233950315",
+      "images": [
+        "https://pbs.twimg.com/media/HC9iDKsb0AA6NAL.jpg"
+      ],
+      "likes": 55,
+      "retweets": 3,
+      "views": 3626
     }
   ]
 }
