@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-12T00:42:47.137021",
+  "scraped_at": "2026-03-12T05:15:11.049774",
   "date": "2026-03-12",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 16,
-  "account_count": 15,
+  "tweet_count": 59,
+  "account_count": 37,
   "tweets": [
     {
       "id": "2031768310715736099",
@@ -190,6 +190,500 @@
       "likes": 15,
       "retweets": 2,
       "views": 2749
+    },
+    {
+      "id": "2031838121088991530",
+      "username": "shaneguML",
+      "text": "Sent my resume. I was a founder of \"Ecological theory of RL\" workshop at NeurIPS 2021 and a PhD holder.\n\nMy proposal is to build the next gen IDE as Pokemon world. If agents disagree with your requests they will battle you. Fingers crossed. https://t.co/zyX4s8UlJT",
+      "timestamp": "2026-03-11T21:02:12+00:00",
+      "url": "https://x.com/shaneguML/status/2031838121088991530",
+      "images": [
+        "https://pbs.twimg.com/media/HDKJ_xHbEAAN_AB.jpg",
+        "https://pbs.twimg.com/media/HDKKAFQbQAAmNL9.jpg"
+      ],
+      "likes": 4,
+      "retweets": 0,
+      "views": 457
+    },
+    {
+      "id": "2031835925911912829",
+      "username": "a16z",
+      "text": "Replit CEO Amjad Masad: \"Code is almost fully automated.\"\n\n\"We have an automated software engineer that is as good as a mid-level software engineer. It would get a job at Facebook or Google.\"\n\n\"Even professional software engineers are not coding anymore.\"\n\n\"If you're a product https://t.co/b4v9aPxVeA",
+      "timestamp": "2026-03-11T20:53:29+00:00",
+      "url": "https://x.com/a16z/status/2031835925911912829",
+      "images": [],
+      "likes": 28,
+      "retweets": 1,
+      "views": 5615
+    },
+    {
+      "id": "2031835365204496394",
+      "username": "steipete",
+      "text": "There's still a few spots left to get free codex Pro subs! https://t.co/ug0Vwj1I08",
+      "timestamp": "2026-03-11T20:51:15+00:00",
+      "url": "https://x.com/steipete/status/2031835365204496394",
+      "images": [],
+      "likes": 75,
+      "retweets": 2,
+      "views": 7881
+    },
+    {
+      "id": "2031834929605320891",
+      "username": "shaneguML",
+      "text": "In 2019 feeling the limits in deep RL, I went on defining AGI metric. Like a good ML agent, I tried collecting diverse examples of GI. Some recommended reading list:\n- history books: \"gun, steel, germs\", \"sapiens\", \"roman history\" by shiono nanami, \"art of war\"\n- animals: \"other",
+      "timestamp": "2026-03-11T20:49:31+00:00",
+      "url": "https://x.com/shaneguML/status/2031834929605320891",
+      "images": [],
+      "likes": 2,
+      "retweets": 0,
+      "views": 500
+    },
+    {
+      "id": "2031832967845462452",
+      "username": "alexalbert__",
+      "text": "Claude for all things knowledge work feels like it is on a very similar trajectory to what agentic coding experienced last year.\n\nI expect entire industries that rely on spreadsheets and powerpoints to begin to be transformed in the next few months.",
+      "timestamp": "2026-03-11T20:41:43+00:00",
+      "url": "https://x.com/alexalbert__/status/2031832967845462452",
+      "images": [],
+      "likes": 90,
+      "retweets": 2,
+      "views": 4610
+    },
+    {
+      "id": "2031829586133332176",
+      "username": "AravSrinivas",
+      "text": "We're upgrading the Perplexity API platform to give you some of the tools and orchestration that underpin the Perplexity Computer harness.",
+      "timestamp": "2026-03-11T20:28:17+00:00",
+      "url": "https://x.com/AravSrinivas/status/2031829586133332176",
+      "images": [],
+      "likes": 104,
+      "retweets": 13,
+      "views": 7423
+    },
+    {
+      "id": "2031828442585710894",
+      "username": "a16z",
+      "text": "\"The world was built by people that are not much smarter than you.\"\n\nReplit CEO Amjad Masad on why old career advice no longer maps to reality:\n\n\"There are a lot of rules that are accidental, that are there for historical reasons.\"\n\n\"Your job is to find the path to the future. https://t.co/VbFZ4XMhfD",
+      "timestamp": "2026-03-11T20:23:44+00:00",
+      "url": "https://x.com/a16z/status/2031828442585710894",
+      "images": [],
+      "likes": 83,
+      "retweets": 13,
+      "views": 9485
+    },
+    {
+      "id": "2031827712533492207",
+      "username": "shaneguML",
+      "text": "All problems are interpersonal problems, but interpersonal relationships are the most valuable asset in the era of AGI",
+      "timestamp": "2026-03-11T20:20:50+00:00",
+      "url": "https://x.com/shaneguML/status/2031827712533492207",
+      "images": [],
+      "likes": 14,
+      "retweets": 0,
+      "views": 687
+    },
+    {
+      "id": "2031825803437297859",
+      "username": "AravSrinivas",
+      "text": "Perplexity Computer emulates the output of a digital worker because AI uses the computer the same way humans do. \n\nComputer in your workspace will emulate the digital output of an entire team or an organization. \n\nA macro-computer of sorts.",
+      "timestamp": "2026-03-11T20:13:15+00:00",
+      "url": "https://x.com/AravSrinivas/status/2031825803437297859",
+      "images": [],
+      "likes": 99,
+      "retweets": 14,
+      "views": 8287
+    },
+    {
+      "id": "2031822791859978394",
+      "username": "PyTorch",
+      "text": "#PyTorch Foundation is attending @oaiconference in Atlanta, April 14-16. Join 100+ experts to discuss #LLM operations, #RAG, and #InferenceOptimization.\n\nGet 20% off with code: OAIC-20.\n\nDetails: https://t.co/W8EoStsbEJ.\n\n#AIInfrastructure #OpenSourceAI",
+      "timestamp": "2026-03-11T20:01:17+00:00",
+      "url": "https://x.com/PyTorch/status/2031822791859978394",
+      "images": [],
+      "likes": 8,
+      "retweets": 0,
+      "views": 1784
+    },
+    {
+      "id": "2031822334525653192",
+      "username": "shaneguML",
+      "text": "When top Google ICs start vibe coding and workflow skilling https://t.co/F7DnE0faSZ",
+      "timestamp": "2026-03-11T19:59:28+00:00",
+      "url": "https://x.com/shaneguML/status/2031822334525653192",
+      "images": [],
+      "likes": 9,
+      "retweets": 0,
+      "views": 834
+    },
+    {
+      "id": "2031821003412906418",
+      "username": "a16z",
+      "text": "Unconventional AI CEO Naveen Rao on expanding the boundaries of modern computing to account for biological efficiencies:\n\n\"There's actually some theoretical results from the sixties, that would suggest we are maybe somewhere between seven to ten orders of magnitude away from the https://t.co/qw13UlCULI",
+      "timestamp": "2026-03-11T19:54:11+00:00",
+      "url": "https://x.com/a16z/status/2031821003412906418",
+      "images": [],
+      "likes": 30,
+      "retweets": 6,
+      "views": 5523
+    },
+    {
+      "id": "2031820850337370352",
+      "username": "emollick",
+      "text": "Talking to agents in Slack, the new hot AI UX,  will end up being just as much a transitional phase as talking to agents via chatbot websites.\n\nWe need new systems to manage agentic work that also support new ways of organizing. Much more UX imagination will be required.",
+      "timestamp": "2026-03-11T19:53:34+00:00",
+      "url": "https://x.com/emollick/status/2031820850337370352",
+      "images": [],
+      "likes": 92,
+      "retweets": 5,
+      "views": 6158
+    },
+    {
+      "id": "2031819174444413273",
+      "username": "CSProfKGD",
+      "text": "You’re a researcher in 2026 https://t.co/fTC8adKs7p",
+      "timestamp": "2026-03-11T19:46:55+00:00",
+      "url": "https://x.com/CSProfKGD/status/2031819174444413273",
+      "images": [],
+      "likes": 6,
+      "retweets": 0,
+      "views": 820
+    },
+    {
+      "id": "2031813890322153811",
+      "username": "alexgraveley",
+      "text": "You should install the slack Computer app. Fastest enterprise-transformative experience I’ve ever seen in a product.",
+      "timestamp": "2026-03-11T19:25:55+00:00",
+      "url": "https://x.com/alexgraveley/status/2031813890322153811",
+      "images": [],
+      "likes": 18,
+      "retweets": 1,
+      "views": 2270
+    },
+    {
+      "id": "2031813340310159866",
+      "username": "omarsar0",
+      "text": "Great news for devs deploying agents with open models.\n\n@FireworksAI_HQ now offers high-performance inference for leading models inside the Azure ecosystem.  \n\nPay attention, AI devs.  \n\nThis team is serving best-in-class fast inference for AI models like Kimi K2.5 &amp; MiniMax",
+      "timestamp": "2026-03-11T19:23:44+00:00",
+      "url": "https://x.com/omarsar0/status/2031813340310159866",
+      "images": [],
+      "likes": 11,
+      "retweets": 0,
+      "views": 2927
+    },
+    {
+      "id": "2031807396465578355",
+      "username": "googledevs",
+      "text": "Stop typing, start interacting!\n\nThe Gemini Live Agent Challenge is here. ✨ Build the next generation of interactive agents using Gemini and @GoogleCloud.\n\nWin big prizes and a trip to Google Cloud Next '26! ✈️\n\nRegister by March 16:\n👉 https://t.co/K97qvWjLAy https://t.co/mrZyWbstRf",
+      "timestamp": "2026-03-11T19:00:07+00:00",
+      "url": "https://x.com/googledevs/status/2031807396465578355",
+      "images": [],
+      "likes": 146,
+      "retweets": 25,
+      "views": 8684
+    },
+    {
+      "id": "2031803644790591698",
+      "username": "NielsRogge",
+      "text": "Today I added a @CircleCI Skill so that I can just ask @Cursor \"pls fix CircleCI\" and boom it does it\n\nIt's a simple SKILL.md which explains how to use the GitHub and CircleCI APIs to fetch failing checks with step-level details :)\n\nNo more pain manually fixing the CI https://t.co/6Ayh18pAWE",
+      "timestamp": "2026-03-11T18:45:12+00:00",
+      "url": "https://x.com/NielsRogge/status/2031803644790591698",
+      "images": [
+        "https://pbs.twimg.com/media/HDJqCakXwAAR-aY.png"
+      ],
+      "likes": 1,
+      "retweets": 0,
+      "views": 236
+    },
+    {
+      "id": "2031802894089875460",
+      "username": "emollick",
+      "text": "Three things about the METR graph:\n1) It measures something real about coding ability but also not exactly what it claims to measure\n2) Lots of other benchmarks correlate with it very highly &amp; are increasing exponentially\n3 AI remains jagged in key ways that are hard to measure",
+      "timestamp": "2026-03-11T18:42:13+00:00",
+      "url": "https://x.com/emollick/status/2031802894089875460",
+      "images": [],
+      "likes": 89,
+      "retweets": 2,
+      "views": 8040
+    },
+    {
+      "id": "2031798071345234193",
+      "username": "OpenAIDevs",
+      "text": "📣 Technical lessons from building computer access for agents\n\nMaking long-running workflows practical required tightening the execution loop, providing rich context via file systems, and enabling network access with security guardrails.\n\nHere's how we equipped the Responses API",
+      "timestamp": "2026-03-11T18:23:03+00:00",
+      "url": "https://x.com/OpenAIDevs/status/2031798071345234193",
+      "images": [],
+      "likes": 260,
+      "retweets": 26,
+      "views": 25802
+    },
+    {
+      "id": "2031797300457263106",
+      "username": "khoomeik",
+      "text": "apparently there’s so much hype about openclaw in china rn that startups are charging nontechnicals to help install it on their laptops https://t.co/NZC5q5lPAR",
+      "timestamp": "2026-03-11T18:20:00+00:00",
+      "url": "https://x.com/khoomeik/status/2031797300457263106",
+      "images": [
+        "https://pbs.twimg.com/media/HDJk4CzbQAMMLBV.jpg"
+      ],
+      "likes": 28,
+      "retweets": 1,
+      "views": 1274
+    },
+    {
+      "id": "2031794069983412432",
+      "username": "sriramk",
+      "text": "what I want from a UX for managing agents\n\n⁠- something that will  know when to get agents to continue/accept plan ( I wake up overnight and just have to hit continue/accept plan)\n\n- ⁠⁠something that aids me in context switching and paging in cognitive context - I'm often just",
+      "timestamp": "2026-03-11T18:07:09+00:00",
+      "url": "https://x.com/sriramk/status/2031794069983412432",
+      "images": [],
+      "likes": 130,
+      "retweets": 4,
+      "views": 18270
+    },
+    {
+      "id": "2031792790355447985",
+      "username": "NielsRogge",
+      "text": "Let’s goooo 🔥\n\nThanks @jxnlco https://t.co/KHedoPWwoq",
+      "timestamp": "2026-03-11T18:02:04+00:00",
+      "url": "https://x.com/NielsRogge/status/2031792790355447985",
+      "images": [
+        "https://pbs.twimg.com/media/HDJgxd6XMAAh2Qz.jpg"
+      ],
+      "likes": 22,
+      "retweets": 2,
+      "views": 1690
+    },
+    {
+      "id": "2031792523187040643",
+      "username": "karpathy",
+      "text": "My autoresearch labs got wiped out in the oauth outage. Have to think through failovers. Intelligence brownouts will be interesting - the planet losing IQ points when frontier AI stutters.",
+      "timestamp": "2026-03-11T18:01:01+00:00",
+      "url": "https://x.com/karpathy/status/2031792523187040643",
+      "images": [],
+      "likes": 2843,
+      "retweets": 112,
+      "views": 134355
+    },
+    {
+      "id": "2031791278032371820",
+      "username": "mmitchell_ai",
+      "text": "\"AI\" is not a stochastic parrot.🦜\nI wrote this piece a couple weeks ago, but it was hard for me to finish up given AI's role in society and war over the past few weeks. I should share it at some point though. Not perfect, but here it is.\nhttps://t.co/eeiYRr0vEO",
+      "timestamp": "2026-03-11T17:56:04+00:00",
+      "url": "https://x.com/mmitchell_ai/status/2031791278032371820",
+      "images": [],
+      "likes": 53,
+      "retweets": 10,
+      "views": 7519
+    },
+    {
+      "id": "2031790340232093882",
+      "username": "a16z",
+      "text": "Unconventional AI CEO Naveen Rao on the incredible energy efficiencies of biological systems relative to technology:\n\n\"Biology sort of started small, figured out some basic principles, and those principles scaled. So the efficiency came first.\"\n\n\"What we've done is actually the https://t.co/n8PbKV2Vgv",
+      "timestamp": "2026-03-11T17:52:20+00:00",
+      "url": "https://x.com/a16z/status/2031790340232093882",
+      "images": [],
+      "likes": 59,
+      "retweets": 14,
+      "views": 9643
+    },
+    {
+      "id": "2031789468944908413",
+      "username": "sarahookr",
+      "text": "just when it feels like the ai ecosystem has drifted too far from its origins, the circadian rhythm returns.",
+      "timestamp": "2026-03-11T17:48:52+00:00",
+      "url": "https://x.com/sarahookr/status/2031789468944908413",
+      "images": [],
+      "likes": 50,
+      "retweets": 3,
+      "views": 3267
+    },
+    {
+      "id": "2031789006757773781",
+      "username": "aelluswamy",
+      "text": "We are actively hiring talented people to work on this extremely high impact project. Join @Tesla_AI or @xai to help accelerate this.",
+      "timestamp": "2026-03-11T17:47:02+00:00",
+      "url": "https://x.com/aelluswamy/status/2031789006757773781",
+      "images": [],
+      "likes": 2862,
+      "retweets": 285,
+      "views": 11933501
+    },
+    {
+      "id": "2031786589538427311",
+      "username": "minchoi",
+      "text": "Nvidia just dropped Nemotron 3 Super.\n\n&gt; 1M token context\n&gt; 120B parameters\n&gt; Open weights\n&gt; 5x faster\n\nAgents can now load an entire codebase into memory at once.\n\nThis changes agentic AI. https://t.co/33xPMuXIMf",
+      "timestamp": "2026-03-11T17:37:26+00:00",
+      "url": "https://x.com/minchoi/status/2031786589538427311",
+      "images": [
+        "https://pbs.twimg.com/media/HDJbFRxXgAAKCNg.jpg"
+      ],
+      "likes": 194,
+      "retweets": 15,
+      "views": 32867
+    },
+    {
+      "id": "2031783478023635213",
+      "username": "a16z",
+      "text": "New media runs on speed.\n\n@pmarca on the OODA loop:\n\n\"Speed wins.\"\n\n\"If you can have a sustainably faster OODA loop processing cycle than the next guy... then if you think about what happens — let's say it takes an hour to figure something out.\"\n\n\"It takes the other guy two hours https://t.co/AlUdSzXw9r",
+      "timestamp": "2026-03-11T17:25:04+00:00",
+      "url": "https://x.com/a16z/status/2031783478023635213",
+      "images": [
+        "https://pbs.twimg.com/media/HDJYTkMbQAA8Vzq.jpg"
+      ],
+      "likes": 274,
+      "retweets": 34,
+      "views": 28774
+    },
+    {
+      "id": "2031783306174329233",
+      "username": "_akhaliq",
+      "text": "MM-Zero\n\nSelf-Evolving Multi-Model Vision Language Models From Zero Data\n\npaper: https://t.co/o5d40EF8yo https://t.co/B69LwZozWE",
+      "timestamp": "2026-03-11T17:24:23+00:00",
+      "url": "https://x.com/_akhaliq/status/2031783306174329233",
+      "images": [
+        "https://pbs.twimg.com/media/HDJYGftWsAEeMT-.jpg"
+      ],
+      "likes": 12,
+      "retweets": 2,
+      "views": 2636
+    },
+    {
+      "id": "2031782770234831005",
+      "username": "NVIDIARobotics",
+      "text": "Can’t wait to see teams build Reachy Mini as a personal AI assistant with NVIDIA Jetson Orin and open-source models at the 2026 Embodied AI Hackathon. 🥳 \n\nDetails 👇",
+      "timestamp": "2026-03-11T17:22:15+00:00",
+      "url": "https://x.com/NVIDIARobotics/status/2031782770234831005",
+      "images": [],
+      "likes": 34,
+      "retweets": 8,
+      "views": 6224
+    },
+    {
+      "id": "2031782045538796026",
+      "username": "drfeifei",
+      "text": "Our imaginations are unbounded, so should the worlds we create be…🌐😍",
+      "timestamp": "2026-03-11T17:19:22+00:00",
+      "url": "https://x.com/drfeifei/status/2031782045538796026",
+      "images": [],
+      "likes": 210,
+      "retweets": 25,
+      "views": 15969
+    },
+    {
+      "id": "2031781163405038023",
+      "username": "_akhaliq",
+      "text": "Omni-Diffusion\n\nUnified Multimodal Understanding and Generation with Masked Discrete Diffusion\n\npaper: https://t.co/F0zl3MNFRN",
+      "timestamp": "2026-03-11T17:15:52+00:00",
+      "url": "https://x.com/_akhaliq/status/2031781163405038023",
+      "images": [],
+      "likes": 14,
+      "retweets": 3,
+      "views": 2481
+    },
+    {
+      "id": "2031779630361743524",
+      "username": "_akhaliq",
+      "text": "Thinking to Recall\n\nHow Reasoning Unlocks Parametric Knowledge in LLMs\n\npaper: https://t.co/juzRYfAZ5u https://t.co/QoMdkymIY0",
+      "timestamp": "2026-03-11T17:09:47+00:00",
+      "url": "https://x.com/_akhaliq/status/2031779630361743524",
+      "images": [
+        "https://pbs.twimg.com/media/HDJUr8mXcAAZaqU.jpg"
+      ],
+      "likes": 27,
+      "retweets": 3,
+      "views": 4373
+    },
+    {
+      "id": "2031778912792166619",
+      "username": "natolambert",
+      "text": "This looks like a model that's competitive with GPT OSS 120B or similar Qwen3.5 models on intelligence &amp; speed, while coming with tons of open data + training details. Is a huge contribution for the ecosystem.\n\nCongrats Nvidia on the Nemotron 3 Super release!",
+      "timestamp": "2026-03-11T17:06:56+00:00",
+      "url": "https://x.com/natolambert/status/2031778912792166619",
+      "images": [],
+      "likes": 201,
+      "retweets": 20,
+      "views": 15905
+    },
+    {
+      "id": "2031778104306499749",
+      "username": "UnslothAI",
+      "text": "NVIDIA releases Nemotron-3-Super, a new 120B open hybrid MoE model.\n\nNemotron-3-Super-120B-A12B has a 1M-token context window and achieves competitive agentic coding and chat performance.\n\nRun on ~64GB RAM.\n\nGGUF: https://t.co/wuFdRZLdSk\nGuide: https://t.co/5J4a3vwKAH https://t.co/5EHiGDbi1q",
+      "timestamp": "2026-03-11T17:03:43+00:00",
+      "url": "https://x.com/UnslothAI/status/2031778104306499749",
+      "images": [
+        "https://pbs.twimg.com/media/HDJSWfMawAA0-XE.jpg"
+      ],
+      "likes": 313,
+      "retweets": 58,
+      "views": 17083
+    },
+    {
+      "id": "2031776788532379996",
+      "username": "mitchellh",
+      "text": "This is how you get dumber btw, true even before AI. Turn on DnD, put your phone in a drawer. The best option if you can is to separate work + personal devices so your work device can't even see personal stuff. This is also partially why Pomodoro was all the rage a decade+ ago.",
+      "timestamp": "2026-03-11T16:58:29+00:00",
+      "url": "https://x.com/mitchellh/status/2031776788532379996",
+      "images": [],
+      "likes": 1182,
+      "retweets": 63,
+      "views": 87237
+    },
+    {
+      "id": "2031776274017079714",
+      "username": "paraga",
+      "text": "At @p0, we obsess about quality in order to enable agents to do the most demanding work with web data. Real-world evidence that agents can be trusted to do knowledge work is a real bottleneck. \n\nI'm pumped to work with @maximilianeber and @MaikTWehmeyer to accelerate the adoption",
+      "timestamp": "2026-03-11T16:56:26+00:00",
+      "url": "https://x.com/paraga/status/2031776274017079714",
+      "images": [],
+      "likes": 17,
+      "retweets": 2,
+      "views": 4405
+    },
+    {
+      "id": "2031774842526351411",
+      "username": "thsottiaux",
+      "text": "“Codex App has transformed the way I write software… I barely use anything else these days” ... and yet we're only getting started",
+      "timestamp": "2026-03-11T16:50:45+00:00",
+      "url": "https://x.com/thsottiaux/status/2031774842526351411",
+      "images": [],
+      "likes": 823,
+      "retweets": 14,
+      "views": 20721
+    },
+    {
+      "id": "2031772958826369503",
+      "username": "minchoi",
+      "text": "It's over for IDE...\n\nLong live IDE...",
+      "timestamp": "2026-03-11T16:43:16+00:00",
+      "url": "https://x.com/minchoi/status/2031772958826369503",
+      "images": [],
+      "likes": 18,
+      "retweets": 1,
+      "views": 5949
+    },
+    {
+      "id": "2031755415214813372",
+      "username": "a16z",
+      "text": "At Rivian, RJ Scaringe tried to find a robotics partner to scale their factory options. When he couldn't, he decided to build it himself.\n\nWe're excited to partner with Mind Robotics for their $500M Series A to build and deploy AI-enabled robotic systems at industrial scale. https://t.co/8RY38u1y6e",
+      "timestamp": "2026-03-11T15:33:33+00:00",
+      "url": "https://x.com/a16z/status/2031755415214813372",
+      "images": [
+        "https://pbs.twimg.com/media/HDI-yInaEAAfJAq.jpg"
+      ],
+      "likes": 157,
+      "retweets": 16,
+      "views": 29374
+    },
+    {
+      "id": "2031173607964160029",
+      "username": "Miles_Brundage",
+      "text": "People are wrong that “AI safety people” didn’t predict the US government getting so interested in AI. In fact it took longer than many thought!\n\nHowever, the shortsightedness and counter-productiveness of many US government actions is beyond what anyone from any camp predicted…",
+      "timestamp": "2026-03-10T01:01:40+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2031173607964160029",
+      "images": [],
+      "likes": 231,
+      "retweets": 13,
+      "views": 24744
     }
   ]
 }
