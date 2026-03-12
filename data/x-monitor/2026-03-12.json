@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-12T09:16:35.891207",
+  "scraped_at": "2026-03-12T14:07:10.964881",
   "date": "2026-03-12",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 78,
-  "account_count": 42,
+  "tweet_count": 94,
+  "account_count": 47,
   "tweets": [
     {
       "id": "2031768310715736099",
@@ -900,6 +900,195 @@
       "likes": 368,
       "retweets": 62,
       "views": 58264
+    },
+    {
+      "id": "2031969265788797280",
+      "username": "docmilanfar",
+      "text": "they offer a diverse sample set https://t.co/NUYMgrkrex",
+      "timestamp": "2026-03-12T05:43:19+00:00",
+      "url": "https://x.com/docmilanfar/status/2031969265788797280",
+      "images": [
+        "https://pbs.twimg.com/media/HDMBRrXbQAIoqD4.jpg"
+      ],
+      "likes": 4,
+      "retweets": 0,
+      "views": 294
+    },
+    {
+      "id": "2031965133405073823",
+      "username": "openclaw",
+      "text": "OpenClaw 2026.3.11 🦞\n\n🏹 Hunter &amp; 🩹Healer Alpha — free 1M context models via @OpenRouter\n🧠 GPT 5.4 stops stopping mid-thought\n💎 Gemini Embedding 2 for memory\n💻 OpenCode Go support\n🔒 Security hardening sprint\n\nWe ship faster than they can clone. https://t.co/9iGgrAW83W",
+      "timestamp": "2026-03-12T05:26:54+00:00",
+      "url": "https://x.com/openclaw/status/2031965133405073823",
+      "images": [],
+      "likes": 554,
+      "retweets": 56,
+      "views": 24342
+    },
+    {
+      "id": "2031953633768513981",
+      "username": "steipete",
+      "text": "Do we have any scoop what Hunter/Healer are?",
+      "timestamp": "2026-03-12T04:41:12+00:00",
+      "url": "https://x.com/steipete/status/2031953633768513981",
+      "images": [],
+      "likes": 67,
+      "retweets": 1,
+      "views": 20112
+    },
+    {
+      "id": "2031946739696251037",
+      "username": "sirbayes",
+      "text": "Now I know why they call it `dangerously-skip-permissions`... \n\nClaude: \"The direct Google route has too much friction. Want me to remove the google-gemini-* method files?\"\n\nMe: (asks unrelated question)\n\nClaude: \"Let me remove the google-gemini files.\" https://t.co/rQChajhdjR",
+      "timestamp": "2026-03-12T04:13:49+00:00",
+      "url": "https://x.com/sirbayes/status/2031946739696251037",
+      "images": [
+        "https://pbs.twimg.com/media/HDLrpUWbcAAU3Wh.jpg"
+      ],
+      "likes": 25,
+      "retweets": 1,
+      "views": 3002
+    },
+    {
+      "id": "2031944498356633980",
+      "username": "RisingSayak",
+      "text": "Just as an FYI, after a round of failures from a couple of conferences, we made it to ICLR this year.\n\nHopefully, see you in Rio 🇧🇷\n\nH/T to @donghoon_ahn et al. for sticking till the end!",
+      "timestamp": "2026-03-12T04:04:54+00:00",
+      "url": "https://x.com/RisingSayak/status/2031944498356633980",
+      "images": [],
+      "likes": 16,
+      "retweets": 1,
+      "views": 941
+    },
+    {
+      "id": "2031941155437400532",
+      "username": "deliprao",
+      "text": "I'm not impressed with most long-horizon agents today. One problem with \"agent working longer\" == \"good\" is that, if you carefully observe the traces of many long-trajectory agents, they 1) make silly mistakes early on and don’t catch them for a long time, then waste time undoing https://t.co/IiwdYY9Yfb",
+      "timestamp": "2026-03-12T03:51:37+00:00",
+      "url": "https://x.com/deliprao/status/2031941155437400532",
+      "images": [
+        "https://pbs.twimg.com/media/HDLiMdVWUAAw_F_.jpg"
+      ],
+      "likes": 11,
+      "retweets": 1,
+      "views": 843
+    },
+    {
+      "id": "2031930188896911799",
+      "username": "emollick",
+      "text": "No matter what GPT-5.4 scores on the METR long task horizon benchmark, there will be a group of people who will absolutely freak out. The score determines which group.",
+      "timestamp": "2026-03-12T03:08:03+00:00",
+      "url": "https://x.com/emollick/status/2031930188896911799",
+      "images": [],
+      "likes": 112,
+      "retweets": 3,
+      "views": 8966
+    },
+    {
+      "id": "2031920356630675780",
+      "username": "SebastienBubeck",
+      "text": "I guess it wasn't hype after all 🤣",
+      "timestamp": "2026-03-12T02:28:58+00:00",
+      "url": "https://x.com/SebastienBubeck/status/2031920356630675780",
+      "images": [],
+      "likes": 157,
+      "retweets": 4,
+      "views": 10743
+    },
+    {
+      "id": "2031920019966497270",
+      "username": "NVIDIARobotics",
+      "text": "Amazing work from @SkyentificTweet on his Swiss bipedal robot, powered by NVIDIA tech for simulation, training and real-time inference. 🦿",
+      "timestamp": "2026-03-12T02:27:38+00:00",
+      "url": "https://x.com/NVIDIARobotics/status/2031920019966497270",
+      "images": [],
+      "likes": 54,
+      "retweets": 7,
+      "views": 4427
+    },
+    {
+      "id": "2031913755336982703",
+      "username": "emollick",
+      "text": "Exponential improvements* everywhere for those with the eyes to see them. This is a cool benchmark, and was impossible for early non-reasoner LLMs to do at all.\n\n* Okay, technically \"logistic improvement\" because the maximum score is bounded at 100 (and logistic has a lower AIC) https://t.co/9kVj4o7Gz0",
+      "timestamp": "2026-03-12T02:02:45+00:00",
+      "url": "https://x.com/emollick/status/2031913755336982703",
+      "images": [
+        "https://pbs.twimg.com/media/HDLOKYaWQAAb2lH.jpg"
+      ],
+      "likes": 95,
+      "retweets": 8,
+      "views": 16634
+    },
+    {
+      "id": "2031913572998013396",
+      "username": "DeryaTR_",
+      "text": "As unbelievably good as current AI models are, this is not even 1% of what AI will become in just a few years! Consider the advance from ChatGPT 3.5’s release more than 3 years ago to now, there will be even more progress than that within a year! The human brain can’t grasp this!",
+      "timestamp": "2026-03-12T02:02:01+00:00",
+      "url": "https://x.com/DeryaTR_/status/2031913572998013396",
+      "images": [],
+      "likes": 266,
+      "retweets": 22,
+      "views": 10773
+    },
+    {
+      "id": "2031909831997579702",
+      "username": "emollick",
+      "text": "So far, Hunter Alpha, the new mystery model on OpenRouter is only okay. Some examples of the Lem Test and the Sparks TiKZ unicorn. https://t.co/iXLx1jnoRe",
+      "timestamp": "2026-03-12T01:47:09+00:00",
+      "url": "https://x.com/emollick/status/2031909831997579702",
+      "images": [
+        "https://pbs.twimg.com/media/HDLKRzRbQAA0E1f.jpg",
+        "https://pbs.twimg.com/media/HDLKSvgW8AMOnQs.png"
+      ],
+      "likes": 32,
+      "retweets": 0,
+      "views": 7985
+    },
+    {
+      "id": "2031907689962614955",
+      "username": "gdb",
+      "text": "GPT-5.4 Pro for empowerment:",
+      "timestamp": "2026-03-12T01:38:38+00:00",
+      "url": "https://x.com/gdb/status/2031907689962614955",
+      "images": [],
+      "likes": 476,
+      "retweets": 24,
+      "views": 45359
+    },
+    {
+      "id": "2031904507760644231",
+      "username": "steipete",
+      "text": "love that this was the first thing I worked on 🚢ing at OpenAI. 😇",
+      "timestamp": "2026-03-12T01:26:00+00:00",
+      "url": "https://x.com/steipete/status/2031904507760644231",
+      "images": [],
+      "likes": 224,
+      "retweets": 5,
+      "views": 25959
+    },
+    {
+      "id": "2031902875958624364",
+      "username": "mmitchell_ai",
+      "text": "76 votes and the intentionally nonsensical human text is winning, hahha. 😂",
+      "timestamp": "2026-03-12T01:19:31+00:00",
+      "url": "https://x.com/mmitchell_ai/status/2031902875958624364",
+      "images": [],
+      "likes": 2,
+      "retweets": 0,
+      "views": 1469
+    },
+    {
+      "id": "2031527405022540147",
+      "username": "NVIDIARobotics",
+      "text": "Are you feeling a little lost? I can help… Which type of robot am I? 🧭\n\nI'll be your personal guide, keeping you on track and mapping out the #NVIDIAGTC show floor, so you always know where to go next. https://t.co/F9zVULEg1E",
+      "timestamp": "2026-03-11T00:27:31+00:00",
+      "url": "https://x.com/NVIDIARobotics/status/2031527405022540147",
+      "images": [
+        "https://pbs.twimg.com/media/HDFvaLaWIAEJFnA.jpg"
+      ],
+      "likes": 50,
+      "retweets": 5,
+      "views": 4164
     }
   ]
 }
