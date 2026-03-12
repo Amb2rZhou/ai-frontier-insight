@@ -84,10 +84,13 @@ def _collect_all() -> list:
     except Exception as e:
         print(f"  HuggingFace collector error: {e}")
 
-    # Benchmarks (disabled — waiting for user approval before adding to daily brief)
-    # from .collectors.benchmarks import BenchmarkCollector
-    # bench = BenchmarkCollector()
-    # all_items.extend(bench.collect())
+    # Benchmarks (Open LLM Leaderboard + SWE-bench Verified)
+    try:
+        from .collectors.benchmarks import BenchmarkCollector
+        bench = BenchmarkCollector()
+        all_items.extend(bench.collect())
+    except Exception as e:
+        print(f"  Benchmark collector error: {e}")
 
     print(f"\n=== Total collected: {len(all_items)} items ===")
     return all_items
