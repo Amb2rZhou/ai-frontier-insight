@@ -428,6 +428,438 @@
           17
         ]
       }
+    ],
+    "2026-03-11": [
+      {
+        "title": "Yann LeCun Launches AMI Labs with Record $1B+ Seed Round",
+        "signal_text": "Meta 首席 AI 科学家 Yann LeCun 宣布成立新创公司 Advanced Machine Intelligence (AMI Labs)，并完成 10.3 亿美元（8.9 亿欧元）的种子轮融资，据称是欧洲公司有史以来规模最大的种子轮之一。该公司正在招聘，旨在探索 LLM 之外的替代性 AI 路径。",
+        "signal_strength": 0.95,
+        "sources": [
+          {
+            "name": "Yann LeCun (Meta 首席 AI 科学家)",
+            "url": "https://x.com/ylecun/status/2031268686984527936"
+          },
+          {
+            "name": "Wharton 教授 Ethan Mollick 评论",
+            "url": "https://x.com/emollick/status/2031273042962251972"
+          }
+        ],
+        "tags": [
+          "头部公司战略动作",
+          "技术突破",
+          "开源生态"
+        ],
+        "raw_item_indices": [
+          47,
+          72,
+          73,
+          115
+        ]
+      },
+      {
+        "title": "Google Releases First Multimodal Embedding Model Gemini Embedding 2",
+        "signal_text": "Google 发布 Gemini Embedding 2，这是首个基于 Gemini 架构构建的完全多模态嵌入模型，支持文本、图像、视频、音频、PDF 等多种模态在同一向量空间中进行语义理解，覆盖 100 多种语言。该模型已在 Gemini API 和 Vertex AI 上提供预览。",
+        "signal_strength": 0.9,
+        "sources": [
+          {
+            "name": "Google Developers 官方账号",
+            "url": "https://x.com/googledevs/status/2031411032845885725"
+          }
+        ],
+        "tags": [
+          "搜索与推荐",
+          "技术突破",
+          "多模态融合"
+        ],
+        "raw_item_indices": [
+          87,
+          126
+        ]
+      },
+      {
+        "title": "OpenAI Introduces Instruction Hierarchy Challenge for Frontier LLMs",
+        "signal_text": "OpenAI 发布 IH-Challenge（指令层级挑战），旨在训练前沿大模型优先遵循可信指令，从而提升指令层级、安全可控性，并增强对提示注入攻击的抵抗能力。",
+        "signal_strength": 0.85,
+        "sources": [
+          {
+            "name": "OpenAI 官方博客",
+            "url": "https://openai.com/index/instruction-hierarchy-challenge"
+          }
+        ],
+        "tags": [
+          "内容安全与治理",
+          "技术突破"
+        ],
+        "raw_item_indices": [
+          39
+        ]
+      },
+      {
+        "title": "Anthropic Expands to Australia & New Zealand, Opens Sydney Office",
+        "signal_text": "Anthropic 宣布扩展至澳大利亚和新西兰市场，并将在悉尼开设办公室，这是其在亚太地区继东京、班加罗尔和首尔之后的第四个办公室。",
+        "signal_strength": 0.8,
+        "sources": [
+          {
+            "name": "Anthropic AI 官方账号",
+            "url": "https://x.com/AnthropicAI/status/2031506214228828186"
+          }
+        ],
+        "tags": [
+          "头部公司战略动作"
+        ],
+        "raw_item_indices": [
+          111
+        ]
+      },
+      {
+        "title": "Google Upgrades Gemini for Workspace with Cross-App Data Integration",
+        "signal_text": "据 VentureBeat 报道，Google 升级了 Gemini for Workspace，允许其从多个应用（如 Gmail、Drive、Calendar）中提取数据，以创建或编辑 Docs、Sheets、Slides 等内容，为白领工作提供更强大的 AI 辅助。",
+        "signal_strength": 0.8,
+        "sources": [
+          {
+            "name": "VentureBeat 报道",
+            "url": "https://venturebeat.com/orchestration/google-upgrades-gemini-for-workspace-allowing-it-to-pull-data-from-multiple"
+          },
+          {
+            "name": "Google 产品经理 Logan Kilpatrick",
+            "url": "https://x.com/OfficialLoganK/status/2031374503599567113"
+          }
+        ],
+        "tags": [
+          "Agent 与新交互范式",
+          "头部公司战略动作"
+        ],
+        "raw_item_indices": [
+          32,
+          58
+        ]
+      },
+      {
+        "title": "a16z Report: Context Layer Emerges as Key Bottleneck for AI Agents",
+        "signal_text": "a16z 在最新报告中指出，对于 AI Agent 而言，上下文（Context）已成为新的瓶颈。报告提出了“上下文层”（Context Layer）的概念，该层旨在将企业混乱的数据转化为可供 Agent 使用的、可操作的结构化上下文。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "a16z 官方账号",
+            "url": "https://x.com/a16z/status/2031373088110370938"
+          }
+        ],
+        "tags": [
+          "Agent 与新交互范式",
+          "搜索与推荐"
+        ],
+        "raw_item_indices": [
+          59
+        ]
+      },
+      {
+        "title": "OpenAI Launches Interactive Visual Explanations for Math & Science in ChatGPT",
+        "signal_text": "OpenAI 为 ChatGPT 推出交互式视觉解释功能，帮助学生实时探索数学和科学公式、变量及概念。据官方称，每周有 1.4 亿人使用 ChatGPT 来理解数学和科学概念。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "OpenAI 官方博客",
+            "url": "https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt"
+          },
+          {
+            "name": "ChatGPT 官方账号",
+            "url": "https://x.com/ChatGPTapp/status/2031510785428762732"
+          }
+        ],
+        "tags": [
+          "内容创作与理解",
+          "新产品形态"
+        ],
+        "raw_item_indices": [
+          40,
+          110,
+          131,
+          133
+        ]
+      },
+      {
+        "title": "LangGraph Releases v1.1 with Type-Safe Streaming and Enhanced Subgraph Support",
+        "signal_text": "LangChain 旗下的 AI Agent 框架 LangGraph 发布 1.1.0 版本，引入了 `version=\"v2\"` 可选流式格式，提供类型安全的流式调用和调用功能，并改进了父图与子图的回放行为。",
+        "signal_strength": 0.7,
+        "sources": [
+          {
+            "name": "LangGraph GitHub Release",
+            "url": "https://github.com/langchain-ai/langgraph/releases/tag/1.1.0"
+          }
+        ],
+        "tags": [
+          "Agent 与新交互范式",
+          "开源生态"
+        ],
+        "raw_item_indices": [
+          154
+        ]
+      },
+      {
+        "title": "Unsloth AI Releases Comprehensive Repo with 250+ LLM Training Notebooks",
+        "signal_text": "高效微调工具提供商 Unsloth AI 发布了一个包含 250 多个 Notebook 的代码库，涵盖从 RL、视觉、音频到嵌入模型和 TTS 的完整微调与推理工作流，支持在 3GB VRAM 的设备上本地训练或免费使用 Colab。",
+        "signal_strength": 0.65,
+        "sources": [
+          {
+            "name": "Unsloth AI 官方账号",
+            "url": "https://x.com/UnslothAI/status/2031371292495196400"
+          }
+        ],
+        "tags": [
+          "技术突破",
+          "开源生态",
+          "推理效率提升"
+        ],
+        "raw_item_indices": [
+          60
+        ]
+      },
+      {
+        "title": "VS Code Introduces 'Agent Hooks' for Programmable Copilot Behavior",
+        "signal_text": "VS Code 推出“Agent Hooks”功能，允许开发者在 Copilot 会话的关键时刻（如代码生成前后）执行策略、运行检查并引导其行为，从而以编程方式定义 Agent 在工作流中的行为，减少重复提示。",
+        "signal_strength": 0.65,
+        "sources": [
+          {
+            "name": "VS Code 官方账号",
+            "url": "https://x.com/code/status/2031219225906282803"
+          }
+        ],
+        "tags": [
+          "Agent 与新交互范式",
+          "工具调用"
+        ],
+        "raw_item_indices": [
+          52
+        ]
+      }
+    ],
+    "2026-03-12": [
+      {
+        "title": "NVIDIA Releases Nemotron-3-Super: 120B Open Hybrid MoE Model with 1M Token Context",
+        "signal_text": "NVIDIA 发布 Nemotron-3-Super，这是一个 120B 参数、开放权重的混合专家模型（MoE），拥有 1M token 的上下文窗口。该模型在代理编码和聊天性能上具有竞争力，可在约 64GB 内存上运行，旨在解决多智能体系统因生成长序列任务而产生的高 token 成本问题。",
+        "signal_strength": 0.9,
+        "sources": [
+          {
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/technology/nvidias-new-open-weights-nemotron-3-super-combines-three-different"
+          },
+          {
+            "name": "Twitter @minchoi",
+            "url": "https://x.com/minchoi/status/2031786589538427311"
+          },
+          {
+            "name": "Twitter @UnslothAI",
+            "url": "https://x.com/UnslothAI/status/2031778104306499749"
+          }
+        ],
+        "tags": [
+          "开源生态",
+          "技术突破",
+          "Agent 与新交互范式"
+        ],
+        "raw_item_indices": [
+          5,
+          123,
+          130,
+          131
+        ]
+      },
+      {
+        "title": "Meta Acquires Moltbook, a Social Network for AI Agents",
+        "signal_text": "据 TechCrunch 等媒体报道，Meta 收购了 Moltbook，这是一个病毒式传播的社交网络，其特点是只有 AI 智能体可以发布内容，人类只能观看。此举被视为 Meta 探索 AI 驱动的新型社交互动范式的重要战略动作。",
+        "signal_strength": 0.85,
+        "sources": [
+          {
+            "name": "Reddit AI",
+            "url": "https://www.reddit.com/r/artificial/comments/1rqvjtm/meta_buys_moltbook_viral_social_network_where_ai/"
+          },
+          {
+            "name": "Twitter @minchoi",
+            "url": "https://x.com/minchoi/status/2031718525581103203"
+          }
+        ],
+        "tags": [
+          "头部公司战略动作",
+          "Agent 与新交互范式",
+          "社区运营"
+        ],
+        "raw_item_indices": [
+          35,
+          69
+        ]
+      },
+      {
+        "title": "Anthropic Integrates Claude Across Microsoft Excel and PowerPoint for Shared Context",
+        "signal_text": "Anthropic 升级了 Claude AI 模型，使其能够在 Microsoft Excel 和 PowerPoint 之间共享上下文，实现跨应用的可复用工作流。据 VentureBeat 报道，这是 Anthropic 扩大其企业版图、挑战微软 Copilot 生态的战略举措。",
+        "signal_strength": 0.8,
+        "sources": [
+          {
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/orchestration/anthropic-gives-claude-shared-context-across-microsoft-excel-and-powerpoint"
+          },
+          {
+            "name": "Twitter @minchoi",
+            "url": "https://x.com/minchoi/status/2031849258723205125"
+          }
+        ],
+        "tags": [
+          "头部公司战略动作",
+          "Agent 与新交互范式",
+          "搜索与推荐"
+        ],
+        "raw_item_indices": [
+          29,
+          152
+        ]
+      },
+      {
+        "title": "OpenAI Details Technical Architecture for Secure, Scalable AI Agents",
+        "signal_text": "OpenAI 官方博客详细介绍了如何为其 Responses API 构建智能体运行时环境，通过提供文件系统、网络访问（带安全护栏）等丰富上下文，使长时运行的工作流变得实用。该技术分享（获 260+ likes）揭示了前沿 AI 智能体平台的基础设施设计思路。",
+        "signal_strength": 0.8,
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/equip-responses-api-computer-environment"
+          },
+          {
+            "name": "Twitter @OpenAIDevs",
+            "url": "https://x.com/OpenAIDevs/status/2031798071345234193"
+          }
+        ],
+        "tags": [
+          "Agent 与新交互范式",
+          "技术突破",
+          "内容安全与治理"
+        ],
+        "raw_item_indices": [
+          44,
+          114
+        ]
+      },
+      {
+        "title": "Google Gemini CLI Introduces 'Plan Mode' for Agentic Code Exploration",
+        "signal_text": "Google 为 Gemini CLI 引入了新的“Plan Mode”。这是一种只读模式，允许 Gemini CLI 探索代码库、收集需求并提出澄清问题，以创建详细的执行计划，然后再进行实际修改，提升了 AI 编码助手的规划与协作能力。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "Twitter @googledevs",
+            "url": "https://x.com/googledevs/status/2031750026360176876"
+          }
+        ],
+        "tags": [
+          "内容创作与理解",
+          "Agent 与新交互范式",
+          "搜索与推荐"
+        ],
+        "raw_item_indices": [
+          90
+        ]
+      },
+      {
+        "title": "VS Code Launches 'Autopilot' Preview for Fully Agent-Controlled Workflows",
+        "signal_text": "VS Code 推出 Autopilot（预览版）功能。启用后，智能体将完全控制工作流，可以运行工具、在出错时重试，并持续工作直到任务完成。这标志着主流 IDE 正加速向 AI 智能体原生平台演进。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "Twitter @code",
+            "url": "https://x.com/code/status/2031860212764721161"
+          }
+        ],
+        "tags": [
+          "Agent 与新交互范式",
+          "开源生态",
+          "技术突破"
+        ],
+        "raw_item_indices": [
+          150
+        ]
+      },
+      {
+        "title": "Manufact Raises $6.3M as MCP Protocol Gains Traction for AI Agent Connectivity",
+        "signal_text": "据 VentureBeat 报道，专注于 Model Context Protocol（MCP）的初创公司 Manufact 完成了 630 万美元融资。MCP 正成为连接 ChatGPT、Claude 等 AI 应用与外部工具和数据的“USB-C”式标准协议，其生态发展值得关注。",
+        "signal_strength": 0.7,
+        "sources": [
+          {
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/infrastructure/manufact-raises-usd6-3m-as-mcp-becomes-the-usb-c-for-ai-powering-chatgpt-and"
+          }
+        ],
+        "tags": [
+          "开源生态",
+          "Agent 与新交互范式",
+          "技术突破"
+        ],
+        "raw_item_indices": [
+          33
+        ]
+      },
+      {
+        "title": "Chinese OpenClaw Craze Sparks Startup Gold Rush and Installation Services",
+        "signal_text": "据 MIT Technology Review 报道，开源 AI 工具 OpenClaw 在中国引发热潮，甚至催生了面向非技术用户的付费安装服务。这反映了中国开发者社区对前沿 AI 智能体技术的强烈兴趣和快速采用，但也伴随着一定的安全与合规风险。",
+        "signal_strength": 0.7,
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/"
+          },
+          {
+            "name": "Twitter @khoomeik",
+            "url": "https://x.com/khoomeik/status/2031797300457263106"
+          }
+        ],
+        "tags": [
+          "开源生态",
+          "行业风险与监管",
+          "Agent 与新交互范式"
+        ],
+        "raw_item_indices": [
+          38,
+          115
+        ]
+      },
+      {
+        "title": "Andrej Karpathy's 'Autoresearch' AI Agent Lab Experiences Outage, Highlights Reliability Concerns",
+        "signal_text": "前 OpenAI 研究员、AI 领域知名人物 Andrej Karpathy 在 Twitter 上表示，其“Autoresearch” AI 智能体研究实验室因 OAuth 故障被“摧毁”。他由此提出“智能体断电”的概念，即当前沿 AI 服务出现波动时，全球“智商”可能会突然下降，这凸显了依赖集中式 AI 服务的系统性风险。该推文获得 2800+ likes，引发广泛讨论。",
+        "signal_strength": 0.65,
+        "sources": [
+          {
+            "name": "Twitter @karpathy",
+            "url": "https://x.com/karpathy/status/2031792523187040643"
+          }
+        ],
+        "tags": [
+          "Agent 与新交互范式",
+          "行业风险与监管",
+          "技术突破"
+        ],
+        "raw_item_indices": [
+          118
+        ]
+      },
+      {
+        "title": "Grammarly Faces Class-Action Lawsuit Over Unauthorized Use of Identities in AI Feature",
+        "signal_text": "据 Wired 和 The Verge 报道，Grammarly 因其已关闭的“Expert Review”AI 功能在未经许可的情况下使用真人（包括记者）身份来呈现编辑建议，正面临集体诉讼。此案凸显了 AI 内容生成工具在训练数据来源、身份盗用和版权方面的法律与伦理风险。",
+        "signal_strength": 0.65,
+        "sources": [
+          {
+            "name": "Wired",
+            "url": "https://www.wired.com/story/grammarly-is-facing-a-class-action-lawsuit-over-its-ai-expert-review-feature/"
+          },
+          {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/893451/grammarly-ai-lawsuit-julia-angwin"
+          }
+        ],
+        "tags": [
+          "行业风险与监管",
+          "内容安全与治理",
+          "内容创作与理解"
+        ],
+        "raw_item_indices": [
+          11,
+          23
+        ]
+      }
     ]
   },
   "archived_weeks": [
