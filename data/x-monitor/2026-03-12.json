@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-12T05:15:11.049774",
+  "scraped_at": "2026-03-12T09:16:35.891207",
   "date": "2026-03-12",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 59,
-  "account_count": 37,
+  "tweet_count": 78,
+  "account_count": 42,
   "tweets": [
     {
       "id": "2031768310715736099",
@@ -684,6 +684,222 @@
       "likes": 231,
       "retweets": 13,
       "views": 24744
+    },
+    {
+      "id": "2031899292663771375",
+      "username": "steipete",
+      "text": "📝 Summarize 0.12.0 out now!\nFast summaries from URLs, files, and media - used in @openclaw  \n\nBig update for slides + media: stronger Chrome sidepanel slide mode, better YouTube/video switching, AssemblyAI+Gemini transcription, xurl for X, NVIDIA provider https://t.co/t1ZqwcN23G",
+      "timestamp": "2026-03-12T01:05:16+00:00",
+      "url": "https://x.com/steipete/status/2031899292663771375",
+      "images": [],
+      "likes": 36,
+      "retweets": 3,
+      "views": 2347
+    },
+    {
+      "id": "2031898150806409677",
+      "username": "PyTorch",
+      "text": "🇨🇳 Registration is open for #KubeCon + #CloudNativeCon + #OpenInfraSummit + #PyTorchCon China, 8-9 September in Shanghai!\n\n🎟 Register by 7 April + save up to ¥1270: https://t.co/EohHFBgyki. \n🎤 Got insights to share? Submit a talk by 3 May: https://t.co/ScyV1Tn8JJ https://t.co/VQT2Ms6zR3",
+      "timestamp": "2026-03-12T01:00:44+00:00",
+      "url": "https://x.com/PyTorch/status/2031898150806409677",
+      "images": [],
+      "likes": 6,
+      "retweets": 0,
+      "views": 539
+    },
+    {
+      "id": "2031896269095153894",
+      "username": "AravSrinivas",
+      "text": "iMac: the bicycle for the mind",
+      "timestamp": "2026-03-12T00:53:16+00:00",
+      "url": "https://x.com/AravSrinivas/status/2031896269095153894",
+      "images": [],
+      "likes": 32,
+      "retweets": 5,
+      "views": 2761
+    },
+    {
+      "id": "2031894092683116632",
+      "username": "steipete",
+      "text": "In better news, I found a bug in the WebSocket implementation of OpenClaw's OpenAI API implementation that causes these \"yes I will do x\" for GPT 5.4 - and then the model just stops.\n\nWe didn't send the new \"phase\" parameter. We'll do in the release coming later today.",
+      "timestamp": "2026-03-12T00:44:37+00:00",
+      "url": "https://x.com/steipete/status/2031894092683116632",
+      "images": [],
+      "likes": 277,
+      "retweets": 9,
+      "views": 10987
+    },
+    {
+      "id": "2031892559937618186",
+      "username": "steipete",
+      "text": "The amount of grifters out there is incredible. That nemoclaw/clawbot website? Rouge. Not from Nvidia.",
+      "timestamp": "2026-03-12T00:38:31+00:00",
+      "url": "https://x.com/steipete/status/2031892559937618186",
+      "images": [],
+      "likes": 230,
+      "retweets": 8,
+      "views": 15444
+    },
+    {
+      "id": "2031890383353876716",
+      "username": "_akhaliq",
+      "text": "Good time to follow: https://t.co/jP1onDjnuD",
+      "timestamp": "2026-03-12T00:29:52+00:00",
+      "url": "https://x.com/_akhaliq/status/2031890383353876716",
+      "images": [],
+      "likes": 3,
+      "retweets": 0,
+      "views": 2156
+    },
+    {
+      "id": "2031889502424469660",
+      "username": "JeffDean",
+      "text": "Excited to see this joint collaboration between @GoogleResearch, @NHSuk and @imperialcollege showing AI’s potential to detect 25% of the interval cancers previously missed by conventional methods. Additionally, the research found AI can reduce screening workloads, and give https://t.co/nvY2tjJkfz",
+      "timestamp": "2026-03-12T00:26:22+00:00",
+      "url": "https://x.com/JeffDean/status/2031889502424469660",
+      "images": [
+        "https://pbs.twimg.com/media/HDK4DlGbQAAajXN.jpg",
+        "https://pbs.twimg.com/media/HDK4hFpbQAIZK6B.png"
+      ],
+      "likes": 44,
+      "retweets": 2,
+      "views": 3512
+    },
+    {
+      "id": "2031881003086831953",
+      "username": "AravSrinivas",
+      "text": "Are you getting it ? https://t.co/HpFHmcDUh7",
+      "timestamp": "2026-03-11T23:52:36+00:00",
+      "url": "https://x.com/AravSrinivas/status/2031881003086831953",
+      "images": [],
+      "likes": 366,
+      "retweets": 17,
+      "views": 11210
+    },
+    {
+      "id": "2031875731836502203",
+      "username": "Miles_Brundage",
+      "text": "Few things:\n\n1. Even with a Senator talking at length about x-risk, we're still early (see e.g. mispronouncing Dario's name).\n\n2. This doesn't explain (nor have other politicians have explained AFAIK) why a ban is a proportionate or effective solution.\nhttps://t.co/5E2YBnmvHH",
+      "timestamp": "2026-03-11T23:31:39+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2031875731836502203",
+      "images": [],
+      "likes": 32,
+      "retweets": 4,
+      "views": 2625
+    },
+    {
+      "id": "2031875064061194612",
+      "username": "DeryaTR_",
+      "text": "There has never been a better time in all of human history to think different.",
+      "timestamp": "2026-03-11T23:29:00+00:00",
+      "url": "https://x.com/DeryaTR_/status/2031875064061194612",
+      "images": [],
+      "likes": 75,
+      "retweets": 14,
+      "views": 2495
+    },
+    {
+      "id": "2031872496186900875",
+      "username": "levie",
+      "text": "Software will look very different in the future for most knowledge work. Our software was designed for people to do most of the work, but now agents will be doing a large portion of those tasks and don’t need any of the same UI.\n\nThis means our software primarily will be about",
+      "timestamp": "2026-03-11T23:18:48+00:00",
+      "url": "https://x.com/levie/status/2031872496186900875",
+      "images": [],
+      "likes": 106,
+      "retweets": 4,
+      "views": 27062
+    },
+    {
+      "id": "2031871558164377771",
+      "username": "NVIDIAAI",
+      "text": "“We're an American company, but we work with companies across the world,” @ctnzr says. “It's in our interest to make the ecosystem diverse and strong everywhere.”\n\nRead more on how we are committed to helping the AI ecosystem develop through our  open source models.",
+      "timestamp": "2026-03-11T23:15:04+00:00",
+      "url": "https://x.com/NVIDIAAI/status/2031871558164377771",
+      "images": [],
+      "likes": 68,
+      "retweets": 7,
+      "views": 6642
+    },
+    {
+      "id": "2031862435003371670",
+      "username": "omarsar0",
+      "text": "\"MCPs are dead. CLIs and APIs are all you need.\"\n\nClassic example of the uncontrollable AI hype these days. \n\nDon't dismiss MCP just yet. As with everything, a combination of these will lead to a bigger unlock, especially as we discover new ways to interact with agents.",
+      "timestamp": "2026-03-11T22:38:49+00:00",
+      "url": "https://x.com/omarsar0/status/2031862435003371670",
+      "images": [],
+      "likes": 17,
+      "retweets": 3,
+      "views": 2209
+    },
+    {
+      "id": "2031860212764721161",
+      "username": "code",
+      "text": "🤖 Try Autopilot (Preview) in VS Code!\n\nWith Autopilot enabled, the agent stays in control of the workflow. It can run tools, retry on errors, and continue working until the task is complete.\n\nLearn more: https://t.co/i3BG9wdig8 https://t.co/K0Gqcy9DbK",
+      "timestamp": "2026-03-11T22:29:59+00:00",
+      "url": "https://x.com/code/status/2031860212764721161",
+      "images": [],
+      "likes": 282,
+      "retweets": 33,
+      "views": 22765
+    },
+    {
+      "id": "2031858030615101685",
+      "username": "DeryaTR_",
+      "text": "Robert is right, in the age of AI everything changes: \n\n“Same advice now. Either you get new skills and become part of the new world or you will really struggle. Because people who get it are about to change EVERY PART OF HUMAN LIFE.\n\nThe time for grieving and excuses is over.",
+      "timestamp": "2026-03-11T22:21:19+00:00",
+      "url": "https://x.com/DeryaTR_/status/2031858030615101685",
+      "images": [],
+      "likes": 40,
+      "retweets": 6,
+      "views": 5314
+    },
+    {
+      "id": "2031849258723205125",
+      "username": "minchoi",
+      "text": "Anthropic just put Claude inside Excel AND PowerPoint at the same time.\n\nOne conversation. Both files.\n\nPull data, build the deck, draft the email... zero tab switching.\nhttps://t.co/lpHZUOU64z",
+      "timestamp": "2026-03-11T21:46:27+00:00",
+      "url": "https://x.com/minchoi/status/2031849258723205125",
+      "images": [],
+      "likes": 84,
+      "retweets": 14,
+      "views": 18018
+    },
+    {
+      "id": "2031841537634812028",
+      "username": "mmitchell_ai",
+      "text": "NYT AI-vs-human test is bizarre to me.\nI made a test to see whether X users prefer human writing or AI generated text. Which do you prefer?",
+      "timestamp": "2026-03-11T21:15:47+00:00",
+      "url": "https://x.com/mmitchell_ai/status/2031841537634812028",
+      "images": [],
+      "likes": 13,
+      "retweets": 0,
+      "views": 1538
+    },
+    {
+      "id": "2031488299240415642",
+      "username": "minchoi",
+      "text": "This Claude Skill is literally a $1,000 App Store designer 🤯\n\nSetup + skill in comment 👇 https://t.co/KQOUykjHp8",
+      "timestamp": "2026-03-10T21:52:08+00:00",
+      "url": "https://x.com/minchoi/status/2031488299240415642",
+      "images": [
+        "https://pbs.twimg.com/media/HDE_AofXMAAmN55.jpg"
+      ],
+      "likes": 1212,
+      "retweets": 71,
+      "views": 154268
+    },
+    {
+      "id": "2031428153948709291",
+      "username": "huggingface",
+      "text": "🪣 We just shipped Storage Buckets: S3-like mutable storage, cheaper &amp; faster \n\nGit falls short for everything on high-throughput side of AI (checkpoints, processed data, agent traces, logs etc) \n\nBuckets fixes that: fast writes, overwrites, directory sync 💨\n\nAll powered by Xet https://t.co/PGUUy5E4ua",
+      "timestamp": "2026-03-10T17:53:08+00:00",
+      "url": "https://x.com/huggingface/status/2031428153948709291",
+      "images": [
+        "https://pbs.twimg.com/media/HDEU5GzWEAEYU_4.jpg"
+      ],
+      "likes": 368,
+      "retweets": 62,
+      "views": 58264
     }
   ]
 }
