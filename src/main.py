@@ -84,7 +84,7 @@ def _collect_all() -> list:
     except Exception as e:
         print(f"  HuggingFace collector error: {e}")
 
-    # Benchmarks (Open LLM Leaderboard + SWE-bench Verified)
+    # Benchmarks (5 leaderboards)
     try:
         from .collectors.benchmarks import BenchmarkCollector
         bench = BenchmarkCollector()

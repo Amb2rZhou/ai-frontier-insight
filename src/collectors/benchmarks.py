@@ -469,20 +469,18 @@ class BenchmarkCollector(BaseCollector):
         tz = ZoneInfo(get_timezone())
         now_iso = datetime.now(tz).isoformat()
 
-        # 1. Open LLM Leaderboard
-        items.extend(self._collect_open_llm(snapshot, now_iso))
-
-        # 2. SWE-bench Verified
-        items.extend(self._collect_swebench(snapshot, now_iso))
-
-        # 3. ARC-AGI-2
-        items.extend(self._collect_arcagi2(snapshot, now_iso))
-
-        # 4. OSWorld
-        items.extend(self._collect_osworld(snapshot, now_iso))
-
-        # 5. Terminal-Bench 2.0
-        items.extend(self._collect_terminal_bench(snapshot, now_iso))
+        collectors = [
+            ("Open LLM", self._collect_open_llm),
+            ("SWE-bench", self._collect_swebench),
+            ("ARC-AGI-2", self._collect_arcagi2),
+            ("OSWorld", self._collect_osworld),
+            ("Terminal-Bench", self._collect_terminal_bench),
+        ]
+        for name, collector_fn in collectors:
+            try:
+                items.extend(collector_fn(snapshot, now_iso))
+            except Exception as e:
+                print(f"  Benchmark: {name} collector crashed: {e}")
 
         _save_snapshot(snapshot)
         print(f"  Benchmark total: {len(items)} items")
