@@ -186,7 +186,7 @@ def update_trends(signals: List[Dict]):
         today_signals=today_signals,
     )
 
-    response = call_ai(prompt, "trend_update", use_sonnet=False, max_tokens=2048)
+    response = call_ai(prompt, "trend_update", use_sonnet=False, max_tokens=4096)
     if not response:
         print("  Trend update failed: no AI response")
         return
