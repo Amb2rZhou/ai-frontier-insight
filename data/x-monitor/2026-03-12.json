@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-12T19:56:04.044717",
+  "scraped_at": "2026-03-12T22:29:54.560083",
   "date": "2026-03-12",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 100,
-  "account_count": 49,
+  "tweet_count": 112,
+  "account_count": 55,
   "tweets": [
     {
       "id": "2031768310715736099",
@@ -1159,6 +1159,148 @@
       "likes": 33,
       "retweets": 0,
       "views": 5362
+    },
+    {
+      "id": "2032101245763149908",
+      "username": "OfficialLoganK",
+      "text": "Introducing our biggest upgrade to @googlemaps since the original launch, featuring Ask Gemini (with personalization), Immersive Navigation, and much more!! 🗺️ https://t.co/yjKV44hK6w",
+      "timestamp": "2026-03-12T14:27:46+00:00",
+      "url": "https://x.com/OfficialLoganK/status/2032101245763149908",
+      "images": [],
+      "likes": 29,
+      "retweets": 6,
+      "views": 427
+    },
+    {
+      "id": "2032097753011028164",
+      "username": "emollick",
+      "text": "I wrote about the exponential improvement path of AI, the early signs of massive transformations in the nature of work (including software companies where nobody codes any more), and how one week in February is an omen of our future as things get weirder. https://t.co/Qvhd0K6XAq",
+      "timestamp": "2026-03-12T14:13:53+00:00",
+      "url": "https://x.com/emollick/status/2032097753011028164",
+      "images": [],
+      "likes": 29,
+      "retweets": 5,
+      "views": 2072
+    },
+    {
+      "id": "2032094267640869085",
+      "username": "MistralAI",
+      "text": "📢 Introducing the AI Now Summit, Mistral AI’s first-ever flagship event!\n\n🎯 One day, one mission: Own your AI transformation.\n📍 Paris | May 28\n\nJoin us to learn how AI is transforming leading organisations and hear from global CEOs and Mistral’s founders on:\n\n✅ Using open https://t.co/ggKnkdITac",
+      "timestamp": "2026-03-12T14:00:02+00:00",
+      "url": "https://x.com/MistralAI/status/2032094267640869085",
+      "images": [
+        "https://pbs.twimg.com/media/HDNyUGXWoAAzAn2.jpg"
+      ],
+      "likes": 52,
+      "retweets": 7,
+      "views": 2087
+    },
+    {
+      "id": "2032092644483141928",
+      "username": "mustafasuleyman",
+      "text": "We're approaching the dawn of medical superintelligence - the moment when affordable, world-class medical knowledge and support is at your fingertips whenever you need it.\n\nI think people are still underestimating how profound this transformation is going to be. Today we're https://t.co/e8r3ZWLddk",
+      "timestamp": "2026-03-12T13:53:35+00:00",
+      "url": "https://x.com/mustafasuleyman/status/2032092644483141928",
+      "images": [],
+      "likes": 42,
+      "retweets": 8,
+      "views": 3478
+    },
+    {
+      "id": "2032084724743553129",
+      "username": "rasbt",
+      "text": "Another week, another noteworthy open-weight LLM release. Nvidia’s Nemotron 3 Super 120B-A12B looks pretty good.\n\nBenchmarks are on par with Qwen3.5 122B and GPT-OSS 120B, but the throughput is great!\n\nBelow is a short, visual architecture rundown. https://t.co/eqSOPAeqQz",
+      "timestamp": "2026-03-12T13:22:07+00:00",
+      "url": "https://x.com/rasbt/status/2032084724743553129",
+      "images": [
+        "https://pbs.twimg.com/media/HDNqIoZXsAA-wlL.jpg"
+      ],
+      "likes": 167,
+      "retweets": 22,
+      "views": 6074
+    },
+    {
+      "id": "2032079158797357260",
+      "username": "googledevs",
+      "text": "Determine which LLMs perform best for Android development tasks with Android Bench 🤖 \n\nThis model-agnostic benchmark captures platform expertise and developer lifecycle nuances using actual codebases and tasks to help you make data-driven decisions → https://t.co/ZbGNDq2kPA https://t.co/rnELMv9R54",
+      "timestamp": "2026-03-12T13:00:00+00:00",
+      "url": "https://x.com/googledevs/status/2032079158797357260",
+      "images": [],
+      "likes": 18,
+      "retweets": 2,
+      "views": 2680
+    },
+    {
+      "id": "2032075068872819149",
+      "username": "DeryaTR_",
+      "text": "I intend to visit Platform 37 from @GoogleDeepMind in London when it opens, hopefully on its first day, as a historical tribute moment in the age of AI. I love the name and the mission! \n\nDemis Hassabis: “Platform 37 - a nod to AlphaGo’s legendary Move 37. It’s a tribute to",
+      "timestamp": "2026-03-12T12:43:45+00:00",
+      "url": "https://x.com/DeryaTR_/status/2032075068872819149",
+      "images": [],
+      "likes": 33,
+      "retweets": 1,
+      "views": 4000
+    },
+    {
+      "id": "2032070257209192806",
+      "username": "fchollet",
+      "text": "Up until roughly the 1970s, most civilian technological progress was downstream of military technological progress. The trend has since inverted. Today most of the modern (e.g. Ukraine) military playbook comes from consumer tech from the past two decades.\n\nWith AI entering the",
+      "timestamp": "2026-03-12T12:24:38+00:00",
+      "url": "https://x.com/fchollet/status/2032070257209192806",
+      "images": [],
+      "likes": 143,
+      "retweets": 17,
+      "views": 11649
+    },
+    {
+      "id": "2032065831866147015",
+      "username": "Austen",
+      "text": "Who is building the better auth layer for agents?\n\nBecause what we have currently is miserable",
+      "timestamp": "2026-03-12T12:07:02+00:00",
+      "url": "https://x.com/Austen/status/2032065831866147015",
+      "images": [],
+      "likes": 42,
+      "retweets": 1,
+      "views": 10259
+    },
+    {
+      "id": "2031187339901595653",
+      "username": "NVIDIARobotics",
+      "text": "You can find me at the front desk… Which type of robot am I? 🙋 \n\nI’m the kind who loves greeting you, answering your questions, and serving up the best recommendations at #NVIDIAGTC. https://t.co/PnYzaIvFa3",
+      "timestamp": "2026-03-10T01:56:14+00:00",
+      "url": "https://x.com/NVIDIARobotics/status/2031187339901595653",
+      "images": [
+        "https://pbs.twimg.com/media/HDA5tLqaMAAuFgm.jpg"
+      ],
+      "likes": 50,
+      "retweets": 7,
+      "views": 3676
+    },
+    {
+      "id": "2031095720774611013",
+      "username": "code",
+      "text": "The @figma MCP server now supports a full roundtrip workflow from @code! Bring Figma designs into code, then capture your rendered UI back to the Figma canvas as editable frames. \n\nJoin us for a special livestream tomorrow at 9:30 am PT to see it live in action: https://t.co/KsQHfDyOlR",
+      "timestamp": "2026-03-09T19:52:10+00:00",
+      "url": "https://x.com/code/status/2031095720774611013",
+      "images": [
+        "https://pbs.twimg.com/media/HC_my0OXQAApAeV.jpg"
+      ],
+      "likes": 168,
+      "retweets": 12,
+      "views": 17126
+    },
+    {
+      "id": "2031021409716076803",
+      "username": "gneubig",
+      "text": "I re-made my graph on how many pull requests I made per month, and I can confidently say that I'm 10x more productive than I was 2 years ago.\n\nI'm creating some slides on what it'll take to become 100x more productive, have lots of thoughts on this to share soon. https://t.co/BtYPRuHpOj",
+      "timestamp": "2026-03-09T14:56:53+00:00",
+      "url": "https://x.com/gneubig/status/2031021409716076803",
+      "images": [
+        "https://pbs.twimg.com/media/HC-jKicaIAAdQS3.jpg"
+      ],
+      "likes": 69,
+      "retweets": 3,
+      "views": 4100
     }
   ]
 }
