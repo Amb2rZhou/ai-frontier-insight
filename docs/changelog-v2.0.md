@@ -5,7 +5,7 @@
 
 **2. Benchmark 排行榜追踪**
 新增 AI 模型排行榜自动监控，榜首更替、重要模型上榜等关键变动会自动纳入日报。
-- 已接入：Open LLM Leaderboard、SWE-bench Verified
+- 已接入：Open LLM Leaderboard、SWE-bench Verified、ARC-AGI-2（抽象推理）、OSWorld（电脑操控）、Terminal-Bench 2.0（终端编程）
 - 规划中：LMSYS Chatbot Arena、MTEB Embedding、VBench 视频生成
 
 **3. 信息来源标注**
