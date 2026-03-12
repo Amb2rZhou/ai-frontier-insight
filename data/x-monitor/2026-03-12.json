@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-12T14:07:10.964881",
+  "scraped_at": "2026-03-12T16:41:31.092555",
   "date": "2026-03-12",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 94,
-  "account_count": 47,
+  "tweet_count": 98,
+  "account_count": 48,
   "tweets": [
     {
       "id": "2031768310715736099",
@@ -1089,6 +1089,52 @@
       "likes": 50,
       "retweets": 5,
       "views": 4164
+    },
+    {
+      "id": "2031988834884350292",
+      "username": "PyTorch",
+      "text": "Community matters. ❤️\n\nJoin the Women &amp; Non-Binary in #PyTorch Lunch at #PyTorchCon Europe, 7-8 April, in Paris. 🍽️ Learn more: https://t.co/Q3NhsHWQU0\n\n⏳ Registration goes up €100 on 20 March. 🎟 Get your pass now! https://t.co/ba8rZhNQlR https://t.co/S5x470HHIv",
+      "timestamp": "2026-03-12T07:01:05+00:00",
+      "url": "https://x.com/PyTorch/status/2031988834884350292",
+      "images": [],
+      "likes": 2,
+      "retweets": 1,
+      "views": 1633
+    },
+    {
+      "id": "2031982340826910812",
+      "username": "thsottiaux",
+      "text": "Hooks are coming to codex. That’s all I wanted to say.",
+      "timestamp": "2026-03-12T06:35:17+00:00",
+      "url": "https://x.com/thsottiaux/status/2031982340826910812",
+      "images": [],
+      "likes": 992,
+      "retweets": 33,
+      "views": 28956
+    },
+    {
+      "id": "2031975246837006457",
+      "username": "Miles_Brundage",
+      "text": "So you can make the Codex (app) font into the Claude font, or something close to it (e.g. \"Charter\").\n\nFeels like maybe a good way to reduce biases towards one or the other",
+      "timestamp": "2026-03-12T06:07:05+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2031975246837006457",
+      "images": [],
+      "likes": 1,
+      "retweets": 0,
+      "views": 663
+    },
+    {
+      "id": "2031411916489298156",
+      "username": "OfficialLoganK",
+      "text": "Say hello to Gemini Embedding 2, our new SOTA multimodal model that lets your bring text, images, video, audio, and docs into the same embedding space! 👀 https://t.co/mjYk8FnTuj",
+      "timestamp": "2026-03-10T16:48:37+00:00",
+      "url": "https://x.com/OfficialLoganK/status/2031411916489298156",
+      "images": [
+        "https://pbs.twimg.com/media/HDEGXx2XoAE9sH8.png"
+      ],
+      "likes": 5492,
+      "retweets": 443,
+      "views": 809519
     }
   ]
 }
