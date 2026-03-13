@@ -1,0 +1,17 @@
+---
+layout: default
+title: AI Frontier Insight
+---
+
+<h2>每日 AI 前沿情报</h2>
+<p>自动采集、分析、生成。</p>
+
+<ul class="post-list">
+{% assign sorted = site.posts | sort: 'date' | reverse %}
+{% for post in sorted %}
+  <li>
+    <span class="post-meta">{{ post.date | date: "%Y-%m-%d" }}</span>
+    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+  </li>
+{% endfor %}
+</ul>

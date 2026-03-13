@@ -17,11 +17,17 @@ defaults:
 
 exclude:
   - README.md
-  - "*.html"
-  - "*.py"
-  - "*.pdf"
+  - generate_pdf.py
+  - product-overview.pdf
+  - architecture.html
+  - demo-a.html
+  - demo-b.html
+  - demo-c.html
+  - demo-d.html
+  - demo-picker.html
   - assets/
   - weekly-insight-SKILL.md
   - weekly-report-skill-prompt.md
   - presentation-script.md
   - product-overview.md
+  - changelog-v2.0.md
