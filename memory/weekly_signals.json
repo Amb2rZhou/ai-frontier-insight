@@ -860,6 +860,217 @@
           23
         ]
       }
+    ],
+    "2026-03-13": [
+      {
+        "title": "OpenAI Sora 2 Video API Launches with New Capabilities",
+        "signal_text": "OpenAI 官方开发者账号宣布推出 Sora 2 Video API，新增多项功能：支持自定义角色和对象、16:9 和 9:16 比例导出、最长 20 秒片段、视频延续以扩展场景，以及批量视频生成作业。该公告获 835+ likes 和 85k+ views，显示市场对高质量视频生成 API 的强烈需求。",
+        "signal_strength": 0.9,
+        "sources": [
+          {
+            "name": "OpenAI Devs (@OpenAIDevs)",
+            "url": "https://x.com/OpenAIDevs/status/2032142448970121468"
+          }
+        ],
+        "tags": [
+          "内容创作与理解",
+          "技术突破",
+          "头部公司战略动作"
+        ],
+        "raw_item_indices": [
+          121
+        ]
+      },
+      {
+        "title": "Claude Launches Interactive Chart and Diagram Generation Feature",
+        "signal_text": "Anthropic 官方账号宣布 Claude 现已能在聊天中直接构建交互式图表和图表，该功能今日起在所有套餐（包括免费版）开放 Beta 测试。此功能直接冲击了可视化 SaaS 初创公司，获 7598+ likes 和 352k+ views，显示了 AI 原生功能对传统工具赛道的颠覆潜力。",
+        "signal_strength": 0.85,
+        "sources": [
+          {
+            "name": "Claude AI (@claudeai)",
+            "url": "https://x.com/claudeai/status/2032124273587077133"
+          }
+        ],
+        "tags": [
+          "内容创作与理解",
+          "Agent 与新交互范式",
+          "头部公司战略动作"
+        ],
+        "raw_item_indices": [
+          77,
+          92
+        ]
+      },
+      {
+        "title": "Perplexity Computer Rolls Out to All Pro Subscribers, Max Plan Offers Higher Limits",
+        "signal_text": "Perplexity CEO Arav Srinivas 和官方账号宣布，Perplexity Computer（AI Agent 平台）现已面向所有 Pro 订阅用户开放，提供 20+ 高级模型、预构建和自定义技能以及数百个连接器。Max 订阅用户将获得月度积分和更高的使用额度。该公告获 1309+ likes 和 127k+ views，标志着 AI Agent 平台商业化进入新阶段。",
+        "signal_strength": 0.8,
+        "sources": [
+          {
+            "name": "Perplexity AI (@perplexity_ai)",
+            "url": "https://x.com/perplexity_ai/status/2032160576303219185"
+          },
+          {
+            "name": "Arav Srinivas (@AravSrinivas)",
+            "url": "https://x.com/AravSrinivas/status/2032161375565602908"
+          }
+        ],
+        "tags": [
+          "Agent 与新交互范式",
+          "搜索与推荐",
+          "头部公司战略动作"
+        ],
+        "raw_item_indices": [
+          105,
+          106
+        ]
+      },
+      {
+        "title": "Google Maps Integrates AI with 'Ask Gemini' and Immersive Navigation",
+        "signal_text": "Google 官方宣布对 Google Maps 进行重大升级，引入“Ask Gemini”（支持个性化）和沉浸式导航（Immersive Navigation）等 AI 功能。用户现在可以直接与地图对话。此更新获 246+ likes 和 40k+ views，是 AI 增强传统超级应用、创造新交互范式的重要案例。",
+        "signal_strength": 0.8,
+        "sources": [
+          {
+            "name": "OfficialLoganK (@OfficialLoganK)",
+            "url": "https://x.com/OfficialLoganK/status/2032101245763149908"
+          },
+          {
+            "name": "minchoi (@minchoi)",
+            "url": "https://x.com/minchoi/status/2032122979115581514"
+          }
+        ],
+        "tags": [
+          "搜索与推荐",
+          "Agent 与新交互范式",
+          "头部公司战略动作"
+        ],
+        "raw_item_indices": [
+          57,
+          74,
+          78
+        ]
+      },
+      {
+        "title": "NVIDIA Blog: How to Build a #1 Agent on DABStep with Reusable Tool Generation",
+        "signal_text": "HuggingFace 博客发布了 NVIDIA 团队的博文，详细介绍了他们如何使用 NeMo Agent Toolkit 和可重用工具生成（Reusable Tool Generation）方法，在 DABStep（数据科学 Agent 基准）上获得第一名。这为构建复杂领域（如数据科学）的 AI Agent 提供了可复现的工程框架和最佳实践。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "HuggingFace Blog (NVIDIA)",
+            "url": "https://huggingface.co/blog/nvidia/nemo-agent-toolkit-data-explorer-dabstep-1st-place"
+          }
+        ],
+        "tags": [
+          "Agent 与新交互范式",
+          "技术突破",
+          "开源生态"
+        ],
+        "raw_item_indices": [
+          0
+        ]
+      },
+      {
+        "title": "Research: Cross-Context Review (CCR) Improves LLM Output Quality",
+        "signal_text": "一篇新论文提出“跨上下文审查（Cross-Context Review, CCR）”方法，通过在全新会话（无先前输出访问权限）中审查 LLM 的输出来显著提高输出质量。该方法简单有效，解决了 LLM 在相同会话中难以发现自身错误的问题，对提升 AI Agent 的可靠性和自动化工作流质量具有实用价值。",
+        "signal_strength": 0.7,
+        "sources": [
+          {
+            "name": "Arxiv Paper: Cross-Context Review: Improving LLM Output Quality...",
+            "url": "http://arxiv.org/abs/2603.12123v1"
+          }
+        ],
+        "tags": [
+          "技术突破",
+          "Agent 与新交互范式"
+        ],
+        "raw_item_indices": [
+          164
+        ]
+      },
+      {
+        "title": "VentureBeat: Agents Need Vector Search More Than RAG Ever Did",
+        "signal_text": "VentureBeat 发表分析文章指出，在 AI Agent 时代，向量搜索的角色比 RAG 时期更为关键且更难做对。随着 Agent 执行复杂、多步骤任务，对精确、上下文相关的记忆检索需求激增，向量数据库成为 Agent 可靠性的核心基础设施，而不仅仅是信息增强工具。",
+        "signal_strength": 0.65,
+        "sources": [
+          {
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/data/agents-dont-replace-vector-search-they-make-it-harder-to-get-right"
+          }
+        ],
+        "tags": [
+          "搜索与推荐",
+          "Agent 与新交互范式",
+          "技术突破"
+        ],
+        "raw_item_indices": [
+          14
+        ]
+      },
+      {
+        "title": "a16z Podcast: Palantir CEO Alex Karp on Zero-Sum AI Race and National Defense",
+        "signal_text": "在 a16z American Dynamism Summit 上，Palantir 联合创始人兼 CEO Alex Karp 与 a16z 的 Katherine Boyle 对话，讨论了 AI 如何重塑战争、硅谷在国防领域的责任，以及为何他认为 AI 竞争是零和游戏，是美国最大的竞争优势。此观点引发了关于 AI 地缘政治和商业战略的深度思考。",
+        "signal_strength": 0.65,
+        "sources": [
+          {
+            "name": "a16z Podcast / @a16z",
+            "url": "https://x.com/a16z/status/2032189312285204834"
+          },
+          {
+            "name": "a16z Podcast (The a16z Show)",
+            "url": "https://a16z.simplecast.com/episodes/palantir-ceo-alex-karp-on-the-zero-sum-ai-race-39f_cNL_"
+          }
+        ],
+        "tags": [
+          "行业风险与监管",
+          "头部公司战略动作"
+        ],
+        "raw_item_indices": [
+          38,
+          91
+        ]
+      },
+      {
+        "title": "[Update] OpenClaw Releases Hunter & Healer Alpha Models with 1M Context",
+        "signal_text": "OpenClaw 官方账号发布 2026.3.11 版本更新，推出 Hunter & Healer Alpha 模型，通过 OpenRouter 提供免费的 1M 上下文支持。同时包含 GPT 5.4 思维连贯性改进、Gemini Embedding 2 用于记忆、OpenCode Go 支持及安全加固。该推文获 554+ likes，显示 OpenClaw 生态仍在快速迭代。",
+        "signal_strength": 0.6,
+        "sources": [
+          {
+            "name": "OpenClaw (@openclaw)",
+            "url": "https://x.com/openclaw/status/2031965133405073823"
+          }
+        ],
+        "tags": [
+          "开源生态",
+          "Agent 与新交互范式",
+          "技术突破"
+        ],
+        "raw_item_indices": [
+          41
+        ]
+      },
+      {
+        "title": "AI Facial Recognition Error Leads to Wrongful Imprisonment, Highlighting Governance Risks",
+        "signal_text": "《卫报》和《Grand Forks Herald》报道，美国田纳西州一名祖母因 AI 人脸识别错误被误判为诈骗犯，导致被监禁数月。此案件在 Hacker News 引发热议，凸显了 AI 技术在司法、安防等领域应用中的严重缺陷和治理风险，为内容平台的 AI 审核与安全治理敲响警钟。",
+        "signal_strength": 0.6,
+        "sources": [
+          {
+            "name": "The Guardian / Hacker News",
+            "url": "https://www.theguardian.com/us-news/2026/mar/12/tennessee-grandmother-ai-fraud"
+          },
+          {
+            "name": "Grand Forks Herald / Hacker News",
+            "url": "https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case"
+          }
+        ],
+        "tags": [
+          "内容安全与治理",
+          "行业风险与监管"
+        ],
+        "raw_item_indices": [
+          1,
+          16
+        ]
+      }
     ]
   },
   "archived_weeks": [
