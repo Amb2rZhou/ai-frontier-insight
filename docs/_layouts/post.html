@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<a href="{{ '/' | relative_url }}" class="back-link">&larr; All Briefs</a>
+
+<article>
+  <header class="post-header">
+    <h1>{{ page.title }}</h1>
+    <div class="meta">{{ page.date | date: "%Y-%m-%d" }}</div>
+  </header>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+</article>
