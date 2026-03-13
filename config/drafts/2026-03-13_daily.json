@@ -124,27 +124,6 @@
       "category": "open_source"
     },
     {
-      "title": "Research: Cross-Context Review (CCR) Improves LLM Output Quality",
-      "signal_text": "一篇新论文提出“跨上下文审查（Cross-Context Review, CCR）”方法，通过在全新会话（无先前输出访问权限）中审查 LLM 的输出来显著提高输出质量。该方法简单有效，解决了 LLM 在相同会话中难以发现自身错误的问题，对提升 AI Agent 的可靠性和自动化工作流质量具有实用价值。",
-      "signal_strength": 0.7,
-      "sources": [
-        {
-          "name": "Arxiv Paper: Cross-Context Review: Improving LLM Output Quality...",
-          "url": "http://arxiv.org/abs/2603.12123v1"
-        }
-      ],
-      "tags": [
-        "技术突破",
-        "Agent 与新交互范式"
-      ],
-      "raw_item_indices": [
-        164
-      ],
-      "insight": "“跨上下文审查”为提升LLM输出可靠性与Agent工作流质量提供了简单有效的工程方法。",
-      "implication": "平台级Agent项目可以探索引入CCR机制，作为关键决策或内容生成步骤的强制性质量检查点。",
-      "category": "research_breakthrough"
-    },
-    {
       "title": "VentureBeat: Agents Need Vector Search More Than RAG Ever Did",
       "signal_text": "VentureBeat 发表分析文章指出，在 AI Agent 时代，向量搜索的角色比 RAG 时期更为关键且更难做对。随着 Agent 执行复杂、多步骤任务，对精确、上下文相关的记忆检索需求激增，向量数据库成为 Agent 可靠性的核心基础设施，而不仅仅是信息增强工具。",
       "signal_strength": 0.65,
@@ -243,7 +222,7 @@
   ],
   "trend_summary": "今日核心趋势观察：\n- **趋势要点1**：AI 产品能力正从“内容生成”向“复杂任务执行与系统交互”跃迁，Agent 平台化与工具化成为竞争焦点。\n- **趋势要点2**：AI 能力正以前所未有的速度被“产品化”和“平民化”，通过 API、免费/低门槛 Beta 及集成到成熟产品中，快速触达终端用户。\n- **趋势要点3**：AI 系统的可靠性与治理风险伴随能力扩张而凸显，技术迭代（如长上下文、审查方法）与伦理失范（如误判案例）形成张力。\n- **趋势要点4**：基础设施层（模型、工具链、检索）的竞争白热化，旨在为上层 Agent 应用提供更高效、可扩展的支撑，向量搜索等基础组件价值重估。\n- **趋势要点5**：AI 竞争被明确框定为“零和博弈”与国家安全议题，商业竞争与地缘政治叙事深度交织。\n\n今日 top signals：\n- [0.9] OpenAI Sora 2 Video API Launches with New Capabilities: OpenAI 官方开发者账号宣布推出 Sora 2 Video API，新增多项功能：支持自定义角色和对象、16:9 和 9:16 比例导出、最长 20 秒片段、视频延续以扩展场景，以及批量视频生成作\n- [0.8] Claude Launches Interactive Chart and Diagram Generation Feature: Anthropic 官方账号宣布 Claude 现已能在聊天中直接构建交互式图表和图表，该功能今日起在所有套餐（包括免费版）开放 Beta 测试。此功能直接冲击了可视化 SaaS 初创公司，获 759\n- [0.8] Perplexity Computer Rolls Out to All Pro Subscribers, Max Plan Offers Higher Limits: Perplexity CEO Arav Srinivas 和官方账号宣布，Perplexity Computer（AI Agent 平台）现已面向所有 Pro 订阅用户开放，提供 20+ 高级模型、预\n- [0.8] Google Maps Integrates AI with 'Ask Gemini' and Immersive Navigation: Google 官方宣布对 Google Maps 进行重大升级，引入“Ask Gemini”（支持个性化）和沉浸式导航（Immersive Navigation）等 AI 功能。用户现在可以直接与地图\n- [0.8] NVIDIA Blog: How to Build a #1 Agent on DABStep with Reusable Tool Generation: HuggingFace 博客发布了 NVIDIA 团队的博文，详细介绍了他们如何使用 NeMo Agent Toolkit 和可重用工具生成（Reusable Tool Generation）方法，在\n- [0.7] Research: Cross-Context Review (CCR) Improves LLM Output Quality: 一篇新论文提出“跨上下文审查（Cross-Context Review, CCR）”方法，通过在全新会话（无先前输出访问权限）中审查 LLM 的输出来显著提高输出质量。该方法简单有效，解决了 LLM \n- [0.7] VentureBeat: Agents Need Vector Search More Than RAG Ever Did: VentureBeat 发表分析文章指出，在 AI Agent 时代，向量搜索的角色比 RAG 时期更为关键且更难做对。随着 Agent 执行复杂、多步骤任务，对精确、上下文相关的记忆检索需求激增，向\n- [0.7] a16z Podcast: Palantir CEO Alex Karp on Zero-Sum AI Race and National Defense: 在 a16z American Dynamism Summit 上，Palantir 联合创始人兼 CEO Alex Karp 与 a16z 的 Katherine Boyle 对话，讨论了 AI 如\n- [0.6] [Update] OpenClaw Releases Hunter & Healer Alpha Models with 1M Context: OpenClaw 官方账号发布 2026.3.11 版本更新，推出 Hunter & Healer Alpha 模型，通过 OpenRouter 提供免费的 1M 上下文支持。同时包含 GPT 5.4\n- [0.6] AI Facial Recognition Error Leads to Wrongful Imprisonment, Highlighting Governance Risks: 《卫报》和《Grand Forks Herald》报道，美国田纳西州一名祖母因 AI 人脸识别错误被误判为诈骗犯，导致被监禁数月。此案件在 Hacker News 引发热议，凸显了 AI 技术在司法、\n\n趋势走向：\n- AI Safety Pivot and Accelerated AGI Timelines: accelerating (signals: 28)\n- Embodied AI and Autonomous Vehicle Investment Surge: stable (signals: 11)\n- Open Source Foundation Model Proliferation: accelerating (signals: 15)\n- AI Hardware Competition and Nvidia Challengers: stable (signals: 9)\n- Enterprise AI Agent Adoption and Product Launches: accelerating (signals: 38)\n- AI Infrastructure and Supply Chain Reshoring: fading (signals: 2)\n- AI Research Acceleration in Reasoning and Efficiency: accelerating (signals: 38)\n- AI Talent Wars and Legal Battles: accelerating (signals: 13)\n- Legacy System Disruption by AI Modernization: accelerating (signals: 2)\n- AI-Powered Search and Information Retrieval Transformation: accelerating (signals: 5)",
   "raw_item_count": 213,
-  "signal_count": 10,
+  "signal_count": 9,
   "type": "daily",
   "status": "pending_review",
   "created_at": "2026-03-13T09:36:02.720665+08:00"
