@@ -158,7 +158,20 @@ def cmd_daily():
     md_content = export_daily_markdown(today, insights, trend_summary, output_dir=daily_dir)
     print(f"  - Markdown exported: {daily_dir}/{today}_daily.md")
 
-    # Step 10: Clean up expired data
+    # Step 10: Publish to Jekyll site
+    print("\n[Publish] Creating Jekyll post...")
+    site_posts = Path(__file__).resolve().parents[1] / "site" / "_posts"
+    site_posts.mkdir(parents=True, exist_ok=True)
+    md_source = Path(daily_dir) / f"{today}_daily.md"
+    if md_source.exists():
+        content = md_source.read_text(encoding="utf-8")
+        first_line = content.split("\n")[0].strip("# ").strip()
+        post_content = f'---\nlayout: post\ntitle: "{first_line} ({today})"\ndate: {today}\n---\n\n{content}\n'
+        post_path = site_posts / f"{today}-daily.md"
+        post_path.write_text(post_content, encoding="utf-8")
+        print(f"  - Jekyll post: {post_path}")
+
+    # Step 11: Clean up expired data
     cleanup_old_data()
 
     print(f"\n=== Daily pipeline complete: {len(insights)} insights saved ===")
