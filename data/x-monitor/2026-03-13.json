@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-13T09:11:11.175021",
+  "scraped_at": "2026-03-13T14:00:38.941352",
   "date": "2026-03-13",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 77,
-  "account_count": 45,
+  "tweet_count": 84,
+  "account_count": 48,
   "tweets": [
     {
       "id": "2032140218669617216",
@@ -888,6 +888,85 @@
       "likes": 59,
       "retweets": 10,
       "views": 9725
+    },
+    {
+      "id": "2032329562390970811",
+      "username": "levie",
+      "text": "The frontier AI use-cases probably use 100X or so more tokens than the frontier use-cases did a year ago. \n\nWe’re already seeing the explosion of coding agents that do vastly more complex and longer running projects, which is already using up an insane amount of inference",
+      "timestamp": "2026-03-13T05:35:01+00:00",
+      "url": "https://x.com/levie/status/2032329562390970811",
+      "images": [],
+      "likes": 23,
+      "retweets": 6,
+      "views": 2708
+    },
+    {
+      "id": "2032315035360641362",
+      "username": "openclaw",
+      "text": "OpenClaw 2026.3.12 🦞\n\n🎛️ dashboard v2 — slick new control UI\n⚡ /fast mode for models\n🔌 ollama/sglang/vllm → plugins (core goes on a diet)\n🛡️ device tokens now ephemeral\n⏰ cron + windows reliability fixes\n\ntouch grass? nah, touch main 🌿https://t.co/OCczevtDhe",
+      "timestamp": "2026-03-13T04:37:17+00:00",
+      "url": "https://x.com/openclaw/status/2032315035360641362",
+      "images": [],
+      "likes": 684,
+      "retweets": 68,
+      "views": 39272
+    },
+    {
+      "id": "2032311979298156717",
+      "username": "Austen",
+      "text": "AI crushes pretty much everything about those times, but I do miss the days when text editors were &lt;20 MB not 2 GB",
+      "timestamp": "2026-03-13T04:25:09+00:00",
+      "url": "https://x.com/Austen/status/2032311979298156717",
+      "images": [],
+      "likes": 19,
+      "retweets": 0,
+      "views": 2848
+    },
+    {
+      "id": "2032278564742316496",
+      "username": "DeryaTR_",
+      "text": "Vibe coded a game similar to Flappy Bird with some twists, using Codex 5.4 xhigh. The bird gets tired and must collect energy as it flies, while also gathering feathers to buy power-ups from the cash shop as you progress. Still an early version though😊: https://t.co/nUoY01i7vX https://t.co/8W4Y9GB1YL",
+      "timestamp": "2026-03-13T02:12:22+00:00",
+      "url": "https://x.com/DeryaTR_/status/2032278564742316496",
+      "images": [],
+      "likes": 80,
+      "retweets": 3,
+      "views": 6389
+    },
+    {
+      "id": "2032267485735460867",
+      "username": "demishassabis",
+      "text": "Ramsey numbers are notoriously hard. Amazing to see AlphaEvolve improve bounds for 5 classical Ramsey numbers - some for the first time in 10+ years - by discovering search procedures itself. A big milestone in AI for maths - congrats to the team!",
+      "timestamp": "2026-03-13T01:28:20+00:00",
+      "url": "https://x.com/demishassabis/status/2032267485735460867",
+      "images": [],
+      "likes": 1105,
+      "retweets": 90,
+      "views": 79154
+    },
+    {
+      "id": "2032162162836164697",
+      "username": "lateinteraction",
+      "text": "The Gemini Embedding 2 baseline here is.. 2 days old.\n\nWas just being celebrated and is now outperformed by a median of 14% and up to 91 points.\n\nIf I didn't kind of know how powerful scaling ColBERTs and ColPalis can be compared to a single-vector model, I'd be in disbelief! https://t.co/Cz4lIpJuta",
+      "timestamp": "2026-03-12T18:29:50+00:00",
+      "url": "https://x.com/lateinteraction/status/2032162162836164697",
+      "images": [
+        "https://pbs.twimg.com/media/HDOwcDsXAAAkY4D.png"
+      ],
+      "likes": 446,
+      "retweets": 30,
+      "views": 52063
+    },
+    {
+      "id": "2032162127167819976",
+      "username": "Austen",
+      "text": "If you’re going to ClawCon Austin I’m going to demo @KellyClaudeAI there tonight.\n\nI don’t think anyone has ever seen the inner workings/orchestration.",
+      "timestamp": "2026-03-12T18:29:41+00:00",
+      "url": "https://x.com/Austen/status/2032162127167819976",
+      "images": [],
+      "likes": 218,
+      "retweets": 15,
+      "views": 30661
     }
   ]
 }
