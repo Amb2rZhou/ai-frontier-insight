@@ -160,7 +160,7 @@ def cmd_daily():
 
     # Step 10: Publish to Jekyll site
     print("\n[Publish] Creating Jekyll post...")
-    site_posts = Path(__file__).resolve().parents[1] / "site" / "_posts"
+    site_posts = Path(__file__).resolve().parents[1] / "docs" / "_posts"
     site_posts.mkdir(parents=True, exist_ok=True)
     md_source = Path(daily_dir) / f"{today}_daily.md"
     if md_source.exists():

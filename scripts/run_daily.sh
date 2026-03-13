@@ -65,7 +65,7 @@ fi
 # Step 3: 提交 draft 和 memory 到 git
 log "Step 3: 提交到 Git..."
 cd "$DIR"
-/usr/bin/git add config/drafts/ memory/ data/daily/ data/weekly/ site/_posts/ 2>/dev/null || true
+/usr/bin/git add config/drafts/ memory/ data/daily/ data/weekly/ docs/_posts/ 2>/dev/null || true
 if ! /usr/bin/git diff --cached --quiet 2>/dev/null; then
     /usr/bin/git commit -m "daily: $(date +%Y-%m-%d) brief"
     /usr/bin/git push

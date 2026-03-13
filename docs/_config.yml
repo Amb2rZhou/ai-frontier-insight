@@ -17,3 +17,11 @@ defaults:
 
 exclude:
   - README.md
+  - "*.html"
+  - "*.py"
+  - "*.pdf"
+  - assets/
+  - weekly-insight-SKILL.md
+  - weekly-report-skill-prompt.md
+  - presentation-script.md
+  - product-overview.md
