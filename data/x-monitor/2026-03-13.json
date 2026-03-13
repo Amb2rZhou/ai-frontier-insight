@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-13T17:01:37.585758",
+  "scraped_at": "2026-03-13T23:29:40.403408",
   "date": "2026-03-13",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 86,
-  "account_count": 49,
+  "tweet_count": 101,
+  "account_count": 57,
   "tweets": [
     {
       "id": "2032140218669617216",
@@ -989,6 +989,181 @@
       "likes": 3,
       "retweets": 1,
       "views": 507
+    },
+    {
+      "id": "2032465974159618452",
+      "username": "omarsar0",
+      "text": "Memory is truly a game-changer for AI agents.\n\nOnce I had memory set up correctly for my proactive agents, reasoning, skills, and tool usage improved significantly.\n\nI use a combination of semantic search and keyword search (Obsidian vaults)\n\nHere is a report with a helpful https://t.co/8mXszir2be",
+      "timestamp": "2026-03-13T14:37:04+00:00",
+      "url": "https://x.com/omarsar0/status/2032465974159618452",
+      "images": [
+        "https://pbs.twimg.com/media/HDTFCBsbMAAcQbv.jpg"
+      ],
+      "likes": 46,
+      "retweets": 7,
+      "views": 2467
+    },
+    {
+      "id": "2032459113393741907",
+      "username": "code",
+      "text": "What does real AI-assisted development look like? \n\nIn this episode of @seradio, Scott Hanselman (@shanselman) dives into agents, prompts, and why developers still need strong fundamentals. \n\n🎧 Listen: https://t.co/xLFLlL1WLw",
+      "timestamp": "2026-03-13T14:09:48+00:00",
+      "url": "https://x.com/code/status/2032459113393741907",
+      "images": [],
+      "likes": 42,
+      "retweets": 2,
+      "views": 5524
+    },
+    {
+      "id": "2032457087779766412",
+      "username": "code",
+      "text": "Join @JamesMontemagno and @cinnamon_msft as they spice up your VS Code workflow with the latest GitHub Copilot AI features. From agent mode to custom instructions, we're turning up the heat on developer productivity. Tune in at 8 am PT! https://t.co/zlgOT6j0kL https://t.co/XsybHiOqIM",
+      "timestamp": "2026-03-13T14:01:45+00:00",
+      "url": "https://x.com/code/status/2032457087779766412",
+      "images": [
+        "https://pbs.twimg.com/media/HDS883yWcAA97GG.jpg"
+      ],
+      "likes": 18,
+      "retweets": 2,
+      "views": 3679
+    },
+    {
+      "id": "2032452729059045881",
+      "username": "osanseviero",
+      "text": "We open sourced WAXAL!\n\n- Multilingual speech dataset for African languages\n- 17 languages for TTS\n- 19 languages for ASR\n\nOver 100 million speakers across 40 Sub-Saharan African countries\n\nhttps://t.co/LEn3YNzNO3",
+      "timestamp": "2026-03-13T13:44:26+00:00",
+      "url": "https://x.com/osanseviero/status/2032452729059045881",
+      "images": [],
+      "likes": 73,
+      "retweets": 16,
+      "views": 3634
+    },
+    {
+      "id": "2032448856760168888",
+      "username": "srush_nlp",
+      "text": "It’s been really fun seeing Naman work. Evals are such a hard and interesting research space as models get so good. Central to what Cursor does.",
+      "timestamp": "2026-03-13T13:29:03+00:00",
+      "url": "https://x.com/srush_nlp/status/2032448856760168888",
+      "images": [],
+      "likes": 12,
+      "retweets": 0,
+      "views": 3422
+    },
+    {
+      "id": "2032447082649280792",
+      "username": "ClementDelangue",
+      "text": "Fun to see that in my absence, @huggingface has become the S3 not only for AI builders but also for agents! https://t.co/9NnQukML0V",
+      "timestamp": "2026-03-13T13:22:00+00:00",
+      "url": "https://x.com/ClementDelangue/status/2032447082649280792",
+      "images": [
+        "https://pbs.twimg.com/media/HDSznMGW4AAmflx.jpg"
+      ],
+      "likes": 50,
+      "retweets": 5,
+      "views": 3296
+    },
+    {
+      "id": "2032440942108848424",
+      "username": "fchollet",
+      "text": "If you build an automation machine, the way to monetize it is to sell it to as many people as possible -- anyone who has tasks to automate.\n\nBut if what you build is an invention machine, then the best way to monetize it is to use it yourself.",
+      "timestamp": "2026-03-13T12:57:36+00:00",
+      "url": "https://x.com/fchollet/status/2032440942108848424",
+      "images": [],
+      "likes": 487,
+      "retweets": 38,
+      "views": 20085
+    },
+    {
+      "id": "2032433840413638755",
+      "username": "minchoi",
+      "text": "Try the new Grok Imagine.\n\n&gt; up to 7 image refs\n&gt; extend up to 30 sec videos\n&gt; Fastest AI video gen and it's not even close https://t.co/hhHONr3adV",
+      "timestamp": "2026-03-13T12:29:23+00:00",
+      "url": "https://x.com/minchoi/status/2032433840413638755",
+      "images": [],
+      "likes": 55,
+      "retweets": 9,
+      "views": 7642
+    },
+    {
+      "id": "2032429289443053705",
+      "username": "__tinygrad__",
+      "text": "with tinygrad, the exabox will function as a single very large GPU that you (or your agent) can drive from a Python notebook. coming 2027, get your concrete slab ready. it's the ultimate external GPU. https://t.co/xVEiwcMNxD",
+      "timestamp": "2026-03-13T12:11:17+00:00",
+      "url": "https://x.com/__tinygrad__/status/2032429289443053705",
+      "images": [
+        "https://pbs.twimg.com/media/HDSiy6-boAAA6jX.jpg"
+      ],
+      "likes": 243,
+      "retweets": 5,
+      "views": 10951
+    },
+    {
+      "id": "2032428077880582330",
+      "username": "UnslothAI",
+      "text": "We collaborated with @NVIDIA to teach you about Reinforcement Learning and RL environments.\n\nLearn:\n• Why RL environments matter + how to build them\n• When RL is better than SFT\n• GRPO and RL best practices\n• How verifiable rewards and RLVR work\n\nBlog: https://t.co/Jng3urMPyw https://t.co/CmEj1S3QAe",
+      "timestamp": "2026-03-13T12:06:29+00:00",
+      "url": "https://x.com/UnslothAI/status/2032428077880582330",
+      "images": [
+        "https://pbs.twimg.com/media/HDShy2zaYAA9ZmF.jpg"
+      ],
+      "likes": 647,
+      "retweets": 93,
+      "views": 21065
+    },
+    {
+      "id": "2032427185345273928",
+      "username": "RisingSayak",
+      "text": "The @bfl_ml team released Klein KV and showed how KV-caching can incorporated in a flow pipeline 🤯\n\nThe idea is simple and elegant.\n\nIn the first denoising step, reference image tokens are included in the full DiT forward pass. Their per-layer KVs are computed and cached.\n\nIn",
+      "timestamp": "2026-03-13T12:02:56+00:00",
+      "url": "https://x.com/RisingSayak/status/2032427185345273928",
+      "images": [],
+      "likes": 60,
+      "retweets": 9,
+      "views": 2710
+    },
+    {
+      "id": "2032418512279322801",
+      "username": "julien_c",
+      "text": "Dataset Editing has landed for Parquet Datasets on the HF Hub ✍️ https://t.co/bP9hKgRIMH",
+      "timestamp": "2026-03-13T11:28:28+00:00",
+      "url": "https://x.com/julien_c/status/2032418512279322801",
+      "images": [],
+      "likes": 53,
+      "retweets": 10,
+      "views": 6513
+    },
+    {
+      "id": "2032397122511757637",
+      "username": "NandoDF",
+      "text": "This video by @dwarkesh_sp is a must watch for anyone who cares about AI.\n\nHumans, corps and governments are all fallible and hence not safe AI controllers.\n\nSo we could go with a set of rules, but will it be Sharia law, the US constitution, the code of Hammurabi, … ? Time and",
+      "timestamp": "2026-03-13T10:03:28+00:00",
+      "url": "https://x.com/NandoDF/status/2032397122511757637",
+      "images": [],
+      "likes": 8,
+      "retweets": 1,
+      "views": 1935
+    },
+    {
+      "id": "2032383701061972164",
+      "username": "shaneguML",
+      "text": "To build a frontier lab, you need the best in product, best in modeling, best in infra, and best in data quality to appreciate, understand, and respect each other's work, despite any firefighting, mistake costing $$$, burnout, and departure. Culture is the hardest.",
+      "timestamp": "2026-03-13T09:10:08+00:00",
+      "url": "https://x.com/shaneguML/status/2032383701061972164",
+      "images": [],
+      "likes": 227,
+      "retweets": 6,
+      "views": 13380
+    },
+    {
+      "id": "2031767720933634100",
+      "username": "karpathy",
+      "text": "Expectation: the age of the IDE is over\nReality: we’re going to need a bigger IDE\n(imo).\n\nIt just looks very different because humans now move upwards and program at a higher level - the basic unit of interest is not one file but one agent. It’s still programming.",
+      "timestamp": "2026-03-11T16:22:27+00:00",
+      "url": "https://x.com/karpathy/status/2031767720933634100",
+      "images": [],
+      "likes": 9744,
+      "retweets": 767,
+      "views": 1684649
     }
   ]
 }
