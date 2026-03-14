@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-14T09:08:55.231781",
+  "scraped_at": "2026-03-14T11:44:32.927056",
   "date": "2026-03-14",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 62,
-  "account_count": 34,
+  "tweet_count": 68,
+  "account_count": 38,
   "tweets": [
     {
       "id": "2032536918270108002",
@@ -723,6 +723,72 @@
       "likes": 47,
       "retweets": 3,
       "views": 10819
+    },
+    {
+      "id": "2032657334909153676",
+      "username": "ESYudkowsky",
+      "text": "This Nov 2025 paper is making the rounds again.  We're LONG past the point where we urgently need to know how real and general these phenomena are.\n\nAnthropic, or Google Deepmind if Anthropic should fail:  Please build a filtered training dataset which, eg, contains no data that",
+      "timestamp": "2026-03-14T03:17:28+00:00",
+      "url": "https://x.com/ESYudkowsky/status/2032657334909153676",
+      "images": [],
+      "likes": 49,
+      "retweets": 8,
+      "views": 3453
+    },
+    {
+      "id": "2032652452395434196",
+      "username": "levie",
+      "text": "A subtle dynamic today that will likely end up being quite fundamental in the future is that AI agents implicitly will end up procuring a significant portion of tech in the future for you and your company.\n\nFor companies that have existing standards for a particular tech or where",
+      "timestamp": "2026-03-14T02:58:04+00:00",
+      "url": "https://x.com/levie/status/2032652452395434196",
+      "images": [],
+      "likes": 52,
+      "retweets": 2,
+      "views": 10288
+    },
+    {
+      "id": "2032650405453181358",
+      "username": "steipete",
+      "text": "Last random tweet was me/codex testing the new MCP Chrome session feature we're adding to claw. This has full access to your browser and all logged in websites (in contrast to the existing automation). So there's an extra alert to enable. https://t.co/c84JT7dxBy",
+      "timestamp": "2026-03-14T02:49:56+00:00",
+      "url": "https://x.com/steipete/status/2032650405453181358",
+      "images": [],
+      "likes": 152,
+      "retweets": 15,
+      "views": 8639
+    },
+    {
+      "id": "2032642532174135727",
+      "username": "steipete",
+      "text": "Here's a kid who's 15 and it made over 30k$ in contracts using OpenClaw (min 41:55)\n\nAnd now I'm curious - what are the most amazing use cases you seen using OpenClaw?",
+      "timestamp": "2026-03-14T02:18:38+00:00",
+      "url": "https://x.com/steipete/status/2032642532174135727",
+      "images": [],
+      "likes": 564,
+      "retweets": 34,
+      "views": 63234
+    },
+    {
+      "id": "2032635014010253610",
+      "username": "sarahookr",
+      "text": "this is honestly why the most important measure of progress in building true intelligence is our ability to eliminate prompt engineering.",
+      "timestamp": "2026-03-14T01:48:46+00:00",
+      "url": "https://x.com/sarahookr/status/2032635014010253610",
+      "images": [],
+      "likes": 104,
+      "retweets": 4,
+      "views": 10261
+    },
+    {
+      "id": "2032579517177540787",
+      "username": "arena",
+      "text": "Arena leaderboards now include Price and Context.\n\n- Price is shown as input / output cost per 1M tokens, and context shows the maximum context window.\n\nCompare Arena scores based on what matters for your use case. https://t.co/WGAOkXCZd1",
+      "timestamp": "2026-03-13T22:08:15+00:00",
+      "url": "https://x.com/arena/status/2032579517177540787",
+      "images": [],
+      "likes": 87,
+      "retweets": 12,
+      "views": 7193
     }
   ]
 }
