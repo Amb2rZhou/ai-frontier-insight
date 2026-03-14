@@ -162,7 +162,7 @@
         "params_b": 72.706
       }
     ],
-    "updated": "2026-03-13T09:31:27.607086+08:00"
+    "updated": "2026-03-14T09:31:59.109937+08:00"
   },
   "swebench_verified": {
     "top_models": [
@@ -242,7 +242,7 @@
         "date": "2025-11-03"
       }
     ],
-    "updated": "2026-03-13T09:31:27.607086+08:00"
+    "updated": "2026-03-14T09:31:59.109937+08:00"
   },
   "arc_agi_2": {
     "top_models": [
@@ -307,7 +307,7 @@
         "score": 54.2
       }
     ],
-    "updated": "2026-03-13T09:31:27.607086+08:00"
+    "updated": "2026-03-14T09:31:59.109937+08:00"
   },
   "osworld": {
     "top_models": [
@@ -387,7 +387,7 @@
         "institution": "GBOX.AI"
       }
     ],
-    "updated": "2026-03-12T15:45:41.193048+08:00"
+    "updated": "2026-03-14T09:31:59.109937+08:00"
   },
   "terminal_bench": {
     "top_models": [
@@ -397,17 +397,27 @@
         "verified": false
       },
       {
-        "name": "ForgeCode/forge (claude-opus-4-6)",
-        "score": 81.8,
-        "verified": false
-      },
-      {
         "name": "ForgeCode/forge (gpt-5.4)",
         "score": 81.8,
         "verified": false
       },
       {
+        "name": "ForgeCode/forge (claude-opus-4-6)",
+        "score": 81.8,
+        "verified": false
+      },
+      {
+        "name": "BIGAI/judy (gemini-3.1-pro-preview)",
+        "score": 80.2,
+        "verified": false
+      },
+      {
         "name": "ForgeCode/forge (gemini-3.1-pro-preview)",
+        "score": 78.4,
+        "verified": false
+      },
+      {
+        "name": "OpenSage/sage (gpt-5.3-codex)",
         "score": 78.4,
         "verified": false
       },
@@ -455,18 +465,8 @@
         "name": "Bigai/judy (claude-opus-4.6)",
         "score": 71.9,
         "verified": false
-      },
-      {
-        "name": "JetBrains/Junie (claude-opus-4-6 + gemini-3-flash-preview + gemini-3.1-pro-preview + gpt-5.3-codex)",
-        "score": 71.0,
-        "verified": false
-      },
-      {
-        "name": "Feeling AI/ruley (gpt-5.3-codex)",
-        "score": 70.3,
-        "verified": false
       }
     ],
-    "updated": "2026-03-12T15:45:41.193048+08:00"
+    "updated": "2026-03-14T09:31:59.109937+08:00"
   }
 }

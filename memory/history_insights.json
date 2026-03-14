@@ -1,66 +1,6 @@
 {
   "predictions": [
     {
-      "date": "2026-03-09T10:09:03.033733+08:00",
-      "prediction_text": "我们应优先评估并考虑将GPT-5.4作为核心内容生成任务的编排器或子代理，以快速提升平台AI写作工具的质量上限与用户满意度。",
-      "category": "strategic_move",
-      "source_signal": "Perplexity CEO Highlights GPT-5.4 as Best Writer for Content Jobs"
-    },
-    {
-      "date": "2026-03-09T10:09:03.040124+08:00",
-      "prediction_text": "我们应加速探索基于异步大规模协作Agent的社区知识生产原型，将用户互动（如评论、合拍）升级为可驱动模型持续进化的结构化数据流。",
-      "category": "ecosystem_shift",
-      "source_signal": "Karpathy Proposes Asynchronous Massively Collaborative Autoresearch"
-    },
-    {
-      "date": "2026-03-09T10:09:03.053792+08:00",
-      "prediction_text": "我们必须立即评估GPT-5.4 Pro在平台核心垂类的应用潜力，并规划相应的专家级AI创作助手，以巩固我们在专业内容领域的护城河。",
-      "category": "model_release",
-      "source_signal": "GPT-5.4 Pro Demonstrates Breakthrough in Specialized Reasoning"
-    },
-    {
-      "date": "2026-03-09T10:09:03.066552+08:00",
-      "prediction_text": "我们必须加快自研可控图像生成系统的工程化落地，重点攻克与平台商品库、创作者风格库深度融合的提示工程与模型微调管线。",
-      "category": "strategic_move",
-      "source_signal": "Arxiv: Pinterest Canvas - Large-Scale Controlled Image Generation at Pinterest"
-    },
-    {
-      "date": "2026-03-09T10:09:03.080292+08:00",
-      "prediction_text": "我们面向创作者的AI工具（如视频剪辑、图文排版）需借鉴其产品化经验，设计更低门槛、更无缝集成的工作流，以捕获这波用户习惯迁移的红利。",
-      "category": "ecosystem_shift",
-      "source_signal": "OpenAI Codex App Experiences Explosive Growth"
-    },
-    {
-      "date": "2026-03-09T10:09:03.090204+08:00",
-      "prediction_text": "我们应在非核心但高消耗的多模态任务（如图片理解打标）上，积极评估并引入如Qwen等高性能开源模型，以优化基础设施成本结构。",
-      "category": "open_source",
-      "source_signal": "Qwen Multimodal Model Series Gains Massive Community Traction"
-    },
-    {
-      "date": "2026-03-09T10:09:03.102629+08:00",
-      "prediction_text": "我们必须立即强化在医疗、法律、金融等高风险垂类的AI内容安全护栏与显著免责提示，并重新评估平台责任条款以规避类似风险。",
-      "category": "ecosystem_shift",
-      "source_signal": "[Update] OpenAI Faces $10M Lawsuit Over AI Legal Advice Hallucination"
-    },
-    {
-      "date": "2026-03-09T10:09:03.117490+08:00",
-      "prediction_text": "我们的AI工具团队应深入研究此论文，将其设计模式应用于视频脚本生成、多平台一键发布等创作者Agent的开发中，提升工程鲁棒性。",
-      "category": "infrastructure",
-      "source_signal": "OpenDev Paper Systematizes CLI Coding Agent Design"
-    },
-    {
-      "date": "2026-03-09T10:09:03.130119+08:00",
-      "prediction_text": "我们可探索在商家后台或创作者数据中心集成此类能力，自动生成数据驱动的选品分析、内容效果报告等，提升B端与专业创作者的效率。",
-      "category": "research_breakthrough",
-      "source_signal": "Arxiv: Agentic Retrieval for Multimodal Spreadsheet Understanding"
-    },
-    {
-      "date": "2026-03-09T10:09:03.142596+08:00",
-      "prediction_text": "我们应参考SkillNet理念，推进平台级“AI技能库”的架构设计，实现各业务线AI能力的标准化封装、组合调用与持续积累。",
-      "category": "infrastructure",
-      "source_signal": "SkillNet Introduces Open Infrastructure for AI Skill Accumulation"
-    },
-    {
       "date": "2026-03-09T10:54:55.995430+08:00",
       "prediction_text": "我们应启动“社区化AI创作网络”的预研，设计允许用户贡献的微技能、工作流与数据，以异步协作方式驱动平台级内容生态的自动化演进。",
       "category": "ecosystem_shift",
@@ -599,6 +539,66 @@
       "prediction_text": "内容安全团队必须将AI审核工具的误判风险纳入治理框架，建立人工复核与用户申诉的强兜底机制。",
       "category": "industry_risk",
       "source_signal": "AI Facial Recognition Error Leads to Wrongful Imprisonment, Highlighting Governance Risks"
+    },
+    {
+      "date": "2026-03-14T09:35:16.595836+08:00",
+      "prediction_text": "内容与社区平台的 AI 助手可以考虑设计跨端、状态同步的持续性交互体验。",
+      "category": "strategic_move",
+      "source_signal": "Perplexity Computer Mobile Launch with Cross-Device Sync"
+    },
+    {
+      "date": "2026-03-14T09:35:16.613540+08:00",
+      "prediction_text": "平台AI战略在技术选型与供应链上需评估并规避地缘政治风险。",
+      "category": "industry_risk",
+      "source_signal": "Anthropic-Pentagon Battle Highlights AI Military Use and Corporate Resistance"
+    },
+    {
+      "date": "2026-03-14T09:35:16.618267+08:00",
+      "prediction_text": "搜索与推荐系统可以探索引入Agentic Retrieval Pipeline，以应对复杂、组合式信息需求。",
+      "category": "infrastructure",
+      "source_signal": "NVIDIA Releases NeMo Retriever's Agentic Retrieval Pipeline"
+    },
+    {
+      "date": "2026-03-14T09:35:16.622979+08:00",
+      "prediction_text": "电商与内容平台可以探索基于长上下文模型，构建深度分析与内容理解的高级功能。",
+      "category": "strategic_move",
+      "source_signal": "Claude Opus/Sonnet 4.6 Support 1M Token Context on Azure"
+    },
+    {
+      "date": "2026-03-14T09:35:16.628007+08:00",
+      "prediction_text": "内容创作与理解团队可以借鉴此类基准，构建针对平台垂直场景的专属评估体系。",
+      "category": "research_breakthrough",
+      "source_signal": "Research: New Benchmarks for Visually Grounded and Scientific Document Reasoning"
+    },
+    {
+      "date": "2026-03-14T09:35:16.632793+08:00",
+      "prediction_text": "创作者工具与电商运营平台可以探索开发轻量级、本地优先的AI辅助功能。",
+      "category": "ecosystem_shift",
+      "source_signal": "NVIDIA and Ollama to Host Developer Session on Local AI Agents at GTC"
+    },
+    {
+      "date": "2026-03-14T09:35:16.637623+08:00",
+      "prediction_text": "依赖外部大模型API的平台，需建立模型版本与性能波动的监控与评估机制。",
+      "category": "strategic_move",
+      "source_signal": "OpenAI Updates GPT-5.4 Image Encoder for Improved Understanding"
+    },
+    {
+      "date": "2026-03-14T09:35:16.642198+08:00",
+      "prediction_text": "构建Agent系统的团队建议优先验证简单、可解释的检索工具组合，避免过度工程化。",
+      "category": "research_breakthrough",
+      "source_signal": "Niels Rogge Introduces Agentic RAG Benchmark with Human-Authored Questions"
+    },
+    {
+      "date": "2026-03-14T09:35:16.646700+08:00",
+      "prediction_text": "自研本地AI助手的团队可以评估此类开源架构，以提升长期对话与任务执行的连贯性。",
+      "category": "open_source",
+      "source_signal": "Open-Source Project zer0dex Introduces Dual-Layer Memory for Local LLM Agents"
+    },
+    {
+      "date": "2026-03-14T09:35:16.651247+08:00",
+      "prediction_text": "AI研究团队在跟进前沿方向时，应保持对核心驱动力（数据 vs. 架构）的审慎判断。",
+      "category": "research_breakthrough",
+      "source_signal": "Study Questions Meta's COCONUT 'Latent Reasoning' Claims"
     }
   ]
 }
