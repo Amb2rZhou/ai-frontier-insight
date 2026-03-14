@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-14T07:37:46.841684",
+  "scraped_at": "2026-03-14T09:08:55.231781",
   "date": "2026-03-14",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 54,
-  "account_count": 30,
+  "tweet_count": 62,
+  "account_count": 34,
   "tweets": [
     {
       "id": "2032536918270108002",
@@ -633,6 +633,96 @@
       "likes": 912,
       "retweets": 66,
       "views": 250370
+    },
+    {
+      "id": "2032619076552425692",
+      "username": "Austen",
+      "text": "Simple.\n\nYou either hire through Gauntlet AI or you send your team to train with Gauntlet AI.",
+      "timestamp": "2026-03-14T00:45:26+00:00",
+      "url": "https://x.com/Austen/status/2032619076552425692",
+      "images": [],
+      "likes": 5,
+      "retweets": 2,
+      "views": 1825
+    },
+    {
+      "id": "2032611486653390976",
+      "username": "a16z",
+      "text": "\".@pmarca said something recently that struck me. He said, 'Forget about the internet. This is bigger than the wheel.'\"\n\n\"I don't think that's an overstatement.\"\n\n@illscience explains why he believes AI is the most powerful thing humans have invented:\n\n \"ChatGPT has 900 million https://t.co/ucaRYd52fO",
+      "timestamp": "2026-03-14T00:15:17+00:00",
+      "url": "https://x.com/a16z/status/2032611486653390976",
+      "images": [],
+      "likes": 59,
+      "retweets": 6,
+      "views": 9465
+    },
+    {
+      "id": "2032609128288317677",
+      "username": "nvidia",
+      "text": "NVIDIA is partnering with universities worldwide to accelerate breakthroughs in AI, robotics, quantum, and more—fueling research with GPUs, grants, fellowships, and hands-on internships that turn ideas into real-world impact.\n\n“Universities are nothing less than spectacular when https://t.co/MSBaslOkKE",
+      "timestamp": "2026-03-14T00:05:54+00:00",
+      "url": "https://x.com/nvidia/status/2032609128288317677",
+      "images": [
+        "https://pbs.twimg.com/media/HDVHOeJWYAEvl__.jpg"
+      ],
+      "likes": 55,
+      "retweets": 8,
+      "views": 7214
+    },
+    {
+      "id": "2032608899048579262",
+      "username": "Azure",
+      "text": "Long-context AI just got easier. Claude Opus 4.6 &amp; Sonnet 4.6 now support 1M token context (GA), flat pricing, and 600 images/PDF pages per request. https://t.co/ogIH2z2myg",
+      "timestamp": "2026-03-14T00:05:00+00:00",
+      "url": "https://x.com/Azure/status/2032608899048579262",
+      "images": [],
+      "likes": 43,
+      "retweets": 4,
+      "views": 2058
+    },
+    {
+      "id": "2032601942506222023",
+      "username": "a16z",
+      "text": ".@illscience says the future of AI isn’t one model to rule them all—and explains why platforms that integrate multiple models will benefit the most:\n\n\"I think we're going to need and rely on all of the models.\"\n\n\"It's sort of like if you have a team of people... if you have five https://t.co/7iZaDvQtGV",
+      "timestamp": "2026-03-13T23:37:21+00:00",
+      "url": "https://x.com/a16z/status/2032601942506222023",
+      "images": [],
+      "likes": 34,
+      "retweets": 4,
+      "views": 7973
+    },
+    {
+      "id": "2032557653977870402",
+      "username": "thsottiaux",
+      "text": "I was reminded today that we named a model GPT-5.1-Codex-Max. Sometimes models come at you faster than you can name them, but glad we are in the GPT-5.4 era now, that's nice and simple.",
+      "timestamp": "2026-03-13T20:41:22+00:00",
+      "url": "https://x.com/thsottiaux/status/2032557653977870402",
+      "images": [],
+      "likes": 760,
+      "retweets": 6,
+      "views": 29032
+    },
+    {
+      "id": "2032206498831724863",
+      "username": "nickcammarata",
+      "text": "ai reasoning trace summaries rn: you ask a hard science question and it's like don't understand what user is asking.. possibly a riddle.. going to respond with sadness and self condemnation.. considering seppuku..\n\nthen writes a perfect in depth answer",
+      "timestamp": "2026-03-12T21:26:00+00:00",
+      "url": "https://x.com/nickcammarata/status/2032206498831724863",
+      "images": [],
+      "likes": 111,
+      "retweets": 3,
+      "views": 7167
+    },
+    {
+      "id": "2032127096361804058",
+      "username": "omarsar0",
+      "text": "Sweet! You can now generate interactive charts and diagrams with Claude (directly in the chat).\n\nI was building something like this yesterday with MCPs.\n\nMy orchestrator now generates and iterates on nano banana images, excalidraw diagrams, remotion clips, and soon interactive",
+      "timestamp": "2026-03-12T16:10:29+00:00",
+      "url": "https://x.com/omarsar0/status/2032127096361804058",
+      "images": [],
+      "likes": 47,
+      "retweets": 3,
+      "views": 10819
     }
   ]
 }
