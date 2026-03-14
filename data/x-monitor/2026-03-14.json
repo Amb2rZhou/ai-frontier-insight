@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-14T16:49:57.210996",
+  "scraped_at": "2026-03-14T19:55:04.446253",
   "date": "2026-03-14",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 83,
-  "account_count": 44,
+  "tweet_count": 87,
+  "account_count": 46,
   "tweets": [
     {
       "id": "2032536918270108002",
@@ -958,6 +958,52 @@
       "likes": 32,
       "retweets": 6,
       "views": 6131
+    },
+    {
+      "id": "2032777562032844940",
+      "username": "RisingSayak",
+      "text": "I don’t live in Bangalore. Am I techie enough?",
+      "timestamp": "2026-03-14T11:15:12+00:00",
+      "url": "https://x.com/RisingSayak/status/2032777562032844940",
+      "images": [],
+      "likes": 8,
+      "retweets": 0,
+      "views": 540
+    },
+    {
+      "id": "2032769032001142807",
+      "username": "mmbronstein",
+      "text": "Look at our works ye mighty and despair ⁦⁦@iclr_conf⁩ https://t.co/2fj4SqXHnC",
+      "timestamp": "2026-03-14T10:41:18+00:00",
+      "url": "https://x.com/mmbronstein/status/2032769032001142807",
+      "images": [
+        "https://pbs.twimg.com/media/HDXYqNZawAAdamc.jpg"
+      ],
+      "likes": 12,
+      "retweets": 0,
+      "views": 731
+    },
+    {
+      "id": "2032653179960131654",
+      "username": "steipete",
+      "text": "See you at GTC next week!",
+      "timestamp": "2026-03-14T03:00:57+00:00",
+      "url": "https://x.com/steipete/status/2032653179960131654",
+      "images": [],
+      "likes": 676,
+      "retweets": 27,
+      "views": 56049
+    },
+    {
+      "id": "2031982294102413675",
+      "username": "Miles_Brundage",
+      "text": "As someone who has spent a fair bit of time studying the literature on automation bias generally and over-reliance on language models specifically, I am taken aback a bit by some people's confidence that use of Claude for target selection somehow wouldn't result in errors...",
+      "timestamp": "2026-03-12T06:35:05+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2031982294102413675",
+      "images": [],
+      "likes": 116,
+      "retweets": 7,
+      "views": 9557
     }
   ]
 }
