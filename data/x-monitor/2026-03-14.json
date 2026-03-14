@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-14T11:44:32.927056",
+  "scraped_at": "2026-03-14T16:49:57.210996",
   "date": "2026-03-14",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 68,
-  "account_count": 38,
+  "tweet_count": 83,
+  "account_count": 44,
   "tweets": [
     {
       "id": "2032536918270108002",
@@ -789,6 +789,175 @@
       "likes": 87,
       "retweets": 12,
       "views": 7193
+    },
+    {
+      "id": "2032728032151240976",
+      "username": "hardmaru",
+      "text": "The little guy looks like a brain 🧠",
+      "timestamp": "2026-03-14T07:58:23+00:00",
+      "url": "https://x.com/hardmaru/status/2032728032151240976",
+      "images": [],
+      "likes": 15,
+      "retweets": 0,
+      "views": 2408
+    },
+    {
+      "id": "2032727335074722216",
+      "username": "fchollet",
+      "text": "The persisting importance of prompt engineering -- and now harness engineering -- is one of the best indicators of how far we are from AGI. A general system doesn't need a task-specific harness. And when provided with instructions, it is robust to phrasing variations.",
+      "timestamp": "2026-03-14T07:55:37+00:00",
+      "url": "https://x.com/fchollet/status/2032727335074722216",
+      "images": [],
+      "likes": 164,
+      "retweets": 16,
+      "views": 7320
+    },
+    {
+      "id": "2032712064540516612",
+      "username": "roydanroy",
+      "text": "Fun competition with a low bar to entry. But also an interesting experiment in raising the capabilities of models via context alone.",
+      "timestamp": "2026-03-14T06:54:56+00:00",
+      "url": "https://x.com/roydanroy/status/2032712064540516612",
+      "images": [],
+      "likes": 8,
+      "retweets": 1,
+      "views": 1360
+    },
+    {
+      "id": "2032696998340522367",
+      "username": "minchoi",
+      "text": "Holy moly... someone put OpenClaw on humanoid robots and drones.\n\nAnd AI can now see, understand space, and move through the physical world.💀\nhttps://t.co/Sey1JEhdXQ",
+      "timestamp": "2026-03-14T05:55:04+00:00",
+      "url": "https://x.com/minchoi/status/2032696998340522367",
+      "images": [],
+      "likes": 89,
+      "retweets": 15,
+      "views": 16615
+    },
+    {
+      "id": "2032695227786359080",
+      "username": "steipete",
+      "text": "Huge kudos to Jensen and Nvidia for jumping in and helping out, so I could actually focus on fun stuff today. Enjoy the new live browser! 😊",
+      "timestamp": "2026-03-14T05:48:02+00:00",
+      "url": "https://x.com/steipete/status/2032695227786359080",
+      "images": [],
+      "likes": 1375,
+      "retweets": 38,
+      "views": 83267
+    },
+    {
+      "id": "2032694713493406060",
+      "username": "openclaw",
+      "text": "huge shoutout to @nvidia for lending engineers to help triage our security advisories 🛡️🦞\n\nopen source security hits different when GPU companies show up to help",
+      "timestamp": "2026-03-14T05:45:59+00:00",
+      "url": "https://x.com/openclaw/status/2032694713493406060",
+      "images": [],
+      "likes": 1979,
+      "retweets": 108,
+      "views": 149119
+    },
+    {
+      "id": "2032676333440880903",
+      "username": "steipete",
+      "text": "parallel tool calling coming to openclaw",
+      "timestamp": "2026-03-14T04:32:57+00:00",
+      "url": "https://x.com/steipete/status/2032676333440880903",
+      "images": [],
+      "likes": 307,
+      "retweets": 13,
+      "views": 32369
+    },
+    {
+      "id": "2032675009005531237",
+      "username": "steipete",
+      "text": "Super excited to see @Microsoft getting involved and helping to make MS Teams top notch for @openclaw!",
+      "timestamp": "2026-03-14T04:27:42+00:00",
+      "url": "https://x.com/steipete/status/2032675009005531237",
+      "images": [],
+      "likes": 740,
+      "retweets": 42,
+      "views": 74778
+    },
+    {
+      "id": "2032672233240539337",
+      "username": "__tinygrad__",
+      "text": "Mac Mini + eGPU. Both NVIDIA and AMD supported. https://t.co/CIcIF3j7Ol",
+      "timestamp": "2026-03-14T04:16:40+00:00",
+      "url": "https://x.com/__tinygrad__/status/2032672233240539337",
+      "images": [
+        "https://pbs.twimg.com/media/HDWAEBgaMAMUpe9.jpg"
+      ],
+      "likes": 917,
+      "retweets": 59,
+      "views": 52660
+    },
+    {
+      "id": "2032669852352016606",
+      "username": "DeryaTR_",
+      "text": "Notwithstanding the strong statement by an expert in the field (out of my expertise), this sentence, captures the major problem with academic researchers not adapting to the age of AI:\n\n“But completing that task will likely take many years, possibly decades, of more research.”",
+      "timestamp": "2026-03-14T04:07:12+00:00",
+      "url": "https://x.com/DeryaTR_/status/2032669852352016606",
+      "images": [],
+      "likes": 20,
+      "retweets": 1,
+      "views": 5709
+    },
+    {
+      "id": "2032667789975048428",
+      "username": "Austen",
+      "text": "If everybody could please label 100% of the work they do as I DO THIS WITH AI it would be helpful in determining whether we should come to such nonsensical conclusions",
+      "timestamp": "2026-03-14T03:59:00+00:00",
+      "url": "https://x.com/Austen/status/2032667789975048428",
+      "images": [],
+      "likes": 12,
+      "retweets": 0,
+      "views": 4455
+    },
+    {
+      "id": "2032666142280392974",
+      "username": "Austen",
+      "text": "People have no context for how bad the worst degrees are.\n\nComputer Science is not one of them.",
+      "timestamp": "2026-03-14T03:52:28+00:00",
+      "url": "https://x.com/Austen/status/2032666142280392974",
+      "images": [],
+      "likes": 599,
+      "retweets": 18,
+      "views": 28974
+    },
+    {
+      "id": "2032665982356041747",
+      "username": "lm_zheng",
+      "text": "OpenClaw now uses a refactored plugin system to support SGLang as a native provider.\n\nInitially, I submitted a PR to add support. It had minimal changes, but I wasn't entirely happy with the structure.\n\n@steipete quickly followed up with a refactor that perfectly matches the",
+      "timestamp": "2026-03-14T03:51:49+00:00",
+      "url": "https://x.com/lm_zheng/status/2032665982356041747",
+      "images": [],
+      "likes": 87,
+      "retweets": 2,
+      "views": 21354
+    },
+    {
+      "id": "2032665375461224561",
+      "username": "Miles_Brundage",
+      "text": "You can just [ask people to] do things https://t.co/AAh44uBvk8",
+      "timestamp": "2026-03-14T03:49:25+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2032665375461224561",
+      "images": [
+        "https://pbs.twimg.com/media/HDV6YtLa8AA7Pw2.jpg"
+      ],
+      "likes": 33,
+      "retweets": 0,
+      "views": 1656
+    },
+    {
+      "id": "2032665229134307838",
+      "username": "DeryaTR_",
+      "text": "This is the unseen impact of AI that will change the rest of the world for the better: \n\n“…this will reduce the inequality between countries: services that previously required lots of human capital now require chatbot subscriptions at worst, or may even be given away for free",
+      "timestamp": "2026-03-14T03:48:50+00:00",
+      "url": "https://x.com/DeryaTR_/status/2032665229134307838",
+      "images": [],
+      "likes": 32,
+      "retweets": 6,
+      "views": 6131
     }
   ]
 }
