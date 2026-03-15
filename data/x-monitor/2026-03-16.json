@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-16T00:50:50.935535",
+  "scraped_at": "2026-03-16T04:53:48.237222",
   "date": "2026-03-16",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 11,
-  "account_count": 8,
+  "tweet_count": 25,
+  "account_count": 20,
   "tweets": [
     {
       "id": "2033220404555526154",
@@ -136,6 +136,172 @@
       "likes": 69,
       "retweets": 12,
       "views": 7629
+    },
+    {
+      "id": "2033284648911216774",
+      "username": "docmilanfar",
+      "text": "The essence of bullshit is an indifference to how things really are. A liar must know the truth in order to subvert it, but the bullshitter doesn’t care about the truth at all. They simply pick or invent information to suit their purpose.\n\nI highly recommend this timeless essay. https://t.co/5z954FdEcB",
+      "timestamp": "2026-03-15T20:50:11+00:00",
+      "url": "https://x.com/docmilanfar/status/2033284648911216774",
+      "images": [
+        "https://pbs.twimg.com/media/HDetnKubAAAoh6L.jpg"
+      ],
+      "likes": 2,
+      "retweets": 0,
+      "views": 99
+    },
+    {
+      "id": "2033283015867331044",
+      "username": "shaneguML",
+      "text": "The World: Chain of Thoughts \nJapan: Chain of Pon de Rings https://t.co/sGJQB9r6Uu",
+      "timestamp": "2026-03-15T20:43:42+00:00",
+      "url": "https://x.com/shaneguML/status/2033283015867331044",
+      "images": [
+        "https://pbs.twimg.com/media/HDesIDQbAAA1aWA.jpg"
+      ],
+      "likes": 1,
+      "retweets": 0,
+      "views": 177
+    },
+    {
+      "id": "2033274445058687457",
+      "username": "fchollet",
+      "text": "The next major breakthrough will branch out at a much lower level than deep learning model architecture. It will be a new approach. A better model architecture can lead to incremental data efficiency &amp; generalization gains, but it won't fix the fundamental issues of the",
+      "timestamp": "2026-03-15T20:09:38+00:00",
+      "url": "https://x.com/fchollet/status/2033274445058687457",
+      "images": [],
+      "likes": 205,
+      "retweets": 16,
+      "views": 19336
+    },
+    {
+      "id": "2033269270759547165",
+      "username": "emollick",
+      "text": "Good storytelling, both visual and written, continues to be a very large barrier to AIs. That doesn't mean they can't prove helpful to creative industries (they obviously can!) but the idea that Hollywood or authors are going to be replaced with AI in longform work isn't true yet",
+      "timestamp": "2026-03-15T19:49:05+00:00",
+      "url": "https://x.com/emollick/status/2033269270759547165",
+      "images": [],
+      "likes": 41,
+      "retweets": 5,
+      "views": 8852
+    },
+    {
+      "id": "2033266986084376910",
+      "username": "MattNiessner",
+      "text": "Many 3D generators output Gaussian Splats (3DGS) for fast rendering, flexible deployment, and high visual fidelity.\n\nStatic 3DGS aren't world models (no dynamics/semantics) but a true world model must allow distilling 3D-consistent representations for any given time step https://t.co/II4muCTzvb",
+      "timestamp": "2026-03-15T19:40:00+00:00",
+      "url": "https://x.com/MattNiessner/status/2033266986084376910",
+      "images": [],
+      "likes": 54,
+      "retweets": 8,
+      "views": 3124
+    },
+    {
+      "id": "2033264231882371194",
+      "username": "sriramk",
+      "text": "weekend project. do a reverse engineer and rewrite in rust of NES's Contra purely using the latest models.\n\n- blown away by how far I have gotten without knowing the first thing about reverse engineering. the models are *very* good at reverse engineering . \n\n- I still needed to https://t.co/wYHNfKAQ4h",
+      "timestamp": "2026-03-15T19:29:03+00:00",
+      "url": "https://x.com/sriramk/status/2033264231882371194",
+      "images": [
+        "https://pbs.twimg.com/media/HDeZaJbaAAAgWV_.jpg"
+      ],
+      "likes": 71,
+      "retweets": 4,
+      "views": 5354
+    },
+    {
+      "id": "2033263438231977996",
+      "username": "mathemagic1an",
+      "text": "Transformers are Turing complete and can be trained to run arbitrary programs\n\nTurns out you can embed a relatively efficient assembly interpreter in the forward pass. \n\nThis allows the LLM to execute deterministic code at inference time in its own weights, no sandbox",
+      "timestamp": "2026-03-15T19:25:54+00:00",
+      "url": "https://x.com/mathemagic1an/status/2033263438231977996",
+      "images": [],
+      "likes": 59,
+      "retweets": 2,
+      "views": 5903
+    },
+    {
+      "id": "2033241598595846401",
+      "username": "khoomeik",
+      "text": "growing up is realizing that `torchrun --nnodes 128 train . py` moves a fuckload of electrons in the real world\n\nand some poor EE grad out there has to plan for and deal with it https://t.co/lhdalit2zM",
+      "timestamp": "2026-03-15T17:59:07+00:00",
+      "url": "https://x.com/khoomeik/status/2033241598595846401",
+      "images": [
+        "https://pbs.twimg.com/media/HBQ4yofbUAASLlY.jpg"
+      ],
+      "likes": 90,
+      "retweets": 1,
+      "views": 6927
+    },
+    {
+      "id": "2033235788075512120",
+      "username": "NielsRogge",
+      "text": "Lately, I felt some negativity about people working in AI, cause there's a lot of AI-generated slop images and videos\n\nThen you realize TikTok and Instagram are full of human-generated slop like this",
+      "timestamp": "2026-03-15T17:36:02+00:00",
+      "url": "https://x.com/NielsRogge/status/2033235788075512120",
+      "images": [],
+      "likes": 0,
+      "retweets": 0,
+      "views": 581
+    },
+    {
+      "id": "2033235593690243115",
+      "username": "Austen",
+      "text": "Models have the default consensus view of everything.\n\nYour edge is anywhere you can identify that the default consensus view is wrong.",
+      "timestamp": "2026-03-15T17:35:15+00:00",
+      "url": "https://x.com/Austen/status/2033235593690243115",
+      "images": [],
+      "likes": 42,
+      "retweets": 8,
+      "views": 5273
+    },
+    {
+      "id": "2033231920109113426",
+      "username": "deliprao",
+      "text": "trying to comment out acknowledgments section for blind review but got hit with autocomplete prophecy 😅 https://t.co/wwIRW1XpsL",
+      "timestamp": "2026-03-15T17:20:40+00:00",
+      "url": "https://x.com/deliprao/status/2033231920109113426",
+      "images": [
+        "https://pbs.twimg.com/media/HDd9LQHWAAA57AC.jpg"
+      ],
+      "likes": 8,
+      "retweets": 0,
+      "views": 1162
+    },
+    {
+      "id": "2033231158146744582",
+      "username": "steipete",
+      "text": "I have that uncommitted in a branch! needs more testing. I even added mcp support 💀",
+      "timestamp": "2026-03-15T17:17:38+00:00",
+      "url": "https://x.com/steipete/status/2033231158146744582",
+      "images": [],
+      "likes": 189,
+      "retweets": 6,
+      "views": 31028
+    },
+    {
+      "id": "2033230788284600612",
+      "username": "Thom_Wolf",
+      "text": "Codexing games together with my 12 yo has been a surprisingly fun dad-son activity over the past couple months as well\n\nI don’t pretend he’s really learning to code through that but the very low friction from ideas to implementation and the pure pleasure to",
+      "timestamp": "2026-03-15T17:16:10+00:00",
+      "url": "https://x.com/Thom_Wolf/status/2033230788284600612",
+      "images": [],
+      "likes": 44,
+      "retweets": 5,
+      "views": 4756
+    },
+    {
+      "id": "2033167146302210058",
+      "username": "rasbt",
+      "text": "I (finally) put together a new LLM Architecture Gallery that collects the architecture figures all in one place!\nhttps://t.co/NO7z6XSRHS https://t.co/X41FrK4i94",
+      "timestamp": "2026-03-15T13:03:16+00:00",
+      "url": "https://x.com/rasbt/status/2033167146302210058",
+      "images": [
+        "https://pbs.twimg.com/media/HDdCsMqWAAAML2O.jpg"
+      ],
+      "likes": 4397,
+      "retweets": 677,
+      "views": 186952
     }
   ]
 }
