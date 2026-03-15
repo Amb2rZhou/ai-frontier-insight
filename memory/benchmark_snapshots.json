@@ -162,7 +162,7 @@
         "params_b": 72.706
       }
     ],
-    "updated": "2026-03-14T09:31:59.109937+08:00"
+    "updated": "2026-03-15T09:31:58.139804+08:00"
   },
   "swebench_verified": {
     "top_models": [
@@ -242,7 +242,7 @@
         "date": "2025-11-03"
       }
     ],
-    "updated": "2026-03-14T09:31:59.109937+08:00"
+    "updated": "2026-03-15T09:31:58.139804+08:00"
   },
   "arc_agi_2": {
     "top_models": [
@@ -307,7 +307,7 @@
         "score": 54.2
       }
     ],
-    "updated": "2026-03-14T09:31:59.109937+08:00"
+    "updated": "2026-03-15T09:31:58.139804+08:00"
   },
   "osworld": {
     "top_models": [
@@ -387,15 +387,10 @@
         "institution": "GBOX.AI"
       }
     ],
-    "updated": "2026-03-14T09:31:59.109937+08:00"
+    "updated": "2026-03-15T09:31:58.139804+08:00"
   },
   "terminal_bench": {
     "top_models": [
-      {
-        "name": "OpenBlock Labs/ob1-cli (claude-opus-4-5 + claude-opus-4-6 + gpt-5.3-codex + gpt-5.4)",
-        "score": 82.5,
-        "verified": false
-      },
       {
         "name": "ForgeCode/forge (gpt-5.4)",
         "score": 81.8,
@@ -452,11 +447,6 @@
         "verified": false
       },
       {
-        "name": "OpenBlock Labs/ob1-cli (claude-opus-4-5 + claude-opus-4-6 + gpt-5.3-codex)",
-        "score": 72.4,
-        "verified": false
-      },
-      {
         "name": "ADYA/final (claude-4.6-opus)",
         "score": 72.1,
         "verified": false
@@ -465,8 +455,18 @@
         "name": "Bigai/judy (claude-opus-4.6)",
         "score": 71.9,
         "verified": false
+      },
+      {
+        "name": "JetBrains/Junie (claude-opus-4-6 + gemini-3-flash-preview + gemini-3.1-pro-preview + gpt-5.3-codex)",
+        "score": 71.0,
+        "verified": false
+      },
+      {
+        "name": "Feeling AI/ruley (gpt-5.3-codex)",
+        "score": 70.3,
+        "verified": false
       }
     ],
-    "updated": "2026-03-14T09:31:59.109937+08:00"
+    "updated": "2026-03-15T09:31:58.139804+08:00"
   }
 }

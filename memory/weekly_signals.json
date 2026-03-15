@@ -1278,6 +1278,210 @@
           3
         ]
       }
+    ],
+    "2026-03-15": [
+      {
+        "title": "Chrome Enables Native Browser Access for AI Agents",
+        "signal_text": "据 Google Chrome 工程总监 Addy Osmani 透露，Chrome 新增原生功能，允许 AI Agent 直接访问用户已登录的真实浏览器会话，无需扩展或截图，仅需一个开关即可启用。该功能（获 647 likes, 88k+ views）将极大简化 Agent 与 Web 交互的复杂性，标志着浏览器正成为 Agent 原生平台。",
+        "signal_strength": 0.9,
+        "sources": [
+          {
+            "name": "@addyosmani (Google Chrome 工程总监)",
+            "url": "https://x.com/addyosmani/status/2032875051830358197"
+          }
+        ],
+        "tags": [
+          "Agent 与新交互范式",
+          "技术突破",
+          "头部公司战略动作"
+        ],
+        "raw_item_indices": [
+          78
+        ]
+      },
+      {
+        "title": "NVIDIA and Microsoft Provide Engineering Support to OpenClaw",
+        "signal_text": "OpenClaw 官方账号及核心开发者证实，NVIDIA 和 Microsoft 已派出工程师协助 OpenClaw 项目，分别帮助处理安全通告和优化 MS Teams 集成。这（获 1979 likes, 149k+ views）表明头部科技公司正积极介入并支持关键开源 AI Agent 生态，以加速其发展和企业化。",
+        "signal_strength": 0.85,
+        "sources": [
+          {
+            "name": "@openclaw (官方账号)",
+            "url": "https://x.com/openclaw/status/2032694713493406060"
+          },
+          {
+            "name": "@steipete (OpenClaw 核心开发者)",
+            "url": "https://x.com/steipete/status/2032675009005531237"
+          }
+        ],
+        "tags": [
+          "开源生态",
+          "头部公司战略动作",
+          "Agent 与新交互范式"
+        ],
+        "raw_item_indices": [
+          40,
+          42
+        ]
+      },
+      {
+        "title": "OpenClaw Integrates with Physical World: Robots and Drones",
+        "signal_text": "开发者社区出现将 OpenClaw 部署至人形机器人和无人机的案例，使 AI Agent 能够感知、理解空间并在物理世界中移动。这（获 89 likes, 16k+ views）标志着开源 Agent 框架从数字自动化向具身智能（Embodied AI）和物理任务执行的重要扩展。",
+        "signal_strength": 0.8,
+        "sources": [
+          {
+            "name": "@minchoi (AI 领域创作者)",
+            "url": "https://x.com/minchoi/status/2032696998340522367"
+          }
+        ],
+        "tags": [
+          "Agent 与新交互范式",
+          "技术突破"
+        ],
+        "raw_item_indices": [
+          38
+        ]
+      },
+      {
+        "title": "Research: Agent Swarms Less Effective Than Agent Organizations",
+        "signal_text": "宾夕法尼亚大学教授 Ethan Mollick 引用一项基于 Enron 邮件档案的研究指出，在模拟工作导航任务中，Agent 组织（明确角色与结构）的表现优于无结构的 Agent 群（swarms）。这（获 148 likes, 22k+ views）为设计高效多 Agent 系统提供了实证依据。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "@emollick (宾夕法尼亚大学教授)",
+            "url": "https://x.com/emollick/status/2032829110242746395"
+          }
+        ],
+        "tags": [
+          "Agent 与新交互范式",
+          "技术突破"
+        ],
+        "raw_item_indices": [
+          60
+        ]
+      },
+      {
+        "title": "New Benchmarks for Multimodal and Scientific Document Reasoning",
+        "signal_text": "研究团队发布多个多模态基准：MM-CondChain（视觉条件推理）、GRADE（学科知识指导的图像编辑）、SciMDR（科学多模态文档推理）。这些基准旨在推动模型在复杂、真实场景下的深度理解和推理能力，对内容平台的多模态内容理解与生成有指导意义。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "arXiv 论文: MM-CondChain, GRADE, SciMDR",
+            "url": "http://arxiv.org/abs/2603.12266v1, http://arxiv.org/abs/2603.12264v1, http://arxiv.org/abs/2603.12249v1"
+          }
+        ],
+        "tags": [
+          "内容创作与理解",
+          "技术突破"
+        ],
+        "raw_item_indices": [
+          120,
+          122,
+          130
+        ]
+      },
+      {
+        "title": "Perplexity Submits AI Agent Security Framework to NIST",
+        "signal_text": "Perplexity 团队将其向 NIST/CAISI 提交的关于前沿 AI Agent 安全的观察与建议整理成论文发布。该框架基于其构建和部署 AI Agent 的经验，详细阐述了 Agent 安全考量，为行业监管和最佳实践提供了重要参考。",
+        "signal_strength": 0.7,
+        "sources": [
+          {
+            "name": "arXiv 论文: Security Considerations for Artificial Intelligence Agents",
+            "url": "http://arxiv.org/abs/2603.12230v1"
+          }
+        ],
+        "tags": [
+          "内容安全与治理",
+          "行业风险与监管",
+          "Agent 与新交互范式"
+        ],
+        "raw_item_indices": [
+          141
+        ]
+      },
+      {
+        "title": "Claude Temporarily Doubles Usage Limits for All Users",
+        "signal_text": "Anthropic 联合创始人 Mike Krieger 宣布，为鼓励用户构建新项目，Claude 在接下来两周内（至 3月27日）将非高峰时段（周末及工作日非核心时间）的用量限制提升一倍。此举旨在刺激开发者生态并测试高负载下的系统表现。",
+        "signal_strength": 0.7,
+        "sources": [
+          {
+            "name": "@mikeyk (Anthropic 联合创始人)",
+            "url": "https://x.com/mikeyk/status/2032915317710795047"
+          }
+        ],
+        "tags": [
+          "头部公司战略动作",
+          "Agent 与新交互范式"
+        ],
+        "raw_item_indices": [
+          65,
+          90
+        ]
+      },
+      {
+        "title": "GitHub Trending: MetaClaw Project Enables Continual Learning for Agents",
+        "signal_text": "GitHub 上新出现获 1.1k+ stars 的项目 MetaClaw，其核心理念是“与你的 Agent 对话——它会学习并进化”，旨在为 AI Agent 引入持续学习（Continual Learning）和微调能力，使 Agent 能随交互不断改进，代表了 Agent 个性化演进的新方向。",
+        "signal_strength": 0.7,
+        "sources": [
+          {
+            "name": "GitHub: aiming-lab/MetaClaw",
+            "url": "https://github.com/aiming-lab/MetaClaw"
+          }
+        ],
+        "tags": [
+          "开源生态",
+          "Agent 与新交互范式"
+        ],
+        "raw_item_indices": [
+          97
+        ]
+      },
+      {
+        "title": "NVIDIA to Host GTC Panel on Securing Self-Evolving AI Agents",
+        "signal_text": "NVIDIA 宣布将在 GTC 大会上举办专题讨论，联合 CrowdStrike、ServiceNow 等行业领袖，探讨如何为像 OpenClaw 这样的自进化 AI Agent 构建治理所需的基础设施。这反映了产业界对 Agent 安全性与可控性问题的日益重视。",
+        "signal_strength": 0.7,
+        "sources": [
+          {
+            "name": "@NVIDIAAI (官方账号)",
+            "url": "https://x.com/NVIDIAAI/status/2032851079717699706"
+          },
+          {
+            "name": "@nvidia (官方账号)",
+            "url": "https://x.com/nvidia/status/2032971097038115056"
+          }
+        ],
+        "tags": [
+          "内容安全与治理",
+          "行业风险与监管",
+          "Agent 与新交互范式"
+        ],
+        "raw_item_indices": [
+          54,
+          82
+        ]
+      },
+      {
+        "title": "OpenClaw Ecosystem Grows: Parallel Tool Calling and New Memory Plugins",
+        "signal_text": "OpenClaw 核心开发者宣布即将支持并行工具调用（parallel tool calling），并推荐了社区开发的新内存插件（如 qmd），以解决 Agent 在记忆压缩后的遗忘问题。这（获 307-1533 likes）显示了开源 Agent 框架在核心能力与插件生态上的快速迭代。",
+        "signal_strength": 0.65,
+        "sources": [
+          {
+            "name": "@steipete (OpenClaw 核心开发者)",
+            "url": "https://x.com/steipete/status/2032676333440880903"
+          },
+          {
+            "name": "@steipete (OpenClaw 核心开发者)",
+            "url": "https://x.com/steipete/status/2032861327967072671"
+          }
+        ],
+        "tags": [
+          "开源生态",
+          "Agent 与新交互范式"
+        ],
+        "raw_item_indices": [
+          41,
+          80
+        ]
+      }
     ]
   },
   "archived_weeks": [
