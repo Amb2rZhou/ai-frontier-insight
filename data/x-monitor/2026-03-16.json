@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-16T04:53:48.237222",
+  "scraped_at": "2026-03-16T07:29:18.974039",
   "date": "2026-03-16",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 25,
-  "account_count": 20,
+  "tweet_count": 33,
+  "account_count": 25,
   "tweets": [
     {
       "id": "2033220404555526154",
@@ -302,6 +302,100 @@
       "likes": 4397,
       "retweets": 677,
       "views": 186952
+    },
+    {
+      "id": "2033318699831116279",
+      "username": "soumithchintala",
+      "text": "someone's getting started early! https://t.co/A1lqpikc1m",
+      "timestamp": "2026-03-15T23:05:29+00:00",
+      "url": "https://x.com/soumithchintala/status/2033318699831116279",
+      "images": [
+        "https://pbs.twimg.com/media/HDfMlK9bEAAR1Gv.jpg"
+      ],
+      "likes": 50,
+      "retweets": 4,
+      "views": 1075
+    },
+    {
+      "id": "2033307107848564810",
+      "username": "DeryaTR_",
+      "text": "Some people frequently compare the age of AI to the Industrial Age, and say that except it’s happening much faster. There are, of course, some similarities. AI will also create incredible wealth, comfort and abundance, increasing GDPs 10x, 100x, or perhaps much more. \n\nHowever,",
+      "timestamp": "2026-03-15T22:19:26+00:00",
+      "url": "https://x.com/DeryaTR_/status/2033307107848564810",
+      "images": [],
+      "likes": 103,
+      "retweets": 18,
+      "views": 4724
+    },
+    {
+      "id": "2033304362915668099",
+      "username": "NVIDIARobotics",
+      "text": "Join us at #NVIDIAGTC to explore how safety, cybersecurity, and AI safety come together to enable trusted physical AI—from autonomous vehicles to robotics. 🤖 \n\nHear from NVIDIA’s Riccardo Mariani and Akshay Sharan as they discuss how the NVIDIA Halos safety framework helps https://t.co/QyQ9CY06L9",
+      "timestamp": "2026-03-15T22:08:31+00:00",
+      "url": "https://x.com/NVIDIARobotics/status/2033304362915668099",
+      "images": [],
+      "likes": 33,
+      "retweets": 3,
+      "views": 1330
+    },
+    {
+      "id": "2033303017072861192",
+      "username": "minchoi",
+      "text": "Tesla just became a serious AI chip player.\n\nTerafab, Tesla's chip fab project, starts in less than a week.\n\nThey're still buying Nvidia chips for now.\n\nBut the long-term direction is obvious:\nthe biggest AI buyers want to own more of their own stack.\n\nThe AI hardware race just https://t.co/GTPMo4pd6S",
+      "timestamp": "2026-03-15T22:03:10+00:00",
+      "url": "https://x.com/minchoi/status/2033303017072861192",
+      "images": [
+        "https://pbs.twimg.com/media/HDe9_2oWAAEGEPy.jpg"
+      ],
+      "likes": 96,
+      "retweets": 10,
+      "views": 6837
+    },
+    {
+      "id": "2033302458068509059",
+      "username": "natolambert",
+      "text": "Public reputation, rebuilding from years of many Americans feeling misled and left behind by big tech, is the hardest problem for the AI industry to solve. \n\nAt this point, actually building AGI seems far easier.",
+      "timestamp": "2026-03-15T22:00:57+00:00",
+      "url": "https://x.com/natolambert/status/2033302458068509059",
+      "images": [],
+      "likes": 41,
+      "retweets": 1,
+      "views": 4398
+    },
+    {
+      "id": "2033298204645867723",
+      "username": "AravSrinivas",
+      "text": "This is exactly why we built Computer for iOS. It does the work and you get to live and be present.",
+      "timestamp": "2026-03-15T21:44:03+00:00",
+      "url": "https://x.com/AravSrinivas/status/2033298204645867723",
+      "images": [],
+      "likes": 138,
+      "retweets": 8,
+      "views": 11864
+    },
+    {
+      "id": "2032884570488525300",
+      "username": "NandoDF",
+      "text": "What happens to Anthropic when anyone can use Claude Code to generate Claude Code?",
+      "timestamp": "2026-03-14T18:20:25+00:00",
+      "url": "https://x.com/NandoDF/status/2032884570488525300",
+      "images": [],
+      "likes": 97,
+      "retweets": 4,
+      "views": 24634
+    },
+    {
+      "id": "2032110243665088950",
+      "username": "omarsar0",
+      "text": "This AutoHarness paper (from Google DeepMind) is the most interesting thing I've read lately.\n\nI am testing a similar idea (without training) on models like MiniMax-2.5 and getting good results.\n\nIt already allowed me to synthesize an entire functional coding agent. More soon. https://t.co/pGRRlIEsUR",
+      "timestamp": "2026-03-12T15:03:31+00:00",
+      "url": "https://x.com/omarsar0/status/2032110243665088950",
+      "images": [
+        "https://pbs.twimg.com/media/HDN_ZDJXoAAKMt_.png"
+      ],
+      "likes": 720,
+      "retweets": 92,
+      "views": 62536
     }
   ]
 }
