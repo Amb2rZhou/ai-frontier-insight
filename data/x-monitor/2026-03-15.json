@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-15T05:02:01.411065",
+  "scraped_at": "2026-03-15T09:03:10.200145",
   "date": "2026-03-15",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 29,
-  "account_count": 22,
+  "tweet_count": 47,
+  "account_count": 30,
   "tweets": [
     {
       "id": "2032851566596936128",
@@ -339,6 +339,211 @@
       "likes": 1533,
       "retweets": 112,
       "views": 98151
+    },
+    {
+      "id": "2032983723579523248",
+      "username": "gdb",
+      "text": "a small window into the opportunity of AGI",
+      "timestamp": "2026-03-15T00:54:25+00:00",
+      "url": "https://x.com/gdb/status/2032983723579523248",
+      "images": [],
+      "likes": 99,
+      "retweets": 12,
+      "views": 4552
+    },
+    {
+      "id": "2032971097038115056",
+      "username": "nvidia",
+      "text": "Chatbots were just the beginning. The era of Claws is here. 🦀 \n\nAt #NVIDIAGTC, we’re diving into the rise of autonomous, self-evolving AI agents that don’t just assist—they operate and learn independently.\n\nJoin Ali Golshan and leaders from @CrowdStrike, @ServiceNow, and https://t.co/dmq548DFDD",
+      "timestamp": "2026-03-15T00:04:14+00:00",
+      "url": "https://x.com/nvidia/status/2032971097038115056",
+      "images": [],
+      "likes": 67,
+      "retweets": 10,
+      "views": 7830
+    },
+    {
+      "id": "2032966976549572958",
+      "username": "minchoi",
+      "text": "I use OpenClaw to run my entire X strategy while I sleep now.\n\nHere's how 7 different people are setting it up:\n\n1. Content creators → auto-draft posts from trending AI news\n2. Founders → monitor competitors + get alerts\n3. Newsletter writers → curate daily research queue\n4. https://t.co/N6TMZHuRRT",
+      "timestamp": "2026-03-14T23:47:52+00:00",
+      "url": "https://x.com/minchoi/status/2032966976549572958",
+      "images": [
+        "https://pbs.twimg.com/media/HDaMiAxaMAIl67T.jpg"
+      ],
+      "likes": 42,
+      "retweets": 6,
+      "views": 3478
+    },
+    {
+      "id": "2032964118408515967",
+      "username": "saranormous",
+      "text": "guys it's a 🔥 lineup for @Conviction Embed retreat:\n@btaylor (Founder, Sierra &amp; Chairman, OpenAI)\n@mikeyk (Labs, Anthropic &amp; Founder, Instagram)\n@parkerconrad (Founder, Rippling)\n@zackmziegler (Founder, OpenEvidence)\nJohn Haddock (Chief Business Officer, Harvey)\n@GuptaRK22",
+      "timestamp": "2026-03-14T23:36:31+00:00",
+      "url": "https://x.com/saranormous/status/2032964118408515967",
+      "images": [],
+      "likes": 111,
+      "retweets": 3,
+      "views": 8046
+    },
+    {
+      "id": "2032960947216597303",
+      "username": "DeryaTR_",
+      "text": "What an amazing story! This is how AI can make a difference! It also shows how terribly slow our current medical research &amp; approval process is at bringing life-saving treatments to patients. With AI we can accelerate all this by orders of magnitude &amp; save so many lives!",
+      "timestamp": "2026-03-14T23:23:55+00:00",
+      "url": "https://x.com/DeryaTR_/status/2032960947216597303",
+      "images": [],
+      "likes": 106,
+      "retweets": 13,
+      "views": 17292
+    },
+    {
+      "id": "2032955206540079377",
+      "username": "mitchellh",
+      "text": "Another example of libghostty bettering our core is that Ghostty GUI only supports 64-bit Mac+Linux+FreeBSD. But libghostty supports 32 and 64-bit, Windows, Android, and many other systems. Every time we add a new C API, our CI coverage expands to ensure more of Ghostty's core",
+      "timestamp": "2026-03-14T23:01:06+00:00",
+      "url": "https://x.com/mitchellh/status/2032955206540079377",
+      "images": [],
+      "likes": 75,
+      "retweets": 4,
+      "views": 7079
+    },
+    {
+      "id": "2032955127666225591",
+      "username": "shaneguML",
+      "text": "worse, humans are also RL-driven hallucination machines, intentional or unintentional. RL rewards = self affirmation (thinking yourself smart above others) or market manipulation. Self affirmation or ego is a built in mechanism from survival.",
+      "timestamp": "2026-03-14T23:00:47+00:00",
+      "url": "https://x.com/shaneguML/status/2032955127666225591",
+      "images": [],
+      "likes": 12,
+      "retweets": 0,
+      "views": 1881
+    },
+    {
+      "id": "2032954191405265323",
+      "username": "mitchellh",
+      "text": "One of my favorite things is that libghostty really forces us to better our core. For example, we recently made stream processing infallible (sending arbitrary user input into Ghostty). External input can't be trusted, so it must never cause our core to fail. Now it doesn't.",
+      "timestamp": "2026-03-14T22:57:04+00:00",
+      "url": "https://x.com/mitchellh/status/2032954191405265323",
+      "images": [],
+      "likes": 60,
+      "retweets": 1,
+      "views": 6210
+    },
+    {
+      "id": "2032951853508604173",
+      "username": "mitchellh",
+      "text": "With Ghostty 1.3 out the door, my focus is now on completing the libghostty C API (Zig API is already complete). Just added the groundwork for exposing full terminal state and formatting it as plain text, VT, or HTML. https://t.co/gnX40SIMDd\n\nThis is all just writing C ABI https://t.co/jeOB7HvAkt",
+      "timestamp": "2026-03-14T22:47:46+00:00",
+      "url": "https://x.com/mitchellh/status/2032951853508604173",
+      "images": [
+        "https://pbs.twimg.com/media/HDZ-hkKbMAAGNaE.jpg",
+        "https://pbs.twimg.com/media/HDZ-kc6aMAE-BSt.jpg"
+      ],
+      "likes": 175,
+      "retweets": 5,
+      "views": 8813
+    },
+    {
+      "id": "2032951259196456973",
+      "username": "minchoi",
+      "text": "babe wake up\n\nClaude just doubled usage for next two weeks. https://t.co/P0Xr8j4RCF",
+      "timestamp": "2026-03-14T22:45:25+00:00",
+      "url": "https://x.com/minchoi/status/2032951259196456973",
+      "images": [],
+      "likes": 89,
+      "retweets": 7,
+      "views": 9611
+    },
+    {
+      "id": "2032947621862760590",
+      "username": "sriramk",
+      "text": "such an impressive story for what’s possible with AI.",
+      "timestamp": "2026-03-14T22:30:58+00:00",
+      "url": "https://x.com/sriramk/status/2032947621862760590",
+      "images": [],
+      "likes": 224,
+      "retweets": 19,
+      "views": 47903
+    },
+    {
+      "id": "2032946531670884623",
+      "username": "NandoDF",
+      "text": "It’s time to have a moratorium on AI autonomous weapons.\n\nWe’ve witnessed the terrifying and destructive effectiveness of cheap drones recently. Some are still tele-operated, but let’s face it: Every AI expert would know how to automate these cheap weapons to become even more",
+      "timestamp": "2026-03-14T22:26:38+00:00",
+      "url": "https://x.com/NandoDF/status/2032946531670884623",
+      "images": [],
+      "likes": 17,
+      "retweets": 4,
+      "views": 2366
+    },
+    {
+      "id": "2032884374233035079",
+      "username": "OpenAIDevs",
+      "text": "Codex is going global.\n\nOur Codex ambassadors are running meetups around the world so you can:\n• Join hands-on Codex workshops\n• Share real world workflows\n• Ship projects with your local community https://t.co/ngFKvpJsps",
+      "timestamp": "2026-03-14T18:19:38+00:00",
+      "url": "https://x.com/OpenAIDevs/status/2032884374233035079",
+      "images": [],
+      "likes": 521,
+      "retweets": 34,
+      "views": 29673
+    },
+    {
+      "id": "2032865789066260958",
+      "username": "emollick",
+      "text": "VC investments typically take 5-8 years to exit. That means almost every AI VC investment right now is essentially a bet against the vision Anthropic, OpenAI, and Gemini have laid out.",
+      "timestamp": "2026-03-14T17:05:47+00:00",
+      "url": "https://x.com/emollick/status/2032865789066260958",
+      "images": [],
+      "likes": 471,
+      "retweets": 22,
+      "views": 72951
+    },
+    {
+      "id": "2032697830796853730",
+      "username": "Miles_Brundage",
+      "text": "\"Summarized\" chains of thought are the opium of the masses",
+      "timestamp": "2026-03-14T05:58:23+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2032697830796853730",
+      "images": [],
+      "likes": 29,
+      "retweets": 1,
+      "views": 2645
+    },
+    {
+      "id": "2032686376932491363",
+      "username": "steipete",
+      "text": "New @openclaw beta is up: it comes with the new live browser control that Google added in latest Chrome! enable via chrome://inspect#remote-debugging\n\nYour clanker will know when to use what, or you can ast it. new \"user\" profile session is there!\n\nhttps://t.co/c84JT7dxBy",
+      "timestamp": "2026-03-14T05:12:52+00:00",
+      "url": "https://x.com/steipete/status/2032686376932491363",
+      "images": [],
+      "likes": 1216,
+      "retweets": 117,
+      "views": 205947
+    },
+    {
+      "id": "2032187917183909891",
+      "username": "omarsar0",
+      "text": "Qodo outperforms Claude Code Review by 19% higher recall and costs 10x less per review.\n\nWhy this matters for AI devs:\n\n@QodoAI just published a comparison using their open benchmark: 100 real pull requests, 580 injected issues, 8 production repositories across TypeScript, https://t.co/rjSSaSywoD",
+      "timestamp": "2026-03-12T20:12:10+00:00",
+      "url": "https://x.com/omarsar0/status/2032187917183909891",
+      "images": [
+        "https://pbs.twimg.com/media/HDPH2-gXUAAev4K.png"
+      ],
+      "likes": 73,
+      "retweets": 19,
+      "views": 12902
+    },
+    {
+      "id": "2031841555288637786",
+      "username": "arena",
+      "text": "With Search AI, the real challenge isn’t retrieval - it’s reasoning about which sources to trust and how to incorporate them.\n\nDeep dive on how AI search actually works with our Research Engineer Logan in thread ↓",
+      "timestamp": "2026-03-11T21:15:51+00:00",
+      "url": "https://x.com/arena/status/2031841555288637786",
+      "images": [],
+      "likes": 63,
+      "retweets": 2,
+      "views": 8604
     }
   ]
 }
