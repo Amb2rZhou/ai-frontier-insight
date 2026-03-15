@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-15T16:11:05.976438",
+  "scraped_at": "2026-03-15T20:45:45.525880",
   "date": "2026-03-15",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 71,
-  "account_count": 38,
+  "tweet_count": 78,
+  "account_count": 41,
   "tweets": [
     {
       "id": "2032851566596936128",
@@ -828,6 +828,85 @@
       "likes": 142,
       "retweets": 22,
       "views": 12902
+    },
+    {
+      "id": "2033151297809989756",
+      "username": "NielsRogge",
+      "text": "This is a really cool post about GLM-OCR, but do note there might be better open OCR models on @huggingface!\n\nCheck out OlmOCRBench on the hub https://t.co/3MGgMKnR1t https://t.co/411VQYzx5g",
+      "timestamp": "2026-03-15T12:00:18+00:00",
+      "url": "https://x.com/NielsRogge/status/2033151297809989756",
+      "images": [
+        "https://pbs.twimg.com/media/HDc0UzsWIAAZACS.jpg"
+      ],
+      "likes": 8,
+      "retweets": 0,
+      "views": 682
+    },
+    {
+      "id": "2033117428696457669",
+      "username": "gdb",
+      "text": "if you can imagine it, you can build it",
+      "timestamp": "2026-03-15T09:45:43+00:00",
+      "url": "https://x.com/gdb/status/2033117428696457669",
+      "images": [],
+      "likes": 3601,
+      "retweets": 439,
+      "views": 107479
+    },
+    {
+      "id": "2033115292772278739",
+      "username": "Everlyn_ai",
+      "text": "When the oil stops flowing, the world feels it.\n\n- generated on Everlyn in 8.9 seconds https://t.co/ui15Ylykri",
+      "timestamp": "2026-03-15T09:37:13+00:00",
+      "url": "https://x.com/Everlyn_ai/status/2033115292772278739",
+      "images": [],
+      "likes": 18,
+      "retweets": 6,
+      "views": 821
+    },
+    {
+      "id": "2033114728617161025",
+      "username": "NandoDF",
+      "text": "Not Americans but international teams developed convnets, alexnet, attention, AlphaGo, neural LMs, AlphaCode, AlphaFold, transformers, RL, etc, etc.\n\nThis war mongering CEO does not represent the Americans who helped develop AI either. They have greater ideals.\n\nIt is sad that my",
+      "timestamp": "2026-03-15T09:34:59+00:00",
+      "url": "https://x.com/NandoDF/status/2033114728617161025",
+      "images": [],
+      "likes": 124,
+      "retweets": 20,
+      "views": 8957
+    },
+    {
+      "id": "2032951760281612342",
+      "username": "littmath",
+      "text": "People/companies promoting the “guy used ChatGPT to cure his dog’s cancer” story lack instinctive skepticism in a way that is quite difficult for me to understand.",
+      "timestamp": "2026-03-14T22:47:24+00:00",
+      "url": "https://x.com/littmath/status/2032951760281612342",
+      "images": [],
+      "likes": 740,
+      "retweets": 47,
+      "views": 68470
+    },
+    {
+      "id": "2032948093222805720",
+      "username": "fchollet",
+      "text": "There should be a word for this trait. Something like \"selfmaking\". You make your self by making things yourself.",
+      "timestamp": "2026-03-14T22:32:50+00:00",
+      "url": "https://x.com/fchollet/status/2032948093222805720",
+      "images": [],
+      "likes": 344,
+      "retweets": 24,
+      "views": 27014
+    },
+    {
+      "id": "2032512012383555604",
+      "username": "googledevs",
+      "text": "Keep your AI agents running through process crashes and network drops. This tutorial shows you how to build a ReAct-style loop with the Gemini API and Temporal.\n\nTemporal persists every step so your agent resumes exactly where it left off.\n\nLearn more → https://t.co/AHoh5i9ne0 https://t.co/xUUsDt4qDL",
+      "timestamp": "2026-03-13T17:40:00+00:00",
+      "url": "https://x.com/googledevs/status/2032512012383555604",
+      "images": [],
+      "likes": 239,
+      "retweets": 44,
+      "views": 19324
     }
   ]
 }
