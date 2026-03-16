@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-16T17:16:44.329507",
+  "scraped_at": "2026-03-16T22:22:15.466394",
   "date": "2026-03-16",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 63,
-  "account_count": 40,
+  "tweet_count": 68,
+  "account_count": 42,
   "tweets": [
     {
       "id": "2033220404555526154",
@@ -744,6 +744,63 @@
       "likes": 634,
       "retweets": 82,
       "views": 53408
+    },
+    {
+      "id": "2033544593309077648",
+      "username": "omarsar0",
+      "text": "Banger report from the Kimi team: Attention Residuals\n\nResidual connections made deep Transformers trainable.\n\nBut they also force uncontrolled hidden-state growth with depth.\n\nThis work proposes a cleaner alternative.\n\nIt introduces Attention Residuals, which replace fixed https://t.co/wxMZ69HT3F",
+      "timestamp": "2026-03-16T14:03:07+00:00",
+      "url": "https://x.com/omarsar0/status/2033544593309077648",
+      "images": [
+        "https://pbs.twimg.com/media/HDiaCAGbUAAKtDY.png"
+      ],
+      "likes": 19,
+      "retweets": 5,
+      "views": 2057
+    },
+    {
+      "id": "2033537381907710092",
+      "username": "fidjissimo",
+      "text": "This news came out a little earlier than we planned; we're excited to be building a deployment arm and will share more details soon.\n\nCompanies have a ton of urgency to deploy AI in their organizations and we’re sprinting to meet that demand. More than 1 million businesses run on",
+      "timestamp": "2026-03-16T13:34:27+00:00",
+      "url": "https://x.com/fidjissimo/status/2033537381907710092",
+      "images": [],
+      "likes": 69,
+      "retweets": 4,
+      "views": 7041
+    },
+    {
+      "id": "2033524467943489783",
+      "username": "emollick",
+      "text": "There are many great AI researchers at universities, but they pay a VERY steep price to be able to stay in academia and publish openly: “The top 1% of publishing industry scientists now earn $1.5 million more annually than comparable academics, a fivefold increase since 2001”",
+      "timestamp": "2026-03-16T12:43:08+00:00",
+      "url": "https://x.com/emollick/status/2033524467943489783",
+      "images": [],
+      "likes": 96,
+      "retweets": 18,
+      "views": 17284
+    },
+    {
+      "id": "2033519167563858195",
+      "username": "ylecun",
+      "text": "These newfangled communication technologies will destroy society.",
+      "timestamp": "2026-03-16T12:22:05+00:00",
+      "url": "https://x.com/ylecun/status/2033519167563858195",
+      "images": [],
+      "likes": 92,
+      "retweets": 8,
+      "views": 20428
+    },
+    {
+      "id": "2033516604709863874",
+      "username": "Austen",
+      "text": "I’m not sure how to tell you this, but if you go to the best companies in the world AI is writing their code for them too.\n\nWriting code by hand is like manually tracking a ledger in accounting class. \n\nGood mental exercise, but you’ll never do it in the real world.",
+      "timestamp": "2026-03-16T12:11:54+00:00",
+      "url": "https://x.com/Austen/status/2033516604709863874",
+      "images": [],
+      "likes": 190,
+      "retweets": 8,
+      "views": 18739
     }
   ]
 }
