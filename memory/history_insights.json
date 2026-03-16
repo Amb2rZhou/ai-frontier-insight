@@ -1,66 +1,6 @@
 {
   "predictions": [
     {
-      "date": "2026-03-09T11:02:58.600342+08:00",
-      "prediction_text": "内容平台的AI能力建设将从封闭研发转向开放协作生态，用户贡献的微技能与工作流将成为平台AI进化的核心燃料。",
-      "category": "ecosystem_shift",
-      "source_signal": "Karpathy Proposes Asynchronous Massively Collaborative Autoresearch for AI Agents"
-    },
-    {
-      "date": "2026-03-09T11:02:58.607653+08:00",
-      "prediction_text": "平台AI工具团队的开发范式将从快速原型转向工程化与系统化，以提升复杂Agent的稳定性、可维护性与迭代速度。",
-      "category": "infrastructure",
-      "source_signal": "OpenDev Paper Introduces Systematic Architecture for CLI Coding Agents"
-    },
-    {
-      "date": "2026-03-09T11:02:58.629752+08:00",
-      "prediction_text": "平台将加速建设内部“AI技能库”，并评估与外部开源技能生态（如SkillNet）对接，以实现AI创作能力的模块化与快速演进。",
-      "category": "open_source",
-      "source_signal": "SkillNet: Open Infrastructure for Creating and Organizing AI Skills at Scale"
-    },
-    {
-      "date": "2026-03-09T11:02:58.644832+08:00",
-      "prediction_text": "平台需对多模态内容审核与生成系统进行安全审计，并采用冗余、异构的模型组合策略，以防御针对单一模态的对抗性攻击。",
-      "category": "ecosystem_shift",
-      "source_signal": "Arxiv: When One Modality Rules Them All - Backdoor Modality Collapse in Multimodal Diffusion Models"
-    },
-    {
-      "date": "2026-03-09T11:02:58.664977+08:00",
-      "prediction_text": "平台在核心创作链路（如文案、脚本生成）中深度集成顶级闭源模型作为质量标杆，同时结合开源模型以优化成本与可控性的趋势将加速。",
-      "category": "strategic_move",
-      "source_signal": "Perplexity CEO Highlights GPT-5.4 as Best Writer for Marketing/Content Jobs"
-    },
-    {
-      "date": "2026-03-09T11:02:58.676733+08:00",
-      "prediction_text": "平台将探索在美妆、健身、家居等核心垂类推出“专家级AI创作助手”，利用深度推理生成高质量、可信赖的专业指南与评测内容。",
-      "category": "model_release",
-      "source_signal": "PaperForge: End-to-End AI-Powered Academic Paper Writing System Gains Traction"
-    },
-    {
-      "date": "2026-03-09T11:02:58.692733+08:00",
-      "prediction_text": "平台将加速推出针对特定创作场景（如视频剪辑、多平台发布）的深度集成AI助手，而非泛化的聊天机器人，以提升用户粘性与效率。",
-      "category": "product_adoption",
-      "source_signal": "Community Highlights High Engagement with Codex App, Indicating Strong Product-Market Fit"
-    },
-    {
-      "date": "2026-03-09T11:02:58.707241+08:00",
-      "prediction_text": "平台需加快集成或自研类似的多模态生成与编辑能力，以丰富创作者工具箱，应对用户对图文、短视频AI创作体验提升的期待。",
-      "category": "open_source",
-      "source_signal": "Lightricks LTX-2.3 Multimodal Model and Desktop App Gain Popularity"
-    },
-    {
-      "date": "2026-03-09T11:02:58.719881+08:00",
-      "prediction_text": "平台在AI产品宣传中需更强调辅助性与可控性，并加强与社会影响相关的内容生态建设，以塑造负责任形象，对冲潜在的监管风险。",
-      "category": "ecosystem_shift",
-      "source_signal": "Gary Marcus Critiques AI Leadership, Highlights Growing Public Backlash"
-    },
-    {
-      "date": "2026-03-09T11:02:58.733219+08:00",
-      "prediction_text": "平台AI中台需建立更精细的动态成本控制模型与智能路由网关，并集成类似压缩优化工具，以应对AI服务用量激增带来的运营压力。",
-      "category": "infrastructure",
-      "source_signal": "Distill Tool for Compressing CLI Outputs Saves LLM Tokens, Gains Developer Interest"
-    },
-    {
       "date": "2026-03-09T17:54:58.976256+08:00",
       "prediction_text": "平台需构建支持用户贡献与协作的AI技能生态，将社区创造力转化为AI能力进化的燃料。",
       "category": "ecosystem_shift",
@@ -599,6 +539,66 @@
       "prediction_text": "自研Agent系统的团队可以评估集成此类开源组件，以加速核心能力建设。",
       "category": "open_source",
       "source_signal": "OpenClaw Ecosystem Grows: Parallel Tool Calling and New Memory Plugins"
+    },
+    {
+      "date": "2026-03-16T09:56:57.373396+08:00",
+      "prediction_text": "内容平台自研生成工具时，建议将版权过滤与合规审计前置为产品发布核心环节。",
+      "category": "strategic_move",
+      "source_signal": "ByteDance Pauses Global Launch of Seedance 2.0 Video Generator"
+    },
+    {
+      "date": "2026-03-16T09:56:57.378232+08:00",
+      "prediction_text": "平台AI研发团队可以考虑建立周期性“激进改进”机制，挑战技术天花板。",
+      "category": "strategic_move",
+      "source_signal": "OpenAI Codex Team Culture Emphasizes Radical Improvement"
+    },
+    {
+      "date": "2026-03-16T09:56:57.388839+08:00",
+      "prediction_text": "内容与教育平台可以探索基于用户知识图谱的个性化视频生成与摘要功能。",
+      "category": "strategic_move",
+      "source_signal": "Google NotebookLM Launches Powerful Video Feature for Education"
+    },
+    {
+      "date": "2026-03-16T09:56:57.401475+08:00",
+      "prediction_text": "长期技术战略值得关注并投资于超越深度学习的下一代AI范式研究。",
+      "category": "research_breakthrough",
+      "source_signal": "François Chollet Argues Next AI Breakthrough Requires New Paradigm"
+    },
+    {
+      "date": "2026-03-16T09:56:57.413788+08:00",
+      "prediction_text": "内容安全团队必须将极端社会风险纳入AI交互设计、监控与应急响应体系。",
+      "category": "industry_risk",
+      "source_signal": "Lawyer Warns of AI Chatbot Risks in Mass Casualty Cases"
+    },
+    {
+      "date": "2026-03-16T09:56:57.424095+08:00",
+      "prediction_text": "视频内容理解团队可以探索将相机运动等几何信号作为显式特征注入模型。",
+      "category": "research_breakthrough",
+      "source_signal": "Research: Geometry-Guided Camera Motion Understanding in VideoLLMs"
+    },
+    {
+      "date": "2026-03-16T09:56:57.434444+08:00",
+      "prediction_text": "AIGC治理团队建议评估并引入区域感知提示增强等反记忆化技术。",
+      "category": "research_breakthrough",
+      "source_signal": "Research: Mitigating Memorization in Text-to-Image Diffusion via Prompt Augmentation"
+    },
+    {
+      "date": "2026-03-16T09:56:57.444512+08:00",
+      "prediction_text": "创作者工具团队可以考虑集成或借鉴此类开源模型，快速赋能视频创作。",
+      "category": "open_source",
+      "source_signal": "HuggingFace Trending: Lightricks LTX-2.3 Video Generation Model"
+    },
+    {
+      "date": "2026-03-16T09:56:57.455445+08:00",
+      "prediction_text": "搜索与推荐系统可以借鉴此类基准，构建自身可解释推理的评估体系。",
+      "category": "research_breakthrough",
+      "source_signal": "Research: CRYSTAL Benchmark for Transparent Multimodal Reasoning"
+    },
+    {
+      "date": "2026-03-16T09:56:57.466807+08:00",
+      "prediction_text": "平台可以考虑拥抱并贡献此类本土化开源生态，加速Agent应用落地。",
+      "category": "ecosystem_shift",
+      "source_signal": "GitHub Trending: OpenClaw Ecosystem Grows with Chinese Documentation"
     }
   ]
 }
