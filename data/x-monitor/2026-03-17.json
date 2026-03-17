@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-17T12:49:16.409875",
+  "scraped_at": "2026-03-17T15:52:33.189075",
   "date": "2026-03-17",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 87,
-  "account_count": 45,
+  "tweet_count": 92,
+  "account_count": 47,
   "tweets": [
     {
       "id": "2033623439953826179",
@@ -1007,6 +1007,64 @@
       "likes": 192,
       "retweets": 20,
       "views": 27889
+    },
+    {
+      "id": "2033794815448780803",
+      "username": "ollama",
+      "text": "Ollama is now a provider inside CodexBar! \n\nThank you @steipete for the awesome work!",
+      "timestamp": "2026-03-17T06:37:24+00:00",
+      "url": "https://x.com/ollama/status/2033794815448780803",
+      "images": [],
+      "likes": 139,
+      "retweets": 19,
+      "views": 17421
+    },
+    {
+      "id": "2033792804137177339",
+      "username": "emollick",
+      "text": "One of the advantages of being an early user of LLMs is that I have seen The Curve with my own eyes (like in this post before ChatGPT or the term Generative AI).\n\nI notice recent AI users &amp; companies adopting AI anchoring on recent capabilities as if they are stable. Probably not",
+      "timestamp": "2026-03-17T06:29:25+00:00",
+      "url": "https://x.com/emollick/status/2033792804137177339",
+      "images": [],
+      "likes": 61,
+      "retweets": 8,
+      "views": 6905
+    },
+    {
+      "id": "2033791975367844285",
+      "username": "HochreiterSepp",
+      "text": "xLSTM Distillation: https://t.co/iBIJzGbzXX\n \nNear-lossless distillation of quadratic Transformer LLMs into linear xLSTM architectures enables cost- and energy-efficient alternatives without sacrificing performance.\n\nxLSTM variants of instruction-tuned Llama, Qwen, &amp; Olmo models. https://t.co/EcmVD9gtH7",
+      "timestamp": "2026-03-17T06:26:07+00:00",
+      "url": "https://x.com/HochreiterSepp/status/2033791975367844285",
+      "images": [
+        "https://pbs.twimg.com/media/HDl6fC5bEAELrBU.png",
+        "https://pbs.twimg.com/media/HDl6jPnWgAAS4IP.png"
+      ],
+      "likes": 55,
+      "retweets": 10,
+      "views": 2131
+    },
+    {
+      "id": "2033587540419019127",
+      "username": "OfficialLoganK",
+      "text": "We just shipped a bunch of stuff to make it easier to scale with the Gemini API:\n\n- Automatic tier upgrades\n- Tier 1 -&gt; Tier 2 now happens much faster (30 days post payment -&gt; 3 days) and with less spend ($250 -&gt; $100)\n- New billing account caps on each tier to limit over spend",
+      "timestamp": "2026-03-16T16:53:46+00:00",
+      "url": "https://x.com/OfficialLoganK/status/2033587540419019127",
+      "images": [],
+      "likes": 818,
+      "retweets": 33,
+      "views": 60236
+    },
+    {
+      "id": "2032639509658218815",
+      "username": "Miles_Brundage",
+      "text": "Anthropic people, please add Effort and Fast Mode settings to the Claude app (or tell me where they are)",
+      "timestamp": "2026-03-14T02:06:38+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2032639509658218815",
+      "images": [],
+      "likes": 60,
+      "retweets": 0,
+      "views": 8319
     }
   ]
 }
