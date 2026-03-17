@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-17T15:52:33.189075",
+  "scraped_at": "2026-03-17T19:26:32.042329",
   "date": "2026-03-17",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 92,
-  "account_count": 47,
+  "tweet_count": 97,
+  "account_count": 49,
   "tweets": [
     {
       "id": "2033623439953826179",
@@ -1065,6 +1065,70 @@
       "likes": 60,
       "retweets": 0,
       "views": 8319
+    },
+    {
+      "id": "2033866439787221163",
+      "username": "__tinygrad__",
+      "text": "Llama 405B is really only 10 Tensors https://t.co/irDZuSXbg4",
+      "timestamp": "2026-03-17T11:22:01+00:00",
+      "url": "https://x.com/__tinygrad__/status/2033866439787221163",
+      "images": [
+        "https://pbs.twimg.com/media/HDm-mBma8AAjJ2u.jpg"
+      ],
+      "likes": 5,
+      "retweets": 1,
+      "views": 173
+    },
+    {
+      "id": "2033859631974355178",
+      "username": "DeryaTR_",
+      "text": "Wow! One of the most exciting BioAI news announcements of the year! From @GoogleDeepMind in collaboration with @emblebi, @Nvidia and @SeoulNatlUni !\n\n“Millions of protein complexes added to AlphaFold Database.\n\n Four-way collaboration brings together world-leading AI and",
+      "timestamp": "2026-03-17T10:54:58+00:00",
+      "url": "https://x.com/DeryaTR_/status/2033859631974355178",
+      "images": [],
+      "likes": 24,
+      "retweets": 6,
+      "views": 2207
+    },
+    {
+      "id": "2033815623986225441",
+      "username": "PyTorch",
+      "text": "3️⃣ days left before rates rise! Registration for #PyTorchCon Europe increases €100 after 20 March.\n\n🐦 Join us in Paris, 7-8 April, where you'll find friends with shared interest at BoFs:\nhttps://t.co/CZVIQSlw8d\n🎟 Register: https://t.co/9NiZQbvipa https://t.co/FopKhZpo2l",
+      "timestamp": "2026-03-17T08:00:05+00:00",
+      "url": "https://x.com/PyTorch/status/2033815623986225441",
+      "images": [],
+      "likes": 11,
+      "retweets": 1,
+      "views": 2472
+    },
+    {
+      "id": "2033592077133779110",
+      "username": "dylan522p",
+      "text": "Im a speaker presenting InferenceX and had to ask a top executive for passes fwiw\nWe aren't \"analysts\" either lol https://t.co/YnQ5YC3PCA",
+      "timestamp": "2026-03-16T17:11:48+00:00",
+      "url": "https://x.com/dylan522p/status/2033592077133779110",
+      "images": [
+        "https://pbs.twimg.com/media/HDjFN0gbEAcQg-t.jpg"
+      ],
+      "likes": 507,
+      "retweets": 6,
+      "views": 110925
+    },
+    {
+      "id": "2032222631538409728",
+      "username": "OpenAIDevs",
+      "text": "We’ve been cooking.\n\n2 updates in the Codex app 👇\n\nYou can now personalize the Codex app with themes that match your taste.\n\nImport themes you like or share your own. https://t.co/xOg9vzFxh1",
+      "timestamp": "2026-03-12T22:30:06+00:00",
+      "url": "https://x.com/OpenAIDevs/status/2032222631538409728",
+      "images": [
+        "https://pbs.twimg.com/media/HDPnsekbQAEYNFP.jpg",
+        "https://pbs.twimg.com/media/HDPns1XaAAA94YD.jpg",
+        "https://pbs.twimg.com/media/HDPntL1bQAAL4pj.jpg",
+        "https://pbs.twimg.com/media/HDPntivbQAAxDM0.jpg"
+      ],
+      "likes": 3181,
+      "retweets": 143,
+      "views": 699817
     }
   ]
 }
