@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-18T01:34:37.387558",
+  "scraped_at": "2026-03-18T06:09:39.520505",
   "date": "2026-03-18",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 27,
-  "account_count": 15,
+  "tweet_count": 57,
+  "account_count": 30,
   "tweets": [
     {
       "id": "2033959257196966360",
@@ -310,6 +310,351 @@
       "likes": 63,
       "retweets": 8,
       "views": 6817
+    },
+    {
+      "id": "2034023235654980049",
+      "username": "levie",
+      "text": "The official Box CLI is here. Now you can use Box via Claude Code, Codex, Perplexity Computer, OpenClaw &amp; more as a full cloud file system for agents.  Available to all users, including free users with 10GB of free storage.\n\nnpm install --global @box/cli https://t.co/0od3wPpBHo",
+      "timestamp": "2026-03-17T21:45:04+00:00",
+      "url": "https://x.com/levie/status/2034023235654980049",
+      "images": [],
+      "likes": 59,
+      "retweets": 2,
+      "views": 6669
+    },
+    {
+      "id": "2034023185415373256",
+      "username": "lateinteraction",
+      "text": "Wow! Quite a detailed blog from @Dropbox on how they optimize Dropbox Dash relevance judge with @DSPyOSS.\n\nShout out to the Dropbox Dash team Eric Wang, Dmitriy Meyerzon, and @joshclemm ! https://t.co/hne97wKtny",
+      "timestamp": "2026-03-17T21:44:52+00:00",
+      "url": "https://x.com/lateinteraction/status/2034023185415373256",
+      "images": [
+        "https://pbs.twimg.com/media/HDpNTjGW4AADVIp.png"
+      ],
+      "likes": 32,
+      "retweets": 3,
+      "views": 1069
+    },
+    {
+      "id": "2034023041660039584",
+      "username": "ClementDelangue",
+      "text": "why don't all messaging apps (slack, whatsapp, gmail, linkedin,...) have great AI powered suggested replies and great autocompletes? Sounds kind of trivial given they have your voice and history and would save everyone tons of time. \n\nToo costly maybe with big models (😉😉😉",
+      "timestamp": "2026-03-17T21:44:18+00:00",
+      "url": "https://x.com/ClementDelangue/status/2034023041660039584",
+      "images": [],
+      "likes": 12,
+      "retweets": 0,
+      "views": 1395
+    },
+    {
+      "id": "2034022723048153382",
+      "username": "nickcammarata",
+      "text": "warmth of collectivism east coast warmth of the gpus west coast",
+      "timestamp": "2026-03-17T21:43:02+00:00",
+      "url": "https://x.com/nickcammarata/status/2034022723048153382",
+      "images": [],
+      "likes": 10,
+      "retweets": 0,
+      "views": 638
+    },
+    {
+      "id": "2034019551168631003",
+      "username": "NVIDIARobotics",
+      "text": "Are you at #NVIDIAGTC and up for a fun side quest?\n\nJoin the #GTCRobotQuest while you’re snapping photos of all the different robots around the show.\n\nTo join: \n🤖Find the robots – Spot all 4 types: Concierge, Delivery, Entertainment, and Wayfinding.\n\n📷Snap your pics – Take a https://t.co/LM3EEFyuEN",
+      "timestamp": "2026-03-17T21:30:25+00:00",
+      "url": "https://x.com/NVIDIARobotics/status/2034019551168631003",
+      "images": [
+        "https://pbs.twimg.com/media/HDpCJdwbYAAwTjJ.jpg"
+      ],
+      "likes": 13,
+      "retweets": 0,
+      "views": 1060
+    },
+    {
+      "id": "2034019524131852354",
+      "username": "ClementDelangue",
+      "text": "Working on a better workflow. Gemini can’t do this yet? Sounds basic https://t.co/ftGha8bLq3",
+      "timestamp": "2026-03-17T21:30:19+00:00",
+      "url": "https://x.com/ClementDelangue/status/2034019524131852354",
+      "images": [
+        "https://pbs.twimg.com/media/HDpJ-mFXAAAPdF8.jpg"
+      ],
+      "likes": 7,
+      "retweets": 1,
+      "views": 1433
+    },
+    {
+      "id": "2034019491256942752",
+      "username": "Azure",
+      "text": "Announcing GPT-5.4 mini and GPT-5.4 nano in Microsoft Foundry! These new models distill GPT-5.4's advanced reasoning for low latency solutions.\n\nLearn more here: https://t.co/cXyOMjqOAD https://t.co/jVgWOAZ1p2",
+      "timestamp": "2026-03-17T21:30:11+00:00",
+      "url": "https://x.com/Azure/status/2034019491256942752",
+      "images": [],
+      "likes": 29,
+      "retweets": 7,
+      "views": 1924
+    },
+    {
+      "id": "2034016261534060927",
+      "username": "Miles_Brundage",
+      "text": "I don't get the whole \"control your desktop from your phone, oh and your desktop has to be on all the time\" thing.\n\nSeems like obviously not the right paradigm at all?\n\nAlas, last I tried it, Claude Code in the cloud was super broken, dunno about Codex",
+      "timestamp": "2026-03-17T21:17:21+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2034016261534060927",
+      "images": [],
+      "likes": 19,
+      "retweets": 0,
+      "views": 1576
+    },
+    {
+      "id": "2034014385941975298",
+      "username": "GoogleDeepMind",
+      "text": "How do we measure progress toward AGI? It takes a village – and a bit of healthy competition. 🛠️\n\nWe’re launching a global hackathon with @Kaggle to build new cognitive evaluations for AI. With $200k in prizes up for grabs, help us put our framework to the test.\n\nJoin the https://t.co/IIkXXRt8f2",
+      "timestamp": "2026-03-17T21:09:54+00:00",
+      "url": "https://x.com/GoogleDeepMind/status/2034014385941975298",
+      "images": [],
+      "likes": 116,
+      "retweets": 16,
+      "views": 10342
+    },
+    {
+      "id": "2034011894315385225",
+      "username": "googledevs",
+      "text": ".@GoogleDeepMind is introducing a new cognitive framework for measuring progress toward AGI. Build and run your own evaluations against frontier models using @Kaggle’s Community Benchmarks.\n\nJoin the “Measuring Progress Towards AGI: Cognitive Abilities” hackathon: https://t.co/RdVGr2PDdA",
+      "timestamp": "2026-03-17T21:00:00+00:00",
+      "url": "https://x.com/googledevs/status/2034011894315385225",
+      "images": [],
+      "likes": 42,
+      "retweets": 7,
+      "views": 3436
+    },
+    {
+      "id": "2034010826789589084",
+      "username": "giffmana",
+      "text": "I have a question about last year's image-generation progress, wonder what y'all think.\n\nHow did we go from all models consistently getting fingers wrong, to all models consistently getting them right?\n\nThis \"flip\" seems to have happened basically across all companies/models at https://t.co/QQOZxILdOC",
+      "timestamp": "2026-03-17T20:55:45+00:00",
+      "url": "https://x.com/giffmana/status/2034010826789589084",
+      "images": [
+        "https://pbs.twimg.com/media/HDo-K6mWAAAwcpD.png",
+        "https://pbs.twimg.com/media/HDo--KTaQAAi_NJ.jpg"
+      ],
+      "likes": 87,
+      "retweets": 2,
+      "views": 11767
+    },
+    {
+      "id": "2034007048149676250",
+      "username": "nickcammarata",
+      "text": "science isn’t compression. one data point (eg the double slit experiment) should be enough to make you realize you fundamentally misunderstand what’s going on. it shouldn’t bump your loss up a trivial fraction, all you have is loss",
+      "timestamp": "2026-03-17T20:40:44+00:00",
+      "url": "https://x.com/nickcammarata/status/2034007048149676250",
+      "images": [],
+      "likes": 83,
+      "retweets": 1,
+      "views": 4534
+    },
+    {
+      "id": "2034003374627049909",
+      "username": "gdb",
+      "text": "introducing gpt-5.4 mini:",
+      "timestamp": "2026-03-17T20:26:09+00:00",
+      "url": "https://x.com/gdb/status/2034003374627049909",
+      "images": [],
+      "likes": 400,
+      "retweets": 16,
+      "views": 43553
+    },
+    {
+      "id": "2034001778921116125",
+      "username": "GaryMarcus",
+      "text": "“If only you would buy even more of my stuff and not worry about the downsides, I’d be even richer!”  - Jensen Huang, in slightly more polite words.",
+      "timestamp": "2026-03-17T20:19:48+00:00",
+      "url": "https://x.com/GaryMarcus/status/2034001778921116125",
+      "images": [],
+      "likes": 69,
+      "retweets": 10,
+      "views": 3641
+    },
+    {
+      "id": "2033996628013556206",
+      "username": "Austen",
+      "text": "“Why is App Store review taking so long?” He complained as his agent submitted the 5 new apps it had built that day to the App Store",
+      "timestamp": "2026-03-17T19:59:20+00:00",
+      "url": "https://x.com/Austen/status/2033996628013556206",
+      "images": [],
+      "likes": 68,
+      "retweets": 2,
+      "views": 5796
+    },
+    {
+      "id": "2033993519459889505",
+      "username": "ollama",
+      "text": "Ollama 0.18.1 is here! \n\n🌐 Web search and fetch in OpenClaw\n\nOllama now ships with web search and web fetch plugin for OpenClaw. \n\nThis allows Ollama's models (local or cloud) to search the web for the latest content and news. This also allows OpenClaw with Ollama to be able to https://t.co/WfDSxlYyNK",
+      "timestamp": "2026-03-17T19:46:59+00:00",
+      "url": "https://x.com/ollama/status/2033993519459889505",
+      "images": [
+        "https://pbs.twimg.com/media/HDovxg2aoAAj3F3.jpg"
+      ],
+      "likes": 646,
+      "retweets": 73,
+      "views": 32801
+    },
+    {
+      "id": "2033987159867461746",
+      "username": "NVIDIAAI",
+      "text": "NVIDIA and telecom leaders are building AI grids to optimize inference on distributed networks. 🌐\n\n@ATT, @TMobile, @Comcast, and @GetSpectrum are building these grids using NVIDIA AI infrastructure. @PersonalAI, Linker Vision, @ServeRobotics, and @DecartAI are deploying https://t.co/ywezizUMrH",
+      "timestamp": "2026-03-17T19:21:43+00:00",
+      "url": "https://x.com/NVIDIAAI/status/2033987159867461746",
+      "images": [
+        "https://pbs.twimg.com/media/HDl1SiOWsAAHPJS.jpg"
+      ],
+      "likes": 35,
+      "retweets": 6,
+      "views": 2576
+    },
+    {
+      "id": "2033981996414996673",
+      "username": "GeminiApp",
+      "text": "Use Gemini to build and analyze your college basketball bracket this year. 🏆 \n\nWhether you’re a diehard fan or just getting started, Gemini can help you supercharge your bracket.",
+      "timestamp": "2026-03-17T19:01:12+00:00",
+      "url": "https://x.com/GeminiApp/status/2033981996414996673",
+      "images": [],
+      "likes": 88,
+      "retweets": 8,
+      "views": 9210
+    },
+    {
+      "id": "2033981961446834203",
+      "username": "minchoi",
+      "text": "Google's AI ecosystem is scary...\n\nThe next AI war won't be Claude vs ChatGPT.\n\nIt's who will own the entire AI operating system... https://t.co/ufM4OPo5OB",
+      "timestamp": "2026-03-17T19:01:03+00:00",
+      "url": "https://x.com/minchoi/status/2033981961446834203",
+      "images": [],
+      "likes": 157,
+      "retweets": 20,
+      "views": 17288
+    },
+    {
+      "id": "2033981896690946488",
+      "username": "code",
+      "text": "🧠 Want to give your coding agent new capabilities? Use Agent Skills in @code!\n\nAgent skills let you package instructions and resources into reusable capabilities for your agent. Skills can be loaded on demand and called directly from chat using slash commands like /skill-name. https://t.co/gqCXQqeTxK",
+      "timestamp": "2026-03-17T19:00:48+00:00",
+      "url": "https://x.com/code/status/2033981896690946488",
+      "images": [],
+      "likes": 298,
+      "retweets": 22,
+      "views": 18713
+    },
+    {
+      "id": "2033978254344786351",
+      "username": "OfficialLoganK",
+      "text": "Help us measure the progress towards AGI (specifically cognitive capabilities) by building benchmarks on @kaggle, with $ 200K in prizes available! Details in 🧵",
+      "timestamp": "2026-03-17T18:46:19+00:00",
+      "url": "https://x.com/OfficialLoganK/status/2033978254344786351",
+      "images": [],
+      "likes": 454,
+      "retweets": 26,
+      "views": 37206
+    },
+    {
+      "id": "2033972651446739104",
+      "username": "srush_nlp",
+      "text": "New blog on how we train Composer to work on hard problems. With the maestro himself Federico Cassano @ellev3n11",
+      "timestamp": "2026-03-17T18:24:04+00:00",
+      "url": "https://x.com/srush_nlp/status/2033972651446739104",
+      "images": [],
+      "likes": 132,
+      "retweets": 7,
+      "views": 14390
+    },
+    {
+      "id": "2033971325857886357",
+      "username": "DeryaTR_",
+      "text": "Those still at L1 (No AI) are like the hunter-gatherer level of coding at this point 😅",
+      "timestamp": "2026-03-17T18:18:48+00:00",
+      "url": "https://x.com/DeryaTR_/status/2033971325857886357",
+      "images": [],
+      "likes": 33,
+      "retweets": 7,
+      "views": 5364
+    },
+    {
+      "id": "2033969647368667247",
+      "username": "ClementDelangue",
+      "text": "that's why we need open-source AI!",
+      "timestamp": "2026-03-17T18:12:07+00:00",
+      "url": "https://x.com/ClementDelangue/status/2033969647368667247",
+      "images": [],
+      "likes": 215,
+      "retweets": 23,
+      "views": 21554
+    },
+    {
+      "id": "2033967812516217083",
+      "username": "natolambert",
+      "text": "While there are fewer labs that have the compute to scale to models that tons of people use, it makes me really happy to see that pretraining research is vibrant and progressing with many interleaved ideas.\n\nCompared to a few years ago, it feels like a big shift in optimism.",
+      "timestamp": "2026-03-17T18:04:50+00:00",
+      "url": "https://x.com/natolambert/status/2033967812516217083",
+      "images": [],
+      "likes": 58,
+      "retweets": 2,
+      "views": 5001
+    },
+    {
+      "id": "2033966902956237242",
+      "username": "a16z",
+      "text": "The Einstein Test for AGI.\n\n@vishalmisra:\n\n“You take an LLM and train it on pre-1916 physics and see if it can come up with the theory of relativity.”\n\n“If it does, then we have AGI.”\n\n“It’s a high bar, but we should have high bars.”\n\n“At the time of Einstein, there were a lot of https://t.co/MDbFyOP8tG",
+      "timestamp": "2026-03-17T18:01:13+00:00",
+      "url": "https://x.com/a16z/status/2033966902956237242",
+      "images": [],
+      "likes": 164,
+      "retweets": 25,
+      "views": 21198
+    },
+    {
+      "id": "2033963719617544587",
+      "username": "srush_nlp",
+      "text": "New Mamba day 🎊",
+      "timestamp": "2026-03-17T17:48:34+00:00",
+      "url": "https://x.com/srush_nlp/status/2033963719617544587",
+      "images": [],
+      "likes": 38,
+      "retweets": 3,
+      "views": 4552
+    },
+    {
+      "id": "2033960378770620660",
+      "username": "_akhaliq",
+      "text": "Mixture-of-Depths Attention\n\npaper: https://t.co/OUgyAIQox7 https://t.co/IiQmDjq51p",
+      "timestamp": "2026-03-17T17:35:18+00:00",
+      "url": "https://x.com/_akhaliq/status/2033960378770620660",
+      "images": [
+        "https://pbs.twimg.com/media/HDoUHs7WgAAT4R2.jpg"
+      ],
+      "likes": 55,
+      "retweets": 12,
+      "views": 4066
+    },
+    {
+      "id": "2033588217761698122",
+      "username": "GeminiApp",
+      "text": "Clever Gemini use case: Custom alarm clock sounds.\n\nCreate custom tracks that actually get you moving in the Gemini app. Instructions below 👇",
+      "timestamp": "2026-03-16T16:56:28+00:00",
+      "url": "https://x.com/GeminiApp/status/2033588217761698122",
+      "images": [],
+      "likes": 1251,
+      "retweets": 126,
+      "views": 2951958
+    },
+    {
+      "id": "2033395386509898101",
+      "username": "emollick",
+      "text": "Since AI is a general purpose technology touching every aspect of work &amp; society, a lot of the fact checking on AI advances has to come from experts in fields outside of AI\n\nI can only listen to them about the dog cancer story, the fruit fly brain download, or math breakthroughs.",
+      "timestamp": "2026-03-16T04:10:13+00:00",
+      "url": "https://x.com/emollick/status/2033395386509898101",
+      "images": [],
+      "likes": 198,
+      "retweets": 9,
+      "views": 21622
     }
   ]
 }
