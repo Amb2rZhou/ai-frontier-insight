@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-17T03:24:47.526656",
+  "scraped_at": "2026-03-17T08:30:21.728438",
   "date": "2026-03-17",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 42,
-  "account_count": 25,
+  "tweet_count": 69,
+  "account_count": 39,
   "tweets": [
     {
       "id": "2033623439953826179",
@@ -485,6 +485,324 @@
       "likes": 332,
       "retweets": 30,
       "views": 96932
+    },
+    {
+      "id": "2033700872794910880",
+      "username": "code",
+      "text": "🌐 Agentic Browser Tools (Experimental) in @code!\n\nAgents can now open pages, read content, click elements, and verify changes directly in the integrated browser while building your web app.\n\nEnable ⚙️ workbench.browser.enableChatTools to try it out.\n\nLearn mode: https://t.co/4Uq8SjqlXQ",
+      "timestamp": "2026-03-17T00:24:07+00:00",
+      "url": "https://x.com/code/status/2033700872794910880",
+      "images": [],
+      "likes": 14,
+      "retweets": 3,
+      "views": 611
+    },
+    {
+      "id": "2033696367613551000",
+      "username": "NVIDIARobotics",
+      "text": "NVIDIA IGX Thor and Jetson Orin are bringing intelligent edge processing to space. 🪐",
+      "timestamp": "2026-03-17T00:06:12+00:00",
+      "url": "https://x.com/NVIDIARobotics/status/2033696367613551000",
+      "images": [],
+      "likes": 10,
+      "retweets": 2,
+      "views": 729
+    },
+    {
+      "id": "2033687821526176099",
+      "username": "mitchellh",
+      "text": "More libghostty C progress: encoding APIs for mouse reports, focus events, and mode reports. Mode read/write on terminals. The current goal is to expose all major event/response formats as high level APIs.\n\nThe core idea is to minimize the glue between UI framework events (mouse https://t.co/VpPTmeZzVp",
+      "timestamp": "2026-03-16T23:32:15+00:00",
+      "url": "https://x.com/mitchellh/status/2033687821526176099",
+      "images": [
+        "https://pbs.twimg.com/media/HDkbIrnbEAMwmT2.jpg",
+        "https://pbs.twimg.com/media/HDkbKm2bEAQIxHh.jpg",
+        "https://pbs.twimg.com/media/HDkbVEWa8AAir5t.jpg"
+      ],
+      "likes": 33,
+      "retweets": 0,
+      "views": 3488
+    },
+    {
+      "id": "2033685747769774121",
+      "username": "arthurmensch",
+      "text": "Looking forward to building frontier open source AI models together with @Nvidia as we join the Nemotron Coalition and start training the first base models. https://t.co/OBDuMqECQp",
+      "timestamp": "2026-03-16T23:24:00+00:00",
+      "url": "https://x.com/arthurmensch/status/2033685747769774121",
+      "images": [
+        "https://pbs.twimg.com/media/HDkaZqZWMAATJFE.jpg"
+      ],
+      "likes": 25,
+      "retweets": 1,
+      "views": 984
+    },
+    {
+      "id": "2033684579618333110",
+      "username": "PyTorch",
+      "text": "#ExecuTorch addresses fragmented native deployment for #AI agents as a #PyTorch native platform. It enables voice models across CPU, GPU, and NPU on Android, iOS, Linux, macOS &amp; Windows\n\n🔗 https://t.co/NeQQyUniL4 https://t.co/O3itnoQFoG",
+      "timestamp": "2026-03-16T23:19:22+00:00",
+      "url": "https://x.com/PyTorch/status/2033684579618333110",
+      "images": [
+        "https://pbs.twimg.com/media/HDkZVM1XkAAnE0S.jpg"
+      ],
+      "likes": 5,
+      "retweets": 0,
+      "views": 1400
+    },
+    {
+      "id": "2033679549376905689",
+      "username": "DeryaTR_",
+      "text": "These subagents are fantastic! Explorer subagent Meitner identified a problem I'd a hard time fixing even with GPT-5.4 xhigh in Codex app. Once I prompted the subagent readout, it finally got fixed! Don't know if this was one of the intended reasons for subagents, but I love it! https://t.co/3F3g6ggsUY",
+      "timestamp": "2026-03-16T22:59:23+00:00",
+      "url": "https://x.com/DeryaTR_/status/2033679549376905689",
+      "images": [
+        "https://pbs.twimg.com/media/HDkUxbhWkAASkzT.jpg"
+      ],
+      "likes": 31,
+      "retweets": 5,
+      "views": 4019
+    },
+    {
+      "id": "2033674936527552828",
+      "username": "gneubig",
+      "text": "I'm still amused by the personalities emerging in models:\n\n- Claude Opus: really good at design, fills in the blanks, but a bit sloppy on details.\n- GPT 5.4: detail oriented, needs clear directions, great at math, pretty bad at design.\n\nI know a lot of people with these types 😅",
+      "timestamp": "2026-03-16T22:41:03+00:00",
+      "url": "https://x.com/gneubig/status/2033674936527552828",
+      "images": [],
+      "likes": 25,
+      "retweets": 1,
+      "views": 1538
+    },
+    {
+      "id": "2033669704083009822",
+      "username": "Austen",
+      "text": "We're going live momentarily from Gauntlet HQ in downtown Austin.\n\nMeet Kelly and see what's happening in the future of AI + engineering orchestration.\n\n(May take up to 5 mins to go live). https://t.co/tfFad4gGFk",
+      "timestamp": "2026-03-16T22:20:15+00:00",
+      "url": "https://x.com/Austen/status/2033669704083009822",
+      "images": [],
+      "likes": 188,
+      "retweets": 27,
+      "views": 602881
+    },
+    {
+      "id": "2033665050959851580",
+      "username": "Austen",
+      "text": "Doors are open at Gauntlet HQ (literally first time we’ve had enough security to open the doors!)\n\nGoing live in ~30 mins talking about @KellyClaudeAI and the future of AI orchestration -&gt; autonomous computing.\n\nLivestream link in reply. https://t.co/Mq116RXIW0",
+      "timestamp": "2026-03-16T22:01:46+00:00",
+      "url": "https://x.com/Austen/status/2033665050959851580",
+      "images": [
+        "https://pbs.twimg.com/media/HDkHhR2bAAEydUR.jpg",
+        "https://pbs.twimg.com/media/HDkHhRUWMAEH91-.jpg"
+      ],
+      "likes": 76,
+      "retweets": 6,
+      "views": 5310
+    },
+    {
+      "id": "2033663494776857045",
+      "username": "Azure",
+      "text": "Big news from #NVIDIAGTC. From Microsoft Foundry to Azure AI infrastructure, the future of intelligent computing just leveled up:",
+      "timestamp": "2026-03-16T21:55:35+00:00",
+      "url": "https://x.com/Azure/status/2033663494776857045",
+      "images": [],
+      "likes": 35,
+      "retweets": 5,
+      "views": 4849
+    },
+    {
+      "id": "2033662596876800000",
+      "username": "_akhaliq",
+      "text": "Mistral Small 4 is out\nhttps://t.co/IdAowSpHpN",
+      "timestamp": "2026-03-16T21:52:01+00:00",
+      "url": "https://x.com/_akhaliq/status/2033662596876800000",
+      "images": [],
+      "likes": 28,
+      "retweets": 4,
+      "views": 3072
+    },
+    {
+      "id": "2033660835428463003",
+      "username": "NVIDIARobotics",
+      "text": "Newton 1.0 is now generally available. 🙌\n\nTake robot learning to the next level with:\n\n🤖 Stable Articulated &amp; Complex Mechanism Simulation – accurate, reliable machine modeling.\n\n🖐️ High-Fidelity Hydroelastic Contact Modeling – realistic soft contact and touch-based https://t.co/2KURKZsPaW",
+      "timestamp": "2026-03-16T21:45:01+00:00",
+      "url": "https://x.com/NVIDIARobotics/status/2033660835428463003",
+      "images": [],
+      "likes": 312,
+      "retweets": 40,
+      "views": 15077
+    },
+    {
+      "id": "2033660522961502288",
+      "username": "sama",
+      "text": "It is also very smart, but...I generally agree with this, and really feel it myself on the 5.3 -&gt; 5.4 upgrade.",
+      "timestamp": "2026-03-16T21:43:46+00:00",
+      "url": "https://x.com/sama/status/2033660522961502288",
+      "images": [],
+      "likes": 805,
+      "retweets": 34,
+      "views": 188838
+    },
+    {
+      "id": "2033659889843913000",
+      "username": "sama",
+      "text": "Great first week for 5.4 in the API.\n\nBuilders building fast.",
+      "timestamp": "2026-03-16T21:41:15+00:00",
+      "url": "https://x.com/sama/status/2033659889843913000",
+      "images": [],
+      "likes": 980,
+      "retweets": 36,
+      "views": 116477
+    },
+    {
+      "id": "2033657056582947263",
+      "username": "NVIDIAAI",
+      "text": "NVIDIA cuDF and cuVS libraries are being adopted by leading data platforms to fuel modern enterprise data processing.\n\nAcross industries, cuDF and cuVS use is surging:\n✅ @Nestle: Achieved 5x faster processing on @IBM https://t.co/DoK1k7vmqA.  \n✅ @Snap: Cut data processing costs https://t.co/dGheitvtHA",
+      "timestamp": "2026-03-16T21:30:00+00:00",
+      "url": "https://x.com/NVIDIAAI/status/2033657056582947263",
+      "images": [
+        "https://pbs.twimg.com/media/HDhkAQyXsAAa9Zl.jpg"
+      ],
+      "likes": 24,
+      "retweets": 4,
+      "views": 4735
+    },
+    {
+      "id": "2033657045086245350",
+      "username": "minchoi",
+      "text": "AI agents are coming to your computer.\n\nMeta's Manus AI just moved from the cloud onto your desktop.\n\nLocal files, terminal, apps, compute.\nhttps://t.co/HBDNbWrQCx",
+      "timestamp": "2026-03-16T21:29:57+00:00",
+      "url": "https://x.com/minchoi/status/2033657045086245350",
+      "images": [],
+      "likes": 91,
+      "retweets": 10,
+      "views": 17403
+    },
+    {
+      "id": "2033655842919395723",
+      "username": "mustafasuleyman",
+      "text": "\"I'm not saying Copilot diagnosed me. I'm saying it helped me ask for the right test. A test no doctor had ordered for me in twenty years.\"\n\nThis is why I'm so passionate about AI &amp; healthcare.\nhttps://t.co/aGq0M365M3",
+      "timestamp": "2026-03-16T21:25:11+00:00",
+      "url": "https://x.com/mustafasuleyman/status/2033655842919395723",
+      "images": [],
+      "likes": 149,
+      "retweets": 23,
+      "views": 16100
+    },
+    {
+      "id": "2033653285882572814",
+      "username": "NVIDIARobotics",
+      "text": "We're bringing real-time physical AI to the industrial and medical edge with NVIDIA IGX Thor – now generally available. 🎉\n\nIndustry leaders including @CaterpillarInc, @HitachiRailENG, @JNJNews, @KIONGroup, and @planet are standardizing on IGX Thor to power autonomous, https://t.co/M0mp2VkKCp",
+      "timestamp": "2026-03-16T21:15:01+00:00",
+      "url": "https://x.com/NVIDIARobotics/status/2033653285882572814",
+      "images": [
+        "https://pbs.twimg.com/media/HDj84qKX0AAtqbf.jpg"
+      ],
+      "likes": 61,
+      "retweets": 12,
+      "views": 2958
+    },
+    {
+      "id": "2033648877845234057",
+      "username": "NielsRogge",
+      "text": "👀 small, 119B parameters?\n\nhttps://t.co/MBJVBRvQrL",
+      "timestamp": "2026-03-16T20:57:30+00:00",
+      "url": "https://x.com/NielsRogge/status/2033648877845234057",
+      "images": [],
+      "likes": 23,
+      "retweets": 3,
+      "views": 14442
+    },
+    {
+      "id": "2033645797838098694",
+      "username": "embirico",
+      "text": "Now you can ask Codex to use subagents.\nIf you're on Pro, it's particularly satisfying to ask Codex to spawn fast subagents using Spark!",
+      "timestamp": "2026-03-16T20:45:16+00:00",
+      "url": "https://x.com/embirico/status/2033645797838098694",
+      "images": [],
+      "likes": 124,
+      "retweets": 4,
+      "views": 7670
+    },
+    {
+      "id": "2033642224760819877",
+      "username": "thsottiaux",
+      "text": "Hello subagents in codex. Have seen some awesome new and creative workflows emerge from these\n\nhttps://t.co/kw1ua4QjMh",
+      "timestamp": "2026-03-16T20:31:04+00:00",
+      "url": "https://x.com/thsottiaux/status/2033642224760819877",
+      "images": [],
+      "likes": 634,
+      "retweets": 27,
+      "views": 87317
+    },
+    {
+      "id": "2033641463104323868",
+      "username": "steipete",
+      "text": "Been so much fun cooking OpenShell and NemoClaw with the @NVIDIAAI folks! 🙏🦞\n\nHuge step towards secure agents you can trust.\n\nWhat’s your OpenClaw strategy?",
+      "timestamp": "2026-03-16T20:28:02+00:00",
+      "url": "https://x.com/steipete/status/2033641463104323868",
+      "images": [],
+      "likes": 1512,
+      "retweets": 83,
+      "views": 64051
+    },
+    {
+      "id": "2033641394267402539",
+      "username": "mervenoyann",
+      "text": "3d asset gen is solved, up next, worlds 🔥\n\nwe want a new 3D arena to compare 3d world models and we need you 🫵🏻\n\nsubmit your most challenging prompts in this discussion ⬇️",
+      "timestamp": "2026-03-16T20:27:46+00:00",
+      "url": "https://x.com/mervenoyann/status/2033641394267402539",
+      "images": [],
+      "likes": 23,
+      "retweets": 3,
+      "views": 4442
+    },
+    {
+      "id": "2033640118679130476",
+      "username": "DeryaTR_",
+      "text": "How is this possible?! I wouldn’t have predicted a tennis-playing humanoid robot this early! Sports skills are supposed to be at the premium level of physical intelligence, even for humans!",
+      "timestamp": "2026-03-16T20:22:42+00:00",
+      "url": "https://x.com/DeryaTR_/status/2033640118679130476",
+      "images": [],
+      "likes": 48,
+      "retweets": 1,
+      "views": 9456
+    },
+    {
+      "id": "2033636278508425646",
+      "username": "emollick",
+      "text": "This, but for real*\n\nHere’s METR-style graph of labor displacement from Roman aqueducts, doubling time of CDDII years. Lesson:\n1) Displacing terrible work is good\n2) All exponentials become s-curves in the end\n\n*  I had GPT-5.4 Pro do the research, spot checks seemed accurate. https://t.co/9XZTwmDQxP",
+      "timestamp": "2026-03-16T20:07:26+00:00",
+      "url": "https://x.com/emollick/status/2033636278508425646",
+      "images": [
+        "https://pbs.twimg.com/media/HDjtav6WkAAwpMT.jpg"
+      ],
+      "likes": 91,
+      "retweets": 10,
+      "views": 14356
+    },
+    {
+      "id": "2033630533117481113",
+      "username": "saranormous",
+      "text": "Jensen believes in the growth of our humanity, not in its replacement",
+      "timestamp": "2026-03-16T19:44:36+00:00",
+      "url": "https://x.com/saranormous/status/2033630533117481113",
+      "images": [],
+      "likes": 38,
+      "retweets": 1,
+      "views": 7424
+    },
+    {
+      "id": "2033589109277507618",
+      "username": "googledevs",
+      "text": "Building custom UIs for AI agents usually means rebuilding the same \"middle layer\" in every stack to keep state and progress in sync. We are changing that 🧵 https://t.co/rKfIfX3m9L",
+      "timestamp": "2026-03-16T17:00:00+00:00",
+      "url": "https://x.com/googledevs/status/2033589109277507618",
+      "images": [
+        "https://pbs.twimg.com/media/HDe3rz0XIAApqAH.jpg"
+      ],
+      "likes": 322,
+      "retweets": 36,
+      "views": 27619
     }
   ]
 }
