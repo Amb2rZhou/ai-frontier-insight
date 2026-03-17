@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-16T09:58:29.475488+08:00",
+  "last_updated": "2026-03-17T09:34:00.433372+08:00",
   "trends": [
     {
       "id": "ai_safety_pivot_and_accelerated_agi_time",
@@ -311,13 +311,12 @@
         "Startups",
         "Nvidia Competition"
       ],
-      "trajectory": "stable",
-      "signal_count": 9,
+      "trajectory": "accelerating",
+      "signal_count": 10,
       "weekly_counts": [
         1,
         1,
         1,
-        1,
         0,
         1,
         1,
@@ -325,7 +324,8 @@
         0,
         0,
         1,
-        0
+        0,
+        1
       ],
       "key_events": [
         {
@@ -367,6 +367,10 @@
         {
           "date": "2026-03-08",
           "event": "Tiny Corp proposes $20M fundraise for AI hardware venture"
+        },
+        {
+          "date": "2026-03-17",
+          "event": "NVIDIA Unveils Full Vera Rubin AI Platform and DGX Station Desktop Supercomputer"
         }
       ],
       "created": "2026-02-25"
@@ -381,9 +385,8 @@
         "Anthropic"
       ],
       "trajectory": "accelerating",
-      "signal_count": 46,
+      "signal_count": 49,
       "weekly_counts": [
-        4,
         2,
         1,
         1,
@@ -394,7 +397,8 @@
         3,
         2,
         2,
-        1
+        1,
+        3
       ],
       "key_events": [
         {
@@ -500,6 +504,10 @@
         {
           "date": "2026-03-16",
           "event": "OpenAI Codex Team Culture Emphasizes Radical Improvement"
+        },
+        {
+          "date": "2026-03-17",
+          "event": "NVIDIA Launches NemoClaw: Enterprise AI Agent Platform with Security Focus; Perplexity Computer AI Agent Now Available on Android, Completing Multi-Platform Rollout; OpenAI Codex Gains Rapid Adoption, Sama Highlights Team's Builder Culture"
         }
       ],
       "created": "2026-02-25"
@@ -551,20 +559,20 @@
         "Multimodal AI"
       ],
       "trajectory": "accelerating",
-      "signal_count": 45,
+      "signal_count": 46,
       "weekly_counts": [
         3,
+        2,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        2,
+        1,
         3,
-        2,
-        1,
-        1,
-        1,
-        1,
-        2,
-        1,
-        2,
-        1,
-        3
+        1
       ],
       "key_events": [
         {
@@ -674,6 +682,10 @@
         {
           "date": "2026-03-16",
           "event": "Research: Geometry-Guided Camera Motion Understanding in VideoLLMs; Research: Mitigating Memorization in Text-to-Image Diffusion via Prompt Augmentation; Research: CRYSTAL Benchmark for Transparent Multimodal Reasoning"
+        },
+        {
+          "date": "2026-03-17",
+          "event": "Research: Attention Residuals as a Cleaner Alternative to Standard Residual Connections"
         }
       ],
       "created": "2026-02-25"
@@ -858,9 +870,8 @@
         "Automation"
       ],
       "trajectory": "accelerating",
-      "signal_count": 68,
+      "signal_count": 72,
       "weekly_counts": [
-        3,
         2,
         1,
         2,
@@ -871,7 +882,8 @@
         4,
         4,
         6,
-        1
+        1,
+        4
       ],
       "key_events": [
         {
@@ -985,6 +997,10 @@
         {
           "date": "2026-03-16",
           "event": "GitHub Trending: OpenClaw Ecosystem Grows with Chinese Documentation"
+        },
+        {
+          "date": "2026-03-17",
+          "event": "Mistral Launches Leanstral: Open-Source Agent for Trustworthy Coding and Formal Proof; Andrew Ng's Context Hub (chub) Gains Massive Traction for AI Coding Agents; Google Developers Introduce New Framework for Building Custom AI Agent UIs; Z.ai Releases Proprietary GLM-5-Turbo Model for Agent Workflows"
         }
       ],
       "created": "2026-02-25"
@@ -1583,9 +1599,8 @@
         "Startup Funding"
       ],
       "trajectory": "accelerating",
-      "signal_count": 18,
+      "signal_count": 19,
       "weekly_counts": [
-        2,
         1,
         1,
         1,
@@ -1596,7 +1611,8 @@
         1,
         1,
         1,
-        2
+        2,
+        1
       ],
       "key_events": [
         {
@@ -1658,6 +1674,10 @@
         {
           "date": "2026-03-16",
           "event": "Google NotebookLM Launches Powerful Video Feature for Education; HuggingFace Trending: Lightricks LTX-2.3 Video Generation Model"
+        },
+        {
+          "date": "2026-03-17",
+          "event": "xAI Releases Grok Text-to-Speech API with Natural and Expressive Controls"
         }
       ],
       "created": "2026-02-26"

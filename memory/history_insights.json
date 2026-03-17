@@ -1,66 +1,6 @@
 {
   "predictions": [
     {
-      "date": "2026-03-09T17:54:58.976256+08:00",
-      "prediction_text": "平台需构建支持用户贡献与协作的AI技能生态，将社区创造力转化为AI能力进化的燃料。",
-      "category": "ecosystem_shift",
-      "source_signal": "Andrej Karpathy: Next Step for Autoresearch is Asynchronous Mass Collaboration"
-    },
-    {
-      "date": "2026-03-09T17:54:58.981895+08:00",
-      "prediction_text": "平台AI中台需采纳或借鉴系统化架构，以提升创作、电商等场景Agent的稳定性与迭代效率。",
-      "category": "infrastructure",
-      "source_signal": "OpenDev Paper: Systematic Architecture for CLI Coding Agents"
-    },
-    {
-      "date": "2026-03-09T17:54:58.989006+08:00",
-      "prediction_text": "搜索推荐与内容创作系统的AI评估需重构，更依赖A/B测试与用户行为反馈等在线指标。",
-      "category": "ecosystem_shift",
-      "source_signal": "Greg Brockman: Benchmarks Are Becoming Obsolete in Agent Era"
-    },
-    {
-      "date": "2026-03-09T17:54:58.999158+08:00",
-      "prediction_text": "平台可对接或自建垂直技能库，模块化封装美妆、家居等场景的创作与导购能力。",
-      "category": "open_source",
-      "source_signal": "SkillNet: Open Infrastructure for AI Agent Skills at Scale"
-    },
-    {
-      "date": "2026-03-09T17:54:59.007049+08:00",
-      "prediction_text": "平台在核心创作链路需集成顶级模型保证质量，同时用成本更优模型处理长尾需求。",
-      "category": "strategic_move",
-      "source_signal": "Perplexity CEO: GPT-5.4 is the Best Writer, Ideal for Content Orchestration"
-    },
-    {
-      "date": "2026-03-09T17:54:59.014405+08:00",
-      "prediction_text": "电商购物助手与内容搜索Agent能更可靠地执行多步骤、跨会话的复杂用户指令。",
-      "category": "research_breakthrough",
-      "source_signal": "STRUCTUREDAGENT: Hierarchical Planning for Long-Horizon Web Tasks"
-    },
-    {
-      "date": "2026-03-09T17:54:59.021820+08:00",
-      "prediction_text": "平台需加速集成或自研视频生成能力，丰富创作者工具箱，应对用户对短视频AI创作的期待。",
-      "category": "open_source",
-      "source_signal": "Lightricks Open-Sources LTX-Desktop for Video Generation"
-    },
-    {
-      "date": "2026-03-09T17:54:59.028294+08:00",
-      "prediction_text": "平台多模态内容审核与生成系统未来可能采用新架构，以提升效率与可控性。",
-      "category": "research_breakthrough",
-      "source_signal": "Arxiv: Omni-Diffusion - Unified Multimodal Understanding and Generation"
-    },
-    {
-      "date": "2026-03-09T17:54:59.034981+08:00",
-      "prediction_text": "平台可探索用AI Agent自动化内容发布、数据分析等工作流，提升运营与创作效率。",
-      "category": "ecosystem_shift",
-      "source_signal": "Community Highlights: Reverse Engineering DOS Game with Codex 5.4"
-    },
-    {
-      "date": "2026-03-09T17:54:59.041991+08:00",
-      "prediction_text": "平台在移动端的实时图像搜索、AR试妆等场景的AI体验将因端侧模型优化而显著增强。",
-      "category": "research_breakthrough",
-      "source_signal": "Arxiv: Penguin-VL - Exploring Efficiency Limits of VLM with LLM-based Vision Encoders"
-    },
-    {
       "date": "2026-03-09T18:05:25.151755+08:00",
       "prediction_text": "内容创作与搜索推荐系统可灵活集成特定尺寸的SOTA模型，平衡效果与推理成本。",
       "category": "open_source",
@@ -599,6 +539,66 @@
       "prediction_text": "平台可以考虑拥抱并贡献此类本土化开源生态，加速Agent应用落地。",
       "category": "ecosystem_shift",
       "source_signal": "GitHub Trending: OpenClaw Ecosystem Grows with Chinese Documentation"
+    },
+    {
+      "date": "2026-03-17T09:33:35.950298+08:00",
+      "prediction_text": "内容安全与治理团队可以考虑将NemoClaw的安全框架作为Agent交互设计的参考基准。",
+      "category": "strategic_move",
+      "source_signal": "NVIDIA Launches NemoClaw: Enterprise AI Agent Platform with Security Focus"
+    },
+    {
+      "date": "2026-03-17T09:33:35.968053+08:00",
+      "prediction_text": "推荐系统与创作者工具团队可以探索基于DGX Station的本地化、低延迟AIGC功能。",
+      "category": "infrastructure",
+      "source_signal": "NVIDIA Unveils Full Vera Rubin AI Platform and DGX Station Desktop Supercomputer"
+    },
+    {
+      "date": "2026-03-17T09:33:35.983068+08:00",
+      "prediction_text": "搜索产品值得关注如何将自身内容生态深度集成到此类主流Agent的工作流中。",
+      "category": "strategic_move",
+      "source_signal": "Perplexity Computer AI Agent Now Available on Android, Completing Multi-Platform Rollout"
+    },
+    {
+      "date": "2026-03-17T09:33:36.000338+08:00",
+      "prediction_text": "电商平台的客服与导购Agent可以考虑引入类似的形式化验证思路以提升准确性。",
+      "category": "open_source",
+      "source_signal": "Mistral Launches Leanstral: Open-Source Agent for Trustworthy Coding and Formal Proof"
+    },
+    {
+      "date": "2026-03-17T09:33:36.018521+08:00",
+      "prediction_text": "内容平台可以探索将自身的API、文档与数据以chub兼容格式开放，主动服务编码Agent。",
+      "category": "ecosystem_shift",
+      "source_signal": "Andrew Ng's Context Hub (chub) Gains Massive Traction for AI Coding Agents"
+    },
+    {
+      "date": "2026-03-17T09:33:36.035461+08:00",
+      "prediction_text": "社区平台的开发者生态支持可以考虑深度集成Codex类工具，构建原生AI开发体验。",
+      "category": "strategic_move",
+      "source_signal": "OpenAI Codex Gains Rapid Adoption, Sama Highlights Team's Builder Culture"
+    },
+    {
+      "date": "2026-03-17T09:33:36.051788+08:00",
+      "prediction_text": "拥有自研模型的内容平台可以考虑发布针对推荐、创作等场景的专有优化变体。",
+      "category": "strategic_move",
+      "source_signal": "Z.ai Releases Proprietary GLM-5-Turbo Model for Agent Workflows"
+    },
+    {
+      "date": "2026-03-17T09:33:36.067784+08:00",
+      "prediction_text": "AI研发团队可以关注并试验此类底层创新，以提升自研模型的训练效率与效果上限。",
+      "category": "research_breakthrough",
+      "source_signal": "Research: Attention Residuals as a Cleaner Alternative to Standard Residual Connections"
+    },
+    {
+      "date": "2026-03-17T09:33:36.085073+08:00",
+      "prediction_text": "创作者工具团队可以考虑采用或借鉴此类框架，快速构建复杂、状态化的AI辅助创作界面。",
+      "category": "infrastructure",
+      "source_signal": "Google Developers Introduce New Framework for Building Custom AI Agent UIs"
+    },
+    {
+      "date": "2026-03-17T09:33:36.110992+08:00",
+      "prediction_text": "内容创作工具可以探索集成此类先进TTS API，为音频/视频内容生成提供更自然的语音选项。",
+      "category": "model_release",
+      "source_signal": "xAI Releases Grok Text-to-Speech API with Natural and Expressive Controls"
     }
   ]
 }
