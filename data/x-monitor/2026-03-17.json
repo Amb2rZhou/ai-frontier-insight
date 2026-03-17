@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-17T19:26:32.042329",
+  "scraped_at": "2026-03-17T23:00:05.759209",
   "date": "2026-03-17",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 97,
-  "account_count": 49,
+  "tweet_count": 108,
+  "account_count": 50,
   "tweets": [
     {
       "id": "2033623439953826179",
@@ -1129,6 +1129,133 @@
       "likes": 3181,
       "retweets": 143,
       "views": 699817
+    },
+    {
+      "id": "2033920369405636668",
+      "username": "natolambert",
+      "text": "A undertold story with this plot is how building/using open source software is becoming a consumer activity. That alone is a monumental shift.",
+      "timestamp": "2026-03-17T14:56:19+00:00",
+      "url": "https://x.com/natolambert/status/2033920369405636668",
+      "images": [],
+      "likes": 2,
+      "retweets": 0,
+      "views": 258
+    },
+    {
+      "id": "2033920099044798952",
+      "username": "srush_nlp",
+      "text": "Time between “Tweet about X” and “Annotated X” is now less than 24 hours. Well done.",
+      "timestamp": "2026-03-17T14:55:14+00:00",
+      "url": "https://x.com/srush_nlp/status/2033920099044798952",
+      "images": [],
+      "likes": 6,
+      "retweets": 2,
+      "views": 208
+    },
+    {
+      "id": "2033919148884160617",
+      "username": "natolambert",
+      "text": "While RL for LLM reviews are in, a good time to remind people I've slowly added a ton of content with new algorithms and implementation tradeoffs to the RLHF book chapter on RL.\n\nProud of it, and I find it very useful myself.\nhttps://t.co/QjnOE3T24L https://t.co/Ijjiz6EXwc",
+      "timestamp": "2026-03-17T14:51:28+00:00",
+      "url": "https://x.com/natolambert/status/2033919148884160617",
+      "images": [
+        "https://pbs.twimg.com/media/HDnuea9bEAcNqVa.jpg"
+      ],
+      "likes": 17,
+      "retweets": 2,
+      "views": 419
+    },
+    {
+      "id": "2033916065873572061",
+      "username": "omarsar0",
+      "text": "Current vision-language models still struggle with simple diagrams.\n\nFeynman is a knowledge-infused diagramming agent that enumerates domain-specific concepts, plans visual representations, and translates them into declarative programs rendered by the Penrose diagramming system. https://t.co/dGCpqlYYAQ",
+      "timestamp": "2026-03-17T14:39:13+00:00",
+      "url": "https://x.com/omarsar0/status/2033916065873572061",
+      "images": [
+        "https://pbs.twimg.com/media/HDnr4hAaMAAkQI3.jpg"
+      ],
+      "likes": 11,
+      "retweets": 1,
+      "views": 809
+    },
+    {
+      "id": "2033914302940516768",
+      "username": "tkipf",
+      "text": "This is one of the most impressive world model projects I have seen. Very elegant and highly effective combination of an image retrieval mechanism (using 3D locations/views) and otherwise just pure generative modeling. This is the way.",
+      "timestamp": "2026-03-17T14:32:12+00:00",
+      "url": "https://x.com/tkipf/status/2033914302940516768",
+      "images": [],
+      "likes": 6,
+      "retweets": 0,
+      "views": 418
+    },
+    {
+      "id": "2033913878325707212",
+      "username": "DeryaTR_",
+      "text": "AI is revolutionizing education! We need to completely redesign the education system using AI &amp; greatly shorten the time it takes to teach. AI-assisted teaching of first principles &amp; basis of all topics can happen half the time currently required &amp; better. AI changes everything!",
+      "timestamp": "2026-03-17T14:30:31+00:00",
+      "url": "https://x.com/DeryaTR_/status/2033913878325707212",
+      "images": [],
+      "likes": 24,
+      "retweets": 5,
+      "views": 2757
+    },
+    {
+      "id": "2033898777371713552",
+      "username": "gneubig",
+      "text": "In 2025 the biggest barrier to using agents effectively was definitely agentic model accuracy.\n\nThat no longer feels like as much of a barrier -- context, security, and cost definitely play an almost bigger role now.",
+      "timestamp": "2026-03-17T13:30:31+00:00",
+      "url": "https://x.com/gneubig/status/2033898777371713552",
+      "images": [],
+      "likes": 18,
+      "retweets": 1,
+      "views": 1024
+    },
+    {
+      "id": "2033898650422661256",
+      "username": "NVIDIAAI",
+      "text": "How does @Snap process petabytes of data in just a few hours?\n\nBy accelerating @ApacheSpark with NVIDIA cuDF on @GoogleCloud, Snap achieved:\n⚡ 4x faster runtimes \n💰 76% cost savings \n📊 6,000+ metrics analyzed per A/B test\n\nRead how they’re scaling innovation: https://t.co/XDSjD2yTQp",
+      "timestamp": "2026-03-17T13:30:00+00:00",
+      "url": "https://x.com/NVIDIAAI/status/2033898650422661256",
+      "images": [
+        "https://pbs.twimg.com/media/HDmID_uX0AEWAsO.jpg"
+      ],
+      "likes": 30,
+      "retweets": 2,
+      "views": 2094
+    },
+    {
+      "id": "2033891100172177738",
+      "username": "googledevs",
+      "text": "Matter device onboarding just got a major upgrade. 🛠️\n\nConfigure custom setup and reset instructions in the Google Home Developer Console to guide users through the Google Home app (GHA).\n\n📶 Network and frequency: Select supported types\n✨ Setup mode: Describe visual indicators https://t.co/65VeN6zJop",
+      "timestamp": "2026-03-17T13:00:00+00:00",
+      "url": "https://x.com/googledevs/status/2033891100172177738",
+      "images": [],
+      "likes": 37,
+      "retweets": 2,
+      "views": 3009
+    },
+    {
+      "id": "2033871626496790968",
+      "username": "DeryaTR_",
+      "text": "The first open-source AI physicist has been released! \n\n“Physical Superintelligence PBC (PSI), a company co-founded by Alex, is releasing Get Physics Done (GPD): the first open-source agentic AI physicist that can scope a physics problem, plan the research, carry out derivations",
+      "timestamp": "2026-03-17T11:42:37+00:00",
+      "url": "https://x.com/DeryaTR_/status/2033871626496790968",
+      "images": [],
+      "likes": 100,
+      "retweets": 21,
+      "views": 12473
+    },
+    {
+      "id": "2033745890762952834",
+      "username": "emollick",
+      "text": "I get why AI labs are so focused on software development (it helps them get recursive improvement, and also they are coders so they think coding is the most vital thing), but there are 9.5x more managers than there are coders &amp; efforts to build tools for them are very nascent.",
+      "timestamp": "2026-03-17T03:23:00+00:00",
+      "url": "https://x.com/emollick/status/2033745890762952834",
+      "images": [],
+      "likes": 501,
+      "retweets": 21,
+      "views": 46782
     }
   ]
 }
