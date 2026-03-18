@@ -67,20 +67,26 @@ Figure out the week to cover. The weekly cycle is **last Tuesday → this Monday
 - Signals appearing on multiple days may have `[Update]` prefix — merge them
 - `category` values: `model_release` | `research_breakthrough` | `strategic_move` | `ecosystem_shift` | `infrastructure` | `open_source` | `product_launch` | `model_benchmark`
 
-### Step 3: Find the Story
+### Step 3: Find the Story — 提炼论点，而非归纳事件
 
 **Do NOT start from a type/framework. Start from the data.**
 
 Read all the signals, then ask: **What is the single most important thing that happened this week?** Not the most numerous category — the most *meaningful* pattern. Sometimes it's a single event with deep implications. Sometimes it's three unrelated signals that, when connected, reveal something nobody else has articulated.
 
-The goal is to find a thesis — one sentence that captures what changed this week and why it matters. Examples of good theses:
+The goal is to find a thesis — one sentence that captures what changed this week and why it matters.
+
+**论点（thesis）的标准：** 论点必须是一个可以被反驳的判断（argument），而不是对事件的归纳总结。好的论点让读者能说"我不同意"并给出理由；如果读者只能说"没错，这些事确实发生了"，那就不是论点，而是综述。
+
+Examples of good theses (有观点、可反驳):
 - "AI产业正在经历一次'控制权迁移'——从人类实时操控到Agent后台自主执行"
 - "本周三条独立研究线同时证明了同一件事：Agent的推理能力已经跨过了'辅助'到'自主'的门槛"
 - "Anthropic用72小时证明了一件事：在AGI竞赛中，'安全'不是约束条件，而是竞争武器"
+- "模型层的胜负已经不重要了——AI竞争的主战场正在下沉到基础设施层"
 
-Bad theses (too broad, no point of view):
+Bad theses (太宽泛、没有立场、无法反驳):
 - "本周AI行业发生了很多重要事件"
 - "Agent、安全、硬件三个方向都有进展"
+- "微软、Google、NVIDIA、OpenAI本周都发布了Agent相关产品"（这是事实描述，不是论点）
 
 Tell the user your thesis before writing. One sentence.
 
@@ -119,7 +125,23 @@ Write it like an essay, not a form. The structure below is a guideline, not a st
 
 ## 深度分析 Deep Analysis
 The core of the report (~50% of total length). This is where you make your argument.
-Structure it however serves the thesis best — chronological, cause-and-effect, comparison, whatever works. Use subheadings if the argument has distinct parts, but don't force artificial structure.
+
+**⚠️ 写作铁律：论点驱动，不是事件驱动。**
+
+深度分析的组织原则是"论证推进"——每个子标题应该是论证链条上的一个环节（"为什么X成立""这意味着什么""为什么现在发生"），而不是一组事件的标签（"公司A的动作""公司B的动作""安全领域的进展"）。
+
+**反面模式（严禁）：**
+- ❌ 按公司逐一叙述："微软做了X。Google做了Y。NVIDIA做了Z。OpenAI做了W。"——这是新闻综述，不是分析。
+- ❌ 按主题分组罗列："Agent领域：发生了A、B、C。安全领域：发生了D、E。"——这是分类目录，不是论证。
+- ❌ 先铺陈事件，最后才亮出观点——读者在等你说"so what"的过程中已经失去耐心。
+
+**正面模式（应遵循）：**
+- ✅ 开门见山亮出判断（甚至是反直觉的判断），然后用事件作为压缩论据来支撑。
+- ✅ 事件是论据的"弹药"，不是叙事的主体——一个段落里可以用一两句话引用三四个事件来支撑一个论点，而不是用三四段来分别叙述三四个事件。
+- ✅ 每个子标题推进一步论证：例如"模型层的胜负已经不重要了"→"这是一场锁定战，不是功能战"→"安全不是护城河，是城门"→"为什么是本周"。
+- ✅ 使用类比、反问、对比来让论点更鲜明，而不是靠事件堆砌来制造"丰富感"。
+
+Structure it however serves the thesis best — cause-and-effect, comparison, analogy, reductio, whatever works. Use subheadings that advance the argument, not that categorize events.
 Draw from trends.json trajectory data to support claims.
 Inline-cite signals naturally in the narrative (e.g. "Anthropic拒绝五角大楼合同条款（详见信号1）") — the reader gets the full story here, and can jump to the appendix for sourced details.
 
@@ -198,15 +220,41 @@ Save to `data/weekly/`:
 
 **Critical**: Do NOT modify any files in `memory/`. Only write to `data/weekly/`.
 
-### Step 7: Git Push
+### Step 7: Publish to Jekyll Site
+
+After saving the weekly report, also create a Jekyll post for GitHub Pages:
+
+```python
+from pathlib import Path
+from datetime import datetime, timedelta
+
+# Calculate Monday date from week number
+year, week = "{year}-W{week}".split("-W")
+jan4 = datetime(int(year), 1, 4)
+start_of_w1 = jan4 - timedelta(days=jan4.weekday())
+monday = start_of_w1 + timedelta(weeks=int(week)-1)
+date_str = monday.strftime("%Y-%m-%d")
+
+# Read the weekly markdown
+md_path = Path(f"/Users/zhouzhile/ai-frontier-insight/data/weekly/{year}-W{week}.md")
+content = md_path.read_text(encoding="utf-8")
+first_line = content.split("\n")[0].strip("# ").strip()
+
+# Write Jekyll post
+posts_dir = Path("/Users/zhouzhile/ai-frontier-insight/docs/_posts")
+post = f'---\nlayout: post\ntitle: "{first_line}"\ndate: {date_str}\ncategories: weekly\n---\n\n{content}\n'
+(posts_dir / f"{date_str}-weekly.md").write_text(post, encoding="utf-8")
+```
+
+### Step 8: Git Push
 
 After all files are saved, run:
 
 ```bash
-cd /Users/zhouzhile/ai-frontier-insight && git add data/weekly/ && git commit -m "weekly: $(date +%Y)-W$(date +%V) insight" && git push
+cd /Users/zhouzhile/ai-frontier-insight && git add data/weekly/ docs/_posts/ && git commit -m "weekly: $(date +%Y)-W$(date +%V) insight" && git push
 ```
 
-This ensures the weekly report is immediately available on GitHub for downstream consumers (e.g. OpenClaw).
+This ensures the weekly report is immediately available on GitHub and GitHub Pages for downstream consumers.
 
 ## Language Guidelines
 
@@ -276,3 +324,5 @@ Designed for automated Monday morning runs via the `schedule-task` skill:
 - Always cite specific signals and sources.
 - The report should read like a well-argued essay, not a filled-in template.
 - **每次都从原始数据重新构思，不在旧稿上打补丁。**
+- **论点先行，事件服务于论点。** 写完后自检：如果把所有公司名和产品名遮住，读者还能理解你的核心判断吗？如果不能，说明论点不够清晰，事件喧宾夺主了。
+- **自检：子标题是不是在推进论证？** 如果子标题读起来像"微软的动作""Google的动作""安全领域"，说明你在按事件分组，不是在论证。好的子标题应该让读者仅看标题就能跟上论证链条。
