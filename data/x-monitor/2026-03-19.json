@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-19T00:54:36.678217",
+  "scraped_at": "2026-03-19T03:56:45.550250",
   "date": "2026-03-19",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 32,
-  "account_count": 24,
+  "tweet_count": 59,
+  "account_count": 36,
   "tweets": [
     {
       "id": "2034311911463063658",
@@ -392,6 +392,317 @@
       "likes": 5895,
       "retweets": 631,
       "views": 1325444
+    },
+    {
+      "id": "2034354507178480013",
+      "username": "DeryaTR_",
+      "text": "AI agent that built itself! The Minimax Agent looks very cool. Haven’t had a chance to try it yet, too little time, too much to do!",
+      "timestamp": "2026-03-18T19:41:25+00:00",
+      "url": "https://x.com/DeryaTR_/status/2034354507178480013",
+      "images": [],
+      "likes": 7,
+      "retweets": 0,
+      "views": 1574
+    },
+    {
+      "id": "2034353376939614719",
+      "username": "mitchellh",
+      "text": "Excited to share that I've joined Vercel's Board of Directors. Vercel is made up of builders and tastemakers that continually ship things that deeply impact how developers work: Next.js, AI SDK, v0, etc. I can't think of a more exciting place to be. Let's fucking ship. ▲\n\nMy https://t.co/dTtmnJcSTq",
+      "timestamp": "2026-03-18T19:36:56+00:00",
+      "url": "https://x.com/mitchellh/status/2034353376939614719",
+      "images": [
+        "https://pbs.twimg.com/media/HDt5dz5aMAAvASx.jpg"
+      ],
+      "likes": 184,
+      "retweets": 7,
+      "views": 3646
+    },
+    {
+      "id": "2034351916097106424",
+      "username": "ollama",
+      "text": "MiniMax-M2.7 is now available on Ollama's cloud. \n\nmade for coding and agentic tasks  \n \n🖥️ Try it inside Claude Code: \nollama launch claude --model minimax-m2.7:cloud\n\n🦞 Use it with OpenClaw: \nollama launch openclaw --model minimax-m2.7:cloud\n\nIf you already have OpenClaw",
+      "timestamp": "2026-03-18T19:31:07+00:00",
+      "url": "https://x.com/ollama/status/2034351916097106424",
+      "images": [],
+      "likes": 83,
+      "retweets": 12,
+      "views": 4545
+    },
+    {
+      "id": "2034347641740337653",
+      "username": "OfficialLoganK",
+      "text": "Tomorrow we will unveil the all new vibe coding experience in @GoogleAIStudio, the team has spent 4 months rebuilding it all from scratch and smoothing out rough edges to help everyone bring their ideas to life.\n\nThis is a big step forward, but just the start : )",
+      "timestamp": "2026-03-18T19:14:08+00:00",
+      "url": "https://x.com/OfficialLoganK/status/2034347641740337653",
+      "images": [],
+      "likes": 1033,
+      "retweets": 59,
+      "views": 26115
+    },
+    {
+      "id": "2034344086174376283",
+      "username": "NVIDIAAI",
+      "text": "The Physical AI era is changing how networks are built.\n\nDiscover how NVIDIA Aerial Omniverse Digital Twin (AODT) empowers developers to simulate, train, and optimize wireless systems with physics-accurate precision—before a single change touches the live network.\n\nThe platform https://t.co/bIOJl4LrNC",
+      "timestamp": "2026-03-18T19:00:01+00:00",
+      "url": "https://x.com/NVIDIAAI/status/2034344086174376283",
+      "images": [],
+      "likes": 26,
+      "retweets": 3,
+      "views": 1410
+    },
+    {
+      "id": "2034339053857108460",
+      "username": "dylan522p",
+      "text": "I'm the author of the first chapter in the book, \"Teaching Sand to Think\"\nJulia kicked ass with this book, it's visually stunning and has so many awesome contributors",
+      "timestamp": "2026-03-18T18:40:01+00:00",
+      "url": "https://x.com/dylan522p/status/2034339053857108460",
+      "images": [],
+      "likes": 280,
+      "retweets": 20,
+      "views": 19950
+    },
+    {
+      "id": "2034337527293944228",
+      "username": "GoogleLabs",
+      "text": "Introducing the new @stitchbygoogle, Google’s vibe design platform that transforms natural language into high-fidelity designs in one seamless flow.\n\n🎨Create with a smarter design agent: Describe a new business concept or app vision and see it take shape on an AI-native canvas. https://t.co/RAdkvqC14D",
+      "timestamp": "2026-03-18T18:33:57+00:00",
+      "url": "https://x.com/GoogleLabs/status/2034337527293944228",
+      "images": [],
+      "likes": 730,
+      "retweets": 85,
+      "views": 43821
+    },
+    {
+      "id": "2034335579500859759",
+      "username": "giffmana",
+      "text": "I think this is good. Before replying with \"but ...\" do read their blogpost, they did take a lot of care here to avoid false positives.\n\nSadly, these hundreds of people are only the most egregiously careless ones. Sad reckoning for the community.",
+      "timestamp": "2026-03-18T18:26:12+00:00",
+      "url": "https://x.com/giffmana/status/2034335579500859759",
+      "images": [],
+      "likes": 53,
+      "retweets": 0,
+      "views": 5237
+    },
+    {
+      "id": "2034334407754985848",
+      "username": "NVIDIARobotics",
+      "text": "POV: You get the full robotics experience at #NVIDIAGTC. 🤖 https://t.co/dgbtNEnnwE",
+      "timestamp": "2026-03-18T18:21:33+00:00",
+      "url": "https://x.com/NVIDIARobotics/status/2034334407754985848",
+      "images": [],
+      "likes": 36,
+      "retweets": 9,
+      "views": 5417
+    },
+    {
+      "id": "2034332776988569764",
+      "username": "_akhaliq",
+      "text": "Hugging Face Papers for AI Agents\n\nWhen AI agents such as Cursor or Claude Code fetch a Hugging Face Papers page, Markdown versions are served automatically, saving tokens and improving efficiency\n\nA new hugging-face-paper-pages skill for AI agents lets agents search papers by https://t.co/GHBzrVUwPa",
+      "timestamp": "2026-03-18T18:15:04+00:00",
+      "url": "https://x.com/_akhaliq/status/2034332776988569764",
+      "images": [
+        "https://pbs.twimg.com/media/HDtmvpHWoAAIXOe.jpg"
+      ],
+      "likes": 8,
+      "retweets": 2,
+      "views": 1867
+    },
+    {
+      "id": "2034331932071203066",
+      "username": "_akhaliq",
+      "text": "V-Co\n\nA Closer Look at Visual Representation Alignment via Co-Denoising\n\npaper: https://t.co/yFmatjr2xS https://t.co/e9XqEsUmi5",
+      "timestamp": "2026-03-18T18:11:43+00:00",
+      "url": "https://x.com/_akhaliq/status/2034331932071203066",
+      "images": [
+        "https://pbs.twimg.com/media/HDtmDHAaUAAicyt.jpg"
+      ],
+      "likes": 11,
+      "retweets": 4,
+      "views": 1975
+    },
+    {
+      "id": "2034330911039447098",
+      "username": "Miles_Brundage",
+      "text": "What say you, frontier AI companies https://t.co/06ewwLLqBw https://t.co/9izv5VFZ0V",
+      "timestamp": "2026-03-18T18:07:39+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2034330911039447098",
+      "images": [],
+      "likes": 2,
+      "retweets": 0,
+      "views": 855
+    },
+    {
+      "id": "2034327250544291973",
+      "username": "julien_c",
+      "text": "Ok training complete, it's exporting! https://t.co/d20DWjbesQ",
+      "timestamp": "2026-03-18T17:53:07+00:00",
+      "url": "https://x.com/julien_c/status/2034327250544291973",
+      "images": [
+        "https://pbs.twimg.com/media/HDth2ODaEAA3ckw.jpg"
+      ],
+      "likes": 34,
+      "retweets": 2,
+      "views": 3213
+    },
+    {
+      "id": "2034323479030575577",
+      "username": "NVIDIARobotics",
+      "text": "Join us live. 👋",
+      "timestamp": "2026-03-18T17:38:07+00:00",
+      "url": "https://x.com/NVIDIARobotics/status/2034323479030575577",
+      "images": [],
+      "likes": 5,
+      "retweets": 0,
+      "views": 2323
+    },
+    {
+      "id": "2034318807871672464",
+      "username": "julien_c",
+      "text": "OK it's training!!!\n\n(A100 80GB, there was no H100 available on Colab Pro)\n\nYay @UnslothAI Studio https://t.co/AMpUHT6JKP",
+      "timestamp": "2026-03-18T17:19:34+00:00",
+      "url": "https://x.com/julien_c/status/2034318807871672464",
+      "images": [
+        "https://pbs.twimg.com/media/HDtaDbLaUAAUG_m.jpg"
+      ],
+      "likes": 48,
+      "retweets": 5,
+      "views": 8541
+    },
+    {
+      "id": "2034318103291855171",
+      "username": "googledevs",
+      "text": "New Gemini API tooling capabilities are here, enabling devs to combine custom function calling and built-in tools (such as Google Search) in a single API call ✨\n\nStart building with:\n\n+ Hybrid tool usage (Built-in + Custom)\n+ Cross-tool context circulation\n+ Tool response IDs https://t.co/Yzp3SMByFF",
+      "timestamp": "2026-03-18T17:16:46+00:00",
+      "url": "https://x.com/googledevs/status/2034318103291855171",
+      "images": [
+        "https://pbs.twimg.com/media/HDtZQV-aUAAm7dk.jpg"
+      ],
+      "likes": 101,
+      "retweets": 16,
+      "views": 5893
+    },
+    {
+      "id": "2034317760327569693",
+      "username": "osanseviero",
+      "text": "Bunch of Gemini API improvements rolled out to improve agentic development \n\n1. You can ground with Google Maps with Gemini 3\n2. Built-in tools (search and url context) work with your custom functions\n3. Context circulation\n4. Tool response IDs",
+      "timestamp": "2026-03-18T17:15:24+00:00",
+      "url": "https://x.com/osanseviero/status/2034317760327569693",
+      "images": [],
+      "likes": 37,
+      "retweets": 2,
+      "views": 2311
+    },
+    {
+      "id": "2034316312516907311",
+      "username": "AravSrinivas",
+      "text": "Comet iOS is finally ready. Thanks for those who waited patiently for it. Appreciate your support! \n\nApp Store: https://t.co/ZtjfpM0G3z https://t.co/KqrHb00d8j",
+      "timestamp": "2026-03-18T17:09:39+00:00",
+      "url": "https://x.com/AravSrinivas/status/2034316312516907311",
+      "images": [],
+      "likes": 574,
+      "retweets": 38,
+      "views": 28766
+    },
+    {
+      "id": "2034316062687383819",
+      "username": "NVIDIARobotics",
+      "text": "NVIDIA GTC Developer Community Livestream https://t.co/KNGWjR0y32",
+      "timestamp": "2026-03-18T17:08:39+00:00",
+      "url": "https://x.com/NVIDIARobotics/status/2034316062687383819",
+      "images": [],
+      "likes": 9,
+      "retweets": 3,
+      "views": 3191
+    },
+    {
+      "id": "2034316004210225479",
+      "username": "Austen",
+      "text": "Surely someone has built this:\n\nWhere’s the API that is connected to all of the AI providers and lets me charge per token with a markup?",
+      "timestamp": "2026-03-18T17:08:25+00:00",
+      "url": "https://x.com/Austen/status/2034316004210225479",
+      "images": [],
+      "likes": 72,
+      "retweets": 4,
+      "views": 19366
+    },
+    {
+      "id": "2034315813105103082",
+      "username": "perplexity_ai",
+      "text": "Comet is now available for iOS.\n\nDownload on the App Store: https://t.co/JCfCIO3Fdw https://t.co/DitCKlmg65",
+      "timestamp": "2026-03-18T17:07:40+00:00",
+      "url": "https://x.com/perplexity_ai/status/2034315813105103082",
+      "images": [],
+      "likes": 495,
+      "retweets": 58,
+      "views": 41346
+    },
+    {
+      "id": "2034315601665986877",
+      "username": "natolambert",
+      "text": "Recording the first lecture of an RLHF Book course I'm making. Things are coming together! Like and subscribe?",
+      "timestamp": "2026-03-18T17:06:49+00:00",
+      "url": "https://x.com/natolambert/status/2034315601665986877",
+      "images": [],
+      "likes": 112,
+      "retweets": 4,
+      "views": 3713
+    },
+    {
+      "id": "2034315401438580953",
+      "username": "OpenAI",
+      "text": "Are you up for a challenge? \n\nhttps://t.co/GNryIDhnut https://t.co/ZX7ZiuhGgu",
+      "timestamp": "2026-03-18T17:06:02+00:00",
+      "url": "https://x.com/OpenAI/status/2034315401438580953",
+      "images": [],
+      "likes": 1985,
+      "retweets": 129,
+      "views": 236401
+    },
+    {
+      "id": "2034314027678192114",
+      "username": "AndrewYNg",
+      "text": "New course: Agent Memory: Building Memory-Aware Agents, built in partnership with @Oracle and taught by  @richmondalake and Nacho Martínez.\n\nMany agents work well within a single session but their memory resets once the session ends. Consider a research agent working on dozens of https://t.co/dV7azZvNQn",
+      "timestamp": "2026-03-18T17:00:34+00:00",
+      "url": "https://x.com/AndrewYNg/status/2034314027678192114",
+      "images": [],
+      "likes": 483,
+      "retweets": 71,
+      "views": 30781
+    },
+    {
+      "id": "2034312534916751775",
+      "username": "DeryaTR_",
+      "text": "All I can say is this is an amazing BioAI tool! \n\nCurrent revenue for all peptide therapeutics combined is estimated at over USD $100 billion! Better peptides could greatly reduce the cost of these drugs and also expand the market through much greater use! https://t.co/x587lS2kUF",
+      "timestamp": "2026-03-18T16:54:38+00:00",
+      "url": "https://x.com/DeryaTR_/status/2034312534916751775",
+      "images": [
+        "https://pbs.twimg.com/media/HDtUd_CbYAAyeQj.jpg"
+      ],
+      "likes": 32,
+      "retweets": 3,
+      "views": 5213
+    },
+    {
+      "id": "2034091026953212378",
+      "username": "Miles_Brundage",
+      "text": "Just because you're a millionaire AI researcher/engineer doesn't mean you're not also a pawn of one billionaire in their game against another... \n\nUse the influence you have on your billionaire while it lasts",
+      "timestamp": "2026-03-18T02:14:27+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2034091026953212378",
+      "images": [],
+      "likes": 157,
+      "retweets": 9,
+      "views": 8659
+    },
+    {
+      "id": "2033755921092854086",
+      "username": "Austen",
+      "text": "Your reminder that Gauntlet has _extremely_ effective AI corporate training.\n\nGive us a week or two and we can get the entire company maxing out on AI.\n\nFor small teams we fly everyone to Austin and handle flights + housing + food.\n\nFor bigger teams we can come to you.",
+      "timestamp": "2026-03-17T04:02:51+00:00",
+      "url": "https://x.com/Austen/status/2033755921092854086",
+      "images": [],
+      "likes": 96,
+      "retweets": 3,
+      "views": 18561
     }
   ]
 }
