@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-18T09:10:49.434902",
+  "scraped_at": "2026-03-18T11:43:47.420837",
   "date": "2026-03-18",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 65,
-  "account_count": 33,
+  "tweet_count": 73,
+  "account_count": 37,
   "tweets": [
     {
       "id": "2033959257196966360",
@@ -743,6 +743,98 @@
       "likes": 95,
       "retweets": 16,
       "views": 15673
+    },
+    {
+      "id": "2034101795161604508",
+      "username": "DeryaTR_",
+      "text": "What a uniquely great idea for a conference! I’ll start working on a bunch of SKILL.md files to submit, this should be a lot of fun 🤩 Is there limit how many we can submit? This should also be an incredible resource for science AI agent skills!",
+      "timestamp": "2026-03-18T02:57:14+00:00",
+      "url": "https://x.com/DeryaTR_/status/2034101795161604508",
+      "images": [],
+      "likes": 6,
+      "retweets": 1,
+      "views": 1815
+    },
+    {
+      "id": "2034097948506918918",
+      "username": "Miles_Brundage",
+      "text": "? Big if true, but very sparse info here https://t.co/bMho7jmYyo",
+      "timestamp": "2026-03-18T02:41:57+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2034097948506918918",
+      "images": [],
+      "likes": 1,
+      "retweets": 0,
+      "views": 1471
+    },
+    {
+      "id": "2034094937428660605",
+      "username": "shaneguML",
+      "text": "Japan has the highest number of Kaggler Grandmasters (3-4x per capita vs the US). I got high expectations for those Kagglers. https://t.co/7HshM2Pl1f",
+      "timestamp": "2026-03-18T02:29:59+00:00",
+      "url": "https://x.com/shaneguML/status/2034094937428660605",
+      "images": [
+        "https://pbs.twimg.com/media/HDqOkIfbYAE-JyD.jpg"
+      ],
+      "likes": 24,
+      "retweets": 1,
+      "views": 2913
+    },
+    {
+      "id": "2034093460353945987",
+      "username": "DeryaTR_",
+      "text": "Today's @NotebookLM video titled \"Anticipation Engine\" explores how dopamine acts as a biological trigger for anticipation rather than lasting satisfaction, often fueling chronic procrastination. It's so good that you'll actually be able to focus, despite your dopamine needs😄 https://t.co/3UZSeCxE8a",
+      "timestamp": "2026-03-18T02:24:07+00:00",
+      "url": "https://x.com/DeryaTR_/status/2034093460353945987",
+      "images": [],
+      "likes": 16,
+      "retweets": 1,
+      "views": 2019
+    },
+    {
+      "id": "2034088726997893168",
+      "username": "rasbt",
+      "text": "Oh wow, Mamba-3 is here! \nFor me, the most interesting use case of Mamba and Mamba-likes are the recent transformer attention hybrid architectures (Qwen3.5, Kimi Linear, etc.)\nWould be interesting to swap Gated DeltaNet with Mamba-3 (which now also has RoPE) in next gen hybrids. https://t.co/wcTg0uZ3gg",
+      "timestamp": "2026-03-18T02:05:18+00:00",
+      "url": "https://x.com/rasbt/status/2034088726997893168",
+      "images": [
+        "https://pbs.twimg.com/media/HDqIdZUXwAAGe3c.jpg"
+      ],
+      "likes": 199,
+      "retweets": 24,
+      "views": 10336
+    },
+    {
+      "id": "2034082872458719604",
+      "username": "thsottiaux",
+      "text": "Yesterday we launched subagents in Codex. Today we released GPT-5.4-Mini, which is SoTA in its category. Coincidence or genius move?",
+      "timestamp": "2026-03-18T01:42:02+00:00",
+      "url": "https://x.com/thsottiaux/status/2034082872458719604",
+      "images": [],
+      "likes": 626,
+      "retweets": 14,
+      "views": 17813
+    },
+    {
+      "id": "2033702803760370116",
+      "username": "Miles_Brundage",
+      "text": "Glad to hear if true (easier to say you're going to do it than do it) - as I've discussed before, launching too many products results in spreading safety + security talent and executive attention too thin https://t.co/AS6YQYRVjd",
+      "timestamp": "2026-03-17T00:31:47+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2033702803760370116",
+      "images": [],
+      "likes": 43,
+      "retweets": 2,
+      "views": 7225
+    },
+    {
+      "id": "2033589167905734668",
+      "username": "OpenAI",
+      "text": "AI is starting to help solve real issues in healthcare for patients and doctors.\n\nOpenAI’s Head of Health Dr. Nate Gross and Health AI Research Lead Karan Singhal join @AndrewMayne to discuss how we're building new models and products to meet the world's health needs. https://t.co/UTsSCAqVyt",
+      "timestamp": "2026-03-16T17:00:14+00:00",
+      "url": "https://x.com/OpenAI/status/2033589167905734668",
+      "images": [],
+      "likes": 1059,
+      "retweets": 92,
+      "views": 139782
     }
   ]
 }
