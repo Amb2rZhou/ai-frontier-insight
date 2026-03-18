@@ -400,6 +400,220 @@
           68
         ]
       }
+    ],
+    "2026-03-18": [
+      {
+        "title": "OpenAI Releases GPT-5.4 mini and nano for Coding and Agent Workloads",
+        "signal_text": "OpenAI 正式发布 GPT-5.4 mini 和 nano，这是 GPT-5.4 的轻量级版本，专门针对编码、工具调用、多模态推理以及高吞吐量的 API 和子代理工作负载进行了优化。微软 Azure 也同步宣布在 Microsoft Foundry 中提供这两个新模型。",
+        "signal_strength": 0.9,
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano"
+          },
+          {
+            "name": "@Azure on X",
+            "url": "https://x.com/Azure/status/2034019491256942752"
+          }
+        ],
+        "tags": [
+          "技术突破",
+          "头部公司战略动作",
+          "Agent 与新交互范式"
+        ],
+        "raw_item_indices": [
+          47,
+          109
+        ]
+      },
+      {
+        "title": "Meta Deploys Autonomous AI Agent for Ads Ranking Model Development",
+        "signal_text": "Meta 工程博客披露其内部已部署名为“Ranking Engineer Agent (REA)”的自主 AI 智能体，用于加速广告排名模型的端到端机器学习生命周期，包括自主生成假设、启动训练任务、调试失败和迭代模型。这标志着头部公司在核心业务中大规模应用 AI Agent 的实质性进展。",
+        "signal_strength": 0.85,
+        "sources": [
+          {
+            "name": "Meta Engineering Blog",
+            "url": "https://engineering.fb.com/2026/03/17/developer-tools/ranking-engineer-agent-rea-autonomous-ai-system-accelerating-meta-ads-ranking-innovation/"
+          }
+        ],
+        "tags": [
+          "Agent 与新交互范式",
+          "头部公司战略动作",
+          "技术突破"
+        ],
+        "raw_item_indices": [
+          26
+        ]
+      },
+      {
+        "title": "Mistral Launches ‘Forge’ Platform for Enterprise Custom Model Training",
+        "signal_text": "Mistral AI 发布企业级模型训练平台“Forge”，允许企业使用自己的专有数据从头开始构建、定制和持续改进 AI 模型。此举旨在挑战依赖微调和检索增强方法的竞争对手，为企业提供“构建自己的 AI”的能力。",
+        "signal_strength": 0.8,
+        "sources": [
+          {
+            "name": "Mistral.ai News",
+            "url": "https://mistral.ai/news/forge"
+          },
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/"
+          }
+        ],
+        "tags": [
+          "头部公司战略动作",
+          "开源生态",
+          "技术突破"
+        ],
+        "raw_item_indices": [
+          16,
+          17,
+          18
+        ]
+      },
+      {
+        "title": "Unsloth AI Releases Open-Source Web UI for Fast Local LLM Training",
+        "signal_text": "Unsloth AI 发布开源 Web UI “Unsloth Studio”，支持在 Mac、Windows、Linux 上本地运行和训练 500 多个模型，宣称训练速度提升 2 倍且 VRAM 占用减少 70%。该工具旨在降低 LLM 微调门槛，获得了社区极高关注（发布推文获 1600+ likes, 84k+ views）。",
+        "signal_strength": 0.8,
+        "sources": [
+          {
+            "name": "@UnslothAI on X",
+            "url": "https://x.com/UnslothAI/status/2033926272481718523"
+          }
+        ],
+        "tags": [
+          "开源生态",
+          "技术突破",
+          "AI 基础设施"
+        ],
+        "raw_item_indices": [
+          100
+        ]
+      },
+      {
+        "title": "Google DeepMind Launches AGI Cognitive Framework Hackathon with $200K Prizes",
+        "signal_text": "Google DeepMind 联合 Kaggle 发起全球黑客马拉松，旨在基于其新提出的 AGI 认知能力评估框架构建新的评测基准，总奖金达 20 万美元。此举旨在推动建立更科学的 AGI 进展衡量标准，并引发社区广泛参与（相关推文获 100+ likes）。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "@GoogleDeepMind on X",
+            "url": "https://x.com/GoogleDeepMind/status/2034014385941975298"
+          },
+          {
+            "name": "@OfficialLoganK on X",
+            "url": "https://x.com/OfficialLoganK/status/2033978254344786351"
+          }
+        ],
+        "tags": [
+          "技术突破",
+          "头部公司战略动作",
+          "开源生态"
+        ],
+        "raw_item_indices": [
+          111,
+          112,
+          123
+        ]
+      },
+      {
+        "title": "Ollama Integrates Web Search/Fetch into OpenClaw Ecosystem",
+        "signal_text": "Ollama 发布 v0.18.1 版本，为 OpenClaw 生态系统带来了原生的网页搜索和内容抓取插件。这使得基于 Ollama（本地或云端）模型的 OpenClaw 智能体能够获取最新网络信息和新闻，显著增强了开源 Agent 的信息获取能力（相关公告推文获 600+ likes）。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "@ollama on X",
+            "url": "https://x.com/ollama/status/2033993519459889505"
+          },
+          {
+            "name": "GitHub Release",
+            "url": "https://github.com/ollama/ollama/releases/tag/v0.18.1"
+          }
+        ],
+        "tags": [
+          "开源生态",
+          "Agent 与新交互范式",
+          "搜索与推荐"
+        ],
+        "raw_item_indices": [
+          118,
+          157
+        ]
+      },
+      {
+        "title": "NVIDIA Unveils AI Grid Strategy with Telecom Giants for Distributed Inference",
+        "signal_text": "NVIDIA 宣布与 AT&T、T-Mobile、Comcast 等电信巨头合作构建“AI 网格”，旨在利用分布式网络优化 AI 推理。同时，PersonalAI、ServeRobotics 等公司正在该基础设施上部署应用，标志着 AI 计算向网络边缘扩展的重要战略。",
+        "signal_strength": 0.7,
+        "sources": [
+          {
+            "name": "@NVIDIAAI on X",
+            "url": "https://x.com/NVIDIAAI/status/2033987159867461746"
+          }
+        ],
+        "tags": [
+          "头部公司战略动作",
+          "技术突破",
+          "AI 基础设施"
+        ],
+        "raw_item_indices": [
+          119
+        ]
+      },
+      {
+        "title": "Research: Visual Distraction Undermines Moral Reasoning in Vision-Language Models",
+        "signal_text": "一项新研究（作者团队包括 Weijun Hong 等）发现，视觉干扰会显著破坏多模态大模型的道德推理能力。研究表明，当前的安全对齐技术在多模态场景下存在脆弱性，当模型处理包含分散注意力的视觉元素的输入时，其遵循道德准则的能力会下降。这对构建安全的具身智能体和多模态应用提出了新挑战。",
+        "signal_strength": 0.7,
+        "sources": [
+          {
+            "name": "Arxiv Paper",
+            "url": "http://arxiv.org/abs/2603.16445v1"
+          }
+        ],
+        "tags": [
+          "内容安全与治理",
+          "技术突破",
+          "多模态理解"
+        ],
+        "raw_item_indices": [
+          161
+        ]
+      },
+      {
+        "title": "Pentagon Plans Secure Environments for AI Companies to Train on Classified Data",
+        "signal_text": "据《MIT 技术评论》报道，美国国防部正计划建立安全环境，供生成式 AI 公司在机密数据上训练军事专用版本的模型。此举表明军方正在积极推动将前沿 AI 技术深度整合到国防体系中，同时也引发了关于 AI 公司与军方合作界限的持续争议。",
+        "signal_strength": 0.7,
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/"
+          }
+        ],
+        "tags": [
+          "行业风险与监管",
+          "头部公司战略动作",
+          "内容安全与治理"
+        ],
+        "raw_item_indices": [
+          8
+        ]
+      },
+      {
+        "title": "Box Releases Official CLI, Enabling Cloud File System for AI Agents",
+        "signal_text": "Box 发布官方命令行工具，现已支持通过 Claude Code、Codex、Perplexity Computer、OpenClaw 等 AI 智能体平台将其作为完整的云端文件系统使用。该功能对所有用户开放，免费用户可获得 10GB 存储，为 AI Agent 提供了标准化的企业级文件操作接口。",
+        "signal_strength": 0.65,
+        "sources": [
+          {
+            "name": "@levie (Box CEO) on X",
+            "url": "https://x.com/levie/status/2034023235654980049"
+          }
+        ],
+        "tags": [
+          "Agent 与新交互范式",
+          "头部公司战略动作",
+          "开源生态"
+        ],
+        "raw_item_indices": [
+          103
+        ]
+      }
     ]
   },
   "archived_weeks": [
