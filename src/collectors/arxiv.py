@@ -1,111 +1,100 @@
-"""Arxiv paper collector.
+"""Paper collector — HuggingFace Daily Papers.
 
-Uses the Arxiv API to fetch recent papers by category.
-Returns richer metadata than RSS (authors, categories, full abstract).
+Uses the HuggingFace Daily Papers API to fetch community-curated trending
+papers. This replaces the raw Arxiv API as the primary paper source, providing
+much higher signal-to-noise ratio through community upvoting.
 
-API docs: https://info.arxiv.org/help/api/user-manual.html
+API: https://huggingface.co/api/daily_papers
 """
 
-import time
-import xml.etree.ElementTree as ET
+import json
+import subprocess
 from datetime import datetime, timedelta
-from typing import List
-
-import requests
+from typing import List, Optional
+from zoneinfo import ZoneInfo
 
 from .base import BaseCollector, RawItem
-from ..utils.config import load_sources
-from ..utils.http import robust_get
+from ..utils.config import load_sources, get_timezone
 
-ARXIV_API = "http://export.arxiv.org/api/query"
-ARXIV_NS = {
-    "atom": "http://www.w3.org/2005/Atom",
-    "arxiv": "http://arxiv.org/schemas/atom",
-}
+HF_PAPERS_API = "https://huggingface.co/api/daily_papers"
+MIN_UPVOTES = 5  # Only include papers with >= this many upvotes
 
 
-def _fetch_arxiv(categories: List[str], max_results: int = 50,
-                  sort_by: str = "submittedDate") -> List[dict]:
-    """Fetch papers from Arxiv API.
+def _curl_json(url: str, timeout: int = 30) -> Optional[list]:
+    """Fetch JSON via curl subprocess."""
+    cmd = [
+        "/usr/bin/curl", "-sS", "--max-time", str(timeout), "-L",
+        "-H", "User-Agent: AI-Frontier-Insight-Bot/1.0",
+        url,
+    ]
+    try:
+        result = subprocess.run(cmd, capture_output=True, text=True, timeout=timeout + 10)
+        if result.returncode != 0:
+            print(f"  Papers: curl failed: {result.stderr.strip()}")
+            return None
+        return json.loads(result.stdout)
+    except (subprocess.TimeoutExpired, json.JSONDecodeError) as e:
+        print(f"  Papers: fetch error: {e}")
+        return None
+
+
+def _fetch_hf_daily_papers(date_str: Optional[str] = None) -> List[dict]:
+    """Fetch papers from HuggingFace Daily Papers API.
 
     Args:
-        categories: List of Arxiv categories (e.g. ["cs.AI", "cs.CL"])
-        max_results: Maximum papers to return
-        sort_by: "submittedDate" or "lastUpdatedDate" or "relevance"
+        date_str: Optional date string (YYYY-MM-DD). If None, fetches today's.
+
+    Returns:
+        List of paper dicts sorted by upvotes descending.
     """
-    # Build category query: cat:cs.AI OR cat:cs.CL OR ...
-    # Use spaces (not +) — requests.get(params=) handles URL encoding
-    cat_query = " OR ".join(f"cat:{cat}" for cat in categories)
+    url = HF_PAPERS_API
+    if date_str:
+        url += f"?date={date_str}"
 
-    # Add date filter for last 3 days (Arxiv has submission delays)
-    three_days_ago = (datetime.utcnow() - timedelta(days=3)).strftime("%Y%m%d") + "000000"
-    today = datetime.utcnow().strftime("%Y%m%d") + "235959"
-    date_filter = f" AND submittedDate:[{three_days_ago} TO {today}]"
+    data = _curl_json(url)
+    if not data or not isinstance(data, list):
+        return []
 
-    params = {
-        "search_query": cat_query + date_filter,
-        "start": 0,
-        "max_results": max_results,
-        "sortBy": sort_by,
-        "sortOrder": "descending",
-    }
-
-    resp = robust_get(ARXIV_API, params=params, timeout=30)
-    resp.raise_for_status()
-
-    root = ET.fromstring(resp.text)
     papers = []
+    for item in data:
+        paper = item.get("paper", item)
+        upvotes = paper.get("upvotes", 0)
 
-    for entry in root.findall("atom:entry", ARXIV_NS):
-        paper_id_el = entry.find("atom:id", ARXIV_NS)
-        title_el = entry.find("atom:title", ARXIV_NS)
-        summary_el = entry.find("atom:summary", ARXIV_NS)
-        published_el = entry.find("atom:published", ARXIV_NS)
-
-        if paper_id_el is None or title_el is None:
+        # Quality filter: skip low-upvote papers
+        if upvotes < MIN_UPVOTES:
             continue
 
-        paper_id = paper_id_el.text.strip()
-        title = title_el.text.strip().replace("\n", " ")
-        summary = summary_el.text.strip() if summary_el is not None else ""
-        published = published_el.text.strip() if published_el is not None else ""
+        arxiv_id = paper.get("id", "")
+        title = paper.get("title", "").strip()
+        summary = paper.get("summary", "").strip()
+        ai_summary = paper.get("ai_summary", "").strip()
 
-        authors = [
-            a.find("atom:name", ARXIV_NS).text
-            for a in entry.findall("atom:author", ARXIV_NS)
-            if a.find("atom:name", ARXIV_NS) is not None
-        ]
+        authors = [a.get("name", "") for a in paper.get("authors", []) if not a.get("hidden")]
 
-        categories = [
-            c.get("term") for c in entry.findall("atom:category", ARXIV_NS)
-        ]
-
-        # Get PDF link
-        pdf_url = None
-        for link in entry.findall("atom:link", ARXIV_NS):
-            if link.get("title") == "pdf":
-                pdf_url = link.get("href")
-                break
-
-        # Get abstract page link
-        abs_url = paper_id  # The id IS the abstract URL
+        org = paper.get("organization")
+        org_name = org.get("fullname", org.get("name", "")) if org else ""
 
         papers.append({
-            "id": paper_id,
+            "arxiv_id": arxiv_id,
             "title": title,
-            "summary": summary,
+            "summary": ai_summary or summary,  # Prefer AI summary (shorter)
+            "full_abstract": summary,
             "authors": authors,
-            "categories": categories,
-            "published": published,
-            "pdf_url": pdf_url,
-            "abs_url": abs_url,
+            "org": org_name,
+            "upvotes": upvotes,
+            "published": paper.get("publishedAt", ""),
+            "github_repo": paper.get("githubRepo", ""),
+            "github_stars": paper.get("githubStars", 0),
+            "url": f"https://huggingface.co/papers/{arxiv_id}",
         })
 
+    # Sort by upvotes descending
+    papers.sort(key=lambda p: p["upvotes"], reverse=True)
     return papers
 
 
 class ArxivCollector(BaseCollector):
-    """Collects recent AI papers from Arxiv."""
+    """Collects trending AI papers from HuggingFace Daily Papers."""
 
     source_type = "arxiv"
 
@@ -114,88 +103,76 @@ class ArxivCollector(BaseCollector):
         arxiv_config = sources.get("arxiv", {})
 
         if not arxiv_config.get("enabled", False):
-            print("  Arxiv collector disabled")
+            print("  Paper collector disabled")
             return []
 
-        categories = arxiv_config.get("categories", ["cs.AI", "cs.CL", "cs.LG"])
-        max_results = arxiv_config.get("max_results", 50)
-        sort_by = arxiv_config.get("sort_by", "submittedDate")
+        max_results = arxiv_config.get("max_results", 25)
+        print(f"  Papers: fetching HuggingFace Daily Papers...")
 
-        print(f"  Arxiv: fetching from {categories}, max {max_results}...")
+        # Fetch today and yesterday (papers may appear with delay)
+        tz = ZoneInfo(get_timezone())
+        today = datetime.now(tz)
+        yesterday = today - timedelta(days=1)
 
-        papers = []
-        try:
-            papers = _fetch_arxiv(categories, max_results, sort_by)
-        except Exception as e:
-            print(f"  Arxiv API error: {e}")
+        all_papers = []
+        seen_ids = set()
 
-        # Fallback to RSS if API returns nothing
-        if not papers:
-            print("  Arxiv API returned 0 results, falling back to RSS...")
-            papers = self._fetch_via_rss(categories)
+        for date in [today, yesterday]:
+            date_str = date.strftime("%Y-%m-%d")
+            papers = _fetch_hf_daily_papers(date_str)
+            for p in papers:
+                if p["arxiv_id"] not in seen_ids:
+                    seen_ids.add(p["arxiv_id"])
+                    all_papers.append(p)
+
+        # Also fetch without date param (gets latest)
+        papers = _fetch_hf_daily_papers()
+        for p in papers:
+            if p["arxiv_id"] not in seen_ids:
+                seen_ids.add(p["arxiv_id"])
+                all_papers.append(p)
+
+        # Re-sort by upvotes and limit
+        all_papers.sort(key=lambda p: p["upvotes"], reverse=True)
+        all_papers = all_papers[:max_results]
 
         items = []
-        for paper in papers:
-            # Build author string (first 3 + "et al.")
-            authors = paper.get("authors", [])
+        for paper in all_papers:
+            authors = paper["authors"]
             if len(authors) > 3:
                 author_str = ", ".join(authors[:3]) + " et al."
             else:
                 author_str = ", ".join(authors)
 
-            # Truncate abstract for token efficiency
-            summary = paper.get("summary", "")
+            # Build content with key metadata
+            parts = [f"Authors: {author_str}"]
+            if paper["org"]:
+                parts.append(f"Organization: {paper['org']}")
+            parts.append(f"Upvotes: {paper['upvotes']}")
+            if paper["github_stars"]:
+                parts.append(f"GitHub Stars: {paper['github_stars']}")
+
+            summary = paper["summary"]
             if len(summary) > 400:
                 summary = summary[:400] + "..."
+            parts.append(f"Summary: {summary}")
 
             items.append(RawItem(
                 title=paper["title"],
-                content=f"Authors: {author_str}. Abstract: {summary}",
+                content=". ".join(parts),
                 source_type="arxiv",
-                source_name="Arxiv",
-                url=paper.get("abs_url", ""),
-                published=paper.get("published", ""),
+                source_name="HuggingFace Papers",
+                url=paper["url"],
+                published=paper["published"],
                 metadata={
                     "authors": authors,
-                    "categories": paper.get("categories", []),
-                    "pdf_url": paper.get("pdf_url"),
-                    "arxiv_id": paper.get("id", ""),
+                    "org": paper["org"],
+                    "upvotes": paper["upvotes"],
+                    "arxiv_id": paper["arxiv_id"],
+                    "github_repo": paper["github_repo"],
+                    "github_stars": paper["github_stars"],
                 },
             ))
 
-        print(f"  Arxiv: {len(items)} papers fetched")
+        print(f"  Papers: {len(items)} papers (filtered by upvotes >= {MIN_UPVOTES})")
         return items
-
-    @staticmethod
-    def _fetch_via_rss(categories: List[str]) -> List[dict]:
-        """Fallback: fetch papers via Arxiv RSS feed."""
-        import feedparser
-
-        combined = "+".join(categories)
-        feed_url = f"https://rss.arxiv.org/rss/{combined}"
-
-        try:
-            resp = robust_get(feed_url, timeout=30, headers={
-                "User-Agent": "AI-Frontier-Insight-Bot/1.0"
-            })
-            resp.raise_for_status()
-            feed = feedparser.parse(resp.content)
-        except Exception as e:
-            print(f"  Arxiv RSS fallback also failed: {e}")
-            return []
-
-        papers = []
-        for entry in feed.entries:
-            papers.append({
-                "id": entry.get("link", ""),
-                "title": entry.get("title", "").strip(),
-                "summary": entry.get("summary", entry.get("description", "")).strip(),
-                "authors": [],  # RSS doesn't reliably provide authors
-                "categories": categories,
-                "published": "",
-                "pdf_url": None,
-                "abs_url": entry.get("link", ""),
-            })
-
-        print(f"  Arxiv RSS fallback: {len(papers)} papers")
-        return papers
