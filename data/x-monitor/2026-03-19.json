@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-19T18:07:31.687791",
+  "scraped_at": "2026-03-19T21:24:40.196830",
   "date": "2026-03-19",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 121,
-  "account_count": 53,
+  "tweet_count": 126,
+  "account_count": 54,
   "tweets": [
     {
       "id": "2034311911463063658",
@@ -1411,6 +1411,63 @@
       "likes": 303,
       "retweets": 8,
       "views": 37884
+    },
+    {
+      "id": "2034616934671724639",
+      "username": "OpenAINewsroom",
+      "text": "We've reached an agreement to acquire Astral.\n\nAfter we close, OpenAI plans for @astral_sh to join our Codex team, with a continued focus on building great tools and advancing the shared mission of making developers more productive.\n\nhttps://t.co/V0rDo0G8h9",
+      "timestamp": "2026-03-19T13:04:13+00:00",
+      "url": "https://x.com/OpenAINewsroom/status/2034616934671724639",
+      "images": [],
+      "likes": 175,
+      "retweets": 23,
+      "views": 5089
+    },
+    {
+      "id": "2034615334028591149",
+      "username": "DeryaTR_",
+      "text": "I feel this may be one of the top AI product releases! Design is very important to me, my students know well, I’d always be critical of their colors, shapes, and fonts whenever they made presentations. Design matters &amp; now with Stitch from Google, everyone can make it great again",
+      "timestamp": "2026-03-19T12:57:51+00:00",
+      "url": "https://x.com/DeryaTR_/status/2034615334028591149",
+      "images": [],
+      "likes": 13,
+      "retweets": 0,
+      "views": 2056
+    },
+    {
+      "id": "2034601538924982387",
+      "username": "DeryaTR_",
+      "text": "This is great! ECGs were one medical data where AI models were struggling to interpret, in my tests as well, this ECG-GPT will make a huge impact, especially in resource poor areas!",
+      "timestamp": "2026-03-19T12:03:02+00:00",
+      "url": "https://x.com/DeryaTR_/status/2034601538924982387",
+      "images": [],
+      "likes": 36,
+      "retweets": 7,
+      "views": 3940
+    },
+    {
+      "id": "2034270067844866474",
+      "username": "natolambert",
+      "text": "GPT 5.4 didn't get enough praise for how big of a step it was in OpenAI's agent arc. \n\nAt the same time, with better context management, speed, rate limits, instruction following, code -- it's revealing that I still turn to the \"warmth\" of Claude.\nhttps://t.co/rZ777ptEFu",
+      "timestamp": "2026-03-18T14:05:53+00:00",
+      "url": "https://x.com/natolambert/status/2034270067844866474",
+      "images": [],
+      "likes": 292,
+      "retweets": 22,
+      "views": 24837
+    },
+    {
+      "id": "2033902019769938152",
+      "username": "NielsRogge",
+      "text": "Tried the viral poster-skill with Claude Code on the trending Moonshot paper :)\n\nNot too bad! https://t.co/I8lb0aUrbT",
+      "timestamp": "2026-03-17T13:43:24+00:00",
+      "url": "https://x.com/NielsRogge/status/2033902019769938152",
+      "images": [
+        "https://pbs.twimg.com/media/HDnfABbWMAEmkTI.jpg"
+      ],
+      "likes": 80,
+      "retweets": 7,
+      "views": 16114
     }
   ]
 }
