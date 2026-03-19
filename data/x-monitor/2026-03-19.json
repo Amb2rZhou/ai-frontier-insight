@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-19T09:02:37.448131",
+  "scraped_at": "2026-03-19T13:05:09.567194",
   "date": "2026-03-19",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 92,
-  "account_count": 48,
+  "tweet_count": 102,
+  "account_count": 49,
   "tweets": [
     {
       "id": "2034311911463063658",
@@ -1082,6 +1082,120 @@
       "likes": 603,
       "retweets": 62,
       "views": 33632
+    },
+    {
+      "id": "2034484203522261293",
+      "username": "levie",
+      "text": "Had meetings and a dinner with 20+ enterprise AI and IT leaders today. Lots of interesting conversations around the state of AI in large enterprises, especially regulated businesses. \n\nHere are some of general trends:\n\n* Agents are clearly the big thing. Enterprises moving from",
+      "timestamp": "2026-03-19T04:16:47+00:00",
+      "url": "https://x.com/levie/status/2034484203522261293",
+      "images": [],
+      "likes": 97,
+      "retweets": 5,
+      "views": 9372
+    },
+    {
+      "id": "2034481467699683521",
+      "username": "Miles_Brundage",
+      "text": "AI company comms",
+      "timestamp": "2026-03-19T04:05:55+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2034481467699683521",
+      "images": [],
+      "likes": 10,
+      "retweets": 0,
+      "views": 818
+    },
+    {
+      "id": "2034472233221910855",
+      "username": "minchoi",
+      "text": "Google just dropped Stitch.\n\nThis AI agent is now your vibe design partner.\n\n5 wild features 👇 https://t.co/pXTBC0BlM5",
+      "timestamp": "2026-03-19T03:29:13+00:00",
+      "url": "https://x.com/minchoi/status/2034472233221910855",
+      "images": [],
+      "likes": 26,
+      "retweets": 2,
+      "views": 6484
+    },
+    {
+      "id": "2034468631594390015",
+      "username": "emollick",
+      "text": "We need guides through the inevitable bout of AI psychosis that affects professionals after they finally “get” AI. They often engage in intense, sleepless &amp; impossibly complex projects in their area of expertise, with only AI for company. Its usually temporary &amp; can be productive",
+      "timestamp": "2026-03-19T03:14:55+00:00",
+      "url": "https://x.com/emollick/status/2034468631594390015",
+      "images": [],
+      "likes": 176,
+      "retweets": 9,
+      "views": 10110
+    },
+    {
+      "id": "2034468142647222331",
+      "username": "demishassabis",
+      "text": "You can vibe design some incredible interfaces with @stitchbygoogle",
+      "timestamp": "2026-03-19T03:12:58+00:00",
+      "url": "https://x.com/demishassabis/status/2034468142647222331",
+      "images": [],
+      "likes": 537,
+      "retweets": 49,
+      "views": 41498
+    },
+    {
+      "id": "2034459500292219208",
+      "username": "DeryaTR_",
+      "text": "In just two days, using OpenAI Codex app GPT-5.4, I created a fully functional flow cytometry data analysis software, ~20,000 lines of code from scratch! This is a highly sophisticated and specialized biology software tool that every immunologist relies on. The best part is that https://t.co/kx6Xx4mcGB",
+      "timestamp": "2026-03-19T02:38:37+00:00",
+      "url": "https://x.com/DeryaTR_/status/2034459500292219208",
+      "images": [
+        "https://pbs.twimg.com/media/HDvYaYYW8AAJ6R5.jpg"
+      ],
+      "likes": 221,
+      "retweets": 28,
+      "views": 10115
+    },
+    {
+      "id": "2034444997601251729",
+      "username": "Austen",
+      "text": "New Gauntlet AI apply page is up.\n\nTrying to make it more and more clear what it is we actually do 😅\n\nhttps://t.co/UoKHpQsRZp",
+      "timestamp": "2026-03-19T01:41:00+00:00",
+      "url": "https://x.com/Austen/status/2034444997601251729",
+      "images": [],
+      "likes": 17,
+      "retweets": 0,
+      "views": 2959
+    },
+    {
+      "id": "2034441522330898532",
+      "username": "DeryaTR_",
+      "text": "This is the summary of the age of AI: \n\n“we are now witnessing the golden age of creation.”",
+      "timestamp": "2026-03-19T01:27:11+00:00",
+      "url": "https://x.com/DeryaTR_/status/2034441522330898532",
+      "images": [],
+      "likes": 34,
+      "retweets": 2,
+      "views": 5120
+    },
+    {
+      "id": "2034396673951019208",
+      "username": "Austen",
+      "text": "Amazing. \n\nXcode in the Mac OS beta does indeed have both Ahthropic/Claude and OpenAI/Codex built directly into Xcode.\n\nBut youhave to authorize it when you want it to run a shell command.\n\nFor every individual command.\n\nOne command at a time. \n\nOne model at a time. https://t.co/EeTHO2H8Z8",
+      "timestamp": "2026-03-18T22:28:58+00:00",
+      "url": "https://x.com/Austen/status/2034396673951019208",
+      "images": [
+        "https://pbs.twimg.com/media/HDugoPRW0AA8g_6.jpg"
+      ],
+      "likes": 44,
+      "retweets": 3,
+      "views": 5201
+    },
+    {
+      "id": "2034395287197020280",
+      "username": "Austen",
+      "text": "AI Agent: \"We're all set and you're totally ready, the app is working and fully ready for production.\"\n\nMe: \"OK, what else do you think would make the app better?\"\n\nAI Agent: \"Well, I completely faked the backend so no data will persist. Would you like me to build a backend?\"",
+      "timestamp": "2026-03-18T22:23:28+00:00",
+      "url": "https://x.com/Austen/status/2034395287197020280",
+      "images": [],
+      "likes": 1238,
+      "retweets": 34,
+      "views": 30155
     }
   ]
 }
