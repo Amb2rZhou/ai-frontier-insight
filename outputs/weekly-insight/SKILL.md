@@ -114,6 +114,8 @@ Write it like an essay, not a form. The structure below is a guideline, not a st
 ```
 # AI Frontier Weekly Insight
 
+# W{周数}：[根据内容取的标题——不要用通用标题如"AI Frontier Weekly Insight"，要用一句能概括本周核心判断的短标题，例如"W12：从模型竞赛到栖息地之争""W11：安全评估的可信度危机"]
+
 **主题：** [Your thesis — one sentence]
 **类型：** [Post-hoc tag, freely generated based on content — not limited to fixed categories]
 **日期：** YYYY.MM.DD - YYYY.MM.DD
