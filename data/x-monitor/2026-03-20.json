@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-20T11:02:23.656676",
+  "scraped_at": "2026-03-20T15:06:45.326373",
   "date": "2026-03-20",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 103,
-  "account_count": 46,
+  "tweet_count": 108,
+  "account_count": 49,
   "tweets": [
     {
       "id": "2034666637983396022",
@@ -1192,6 +1192,61 @@
       "likes": 58,
       "retweets": 8,
       "views": 10062
+    },
+    {
+      "id": "2034881621111832635",
+      "username": "saranormous",
+      "text": "Many tech incumbents are guilty of two sins in the AI era:\n1. stack fallacy - assumption they have all the “ingredients” so we can compete (but system sucks)\n2. too slow to realize talent they have != talent they need, until they’ve lost market cap necessary to make",
+      "timestamp": "2026-03-20T06:35:59+00:00",
+      "url": "https://x.com/saranormous/status/2034881621111832635",
+      "images": [],
+      "likes": 12,
+      "retweets": 1,
+      "views": 1030
+    },
+    {
+      "id": "2034873534774927501",
+      "username": "RisingSayak",
+      "text": "The Claude for OSS gift has been incredibly rewarding so far. Our team has used it so far for:\n\n* Integrating new models into Diffusers (with model integration and parity skills)\n\n* Reproducible workflows to catch issues pertaining to CPU overhead and sync issues and fix them",
+      "timestamp": "2026-03-20T06:03:51+00:00",
+      "url": "https://x.com/RisingSayak/status/2034873534774927501",
+      "images": [],
+      "likes": 14,
+      "retweets": 1,
+      "views": 396
+    },
+    {
+      "id": "2034870418813665438",
+      "username": "emollick",
+      "text": "This turned out to be Xiaomi's MiMo-V2-Pro, and it is fine but not at the frontier. Most interestingly, it is not open weights? This seems to be a trend in frontier Chinese models.",
+      "timestamp": "2026-03-20T05:51:28+00:00",
+      "url": "https://x.com/emollick/status/2034870418813665438",
+      "images": [],
+      "likes": 14,
+      "retweets": 2,
+      "views": 4367
+    },
+    {
+      "id": "2034849624012595628",
+      "username": "Miles_Brundage",
+      "text": "Worst part of the Bernie video was using Sonnet, not sure why folks are so mad about other stuff",
+      "timestamp": "2026-03-20T04:28:50+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2034849624012595628",
+      "images": [],
+      "likes": 21,
+      "retweets": 0,
+      "views": 1855
+    },
+    {
+      "id": "2034833274506281061",
+      "username": "levie",
+      "text": "Without getting into the specific numbers, this underlying concept and trend is going to be very real. For any worker who is able to wield AI agents effectively in an organization, their compute budgets are just going to monotonically go up over time. \n\nThis will of course start",
+      "timestamp": "2026-03-20T03:23:52+00:00",
+      "url": "https://x.com/levie/status/2034833274506281061",
+      "images": [],
+      "likes": 268,
+      "retweets": 25,
+      "views": 72282
     }
   ]
 }
