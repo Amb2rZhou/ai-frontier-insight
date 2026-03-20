@@ -1,66 +1,6 @@
 {
   "predictions": [
     {
-      "date": "2026-03-10T09:33:23.769455+08:00",
-      "prediction_text": "小红书电商、客服等场景的Agent需具备跨功能（内容、商品、交易）的任务分解与执行能力。",
-      "category": "strategic_move",
-      "source_signal": "Microsoft Announces Copilot Cowork with Anthropic for Cross-App AI Agents"
-    },
-    {
-      "date": "2026-03-10T09:33:23.781797+08:00",
-      "prediction_text": "小红书内容创作工具（如脚本生成、视频剪辑）可引入多Agent协作架构，进行质量校验与优化。",
-      "category": "strategic_move",
-      "source_signal": "Anthropic Launches Multi-Agent Code Review for Claude Code"
-    },
-    {
-      "date": "2026-03-10T09:33:23.800037+08:00",
-      "prediction_text": "小红书部署的任何平台级Agent（如导购、客服）都必须前置集成系统化的安全测试与评估流程。",
-      "category": "infrastructure",
-      "source_signal": "OpenAI Acquires Promptfoo to Strengthen AI Security Testing"
-    },
-    {
-      "date": "2026-03-10T09:33:23.813729+08:00",
-      "prediction_text": "小红书自研Agent框架可基于更成熟的开源底座，降低开发门槛，但需应对更激烈的生态竞争。",
-      "category": "ecosystem_shift",
-      "source_signal": "NVIDIA to Launch Open-Source AI Agent Platform"
-    },
-    {
-      "date": "2026-03-10T09:33:23.820460+08:00",
-      "prediction_text": "小红书电商、本地生活服务Agent需实时接入商品、价格、库存等动态业务数据源作为上下文。",
-      "category": "infrastructure",
-      "source_signal": "Andrew Ng Releases Context Hub for Up-to-Date API Docs in Coding Agents"
-    },
-    {
-      "date": "2026-03-10T09:33:23.827815+08:00",
-      "prediction_text": "小红书电商广告、达人营销等场景可探索由Agent驱动的自动化策略制定与执行优化。",
-      "category": "strategic_move",
-      "source_signal": "Perplexity Computer Integrates Claude Code and Can Autonomously Run Ad Campaigns"
-    },
-    {
-      "date": "2026-03-10T09:33:23.833864+08:00",
-      "prediction_text": "小红书的搜索推荐系统需升级为Agentic RAG架构，以处理更复杂的用户意图与多轮交互。",
-      "category": "research_breakthrough",
-      "source_signal": "Research: Agentic RAG Taxonomy and Architectures Survey"
-    },
-    {
-      "date": "2026-03-10T09:33:23.840595+08:00",
-      "prediction_text": "小红书需加速在视频生成与编辑等富媒体AI创作工具上的投入，以应对创作者需求与竞争。",
-      "category": "ecosystem_shift",
-      "source_signal": "a16z Report: Global AI Usage Splintering, Video/Music/Voice Tools Gaining Share"
-    },
-    {
-      "date": "2026-03-10T09:33:23.848614+08:00",
-      "prediction_text": "小红书的搜索推荐与内容理解模型需具备对实时热点、趋势的快速在线学习与适应机制。",
-      "category": "research_breakthrough",
-      "source_signal": "Research: Benchmarking LLM Online Adaptation to Continual Knowledge Streams"
-    },
-    {
-      "date": "2026-03-10T09:33:23.854995+08:00",
-      "prediction_text": "小红书任何具备外部交互能力的Agent（如客服、创作者助手）必须强化输入清洗与指令过滤机制。",
-      "category": "infrastructure",
-      "source_signal": "Community Highlights AI Agent Security Risks via Email Hijacking"
-    },
-    {
       "date": "2026-03-11T09:32:40.692446+08:00",
       "prediction_text": "内容平台在构建AI基础设施时，值得关注非Transformer架构的进展，避免技术栈单一化风险。",
       "category": "strategic_move",
@@ -599,6 +539,66 @@
       "prediction_text": "内容理解与电商商品信息提取团队可以考虑集成先进OCR模型，自动化处理用户上传的图片/文档。",
       "category": "model_release",
       "source_signal": "Baidu's New OCR Model Ranks High on Benchmark"
+    },
+    {
+      "date": "2026-03-20T09:34:13.619503+08:00",
+      "prediction_text": "内容与电商平台的AI产品团队可以考虑通过收购或投资，快速获取垂直领域的Agent构建能力。",
+      "category": "strategic_move",
+      "source_signal": "OpenAI Acquires Code Agent Startup Astral to Boost Codex Team"
+    },
+    {
+      "date": "2026-03-20T09:34:13.630604+08:00",
+      "prediction_text": "社区与内容平台的创作者工具团队值得关注垂直领域模型研发，以打造更贴合场景的AI功能。",
+      "category": "strategic_move",
+      "source_signal": "Cursor Releases Composer 2, In-House Coding Model Surpassing Claude Opus 4.6"
+    },
+    {
+      "date": "2026-03-20T09:34:13.636498+08:00",
+      "prediction_text": "电商与内容平台的内部工具及创新孵化团队可以探索利用类似技术，快速原型化新功能。",
+      "category": "new_product_form",
+      "source_signal": "Google AI Studio Upgrades to Full-Stack Vibe Coding with Backend Support"
+    },
+    {
+      "date": "2026-03-20T09:34:13.642136+08:00",
+      "prediction_text": "搜索与推荐系统团队可以考虑采用类似技术，提升模型对用户历史行为或商品详情等长文本的理解效率。",
+      "category": "research_breakthrough",
+      "source_signal": "Sakana AI Introduces Doc-to-LoRA for Instant Context Internalization"
+    },
+    {
+      "date": "2026-03-20T09:34:13.647742+08:00",
+      "prediction_text": "内容安全与平台治理团队必须为内部及第三方AI Agent设计细粒度、动态的权限管控与审计机制。",
+      "category": "ecosystem_shift",
+      "source_signal": "Meta's Rogue AI Agent Incident Exposes IAM Gaps in Enterprise Security"
+    },
+    {
+      "date": "2026-03-20T09:34:13.655163+08:00",
+      "prediction_text": "内容平台的视觉创作工具可以考虑集成或对标顶尖图像生成模型，提升内容创作丰富度与质量。",
+      "category": "strategic_move",
+      "source_signal": "Microsoft's MAI-Image-2 Ranks Among Top 3 Image Generators"
+    },
+    {
+      "date": "2026-03-20T09:34:13.660832+08:00",
+      "prediction_text": "推荐系统与客户端团队可以探索在端侧部署轻量级Agent，实现低延迟、高隐私的个性化服务。",
+      "category": "research_breakthrough",
+      "source_signal": "Unsloth AI Demonstrates Qwen3.5-4B's Tool Use and Web Search Capabilities"
+    },
+    {
+      "date": "2026-03-20T09:34:13.666486+08:00",
+      "prediction_text": "社区平台的开发者关系团队可以考虑搭建类似低门槛创新平台，激励基于自身API/数据的应用开发。",
+      "category": "ecosystem_shift",
+      "source_signal": "Google and Kaggle Launch Community Hackathons Platform"
+    },
+    {
+      "date": "2026-03-20T09:34:13.673049+08:00",
+      "prediction_text": "AI基础设施团队建议关注并评估SPEED-Bench，以优化自研或托管模型的推理性能与成本。",
+      "category": "infrastructure",
+      "source_signal": "NVIDIA and HuggingFace Introduce SPEED-Bench for Speculative Decoding"
+    },
+    {
+      "date": "2026-03-20T09:34:13.680449+08:00",
+      "prediction_text": "平台在推广内部AI编程工具时，值得关注辅助与教育功能的平衡，避免核心团队能力空心化。",
+      "category": "industry_risk",
+      "source_signal": "Anthropic Research Highlights Potential Downsides of AI Coding Assistance"
     }
   ]
 }
