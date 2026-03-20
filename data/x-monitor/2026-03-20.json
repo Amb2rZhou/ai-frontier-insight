@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-20T08:08:29.049806",
+  "scraped_at": "2026-03-20T11:02:23.656676",
   "date": "2026-03-20",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 94,
-  "account_count": 43,
+  "tweet_count": 103,
+  "account_count": 46,
   "tweets": [
     {
       "id": "2034666637983396022",
@@ -1089,6 +1089,109 @@
       "likes": 48,
       "retweets": 6,
       "views": 4044
+    },
+    {
+      "id": "2034824694805741925",
+      "username": "deliprao",
+      "text": "1) you need a baseline amount of memorization to unlock higher-level generalization. so memorization is not necessarily bad. \n2) yes, memorization can become a crutch and can short-circuit reasoning.\n3) the paper setup is flawed for resource poor settings. as @rabrg shared,",
+      "timestamp": "2026-03-20T02:49:47+00:00",
+      "url": "https://x.com/deliprao/status/2034824694805741925",
+      "images": [],
+      "likes": 0,
+      "retweets": 0,
+      "views": 104
+    },
+    {
+      "id": "2034815493601665145",
+      "username": "deliprao",
+      "text": "I see the utility of such benchmarks in auditing whether LLMs are genuinely reasoning vs pattern matching. That's a real question worth answering. Beyond that, I am not sure why caring about esoteric PL performance matters. I would rather codegen model that scores 90% on Python",
+      "timestamp": "2026-03-20T02:13:13+00:00",
+      "url": "https://x.com/deliprao/status/2034815493601665145",
+      "images": [],
+      "likes": 2,
+      "retweets": 0,
+      "views": 622
+    },
+    {
+      "id": "2034811827004350787",
+      "username": "fchollet",
+      "text": "When the latest AI systems can't do something, there's a category of people who will immediately say, \"well humans can't do it either!\" - Then they stop saying it when AI improves a bit.\n\nBeen hearing it for 4+ years, \"humans can't reason either\", \"humans can't adapt to a task",
+      "timestamp": "2026-03-20T01:58:39+00:00",
+      "url": "https://x.com/fchollet/status/2034811827004350787",
+      "images": [],
+      "likes": 85,
+      "retweets": 2,
+      "views": 9340
+    },
+    {
+      "id": "2034792658405818663",
+      "username": "thsottiaux",
+      "text": "Codex will take us places",
+      "timestamp": "2026-03-20T00:42:29+00:00",
+      "url": "https://x.com/thsottiaux/status/2034792658405818663",
+      "images": [],
+      "likes": 479,
+      "retweets": 14,
+      "views": 15964
+    },
+    {
+      "id": "2034787901536706662",
+      "username": "Miles_Brundage",
+      "text": "I wish more AI/robotics stories were this delightful https://t.co/MHpTAcwjjx",
+      "timestamp": "2026-03-20T00:23:34+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2034787901536706662",
+      "images": [],
+      "likes": 12,
+      "retweets": 0,
+      "views": 2568
+    },
+    {
+      "id": "2034757137663218091",
+      "username": "mitchellh",
+      "text": "I'm dying for pi-mono-style minimal library that handles the hard parts of email (auth, syncing with local state, etc.) and gives me an opinionated way to add agentic loops on top of that. I want to build my own agents and logic and guardrails, I don't trust vendors right now.",
+      "timestamp": "2026-03-19T22:21:20+00:00",
+      "url": "https://x.com/mitchellh/status/2034757137663218091",
+      "images": [],
+      "likes": 394,
+      "retweets": 6,
+      "views": 25768
+    },
+    {
+      "id": "2034655173256122580",
+      "username": "GoogleAI",
+      "text": "We’re launching a brand new, full-stack vibe coding experience in @GoogleAIStudio, made possible by integrations with the @Antigravity coding agent and @Firebase backends.\n\nThis unlocks:\n\n— Full-stack multiplayer experiences: Create complex, multiplayer apps with fully-featured https://t.co/I9IMbcxhcN",
+      "timestamp": "2026-03-19T15:36:10+00:00",
+      "url": "https://x.com/GoogleAI/status/2034655173256122580",
+      "images": [],
+      "likes": 9085,
+      "retweets": 1057,
+      "views": 3177385
+    },
+    {
+      "id": "2034654311519547770",
+      "username": "lateinteraction",
+      "text": "late interaction model (150M) beats the 54x larger Qwen3-8B-Embedding by... hmm, looks like up to 34% relative increase :D\n\nalso really funny that the entire top section of the BC+ leaderboard, sorted by Recall, is just late interaction models by @LightOnIO and @mixedbreadai https://t.co/qOaO6GrcFQ",
+      "timestamp": "2026-03-19T15:32:44+00:00",
+      "url": "https://x.com/lateinteraction/status/2034654311519547770",
+      "images": [
+        "https://pbs.twimg.com/media/HDyLTUoXMAAu5SZ.jpg"
+      ],
+      "likes": 159,
+      "retweets": 12,
+      "views": 10332
+    },
+    {
+      "id": "2034077174203040128",
+      "username": "allen_ai",
+      "text": "\"We trained our very first [Molmo] model and were surprised to find that it outperformed GPT. Scale wasn't everything in vision language — clearly there was a key role for data.\" @RanjayKrishna on today's open model panel at #NVIDIAGTC https://t.co/ZHwwS8h5wB",
+      "timestamp": "2026-03-18T01:19:24+00:00",
+      "url": "https://x.com/allen_ai/status/2034077174203040128",
+      "images": [
+        "https://pbs.twimg.com/media/HDp9x-AbQAA60OM.jpg"
+      ],
+      "likes": 58,
+      "retweets": 8,
+      "views": 10062
     }
   ]
 }
