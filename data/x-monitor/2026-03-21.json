@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-21T16:05:35.183840",
+  "scraped_at": "2026-03-21T19:11:09.360552",
   "date": "2026-03-21",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 77,
-  "account_count": 41,
+  "tweet_count": 80,
+  "account_count": 44,
   "tweets": [
     {
       "id": "2035049580791046328",
@@ -885,6 +885,43 @@
       "likes": 481,
       "retweets": 21,
       "views": 20388
+    },
+    {
+      "id": "2035275364373778437",
+      "username": "JustinLin610",
+      "text": "working on distillation https://t.co/5HPG0bgqE0",
+      "timestamp": "2026-03-21T08:40:35+00:00",
+      "url": "https://x.com/JustinLin610/status/2035275364373778437",
+      "images": [
+        "https://pbs.twimg.com/media/HD7AJkMa0AA_Fs9.jpg"
+      ],
+      "likes": 359,
+      "retweets": 13,
+      "views": 11110
+    },
+    {
+      "id": "2035266734228480415",
+      "username": "__tinygrad__",
+      "text": "Few know this, but I (George) was the only person in history to get a perfect score in CMU compilers, which is likely the best compilers course in the world. Combine that with crazy low level knowledge of hardware from 10 years of hacking.\n\nThen add a team of people who are",
+      "timestamp": "2026-03-21T08:06:17+00:00",
+      "url": "https://x.com/__tinygrad__/status/2035266734228480415",
+      "images": [],
+      "likes": 524,
+      "retweets": 20,
+      "views": 27212
+    },
+    {
+      "id": "2034660389284360585",
+      "username": "arena",
+      "text": "MAI-Image-2 debuts at #5 in the Image Arena!\n\nHighlights:\n- #5 in Text-to-Image overall\n- #5 for 3D Imaging &amp; Modeling, Cartoon, Anime &amp; Fantasy, Photorealistic &amp; Cinematic Imagery, Art and Portraits\n- #6 for Product, Branding &amp; Commercial Design\n\nCongrats to the @MicrosoftAI https://t.co/IhBRozx7G5",
+      "timestamp": "2026-03-19T15:56:53+00:00",
+      "url": "https://x.com/arena/status/2034660389284360585",
+      "images": [
+        "https://pbs.twimg.com/media/HDyQQKxbEAA5VDb.jpg"
+      ],
+      "likes": 139,
+      "retweets": 16,
+      "views": 24270
     }
   ]
 }
