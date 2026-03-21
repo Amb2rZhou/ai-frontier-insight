@@ -1,0 +1,169 @@
+{
+  "source": "x-monitor",
+  "scraped_at": "2026-03-22T03:17:05.974694",
+  "date": "2026-03-22",
+  "list_urls": [
+    "https://x.com/i/lists/2026486577304842549"
+  ],
+  "tweet_count": 13,
+  "account_count": 9,
+  "tweets": [
+    {
+      "id": "2035425239400890639",
+      "username": "mitchellh",
+      "text": "Btw, for Ghostling (libghostty demo), I didn't write a single line of... anything. Agents wrote 100% of everything you see incl. Nix flakes, CI jobs, etc. I reviewed every line of code manually and constantly nudged the agents in the right direction. I used a mix of Opus+Codex. https://t.co/tRkiHoyTPT",
+      "timestamp": "2026-03-21T18:36:08+00:00",
+      "url": "https://x.com/mitchellh/status/2035425239400890639",
+      "images": [
+        "https://pbs.twimg.com/media/HD9IS2Ka0AAp2WM.jpg"
+      ],
+      "likes": 81,
+      "retweets": 5,
+      "views": 6028
+    },
+    {
+      "id": "2035422937772089655",
+      "username": "EMostaque",
+      "text": "For pure theoretical physics can’t see how this wouldn’t be 2027\n\nWindow of final human-only cognitive contributions is coming to a close\n\nForever",
+      "timestamp": "2026-03-21T18:26:59+00:00",
+      "url": "https://x.com/EMostaque/status/2035422937772089655",
+      "images": [],
+      "likes": 62,
+      "retweets": 7,
+      "views": 5823
+    },
+    {
+      "id": "2035421830899810804",
+      "username": "docmilanfar",
+      "text": "surprising fact: for any random variable x,\n\n| mean(x) - median(x) |  ≤  std(x)\n\nIt’s not hard to show\n\n|μ - m| = |E(X - m)| ≤ E|X - m|\n≤ E|X - μ| = E√(X - μ)²\n≤ √ E(X - μ)²\n= σ \n\noriginally appeared in a paper by Hotelling &amp; Solomons Annals of Mathematical Statistics 1932 https://t.co/eUOhmRCyaV",
+      "timestamp": "2026-03-21T18:22:35+00:00",
+      "url": "https://x.com/docmilanfar/status/2035421830899810804",
+      "images": [
+        "https://pbs.twimg.com/media/HD9FXlzb0AAozZw.jpg",
+        "https://pbs.twimg.com/media/HD9FXlxaIAAZwpg.jpg"
+      ],
+      "likes": 56,
+      "retweets": 6,
+      "views": 2004
+    },
+    {
+      "id": "2035415371100930352",
+      "username": "CSProfKGD",
+      "text": "Looking forward to returning to Amsterdam next week and taking part in the Winter School on Foundation Models (FoMo) 2026 🤗\n\nhttps://t.co/sWlHtC3WaI",
+      "timestamp": "2026-03-21T17:56:55+00:00",
+      "url": "https://x.com/CSProfKGD/status/2035415371100930352",
+      "images": [],
+      "likes": 2,
+      "retweets": 0,
+      "views": 499
+    },
+    {
+      "id": "2035415117764993040",
+      "username": "DeryaTR_",
+      "text": "More like in 2030, AI contributions to math and physics will surpass those of most human scientists.",
+      "timestamp": "2026-03-21T17:55:54+00:00",
+      "url": "https://x.com/DeryaTR_/status/2035415117764993040",
+      "images": [],
+      "likes": 60,
+      "retweets": 7,
+      "views": 5400
+    },
+    {
+      "id": "2035413570561695949",
+      "username": "alexgraveley",
+      "text": "I started Computer with 2 principles:\n- only implement the most generic thing\n- anything it can’t do is a bug\n\nAmazing as a technologist to be here.",
+      "timestamp": "2026-03-21T17:49:46+00:00",
+      "url": "https://x.com/alexgraveley/status/2035413570561695949",
+      "images": [],
+      "likes": 16,
+      "retweets": 0,
+      "views": 776
+    },
+    {
+      "id": "2035404983672222085",
+      "username": "Austen",
+      "text": "Today is multi-agentic orchestration day at Gauntlet AI.\n\nChallengers are presenting the systems they built to let AI solve increasingly complex problems autonomously. https://t.co/6qsuKqCNf0",
+      "timestamp": "2026-03-21T17:15:38+00:00",
+      "url": "https://x.com/Austen/status/2035404983672222085",
+      "images": [
+        "https://pbs.twimg.com/media/HD82C67W4AATCgU.jpg"
+      ],
+      "likes": 30,
+      "retweets": 3,
+      "views": 10811
+    },
+    {
+      "id": "2035398018019508403",
+      "username": "emollick",
+      "text": "I don’t think AIs should be auto-adding themselves as credited on projects on Github or elsewhere.\n\nIt primarily serves as a marketing tool to promote the product, but undermines the much more critical aspect that humans should be able to choose their relationship with AI work.",
+      "timestamp": "2026-03-21T16:47:58+00:00",
+      "url": "https://x.com/emollick/status/2035398018019508403",
+      "images": [],
+      "likes": 126,
+      "retweets": 7,
+      "views": 12714
+    },
+    {
+      "id": "2035388163531690062",
+      "username": "DeryaTR_",
+      "text": "What we have been saying for several years now: AI changes everything. \n\nOne of the best mathematicians alive Terence Tao agrees: \n\n'Yeah, so we live in a time of change. It is, as I said, we live in a particularly unpredictable era. And I think things that we've taken for",
+      "timestamp": "2026-03-21T16:08:48+00:00",
+      "url": "https://x.com/DeryaTR_/status/2035388163531690062",
+      "images": [],
+      "likes": 75,
+      "retweets": 9,
+      "views": 8333
+    },
+    {
+      "id": "2035387292311769278",
+      "username": "emollick",
+      "text": "Evidence that AI models can, indeed, learn \"taste\" in this paper where a small model, trained on citations, is able to predict which papers will be hits\n\nCitations, upvotes &amp; shares are signals that can teach AI judgment about quality, not just execution. https://t.co/2KWBQIMqt0 https://t.co/nI26UhdI9c",
+      "timestamp": "2026-03-21T16:05:20+00:00",
+      "url": "https://x.com/emollick/status/2035387292311769278",
+      "images": [
+        "https://pbs.twimg.com/media/HD8l3VsXEAANnS6.jpg"
+      ],
+      "likes": 124,
+      "retweets": 17,
+      "views": 9104
+    },
+    {
+      "id": "2035386081517133924",
+      "username": "thsottiaux",
+      "text": "Do people like this? We don't do this for codex because it exists to help you and it's important that you remain the owner and accountable for your work without AI taking credit. At the same time it does mean that you can't trace how popular codex is among repos.",
+      "timestamp": "2026-03-21T16:00:32+00:00",
+      "url": "https://x.com/thsottiaux/status/2035386081517133924",
+      "images": [],
+      "likes": 1544,
+      "retweets": 43,
+      "views": 140858
+    },
+    {
+      "id": "2035382831237714422",
+      "username": "mitchellh",
+      "text": "libghostty is FAST! Here's a look at vtebench with Ghostling. Reminder: Ghostling is single threaded + blocking render + blocking IO. The point is, you get comparable speed to the fastest dedicated terminals in an embeddable lib! Had to pull out iTerm2 because its so slow. https://t.co/ij8qfDCMA7",
+      "timestamp": "2026-03-21T15:47:37+00:00",
+      "url": "https://x.com/mitchellh/status/2035382831237714422",
+      "images": [
+        "https://pbs.twimg.com/media/HD8gFzNboAA3fWc.jpg",
+        "https://pbs.twimg.com/media/HD8gGkfagAAdJAo.jpg"
+      ],
+      "likes": 118,
+      "retweets": 4,
+      "views": 10015
+    },
+    {
+      "id": "2034840690044088385",
+      "username": "DeryaTR_",
+      "text": "The new Stitch design AI from Google Labs is fanstastic, it creates beautiful designs that I like &amp; you can also edit them. You can then send screens to AI Studio to build great websites or apps. Here’s an example I made very quickly.  Link to the web site below in the thread. https://t.co/s5eAf5Q6vI",
+      "timestamp": "2026-03-20T03:53:20+00:00",
+      "url": "https://x.com/DeryaTR_/status/2034840690044088385",
+      "images": [
+        "https://pbs.twimg.com/media/HD00XKbboAENSve.jpg"
+      ],
+      "likes": 36,
+      "retweets": 2,
+      "views": 8280
+    }
+  ]
+}
