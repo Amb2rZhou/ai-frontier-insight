@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-22T03:17:05.974694",
+  "scraped_at": "2026-03-22T07:48:10.313371",
   "date": "2026-03-22",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 13,
-  "account_count": 9,
+  "tweet_count": 19,
+  "account_count": 12,
   "tweets": [
     {
       "id": "2035425239400890639",
@@ -164,6 +164,74 @@
       "likes": 36,
       "retweets": 2,
       "views": 8280
+    },
+    {
+      "id": "2035490632655917274",
+      "username": "alexgraveley",
+      "text": "Gave For You a shot, back to Following as default timeline. Better experience following &amp; interacting with real people moving AI.",
+      "timestamp": "2026-03-21T22:55:59+00:00",
+      "url": "https://x.com/alexgraveley/status/2035490632655917274",
+      "images": [],
+      "likes": 5,
+      "retweets": 0,
+      "views": 408
+    },
+    {
+      "id": "2035467731437527127",
+      "username": "gdb",
+      "text": "gpt-5.4 for frontend:",
+      "timestamp": "2026-03-21T21:24:58+00:00",
+      "url": "https://x.com/gdb/status/2035467731437527127",
+      "images": [],
+      "likes": 288,
+      "retweets": 10,
+      "views": 56608
+    },
+    {
+      "id": "2035466148188426596",
+      "username": "svlevine",
+      "text": "Data-driven optimization works best when we can leverage structure. In offline RL, MDP structure enables temporal compositionality (\"stitching\"), while for protein design, analogous graph structure can make design of new proteins more efficient!",
+      "timestamp": "2026-03-21T21:18:41+00:00",
+      "url": "https://x.com/svlevine/status/2035466148188426596",
+      "images": [],
+      "likes": 57,
+      "retweets": 3,
+      "views": 6314
+    },
+    {
+      "id": "2035462297242472854",
+      "username": "DeryaTR_",
+      "text": "I tested BioReason-pro. It's a very cool reasoning BioAI model for protein function, and it also has a very nice UI. Anyone interested should give it a try.",
+      "timestamp": "2026-03-21T21:03:23+00:00",
+      "url": "https://x.com/DeryaTR_/status/2035462297242472854",
+      "images": [],
+      "likes": 34,
+      "retweets": 7,
+      "views": 5342
+    },
+    {
+      "id": "2035441487203484103",
+      "username": "Austen",
+      "text": "The biggest reason OpenClaw took off is because you could actually do stuff with it.\n\nClaude is supposedly building out the tools to allow you to do stuff, but everything is built with kid gloves in mind. https://t.co/euqYthTAP0",
+      "timestamp": "2026-03-21T19:40:41+00:00",
+      "url": "https://x.com/Austen/status/2035441487203484103",
+      "images": [
+        "https://pbs.twimg.com/media/HD9XEtwXoAAEN-P.jpg"
+      ],
+      "likes": 123,
+      "retweets": 3,
+      "views": 10014
+    },
+    {
+      "id": "2035437297005727963",
+      "username": "OpenAIDevs",
+      "text": "Agent workflows got even faster.\n\nYou can spin up containers for skills, shell and code interpreter about 10x faster.\n\nWe added a container pool to the Responses API, so requests can reuse warm infrastructure instead of creating a full container creation each session.",
+      "timestamp": "2026-03-21T19:24:02+00:00",
+      "url": "https://x.com/OpenAIDevs/status/2035437297005727963",
+      "images": [],
+      "likes": 1226,
+      "retweets": 80,
+      "views": 58835
     }
   ]
 }
