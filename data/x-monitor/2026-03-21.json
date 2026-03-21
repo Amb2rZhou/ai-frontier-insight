@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-21T09:30:11.347600",
+  "scraped_at": "2026-03-21T13:32:17.106437",
   "date": "2026-03-21",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 67,
-  "account_count": 36,
+  "tweet_count": 74,
+  "account_count": 40,
   "tweets": [
     {
       "id": "2035049580791046328",
@@ -771,6 +771,83 @@
       "likes": 208,
       "retweets": 14,
       "views": 20514
+    },
+    {
+      "id": "2035209473284030659",
+      "username": "amanrsanger",
+      "text": "We're increasing capacity for Composer 2, 2x more usage all weekend! Try it out!",
+      "timestamp": "2026-03-21T04:18:45+00:00",
+      "url": "https://x.com/amanrsanger/status/2035209473284030659",
+      "images": [],
+      "likes": 207,
+      "retweets": 14,
+      "views": 8815
+    },
+    {
+      "id": "2035204081652761034",
+      "username": "minchoi",
+      "text": "It's happening... they are building ClaudeBot 💀\nhttps://t.co/wjxClU2CPU",
+      "timestamp": "2026-03-21T03:57:19+00:00",
+      "url": "https://x.com/minchoi/status/2035204081652761034",
+      "images": [],
+      "likes": 436,
+      "retweets": 18,
+      "views": 36079
+    },
+    {
+      "id": "2035192573636309122",
+      "username": "svlevine",
+      "text": "A while ago we figured out that structure enables data-driven design: if we have data of designs + rewards, we can find a design with *higher* reward if we learn a structured function: https://t.co/MZs2chOuoS\n\nIn our latest work, @kuba_AI developed a practical model based on this",
+      "timestamp": "2026-03-21T03:11:36+00:00",
+      "url": "https://x.com/svlevine/status/2035192573636309122",
+      "images": [],
+      "likes": 64,
+      "retweets": 1,
+      "views": 6599
+    },
+    {
+      "id": "2035171720945115469",
+      "username": "levie",
+      "text": "It is quite ridiculous how agile you have to be with your AI agent stack right now. Whatever you spent 6 months perfecting 12 months ago probably is already out of date and you’re better off doing a reset than trying to resuscitate it architecturally.\n\nAnd what’s interesting is",
+      "timestamp": "2026-03-21T01:48:44+00:00",
+      "url": "https://x.com/levie/status/2035171720945115469",
+      "images": [],
+      "likes": 202,
+      "retweets": 16,
+      "views": 38739
+    },
+    {
+      "id": "2035157224893387035",
+      "username": "demishassabis",
+      "text": "Thrilled to welcome Jas Sekhon to @GoogleDeepMind as Chief Strategy Officer! The path to AGI requires exceptional thoughtfulness and foresight - Jas’ incredible experience as former Chief Scientist &amp; Head of AI at Bridgewater makes him uniquely suited to advise us on the mission",
+      "timestamp": "2026-03-21T00:51:08+00:00",
+      "url": "https://x.com/demishassabis/status/2035157224893387035",
+      "images": [],
+      "likes": 771,
+      "retweets": 38,
+      "views": 79712
+    },
+    {
+      "id": "2035058006854181367",
+      "username": "Miles_Brundage",
+      "text": "(very low confidence / low stakes prediction but just for the sake of concreteness + falsifiability)\n\nI'm guessing OpenAI praises the WH proposal and Anthropic says nothing",
+      "timestamp": "2026-03-20T18:16:53+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2035058006854181367",
+      "images": [],
+      "likes": 33,
+      "retweets": 2,
+      "views": 4229
+    },
+    {
+      "id": "2034656376450908203",
+      "username": "OfficialLoganK",
+      "text": "Introducing the all new vibe coding experience in @GoogleAIStudio, feating:\n\n- One click database support\n- Sign in with Google support\n- A new coding agent powered by Antigravity\n- Multiplayer + backend app support\n\nand so much more coming soon! \n\nhttps://t.co/G0m9hRnoIS",
+      "timestamp": "2026-03-19T15:40:56+00:00",
+      "url": "https://x.com/OfficialLoganK/status/2034656376450908203",
+      "images": [],
+      "likes": 3603,
+      "retweets": 343,
+      "views": 533141
     }
   ]
 }
