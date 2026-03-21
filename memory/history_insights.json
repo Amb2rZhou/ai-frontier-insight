@@ -1,66 +1,6 @@
 {
   "predictions": [
     {
-      "date": "2026-03-11T09:32:40.692446+08:00",
-      "prediction_text": "内容平台在构建AI基础设施时，值得关注非Transformer架构的进展，避免技术栈单一化风险。",
-      "category": "strategic_move",
-      "source_signal": "Yann LeCun Launches AMI Labs with Record $1B+ Seed Round"
-    },
-    {
-      "date": "2026-03-11T09:32:40.703270+08:00",
-      "prediction_text": "推荐系统可以考虑采用统一多模态Embedding，简化内容理解管线，提升跨模态推荐效果。",
-      "category": "research_breakthrough",
-      "source_signal": "Google Releases First Multimodal Embedding Model Gemini Embedding 2"
-    },
-    {
-      "date": "2026-03-11T09:32:40.733168+08:00",
-      "prediction_text": "内容平台的客服/创作者助手Agent可以考虑引入类似的输入过滤与指令优先级架构。",
-      "category": "infrastructure",
-      "source_signal": "OpenAI Introduces Instruction Hierarchy Challenge for Frontier LLMs"
-    },
-    {
-      "date": "2026-03-11T09:32:40.758296+08:00",
-      "prediction_text": "社区平台在采购或合作选用基础模型时，可关注其本地化服务能力与合规支持。",
-      "category": "strategic_move",
-      "source_signal": "Anthropic Expands to Australia & New Zealand, Opens Sydney Office"
-    },
-    {
-      "date": "2026-03-11T09:32:40.792551+08:00",
-      "prediction_text": "电商平台的营销或客服Agent可以探索打通商品、订单、内容库，实现跨系统任务自动化。",
-      "category": "strategic_move",
-      "source_signal": "Google Upgrades Gemini for Workspace with Cross-App Data Integration"
-    },
-    {
-      "date": "2026-03-11T09:32:40.809299+08:00",
-      "prediction_text": "平台级Agent项目建议前置投入“上下文层”建设，将业务数据实时转化为Agent可读格式。",
-      "category": "infrastructure",
-      "source_signal": "a16z Report: Context Layer Emerges as Key Bottleneck for AI Agents"
-    },
-    {
-      "date": "2026-03-11T09:32:40.816279+08:00",
-      "prediction_text": "内容创作工具可以考虑引入交互式视觉解释功能，辅助创作者生成教程、攻略类深度内容。",
-      "category": "new_product_form",
-      "source_signal": "OpenAI Launches Interactive Visual Explanations for Math & Science in ChatGPT"
-    },
-    {
-      "date": "2026-03-11T09:32:40.832079+08:00",
-      "prediction_text": "自研Agent框架的团队可以评估集成此类开源组件，以提升开发效率与系统可靠性。",
-      "category": "open_source",
-      "source_signal": "LangGraph Releases v1.1 with Type-Safe Streaming and Enhanced Subgraph Support"
-    },
-    {
-      "date": "2026-03-11T09:32:40.842026+08:00",
-      "prediction_text": "平台可以探索基于开源配方，为不同垂类（如美妆、穿搭）快速微调专属内容生成模型。",
-      "category": "open_source",
-      "source_signal": "Unsloth AI Releases Comprehensive Repo with 250+ LLM Training Notebooks"
-    },
-    {
-      "date": "2026-03-11T09:32:40.866829+08:00",
-      "prediction_text": "创作者工具中的AI辅助功能可以引入类似钩子机制，在关键节点插入风格检查或合规审核。",
-      "category": "infrastructure",
-      "source_signal": "VS Code Introduces 'Agent Hooks' for Programmable Copilot Behavior"
-    },
-    {
       "date": "2026-03-12T09:32:52.400223+08:00",
       "prediction_text": "内容与电商平台自研Agent系统时，可以考虑基于此类开源模型构建低成本、长序列任务处理能力。",
       "category": "model_release",
@@ -599,6 +539,66 @@
       "prediction_text": "平台在推广内部AI编程工具时，值得关注辅助与教育功能的平衡，避免核心团队能力空心化。",
       "category": "industry_risk",
       "source_signal": "Anthropic Research Highlights Potential Downsides of AI Coding Assistance"
+    },
+    {
+      "date": "2026-03-21T09:34:44.797343+08:00",
+      "prediction_text": "内容与电商平台的开发者关系团队可以考虑推出针对学生或创作者的定向API激励计划。",
+      "category": "strategic_move",
+      "source_signal": "OpenAI Launches Codex for Students with $100 Credits"
+    },
+    {
+      "date": "2026-03-21T09:34:44.805097+08:00",
+      "prediction_text": "内容与社区平台的研究团队值得关注自主研究Agent对内容发现、质量审核与知识整理的颠覆潜力。",
+      "category": "strategic_move",
+      "source_signal": "MIT Tech Review: OpenAI Refocuses on Building Fully Automated AI Researcher"
+    },
+    {
+      "date": "2026-03-21T09:34:44.810830+08:00",
+      "prediction_text": "内容与电商平台的语音交互产品团队建议基于真实用户对话数据建立内部评估基准。",
+      "category": "research_breakthrough",
+      "source_signal": "Scale AI Launches First Real-World Voice AI Benchmark"
+    },
+    {
+      "date": "2026-03-21T09:34:44.816629+08:00",
+      "prediction_text": "AI基础设施团队可以评估类似架构，用于部署高智能的客服、推荐或创作Agent。",
+      "category": "model_release",
+      "source_signal": "NVIDIA Releases Nemotron-Cascade 2: Efficient 30B MoE Model with Strong Reasoning"
+    },
+    {
+      "date": "2026-03-21T09:34:44.822263+08:00",
+      "prediction_text": "内容平台的视频创作工具值得探索集成类似技术，实现更精准的用户意图理解与内容修改。",
+      "category": "research_breakthrough",
+      "source_signal": "Baidu Releases SAMA for Instruction-Guided Video Editing"
+    },
+    {
+      "date": "2026-03-21T09:34:44.827927+08:00",
+      "prediction_text": "技术选型团队可以更积极地评估和集成头部中国开源模型，以构建差异化能力。",
+      "category": "ecosystem_shift",
+      "source_signal": "HuggingFace CEO: Cursor's New Model Based on Kimi, Validates Chinese Open-Source Impact"
+    },
+    {
+      "date": "2026-03-21T09:34:44.833547+08:00",
+      "prediction_text": "电商与内容平台的搜索团队可以考虑接入垂直数据源，打造专业导购或内容研究助手。",
+      "category": "new_product_form",
+      "source_signal": "Perplexity Computer Integrates Market Research Data from PitchBook, Statista, CB Insights"
+    },
+    {
+      "date": "2026-03-21T09:34:44.839981+08:00",
+      "prediction_text": "推荐系统与内容安全团队需要重新评估对齐模型在理解争议性话题和用户偏好时的潜在偏差。",
+      "category": "research_breakthrough",
+      "source_signal": "Research: Alignment Makes LLMs Normative, Not Descriptive"
+    },
+    {
+      "date": "2026-03-21T09:34:44.845840+08:00",
+      "prediction_text": "客户端团队可以探索部署高性能端侧语音模型，实现低延迟、高隐私的语音交互功能。",
+      "category": "research_breakthrough",
+      "source_signal": "Quantized On-Device Speech Models Outperform Whisper Large v3"
+    },
+    {
+      "date": "2026-03-21T09:34:44.851439+08:00",
+      "prediction_text": "内容理解团队建议针对长视频、直播等内容形态，研发专用的多模态理解与摘要模型。",
+      "category": "research_breakthrough",
+      "source_signal": "New Benchmark LVOmniBench Reveals Challenges in Long Audio-Video Understanding"
     }
   ]
 }

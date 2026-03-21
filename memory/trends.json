@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-20T09:35:11.846073+08:00",
+  "last_updated": "2026-03-21T09:35:22.074560+08:00",
   "trends": [
     {
       "id": "ai_safety_pivot_and_accelerated_agi_time",
@@ -11,7 +11,7 @@
         "Anthropic"
       ],
       "trajectory": "accelerating",
-      "signal_count": 34,
+      "signal_count": 35,
       "weekly_counts": [
         1,
         1,
@@ -142,6 +142,10 @@
         {
           "date": "2026-03-20",
           "event": "Anthropic research highlights potential downsides of AI coding assistance"
+        },
+        {
+          "date": "2026-03-21",
+          "event": "Research: Alignment Makes LLMs Normative, Not Descriptive"
         }
       ],
       "created": "2026-02-25"
@@ -219,9 +223,8 @@
         "Multimodal AI"
       ],
       "trajectory": "accelerating",
-      "signal_count": 22,
+      "signal_count": 24,
       "weekly_counts": [
-        1,
         2,
         1,
         1,
@@ -232,7 +235,8 @@
         1,
         1,
         2,
-        1
+        1,
+        2
       ],
       "key_events": [
         {
@@ -318,6 +322,10 @@
         {
           "date": "2026-03-19",
           "event": "MiniMax Releases 'Self-Evolving' M2.7 Model for Agentic Tasks"
+        },
+        {
+          "date": "2026-03-21",
+          "event": "NVIDIA Releases Nemotron-Cascade 2: Efficient 30B MoE Model with Strong Reasoning; HuggingFace CEO: Cursor's New Model Based on Kimi, Validates Chinese Open-Source Impact"
         }
       ],
       "created": "2026-02-25"
@@ -409,9 +417,8 @@
         "Anthropic"
       ],
       "trajectory": "accelerating",
-      "signal_count": 57,
+      "signal_count": 58,
       "weekly_counts": [
-        2,
         1,
         4,
         2,
@@ -422,7 +429,8 @@
         3,
         3,
         2,
-        3
+        3,
+        1
       ],
       "key_events": [
         {
@@ -544,6 +552,10 @@
         {
           "date": "2026-03-20",
           "event": "OpenAI acquires code agent startup Astral to boost Codex team; Cursor releases Composer 2 with in-house coding model surpassing Claude Opus 4.6"
+        },
+        {
+          "date": "2026-03-21",
+          "event": "Perplexity Computer Integrates Market Research Data from PitchBook, Statista, CB Insights"
         }
       ],
       "created": "2026-02-25"
@@ -595,9 +607,8 @@
         "Multimodal AI"
       ],
       "trajectory": "accelerating",
-      "signal_count": 51,
+      "signal_count": 54,
       "weekly_counts": [
-        1,
         1,
         1,
         2,
@@ -608,7 +619,8 @@
         1,
         1,
         2,
-        2
+        2,
+        3
       ],
       "key_events": [
         {
@@ -734,6 +746,10 @@
         {
           "date": "2026-03-20",
           "event": "Sakana AI introduces Doc-to-LoRA for instant context internalization; NVIDIA and HuggingFace introduce SPEED-Bench for speculative decoding"
+        },
+        {
+          "date": "2026-03-21",
+          "event": "MIT Tech Review: OpenAI Refocuses on Building Fully Automated AI Researcher; Scale AI Launches First Real-World Voice AI Benchmark; New Benchmark LVOmniBench Reveals Challenges in Long Audio-Video Understanding"
         }
       ],
       "created": "2026-02-25"
@@ -926,9 +942,8 @@
         "Automation"
       ],
       "trajectory": "accelerating",
-      "signal_count": 81,
+      "signal_count": 82,
       "weekly_counts": [
-        4,
         4,
         4,
         3,
@@ -939,7 +954,8 @@
         4,
         2,
         4,
-        3
+        3,
+        1
       ],
       "key_events": [
         {
@@ -1069,6 +1085,10 @@
         {
           "date": "2026-03-20",
           "event": "Google AI Studio upgrades to full-stack vibe coding with backend support; Unsloth AI demonstrates Qwen3.5-4B's tool use and web search capabilities"
+        },
+        {
+          "date": "2026-03-21",
+          "event": "MIT Tech Review: OpenAI Refocuses on Building Fully Automated AI Researcher"
         }
       ],
       "created": "2026-02-25"
@@ -1148,7 +1168,7 @@
         "Meta"
       ],
       "trajectory": "accelerating",
-      "signal_count": 27,
+      "signal_count": 28,
       "weekly_counts": [
         1,
         1,
@@ -1158,8 +1178,8 @@
         1,
         1,
         1,
-        1,
         2,
+        1,
         1,
         1
       ],
@@ -1259,6 +1279,10 @@
         {
           "date": "2026-03-20",
           "event": "Google and Kaggle launch community hackathons platform"
+        },
+        {
+          "date": "2026-03-21",
+          "event": "Quantized On-Device Speech Models Outperform Whisper Large v3"
         }
       ],
       "created": "2026-02-25"
@@ -1400,9 +1424,8 @@
         "Risk Management"
       ],
       "trajectory": "accelerating",
-      "signal_count": 26,
+      "signal_count": 27,
       "weekly_counts": [
-        1,
         1,
         1,
         1,
@@ -1410,6 +1433,7 @@
         2,
         1,
         3,
+        1,
         1,
         1,
         1,
@@ -1503,6 +1527,10 @@
         {
           "date": "2026-03-20",
           "event": "Meta's rogue AI agent incident exposes IAM gaps in enterprise security"
+        },
+        {
+          "date": "2026-03-21",
+          "event": "Research: Alignment Makes LLMs Normative, Not Descriptive"
         }
       ],
       "created": "2026-02-25"
@@ -1517,7 +1545,7 @@
         "Training"
       ],
       "trajectory": "stable",
-      "signal_count": 3,
+      "signal_count": 4,
       "weekly_counts": [
         1,
         0,
@@ -1528,6 +1556,7 @@
         0,
         0,
         0,
+        1,
         1,
         1
       ],
@@ -1551,6 +1580,10 @@
         {
           "date": "2026-03-08",
           "event": "Replit CEO: No coding experience becoming an advantage in AI era"
+        },
+        {
+          "date": "2026-03-21",
+          "event": "OpenAI Launches Codex for Students with $100 Credits"
         }
       ],
       "created": "2026-02-25"
@@ -1606,13 +1639,14 @@
         "DeepSeek"
       ],
       "trajectory": "accelerating",
-      "signal_count": 8,
+      "signal_count": 9,
       "weekly_counts": [
         1,
         1,
         1,
         1,
         2,
+        1,
         1,
         1
       ],
@@ -1644,6 +1678,10 @@
         {
           "date": "2026-03-16",
           "event": "ByteDance Pauses Global Launch of Seedance 2.0 Video Generator"
+        },
+        {
+          "date": "2026-03-21",
+          "event": "HuggingFace CEO: Cursor's New Model Based on Kimi, Validates Chinese Open-Source Impact"
         }
       ],
       "created": "2026-02-25"
@@ -1691,11 +1729,10 @@
         "Startup Funding"
       ],
       "trajectory": "accelerating",
-      "signal_count": 22,
+      "signal_count": 24,
       "weekly_counts": [
         1,
         1,
-        1,
         2,
         1,
         1,
@@ -1704,7 +1741,8 @@
         1,
         1,
         1,
-        1
+        1,
+        2
       ],
       "key_events": [
         {
@@ -1782,6 +1820,10 @@
         {
           "date": "2026-03-20",
           "event": "Microsoft's MAI-Image-2 ranks among top 3 image generators"
+        },
+        {
+          "date": "2026-03-21",
+          "event": "Baidu Releases SAMA for Instruction-Guided Video Editing; Scale AI Launches First Real-World Voice AI Benchmark"
         }
       ],
       "created": "2026-02-26"
