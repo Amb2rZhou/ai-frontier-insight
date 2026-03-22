@@ -1250,6 +1250,211 @@
           153
         ]
       }
+    ],
+    "2026-03-22": [
+      {
+        "title": "OpenAI Announces 10x Faster Agent Workflows with Container Pooling",
+        "signal_text": "OpenAI 官方开发者账号宣布，通过为 Responses API 添加容器池，使 Agent 工作流中的技能、Shell 和代码解释器容器启动速度提升约10倍。该优化允许请求复用已预热的基础设施，而非每次会话都创建新容器，显著降低了延迟。",
+        "signal_strength": 0.9,
+        "sources": [
+          {
+            "name": "@OpenAIDevs (OpenAI官方开发者账号)",
+            "url": "https://x.com/OpenAIDevs/status/2035437297005727963"
+          }
+        ],
+        "tags": [
+          "Agent 与新交互范式",
+          "技术突破",
+          "头部公司战略动作"
+        ],
+        "raw_item_indices": [
+          63
+        ]
+      },
+      {
+        "title": "NVIDIA Releases Nemotron-Cascade 2: Efficient 30B MoE Model with Strong Reasoning",
+        "signal_text": "NVIDIA 发布 Nemotron-Cascade 2，这是一个 300 亿参数的 Mixture-of-Experts (MoE) 模型，每次推理仅激活 30 亿参数。该模型通过 Cascade RL 和多领域 On-Policy Distillation 进行后训练，在推理和 Agent 任务上表现出色，性能媲美前沿开源模型。",
+        "signal_strength": 0.85,
+        "sources": [
+          {
+            "name": "NVIDIA 研究论文",
+            "url": "https://huggingface.co/papers/2603.19220"
+          },
+          {
+            "name": "HuggingFace 模型页",
+            "url": "https://huggingface.co/nvidia/Nemotron-Cascade-2-30B-A3B"
+          }
+        ],
+        "tags": [
+          "技术突破",
+          "开源生态",
+          "头部公司战略动作"
+        ],
+        "raw_item_indices": [
+          92,
+          121
+        ]
+      },
+      {
+        "title": "Research: Alignment Makes LLMs Normative, Not Descriptive",
+        "signal_text": "Technion 的研究表明，语言模型的后训练对齐（Alignment）会在预测人类行为（描述性）和遵循规范（规范性）之间产生权衡。基础模型更擅长预测真实的人类行为，而对齐后的模型则更倾向于输出符合社会规范的答案，这对内容安全与治理中的风险预测有启示。",
+        "signal_strength": 0.8,
+        "sources": [
+          {
+            "name": "Technion 研究论文",
+            "url": "https://huggingface.co/papers/2603.17218"
+          }
+        ],
+        "tags": [
+          "内容安全与治理",
+          "AI Safety",
+          "技术突破"
+        ],
+        "raw_item_indices": [
+          93
+        ]
+      },
+      {
+        "title": "xAI Announces \"Terafab\": Next Step Towards Galactic Civilization",
+        "signal_text": "xAI（马斯克旗下）发布推文宣布“Terafab”，称其为迈向银河系文明的下一个步骤，引发广泛猜测（获 901 likes, 62.5k views）。结合特斯拉前自动驾驶负责人转发的“极端AI软件-硬件-半导体制造协同设计”言论，可能预示其在 AI 基础设施或硬件领域的重大动作。",
+        "signal_strength": 0.8,
+        "sources": [
+          {
+            "name": "@xAI (官方账号)",
+            "url": "https://x.com/xai/status/2035520240684032012"
+          },
+          {
+            "name": "@aelluswamy (前特斯拉自动驾驶负责人)",
+            "url": "https://x.com/aelluswamy/status/2035519139549454729"
+          }
+        ],
+        "tags": [
+          "头部公司战略动作",
+          "AI Hardware",
+          "技术突破"
+        ],
+        "raw_item_indices": [
+          65,
+          66
+        ]
+      },
+      {
+        "title": "[Update] Baidu's SAMA Model for Instruction-Guided Video Editing Gains Traction",
+        "signal_text": "百度提出的 SAMA 视频编辑模型（将语义锚定与运动建模解耦）在社区获得关注（59 upvotes）。该模型通过预训练扩散先验实现指令引导的视频编辑，同时保持原始运动，为 AI 辅助内容创作提供了新思路。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "百度研究论文",
+            "url": "https://huggingface.co/papers/2603.19228"
+          }
+        ],
+        "tags": [
+          "内容创作与理解",
+          "多模态融合",
+          "头部公司战略动作"
+        ],
+        "raw_item_indices": [
+          89
+        ]
+      },
+      {
+        "title": "Research: Small Models Can Learn \"Taste\" from Citations and Engagement",
+        "signal_text": "Wharton 教授 Ethan Mollick 引用一篇论文指出，小型模型通过训练学习论文的引用、点赞和分享数据，能够成功预测哪些论文会成为“爆款”。这表明 AI 可以学习关于内容质量的“品味”和判断力，而不仅仅是执行任务，对内容推荐和评估有潜在价值。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "@emollick (Wharton 教授)",
+            "url": "https://x.com/emollick/status/2035387292311769278"
+          }
+        ],
+        "tags": [
+          "搜索与推荐",
+          "内容创作与理解",
+          "技术突破"
+        ],
+        "raw_item_indices": [
+          55
+        ]
+      },
+      {
+        "title": "Major Publisher Pulls Novel Over Suspected AI-Generated Text",
+        "signal_text": "据 TechCrunch 报道，大型出版集团 Hachette 因怀疑恐怖小说《Shy Girl》的文本由 AI 生成而决定不予出版。这表明主流内容产业对 AI 生成内容的检测和治理已进入实操阶段，版权和真实性风险正在引发实际商业决策。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "TechCrunch 报道",
+            "url": "https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/"
+          }
+        ],
+        "tags": [
+          "内容安全与治理",
+          "行业风险与监管"
+        ],
+        "raw_item_indices": [
+          8
+        ]
+      },
+      {
+        "title": "New Benchmark LVOmniBench Reveals Challenges in Long Audio-Video Understanding",
+        "signal_text": "新推出的长音频-视频理解基准 LVOmniBench 显示，当前的全模态大语言模型在处理长序列多模态输入时面临显著挑战，这为评估和提升模型在长视频内容理解（如小红书长视频）方面的能力提供了重要参考。",
+        "signal_strength": 0.7,
+        "sources": [
+          {
+            "name": "研究论文",
+            "url": "https://huggingface.co/papers/2603.19217"
+          }
+        ],
+        "tags": [
+          "内容创作与理解",
+          "多模态融合",
+          "技术突破"
+        ],
+        "raw_item_indices": [
+          98
+        ]
+      },
+      {
+        "title": "Industry Leader Highlights Rapid Obsolescence of AI Agent Stacks",
+        "signal_text": "Box CEO Aaron Levie 指出，当前 AI Agent 技术栈迭代极快，12个月前花费6个月完善的架构可能已经过时，与其试图修复，不如进行架构重置。这反映了 Agent 领域技术演进的高速和工程实践的挑战。",
+        "signal_strength": 0.7,
+        "sources": [
+          {
+            "name": "@levie (Box CEO)",
+            "url": "https://x.com/levie/status/2035171720945115469"
+          }
+        ],
+        "tags": [
+          "Agent 与新交互范式",
+          "行业洞察"
+        ],
+        "raw_item_indices": [
+          33
+        ]
+      },
+      {
+        "title": "Community Debate: Should AI Auto-Credit Itself in GitHub Projects?",
+        "signal_text": "一场关于 AI 是否应自动在 GitHub 等项目中被列为贡献者的讨论引发高关注（获 1544 likes, 140k views）。反对者（如 Ethan Mollick）认为这主要是产品营销工具，且削弱了人类选择与 AI 工作关系的权利。这触及了 AI 生成内容的归属和伦理核心问题。",
+        "signal_strength": 0.7,
+        "sources": [
+          {
+            "name": "@emollick (Wharton 教授)",
+            "url": "https://x.com/emollick/status/2035398018019508403"
+          },
+          {
+            "name": "高互动讨论推文",
+            "url": "https://x.com/thsottiaux/status/2035386081517133924"
+          }
+        ],
+        "tags": [
+          "内容安全与治理",
+          "行业风险与监管",
+          "开源生态"
+        ],
+        "raw_item_indices": [
+          53,
+          56
+        ]
+      }
     ]
   },
   "archived_weeks": [
