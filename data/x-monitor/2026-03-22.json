@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-22T17:28:11.353663",
+  "scraped_at": "2026-03-22T22:34:41.115741",
   "date": "2026-03-22",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 39,
-  "account_count": 22,
+  "tweet_count": 43,
+  "account_count": 24,
   "tweets": [
     {
       "id": "2035425239400890639",
@@ -465,6 +465,55 @@
       "likes": 179,
       "retweets": 30,
       "views": 13049
+    },
+    {
+      "id": "2035726331854356485",
+      "username": "emollick",
+      "text": "AI can help us learn hard-to-teach skills, like empathy. Preregistered study of 968 people found almost no correlation between feeling empathic &amp; communicating empathy. But a single practice session with an AI coach made people measurably better at it https://t.co/VDtdiNpw1J https://t.co/a6dxvxQDK5",
+      "timestamp": "2026-03-22T14:32:34+00:00",
+      "url": "https://x.com/emollick/status/2035726331854356485",
+      "images": [
+        "https://pbs.twimg.com/media/HEBaTnoaYAAuBFt.jpg",
+        "https://pbs.twimg.com/media/HEBaTntagAAjIQb.jpg"
+      ],
+      "likes": 3,
+      "retweets": 1,
+      "views": 109
+    },
+    {
+      "id": "2035700481033482688",
+      "username": "rasbt",
+      "text": "A visual guide to modern LLM attention variants, all in one place: https://t.co/vy1DAEKXU8",
+      "timestamp": "2026-03-22T12:49:50+00:00",
+      "url": "https://x.com/rasbt/status/2035700481033482688",
+      "images": [],
+      "likes": 561,
+      "retweets": 111,
+      "views": 16547
+    },
+    {
+      "id": "2035465290071281967",
+      "username": "minchoi",
+      "text": "China's ByteDance just dropped DeerFlow 2.0.\n\nThis AI is a super agent harness with sub-agents, memory, sandboxes, IM channels, and Claude Code integration.\n\n100% open source.\n\nRepo in reply👇 https://t.co/zApQYdsmv5",
+      "timestamp": "2026-03-21T21:15:16+00:00",
+      "url": "https://x.com/minchoi/status/2035465290071281967",
+      "images": [
+        "https://pbs.twimg.com/media/HD9s2atWsAAmOpT.jpg"
+      ],
+      "likes": 957,
+      "retweets": 175,
+      "views": 79109
+    },
+    {
+      "id": "2034725108737089668",
+      "username": "lateinteraction",
+      "text": "someone should try having RLMs, optimized with GEPA, write REPL code primarily using DSPy to do autoresearch for ColBERTv3",
+      "timestamp": "2026-03-19T20:14:03+00:00",
+      "url": "https://x.com/lateinteraction/status/2034725108737089668",
+      "images": [],
+      "likes": 212,
+      "retweets": 12,
+      "views": 12703
     }
   ]
 }
