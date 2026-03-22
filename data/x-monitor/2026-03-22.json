@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-22T14:23:19.562764",
+  "scraped_at": "2026-03-22T17:28:11.353663",
   "date": "2026-03-22",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 36,
-  "account_count": 19,
+  "tweet_count": 39,
+  "account_count": 22,
   "tweets": [
     {
       "id": "2035425239400890639",
@@ -427,6 +427,44 @@
       "likes": 1543,
       "retweets": 60,
       "views": 116135
+    },
+    {
+      "id": "2035636390956839009",
+      "username": "HochreiterSepp",
+      "text": "xLSTM more expressive than transformer, Mamba:  https://t.co/0RpSjNTuYp\n\n*nonlinear RNNs: sLSTM, LSTM\n*DPLR linear RNNs: mLSTM, RWKV, DeltaNet \n*Non PNC1:  Mamba, Transformer\n\n“fundamental expressivity gaps between linear and nonlinear RNNs”\n\nWorld models require nonlinear RNNs. https://t.co/0GN4o4RVw9",
+      "timestamp": "2026-03-22T08:35:10+00:00",
+      "url": "https://x.com/HochreiterSepp/status/2035636390956839009",
+      "images": [
+        "https://pbs.twimg.com/media/HEAHFVVXcAA0P6p.png",
+        "https://pbs.twimg.com/media/HEAHJ8nakAAObLF.png"
+      ],
+      "likes": 14,
+      "retweets": 7,
+      "views": 412
+    },
+    {
+      "id": "2035426955676299770",
+      "username": "lateinteraction",
+      "text": "If a lab hires you to be responsible for their embedding offerings, and your instinct is to go produce a dense single-vector model, you have failed your lab.",
+      "timestamp": "2026-03-21T18:42:57+00:00",
+      "url": "https://x.com/lateinteraction/status/2035426955676299770",
+      "images": [],
+      "likes": 219,
+      "retweets": 14,
+      "views": 36126
+    },
+    {
+      "id": "2035051500033253718",
+      "username": "lmthang",
+      "text": "Update: #Aletheia has now powered 8 math research papers! 📈 Our most recent success, “The Simplicity of the Hodge Bundle,” was solved fully autonomously. It’s at Level 2 “Publishable research” per our categorization. More in thread! https://t.co/Q2w66aSQ4S",
+      "timestamp": "2026-03-20T17:51:01+00:00",
+      "url": "https://x.com/lmthang/status/2035051500033253718",
+      "images": [
+        "https://pbs.twimg.com/media/HD30jjXboAEZMeh.jpg"
+      ],
+      "likes": 179,
+      "retweets": 30,
+      "views": 13049
     }
   ]
 }
