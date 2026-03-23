@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-22T09:35:01.367204+08:00",
+  "last_updated": "2026-03-23T09:34:06.795843+08:00",
   "trends": [
     {
       "id": "ai_safety_pivot_and_accelerated_agi_time",
@@ -11,7 +11,7 @@
         "Anthropic"
       ],
       "trajectory": "accelerating",
-      "signal_count": 36,
+      "signal_count": 37,
       "weekly_counts": [
         1,
         1,
@@ -150,6 +150,10 @@
         {
           "date": "2026-03-22",
           "event": "Research: Alignment Makes LLMs Normative, Not Descriptive"
+        },
+        {
+          "date": "2026-03-23",
+          "event": "Research: Alignment Makes LLMs Normative, Not Descriptive"
         }
       ],
       "created": "2026-02-25"
@@ -227,7 +231,7 @@
         "Multimodal AI"
       ],
       "trajectory": "accelerating",
-      "signal_count": 25,
+      "signal_count": 26,
       "weekly_counts": [
         1,
         1,
@@ -236,10 +240,10 @@
         1,
         1,
         1,
-        1,
         2,
         1,
         2,
+        1,
         1
       ],
       "key_events": [
@@ -334,6 +338,10 @@
         {
           "date": "2026-03-22",
           "event": "NVIDIA Releases Nemotron-Cascade 2: Efficient 30B MoE Model with Strong Reasoning"
+        },
+        {
+          "date": "2026-03-23",
+          "event": "NVIDIA Releases Nemotron-Cascade 2: Efficient 30B MoE Model with Strong Reasoning"
         }
       ],
       "created": "2026-02-25"
@@ -348,9 +356,8 @@
         "Nvidia Competition"
       ],
       "trajectory": "accelerating",
-      "signal_count": 12,
+      "signal_count": 13,
       "weekly_counts": [
-        1,
         0,
         1,
         1,
@@ -359,6 +366,7 @@
         0,
         1,
         0,
+        1,
         1,
         1,
         1
@@ -414,6 +422,10 @@
         },
         {
           "date": "2026-03-22",
+          "event": "xAI Announces \"Terafab\": Next Step Towards Galactic Civilization"
+        },
+        {
+          "date": "2026-03-23",
           "event": "xAI Announces \"Terafab\": Next Step Towards Galactic Civilization"
         }
       ],
@@ -623,9 +635,8 @@
         "Multimodal AI"
       ],
       "trajectory": "accelerating",
-      "signal_count": 56,
+      "signal_count": 58,
       "weekly_counts": [
-        1,
         2,
         1,
         2,
@@ -636,6 +647,7 @@
         2,
         2,
         3,
+        2,
         2
       ],
       "key_events": [
@@ -770,6 +782,10 @@
         {
           "date": "2026-03-22",
           "event": "New Benchmark LVOmniBench Reveals Challenges in Long Audio-Video Understanding"
+        },
+        {
+          "date": "2026-03-23",
+          "event": "Research: Alignment Makes LLMs Normative, Not Descriptive; New Benchmark LVOmniBench Reveals Challenges in Long Audio-Video Understanding"
         }
       ],
       "created": "2026-02-25"
@@ -962,9 +978,8 @@
         "Automation"
       ],
       "trajectory": "accelerating",
-      "signal_count": 84,
+      "signal_count": 86,
       "weekly_counts": [
-        4,
         3,
         4,
         4,
@@ -975,6 +990,7 @@
         4,
         3,
         1,
+        2,
         2
       ],
       "key_events": [
@@ -1113,6 +1129,10 @@
         {
           "date": "2026-03-22",
           "event": "Industry Leader Highlights Rapid Obsolescence of AI Agent Stacks"
+        },
+        {
+          "date": "2026-03-23",
+          "event": "Memento-Skills: Let Agents Design Agents via Memory-Based RL; Industry Discussion: AI Agents Still in Early Adoption Phase"
         }
       ],
       "created": "2026-02-25"
@@ -1192,7 +1212,7 @@
         "Meta"
       ],
       "trajectory": "accelerating",
-      "signal_count": 29,
+      "signal_count": 30,
       "weekly_counts": [
         1,
         1,
@@ -1200,8 +1220,8 @@
         1,
         1,
         1,
-        1,
         2,
+        1,
         1,
         1,
         1,
@@ -1310,6 +1330,10 @@
         },
         {
           "date": "2026-03-22",
+          "event": "OpenAI Announces 10x Faster Agent Workflows with Container Pooling"
+        },
+        {
+          "date": "2026-03-23",
           "event": "OpenAI Announces 10x Faster Agent Workflows with Container Pooling"
         }
       ],
@@ -1452,9 +1476,8 @@
         "Risk Management"
       ],
       "trajectory": "accelerating",
-      "signal_count": 28,
+      "signal_count": 30,
       "weekly_counts": [
-        1,
         1,
         1,
         2,
@@ -1465,7 +1488,8 @@
         1,
         1,
         1,
-        1
+        1,
+        2
       ],
       "key_events": [
         {
@@ -1563,6 +1587,10 @@
         {
           "date": "2026-03-22",
           "event": "Research: Alignment Makes LLMs Normative, Not Descriptive"
+        },
+        {
+          "date": "2026-03-23",
+          "event": "Research: Alignment Makes LLMs Normative, Not Descriptive; Community Concern Over AI Security in Open-Weight Models"
         }
       ],
       "created": "2026-02-25"
@@ -1671,7 +1699,7 @@
         "DeepSeek"
       ],
       "trajectory": "accelerating",
-      "signal_count": 10,
+      "signal_count": 12,
       "weekly_counts": [
         1,
         1,
@@ -1681,7 +1709,8 @@
         1,
         1,
         1,
-        1
+        1,
+        2
       ],
       "key_events": [
         {
@@ -1719,6 +1748,10 @@
         {
           "date": "2026-03-22",
           "event": "Baidu's SAMA Model for Instruction-Guided Video Editing Gains Traction"
+        },
+        {
+          "date": "2026-03-23",
+          "event": "Cursor Admits New Coding Model Built on Moonshot AI's Kimi; Baidu's SAMA Model for Instruction-Guided Video Editing Gains Traction"
         }
       ],
       "created": "2026-02-25"
@@ -1766,9 +1799,8 @@
         "Startup Funding"
       ],
       "trajectory": "accelerating",
-      "signal_count": 25,
+      "signal_count": 26,
       "weekly_counts": [
-        1,
         2,
         1,
         1,
@@ -1779,6 +1811,7 @@
         1,
         1,
         2,
+        1,
         1
       ],
       "key_events": [
@@ -1865,6 +1898,10 @@
         {
           "date": "2026-03-22",
           "event": "Baidu's SAMA Model for Instruction-Guided Video Editing Gains Traction"
+        },
+        {
+          "date": "2026-03-23",
+          "event": "Baidu's SAMA Model for Instruction-Guided Video Editing Gains Traction"
         }
       ],
       "created": "2026-02-26"
@@ -1936,6 +1973,7 @@
         0,
         0,
         0,
+        0,
         0
       ],
       "key_events": [
@@ -1965,6 +2003,7 @@
         0,
         0,
         0,
+        0,
         0
       ],
       "key_events": [
@@ -1988,6 +2027,7 @@
       "signal_count": 1,
       "weekly_counts": [
         1,
+        0,
         0,
         0,
         0,
@@ -2024,6 +2064,7 @@
         0,
         0,
         0,
+        0,
         0
       ],
       "key_events": [
@@ -2051,6 +2092,7 @@
       "signal_count": 1,
       "weekly_counts": [
         1,
+        0,
         0,
         0,
         0,
@@ -2102,6 +2144,7 @@
       "signal_count": 1,
       "weekly_counts": [
         1,
+        0,
         0,
         0,
         0,
@@ -2205,6 +2248,28 @@
         }
       ],
       "created": "2026-03-22"
+    },
+    {
+      "id": "ai-generated_content_attribution_and_aut",
+      "name": "AI-Generated Content Attribution and Authentication Crisis",
+      "related_tags": [
+        "Content Authentication",
+        "AI Ethics",
+        "Intellectual Property",
+        "Content Generation"
+      ],
+      "trajectory": "accelerating",
+      "signal_count": 1,
+      "weekly_counts": [
+        1
+      ],
+      "key_events": [
+        {
+          "date": "2026-03-23",
+          "event": "First detected"
+        }
+      ],
+      "created": "2026-03-23"
     }
   ]
 }

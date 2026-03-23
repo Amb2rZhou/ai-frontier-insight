@@ -1,66 +1,6 @@
 {
   "predictions": [
     {
-      "date": "2026-03-13T09:34:31.861727+08:00",
-      "prediction_text": "内容平台可以考虑将视频生成API深度集成至创作者工具链，赋能用户创作原生短视频内容。",
-      "category": "strategic_move",
-      "source_signal": "OpenAI Sora 2 Video API Launches with New Capabilities"
-    },
-    {
-      "date": "2026-03-13T09:34:31.883302+08:00",
-      "prediction_text": "创作者工具与电商运营平台值得关注将此类交互式图表生成能力内化为基础功能，替代外部工具。",
-      "category": "strategic_move",
-      "source_signal": "Claude Launches Interactive Chart and Diagram Generation Feature"
-    },
-    {
-      "date": "2026-03-13T09:34:31.888550+08:00",
-      "prediction_text": "电商与内容平台可以探索集成此类外部Agent平台，快速为专业用户提供高级自动化能力。",
-      "category": "ecosystem_shift",
-      "source_signal": "Perplexity Computer Rolls Out to All Pro Subscribers, Max Plan Offers Higher Limits"
-    },
-    {
-      "date": "2026-03-13T09:34:31.893169+08:00",
-      "prediction_text": "搜索产品与推荐系统建议探索自然语言对话式交互，将复杂筛选与发现过程转化为对话。",
-      "category": "strategic_move",
-      "source_signal": "Google Maps Integrates AI with 'Ask Gemini' and Immersive Navigation"
-    },
-    {
-      "date": "2026-03-13T09:34:31.899417+08:00",
-      "prediction_text": "自研Agent系统的团队可以考虑借鉴NeMo Agent Toolkit等框架，加速垂直领域Agent的工程化。",
-      "category": "open_source",
-      "source_signal": "NVIDIA Blog: How to Build a #1 Agent on DABStep with Reusable Tool Generation"
-    },
-    {
-      "date": "2026-03-13T09:34:31.904883+08:00",
-      "prediction_text": "平台级Agent项目可以探索引入CCR机制，作为关键决策或内容生成步骤的强制性质量检查点。",
-      "category": "research_breakthrough",
-      "source_signal": "Research: Cross-Context Review (CCR) Improves LLM Output Quality"
-    },
-    {
-      "date": "2026-03-13T09:34:31.909509+08:00",
-      "prediction_text": "构建复杂Agent的团队建议将向量数据库升级为核心系统，并投入研发高精度、低延迟的检索方案。",
-      "category": "infrastructure",
-      "source_signal": "VentureBeat: Agents Need Vector Search More Than RAG Ever Did"
-    },
-    {
-      "date": "2026-03-13T09:34:31.915049+08:00",
-      "prediction_text": "平台AI战略需在技术选型与供应链上考虑多元化与自主可控，规避地缘政治风险。",
-      "category": "industry_risk",
-      "source_signal": "a16z Podcast: Palantir CEO Alex Karp on Zero-Sum AI Race and National Defense"
-    },
-    {
-      "date": "2026-03-13T09:34:31.921113+08:00",
-      "prediction_text": "技术团队可以关注并评估此类开源Agent框架，用于构建内部实验性或非核心业务的自动化流程。",
-      "category": "open_source",
-      "source_signal": "[Update] OpenClaw Releases Hunter & Healer Alpha Models with 1M Context"
-    },
-    {
-      "date": "2026-03-13T09:34:31.925771+08:00",
-      "prediction_text": "内容安全团队必须将AI审核工具的误判风险纳入治理框架，建立人工复核与用户申诉的强兜底机制。",
-      "category": "industry_risk",
-      "source_signal": "AI Facial Recognition Error Leads to Wrongful Imprisonment, Highlighting Governance Risks"
-    },
-    {
       "date": "2026-03-14T09:35:16.595836+08:00",
       "prediction_text": "内容与社区平台的 AI 助手可以考虑设计跨端、状态同步的持续性交互体验。",
       "category": "strategic_move",
@@ -599,6 +539,66 @@
       "prediction_text": "创作者工具与社区运营团队需要审慎设计 AI 辅助功能的贡献披露机制，平衡透明度与用户体验。",
       "category": "ecosystem_shift",
       "source_signal": "Community Debate: Should AI Auto-Credit Itself in GitHub Projects?"
+    },
+    {
+      "date": "2026-03-23T09:33:08.071449+08:00",
+      "prediction_text": "推荐系统与创作者工具团队可以考虑采用此类高效模型，构建实时、低成本的推理与内容理解服务。",
+      "category": "model_release",
+      "source_signal": "NVIDIA Releases Nemotron-Cascade 2: Efficient 30B MoE Model"
+    },
+    {
+      "date": "2026-03-23T09:33:08.085281+08:00",
+      "prediction_text": "技术选型团队值得关注并评估中国领先模型，作为构建或增强平台AI能力的潜在基座。",
+      "category": "ecosystem_shift",
+      "source_signal": "Cursor Admits New Coding Model Built on Moonshot AI's Kimi"
+    },
+    {
+      "date": "2026-03-23T09:33:08.137322+08:00",
+      "prediction_text": "视频创作工具团队可以探索集成类似架构，为用户提供更精准可控的AI视频编辑功能。",
+      "category": "research_breakthrough",
+      "source_signal": "Baidu's SAMA Model for Instruction-Guided Video Editing"
+    },
+    {
+      "date": "2026-03-23T09:33:08.162479+08:00",
+      "prediction_text": "基础设施团队值得关注超大规模自研芯片趋势，评估其对长期算力战略的潜在影响。",
+      "category": "strategic_move",
+      "source_signal": "Elon Musk Announces Terafab Chip Plant for AI and Robotics"
+    },
+    {
+      "date": "2026-03-23T09:33:08.175548+08:00",
+      "prediction_text": "内容安全与推荐系统团队需要区分任务场景，针对性选用基础模型或对齐模型。",
+      "category": "research_breakthrough",
+      "source_signal": "Research: Alignment Makes LLMs Normative, Not Descriptive"
+    },
+    {
+      "date": "2026-03-23T09:33:08.185274+08:00",
+      "prediction_text": "工程团队在构建Agent系统时，可以考虑引入类似的元学习框架，以降低特定任务Agent的开发成本。",
+      "category": "research_breakthrough",
+      "source_signal": "Memento-Skills: Let Agents Design Agents via Memory-Based RL"
+    },
+    {
+      "date": "2026-03-23T09:33:08.204218+08:00",
+      "prediction_text": "内容理解团队建议基于此类基准，研发针对长视频摘要、审核与搜索的专用模型。",
+      "category": "research_breakthrough",
+      "source_signal": "New Benchmark LVOmniBench Reveals Challenges in Long Audio-Video Understanding"
+    },
+    {
+      "date": "2026-03-23T09:33:08.214738+08:00",
+      "prediction_text": "内容安全团队必须将开源模型的安全测试纳入风控体系，并建立动态的越狱检测机制。",
+      "category": "ecosystem_shift",
+      "source_signal": "Community Concern Over AI Security in Open-Weight Models"
+    },
+    {
+      "date": "2026-03-23T09:33:08.229678+08:00",
+      "prediction_text": "社区运营与版权团队需要建立清晰的AI内容标注与披露准则，并设计相应的产品流程。",
+      "category": "industry_risk",
+      "source_signal": "Game Developer Apologizes for Use of AI Art in 'Crimson Desert'"
+    },
+    {
+      "date": "2026-03-23T09:33:08.237320+08:00",
+      "prediction_text": "产品团队在规划Agent功能时，建议从解决具体、高价值的单点任务入手，而非追求通用性。",
+      "category": "industry_insight",
+      "source_signal": "Industry Discussion: AI Agents Still in Early Adoption Phase"
     }
   ]
 }
