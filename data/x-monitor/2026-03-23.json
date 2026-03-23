@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-23T13:44:15.438660",
+  "scraped_at": "2026-03-23T18:18:58.487468",
   "date": "2026-03-23",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 31,
-  "account_count": 23,
+  "tweet_count": 40,
+  "account_count": 29,
   "tweets": [
     {
       "id": "2035762343502836020",
@@ -361,6 +361,107 @@
       "likes": 747,
       "retweets": 51,
       "views": 84669
+    },
+    {
+      "id": "2036023183351161136",
+      "username": "steipete",
+      "text": "This guy emailed me asking for a *token session refund* because his claw made mistakes. 🙃 https://t.co/QG6l5VN69Z",
+      "timestamp": "2026-03-23T10:12:09+00:00",
+      "url": "https://x.com/steipete/status/2036023183351161136",
+      "images": [
+        "https://pbs.twimg.com/media/HEFoS5haAAAiWB-.jpg"
+      ],
+      "likes": 61,
+      "retweets": 3,
+      "views": 2121
+    },
+    {
+      "id": "2036020395200090484",
+      "username": "steipete",
+      "text": "New @openclaw beta bits are up! https://t.co/tuzuGXLMlU",
+      "timestamp": "2026-03-23T10:01:04+00:00",
+      "url": "https://x.com/steipete/status/2036020395200090484",
+      "images": [],
+      "likes": 142,
+      "retweets": 14,
+      "views": 4609
+    },
+    {
+      "id": "2036019740930408905",
+      "username": "MattNiessner",
+      "text": "📢WorldAgents: 3D worlds only from 2D image models - without any training!\n\nWe propose an agentic approach with a Director (VLM) to plan the scene, a Generator (Flux or NanoBanana) for new views, and a Verifier (VLM) for selection / 3D consistency.\n\n-&gt; High-fidelity 3D worlds https://t.co/qNP4lacits",
+      "timestamp": "2026-03-23T09:58:28+00:00",
+      "url": "https://x.com/MattNiessner/status/2036019740930408905",
+      "images": [],
+      "likes": 18,
+      "retweets": 6,
+      "views": 352
+    },
+    {
+      "id": "2035990052459704435",
+      "username": "PyTorch",
+      "text": "🚀 The Inference &amp; Production track at #PyTorchCon Europe (7-8 April in Paris) covers deploying models, optimizing inference pipelines &amp; scaling #AI systems.\n\nLearn more:\nhttps://t.co/SoweZ4Xu43 \n\n🎟 Register →\nhttps://t.co/Q9AWqAyojY https://t.co/DqaJxIG9UX",
+      "timestamp": "2026-03-23T08:00:30+00:00",
+      "url": "https://x.com/PyTorch/status/2035990052459704435",
+      "images": [],
+      "likes": 9,
+      "retweets": 3,
+      "views": 2085
+    },
+    {
+      "id": "2035966832197427509",
+      "username": "jeremyphoward",
+      "text": "Opus &amp; Sonnet 4.6 haven't been a great hit for most of my work, or our customers, since (as warned in their tech report) they're over-enthusiastic about agentically taking over, rather than letting the human lead.\n\nAny suggestions for competent models that are patient followers?",
+      "timestamp": "2026-03-23T06:28:13+00:00",
+      "url": "https://x.com/jeremyphoward/status/2035966832197427509",
+      "images": [],
+      "likes": 182,
+      "retweets": 8,
+      "views": 33612
+    },
+    {
+      "id": "2035963249594622320",
+      "username": "roydanroy",
+      "text": "Nice result out of U of Toronto / Vector.",
+      "timestamp": "2026-03-23T06:13:59+00:00",
+      "url": "https://x.com/roydanroy/status/2035963249594622320",
+      "images": [],
+      "likes": 13,
+      "retweets": 2,
+      "views": 2912
+    },
+    {
+      "id": "2035962874770899385",
+      "username": "Miles_Brundage",
+      "text": "Claude-ia Sheinbaum? President of Mexicanthropic?",
+      "timestamp": "2026-03-23T06:12:30+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2035962874770899385",
+      "images": [],
+      "likes": 7,
+      "retweets": 0,
+      "views": 959
+    },
+    {
+      "id": "2035961556966789300",
+      "username": "Miles_Brundage",
+      "text": "Ok I’ll bite, who’s Chapel Rome",
+      "timestamp": "2026-03-23T06:07:16+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2035961556966789300",
+      "images": [],
+      "likes": 3,
+      "retweets": 0,
+      "views": 706
+    },
+    {
+      "id": "2035845381159055758",
+      "username": "mitchellh",
+      "text": "The libghostty C API is functionally super stable, because its the same core thats been powering Ghostty for years. But the ABI is not yet stable. In this video, I talk about what an ABI is and the plans we have to ensure libghostty ABI compatibility once we tag a release. https://t.co/TccvgjDUYk",
+      "timestamp": "2026-03-22T22:25:37+00:00",
+      "url": "https://x.com/mitchellh/status/2035845381159055758",
+      "images": [],
+      "likes": 275,
+      "retweets": 13,
+      "views": 24470
     }
   ]
 }
