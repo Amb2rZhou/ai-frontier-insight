@@ -13,6 +13,17 @@ from ..utils.json_repair import parse_json_response
 from .ai_client import call_ai
 
 
+def _title_similar(a: str, b: str, threshold: float = 0.6) -> bool:
+    """Check if two titles are similar enough to be considered duplicates."""
+    words_a = set(a.split())
+    words_b = set(b.split())
+    if not words_a or not words_b:
+        return False
+    overlap = len(words_a & words_b)
+    shorter = min(len(words_a), len(words_b))
+    return overlap / shorter >= threshold
+
+
 def extract_signals(raw_items: List[RawItem]) -> Optional[List[Dict]]:
     """Extract top signals from raw items using AI.
 
@@ -88,12 +99,28 @@ def extract_signals(raw_items: List[RawItem]) -> Optional[List[Dict]]:
     signals = parsed.get("signals", [])
     print(f"  Extracted {len(signals)} signals")
 
+    # Dedup: remove signals whose title is too similar to recent signals
+    if recent_titles:
+        recent_lower = [t.lower().strip().lstrip("[update] ") for t in recent_titles]
+        before = len(signals)
+        deduped = []
+        for s in signals:
+            title = s.get("title", "").lower().strip().lstrip("[update] ")
+            if any(_title_similar(title, r) for r in recent_lower):
+                print(f"  Dedup: removed '{s.get('title', '')[:50]}' (similar to recent)")
+            else:
+                deduped.append(s)
+        signals = deduped
+        if before > len(signals):
+            print(f"  Dedup: {before} → {len(signals)} signals")
+
     # Sort by signal_strength descending
     signals.sort(key=lambda s: s.get("signal_strength", 0), reverse=True)
 
-    # Trim to max
-    if len(signals) > max_signals:
-        signals = signals[:max_signals]
+    # Trim to final output count (10)
+    final_count = settings.get("analysis", {}).get("daily_output_signals", 10)
+    if len(signals) > final_count:
+        signals = signals[:final_count]
 
     # Attach source URLs from raw items
     for signal in signals:
