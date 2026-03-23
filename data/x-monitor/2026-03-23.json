@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-23T06:15:52.853430",
+  "scraped_at": "2026-03-23T08:48:59.005412",
   "date": "2026-03-23",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 16,
-  "account_count": 15,
+  "tweet_count": 19,
+  "account_count": 18,
   "tweets": [
     {
       "id": "2035762343502836020",
@@ -191,6 +191,41 @@
       "likes": 90,
       "retweets": 6,
       "views": 7028
+    },
+    {
+      "id": "2035878471352942676",
+      "username": "ChrSzegedy",
+      "text": "I will comment on this and other topics at the Infornation Bottleneck podcast. https://t.co/OxTtXCVUuZ",
+      "timestamp": "2026-03-23T00:37:07+00:00",
+      "url": "https://x.com/ChrSzegedy/status/2035878471352942676",
+      "images": [],
+      "likes": 3,
+      "retweets": 0,
+      "views": 245
+    },
+    {
+      "id": "2035876317497831811",
+      "username": "emollick",
+      "text": "Anthropic showed older (2022) LLMs will give you less accurate answers if you seem less educated to the AI, but this issue has, as far as I know, been addressed in more recent models. https://t.co/iXnlBpYXLA https://t.co/ByclHjwywR",
+      "timestamp": "2026-03-23T00:28:33+00:00",
+      "url": "https://x.com/emollick/status/2035876317497831811",
+      "images": [
+        "https://pbs.twimg.com/media/HEDiuKcbQAAVIGR.jpg"
+      ],
+      "likes": 20,
+      "retweets": 0,
+      "views": 3690
+    },
+    {
+      "id": "2035855117904216333",
+      "username": "OfficialLoganK",
+      "text": "With AI coding, it’s possible every app / website becomes an App Store.\n\nThe second and third order effects of this are interesting to think about.",
+      "timestamp": "2026-03-22T23:04:19+00:00",
+      "url": "https://x.com/OfficialLoganK/status/2035855117904216333",
+      "images": [],
+      "likes": 403,
+      "retweets": 17,
+      "views": 29896
     }
   ]
 }
