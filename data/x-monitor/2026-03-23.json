@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-23T18:18:58.487468",
+  "scraped_at": "2026-03-23T23:38:00.200642",
   "date": "2026-03-23",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 40,
-  "account_count": 29,
+  "tweet_count": 52,
+  "account_count": 37,
   "tweets": [
     {
       "id": "2035762343502836020",
@@ -462,6 +462,153 @@
       "likes": 275,
       "retweets": 13,
       "views": 24470
+    },
+    {
+      "id": "2036103951242690697",
+      "username": "emollick",
+      "text": "Interesting finding in this paper showing that, for product development ideas, AIs consistently rank above humans (well, humans on Prolific) &amp; larger and more\nrecent models are more creative than previous ones. (It also tries a creativity intervention that doesn’t work on LLMs) https://t.co/d948ryUY2i",
+      "timestamp": "2026-03-23T15:33:05+00:00",
+      "url": "https://x.com/emollick/status/2036103951242690697",
+      "images": [
+        "https://pbs.twimg.com/media/HEGxwD-XcAAj3FV.jpg",
+        "https://pbs.twimg.com/media/HEGxwEib0AE6QVB.jpg"
+      ],
+      "likes": 8,
+      "retweets": 1,
+      "views": 699
+    },
+    {
+      "id": "2036103377726145004",
+      "username": "ClementDelangue",
+      "text": "We want to make @huggingface buckets the S3 for agents! Let us know if you can use something like that and happy to work with you on your usecase https://t.co/HExdOvLica",
+      "timestamp": "2026-03-23T15:30:48+00:00",
+      "url": "https://x.com/ClementDelangue/status/2036103377726145004",
+      "images": [
+        "https://pbs.twimg.com/media/HEGxLrobEAAi60e.jpg"
+      ],
+      "likes": 13,
+      "retweets": 3,
+      "views": 666
+    },
+    {
+      "id": "2036095627348615493",
+      "username": "NVIDIAAI",
+      "text": "A new class of AI is emerging: autonomous agents that achieve complex tasks. \n\nTo deploy them responsibly means building in governance from day one. \n\nNVIDIA OpenShell unifies open innovation with built-in security and privacy controls —so agents can operate more securely, https://t.co/VzmSTglkys",
+      "timestamp": "2026-03-23T15:00:01+00:00",
+      "url": "https://x.com/NVIDIAAI/status/2036095627348615493",
+      "images": [
+        "https://pbs.twimg.com/media/HEFGLR3XYAAK7b0.jpg"
+      ],
+      "likes": 32,
+      "retweets": 5,
+      "views": 1634
+    },
+    {
+      "id": "2036094385503244463",
+      "username": "minchoi",
+      "text": "🚨OpenAI is reportedly offering private-equity firms a guaranteed 17.5% return to raise fresh capital. https://t.co/9XdT0jG4nY",
+      "timestamp": "2026-03-23T14:55:04+00:00",
+      "url": "https://x.com/minchoi/status/2036094385503244463",
+      "images": [
+        "https://pbs.twimg.com/media/HEGo79yaMAEp-PL.jpg"
+      ],
+      "likes": 18,
+      "retweets": 1,
+      "views": 4124
+    },
+    {
+      "id": "2036083244689441178",
+      "username": "Austen",
+      "text": "By the way, one of the most common things we hear coming into Gauntlet AI now is, “Oh I’m already a pro at using AI.”\n\nEvery single time two weeks in everyone is saying, “Turns out I was barely scratching the surface.”",
+      "timestamp": "2026-03-23T14:10:48+00:00",
+      "url": "https://x.com/Austen/status/2036083244689441178",
+      "images": [],
+      "likes": 42,
+      "retweets": 2,
+      "views": 6080
+    },
+    {
+      "id": "2036079161542844668",
+      "username": "thegautamkamath",
+      "text": "As co-comms chair of ICML 2026 (w @kgorman), I'm super proud of how transparent we've been able to be on all of the (bold!) decisions made. Thanks to all the organizers (esp PC chairs) for being aligned on this. \n\nThe community deserves to understand these important decisions",
+      "timestamp": "2026-03-23T13:54:35+00:00",
+      "url": "https://x.com/thegautamkamath/status/2036079161542844668",
+      "images": [],
+      "likes": 59,
+      "retweets": 2,
+      "views": 4606
+    },
+    {
+      "id": "2036076540530737509",
+      "username": "egrefen",
+      "text": "🤖 Feudal RL 🏰 is so back 🎉\n\nSo pleased to see work led by @kevinwty, @SianGooding, Oriana and Florian out in public, after being under wraps.\n\nAt 50+ pages, it's a whopper, but the results speak for themselves so I highly recommend you give it a read if you work in this space.",
+      "timestamp": "2026-03-23T13:44:10+00:00",
+      "url": "https://x.com/egrefen/status/2036076540530737509",
+      "images": [],
+      "likes": 5,
+      "retweets": 2,
+      "views": 333
+    },
+    {
+      "id": "2036070709903179835",
+      "username": "UnslothAI",
+      "text": "You can now train Qwen3.5 with RL in our free notebook!\n\nYou just need 8GB VRAM to RL Qwen3.5-2B locally!\n\nQwen3.5 will learn to solve math problems autonomously via vision GRPO.\n\nRL Guide: https://t.co/iR9AF3BIFu\nGitHub: https://t.co/aZWYAtakBP\n\nQwen3-4B: https://t.co/OzzCLFkSoW https://t.co/mEm6DbWYl2",
+      "timestamp": "2026-03-23T13:21:00+00:00",
+      "url": "https://x.com/UnslothAI/status/2036070709903179835",
+      "images": [
+        "https://pbs.twimg.com/media/HEGThTKa0AA0nQv.jpg"
+      ],
+      "likes": 624,
+      "retweets": 88,
+      "views": 39813
+    },
+    {
+      "id": "2036043904949330407",
+      "username": "openclaw",
+      "text": "OpenClaw 2026.3.22 🦞\n\n🏪 ClawHub plugin marketplace\n🤖 MiniMax M2.7, GPT-5.4-mini/nano + per-agent reasoning\n💬 /btw side questions\n🏖️ OpenShell + SSH sandboxes\n🌐 Exa, Tavily, Firecrawl search\n\nThis release is so big it needs its own table of contents. https://t.co/XvRbXEduGC",
+      "timestamp": "2026-03-23T11:34:29+00:00",
+      "url": "https://x.com/openclaw/status/2036043904949330407",
+      "images": [],
+      "likes": 3336,
+      "retweets": 324,
+      "views": 533821
+    },
+    {
+      "id": "2036039332910309619",
+      "username": "NielsRogge",
+      "text": "Is it just me or is pinchbench way too simple?\n\ne.g., one of the tasks is just to... write an email? https://t.co/gy5Py3MOCF",
+      "timestamp": "2026-03-23T11:16:19+00:00",
+      "url": "https://x.com/NielsRogge/status/2036039332910309619",
+      "images": [
+        "https://pbs.twimg.com/media/HEF24rXXwAApd79.jpg"
+      ],
+      "likes": 4,
+      "retweets": 0,
+      "views": 823
+    },
+    {
+      "id": "2036038782793994541",
+      "username": "RisingSayak",
+      "text": "We released 🤗 Kernels 0.12.3 to support Flash-Attention 4! This means we now support kernels written in `cutlass.cute`.\n\n```\nfrom kernels import get_kernel\n\nfa4 = kernels.get_kernel(\"kernels-community/flash-attn4\" version=0)\n```\nand you're ready to go!\n\nDiffusers and",
+      "timestamp": "2026-03-23T11:14:08+00:00",
+      "url": "https://x.com/RisingSayak/status/2036038782793994541",
+      "images": [],
+      "likes": 32,
+      "retweets": 7,
+      "views": 1242
+    },
+    {
+      "id": "2035772350013362232",
+      "username": "mathemagic1an",
+      "text": "Interesting idea here:\n\n🌪️ Spawn subagents with search_traces(...) and view_trace(...) tools\n\n✍️ Have these subagents curate a \"memory wiki\"\n\n🔍 Search this wiki at inference time with another subagent.\n\nAs implemented, this is probably crazy expensive; clearly a task you can https://t.co/vkCZo3FtOQ",
+      "timestamp": "2026-03-22T17:35:25+00:00",
+      "url": "https://x.com/mathemagic1an/status/2035772350013362232",
+      "images": [
+        "https://pbs.twimg.com/media/HECDb-zbwAA0K3c.png"
+      ],
+      "likes": 30,
+      "retweets": 4,
+      "views": 6198
     }
   ]
 }
