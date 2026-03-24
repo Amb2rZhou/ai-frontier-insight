@@ -114,6 +114,32 @@ def extract_signals(raw_items: List[RawItem]) -> Optional[List[Dict]]:
         if before > len(signals):
             print(f"  Dedup: {before} → {len(signals)} signals")
 
+    # Post-filter: remove arxiv/paper signals with no identifiable institution
+    _TOP_ORGS = [
+        "google", "deepmind", "openai", "anthropic", "meta", "fair",
+        "microsoft", "apple", "nvidia", "huggingface",
+        "bytedance", "字节", "tencent", "腾讯", "alibaba", "阿里", "baidu", "百度",
+        "huawei", "华为", "sensetime", "商汤",
+        "mit", "stanford", "cmu", "carnegie", "berkeley", "清华", "北大", "中科院",
+        "princeton", "harvard", "yale", "oxford", "cambridge",
+    ]
+    before_filter = len(signals)
+    filtered = []
+    for s in signals:
+        text = (s.get("signal_text", "") + " " + s.get("title", "")).lower()
+        sources = [src.get("name", "").lower() for src in s.get("sources", [])]
+        is_paper = any("arxiv" in src or "paper" in src or "huggingface.co/papers" in src
+                       for src in sources) or "arxiv" in text
+        if is_paper:
+            has_org = any(org in text for org in _TOP_ORGS)
+            if not has_org:
+                print(f"  Filter: removed paper '{s.get('title', '')[:50]}' (no known institution)")
+                continue
+        filtered.append(s)
+    signals = filtered
+    if before_filter > len(signals):
+        print(f"  Paper filter: {before_filter} → {len(signals)} signals")
+
     # Sort by signal_strength descending
     signals.sort(key=lambda s: s.get("signal_strength", 0), reverse=True)
 
