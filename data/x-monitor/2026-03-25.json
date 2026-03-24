@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-25T04:07:10.518127",
+  "scraped_at": "2026-03-25T07:10:34.353284",
   "date": "2026-03-25",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 43,
-  "account_count": 33,
+  "tweet_count": 64,
+  "account_count": 43,
   "tweets": [
     {
       "id": "2036533836973011340",
@@ -514,6 +514,243 @@
       "likes": 1295,
       "retweets": 157,
       "views": 105377
+    },
+    {
+      "id": "2036580645179175138",
+      "username": "lateinteraction",
+      "text": "Look at these results carefully.\n\nCodex and Gemini 3, with gemini file search and codex default tools, versus with @mixedbread’s new late interaction model.\n\nSoon enough, if your coding agent is not an RLM with ColBERT file search, you’re ngmi.",
+      "timestamp": "2026-03-24T23:07:18+00:00",
+      "url": "https://x.com/lateinteraction/status/2036580645179175138",
+      "images": [],
+      "likes": 1,
+      "retweets": 0,
+      "views": 52
+    },
+    {
+      "id": "2036574289827103120",
+      "username": "DeryaTR_",
+      "text": "OpenAI finished training its latest model, codenamed Spud. It’s going to be big  &amp; has renamed its product org “AGI Deployment.” Meanwhile, people still debate that AI has not reached AGI level or can’t do this or that. The era of human foolishness and coping is about to end. 🤖",
+      "timestamp": "2026-03-24T22:42:03+00:00",
+      "url": "https://x.com/DeryaTR_/status/2036574289827103120",
+      "images": [],
+      "likes": 48,
+      "retweets": 3,
+      "views": 1547
+    },
+    {
+      "id": "2036573680810205461",
+      "username": "NandoDF",
+      "text": "I am super excited to welcome Ali Farhadi, Hanna Hajishirzi and Ranjay Krishna to Microsoft Superintelligence. They are exceptionally bright scientists who have made many impactful contributions to AI research and open source. Let the journey continue!  https://t.co/IwxmiORYed",
+      "timestamp": "2026-03-24T22:39:37+00:00",
+      "url": "https://x.com/NandoDF/status/2036573680810205461",
+      "images": [],
+      "likes": 11,
+      "retweets": 1,
+      "views": 785
+    },
+    {
+      "id": "2036573117431095665",
+      "username": "emollick",
+      "text": "All the AI labs are exploring the opportunity space for LLMs. Anthropic has always been very focused and OpenAI more prone to testing, and abandoning, concepts (GPT Store, Sora, etc.). Google sort of does everything at once. It is unclear which strategy will be best in the end.",
+      "timestamp": "2026-03-24T22:37:23+00:00",
+      "url": "https://x.com/emollick/status/2036573117431095665",
+      "images": [],
+      "likes": 54,
+      "retweets": 4,
+      "views": 3658
+    },
+    {
+      "id": "2036570463820980263",
+      "username": "Miles_Brundage",
+      "text": "AGI-pilled people trying to explain to normies that AI progress continues to be rapid https://t.co/MyVyZk1oHR",
+      "timestamp": "2026-03-24T22:26:50+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2036570463820980263",
+      "images": [],
+      "likes": 23,
+      "retweets": 2,
+      "views": 1191
+    },
+    {
+      "id": "2036569344461705298",
+      "username": "DeryaTR_",
+      "text": "Some more rapping before Sora shuts down ☺️ https://t.co/EhQxsLboox",
+      "timestamp": "2026-03-24T22:22:24+00:00",
+      "url": "https://x.com/DeryaTR_/status/2036569344461705298",
+      "images": [],
+      "likes": 21,
+      "retweets": 0,
+      "views": 2069
+    },
+    {
+      "id": "2036568866336481520",
+      "username": "srush_nlp",
+      "text": "Lots of juicy details from Composer 2 training. How we think about RL, how we set up envs, why we think it scales, why we make our own evals...",
+      "timestamp": "2026-03-24T22:20:30+00:00",
+      "url": "https://x.com/srush_nlp/status/2036568866336481520",
+      "images": [],
+      "likes": 89,
+      "retweets": 8,
+      "views": 3873
+    },
+    {
+      "id": "2036564234444668963",
+      "username": "DeryaTR_",
+      "text": "I asked GPT-5.4 Pro to invent this word it came up with: “contextorge”  ☺️\n\nmeaning:\nto feed something every scrap of context you can possibly think of, all at once.",
+      "timestamp": "2026-03-24T22:02:05+00:00",
+      "url": "https://x.com/DeryaTR_/status/2036564234444668963",
+      "images": [],
+      "likes": 14,
+      "retweets": 0,
+      "views": 2649
+    },
+    {
+      "id": "2036560707790184951",
+      "username": "AravSrinivas",
+      "text": "Comet is an autonomous Internet Computer, capable of doing tasks that you would otherwise hire contractors to do.",
+      "timestamp": "2026-03-24T21:48:04+00:00",
+      "url": "https://x.com/AravSrinivas/status/2036560707790184951",
+      "images": [],
+      "likes": 75,
+      "retweets": 5,
+      "views": 9090
+    },
+    {
+      "id": "2036555867873562648",
+      "username": "Austen",
+      "text": "Everyone calls AI output “slop,” but I would be surprised if the median line code written by AI today weren’t higher quality than the median line of code written 10 years ago",
+      "timestamp": "2026-03-24T21:28:50+00:00",
+      "url": "https://x.com/Austen/status/2036555867873562648",
+      "images": [],
+      "likes": 114,
+      "retweets": 1,
+      "views": 6062
+    },
+    {
+      "id": "2036555259997462541",
+      "username": "bcherny",
+      "text": "no 👏 more 👏 permission prompts 👏",
+      "timestamp": "2026-03-24T21:26:26+00:00",
+      "url": "https://x.com/bcherny/status/2036555259997462541",
+      "images": [],
+      "likes": 1127,
+      "retweets": 56,
+      "views": 55858
+    },
+    {
+      "id": "2036555099296731570",
+      "username": "DeryaTR_",
+      "text": "This is disappointing. The Sora app was great, and I had created a lot of videos there.😒But I guess it was way too compute-intensive and became a side quest distraction for OpenAI. It’s also  harder to compete now that better models like Seedance 2.0 have been released.",
+      "timestamp": "2026-03-24T21:25:47+00:00",
+      "url": "https://x.com/DeryaTR_/status/2036555099296731570",
+      "images": [],
+      "likes": 77,
+      "retweets": 1,
+      "views": 6156
+    },
+    {
+      "id": "2036555057575964786",
+      "username": "nvidia",
+      "text": "Visionary leaders do more than build companies—they shape the foundation for the future. 🎓 \n\nOur founder and CEO, Jensen Huang, will deliver the 2026 Commencement address at @CarnegieMellon, where he will also be awarded an Honorary Doctor of Science and Technology degree. https://t.co/rT4CVfv5rj",
+      "timestamp": "2026-03-24T21:25:37+00:00",
+      "url": "https://x.com/nvidia/status/2036555057575964786",
+      "images": [
+        "https://pbs.twimg.com/media/HENMCEKWIAAB-TP.png"
+      ],
+      "likes": 224,
+      "retweets": 33,
+      "views": 12050
+    },
+    {
+      "id": "2036548842099781694",
+      "username": "ClementDelangue",
+      "text": "Would be so cool if OpenAI open-sourced Sora as they're shutting down the app! Would be an amazing contribution to the field and make all the efforts of the teams working on it even more meaningful!",
+      "timestamp": "2026-03-24T21:00:55+00:00",
+      "url": "https://x.com/ClementDelangue/status/2036548842099781694",
+      "images": [],
+      "likes": 804,
+      "retweets": 59,
+      "views": 55625
+    },
+    {
+      "id": "2036546464802124182",
+      "username": "mitchellh",
+      "text": "Every. single. day. It's increasingly becoming difficult to do real work with GitHub. Git isn't the issue, since I can work offline. Its issues, PRs, CI, etc. Imagine going to work and your workstation randomly restarts a few times a day. That's what it feels like using GH. https://t.co/lWCFMbNY4q",
+      "timestamp": "2026-03-24T20:51:29+00:00",
+      "url": "https://x.com/mitchellh/status/2036546464802124182",
+      "images": [
+        "https://pbs.twimg.com/media/HEND20VbcAAou3C.jpg"
+      ],
+      "likes": 646,
+      "retweets": 18,
+      "views": 32393
+    },
+    {
+      "id": "2036545823027126759",
+      "username": "OfficialLoganK",
+      "text": "we are designing something special for Google IO and we want you to be part of it\n\nreply with your AI Studio app, along with a 1-sentence story on how and why you vibe coded it",
+      "timestamp": "2026-03-24T20:48:56+00:00",
+      "url": "https://x.com/OfficialLoganK/status/2036545823027126759",
+      "images": [],
+      "likes": 466,
+      "retweets": 16,
+      "views": 25870
+    },
+    {
+      "id": "2036540246985253367",
+      "username": "DeryaTR_",
+      "text": "Important milestone for the impact of AI diagnosis in real-life clinical environments: it can be as good as clinicians. It will continue to get better and better.",
+      "timestamp": "2026-03-24T20:26:46+00:00",
+      "url": "https://x.com/DeryaTR_/status/2036540246985253367",
+      "images": [],
+      "likes": 26,
+      "retweets": 5,
+      "views": 4988
+    },
+    {
+      "id": "2036538332042104920",
+      "username": "minchoi",
+      "text": "RIP Sora... literally",
+      "timestamp": "2026-03-24T20:19:10+00:00",
+      "url": "https://x.com/minchoi/status/2036538332042104920",
+      "images": [],
+      "likes": 35,
+      "retweets": 1,
+      "views": 8425
+    },
+    {
+      "id": "2036537331549659590",
+      "username": "NielsRogge",
+      "text": "Very cool to see MixedBread include our newly introduced MADQA, an agentic RAG benchmark, in its results\n\nShows that late-interaction models are a a lot better than bi-encoders, but it will take time for the industry to adopt these",
+      "timestamp": "2026-03-24T20:15:11+00:00",
+      "url": "https://x.com/NielsRogge/status/2036537331549659590",
+      "images": [],
+      "likes": 11,
+      "retweets": 2,
+      "views": 1128
+    },
+    {
+      "id": "2036411133637058788",
+      "username": "PyTorch",
+      "text": "Today at KubeCon + CloudNativeCon Europe during keynote fireside chat @sparkycollier, PyTorch Foundation ED, explained that the problems we need to solve to deliver open source AI for training, inference and agents require deep expertise across different domains, and those https://t.co/0mOmR4IyJM",
+      "timestamp": "2026-03-24T11:53:43+00:00",
+      "url": "https://x.com/PyTorch/status/2036411133637058788",
+      "images": [
+        "https://pbs.twimg.com/media/HELI_yaaIAUgI9F.jpg"
+      ],
+      "likes": 23,
+      "retweets": 1,
+      "views": 4222
+    },
+    {
+      "id": "2035897991475962005",
+      "username": "saranormous",
+      "text": "ICYMI: podcast with @karpathy last Friday on the phase shift in engineering, AI psychosis, claws, AutoResearch, the opportunity for a SETI-at-Home like movement in AI, the model landscape, and second order effects — link👇 https://t.co/gVgZQxb2p6",
+      "timestamp": "2026-03-23T01:54:40+00:00",
+      "url": "https://x.com/saranormous/status/2035897991475962005",
+      "images": [],
+      "likes": 369,
+      "retweets": 31,
+      "views": 27957
     }
   ]
 }
