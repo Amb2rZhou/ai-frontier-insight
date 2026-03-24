@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-24T20:02:23.895191",
+  "scraped_at": "2026-03-24T23:03:52.722776",
   "date": "2026-03-24",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 59,
-  "account_count": 32,
+  "tweet_count": 68,
+  "account_count": 37,
   "tweets": [
     {
       "id": "2036300599915077992",
@@ -689,6 +689,113 @@
       "likes": 108,
       "retweets": 10,
       "views": 7263
+    },
+    {
+      "id": "2036453172869238925",
+      "username": "omarsar0",
+      "text": "OpenReward with 330+ RL environments.",
+      "timestamp": "2026-03-24T14:40:46+00:00",
+      "url": "https://x.com/omarsar0/status/2036453172869238925",
+      "images": [],
+      "likes": 6,
+      "retweets": 1,
+      "views": 1053
+    },
+    {
+      "id": "2036452081750409383",
+      "username": "ClementDelangue",
+      "text": "Local AI is free, fast &amp; secure!\n\nSo today we're introducing hf-mount: attach any storage bucket, model or dataset from @huggingface as a local filesystem.\n\nThis is a game changer, as it allows you to attach remote storage that is 100x bigger than your local machine's disk.  This https://t.co/43waAagbVr",
+      "timestamp": "2026-03-24T14:36:26+00:00",
+      "url": "https://x.com/ClementDelangue/status/2036452081750409383",
+      "images": [
+        "https://pbs.twimg.com/media/HELuTF2boAA2Bpe.jpg"
+      ],
+      "likes": 42,
+      "retweets": 4,
+      "views": 2701
+    },
+    {
+      "id": "2036448725053112654",
+      "username": "minchoi",
+      "text": "RIP OpenClaw 💀\n\nClaude now has \n\n&gt; Voice mode\n&gt; Agent Teams\n&gt; 38+ Connectors\n&gt; Cowork Projects\n&gt; Scheduled tasks\n&gt; Plugin Marketplace\n&gt; Persistent memory\n&gt; 1M Context window\n&gt; Dispatch for remote control\n&gt; Channels for Telegram &amp; Discord\n&gt; Claude can use computer to run apps💀 https://t.co/wmSFh8tDqG",
+      "timestamp": "2026-03-24T14:23:06+00:00",
+      "url": "https://x.com/minchoi/status/2036448725053112654",
+      "images": [],
+      "likes": 75,
+      "retweets": 8,
+      "views": 5266
+    },
+    {
+      "id": "2036442912419094597",
+      "username": "a16z",
+      "text": "The space economy has a ground infrastructure problem.\n\nYou can build a satellite and launch it faster than you can connect with it from Earth.\n\nBridgit Mendler is building Northwood to fix that — deploying ground infrastructure in 3 months instead of 3 years.\n\nShe joins a16'z https://t.co/5M0duDiRtb",
+      "timestamp": "2026-03-24T14:00:00+00:00",
+      "url": "https://x.com/a16z/status/2036442912419094597",
+      "images": [],
+      "likes": 79,
+      "retweets": 8,
+      "views": 13491
+    },
+    {
+      "id": "2036428874364670303",
+      "username": "__tinygrad__",
+      "text": "The hyperscalars are currently spending $1T on ultra-luxury houses for AIs. Air conditioning, redundant power, and spotless floors.\n\nThey imagine bougie Claude and Gemini with disposable income, but really it's mostly Kimi and Qwen in the slums. We build affordable housing. https://t.co/hBZGqihyIU",
+      "timestamp": "2026-03-24T13:04:13+00:00",
+      "url": "https://x.com/__tinygrad__/status/2036428874364670303",
+      "images": [
+        "https://pbs.twimg.com/media/HELWMX6aIAIywID.jpg"
+      ],
+      "likes": 148,
+      "retweets": 5,
+      "views": 5328
+    },
+    {
+      "id": "2036428428631846967",
+      "username": "Everlyn_ai",
+      "text": "Glow different. Think different.\n\n- generated on Everlyn in 8.1 seconds https://t.co/bsExjEIIkR",
+      "timestamp": "2026-03-24T13:02:27+00:00",
+      "url": "https://x.com/Everlyn_ai/status/2036428428631846967",
+      "images": [],
+      "likes": 8,
+      "retweets": 3,
+      "views": 317
+    },
+    {
+      "id": "2036420009535078737",
+      "username": "_akhaliq",
+      "text": "Speed by Simplicity\n\nA Single-Stream Architecture for Fast Audio-Video Generative Foundation Model\n\ndaVinci-MagiHuman\n\npaper: https://t.co/AxA9iZr8LX\n\nmodel: https://t.co/LIv2ZUYsy8\n\napp: https://t.co/24sAurqY80 https://t.co/7wmCTduP1R",
+      "timestamp": "2026-03-24T12:28:59+00:00",
+      "url": "https://x.com/_akhaliq/status/2036420009535078737",
+      "images": [],
+      "likes": 25,
+      "retweets": 5,
+      "views": 4668
+    },
+    {
+      "id": "2036418139672482229",
+      "username": "GoogleDeepMind",
+      "text": "Google DeepMind 🤝 Agile Robots\n\nOur new research partnership will integrate the Gemini foundation models with their hardware to help build the next generation of more helpful and useful robots. \n\nFind out more → https://t.co/dptWjeZwya https://t.co/bzPUUvPiJp",
+      "timestamp": "2026-03-24T12:21:33+00:00",
+      "url": "https://x.com/GoogleDeepMind/status/2036418139672482229",
+      "images": [
+        "https://pbs.twimg.com/media/HELPcK1aIAMTt7D.jpg"
+      ],
+      "likes": 603,
+      "retweets": 84,
+      "views": 32006
+    },
+    {
+      "id": "2036134883077021864",
+      "username": "mervenoyann",
+      "text": "\"train rt-detrv2 on mobile-ui-design\"\nis all it takes to train an object detector 🔥 \n\n&gt; use GPUs on our infra or your local setup\n&gt; train image classifiers, object detectors or SAM models for mask segmentation 🤗\n\nshipped in @huggingface skills, works with LLM of your choice 🤫 https://t.co/aUKpDqNSlb",
+      "timestamp": "2026-03-23T17:36:00+00:00",
+      "url": "https://x.com/mervenoyann/status/2036134883077021864",
+      "images": [
+        "https://pbs.twimg.com/media/HEGr4EHWYAA1yUF.jpg"
+      ],
+      "likes": 50,
+      "retweets": 5,
+      "views": 4377
     }
   ]
 }
