@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-23T09:34:06.795843+08:00",
+  "last_updated": "2026-03-24T09:37:11.657229+08:00",
   "trends": [
     {
       "id": "ai_safety_pivot_and_accelerated_agi_time",
@@ -11,7 +11,7 @@
         "Anthropic"
       ],
       "trajectory": "accelerating",
-      "signal_count": 37,
+      "signal_count": 38,
       "weekly_counts": [
         1,
         1,
@@ -154,6 +154,10 @@
         {
           "date": "2026-03-23",
           "event": "Research: Alignment Makes LLMs Normative, Not Descriptive"
+        },
+        {
+          "date": "2026-03-24",
+          "event": "NVIDIA CEO Jensen Huang Claims AGI Has Been Achieved"
         }
       ],
       "created": "2026-02-25"
@@ -231,7 +235,7 @@
         "Multimodal AI"
       ],
       "trajectory": "accelerating",
-      "signal_count": 26,
+      "signal_count": 27,
       "weekly_counts": [
         1,
         1,
@@ -239,10 +243,10 @@
         1,
         1,
         1,
-        1,
         2,
         1,
         2,
+        1,
         1,
         1
       ],
@@ -342,6 +346,10 @@
         {
           "date": "2026-03-23",
           "event": "NVIDIA Releases Nemotron-Cascade 2: Efficient 30B MoE Model with Strong Reasoning"
+        },
+        {
+          "date": "2026-03-24",
+          "event": "UnslothAI Enables RL Fine-tuning of Qwen3.5 on Consumer GPUs"
         }
       ],
       "created": "2026-02-25"
@@ -441,9 +449,8 @@
         "Anthropic"
       ],
       "trajectory": "accelerating",
-      "signal_count": 59,
+      "signal_count": 60,
       "weekly_counts": [
-        4,
         2,
         3,
         2,
@@ -453,6 +460,7 @@
         3,
         2,
         3,
+        1,
         1,
         1
       ],
@@ -584,6 +592,10 @@
         {
           "date": "2026-03-22",
           "event": "OpenAI Announces 10x Faster Agent Workflows with Container Pooling"
+        },
+        {
+          "date": "2026-03-24",
+          "event": "Google Gemini Gains On-Device Agent Capabilities for Tasks"
         }
       ],
       "created": "2026-02-25"
@@ -635,9 +647,8 @@
         "Multimodal AI"
       ],
       "trajectory": "accelerating",
-      "signal_count": 58,
+      "signal_count": 59,
       "weekly_counts": [
-        2,
         1,
         2,
         1,
@@ -648,7 +659,8 @@
         2,
         3,
         2,
-        2
+        2,
+        1
       ],
       "key_events": [
         {
@@ -786,6 +798,10 @@
         {
           "date": "2026-03-23",
           "event": "Research: Alignment Makes LLMs Normative, Not Descriptive; New Benchmark LVOmniBench Reveals Challenges in Long Audio-Video Understanding"
+        },
+        {
+          "date": "2026-03-24",
+          "event": "WorldAgents: Agentic Framework for 3D World Generation from 2D Models"
         }
       ],
       "created": "2026-02-25"
@@ -800,7 +816,7 @@
         "xAI"
       ],
       "trajectory": "accelerating",
-      "signal_count": 18,
+      "signal_count": 19,
       "weekly_counts": [
         1,
         1,
@@ -887,6 +903,10 @@
         {
           "date": "2026-03-20",
           "event": "OpenAI acquires code agent startup Astral to boost Codex team"
+        },
+        {
+          "date": "2026-03-24",
+          "event": "Meta Hires AI Agent Startup Dreamer Team"
         }
       ],
       "created": "2026-02-25"
@@ -978,9 +998,8 @@
         "Automation"
       ],
       "trajectory": "accelerating",
-      "signal_count": 86,
+      "signal_count": 90,
       "weekly_counts": [
-        3,
         4,
         4,
         6,
@@ -991,7 +1010,8 @@
         3,
         1,
         2,
-        2
+        2,
+        4
       ],
       "key_events": [
         {
@@ -1133,6 +1153,10 @@
         {
           "date": "2026-03-23",
           "event": "Memento-Skills: Let Agents Design Agents via Memory-Based RL; Industry Discussion: AI Agents Still in Early Adoption Phase"
+        },
+        {
+          "date": "2026-03-24",
+          "event": "OpenClaw Releases Major Update with Plugin Marketplace and New Models"
         }
       ],
       "created": "2026-02-25"
@@ -1212,15 +1236,15 @@
         "Meta"
       ],
       "trajectory": "accelerating",
-      "signal_count": 30,
+      "signal_count": 31,
       "weekly_counts": [
         1,
         1,
         1,
         1,
         1,
-        1,
         2,
+        1,
         1,
         1,
         1,
@@ -1335,6 +1359,10 @@
         {
           "date": "2026-03-23",
           "event": "OpenAI Announces 10x Faster Agent Workflows with Container Pooling"
+        },
+        {
+          "date": "2026-03-24",
+          "event": "HuggingFace CEO Proposes 'S3 for Agents' Storage Solution"
         }
       ],
       "created": "2026-02-25"
@@ -1476,9 +1504,8 @@
         "Risk Management"
       ],
       "trajectory": "accelerating",
-      "signal_count": 30,
+      "signal_count": 31,
       "weekly_counts": [
-        1,
         1,
         2,
         1,
@@ -1489,7 +1516,8 @@
         1,
         1,
         1,
-        2
+        2,
+        1
       ],
       "key_events": [
         {
@@ -1591,6 +1619,10 @@
         {
           "date": "2026-03-23",
           "event": "Research: Alignment Makes LLMs Normative, Not Descriptive; Community Concern Over AI Security in Open-Weight Models"
+        },
+        {
+          "date": "2026-03-24",
+          "event": "Research: Current Alignment Evaluation Methods May Be Flawed"
         }
       ],
       "created": "2026-02-25"
@@ -1799,9 +1831,8 @@
         "Startup Funding"
       ],
       "trajectory": "accelerating",
-      "signal_count": 26,
+      "signal_count": 27,
       "weekly_counts": [
-        2,
         1,
         1,
         1,
@@ -1811,6 +1842,7 @@
         1,
         1,
         2,
+        1,
         1,
         1
       ],
@@ -1902,6 +1934,10 @@
         {
           "date": "2026-03-23",
           "event": "Baidu's SAMA Model for Instruction-Guided Video Editing Gains Traction"
+        },
+        {
+          "date": "2026-03-24",
+          "event": "WorldAgents: Agentic Framework for 3D World Generation from 2D Models"
         }
       ],
       "created": "2026-02-26"
@@ -1942,14 +1978,19 @@
         "Corporate Strategy"
       ],
       "trajectory": "accelerating",
-      "signal_count": 1,
+      "signal_count": 2,
       "weekly_counts": [
+        1,
         1
       ],
       "key_events": [
         {
           "date": "2026-02-28",
           "event": "First detected"
+        },
+        {
+          "date": "2026-03-24",
+          "event": "OpenAI Reportedly Offers High Returns to Raise Capital"
         }
       ],
       "created": "2026-02-28"

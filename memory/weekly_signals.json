@@ -200,6 +200,195 @@
           38
         ]
       }
+    ],
+    "2026-03-24": [
+      {
+        "title": "NVIDIA CEO Jensen Huang Claims AGI Has Been Achieved",
+        "signal_text": "据 The Verge 报道，NVIDIA CEO 黄仁勋在 Lex Fridman 播客中表示“我认为我们已经实现了 AGI”。这一争议性言论再次引发了关于 AGI 定义和当前 AI 能力界限的行业讨论。",
+        "signal_strength": 0.85,
+        "sources": [
+          {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/899086/jensen-huang-nvidia-agi"
+          }
+        ],
+        "tags": [
+          "头部公司战略动作",
+          "行业趋势"
+        ],
+        "raw_item_indices": [
+          29
+        ]
+      },
+      {
+        "title": "Meta Hires AI Agent Startup Dreamer Team",
+        "signal_text": "据 The Information 报道，Meta 已收购 AI Agent 初创公司 Dreamer 的创始团队，包括 Hugo Barra、David Singleton 和 Nicholas Jitkoff，他们将加入 Meta 的 Superintelligence Labs 团队。这表明 Meta 正在通过人才收购加强其在自主 AI 智能体领域的布局。",
+        "signal_strength": 0.8,
+        "sources": [
+          {
+            "name": "The Information",
+            "url": "https://www.theinformation.com/briefings/meta-hires-ai-startup-dreamers-team"
+          }
+        ],
+        "tags": [
+          "头部公司战略动作",
+          "Agent 与新交互范式",
+          "人才流动"
+        ],
+        "raw_item_indices": [
+          25
+        ]
+      },
+      {
+        "title": "WorldAgents: Agentic Framework for 3D World Generation from 2D Models",
+        "signal_text": "据慕尼黑工业大学教授 @MattNiessner 介绍，其团队提出“WorldAgents”框架，通过 Director (VLM)、Generator (如 Flux) 和 Verifier (VLM) 的智能体协作，无需训练即可从 2D 图像模型生成高保真 3D 世界。这为多模态内容生成提供了新的 Agent 范式。",
+        "signal_strength": 0.8,
+        "sources": [
+          {
+            "name": "Matt Niessner (@MattNiessner)",
+            "url": "https://x.com/MattNiessner/status/2036019740930408905"
+          }
+        ],
+        "tags": [
+          "内容创作与理解",
+          "Agent 与新交互范式",
+          "多模态融合"
+        ],
+        "raw_item_indices": [
+          55
+        ]
+      },
+      {
+        "title": "OpenClaw Releases Major Update with Plugin Marketplace and New Models",
+        "signal_text": "AI 编码智能体平台 OpenClaw 发布 2026.3.22 大版本更新，引入 ClawHub 插件市场，集成 MiniMax M2.7、GPT-5.4-mini/nano 等新模型，支持 per-agent 推理，并增强了搜索和沙箱功能。该推文获 3300+ likes，显示社区高度关注。",
+        "signal_strength": 0.8,
+        "sources": [
+          {
+            "name": "OpenClaw (@openclaw)",
+            "url": "https://x.com/openclaw/status/2036043904949330407"
+          }
+        ],
+        "tags": [
+          "Agent 与新交互范式",
+          "开源生态",
+          "工具调用"
+        ],
+        "raw_item_indices": [
+          69
+        ]
+      },
+      {
+        "title": "Google Gemini Gains On-Device Agent Capabilities for Tasks",
+        "signal_text": "据 The Information 报道，Google 的 Gemini 应用已悄然为最新 Pixel 和三星手机用户提供新功能：可通过语音指令让 Gemini 代理完成叫 Uber、订 DoorDash 等任务。这表明 Google 正在移动端推进轻量级、本地的 AI Agent 交互。",
+        "signal_strength": 0.8,
+        "sources": [
+          {
+            "name": "The Information",
+            "url": "https://www.theinformation.com/articles/googles-gemini-steals-march-openai"
+          }
+        ],
+        "tags": [
+          "头部公司战略动作",
+          "Agent 与新交互范式",
+          "端侧部署"
+        ],
+        "raw_item_indices": [
+          4
+        ]
+      },
+      {
+        "title": "NVIDIA Releases OpenShell for Agent Governance",
+        "signal_text": "NVIDIA AI 官方宣布推出 OpenShell，这是一个旨在为自主 AI 智能体提供内置安全和隐私控制的新框架，以确保其负责任地部署。这表明行业正从单纯追求 Agent 能力转向关注其安全治理。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "NVIDIA AI (@NVIDIAAI)",
+            "url": "https://x.com/NVIDIAAI/status/2036095627348615493"
+          }
+        ],
+        "tags": [
+          "Agent 与新交互范式",
+          "内容安全与治理",
+          "开源生态"
+        ],
+        "raw_item_indices": [
+          63
+        ]
+      },
+      {
+        "title": "Research: Current Alignment Evaluation Methods May Be Flawed",
+        "signal_text": "一篇 arXiv 论文（2603.18280）指出，当前的 AI 对齐评估主要衡量概念检测和拒绝，但真正的对齐更多是通过内部知识路由实现的。该研究挑战了现有评估基准的有效性，对内容安全和模型治理有重要启示。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "arXiv 2603.18280",
+            "url": "https://arxiv.org/abs/2603.18280"
+          }
+        ],
+        "tags": [
+          "内容安全与治理",
+          "技术突破"
+        ],
+        "raw_item_indices": [
+          39
+        ]
+      },
+      {
+        "title": "UnslothAI Enables RL Fine-tuning of Qwen3.5 on Consumer GPUs",
+        "signal_text": "UnslothAI 团队发布免费教程，展示如何在仅 8GB VRAM 的消费级 GPU 上，使用视觉 GRPO 方法对 Qwen3.5-2B 模型进行强化学习微调，使其自主解决数学问题。这大幅降低了高效模型定制和优化的门槛。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "UnslothAI (@UnslothAI)",
+            "url": "https://x.com/UnslothAI/status/2036070709903179835"
+          }
+        ],
+        "tags": [
+          "技术突破",
+          "推理效率提升",
+          "开源生态"
+        ],
+        "raw_item_indices": [
+          68
+        ]
+      },
+      {
+        "title": "OpenAI Reportedly Offers High Returns to Raise Capital",
+        "signal_text": "据 @minchoi 援引报道，OpenAI 正在向私募股权公司提供高达 17.5% 的保证回报率以筹集新资金。这反映了 AI 巨头为支撑其庞大的基础设施和研发开支，正在采取激进的融资策略。",
+        "signal_strength": 0.7,
+        "sources": [
+          {
+            "name": "@minchoi (Twitter)",
+            "url": "https://x.com/minchoi/status/2036094385503244463"
+          }
+        ],
+        "tags": [
+          "头部公司战略动作",
+          "商业化路径"
+        ],
+        "raw_item_indices": [
+          64
+        ]
+      },
+      {
+        "title": "HuggingFace CEO Proposes 'S3 for Agents' Storage Solution",
+        "signal_text": "HuggingFace CEO Clement Delangue 在推文中表示，希望将 HuggingFace 的存储桶打造为“AI 智能体的 S3”，并邀请社区反馈用例。这预示着 AI Agent 生态的基础设施需求正在催生新的标准化服务。",
+        "signal_strength": 0.7,
+        "sources": [
+          {
+            "name": "Clement Delangue (@ClementDelangue)",
+            "url": "https://x.com/ClementDelangue/status/2036103377726145004"
+          }
+        ],
+        "tags": [
+          "Agent 与新交互范式",
+          "开源生态",
+          "基础设施"
+        ],
+        "raw_item_indices": [
+          62
+        ]
+      }
     ]
   },
   "archived_weeks": [
