@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-24T12:56:31.341448",
+  "scraped_at": "2026-03-24T16:59:53.963405",
   "date": "2026-03-24",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 53,
-  "account_count": 31,
+  "tweet_count": 58,
+  "account_count": 32,
   "tweets": [
     {
       "id": "2036300599915077992",
@@ -619,6 +619,65 @@
       "likes": 175,
       "retweets": 29,
       "views": 13805
+    },
+    {
+      "id": "2036357147689361528",
+      "username": "Miles_Brundage",
+      "text": "Sir, this is a Qwendy’s",
+      "timestamp": "2026-03-24T08:19:12+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2036357147689361528",
+      "images": [],
+      "likes": 3,
+      "retweets": 0,
+      "views": 244
+    },
+    {
+      "id": "2036348869064425732",
+      "username": "__tinygrad__",
+      "text": "To anyone using local LLMs, what hardware do you have, what model are you using, and what tok/s are you getting?",
+      "timestamp": "2026-03-24T07:46:18+00:00",
+      "url": "https://x.com/__tinygrad__/status/2036348869064425732",
+      "images": [],
+      "likes": 38,
+      "retweets": 2,
+      "views": 5494
+    },
+    {
+      "id": "2036338898960523364",
+      "username": "Miles_Brundage",
+      "text": "I also just joined the New Media Team at\n\nAI policy tweeter\n1 stop shop\n68k followers\nZealot for frontier AI audits",
+      "timestamp": "2026-03-24T07:06:41+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2036338898960523364",
+      "images": [],
+      "likes": 7,
+      "retweets": 1,
+      "views": 508
+    },
+    {
+      "id": "2036314771100934605",
+      "username": "Miles_Brundage",
+      "text": "y'all are worried about the wrong open claw https://t.co/DD4dzlxaTD https://t.co/1z3fRhPYFD",
+      "timestamp": "2026-03-24T05:30:48+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2036314771100934605",
+      "images": [
+        "https://pbs.twimg.com/media/HEJxeuwaIAEVVpE.jpg"
+      ],
+      "likes": 7,
+      "retweets": 0,
+      "views": 933
+    },
+    {
+      "id": "2036314003257897078",
+      "username": "minchoi",
+      "text": "Claude Code just made setup way easier.\n\nThe new /init now interviews you and helps configure CLAUDE.md, hooks, skills, and more🤯 https://t.co/vBskK699NZ",
+      "timestamp": "2026-03-24T05:27:45+00:00",
+      "url": "https://x.com/minchoi/status/2036314003257897078",
+      "images": [
+        "https://pbs.twimg.com/media/HEJwWZiWMAANs8p.jpg"
+      ],
+      "likes": 75,
+      "retweets": 7,
+      "views": 10198
     }
   ]
 }
