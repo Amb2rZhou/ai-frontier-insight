@@ -1,0 +1,396 @@
+{
+  "source": "x-monitor",
+  "scraped_at": "2026-03-26T02:56:49.174577",
+  "date": "2026-03-26",
+  "list_urls": [
+    "https://x.com/i/lists/2026486577304842549"
+  ],
+  "tweet_count": 34,
+  "account_count": 22,
+  "tweets": [
+    {
+      "id": "2036879665655406944",
+      "username": "fchollet",
+      "text": "Keep in mind: ARC-AGI is *not* a final exam that you pass to claim AGI. Including ARC-AGI-3.\n\nThe benchmarks target the residual gap between what's hard for AI and what's easy for humans. It's meant to be a tool to measure AGI progress and to drive researchers towards the most",
+      "timestamp": "2026-03-25T18:55:30+00:00",
+      "url": "https://x.com/fchollet/status/2036879665655406944",
+      "images": [],
+      "likes": 4,
+      "retweets": 0,
+      "views": 57
+    },
+    {
+      "id": "2036877742428610625",
+      "username": "fchollet",
+      "text": "Human-level general intelligence is achieved when an AI system can approach a new task and figure it out, without human intervention, *with the same learning efficiency as humans*.\n\nIf every new task requires human intervention, it's not general. If every new task requires",
+      "timestamp": "2026-03-25T18:47:51+00:00",
+      "url": "https://x.com/fchollet/status/2036877742428610625",
+      "images": [],
+      "likes": 42,
+      "retweets": 8,
+      "views": 1628
+    },
+    {
+      "id": "2036875037932683627",
+      "username": "EMostaque",
+      "text": "I don’t know why everyone is saying AI will discover new physics\n\nIsn’t the physics we have now good enough?\n\nDon’t need no new fangled physics",
+      "timestamp": "2026-03-25T18:37:07+00:00",
+      "url": "https://x.com/EMostaque/status/2036875037932683627",
+      "images": [],
+      "likes": 6,
+      "retweets": 0,
+      "views": 1097
+    },
+    {
+      "id": "2036874853567832540",
+      "username": "osanseviero",
+      "text": "We're launching Google DeepMind Robotics Accelerator, and today is the last day to apply.\n\nJoin today👉https://t.co/KOYxDs39Mj",
+      "timestamp": "2026-03-25T18:36:23+00:00",
+      "url": "https://x.com/osanseviero/status/2036874853567832540",
+      "images": [],
+      "likes": 5,
+      "retweets": 0,
+      "views": 318
+    },
+    {
+      "id": "2036873885665419773",
+      "username": "cursor_ai",
+      "text": "Cursor cloud agents can now run on your infrastructure.\n\nGet the same cloud agent harness and experience, but keep your code and tool execution entirely in your own network.\n\nhttps://t.co/u3iVnZxtKV",
+      "timestamp": "2026-03-25T18:32:32+00:00",
+      "url": "https://x.com/cursor_ai/status/2036873885665419773",
+      "images": [],
+      "likes": 233,
+      "retweets": 14,
+      "views": 6209
+    },
+    {
+      "id": "2036873530470785379",
+      "username": "Miles_Brundage",
+      "text": "AI companies reading the Meta/YouTube verdicts https://t.co/rybnHcRz8x",
+      "timestamp": "2026-03-25T18:31:07+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2036873530470785379",
+      "images": [],
+      "likes": 7,
+      "retweets": 2,
+      "views": 667
+    },
+    {
+      "id": "2036871499483869474",
+      "username": "fchollet",
+      "text": "To ship ARC-AGI-3, we've set up an entire game studio. Exceptional crew -- super proud of the team. They did an incredible job.",
+      "timestamp": "2026-03-25T18:23:03+00:00",
+      "url": "https://x.com/fchollet/status/2036871499483869474",
+      "images": [],
+      "likes": 64,
+      "retweets": 1,
+      "views": 3140
+    },
+    {
+      "id": "2036870310989910327",
+      "username": "NVIDIARobotics",
+      "text": "Did you catch @AGIBOTofficial and @intbotai in action at #NVIDIAGTC?\n\nThey weren’t just answering questions. They were surprising everyone with their moves. 💃 https://t.co/5d0TzX7Y2R",
+      "timestamp": "2026-03-25T18:18:20+00:00",
+      "url": "https://x.com/NVIDIARobotics/status/2036870310989910327",
+      "images": [],
+      "likes": 17,
+      "retweets": 6,
+      "views": 1007
+    },
+    {
+      "id": "2036868401843626302",
+      "username": "fchollet",
+      "text": "ARC-AGI-3 scores agents on how close they are to human action efficiency.\n\nAll ARC-AGI-3 environments were solved by at least 2 human testers out of 10 (most of the time it was 5+). We use the action count of the 2nd best tester (to avoid outlier performance) as our human",
+      "timestamp": "2026-03-25T18:10:44+00:00",
+      "url": "https://x.com/fchollet/status/2036868401843626302",
+      "images": [],
+      "likes": 78,
+      "retweets": 7,
+      "views": 10233
+    },
+    {
+      "id": "2036866220449030168",
+      "username": "mitchellh",
+      "text": "Here’s what I’d do if I was in charge of GitHub, in order:\n\n1. Establish a North Star plan around being critical infrastructure for agentic code lifecycles and determine a set of ways to measure that.\n\n2. Fire everyone who works on or advocates for copilot and shut it down. It’s",
+      "timestamp": "2026-03-25T18:02:04+00:00",
+      "url": "https://x.com/mitchellh/status/2036866220449030168",
+      "images": [],
+      "likes": 367,
+      "retweets": 13,
+      "views": 14684
+    },
+    {
+      "id": "2036865990282092940",
+      "username": "emollick",
+      "text": "ARC-AGI-3 took me a few tries, but it is definitely human winnable. I am curious how much of the very initially very low performance of frontier models is harness, vision, and tools, versus how much are limitations of LLMs. I guess we will find out! https://t.co/k70t8omcy9",
+      "timestamp": "2026-03-25T18:01:09+00:00",
+      "url": "https://x.com/emollick/status/2036865990282092940",
+      "images": [],
+      "likes": 85,
+      "retweets": 3,
+      "views": 5469
+    },
+    {
+      "id": "2036863769981403497",
+      "username": "fchollet",
+      "text": "At the moment, ARC-AGI-3 is the only unsaturated agentic AI benchmark. Sub-1% scores from frontier models on the private test set.\n\nIf you want to be among the first to know when an AGI breakthrough happens, monitor the ARC-AGI-3 leaderboard. Any sudden score jump will mean",
+      "timestamp": "2026-03-25T17:52:20+00:00",
+      "url": "https://x.com/fchollet/status/2036863769981403497",
+      "images": [],
+      "likes": 215,
+      "retweets": 22,
+      "views": 17219
+    },
+    {
+      "id": "2036862362905698334",
+      "username": "OpenAINewsroom",
+      "text": "Today we’re launching a Safety Bug Bounty program focused on identifying AI abuse and safety risks across OpenAI products.\n\nThis new program builds on our Security Bug Bounty to include AI-specific safety issues and misuse scenarios, helping us work with the safety and security",
+      "timestamp": "2026-03-25T17:46:45+00:00",
+      "url": "https://x.com/OpenAINewsroom/status/2036862362905698334",
+      "images": [],
+      "likes": 253,
+      "retweets": 25,
+      "views": 13033
+    },
+    {
+      "id": "2036857428273487903",
+      "username": "openclaw",
+      "text": "OpenClaw 2026.3.24 🦞\n\n🔌 Improved OpenAI API: talk to sub-agents with @openwebui\n🎛️ Skill &amp; tool management Control UI\n🎨 Slack interactive reply buttons\n💅 Native Microsoft Teams\n🧵 Smart Discord auto-thread naming \n\nAny client. Any model. One runtime. https://t.co/LhRgNElE0b",
+      "timestamp": "2026-03-25T17:27:08+00:00",
+      "url": "https://x.com/openclaw/status/2036857428273487903",
+      "images": [],
+      "likes": 794,
+      "retweets": 66,
+      "views": 35517
+    },
+    {
+      "id": "2036855974804545580",
+      "username": "chrmanning",
+      "text": ".@cursor_ai attempts to regain the research ramparts after the “Kimi K2.5 under the hood” episode undermined their castle! https://t.co/6NmVXSQDWn",
+      "timestamp": "2026-03-25T17:21:22+00:00",
+      "url": "https://x.com/chrmanning/status/2036855974804545580",
+      "images": [
+        "https://pbs.twimg.com/media/HERdtpCa4AA5hdj.jpg"
+      ],
+      "likes": 21,
+      "retweets": 0,
+      "views": 3198
+    },
+    {
+      "id": "2036855931569651884",
+      "username": "mitchellh",
+      "text": "Excellent. This is exactly what GitHub should’ve done 2 years ago. Be a partner for the AI consumption, not a competitor. This is what I’m yelling into the void about here when I say GH has lost the plot with AI.",
+      "timestamp": "2026-03-25T17:21:11+00:00",
+      "url": "https://x.com/mitchellh/status/2036855931569651884",
+      "images": [],
+      "likes": 293,
+      "retweets": 11,
+      "views": 34446
+    },
+    {
+      "id": "2036852399877362162",
+      "username": "_akhaliq",
+      "text": "HF Papers is the biggest infra for AI agents to do retrieval over arxiv\n\nintroducing 𝚑𝚏 𝚙𝚊𝚙𝚎𝚛𝚜 cli so that autoresearch can do semantic search &amp; markdown retrieval of papers\n\n𝚑𝚏 𝚙𝚊𝚙𝚎𝚛𝚜 [𝚜𝚎𝚊𝚛𝚌𝚑, 𝚛𝚎𝚊𝚍] https://t.co/cTWM4GO9E6",
+      "timestamp": "2026-03-25T17:07:09+00:00",
+      "url": "https://x.com/_akhaliq/status/2036852399877362162",
+      "images": [],
+      "likes": 29,
+      "retweets": 8,
+      "views": 3081
+    },
+    {
+      "id": "2036850783526719610",
+      "username": "claudeai",
+      "text": "Your work tools in Claude are now available on mobile.\n\nExplore Figma designs, create Canva slides, check Amplitude dashboards, all from your phone.\n\nGive it a try: https://t.co/hwPB3zlk0w https://t.co/646YMIzYZl",
+      "timestamp": "2026-03-25T17:00:44+00:00",
+      "url": "https://x.com/claudeai/status/2036850783526719610",
+      "images": [],
+      "likes": 7346,
+      "retweets": 512,
+      "views": 563578
+    },
+    {
+      "id": "2036848785653895623",
+      "username": "omarsar0",
+      "text": "This is why, in my experience, the simplest forms of memory work best with current LLMs. \n\nFor my personalized agents, what has worked is a simple file storage system (Obsidian vaults) with metadata to allow for searching across dimensions like time, categories, workstreams, etc.",
+      "timestamp": "2026-03-25T16:52:47+00:00",
+      "url": "https://x.com/omarsar0/status/2036848785653895623",
+      "images": [],
+      "likes": 19,
+      "retweets": 5,
+      "views": 2862
+    },
+    {
+      "id": "2036848032252051637",
+      "username": "ClementDelangue",
+      "text": "everyone distills from everyone and AI outputs are mostly fair use imo (same as internet content which is mostly ai generated anyway)",
+      "timestamp": "2026-03-25T16:49:48+00:00",
+      "url": "https://x.com/ClementDelangue/status/2036848032252051637",
+      "images": [],
+      "likes": 77,
+      "retweets": 9,
+      "views": 6125
+    },
+    {
+      "id": "2036847518148145218",
+      "username": "mathemagic1an",
+      "text": "Get your daily update as an old-time newspaper\n\nThis spawns a fleet of agents to distill your workspace activity, updates a wiki, then generates an image\n\nIt learns over time. \"Make it a tabloid from now on.\"\n\nCrazy constellation of agent use cases like this are now possible",
+      "timestamp": "2026-03-25T16:47:45+00:00",
+      "url": "https://x.com/mathemagic1an/status/2036847518148145218",
+      "images": [],
+      "likes": 1,
+      "retweets": 0,
+      "views": 412
+    },
+    {
+      "id": "2036845759283220546",
+      "username": "emollick",
+      "text": "Huh. I am not sure distilling Gemini models to run on phones is going to result in the generally capable agents that people will soon expect, but we shall see.",
+      "timestamp": "2026-03-25T16:40:46+00:00",
+      "url": "https://x.com/emollick/status/2036845759283220546",
+      "images": [],
+      "likes": 114,
+      "retweets": 4,
+      "views": 12641
+    },
+    {
+      "id": "2036844206543552818",
+      "username": "nvidia",
+      "text": "NVIDIA is the most innovative company in computing, according to Fast Company’s 2026 list of the World’s 50 Most Innovative Companies. NVIDIA also ranked No. 2 overall. \n\nThis recognition reflects the work of NVIDIANs across the company who are creating AI breakthroughs that are https://t.co/VmPnAHVea0",
+      "timestamp": "2026-03-25T16:34:36+00:00",
+      "url": "https://x.com/nvidia/status/2036844206543552818",
+      "images": [
+        "https://pbs.twimg.com/media/HERTAKeW4AAjMzz.jpg"
+      ],
+      "likes": 149,
+      "retweets": 27,
+      "views": 10491
+    },
+    {
+      "id": "2036844098523427133",
+      "username": "_akhaliq",
+      "text": "SpecEyes\n\nAccelerating Agentic Multimodal LLMs via Speculative Perception and Planning\n\npaper: https://t.co/LkFvuVgs1v https://t.co/aKwrEYnPNH",
+      "timestamp": "2026-03-25T16:34:10+00:00",
+      "url": "https://x.com/_akhaliq/status/2036844098523427133",
+      "images": [
+        "https://pbs.twimg.com/media/HERS1_obYAI-ovG.jpg"
+      ],
+      "likes": 8,
+      "retweets": 0,
+      "views": 2156
+    },
+    {
+      "id": "2036843863768244468",
+      "username": "_akhaliq",
+      "text": "WildWorld\n\nA Large-Scale Dataset for Dynamic World Modeling with Actions and Explicit State toward Generative ARPG\n\npaper: https://t.co/u0btopls0r https://t.co/qKyFgk3dwT",
+      "timestamp": "2026-03-25T16:33:14+00:00",
+      "url": "https://x.com/_akhaliq/status/2036843863768244468",
+      "images": [],
+      "likes": 15,
+      "retweets": 3,
+      "views": 2796
+    },
+    {
+      "id": "2036842509721030927",
+      "username": "_akhaliq",
+      "text": "MinerU-Diffusion\n\nRethinking Document OCR as Inverse Rendering via Diffusion Decoding\n\npaper: https://t.co/nLWiJNSdsQ https://t.co/PoVYI63Yt7",
+      "timestamp": "2026-03-25T16:27:51+00:00",
+      "url": "https://x.com/_akhaliq/status/2036842509721030927",
+      "images": [
+        "https://pbs.twimg.com/media/HERRZEsaUAA2e4t.jpg"
+      ],
+      "likes": 8,
+      "retweets": 0,
+      "views": 2229
+    },
+    {
+      "id": "2036841736702767135",
+      "username": "hardmaru",
+      "text": "I’m incredibly proud of The AI Scientist team for this milestone publication in @Nature. We started this project to explore if foundation models could execute the entire research lifecycle. Seeing this work validated at this level is a special moment. I truly believe AI will",
+      "timestamp": "2026-03-25T16:24:47+00:00",
+      "url": "https://x.com/hardmaru/status/2036841736702767135",
+      "images": [],
+      "likes": 224,
+      "retweets": 32,
+      "views": 26857
+    },
+    {
+      "id": "2036840166867046491",
+      "username": "theworldlabs",
+      "text": "With Chisel, you can keep the same structure and explore completely different worlds: \nancient tomb → lava cavern → overgrown ruins\nsame layout, totally different feel. https://t.co/aQgyDZ6wcn",
+      "timestamp": "2026-03-25T16:18:33+00:00",
+      "url": "https://x.com/theworldlabs/status/2036840166867046491",
+      "images": [],
+      "likes": 92,
+      "retweets": 10,
+      "views": 5584
+    },
+    {
+      "id": "2036837488954605998",
+      "username": "_akhaliq",
+      "text": "clicking refresh everyday, m2.7 on HF soon: https://t.co/wPHHa7hIsw",
+      "timestamp": "2026-03-25T16:07:54+00:00",
+      "url": "https://x.com/_akhaliq/status/2036837488954605998",
+      "images": [],
+      "likes": 9,
+      "retweets": 0,
+      "views": 2978
+    },
+    {
+      "id": "2036836378101830029",
+      "username": "mustafasuleyman",
+      "text": "Shared language =/= shared meaning. And that can turn multi-agent systems into a game of telephone without any human in the loop being the wiser. Our @MicrosoftAI pre-print tests a solve: if agents don't agree on a definition, they can't use the term. The results: disagreement https://t.co/aVrakWWe4y",
+      "timestamp": "2026-03-25T16:03:29+00:00",
+      "url": "https://x.com/mustafasuleyman/status/2036836378101830029",
+      "images": [
+        "https://pbs.twimg.com/media/HERLllnbwAAjpyr.jpg"
+      ],
+      "likes": 65,
+      "retweets": 11,
+      "views": 5864
+    },
+    {
+      "id": "2036836310447452606",
+      "username": "emollick",
+      "text": "I had access to the new Google Lyria 3 Pro music AI. Its quite good. I've been ruining(?) Rilke by giving the AI the First Elegy &amp; asking it to make it \"more 1990s boy band\" (\"oooo the beginning of terror, girl\") Catchy!\n\nIt is also nuts that you can ask an AI to do this &amp; it can https://t.co/xQIbO6XOUL",
+      "timestamp": "2026-03-25T16:03:13+00:00",
+      "url": "https://x.com/emollick/status/2036836310447452606",
+      "images": [],
+      "likes": 85,
+      "retweets": 6,
+      "views": 10216
+    },
+    {
+      "id": "2036835836910850548",
+      "username": "a16z",
+      "text": "\"AI isn't taking your job. AI is turning you into the CEO.\"\n\nBalaji Srinivasan on the AI creating a truly level playing field:\n\n\"Literally the means of production have been put in your hands.\"\n\n\"If you think you'd be a great founder, a great CEO, it's being hyper deflated.\"\n\n\"The https://t.co/5Sy5LZBOnk",
+      "timestamp": "2026-03-25T16:01:20+00:00",
+      "url": "https://x.com/a16z/status/2036835836910850548",
+      "images": [],
+      "likes": 93,
+      "retweets": 12,
+      "views": 10376
+    },
+    {
+      "id": "2036834227648397717",
+      "username": "emollick",
+      "text": "AI slop science posts keep moving markets, this time by misinterpreting or mis-dating papers.\n\nScience fiction, but dumb.",
+      "timestamp": "2026-03-25T15:54:57+00:00",
+      "url": "https://x.com/emollick/status/2036834227648397717",
+      "images": [],
+      "likes": 101,
+      "retweets": 5,
+      "views": 15473
+    },
+    {
+      "id": "2036488447867629706",
+      "username": "lateinteraction",
+      "text": "The “grep-is-all-you-need” nonsense arguments arise from the fact that too many people think neural search means single-vector IR, which do in fact suck. But we’ve known that since 2019.\n\nQuoting @aaxsh18, CEO of Mixedbread:\n\n&gt; late interaction cant stop winning",
+      "timestamp": "2026-03-24T17:00:56+00:00",
+      "url": "https://x.com/lateinteraction/status/2036488447867629706",
+      "images": [],
+      "likes": 208,
+      "retweets": 13,
+      "views": 22847
+    }
+  ]
+}
