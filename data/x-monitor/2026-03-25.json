@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-25T19:54:54.277998",
+  "scraped_at": "2026-03-25T23:51:38.199493",
   "date": "2026-03-25",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 97,
-  "account_count": 52,
+  "tweet_count": 115,
+  "account_count": 57,
   "tweets": [
     {
       "id": "2036533836973011340",
@@ -1128,6 +1128,215 @@
       "likes": 136,
       "retweets": 11,
       "views": 18238
+    },
+    {
+      "id": "2036832915200303447",
+      "username": "sriramk",
+      "text": "The American Experiment and Technology \n\nI spent a lot of the day yesterday at Hill and Valley and as always a spectacular event put on by @jacobhelberg @zebulgar and @CGarrett_15. \n\nThe last year of serving in this role has left me with a profound appreciation for what the https://t.co/FGakh45vNW",
+      "timestamp": "2026-03-25T15:49:44+00:00",
+      "url": "https://x.com/sriramk/status/2036832915200303447",
+      "images": [
+        "https://pbs.twimg.com/media/HERIvPaaIAAyEhV.jpg",
+        "https://pbs.twimg.com/media/HERIvPeasAEpDMT.jpg"
+      ],
+      "likes": 1,
+      "retweets": 0,
+      "views": 99
+    },
+    {
+      "id": "2036832183131033977",
+      "username": "levie",
+      "text": "Jevons paradox is happening in real time. Companies, especially outside of tech, are realizing that they can now afford to take on software projects that they wouldn’t have been able to tackle before because now AI lets them do so. \n\nWe’re going to start to use software for all",
+      "timestamp": "2026-03-25T15:46:49+00:00",
+      "url": "https://x.com/levie/status/2036832183131033977",
+      "images": [],
+      "likes": 6,
+      "retweets": 1,
+      "views": 1007
+    },
+    {
+      "id": "2036831067580022904",
+      "username": "mervenoyann",
+      "text": "does anyone know of a good multimodal tool calling dataset to fine-tune models on?\n\nexample prompt is something like \"what is the weather like in the place in the image\" and you also have a weather checking tool to pass in",
+      "timestamp": "2026-03-25T15:42:23+00:00",
+      "url": "https://x.com/mervenoyann/status/2036831067580022904",
+      "images": [],
+      "likes": 0,
+      "retweets": 0,
+      "views": 223
+    },
+    {
+      "id": "2036828786512347295",
+      "username": "UnslothAI",
+      "text": "You don’t need to manually set LLM parameters anymore!\n\nllama.cpp uses only the context length + compute your local setup needs. Unsloth also auto-applies the correct model settings\n\nTry in Unsloth Studio - now with precompiled llama.cpp binaries.\n\nGitHub: https://t.co/aZWYAtakBP https://t.co/OjspvTf545",
+      "timestamp": "2026-03-25T15:33:19+00:00",
+      "url": "https://x.com/UnslothAI/status/2036828786512347295",
+      "images": [],
+      "likes": 47,
+      "retweets": 5,
+      "views": 1336
+    },
+    {
+      "id": "2036828723878793335",
+      "username": "omarsar0",
+      "text": "This is one of the most interesting papers on self-improving agents for this year.\n\n(bookmark this one)\n\nMost self-improving AI systems hit the same wall: the mechanism that generates improvements is fixed and can't improve itself.\n\nThis new work from Meta and collaborators https://t.co/ytHRIVRh0Y",
+      "timestamp": "2026-03-25T15:33:04+00:00",
+      "url": "https://x.com/omarsar0/status/2036828723878793335",
+      "images": [
+        "https://pbs.twimg.com/media/HERE7cpa8AAgxf5.jpg"
+      ],
+      "likes": 12,
+      "retweets": 2,
+      "views": 643
+    },
+    {
+      "id": "2036828151263961473",
+      "username": "a16z",
+      "text": "Robinhood CEO Vlad Tenev's hot take about jobs in the AI era:\n\n\"There will be more software engineers in 10 years than there are today, and there will be more lawyers.\"\n\n\"It's going to become much easier to start a venture and run it autonomously.\"\n\n\"You'll be a software https://t.co/IdO1ddLzxZ",
+      "timestamp": "2026-03-25T15:30:48+00:00",
+      "url": "https://x.com/a16z/status/2036828151263961473",
+      "images": [],
+      "likes": 42,
+      "retweets": 2,
+      "views": 4098
+    },
+    {
+      "id": "2036824286988816737",
+      "username": "steipete",
+      "text": "New @openclaw beta is out with better MS Teams integration, @OpenWebUI and more! https://t.co/u7sggPKlOa",
+      "timestamp": "2026-03-25T15:15:27+00:00",
+      "url": "https://x.com/steipete/status/2036824286988816737",
+      "images": [
+        "https://pbs.twimg.com/media/HERA15Xa4AA6dDr.jpg"
+      ],
+      "likes": 222,
+      "retweets": 26,
+      "views": 12408
+    },
+    {
+      "id": "2036820623226535943",
+      "username": "a16z",
+      "text": "Balaji Srinivasan on taking the L to set up for the W:\n\n\"Before Satya Nadella took over Microsoft, it was losing on mobile to iOS and Android.\"\n\n\"He took the L... and he said, 'You know what? Linux is there. Linux is not going to go away.'\"\n\n\"We're going to run Linux on Microsoft https://t.co/EUIEqT106W",
+      "timestamp": "2026-03-25T15:00:53+00:00",
+      "url": "https://x.com/a16z/status/2036820623226535943",
+      "images": [],
+      "likes": 162,
+      "retweets": 13,
+      "views": 24373
+    },
+    {
+      "id": "2036814194243191033",
+      "username": "deliprao",
+      "text": "From my understanding, powerhouses like Tsinghua, Peking, SJT, and Zhejiang that produce most of the Neurips/ICML works from China are not impacted by this. Trying to understand how bad this is (IMO this is terrible for open science). Can mainland followers confirm? https://t.co/EEx52GgC1L",
+      "timestamp": "2026-03-25T14:35:20+00:00",
+      "url": "https://x.com/deliprao/status/2036814194243191033",
+      "images": [
+        "https://pbs.twimg.com/media/HEQ3trMWEAATuR2.jpg"
+      ],
+      "likes": 15,
+      "retweets": 0,
+      "views": 3869
+    },
+    {
+      "id": "2036813202827198746",
+      "username": "omarsar0",
+      "text": "My take: it's still early innings for RL. \n\nThe ceiling for open models keeps moving up, and the players like @cursor_ai that are investing for real in post-training are going to keep pushing the frontier. \n\nRL isn't for everyone, but for AI startups it should probably be a",
+      "timestamp": "2026-03-25T14:31:24+00:00",
+      "url": "https://x.com/omarsar0/status/2036813202827198746",
+      "images": [],
+      "likes": 21,
+      "retweets": 3,
+      "views": 2947
+    },
+    {
+      "id": "2036813070732034481",
+      "username": "a16z",
+      "text": "Robinhood CEO Vlad Tenev on AI agents and trading:\n\n\"Everyone thinks that this is going to be all great and my agent's going to be trading for me.\"\n\n\"What happens with all technology is the early adopters do have an easier time.\"\n\n\"You're going to get some early wins, possibly if https://t.co/LIQpqyvpug",
+      "timestamp": "2026-03-25T14:30:52+00:00",
+      "url": "https://x.com/a16z/status/2036813070732034481",
+      "images": [],
+      "likes": 63,
+      "retweets": 8,
+      "views": 10846
+    },
+    {
+      "id": "2036812298698854732",
+      "username": "NielsRogge",
+      "text": "Wrote up some thoughts about MCP vs. CLI and when to use which based on the recent debate on @X.\n\nhttps://t.co/XIE6lN3tw8 https://t.co/748blI6Nlb",
+      "timestamp": "2026-03-25T14:27:48+00:00",
+      "url": "https://x.com/NielsRogge/status/2036812298698854732",
+      "images": [
+        "https://pbs.twimg.com/media/HEQitUjXgAAIKt1.png"
+      ],
+      "likes": 3,
+      "retweets": 1,
+      "views": 396
+    },
+    {
+      "id": "2036802467136950283",
+      "username": "sedielem",
+      "text": "This looks like it will be really good! Everything you've ever wanted to know about generalisation in diffusion models.\n\nFor those of us at CVPR this year (which doesn't include myself🥲)",
+      "timestamp": "2026-03-25T13:48:44+00:00",
+      "url": "https://x.com/sedielem/status/2036802467136950283",
+      "images": [],
+      "likes": 28,
+      "retweets": 1,
+      "views": 2303
+    },
+    {
+      "id": "2036799527588417800",
+      "username": "GaryMarcus",
+      "text": "War and AI, the death of Sora, and 3 ways you can catch me live today,  https://t.co/eSluUIJCJN",
+      "timestamp": "2026-03-25T13:37:03+00:00",
+      "url": "https://x.com/GaryMarcus/status/2036799527588417800",
+      "images": [],
+      "likes": 18,
+      "retweets": 5,
+      "views": 2179
+    },
+    {
+      "id": "2036782405671956808",
+      "username": "Thom_Wolf",
+      "text": "What are the best current techniques to have autoresearch behave better than (slightly improved) random search?\n\nBy which I mean (in Sijun below example), having the agent understand that (given some constraints) exploring int5 quantization is more exciting and have more",
+      "timestamp": "2026-03-25T12:29:01+00:00",
+      "url": "https://x.com/Thom_Wolf/status/2036782405671956808",
+      "images": [],
+      "likes": 45,
+      "retweets": 4,
+      "views": 7845
+    },
+    {
+      "id": "2035874226541080624",
+      "username": "Miles_Brundage",
+      "text": "Our common sense guardrails on AI, their red tape that strangles innovation \n\nOur federalist solution to Congressional inaction, their messy patchwork",
+      "timestamp": "2026-03-23T00:20:14+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2035874226541080624",
+      "images": [],
+      "likes": 18,
+      "retweets": 1,
+      "views": 1900
+    },
+    {
+      "id": "2035237827064340966",
+      "username": "Miles_Brundage",
+      "text": "Every news story about an AI company executive (outside of the Style section of the newspaper or whatever) is a policy failure.\n\nI do not want to have to care about what AI company executives think or do any more than I think about the CFO at Delta when I’m stepping on a plane.",
+      "timestamp": "2026-03-21T06:11:25+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2035237827064340966",
+      "images": [],
+      "likes": 55,
+      "retweets": 5,
+      "views": 3879
+    },
+    {
+      "id": "2035107315112976588",
+      "username": "jackclarkSF",
+      "text": "Speaking as someone who goes to Congress a lot, the White House signaling broad direction and the need for legislators to act is helpful - it should kickstart an important process, and break some logjams.",
+      "timestamp": "2026-03-20T21:32:49+00:00",
+      "url": "https://x.com/jackclarkSF/status/2035107315112976588",
+      "images": [],
+      "likes": 149,
+      "retweets": 10,
+      "views": 21539
     }
   ]
 }
