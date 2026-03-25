@@ -1,66 +1,6 @@
 {
   "predictions": [
     {
-      "date": "2026-03-15T09:34:49.553279+08:00",
-      "prediction_text": "内容与电商平台的AI助手可以考虑将浏览器作为核心交互与任务执行层进行设计。",
-      "category": "strategic_move",
-      "source_signal": "Chrome Enables Native Browser Access for AI Agents"
-    },
-    {
-      "date": "2026-03-15T09:34:49.565449+08:00",
-      "prediction_text": "平台AI战略可以考虑拥抱并参与主导性开源Agent生态，以获取技术红利并影响标准。",
-      "category": "ecosystem_shift",
-      "source_signal": "NVIDIA and Microsoft Provide Engineering Support to OpenClaw"
-    },
-    {
-      "date": "2026-03-15T09:34:49.571881+08:00",
-      "prediction_text": "电商平台的物流履约、内容平台的线下体验等场景，值得关注Agent与物理设备集成的可能性。",
-      "category": "strategic_move",
-      "source_signal": "OpenClaw Integrates with Physical World: Robots and Drones"
-    },
-    {
-      "date": "2026-03-15T09:34:49.583311+08:00",
-      "prediction_text": "平台在构建客服、审核等复杂AI工作流时，建议探索基于明确角色分工的Agent组织架构。",
-      "category": "research_breakthrough",
-      "source_signal": "Research: Agent Swarms Less Effective Than Agent Organizations"
-    },
-    {
-      "date": "2026-03-15T09:34:49.588370+08:00",
-      "prediction_text": "内容理解与创作团队可以借鉴此类基准，构建针对平台垂直场景的专属评估体系。",
-      "category": "research_breakthrough",
-      "source_signal": "New Benchmarks for Multimodal and Scientific Document Reasoning"
-    },
-    {
-      "date": "2026-03-15T09:34:49.593824+08:00",
-      "prediction_text": "内容安全与平台治理团队值得关注并参与此类行业安全框架的讨论与共建。",
-      "category": "industry_risk",
-      "source_signal": "Perplexity Submits AI Agent Security Framework to NIST"
-    },
-    {
-      "date": "2026-03-15T09:34:49.601769+08:00",
-      "prediction_text": "依赖外部大模型API的平台，可以借此窗口期探索更高负载或更复杂的Agent应用场景。",
-      "category": "strategic_move",
-      "source_signal": "Claude Temporarily Doubles Usage Limits for All Users"
-    },
-    {
-      "date": "2026-03-15T09:34:49.607220+08:00",
-      "prediction_text": "创作者工具与客服Agent可以考虑探索在安全边界内让AI助手适应用户习惯的演进路径。",
-      "category": "open_source",
-      "source_signal": "GitHub Trending: MetaClaw Project Enables Continual Learning for Agents"
-    },
-    {
-      "date": "2026-03-15T09:34:49.613166+08:00",
-      "prediction_text": "部署自进化Agent系统的平台，建议提前构建监控、审计与干预机制。",
-      "category": "infrastructure",
-      "source_signal": "NVIDIA to Host GTC Panel on Securing Self-Evolving AI Agents"
-    },
-    {
-      "date": "2026-03-15T09:34:49.619656+08:00",
-      "prediction_text": "自研Agent系统的团队可以评估集成此类开源组件，以加速核心能力建设。",
-      "category": "open_source",
-      "source_signal": "OpenClaw Ecosystem Grows: Parallel Tool Calling and New Memory Plugins"
-    },
-    {
       "date": "2026-03-16T09:56:57.373396+08:00",
       "prediction_text": "内容平台自研生成工具时，建议将版权过滤与合规审计前置为产品发布核心环节。",
       "category": "strategic_move",
@@ -599,6 +539,66 @@
       "prediction_text": "基础设施团队可以探索构建或采用专为Agent设计的存储服务，以支持其长期运行与个性化。",
       "category": "infrastructure",
       "source_signal": "HuggingFace CEO Proposes 'S3 for Agents' Storage Solution"
+    },
+    {
+      "date": "2026-03-25T09:33:32.271483+08:00",
+      "prediction_text": "基础设施团队建议对所有AI依赖库进行供应链安全审计，并探索自研或可控的替代方案。",
+      "category": "infrastructure",
+      "source_signal": "Major PyPI Supply Chain Attack via litellm Library"
+    },
+    {
+      "date": "2026-03-25T09:33:32.286784+08:00",
+      "prediction_text": "电商与内容平台的客户端产品团队可以考虑探索集成此类Agent，重构用户任务执行路径。",
+      "category": "strategic_move",
+      "source_signal": "Anthropic Launches Claude Computer Use for Mac Control"
+    },
+    {
+      "date": "2026-03-25T09:33:32.311069+08:00",
+      "prediction_text": "社区与内容平台的长期战略值得关注物理世界交互Agent，为未来的UGC内容形态布局。",
+      "category": "strategic_move",
+      "source_signal": "Google DeepMind Partners with Agile Robots for Next-Gen Robotics"
+    },
+    {
+      "date": "2026-03-25T09:33:32.338891+08:00",
+      "prediction_text": "创作者工具与研发效能团队可以探索引入多Agent架构，自动化设计、编码与测试工作流。",
+      "category": "research_breakthrough",
+      "source_signal": "Anthropic Details Multi-Agent Harness for Frontend Design and Software Engineering"
+    },
+    {
+      "date": "2026-03-25T09:33:32.365451+08:00",
+      "prediction_text": "基础设施团队在规划算力时，建议评估Arm等新玩家方案，以降低对单一供应商的依赖。",
+      "category": "infrastructure",
+      "source_signal": "Arm Announces Entry into AI Chip Manufacturing with Major Customers"
+    },
+    {
+      "date": "2026-03-25T09:33:32.381398+08:00",
+      "prediction_text": "内容安全与平台治理团队值得借鉴其框架，将韧性设计融入自研AI系统的全生命周期。",
+      "category": "strategic_move",
+      "source_signal": "Wojciech Zaremba Joins OpenAI Foundation to Lead AI Resilience"
+    },
+    {
+      "date": "2026-03-25T09:33:32.406757+08:00",
+      "prediction_text": "推荐系统与开发者生态团队可以考虑采用类似方案，以支持海量个性化Agent的实时运行。",
+      "category": "infrastructure",
+      "source_signal": "Cloudflare Releases Dynamic Workers for 100x Faster AI Agent Execution"
+    },
+    {
+      "date": "2026-03-25T09:33:32.462558+08:00",
+      "prediction_text": "内容创作工具团队在技术选型时，建议平衡开源模型生态与闭源模型性能的长期风险。",
+      "category": "ecosystem_shift",
+      "source_signal": "HuggingFace CEO Proposes Open-Sourcing Sora as OpenAI Shuts Down App"
+    },
+    {
+      "date": "2026-03-25T09:33:32.479999+08:00",
+      "prediction_text": "战略投资与业务团队值得密切关注被投企业动向，提前布局合作或防御性收购。",
+      "category": "ecosystem_shift",
+      "source_signal": "Kleiner Perkins Raises $3.5B to Go All-In on AI Investing"
+    },
+    {
+      "date": "2026-03-25T09:33:32.494152+08:00",
+      "prediction_text": "搜索产品与电商平台可以基于此类数据，快速微调出理解特定平台UI与流程的专属Agent。",
+      "category": "open_source",
+      "source_signal": "AI2 Releases MolmoWeb: Open-Weight Visual Web Agent with 30K Human Trajectories"
     }
   ]
 }

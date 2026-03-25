@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-24T09:37:11.657229+08:00",
+  "last_updated": "2026-03-25T09:34:36.951078+08:00",
   "trends": [
     {
       "id": "ai_safety_pivot_and_accelerated_agi_time",
@@ -11,7 +11,7 @@
         "Anthropic"
       ],
       "trajectory": "accelerating",
-      "signal_count": 38,
+      "signal_count": 39,
       "weekly_counts": [
         1,
         1,
@@ -158,6 +158,10 @@
         {
           "date": "2026-03-24",
           "event": "NVIDIA CEO Jensen Huang Claims AGI Has Been Achieved"
+        },
+        {
+          "date": "2026-03-25",
+          "event": "Wojciech Zaremba joins OpenAI Foundation to lead AI resilience efforts"
         }
       ],
       "created": "2026-02-25"
@@ -171,8 +175,8 @@
         "Funding",
         "Nvidia"
       ],
-      "trajectory": "stable",
-      "signal_count": 11,
+      "trajectory": "accelerating",
+      "signal_count": 12,
       "weekly_counts": [
         1,
         2,
@@ -183,7 +187,8 @@
         0,
         1,
         1,
-        0
+        0,
+        1
       ],
       "key_events": [
         {
@@ -221,6 +226,10 @@
         {
           "date": "2026-03-02",
           "event": "High-engagement demo: AI agent swarm recreates military operation 4D replay from public data"
+        },
+        {
+          "date": "2026-03-25",
+          "event": "Google DeepMind partners with Agile Robots for next-generation robotics"
         }
       ],
       "created": "2026-02-25"
@@ -235,17 +244,17 @@
         "Multimodal AI"
       ],
       "trajectory": "accelerating",
-      "signal_count": 27,
+      "signal_count": 28,
       "weekly_counts": [
         1,
         1,
         1,
         1,
         1,
-        1,
         2,
         1,
         2,
+        1,
         1,
         1,
         1
@@ -350,6 +359,10 @@
         {
           "date": "2026-03-24",
           "event": "UnslothAI Enables RL Fine-tuning of Qwen3.5 on Consumer GPUs"
+        },
+        {
+          "date": "2026-03-25",
+          "event": "HuggingFace CEO proposes open-sourcing Sora as OpenAI shuts down app"
         }
       ],
       "created": "2026-02-25"
@@ -364,9 +377,8 @@
         "Nvidia Competition"
       ],
       "trajectory": "accelerating",
-      "signal_count": 13,
+      "signal_count": 14,
       "weekly_counts": [
-        0,
         1,
         1,
         1,
@@ -374,6 +386,7 @@
         0,
         1,
         0,
+        1,
         1,
         1,
         1,
@@ -435,6 +448,10 @@
         {
           "date": "2026-03-23",
           "event": "xAI Announces \"Terafab\": Next Step Towards Galactic Civilization"
+        },
+        {
+          "date": "2026-03-25",
+          "event": "Arm announces entry into AI chip manufacturing with major customers"
         }
       ],
       "created": "2026-02-25"
@@ -449,9 +466,8 @@
         "Anthropic"
       ],
       "trajectory": "accelerating",
-      "signal_count": 60,
+      "signal_count": 63,
       "weekly_counts": [
-        2,
         3,
         2,
         2,
@@ -462,7 +478,8 @@
         3,
         1,
         1,
-        1
+        1,
+        3
       ],
       "key_events": [
         {
@@ -596,6 +613,10 @@
         {
           "date": "2026-03-24",
           "event": "Google Gemini Gains On-Device Agent Capabilities for Tasks"
+        },
+        {
+          "date": "2026-03-25",
+          "event": "Anthropic launches Claude Computer Use for Mac control; Anthropic details multi-agent harness for frontend design and software engineering; Cloudflare releases Dynamic Workers for 100x faster AI agent execution"
         }
       ],
       "created": "2026-02-25"
@@ -647,9 +668,8 @@
         "Multimodal AI"
       ],
       "trajectory": "accelerating",
-      "signal_count": 59,
+      "signal_count": 60,
       "weekly_counts": [
-        1,
         2,
         1,
         3,
@@ -660,6 +680,7 @@
         3,
         2,
         2,
+        1,
         1
       ],
       "key_events": [
@@ -802,6 +823,10 @@
         {
           "date": "2026-03-24",
           "event": "WorldAgents: Agentic Framework for 3D World Generation from 2D Models"
+        },
+        {
+          "date": "2026-03-25",
+          "event": "AI2 releases MolmoWeb: open-weight visual web agent with 30K human trajectories"
         }
       ],
       "created": "2026-02-25"
@@ -816,7 +841,7 @@
         "xAI"
       ],
       "trajectory": "accelerating",
-      "signal_count": 19,
+      "signal_count": 20,
       "weekly_counts": [
         1,
         1,
@@ -907,6 +932,10 @@
         {
           "date": "2026-03-24",
           "event": "Meta Hires AI Agent Startup Dreamer Team"
+        },
+        {
+          "date": "2026-03-25",
+          "event": "Wojciech Zaremba joins OpenAI Foundation to lead AI resilience"
         }
       ],
       "created": "2026-02-25"
@@ -998,9 +1027,8 @@
         "Automation"
       ],
       "trajectory": "accelerating",
-      "signal_count": 90,
+      "signal_count": 93,
       "weekly_counts": [
-        4,
         4,
         6,
         1,
@@ -1011,7 +1039,8 @@
         1,
         2,
         2,
-        4
+        4,
+        3
       ],
       "key_events": [
         {
@@ -1157,6 +1186,10 @@
         {
           "date": "2026-03-24",
           "event": "OpenClaw Releases Major Update with Plugin Marketplace and New Models"
+        },
+        {
+          "date": "2026-03-25",
+          "event": "Anthropic launches Claude Computer Use for Mac control; Anthropic details multi-agent harness for frontend design; AI2 releases MolmoWeb visual web agent; Cloudflare releases Dynamic Workers for faster AI agent execution"
         }
       ],
       "created": "2026-02-25"
@@ -1236,14 +1269,14 @@
         "Meta"
       ],
       "trajectory": "accelerating",
-      "signal_count": 31,
+      "signal_count": 32,
       "weekly_counts": [
         1,
         1,
         1,
         1,
-        1,
         2,
+        1,
         1,
         1,
         1,
@@ -1363,6 +1396,10 @@
         {
           "date": "2026-03-24",
           "event": "HuggingFace CEO Proposes 'S3 for Agents' Storage Solution"
+        },
+        {
+          "date": "2026-03-25",
+          "event": "Cloudflare releases Dynamic Workers for 100x faster AI agent execution"
         }
       ],
       "created": "2026-02-25"
@@ -1504,9 +1541,8 @@
         "Risk Management"
       ],
       "trajectory": "accelerating",
-      "signal_count": 31,
+      "signal_count": 32,
       "weekly_counts": [
-        1,
         2,
         1,
         3,
@@ -1517,6 +1553,7 @@
         1,
         1,
         2,
+        1,
         1
       ],
       "key_events": [
@@ -1623,6 +1660,10 @@
         {
           "date": "2026-03-24",
           "event": "Research: Current Alignment Evaluation Methods May Be Flawed"
+        },
+        {
+          "date": "2026-03-25",
+          "event": "Major PyPI supply chain attack via litellm library"
         }
       ],
       "created": "2026-02-25"
@@ -1831,17 +1872,17 @@
         "Startup Funding"
       ],
       "trajectory": "accelerating",
-      "signal_count": 27,
+      "signal_count": 28,
       "weekly_counts": [
         1,
         1,
-        1,
         2,
         1,
         1,
         1,
         1,
         2,
+        1,
         1,
         1,
         1
@@ -1938,6 +1979,10 @@
         {
           "date": "2026-03-24",
           "event": "WorldAgents: Agentic Framework for 3D World Generation from 2D Models"
+        },
+        {
+          "date": "2026-03-25",
+          "event": "HuggingFace CEO proposes open-sourcing Sora as OpenAI shuts down app"
         }
       ],
       "created": "2026-02-26"
@@ -1978,8 +2023,9 @@
         "Corporate Strategy"
       ],
       "trajectory": "accelerating",
-      "signal_count": 2,
+      "signal_count": 3,
       "weekly_counts": [
+        1,
         1,
         1
       ],
@@ -1991,6 +2037,10 @@
         {
           "date": "2026-03-24",
           "event": "OpenAI Reportedly Offers High Returns to Raise Capital"
+        },
+        {
+          "date": "2026-03-25",
+          "event": "Kleiner Perkins raises $3.5B to go all-in on AI investing"
         }
       ],
       "created": "2026-02-28"
