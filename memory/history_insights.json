@@ -1,66 +1,6 @@
 {
   "predictions": [
     {
-      "date": "2026-03-16T09:56:57.373396+08:00",
-      "prediction_text": "内容平台自研生成工具时，建议将版权过滤与合规审计前置为产品发布核心环节。",
-      "category": "strategic_move",
-      "source_signal": "ByteDance Pauses Global Launch of Seedance 2.0 Video Generator"
-    },
-    {
-      "date": "2026-03-16T09:56:57.378232+08:00",
-      "prediction_text": "平台AI研发团队可以考虑建立周期性“激进改进”机制，挑战技术天花板。",
-      "category": "strategic_move",
-      "source_signal": "OpenAI Codex Team Culture Emphasizes Radical Improvement"
-    },
-    {
-      "date": "2026-03-16T09:56:57.388839+08:00",
-      "prediction_text": "内容与教育平台可以探索基于用户知识图谱的个性化视频生成与摘要功能。",
-      "category": "strategic_move",
-      "source_signal": "Google NotebookLM Launches Powerful Video Feature for Education"
-    },
-    {
-      "date": "2026-03-16T09:56:57.401475+08:00",
-      "prediction_text": "长期技术战略值得关注并投资于超越深度学习的下一代AI范式研究。",
-      "category": "research_breakthrough",
-      "source_signal": "François Chollet Argues Next AI Breakthrough Requires New Paradigm"
-    },
-    {
-      "date": "2026-03-16T09:56:57.413788+08:00",
-      "prediction_text": "内容安全团队必须将极端社会风险纳入AI交互设计、监控与应急响应体系。",
-      "category": "industry_risk",
-      "source_signal": "Lawyer Warns of AI Chatbot Risks in Mass Casualty Cases"
-    },
-    {
-      "date": "2026-03-16T09:56:57.424095+08:00",
-      "prediction_text": "视频内容理解团队可以探索将相机运动等几何信号作为显式特征注入模型。",
-      "category": "research_breakthrough",
-      "source_signal": "Research: Geometry-Guided Camera Motion Understanding in VideoLLMs"
-    },
-    {
-      "date": "2026-03-16T09:56:57.434444+08:00",
-      "prediction_text": "AIGC治理团队建议评估并引入区域感知提示增强等反记忆化技术。",
-      "category": "research_breakthrough",
-      "source_signal": "Research: Mitigating Memorization in Text-to-Image Diffusion via Prompt Augmentation"
-    },
-    {
-      "date": "2026-03-16T09:56:57.444512+08:00",
-      "prediction_text": "创作者工具团队可以考虑集成或借鉴此类开源模型，快速赋能视频创作。",
-      "category": "open_source",
-      "source_signal": "HuggingFace Trending: Lightricks LTX-2.3 Video Generation Model"
-    },
-    {
-      "date": "2026-03-16T09:56:57.455445+08:00",
-      "prediction_text": "搜索与推荐系统可以借鉴此类基准，构建自身可解释推理的评估体系。",
-      "category": "research_breakthrough",
-      "source_signal": "Research: CRYSTAL Benchmark for Transparent Multimodal Reasoning"
-    },
-    {
-      "date": "2026-03-16T09:56:57.466807+08:00",
-      "prediction_text": "平台可以考虑拥抱并贡献此类本土化开源生态，加速Agent应用落地。",
-      "category": "ecosystem_shift",
-      "source_signal": "GitHub Trending: OpenClaw Ecosystem Grows with Chinese Documentation"
-    },
-    {
       "date": "2026-03-17T09:33:35.950298+08:00",
       "prediction_text": "内容安全与治理团队可以考虑将NemoClaw的安全框架作为Agent交互设计的参考基准。",
       "category": "strategic_move",
@@ -599,6 +539,66 @@
       "prediction_text": "搜索产品与电商平台可以基于此类数据，快速微调出理解特定平台UI与流程的专属Agent。",
       "category": "open_source",
       "source_signal": "AI2 Releases MolmoWeb: Open-Weight Visual Web Agent with 30K Human Trajectories"
+    },
+    {
+      "date": "2026-03-26T09:34:33.473137+08:00",
+      "prediction_text": "推荐系统与搜索产品可以考虑引入此类技术，以低成本支持超长用户行为序列的实时建模。",
+      "category": "research_breakthrough",
+      "source_signal": "Google's TurboQuant Algorithm Cuts KV Cache Memory by 6x"
+    },
+    {
+      "date": "2026-03-26T09:34:33.490046+08:00",
+      "prediction_text": "电商与内容平台的客户端产品团队值得探索集成移动端Agent，重构购物与内容创作流程。",
+      "category": "strategic_move",
+      "source_signal": "Claude Expands Computer Use Tools to Mobile"
+    },
+    {
+      "date": "2026-03-26T09:34:33.496499+08:00",
+      "prediction_text": "内容创作工具团队可以考虑引入此类模型，为创作者提供一站式的音视频内容生成能力。",
+      "category": "model_release",
+      "source_signal": "Google Releases Lyria 3 Pro Music Generation Model"
+    },
+    {
+      "date": "2026-03-26T09:34:33.502385+08:00",
+      "prediction_text": "内容安全与平台治理团队可以借鉴其框架，建立针对AI生成内容滥用场景的动态防御体系。",
+      "category": "strategic_move",
+      "source_signal": "OpenAI Launches AI Safety Bug Bounty Program"
+    },
+    {
+      "date": "2026-03-26T09:34:33.508114+08:00",
+      "prediction_text": "研发与战略团队可以基于此基准评估自研Agent能力，明确与AGI级智能的差距与方向。",
+      "category": "research_breakthrough",
+      "source_signal": "François Chollet Launches ARC-AGI-3 Benchmark for Agentic AI"
+    },
+    {
+      "date": "2026-03-26T09:34:33.513681+08:00",
+      "prediction_text": "创作者工具与客服Agent团队可以探索类似的沙盒与分类器机制，在自动化与安全间取得平衡。",
+      "category": "strategic_move",
+      "source_signal": "Anthropic Details Claude Code Auto Mode Safety Design"
+    },
+    {
+      "date": "2026-03-26T09:34:33.519464+08:00",
+      "prediction_text": "电商与内容平台的企业服务团队可以考虑提供私有化Agent方案，满足品牌客户的数据合规需求。",
+      "category": "ecosystem_shift",
+      "source_signal": "Cursor AI Enables Cloud Agents to Run on User Infrastructure"
+    },
+    {
+      "date": "2026-03-26T09:34:33.525093+08:00",
+      "prediction_text": "内容平台的3D/AR生态团队可以关注此类技术，为未来的沉浸式内容与虚拟商品提供生成能力。",
+      "category": "research_breakthrough",
+      "source_signal": "ByteDance Seed Team Publishes SIMART for 3D Asset Generation"
+    },
+    {
+      "date": "2026-03-26T09:34:33.530736+08:00",
+      "prediction_text": "创作者生态与商家运营团队值得探索结构化AI培训，系统性提升中长尾用户的AI应用能力。",
+      "category": "ecosystem_shift",
+      "source_signal": "Anthropic Study Highlights Growing AI Skills Gap"
+    },
+    {
+      "date": "2026-03-26T09:34:33.536948+08:00",
+      "prediction_text": "基础设施团队在规划训练集群时，可以考虑引入此类开源方案，以优化成本与能效。",
+      "category": "open_source",
+      "source_signal": "PyTorch and Nebius Speed Up DeepSeek-V3 Pre-training by 41%"
     }
   ]
 }

@@ -162,7 +162,7 @@
         "params_b": 72.706
       }
     ],
-    "updated": "2026-03-25T09:31:13.855091+08:00"
+    "updated": "2026-03-26T09:31:30.585287+08:00"
   },
   "swebench_verified": {
     "top_models": [
@@ -242,7 +242,7 @@
         "date": "2025-11-03"
       }
     ],
-    "updated": "2026-03-25T09:31:13.855091+08:00"
+    "updated": "2026-03-26T09:31:30.585287+08:00"
   },
   "arc_agi_2": {
     "top_models": [
@@ -287,6 +287,10 @@
         "score": 66.2
       },
       {
+        "name": "grok-4.20-beta-0309b-reasoning",
+        "score": 65.1
+      },
+      {
         "name": "claude-opus-4-6-thinking-120K-low",
         "score": 64.6
       },
@@ -301,13 +305,9 @@
       {
         "name": "gpt-5-4-medium",
         "score": 55.4
-      },
-      {
-        "name": "gpt-5-2-pro-2025-12-11-high",
-        "score": 54.2
       }
     ],
-    "updated": "2026-03-25T09:31:13.855091+08:00"
+    "updated": "2026-03-26T09:31:30.585287+08:00"
   },
   "osworld": {
     "top_models": [
