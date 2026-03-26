@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-26T18:51:38.216215",
+  "scraped_at": "2026-03-26T22:56:27.081277",
   "date": "2026-03-26",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 93,
-  "account_count": 47,
+  "tweet_count": 108,
+  "account_count": 50,
   "tweets": [
     {
       "id": "2036879665655406944",
@@ -1064,6 +1064,179 @@
       "likes": 6621,
       "retweets": 554,
       "views": 913992
+    },
+    {
+      "id": "2037179294724874747",
+      "username": "saranormous",
+      "text": "Boom Loop 🔁",
+      "timestamp": "2026-03-26T14:46:07+00:00",
+      "url": "https://x.com/saranormous/status/2037179294724874747",
+      "images": [],
+      "likes": 10,
+      "retweets": 0,
+      "views": 955
+    },
+    {
+      "id": "2037177396315488627",
+      "username": "steipete",
+      "text": "Testing a new feature for Microsoft Foundry support in @openclaw. Their website is a jungle, I used to make screenshots so codex can guide me through it, but now Chrome has an MCP so codex can simply connect and drive my browser session and do all of that for me.\n\nThe human is no https://t.co/UhURsWIJir",
+      "timestamp": "2026-03-26T14:38:34+00:00",
+      "url": "https://x.com/steipete/status/2037177396315488627",
+      "images": [
+        "https://pbs.twimg.com/media/HEWB9noWsAAmlZE.jpg"
+      ],
+      "likes": 91,
+      "retweets": 6,
+      "views": 5121
+    },
+    {
+      "id": "2037172310117876098",
+      "username": "Austen",
+      "text": "Using Codex to call in other models for the design part is the play.\n\nGoogle’s models crush at design.",
+      "timestamp": "2026-03-26T14:18:22+00:00",
+      "url": "https://x.com/Austen/status/2037172310117876098",
+      "images": [],
+      "likes": 21,
+      "retweets": 0,
+      "views": 2859
+    },
+    {
+      "id": "2037172042898772372",
+      "username": "Austen",
+      "text": "If you’re not using AI you’re dramatically falling behind of what is possible.\n\nIf you think AI is performing everything perfectly the first time you’re going to drive yourself into a ditch.",
+      "timestamp": "2026-03-26T14:17:18+00:00",
+      "url": "https://x.com/Austen/status/2037172042898772372",
+      "images": [],
+      "likes": 42,
+      "retweets": 0,
+      "views": 2529
+    },
+    {
+      "id": "2037162417516625950",
+      "username": "fchollet",
+      "text": "There's going to be a lot more software, and a lot more demand for software engineers. And a lot more token consumption.",
+      "timestamp": "2026-03-26T13:39:03+00:00",
+      "url": "https://x.com/fchollet/status/2037162417516625950",
+      "images": [],
+      "likes": 132,
+      "retweets": 20,
+      "views": 10277
+    },
+    {
+      "id": "2037149628202618963",
+      "username": "DeryaTR_",
+      "text": "What you can vibe code with AI now was inconceivable even a year ago! I can’t believe the science apps &amp; games I’m creating with Codex now. Last night, when I launched a very complex app I’d been building for hours, my jaw dropped and I just froze, staring at the screen. How?!😲",
+      "timestamp": "2026-03-26T12:48:14+00:00",
+      "url": "https://x.com/DeryaTR_/status/2037149628202618963",
+      "images": [],
+      "likes": 54,
+      "retweets": 3,
+      "views": 5695
+    },
+    {
+      "id": "2037147367925789073",
+      "username": "emollick",
+      "text": "Two notes from this year-old prediction:\n1) You can either view this as hype (100% of code is not written by AI) or a startlingly solid prediction (Claude Code didn’t exist then, but now writes a remarkably high percentage of code)\n2) Adoption is more of a barrier than technology",
+      "timestamp": "2026-03-26T12:39:15+00:00",
+      "url": "https://x.com/emollick/status/2037147367925789073",
+      "images": [],
+      "likes": 192,
+      "retweets": 12,
+      "views": 19172
+    },
+    {
+      "id": "2037144382067900553",
+      "username": "minchoi",
+      "text": "It's over for... bots 💀\n\nX algorithm will be fully powered by Grok next week https://t.co/0TKNLqUKEA",
+      "timestamp": "2026-03-26T12:27:23+00:00",
+      "url": "https://x.com/minchoi/status/2037144382067900553",
+      "images": [
+        "https://pbs.twimg.com/media/HEVjvI4bYAAS_6M.jpg"
+      ],
+      "likes": 119,
+      "retweets": 2,
+      "views": 10405
+    },
+    {
+      "id": "2037135245691031768",
+      "username": "julien_c",
+      "text": "We are hiring for a infrastructure/storage focused technical advocate at @huggingface \n\nin case you know someone great, hit me up! https://t.co/nXN9zx6hhK",
+      "timestamp": "2026-03-26T11:51:05+00:00",
+      "url": "https://x.com/julien_c/status/2037135245691031768",
+      "images": [
+        "https://pbs.twimg.com/media/HEVbcD-WkAAP9Mv.png"
+      ],
+      "likes": 35,
+      "retweets": 6,
+      "views": 4400
+    },
+    {
+      "id": "2037132780505624867",
+      "username": "fchollet",
+      "text": "For those wondering about ARC-AGI-4 timing: it will be released in early 2027. We are aiming for a yearly release schedule for new benchmarks. We are also aiming for each new benchmark to be fully unsaturated upon release, and to target the most important unanswered research",
+      "timestamp": "2026-03-26T11:41:17+00:00",
+      "url": "https://x.com/fchollet/status/2037132780505624867",
+      "images": [],
+      "likes": 293,
+      "retweets": 27,
+      "views": 15579
+    },
+    {
+      "id": "2037123533357408415",
+      "username": "hardmaru",
+      "text": "We’re excited to announce a strategic partnership and investment from Mitsubishi Electric 🇯🇵⚡\n\nBy combining their deep domain knowledge and vast amounts of data in the manufacturing sector with Sakana AI’s technology, we’re taking a significant step toward bringing Agentic AI https://t.co/Ix04IHmQKU",
+      "timestamp": "2026-03-26T11:04:32+00:00",
+      "url": "https://x.com/hardmaru/status/2037123533357408415",
+      "images": [
+        "https://pbs.twimg.com/media/HEVQQ3tbYAAMuby.jpg"
+      ],
+      "likes": 93,
+      "retweets": 17,
+      "views": 13720
+    },
+    {
+      "id": "2036837534521860462",
+      "username": "srush_nlp",
+      "text": "How do you use speculative decoding?",
+      "timestamp": "2026-03-25T16:08:05+00:00",
+      "url": "https://x.com/srush_nlp/status/2036837534521860462",
+      "images": [],
+      "likes": 9,
+      "retweets": 0,
+      "views": 1319
+    },
+    {
+      "id": "2036831376738296072",
+      "username": "srush_nlp",
+      "text": "It's really neat to see all the interest in the Composer 2 technical report, from training to kernel design to inference. \n\nIf you have any questions about why we did things, feel free to ask. I'll run around the office and bug people.",
+      "timestamp": "2026-03-25T15:43:37+00:00",
+      "url": "https://x.com/srush_nlp/status/2036831376738296072",
+      "images": [],
+      "likes": 297,
+      "retweets": 16,
+      "views": 48630
+    },
+    {
+      "id": "2036207418917695948",
+      "username": "Miles_Brundage",
+      "text": "The common denominator in all of my recent Claude issues seems to be Opus 4.6 1M",
+      "timestamp": "2026-03-23T22:24:14+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2036207418917695948",
+      "images": [],
+      "likes": 50,
+      "retweets": 1,
+      "views": 8958
+    },
+    {
+      "id": "2036154529364975997",
+      "username": "arena",
+      "text": "In this clip, co-founder and CEO @ml_angelopoulos talks about the scaling law in vote prediction with prompt-level data.\n\nLearn more about the math behind Arena's leaderboards on YouTube. Link in thread 🧵👇 https://t.co/sYwh9fCrw0",
+      "timestamp": "2026-03-23T18:54:04+00:00",
+      "url": "https://x.com/arena/status/2036154529364975997",
+      "images": [],
+      "likes": 42,
+      "retweets": 6,
+      "views": 8635
     }
   ]
 }
