@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-26T15:48:29.035137",
+  "scraped_at": "2026-03-26T18:51:38.216215",
   "date": "2026-03-26",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 86,
-  "account_count": 43,
+  "tweet_count": 93,
+  "account_count": 47,
   "tweets": [
     {
       "id": "2036879665655406944",
@@ -985,6 +985,85 @@
       "likes": 96,
       "retweets": 11,
       "views": 16392
+    },
+    {
+      "id": "2037115982276116622",
+      "username": "CSProfKGD",
+      "text": "LFG! I’m kicking off #FOMO2026 with a talk 🤗 https://t.co/8RDXN2QZKV",
+      "timestamp": "2026-03-26T10:34:32+00:00",
+      "url": "https://x.com/CSProfKGD/status/2037115982276116622",
+      "images": [
+        "https://pbs.twimg.com/media/HEVKL6GXoAA861H.jpg"
+      ],
+      "likes": 1,
+      "retweets": 0,
+      "views": 88
+    },
+    {
+      "id": "2037106065553154521",
+      "username": "emollick",
+      "text": "Kind of want a ARC-AGI-X test where a reputable organization runs it &amp; builds a validated benchmark with outside expert help, but they never disclose the questions or even the nature of the challenges themselves so the tasks can never be targets.\n\nAll we see is a leaderboard",
+      "timestamp": "2026-03-26T09:55:08+00:00",
+      "url": "https://x.com/emollick/status/2037106065553154521",
+      "images": [],
+      "likes": 36,
+      "retweets": 4,
+      "views": 3640
+    },
+    {
+      "id": "2037092892876169556",
+      "username": "Alibaba_Qwen",
+      "text": "Big thanks to Steve for testing the entire Qwen3.5 family. Community feedback like this helps us get better. 🙏",
+      "timestamp": "2026-03-26T09:02:47+00:00",
+      "url": "https://x.com/Alibaba_Qwen/status/2037092892876169556",
+      "images": [],
+      "likes": 316,
+      "retweets": 11,
+      "views": 21800
+    },
+    {
+      "id": "2036881428290445478",
+      "username": "DeryaTR_",
+      "text": "ARC-AGI-3 is an important benchmark. However, I have a major issue with the “Human score 100%” statement. How many humans have tested all 1000 puzzles? How were people selected? This was not published for previous ARCs either. In one case, the human score was based on I think 2",
+      "timestamp": "2026-03-25T19:02:30+00:00",
+      "url": "https://x.com/DeryaTR_/status/2036881428290445478",
+      "images": [],
+      "likes": 237,
+      "retweets": 17,
+      "views": 30926
+    },
+    {
+      "id": "2036838531017179472",
+      "username": "Miles_Brundage",
+      "text": "As I and others have written about for years, export controls *could* be used to drive safety and security in AI.\n\nBut a big problem w/ the Bernie/AOC strategy is that the US does not have its house in order so can't make non-hypocritical demands of others https://t.co/yZbGWoUhOq",
+      "timestamp": "2026-03-25T16:12:03+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2036838531017179472",
+      "images": [],
+      "likes": 52,
+      "retweets": 6,
+      "views": 4374
+    },
+    {
+      "id": "2036836816654147718",
+      "username": "karpathy",
+      "text": "One common issue with personalization in all LLMs is how distracting memory seems to be for the models. A single question from 2 months ago about some topic can keep coming up as some kind of a deep interest of mine with undue mentions in perpetuity. Some kind of trying too hard.",
+      "timestamp": "2026-03-25T16:05:14+00:00",
+      "url": "https://x.com/karpathy/status/2036836816654147718",
+      "images": [],
+      "likes": 17405,
+      "retweets": 869,
+      "views": 1909882
+    },
+    {
+      "id": "2036488680769241223",
+      "username": "sama",
+      "text": "AI will help discover new science, such as cures for diseases, which is perhaps the most important way to increase quality of life long-term.\n\nAI will also present new threats to society that we have to address. No company can sufficiently mitigate these on their own; we will",
+      "timestamp": "2026-03-24T17:01:52+00:00",
+      "url": "https://x.com/sama/status/2036488680769241223",
+      "images": [],
+      "likes": 6621,
+      "retweets": 554,
+      "views": 913992
     }
   ]
 }
