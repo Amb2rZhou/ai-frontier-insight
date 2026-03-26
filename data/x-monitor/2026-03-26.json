@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-26T08:01:25.164999",
+  "scraped_at": "2026-03-26T11:17:26.813895",
   "date": "2026-03-26",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 60,
-  "account_count": 36,
+  "tweet_count": 69,
+  "account_count": 38,
   "tweets": [
     {
       "id": "2036879665655406944",
@@ -686,6 +686,112 @@
       "likes": 278,
       "retweets": 12,
       "views": 22974
+    },
+    {
+      "id": "2036996459565027675",
+      "username": "RisingSayak",
+      "text": "Cool project to reduce tokens during bash tool calls done by agents: https://t.co/dwjTmFDFmL https://t.co/ZNJwOdjjyZ",
+      "timestamp": "2026-03-26T02:39:36+00:00",
+      "url": "https://x.com/RisingSayak/status/2036996459565027675",
+      "images": [
+        "https://pbs.twimg.com/media/HETda_taYAAat7C.jpg"
+      ],
+      "likes": 3,
+      "retweets": 0,
+      "views": 162
+    },
+    {
+      "id": "2036987453924663716",
+      "username": "thsottiaux",
+      "text": "For the avoidance of doubt. The Codex App is here to stay. We are just investing way more into it than before and it's about to get quite awesome",
+      "timestamp": "2026-03-26T02:03:49+00:00",
+      "url": "https://x.com/thsottiaux/status/2036987453924663716",
+      "images": [],
+      "likes": 644,
+      "retweets": 22,
+      "views": 19267
+    },
+    {
+      "id": "2036975047575822645",
+      "username": "Austen",
+      "text": "Great software engineers aren’t just hammering out code with AI anymore.\n\nThey’re now building the systems to automatically write and review code.",
+      "timestamp": "2026-03-26T01:14:31+00:00",
+      "url": "https://x.com/Austen/status/2036975047575822645",
+      "images": [],
+      "likes": 34,
+      "retweets": 1,
+      "views": 3155
+    },
+    {
+      "id": "2036972690255343889",
+      "username": "lateinteraction",
+      "text": "late interaction models doing crazy audio-video alignment for search",
+      "timestamp": "2026-03-26T01:05:09+00:00",
+      "url": "https://x.com/lateinteraction/status/2036972690255343889",
+      "images": [],
+      "likes": 11,
+      "retweets": 1,
+      "views": 1162
+    },
+    {
+      "id": "2036967693601927415",
+      "username": "Austen",
+      "text": "Google is doing it again https://t.co/G1raabs9aE",
+      "timestamp": "2026-03-26T00:45:17+00:00",
+      "url": "https://x.com/Austen/status/2036967693601927415",
+      "images": [
+        "https://pbs.twimg.com/media/HETDUcrXgAIbaAg.jpg",
+        "https://pbs.twimg.com/media/HETDUdWbYAAO2y7.jpg",
+        "https://pbs.twimg.com/media/HETDUcqXAAErfF5.jpg",
+        "https://pbs.twimg.com/media/HETDUdWbYAE46wH.jpg"
+      ],
+      "likes": 34,
+      "retweets": 0,
+      "views": 5724
+    },
+    {
+      "id": "2036962853861662917",
+      "username": "emollick",
+      "text": "I would say that Suno is generally a better music generator at this point (though not for all songs), but Lyria is the first music creator available through an API, and seems to not have the same copyright &amp; training issues that plague Suno and restrict how it can be used.",
+      "timestamp": "2026-03-26T00:26:03+00:00",
+      "url": "https://x.com/emollick/status/2036962853861662917",
+      "images": [],
+      "likes": 22,
+      "retweets": 0,
+      "views": 8445
+    },
+    {
+      "id": "2036961298475372593",
+      "username": "Austen",
+      "text": "The net effect of AI:\n\nMaking something halfway decent is 10x easier than before.\n\nMaking something great is slightly easier (and much faster) than before.",
+      "timestamp": "2026-03-26T00:19:53+00:00",
+      "url": "https://x.com/Austen/status/2036961298475372593",
+      "images": [],
+      "likes": 48,
+      "retweets": 0,
+      "views": 3115
+    },
+    {
+      "id": "2036858778075697457",
+      "username": "GeminiApp",
+      "text": "When to create music with Lyria 3 vs. Lyria 3 Pro in Gemini:\n\nLyria 3 is your playground for fun, spontaneous tracks &amp; quick sharing.\n\nIf you're looking for more musical flow &amp; customization, Lyria 3 Pro (available to Google AI Plus, Pro &amp; Ultra users) can help elevate your work.",
+      "timestamp": "2026-03-25T17:32:30+00:00",
+      "url": "https://x.com/GeminiApp/status/2036858778075697457",
+      "images": [],
+      "likes": 981,
+      "retweets": 102,
+      "views": 154669
+    },
+    {
+      "id": "2036820559502143723",
+      "username": "minchoi",
+      "text": "NVIDIA's Kimodo is wild.\n\nText, keyframes, and 2D paths can now generate high-quality 3D human and robot motion at scale\n\nDemo in comments👇\nhttps://t.co/gHfW9Y1874",
+      "timestamp": "2026-03-25T15:00:38+00:00",
+      "url": "https://x.com/minchoi/status/2036820559502143723",
+      "images": [],
+      "likes": 276,
+      "retweets": 41,
+      "views": 42625
     }
   ]
 }
