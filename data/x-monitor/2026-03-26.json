@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-26T02:56:49.174577",
+  "scraped_at": "2026-03-26T08:01:25.164999",
   "date": "2026-03-26",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 34,
-  "account_count": 22,
+  "tweet_count": 60,
+  "account_count": 36,
   "tweets": [
     {
       "id": "2036879665655406944",
@@ -391,6 +391,301 @@
       "likes": 208,
       "retweets": 13,
       "views": 22847
+    },
+    {
+      "id": "2036955561233719637",
+      "username": "emollick",
+      "text": "Many people think that when AI can do a task better than us, it will outcompete humans. \n\nBut token costs are not trivial, and, for many types of tasks, even skilled labor tasks, humans are much cheaper than AI. Increasing efficiency &amp; compute supply will alter those calculations",
+      "timestamp": "2026-03-25T23:57:05+00:00",
+      "url": "https://x.com/emollick/status/2036955561233719637",
+      "images": [],
+      "likes": 10,
+      "retweets": 0,
+      "views": 490
+    },
+    {
+      "id": "2036952082578620834",
+      "username": "minchoi",
+      "text": "The future is here.\n\nTesla Optimus won't just be the biggest product ever made.\n\nIt could rewrite labor and manufacturing.\n\nTesla's endgame?\n\n \"It won't even look like a robot. It will look like a human in a superhero suit.\" https://t.co/P25q8UK8KG",
+      "timestamp": "2026-03-25T23:43:15+00:00",
+      "url": "https://x.com/minchoi/status/2036952082578620834",
+      "images": [],
+      "likes": 15,
+      "retweets": 1,
+      "views": 1650
+    },
+    {
+      "id": "2036949907311915378",
+      "username": "gneubig",
+      "text": "One interesting dynamic in AI is infra+application co-dependence.\n\nAn older version is hardware (infra) + LLM (app):\n- Architectures that work well with current-gen GPUs+TPUs work better because they scale\n- Hardware makers optimize for the current architectures because that's",
+      "timestamp": "2026-03-25T23:34:37+00:00",
+      "url": "https://x.com/gneubig/status/2036949907311915378",
+      "images": [],
+      "likes": 12,
+      "retweets": 1,
+      "views": 389
+    },
+    {
+      "id": "2036947793051607322",
+      "username": "saranormous",
+      "text": "Ok guys I revise my view maybe we all will be forced to make and host our own software https://t.co/W8OyOGOxiW",
+      "timestamp": "2026-03-25T23:26:13+00:00",
+      "url": "https://x.com/saranormous/status/2036947793051607322",
+      "images": [
+        "https://pbs.twimg.com/media/HESxORNa4AAt6aH.jpg"
+      ],
+      "likes": 29,
+      "retweets": 2,
+      "views": 1514
+    },
+    {
+      "id": "2036944806317088921",
+      "username": "AnthropicAI",
+      "text": "New on the Engineering Blog: How we designed Claude Code auto mode.\n\nMany Claude Code users let Claude work without permission prompts. Auto mode is a safer middle ground: we built and tested classifiers that make approval decisions instead.\n\nRead more: https://t.co/dpcMcWMf5k",
+      "timestamp": "2026-03-25T23:14:21+00:00",
+      "url": "https://x.com/AnthropicAI/status/2036944806317088921",
+      "images": [],
+      "likes": 536,
+      "retweets": 67,
+      "views": 22702
+    },
+    {
+      "id": "2036931243158233407",
+      "username": "DeryaTR_",
+      "text": "This advance from Google bigger deal than it appears:\n\nYou can run 4–8x longer context on same memory. Million-token contexts become far more feasible without multi-GPU setups or heavy degradation.\n\nCloud providers and self-hosted servers see lower per-token costs, higher",
+      "timestamp": "2026-03-25T22:20:27+00:00",
+      "url": "https://x.com/DeryaTR_/status/2036931243158233407",
+      "images": [],
+      "likes": 41,
+      "retweets": 7,
+      "views": 3863
+    },
+    {
+      "id": "2036925719360745478",
+      "username": "nickcammarata",
+      "text": "i both love neural networks (internal circuit motifs, learned geometries, what they learn is beautiful) and ai agents (can learn way more, help me do things) and emotionally they have zero overlap for me, two totally different contexts, despite being the same object",
+      "timestamp": "2026-03-25T21:58:30+00:00",
+      "url": "https://x.com/nickcammarata/status/2036925719360745478",
+      "images": [],
+      "likes": 44,
+      "retweets": 0,
+      "views": 1863
+    },
+    {
+      "id": "2036913656449859736",
+      "username": "DeryaTR_",
+      "text": "Goodbye to @soraofficialapp https://t.co/VYLtxpZ1pM",
+      "timestamp": "2026-03-25T21:10:34+00:00",
+      "url": "https://x.com/DeryaTR_/status/2036913656449859736",
+      "images": [],
+      "likes": 15,
+      "retweets": 1,
+      "views": 2408
+    },
+    {
+      "id": "2036912728351133970",
+      "username": "minchoi",
+      "text": "This is wild… Google just crushed one of AI's biggest memory bottlenecks.\n\n6x less KV memory, up to 8x faster👇",
+      "timestamp": "2026-03-25T21:06:53+00:00",
+      "url": "https://x.com/minchoi/status/2036912728351133970",
+      "images": [],
+      "likes": 80,
+      "retweets": 7,
+      "views": 11235
+    },
+    {
+      "id": "2036911583541285181",
+      "username": "jeremyphoward",
+      "text": "Great to see @xyflowdev joining the llms.txt party - and sharing some really helpful examples of how llms.txt helps agents get better results! 😎\nhttps://t.co/gtmo0iiEJd https://t.co/6R1vBQO8OQ",
+      "timestamp": "2026-03-25T21:02:20+00:00",
+      "url": "https://x.com/jeremyphoward/status/2036911583541285181",
+      "images": [
+        "https://pbs.twimg.com/media/HESQNyta4AAjRFp.jpg"
+      ],
+      "likes": 9,
+      "retweets": 1,
+      "views": 1944
+    },
+    {
+      "id": "2036910998498546155",
+      "username": "NVIDIAAI",
+      "text": ".@Cohere is defining the future of sovereign AI.\n\nAutumn Moulder, VP of Engineering at Cohere, breaks down the requirements for a full AI sovereign stack at #NVIDIAGTC:\n\n✅ Full-Stack Sovereignty: Deploying everything from the model to applications and reasoning traces within a https://t.co/i5vb5NSIqZ",
+      "timestamp": "2026-03-25T21:00:00+00:00",
+      "url": "https://x.com/NVIDIAAI/status/2036910998498546155",
+      "images": [],
+      "likes": 43,
+      "retweets": 11,
+      "views": 3082
+    },
+    {
+      "id": "2036907397738807675",
+      "username": "DeryaTR_",
+      "text": "Congratulations to Matic Robotics for this award! I am very happy with &amp; fond of my Matic Robot, which I named Mimzy☺️ It is the first cleaning robot that feels intelligent, &amp; it is even a pleasure to watch how Mimzy tackles difficult physical situations during its cleaning runs!",
+      "timestamp": "2026-03-25T20:45:42+00:00",
+      "url": "https://x.com/DeryaTR_/status/2036907397738807675",
+      "images": [],
+      "likes": 30,
+      "retweets": 5,
+      "views": 4737
+    },
+    {
+      "id": "2036905596176220546",
+      "username": "_akhaliq",
+      "text": "Ego2Web\n\nA Web Agent Benchmark Grounded in Egocentric Videos\n\npaper: https://t.co/4kYE2HEyPA https://t.co/XJh97rmnOJ",
+      "timestamp": "2026-03-25T20:38:32+00:00",
+      "url": "https://x.com/_akhaliq/status/2036905596176220546",
+      "images": [],
+      "likes": 16,
+      "retweets": 6,
+      "views": 3256
+    },
+    {
+      "id": "2036897354654028207",
+      "username": "deliprao",
+      "text": "After chatting with a bunch of people I am convinced this @NeurIPSConf \"sanctions\" policy is BS. The NeurIPS board owe it to the research community that has served them for decades with transparency by reporting why they took this step, whether this push came from the current",
+      "timestamp": "2026-03-25T20:05:47+00:00",
+      "url": "https://x.com/deliprao/status/2036897354654028207",
+      "images": [],
+      "likes": 46,
+      "retweets": 3,
+      "views": 6627
+    },
+    {
+      "id": "2036896579865764091",
+      "username": "mmitchell_ai",
+      "text": "I dedicate my impressively well-supported 🔥 rebuttal to the all-nighters I pulled in college to write passionately argued 20-page papers that received high marks. (Not that the rebuttal generally changes much, but it's always worth a shot.)",
+      "timestamp": "2026-03-25T20:02:43+00:00",
+      "url": "https://x.com/mmitchell_ai/status/2036896579865764091",
+      "images": [],
+      "likes": 1,
+      "retweets": 0,
+      "views": 657
+    },
+    {
+      "id": "2036894021046669702",
+      "username": "a16z",
+      "text": "Waymo CEO Dmitri Dolgov explains the benefits of lidar, radar, and cameras for self driving:\n\n\"They're very complementary.\"\n\n\"The frequencies are very different. Laser gives you very high resolution. Think of it as a laser beam that goes out, spins around, and shoots out millions https://t.co/aDtBuEclRa",
+      "timestamp": "2026-03-25T19:52:32+00:00",
+      "url": "https://x.com/a16z/status/2036894021046669702",
+      "images": [],
+      "likes": 52,
+      "retweets": 4,
+      "views": 9873
+    },
+    {
+      "id": "2036890871119962364",
+      "username": "omarsar0",
+      "text": "Good paper on improving memory across agents.",
+      "timestamp": "2026-03-25T19:40:01+00:00",
+      "url": "https://x.com/omarsar0/status/2036890871119962364",
+      "images": [],
+      "likes": 22,
+      "retweets": 3,
+      "views": 4975
+    },
+    {
+      "id": "2036888720293716007",
+      "username": "GeminiApp",
+      "text": "Ready to turn up the volume with Lyria 3 Pro? 🎶\n\nJoin us in the Gemini Discord tomorrow (3/26) at 11:30am PDT as Product Manager Joel returns for an encore performance to demo the latest Lyria 3 Pro updates.\n\nJoin us on Discord now and we'll see you there!",
+      "timestamp": "2026-03-25T19:31:29+00:00",
+      "url": "https://x.com/GeminiApp/status/2036888720293716007",
+      "images": [],
+      "likes": 159,
+      "retweets": 15,
+      "views": 13110
+    },
+    {
+      "id": "2036887736687485278",
+      "username": "fchollet",
+      "text": "ARC Prize's mission is to provide actionable goals for AGI research and to measure progress towards them.",
+      "timestamp": "2026-03-25T19:27:34+00:00",
+      "url": "https://x.com/fchollet/status/2036887736687485278",
+      "images": [],
+      "likes": 92,
+      "retweets": 4,
+      "views": 6259
+    },
+    {
+      "id": "2036886597573238821",
+      "username": "a16z",
+      "text": "Waymo CEO Dmitri Dolgov on emergent behaviors he's seen from AI:\n\n\"I've had some moments where a car does something and I look at the log and have been surprised. It does things that I didn't think it was capable of doing.\"\n\n\"When you build a system and you think you understand https://t.co/nGQm8coPZT",
+      "timestamp": "2026-03-25T19:23:03+00:00",
+      "url": "https://x.com/a16z/status/2036886597573238821",
+      "images": [],
+      "likes": 127,
+      "retweets": 16,
+      "views": 38808
+    },
+    {
+      "id": "2036886520100012459",
+      "username": "Austen",
+      "text": "Why have LLMs all started to drop like 10% of all requests?\n\nAre they just all overwhelmed all the time? It’s crazy",
+      "timestamp": "2026-03-25T19:22:44+00:00",
+      "url": "https://x.com/Austen/status/2036886520100012459",
+      "images": [],
+      "likes": 49,
+      "retweets": 0,
+      "views": 7343
+    },
+    {
+      "id": "2036884532104736961",
+      "username": "PyTorch",
+      "text": "PyTorch and Nebius have collaborated to speed-up pre-training DeepSeek-V3 (16B &amp; 671B) on 256 NVIDIA B200 GPUs using TorchTitan. \n\nCombining MXFP8 via TorchAO with DeepEP yielded up to 41% faster training throughput over BF16 (with equivalent convergence). Full results and https://t.co/bi2Z0nnZ4s",
+      "timestamp": "2026-03-25T19:14:50+00:00",
+      "url": "https://x.com/PyTorch/status/2036884532104736961",
+      "images": [
+        "https://pbs.twimg.com/media/HER3q9SXoAA_Qxv.jpg"
+      ],
+      "likes": 45,
+      "retweets": 5,
+      "views": 4120
+    },
+    {
+      "id": "2036881555574923361",
+      "username": "nvidia",
+      "text": "Different voices. Same answer: open models.\n\nNVIDIA Founder and CEO Jensen Huang sat down with the leaders from @mistralai, @bfl_ml, @cursor_ai, @LangChain, @perplexity_ai, @reflection_ai, @thinkymachines, @allen_ai, @evidenceopen, and AMP PBC to discuss the rapid rise of open https://t.co/wha1gE3W5o",
+      "timestamp": "2026-03-25T19:03:00+00:00",
+      "url": "https://x.com/nvidia/status/2036881555574923361",
+      "images": [],
+      "likes": 148,
+      "retweets": 32,
+      "views": 19914
+    },
+    {
+      "id": "2036879952403161147",
+      "username": "a16z",
+      "text": "\"We don't have enough machinists. We don't have enough quality inspectors. We don't have enough welders in the country.\"\n\nHadrian CEO Chris Power on how a modern software-driven factory works differently from traditional manufacturing:\n\n\"At that task level, we have to get them https://t.co/YNk2y2JUrb",
+      "timestamp": "2026-03-25T18:56:38+00:00",
+      "url": "https://x.com/a16z/status/2036879952403161147",
+      "images": [],
+      "likes": 151,
+      "retweets": 23,
+      "views": 20432
+    },
+    {
+      "id": "2036839052234703326",
+      "username": "Austen",
+      "text": "Couldn’t be more excited to welcome more of our hiring partners to their access day at Gauntlet AI today.\n\nToday we’re joined by:\n\nZapier\nAutomattic\nOpenDoor \nCover\nCredal\nST6\nYuno\nVellum\nHiJack\nNClusion \n\n+ more and another set tomorrow.\n\nThank you for making Gauntlet possible! https://t.co/pWVLe1VYBw",
+      "timestamp": "2026-03-25T16:14:07+00:00",
+      "url": "https://x.com/Austen/status/2036839052234703326",
+      "images": [
+        "https://pbs.twimg.com/media/HEROUmFWAAAqtZK.jpg",
+        "https://pbs.twimg.com/media/HEROUmBW0AA7ccG.jpg"
+      ],
+      "likes": 95,
+      "retweets": 4,
+      "views": 18246
+    },
+    {
+      "id": "2036432378474930495",
+      "username": "sarahookr",
+      "text": "its kind of wild @adaption_ai is only 4 months into our journey. \n\nSuper special to see the magic.  \n\nWe are also hiring technical talent across all 3 pillars. https://t.co/CgXJk1bXaU",
+      "timestamp": "2026-03-24T13:18:08+00:00",
+      "url": "https://x.com/sarahookr/status/2036432378474930495",
+      "images": [],
+      "likes": 278,
+      "retweets": 12,
+      "views": 22974
     }
   ]
 }
