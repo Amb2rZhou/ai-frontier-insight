@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-27T01:28:24.548893",
+  "scraped_at": "2026-03-27T04:29:59.359505",
   "date": "2026-03-27",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 15,
-  "account_count": 14,
+  "tweet_count": 42,
+  "account_count": 29,
   "tweets": [
     {
       "id": "2037218942813433927",
@@ -180,6 +180,315 @@
       "likes": 106,
       "retweets": 9,
       "views": 19507
+    },
+    {
+      "id": "2037263895270752660",
+      "username": "_akhaliq",
+      "text": "The Pulse of Motion\n\nMeasuring Physical Frame Rate from Visual Dynamics\n\npaper: https://t.co/oQ3KAPx225 https://t.co/Zg86MJt0qW",
+      "timestamp": "2026-03-26T20:22:17+00:00",
+      "url": "https://x.com/_akhaliq/status/2037263895270752660",
+      "images": [],
+      "likes": 4,
+      "retweets": 1,
+      "views": 439
+    },
+    {
+      "id": "2037263689997529282",
+      "username": "natolambert",
+      "text": "Very in line with the type of open models more companies should be building. Own your niche and build efficient tools or agents for it. Ability to monetize will come later. Congrats team!",
+      "timestamp": "2026-03-26T20:21:28+00:00",
+      "url": "https://x.com/natolambert/status/2037263689997529282",
+      "images": [],
+      "likes": 5,
+      "retweets": 1,
+      "views": 483
+    },
+    {
+      "id": "2037262781330882566",
+      "username": "Everlyn_ai",
+      "text": "As the project team behind Everlyn, we would like to clarify the current situation. We are currently conducting an investigation into issues related to our former market maker. As part of this process, we have notified Binance and requested that they investigate the matter. We",
+      "timestamp": "2026-03-26T20:17:52+00:00",
+      "url": "https://x.com/Everlyn_ai/status/2037262781330882566",
+      "images": [],
+      "likes": 5,
+      "retweets": 1,
+      "views": 171
+    },
+    {
+      "id": "2037261660600111355",
+      "username": "Austen",
+      "text": "AI psychosis looks like so much fun.\n\nNo stress, living in the moment.\n\nThis magic text box you think is all-knowing tells you exactly what you want to hear.\n\nHell yeah.",
+      "timestamp": "2026-03-26T20:13:25+00:00",
+      "url": "https://x.com/Austen/status/2037261660600111355",
+      "images": [],
+      "likes": 7,
+      "retweets": 0,
+      "views": 947
+    },
+    {
+      "id": "2037260799127810367",
+      "username": "DeryaTR_",
+      "text": "I’d like someone to introduce a moratorium for Sen. Sanders to never introduce a moratorium &amp; ban him from blocking the progress of humanity. Every day delayed in AI advancement, 100,000 people who could be saved will die in the future. He needs to be held responsible for this!",
+      "timestamp": "2026-03-26T20:09:59+00:00",
+      "url": "https://x.com/DeryaTR_/status/2037260799127810367",
+      "images": [],
+      "likes": 26,
+      "retweets": 2,
+      "views": 1886
+    },
+    {
+      "id": "2037260655989014706",
+      "username": "johnschulman2",
+      "text": "Great work by Chroma training a search agent with SoTA efficiency. Lots of cool details: a prune tool for editing context mid-search, a synthetic data pipeline with verification steps, and a curriculum that shifts from recall to precision. Trained with Tinker!",
+      "timestamp": "2026-03-26T20:09:25+00:00",
+      "url": "https://x.com/johnschulman2/status/2037260655989014706",
+      "images": [],
+      "likes": 20,
+      "retweets": 1,
+      "views": 1261
+    },
+    {
+      "id": "2037259216931459182",
+      "username": "Austen",
+      "text": "AI detection generators have never worked. They’ve never come close.\n\nI can’t imagine how much harm they’ve wrought on schools and students.",
+      "timestamp": "2026-03-26T20:03:42+00:00",
+      "url": "https://x.com/Austen/status/2037259216931459182",
+      "images": [],
+      "likes": 24,
+      "retweets": 1,
+      "views": 2045
+    },
+    {
+      "id": "2037257080596554238",
+      "username": "a16z",
+      "text": "Why @PalmerLuckey wears Hawaiian shirts https://t.co/9BuT1dNPVK",
+      "timestamp": "2026-03-26T19:55:13+00:00",
+      "url": "https://x.com/a16z/status/2037257080596554238",
+      "images": [],
+      "likes": 41,
+      "retweets": 5,
+      "views": 4393
+    },
+    {
+      "id": "2037253905818456306",
+      "username": "PyTorch",
+      "text": "NCCL watchdog timeouts are some of the most commonly misunderstood and difficult-to-debug errors in AI training. In the past, PyTorch released Flight Recorder to make debugging these errors easier, but interpreting its outputs has been tricky.\n\nBased on an analysis of countless https://t.co/iXFS5yNXay",
+      "timestamp": "2026-03-26T19:42:36+00:00",
+      "url": "https://x.com/PyTorch/status/2037253905818456306",
+      "images": [
+        "https://pbs.twimg.com/media/HEXHnUWW8AAoMrs.jpg"
+      ],
+      "likes": 10,
+      "retweets": 2,
+      "views": 1354
+    },
+    {
+      "id": "2037250149496610832",
+      "username": "mathemagic1an",
+      "text": "Search subagents are best case scenario for small RL'd models\n\nEasily amenable to infinite synthetic data generation and the task itself can be factored out from larger agentic traces\n\nKudos to Chroma for making this as open as possible 👏",
+      "timestamp": "2026-03-26T19:27:40+00:00",
+      "url": "https://x.com/mathemagic1an/status/2037250149496610832",
+      "images": [],
+      "likes": 9,
+      "retweets": 3,
+      "views": 1000
+    },
+    {
+      "id": "2037247790552949109",
+      "username": "a16z",
+      "text": "Adam Neumann on the call he got from @pmarca after stepping down from WeWork:\n\n\" [Marc] heard so much noise from the media, that he knew what the story wasn't.\"\n\n\"He didn't know what the story was.\"\n\n\"In hindsight, now that I know him and Ben so much better... for them, getting https://t.co/8sKdlsmBFZ",
+      "timestamp": "2026-03-26T19:18:18+00:00",
+      "url": "https://x.com/a16z/status/2037247790552949109",
+      "images": [],
+      "likes": 126,
+      "retweets": 4,
+      "views": 21892
+    },
+    {
+      "id": "2037243189292073190",
+      "username": "googledevs",
+      "text": "Every great build needs a human architect. 🏗️✨\n\n.@llcoolj sat down with Google’s James Manyika to discuss the intersection of qubits and culture, and how artists use tech—from analog drum machines to AI —to amplify the \"divine spark\" of creativity.\n\nCatch the full talk on the https://t.co/xfMJPkRFHJ",
+      "timestamp": "2026-03-26T19:00:01+00:00",
+      "url": "https://x.com/googledevs/status/2037243189292073190",
+      "images": [],
+      "likes": 15,
+      "retweets": 3,
+      "views": 2002
+    },
+    {
+      "id": "2037236374500159539",
+      "username": "_akhaliq",
+      "text": "CUA-Suite\n\nMassive Human-annotated Video Demonstrations for Computer-Use Agents\n\npaper: https://t.co/hi1WnffQSY https://t.co/ACjYOPcDzH",
+      "timestamp": "2026-03-26T18:32:56+00:00",
+      "url": "https://x.com/_akhaliq/status/2037236374500159539",
+      "images": [],
+      "likes": 9,
+      "retweets": 5,
+      "views": 4829
+    },
+    {
+      "id": "2037235959536734581",
+      "username": "_akhaliq",
+      "text": "Qworld\n\nQuestion-Specific Evaluation Criteria for LLMs\n\npaper: https://t.co/UJvFr6xdpD https://t.co/n7RfxIIyB9",
+      "timestamp": "2026-03-26T18:31:17+00:00",
+      "url": "https://x.com/_akhaliq/status/2037235959536734581",
+      "images": [],
+      "likes": 10,
+      "retweets": 3,
+      "views": 1855
+    },
+    {
+      "id": "2037235719584825568",
+      "username": "NielsRogge",
+      "text": "LLM generation consists of 2 phases: prefill (prompt processing and building the KV cache) and decoding.\n\n- Prefill is compute-bound: the more FLOPs you have, the faster it will be.\n- Decode is memory-bound: the more memory bandwidth your GPU has, the faster it will be.\n\nTIL that https://t.co/sh50afQb0h",
+      "timestamp": "2026-03-26T18:30:20+00:00",
+      "url": "https://x.com/NielsRogge/status/2037235719584825568",
+      "images": [
+        "https://pbs.twimg.com/media/HEW2rrXXgAAjcGf.jpg"
+      ],
+      "likes": 13,
+      "retweets": 2,
+      "views": 1063
+    },
+    {
+      "id": "2037235669278367931",
+      "username": "emollick",
+      "text": "Small AI models and specialized vertical AI models are very brittle. Any unusual situation or out-of-distribution issue and they break down. You also won’t get emergent leaps or good problem solving.\n\nThey still have uses, but benchmarks don’t do a good job of showing weaknesses",
+      "timestamp": "2026-03-26T18:30:08+00:00",
+      "url": "https://x.com/emollick/status/2037235669278367931",
+      "images": [],
+      "likes": 86,
+      "retweets": 7,
+      "views": 6444
+    },
+    {
+      "id": "2037234922927128900",
+      "username": "ClementDelangue",
+      "text": "Frankly I’m shocked that not many more American startups and big tech have noticed the massive opportunity and gap in the market for American open-source AI https://t.co/93mzlvoD53",
+      "timestamp": "2026-03-26T18:27:10+00:00",
+      "url": "https://x.com/ClementDelangue/status/2037234922927128900",
+      "images": [
+        "https://pbs.twimg.com/media/HEW2XVBbYAQmtp8.jpg"
+      ],
+      "likes": 104,
+      "retweets": 16,
+      "views": 11641
+    },
+    {
+      "id": "2037233908857582041",
+      "username": "_akhaliq",
+      "text": "LagerNVS\n\nLatent Geometry for Fully Neural Real-time Novel View Synthesis\n\npaper: https://t.co/d8Boz9XIGR https://t.co/KWZQdHYL4L",
+      "timestamp": "2026-03-26T18:23:08+00:00",
+      "url": "https://x.com/_akhaliq/status/2037233908857582041",
+      "images": [],
+      "likes": 17,
+      "retweets": 4,
+      "views": 2243
+    },
+    {
+      "id": "2037231932216693005",
+      "username": "ClementDelangue",
+      "text": "After @Pinterest @Airbnb @NotionHQ @cursor_ai, today it’s @eoghan @intercom publicly sharing that they’re finding it better, cheaper, faster to use and train open models themselves rather than use APIs for many tasks. \n\nAnd hundreds of other companies are doing the same without https://t.co/fr1Fen3GT3",
+      "timestamp": "2026-03-26T18:15:17+00:00",
+      "url": "https://x.com/ClementDelangue/status/2037231932216693005",
+      "images": [
+        "https://pbs.twimg.com/media/HEWzpJ6WwAAyOj_.jpg"
+      ],
+      "likes": 200,
+      "retweets": 35,
+      "views": 17511
+    },
+    {
+      "id": "2037230402817884367",
+      "username": "Austen",
+      "text": "We're doing a spaces AMA tomorrow (AI Development + the Gauntlet curriculum chat). \n\nJoin us!\n\nhttps://t.co/kROONb9KLm",
+      "timestamp": "2026-03-26T18:09:12+00:00",
+      "url": "https://x.com/Austen/status/2037230402817884367",
+      "images": [],
+      "likes": 13,
+      "retweets": 3,
+      "views": 1635
+    },
+    {
+      "id": "2037226458767143371",
+      "username": "ClementDelangue",
+      "text": "Wise words from @eoghan @intercom. That’s why open-source AI is so important!\n\n“We believe that the winners in such spaces must and will become full stack AI companies. And we’ve already seen this just last week with Cursor making the first such move, with Fin being the second.",
+      "timestamp": "2026-03-26T17:53:32+00:00",
+      "url": "https://x.com/ClementDelangue/status/2037226458767143371",
+      "images": [],
+      "likes": 39,
+      "retweets": 4,
+      "views": 2600
+    },
+    {
+      "id": "2037225597953597539",
+      "username": "a16z",
+      "text": "\"The winner of the AI race will not be the company with the smartest model.\n\nIt will be the company that is most effective at making the local hero—the teacher, the accountant, the community leader—ten times more powerful.\n\nBecause in the end, intelligence travels through https://t.co/pH8Qd7G8BX",
+      "timestamp": "2026-03-26T17:50:07+00:00",
+      "url": "https://x.com/a16z/status/2037225597953597539",
+      "images": [
+        "https://pbs.twimg.com/media/HEWt4k8bEAAYov_.jpg"
+      ],
+      "likes": 227,
+      "retweets": 38,
+      "views": 13584
+    },
+    {
+      "id": "2037223925126660171",
+      "username": "srush_nlp",
+      "text": "r11l is pretty fun. https://t.co/Ygjio9EIrV",
+      "timestamp": "2026-03-26T17:43:28+00:00",
+      "url": "https://x.com/srush_nlp/status/2037223925126660171",
+      "images": [
+        "https://pbs.twimg.com/media/HEWrtLGbYAI5e1w.jpg"
+      ],
+      "likes": 13,
+      "retweets": 0,
+      "views": 1353
+    },
+    {
+      "id": "2037221491524428150",
+      "username": "NVIDIARobotics",
+      "text": "DGX Spark + NemoClaw + Omniverse NuRec + Isaac Sim. 👀\n\nNext week is going to be a big one. 🦞",
+      "timestamp": "2026-03-26T17:33:47+00:00",
+      "url": "https://x.com/NVIDIARobotics/status/2037221491524428150",
+      "images": [],
+      "likes": 19,
+      "retweets": 5,
+      "views": 1592
+    },
+    {
+      "id": "2037220686134141062",
+      "username": "GeminiApp",
+      "text": "This event is happening soon! Join the Gemini Discord here: https://t.co/HP167R2KrM",
+      "timestamp": "2026-03-26T17:30:35+00:00",
+      "url": "https://x.com/GeminiApp/status/2037220686134141062",
+      "images": [],
+      "likes": 102,
+      "retweets": 14,
+      "views": 14286
+    },
+    {
+      "id": "2037220366414995946",
+      "username": "fchollet",
+      "text": "For those wondering about ARC-AGI-4 timing: it will be released in early 2027. We are aiming for a yearly release schedule for new benchmarks. We are also aiming for each new benchmark to be fully unsaturated upon release, and to target the most important unanswered research",
+      "timestamp": "2026-03-26T17:29:19+00:00",
+      "url": "https://x.com/fchollet/status/2037220366414995946",
+      "images": [],
+      "likes": 138,
+      "retweets": 8,
+      "views": 7764
+    },
+    {
+      "id": "2037178931447816330",
+      "username": "saranormous",
+      "text": "“most people have no idea what to do with AI”",
+      "timestamp": "2026-03-26T14:44:40+00:00",
+      "url": "https://x.com/saranormous/status/2037178931447816330",
+      "images": [],
+      "likes": 92,
+      "retweets": 2,
+      "views": 26669
     }
   ]
 }
