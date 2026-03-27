@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-27T09:01:09.250416",
+  "scraped_at": "2026-03-27T13:03:44.878708",
   "date": "2026-03-27",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 62,
-  "account_count": 37,
+  "tweet_count": 82,
+  "account_count": 45,
   "tweets": [
     {
       "id": "2037218942813433927",
@@ -726,6 +726,232 @@
       "likes": 43,
       "retweets": 4,
       "views": 2567
+    },
+    {
+      "id": "2037392207641014688",
+      "username": "emollick",
+      "text": "It is worth noting the absolute confidence of the leading AI labs that they can continue to release ever more powerful models for the near future.\n\nAs usual, they may not be right, but they haven't been wrong on this yet (despite the weird \"GPT-5 is a plateau\" articles last year)",
+      "timestamp": "2026-03-27T04:52:09+00:00",
+      "url": "https://x.com/emollick/status/2037392207641014688",
+      "images": [],
+      "likes": 24,
+      "retweets": 3,
+      "views": 1102
+    },
+    {
+      "id": "2037386452141543495",
+      "username": "embirico",
+      "text": "enjoy plugins!",
+      "timestamp": "2026-03-27T04:29:17+00:00",
+      "url": "https://x.com/embirico/status/2037386452141543495",
+      "images": [],
+      "likes": 19,
+      "retweets": 0,
+      "views": 1062
+    },
+    {
+      "id": "2037384864509423652",
+      "username": "minchoi",
+      "text": "🚨BREAKING: Fortune says leaked Anthropic docs show \"Claude Mythos\" is already in testing...\n\nAnd Anthropic thinks it poses unprecedented cybersecurity risks 👇 https://t.co/GdN38RNE5U",
+      "timestamp": "2026-03-27T04:22:59+00:00",
+      "url": "https://x.com/minchoi/status/2037384864509423652",
+      "images": [
+        "https://pbs.twimg.com/media/HEY-TFjbUAAezAA.jpg"
+      ],
+      "likes": 23,
+      "retweets": 4,
+      "views": 4506
+    },
+    {
+      "id": "2037383187245273477",
+      "username": "levie",
+      "text": "Box just launched its plugin within Codex, which means you can take any content within Box and automate workflows around it using the power of a coding agent. \n\nHere's a quick example of processing earnings call documents to extract structured data at scale, which you could then https://t.co/SetbpcsuQk",
+      "timestamp": "2026-03-27T04:16:19+00:00",
+      "url": "https://x.com/levie/status/2037383187245273477",
+      "images": [],
+      "likes": 31,
+      "retweets": 5,
+      "views": 11029
+    },
+    {
+      "id": "2037380345436467541",
+      "username": "fchollet",
+      "text": "AGI will make its own harness (or whatever else it needs to solve a new problem). As long as you need a human engineer to handcraft a task-specific harness/system for each new problem, AI isn't general. It's an automation tool to be wielded by software engineers.\n\nHarness-related",
+      "timestamp": "2026-03-27T04:05:01+00:00",
+      "url": "https://x.com/fchollet/status/2037380345436467541",
+      "images": [],
+      "likes": 128,
+      "retweets": 11,
+      "views": 7784
+    },
+    {
+      "id": "2037371576212201721",
+      "username": "ChrSzegedy",
+      "text": "Can't wait ARC-AGI-42 by the end of year.",
+      "timestamp": "2026-03-27T03:30:10+00:00",
+      "url": "https://x.com/ChrSzegedy/status/2037371576212201721",
+      "images": [],
+      "likes": 10,
+      "retweets": 0,
+      "views": 1357
+    },
+    {
+      "id": "2037367456298414537",
+      "username": "alexandr_wang",
+      "text": "incredible new research from our teams at FAIR",
+      "timestamp": "2026-03-27T03:13:48+00:00",
+      "url": "https://x.com/alexandr_wang/status/2037367456298414537",
+      "images": [],
+      "likes": 218,
+      "retweets": 13,
+      "views": 22211
+    },
+    {
+      "id": "2037367135719014640",
+      "username": "Austen",
+      "text": "He could have just applied to Gauntlet AI https://t.co/PuyqxUm1SM",
+      "timestamp": "2026-03-27T03:12:32+00:00",
+      "url": "https://x.com/Austen/status/2037367135719014640",
+      "images": [
+        "https://pbs.twimg.com/media/HEYunEhagAAX97V.jpg"
+      ],
+      "likes": 11,
+      "retweets": 0,
+      "views": 3260
+    },
+    {
+      "id": "2037363239194071244",
+      "username": "Everlyn_ai",
+      "text": "Keep going… even when it feels endless.\n\n- generated on Everlyn in 7.9 seconds https://t.co/cwpjvtoV0d",
+      "timestamp": "2026-03-27T02:57:03+00:00",
+      "url": "https://x.com/Everlyn_ai/status/2037363239194071244",
+      "images": [],
+      "likes": 3,
+      "retweets": 0,
+      "views": 385
+    },
+    {
+      "id": "2037363016770191539",
+      "username": "JeffDean",
+      "text": "The video of my conversation with Bill Dally at GTC last week is up.  I always enjoy talking to Bill, and we had a wide ranging discussion about computer architecture, model training, specialized inference hardware, custom interconnects, and more!\n\nhttps://t.co/mEBhHasuC6",
+      "timestamp": "2026-03-27T02:56:10+00:00",
+      "url": "https://x.com/JeffDean/status/2037363016770191539",
+      "images": [],
+      "likes": 100,
+      "retweets": 18,
+      "views": 14966
+    },
+    {
+      "id": "2037362068022772141",
+      "username": "Miles_Brundage",
+      "text": "I'm a bit confused as to what happened here - some parts suggest that the only things leaked were, at one point, intended to be public, whereas the parental leave thing suggests the exact opposite https://t.co/9gkLTkJKQG",
+      "timestamp": "2026-03-27T02:52:24+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2037362068022772141",
+      "images": [],
+      "likes": 15,
+      "retweets": 0,
+      "views": 5181
+    },
+    {
+      "id": "2037356753197617409",
+      "username": "emollick",
+      "text": "It helps to think of ARC-AGI-3 as a different test entirely than the previous ARC-AGIs. It measures different things (though, as in the previous tests, precisely what it measures isn’t clear) and has different rules.\n\nThat doesn’t mean it isn’t good, but it is its own thing.",
+      "timestamp": "2026-03-27T02:31:16+00:00",
+      "url": "https://x.com/emollick/status/2037356753197617409",
+      "images": [],
+      "likes": 19,
+      "retweets": 1,
+      "views": 4549
+    },
+    {
+      "id": "2037354021787439197",
+      "username": "OpenAIDevs",
+      "text": "You can just build things.",
+      "timestamp": "2026-03-27T02:20:25+00:00",
+      "url": "https://x.com/OpenAIDevs/status/2037354021787439197",
+      "images": [],
+      "likes": 408,
+      "retweets": 14,
+      "views": 24558
+    },
+    {
+      "id": "2037351461219373075",
+      "username": "Miles_Brundage",
+      "text": "GPT-5.4 made me less tolerant of Claude's \"it's not X, it's Y\" because it shows another world is possible\n\nAnd Claude's efficiency (in terms of insight per second) makes the GPTs look bad\n\nSoon both will be efficient and non-cringe, and I'll find new things to tweet angrily about",
+      "timestamp": "2026-03-27T02:10:15+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2037351461219373075",
+      "images": [],
+      "likes": 82,
+      "retweets": 0,
+      "views": 4536
+    },
+    {
+      "id": "2037348762138677735",
+      "username": "demishassabis",
+      "text": "Now it’s even easier to switch to the @GeminiApp ! 😎",
+      "timestamp": "2026-03-27T01:59:31+00:00",
+      "url": "https://x.com/demishassabis/status/2037348762138677735",
+      "images": [],
+      "likes": 394,
+      "retweets": 20,
+      "views": 29904
+    },
+    {
+      "id": "2037348081684111623",
+      "username": "gdb",
+      "text": "Plugins are now available in Codex:",
+      "timestamp": "2026-03-27T01:56:49+00:00",
+      "url": "https://x.com/gdb/status/2037348081684111623",
+      "images": [],
+      "likes": 248,
+      "retweets": 17,
+      "views": 22222
+    },
+    {
+      "id": "2037345739203059861",
+      "username": "thsottiaux",
+      "text": "Codex team prompting codex",
+      "timestamp": "2026-03-27T01:47:30+00:00",
+      "url": "https://x.com/thsottiaux/status/2037345739203059861",
+      "images": [],
+      "likes": 212,
+      "retweets": 2,
+      "views": 12970
+    },
+    {
+      "id": "2037311130625032518",
+      "username": "fchollet",
+      "text": "To be clear, all ARC-AGI-3 environments are feasible by humans with no prior ARC-AGI-3-specific training. Our bar for feasibility is the following...\n\nEach environment was seen by 10 human testers. If 2 testers could independently clear it (successfully solving *all* levels in",
+      "timestamp": "2026-03-26T23:29:59+00:00",
+      "url": "https://x.com/fchollet/status/2037311130625032518",
+      "images": [],
+      "likes": 291,
+      "retweets": 18,
+      "views": 33466
+    },
+    {
+      "id": "2037164172648341670",
+      "username": "CSProfKGD",
+      "text": "Kicking off today’s afternoon session @robrombach @bfl_ml with a fireside session ❤️ https://t.co/Pi4LmOsi6m",
+      "timestamp": "2026-03-26T13:46:02+00:00",
+      "url": "https://x.com/CSProfKGD/status/2037164172648341670",
+      "images": [
+        "https://pbs.twimg.com/media/HEV1d3Ba0AAh4fX.jpg"
+      ],
+      "likes": 16,
+      "retweets": 1,
+      "views": 3705
+    },
+    {
+      "id": "2036848277333622956",
+      "username": "OfficialLoganK",
+      "text": "Introducing Lyria 3 Pro and Lyria 3 Clip, our full song and 30 second music models, available starting today in the Gemini API and our all new music experience in @GoogleAIStudio!! https://t.co/AFvJRDSAIA",
+      "timestamp": "2026-03-25T16:50:46+00:00",
+      "url": "https://x.com/OfficialLoganK/status/2036848277333622956",
+      "images": [],
+      "likes": 1147,
+      "retweets": 84,
+      "views": 95697
     }
   ]
 }
