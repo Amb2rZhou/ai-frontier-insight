@@ -791,6 +791,226 @@
           128
         ]
       }
+    ],
+    "2026-03-27": [
+      {
+        "title": "Google Launches Gemini 3.1 Flash Live for Real-Time Voice and Vision Agents",
+        "signal_text": "Google 正式发布 Gemini 3.1 Flash Live，这是一个专为实时语音和视觉 Agent 设计的模型。据 Google AI 负责人 Jeff Dean 介绍，该模型原生理解音频，能处理复杂指令，在 ComplexFuncBench 和 Scale AI 的 AudioMultiChallenge 上表现领先。产品负责人 Logan Kilpatrick 表示，其在质量、可靠性和延迟方面实现了阶跃式改进，可用于构建语音控制应用。",
+        "signal_strength": 0.9,
+        "sources": [
+          {
+            "name": "Google AI Blog",
+            "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/"
+          },
+          {
+            "name": "Jeff Dean (@JeffDean)",
+            "url": "https://x.com/JeffDean/status/2037200383270170735"
+          },
+          {
+            "name": "Logan Kilpatrick (@OfficialLoganK)",
+            "url": "https://x.com/OfficialLoganK/status/2037187750005240307"
+          }
+        ],
+        "tags": [
+          "内容创作与理解",
+          "Agent 与新交互范式",
+          "头部公司战略动作"
+        ],
+        "raw_item_indices": [
+          35,
+          79,
+          131
+        ]
+      },
+      {
+        "title": "Intercom Launches Fin Apex 1.0, a Specialized AI Model Outperforming GPT-5.4 in Customer Service",
+        "signal_text": "据 VentureBeat 报道，客户服务平台 Intercom 发布了自研的专用 AI 模型 Fin Apex 1.0。该模型在客户服务解决率上击败了 GPT-5.4 和 Claude Sonnet 4.6，展示了垂直领域专用模型在特定任务上的优势。Intercom CEO 表示，在 AI 时代，赢家将是全栈 AI 公司。",
+        "signal_strength": 0.8,
+        "sources": [
+          {
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/technology/intercoms-new-post-trained-fin-apex-1-0-beats-gpt-5-4-and-claude-sonnet-4-6"
+          },
+          {
+            "name": "Clement Delangue (@ClementDelangue)",
+            "url": "https://x.com/ClementDelangue/status/2037226458767143371"
+          }
+        ],
+        "tags": [
+          "Agent 与新交互范式",
+          "头部公司战略动作",
+          "开源生态"
+        ],
+        "raw_item_indices": [
+          32,
+          106
+        ]
+      },
+      {
+        "title": "Google Expands Search Live Globally and Launches Chat Migration Tools for Gemini",
+        "signal_text": "Google 宣布其 AI 驱动的实时视觉搜索功能 Search Live 正在全球范围内扩展。同时，Google 推出了“切换工具”，使用户能够轻松地将其他聊天机器人的聊天记录和个人信息迁移到 Gemini，旨在降低用户转换成本。",
+        "signal_strength": 0.8,
+        "sources": [
+          {
+            "name": "Google AI Blog (Search Live)",
+            "url": "https://blog.google/products-and-platforms/products/search/search-live-global-expansion/"
+          },
+          {
+            "name": "TechCrunch (Gemini Migration)",
+            "url": "https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/"
+          }
+        ],
+        "tags": [
+          "搜索与推荐",
+          "头部公司战略动作"
+        ],
+        "raw_item_indices": [
+          9,
+          36
+        ]
+      },
+      {
+        "title": "Chroma Open-Sources Agentic Search Agent Trained with RL",
+        "signal_text": "向量数据库公司 Chroma 在 HuggingFace 上开源了其 Agentic Search Agent，并发布了技术报告。该搜索 Agent 使用强化学习训练，包含用于编辑上下文的剪枝工具、带验证步骤的合成数据管道以及从召回转向精度的课程学习。OpenAI 联合创始人 John Schulman 称赞了其训练效率和开放性。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "Niels Rogge (@NielsRogge)",
+            "url": "https://x.com/NielsRogge/status/2037278806579257849"
+          },
+          {
+            "name": "John Schulman (@johnschulman2)",
+            "url": "https://x.com/johnschulman2/status/2037260655989014706"
+          }
+        ],
+        "tags": [
+          "搜索与推荐",
+          "Agent 与新交互范式",
+          "开源生态"
+        ],
+        "raw_item_indices": [
+          91,
+          127
+        ]
+      },
+      {
+        "title": "Sakana AI Announces Strategic Partnership with Mitsubishi Electric for Agentic AI in Manufacturing",
+        "signal_text": "日本 AI 初创公司 Sakana AI 宣布与三菱电机达成战略合作并获得投资。双方将结合三菱电机在制造业的领域知识和海量数据与 Sakana AI 的技术，共同推动 Agentic AI 在制造业的应用。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "hardmaru (@hardmaru)",
+            "url": "https://x.com/hardmaru/status/2037123533357408415"
+          }
+        ],
+        "tags": [
+          "Agent 与新交互范式",
+          "头部公司战略动作"
+        ],
+        "raw_item_indices": [
+          70
+        ]
+      },
+      {
+        "title": "François Chollet Announces ARC-AGI-4 Release for Early 2027",
+        "signal_text": "Keras 创始人 François Chollet 宣布，下一代 AGI 基准测试 ARC-AGI-4 将于 2027 年初发布。他计划保持年度发布节奏，并确保每个新基准在发布时都未被饱和，以针对最重要的未解决研究问题。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "François Chollet (@fchollet)",
+            "url": "https://x.com/fchollet/status/2037132780505624867"
+          }
+        ],
+        "tags": [
+          "技术突破",
+          "Agent 与新交互范式"
+        ],
+        "raw_item_indices": [
+          69
+        ]
+      },
+      {
+        "title": "DeepMind Paper Analyzes Challenges in Iterative Generative Optimization with LLMs",
+        "signal_text": "Google DeepMind 团队发表论文，分析了使用大语言模型进行迭代式生成优化所面临的挑战。研究发现，关于工件修改和学习证据的隐式设计决策会显著影响成功率，这为改进 AI 辅助创作和设计工具提供了重要见解。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "HuggingFace Papers (DeepMind)",
+            "url": "https://huggingface.co/papers/2603.23994"
+          }
+        ],
+        "tags": [
+          "内容创作与理解",
+          "技术突破",
+          "头部公司战略动作"
+        ],
+        "raw_item_indices": [
+          170
+        ]
+      },
+      {
+        "title": "Meta AI Releases LagerNVS: Latent Geometry for Real-Time Neural View Synthesis",
+        "signal_text": "Meta AI 团队发表论文 LagerNVS，提出一种通过编码器-解码器架构融入 3D 归纳偏置的方法，使神经网络无需显式 3D 重建即可执行新视角合成等 3D 任务，并实现实时渲染。该工作已获得 148 GitHub stars。",
+        "signal_strength": 0.7,
+        "sources": [
+          {
+            "name": "HuggingFace Papers (LagerNVS)",
+            "url": "https://huggingface.co/papers/2603.20176"
+          },
+          {
+            "name": "@_akhaliq (curator)",
+            "url": "https://x.com/_akhaliq/status/2037233908857582041"
+          }
+        ],
+        "tags": [
+          "内容创作与理解",
+          "技术突破",
+          "头部公司战略动作"
+        ],
+        "raw_item_indices": [
+          103,
+          178
+        ]
+      },
+      {
+        "title": "Benchmark Shows Performance Leap for Agentic AI in OSWorld",
+        "signal_text": "OSWorld 基准测试排行榜显示，多个基于 Opus 4.5 的 Agent 系统（如 agent s3 w/ Opus 4.5 bBoN 和 UiPath Screen Agent w/ Opus 4.5）排名大幅跃升（上升 6-9 名），得分达到 66-67%，表明近期 Agent 在操作系统任务上的性能有显著进步。",
+        "signal_strength": 0.7,
+        "sources": [
+          {
+            "name": "OSWorld Benchmark",
+            "url": "https://os-world.github.io/"
+          }
+        ],
+        "tags": [
+          "Agent 与新交互范式",
+          "技术突破"
+        ],
+        "raw_item_indices": [
+          204,
+          205,
+          206,
+          207
+        ]
+      },
+      {
+        "title": "Wikipedia Cracks Down on AI-Generated Article Writing",
+        "signal_text": "据 TechCrunch 报道，维基百科正在加强对 AI 生成文章写作的管控。该网站一直在与 AI 生成内容的问题作斗争，其政策可能因此发生变化，反映出社区对 AI 生成内容质量和可信度的担忧。",
+        "signal_strength": 0.65,
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/"
+          }
+        ],
+        "tags": [
+          "内容安全与治理",
+          "行业风险与监管"
+        ],
+        "raw_item_indices": [
+          19
+        ]
+      }
     ]
   },
   "archived_weeks": [
