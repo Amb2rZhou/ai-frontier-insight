@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-27T15:34:43.214908",
+  "scraped_at": "2026-03-27T20:38:18.533935",
   "date": "2026-03-27",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 87,
-  "account_count": 47,
+  "tweet_count": 92,
+  "account_count": 49,
   "tweets": [
     {
       "id": "2037218942813433927",
@@ -1015,6 +1015,61 @@
       "likes": 906,
       "retweets": 142,
       "views": 67723
+    },
+    {
+      "id": "2037439405820899576",
+      "username": "NielsRogge",
+      "text": "The new `hf papers` CLI will be available in the next release!\n\nCheck all CLI commands here: https://t.co/u9M64bd7y8",
+      "timestamp": "2026-03-27T07:59:42+00:00",
+      "url": "https://x.com/NielsRogge/status/2037439405820899576",
+      "images": [],
+      "likes": 5,
+      "retweets": 2,
+      "views": 743
+    },
+    {
+      "id": "2037438893457289364",
+      "username": "NeurIPSConf",
+      "text": "We want to speak directly to the concern many of you have expressed, and we owe you a clear explanation of what happened, why it happened, and where we stand now. We understand this situation caused genuine alarm and we take that seriously.\n\nIn preparing the NeurIPS 2026",
+      "timestamp": "2026-03-27T07:57:40+00:00",
+      "url": "https://x.com/NeurIPSConf/status/2037438893457289364",
+      "images": [],
+      "likes": 280,
+      "retweets": 83,
+      "views": 86989
+    },
+    {
+      "id": "2037346977466180074",
+      "username": "lateinteraction",
+      "text": "recursive language models at work!",
+      "timestamp": "2026-03-27T01:52:26+00:00",
+      "url": "https://x.com/lateinteraction/status/2037346977466180074",
+      "images": [],
+      "likes": 256,
+      "retweets": 13,
+      "views": 24695
+    },
+    {
+      "id": "2037051704785723502",
+      "username": "Miles_Brundage",
+      "text": "My robotics timeline estimates have changed much more in recent years than my AI ones https://t.co/EJpKfeJnK7",
+      "timestamp": "2026-03-26T06:19:07+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2037051704785723502",
+      "images": [],
+      "likes": 124,
+      "retweets": 5,
+      "views": 26152
+    },
+    {
+      "id": "2036551534549643444",
+      "username": "fchollet",
+      "text": "When high-fluid intelligence systems start to show up, they will immediately take over the knowledge-dependent ones. Because they will be able to scale their knowledge just as well as legacy systems (knowledge gathering is the easy part), while their ability to recombine and",
+      "timestamp": "2026-03-24T21:11:37+00:00",
+      "url": "https://x.com/fchollet/status/2036551534549643444",
+      "images": [],
+      "likes": 126,
+      "retweets": 7,
+      "views": 13043
     }
   ]
 }
