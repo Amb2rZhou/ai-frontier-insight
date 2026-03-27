@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-28T02:46:01.323371",
+  "scraped_at": "2026-03-28T06:19:39.768604",
   "date": "2026-03-28",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 17,
-  "account_count": 15,
+  "tweet_count": 33,
+  "account_count": 26,
   "tweets": [
     {
       "id": "2037600189779693624",
@@ -205,6 +205,199 @@
       "likes": 2654,
       "retweets": 114,
       "views": 162733
+    },
+    {
+      "id": "2037646032860012561",
+      "username": "alexandr_wang",
+      "text": "great new update from MSL—SAM 3.1!",
+      "timestamp": "2026-03-27T21:40:46+00:00",
+      "url": "https://x.com/alexandr_wang/status/2037646032860012561",
+      "images": [],
+      "likes": 43,
+      "retweets": 5,
+      "views": 5065
+    },
+    {
+      "id": "2037643322387234886",
+      "username": "googledevs",
+      "text": "Build and deploy AI agents faster with the Agent Development Kit → https://t.co/FFzkIVCOSc \n\nLearn to:\n🛠️ Set up agents\n🚀 Deploy systems\n🔗 Link tools\n\nOn March 30-31, join our live build to see a working example that connects directly into professional AI workflows. https://t.co/2JrHOgIchQ",
+      "timestamp": "2026-03-27T21:30:00+00:00",
+      "url": "https://x.com/googledevs/status/2037643322387234886",
+      "images": [
+        "https://pbs.twimg.com/media/HEZldyNXMAAJE9-.jpg"
+      ],
+      "likes": 19,
+      "retweets": 5,
+      "views": 1741
+    },
+    {
+      "id": "2037640373456273474",
+      "username": "ClementDelangue",
+      "text": "Screenshot from Paperclip, this is not local at all, it sends all your data to the cloud/the providers API, right?\n\nI hope people understand that and stay safe out there when they're giving agents powered by APIs access to personal stuff! That's why local is so much more https://t.co/vhi3sszTt8",
+      "timestamp": "2026-03-27T21:18:17+00:00",
+      "url": "https://x.com/ClementDelangue/status/2037640373456273474",
+      "images": [
+        "https://pbs.twimg.com/media/HEcm306aAAAgUj2.jpg"
+      ],
+      "likes": 26,
+      "retweets": 1,
+      "views": 2200
+    },
+    {
+      "id": "2037639767970480550",
+      "username": "minchoi",
+      "text": "The future is here.\n\nGoogle Translate just turned your headphones into a personal translator in 70+ languages.\n\nBoth Android &amp; iOS is live now👇\nhttps://t.co/dLvUfgNq4J",
+      "timestamp": "2026-03-27T21:15:52+00:00",
+      "url": "https://x.com/minchoi/status/2037639767970480550",
+      "images": [],
+      "likes": 29,
+      "retweets": 6,
+      "views": 5435
+    },
+    {
+      "id": "2037639552668492061",
+      "username": "Azure",
+      "text": "🚫 Running legacy .NET on‑prem or VMs? Stop.\n\nOn #AzureFriday, Scott Hanselman + Andrew Westgarth show how to modernize on Azure App Service with no code changes.\n\nWatch: https://t.co/yJ7fluiYWd https://t.co/SkOHLyj9KA",
+      "timestamp": "2026-03-27T21:15:01+00:00",
+      "url": "https://x.com/Azure/status/2037639552668492061",
+      "images": [
+        "https://pbs.twimg.com/media/HEcmX7oWAAAwY0A.jpg"
+      ],
+      "likes": 10,
+      "retweets": 1,
+      "views": 1567
+    },
+    {
+      "id": "2037634211973140898",
+      "username": "ClementDelangue",
+      "text": "Been really cool to see the traction of @NousResearch Hermes Agent, the open source agent that grows with you! \n\nHermes Agent is open-source and remembers what it learns and gets more capable over time, with a multi-level memory system and persistent dedicated machine access. https://t.co/SMHWMYd5zC",
+      "timestamp": "2026-03-27T20:53:48+00:00",
+      "url": "https://x.com/ClementDelangue/status/2037634211973140898",
+      "images": [
+        "https://pbs.twimg.com/media/HEchXqnbsAAqarG.jpg"
+      ],
+      "likes": 170,
+      "retweets": 19,
+      "views": 12174
+    },
+    {
+      "id": "2037617918645809394",
+      "username": "omarsar0",
+      "text": "NEW AI report from Google.\n\nEvery prior intelligence explosion in human history was social, not individual.\n\nThese authors make the case that the AI \"singularity\" framed as a single superintelligent mind bootstrapping to godlike intelligence is fundamentally wrong.\n\nThis is https://t.co/8JLQQPO28U",
+      "timestamp": "2026-03-27T19:49:03+00:00",
+      "url": "https://x.com/omarsar0/status/2037617918645809394",
+      "images": [
+        "https://pbs.twimg.com/media/HEcSsscaAAAHzcR.jpg"
+      ],
+      "likes": 224,
+      "retweets": 44,
+      "views": 15764
+    },
+    {
+      "id": "2037614686808784938",
+      "username": "GaryMarcus",
+      "text": "“We have basically given up all discipline and agency for a sort of addiction, where your highest goal is to produce the largest amount of code in the shortest amount of time. Consequences be damned.” https://t.co/7FH8XJ5GM7",
+      "timestamp": "2026-03-27T19:36:13+00:00",
+      "url": "https://x.com/GaryMarcus/status/2037614686808784938",
+      "images": [],
+      "likes": 56,
+      "retweets": 7,
+      "views": 3079
+    },
+    {
+      "id": "2037610680694734930",
+      "username": "googledevs",
+      "text": "Build a voice agent with Gemini 3 Flash Live and LiveKit to move from local setup to production with native speech-to-speech, smarter tool calling, and reduced speaker drift.\n\nWhat’s covered:\n\n🌟 Project setup and native audio capabilities\n🌟 System prompt best practices and https://t.co/z1tl49KM2M",
+      "timestamp": "2026-03-27T19:20:17+00:00",
+      "url": "https://x.com/googledevs/status/2037610680694734930",
+      "images": [
+        "https://pbs.twimg.com/media/HEcLegtbsAA5bPj.jpg"
+      ],
+      "likes": 51,
+      "retweets": 4,
+      "views": 3730
+    },
+    {
+      "id": "2037610464620810602",
+      "username": "GoogleAI",
+      "text": "Here’s a recap of everything we released this week:\n\n— Gemini 3.1 Flash Live, delivering our highest-quality audio experience yet with improved reasoning and latency for more natural voice interactions\n\n— An update to @GeminiApp on desktop that enables you to seamlessly",
+      "timestamp": "2026-03-27T19:19:26+00:00",
+      "url": "https://x.com/GoogleAI/status/2037610464620810602",
+      "images": [],
+      "likes": 122,
+      "retweets": 16,
+      "views": 11367
+    },
+    {
+      "id": "2037610000122839116",
+      "username": "sama",
+      "text": "The first steel beams went up this week at our Michigan Stargate site with Oracle and Related Digital https://t.co/Hl0NBqwfnS",
+      "timestamp": "2026-03-27T19:17:35+00:00",
+      "url": "https://x.com/sama/status/2037610000122839116",
+      "images": [],
+      "likes": 3161,
+      "retweets": 170,
+      "views": 320258
+    },
+    {
+      "id": "2037609500052476343",
+      "username": "_akhaliq",
+      "text": "AVO\n\nAgentic Variation Operators for Autonomous Evolutionary Search\n\npaper: https://t.co/UjWY0FQNaT https://t.co/OSNGdt1zM6",
+      "timestamp": "2026-03-27T19:15:36+00:00",
+      "url": "https://x.com/_akhaliq/status/2037609500052476343",
+      "images": [
+        "https://pbs.twimg.com/media/HEcK-BtacAA75O_.png"
+      ],
+      "likes": 13,
+      "retweets": 7,
+      "views": 2627
+    },
+    {
+      "id": "2037604273434018259",
+      "username": "OpenAIDevs",
+      "text": "Plugins in Codex? We got you.\n\nExplore practical workflows in our use case gallery.\n\nOpen in one click in the Codex app and start building iOS apps, analyzing datasets, or generating reports and slides.\n\nhttps://t.co/tnjpYYCbVc https://t.co/fcAPmH8tvt",
+      "timestamp": "2026-03-27T18:54:50+00:00",
+      "url": "https://x.com/OpenAIDevs/status/2037604273434018259",
+      "images": [],
+      "likes": 568,
+      "retweets": 46,
+      "views": 25708
+    },
+    {
+      "id": "2037584085997216100",
+      "username": "arena",
+      "text": "Are open source models catching up to proprietary models? We’ve looked back at 3 years of Arena’s data to show how the race has evolved.\n\nFor comparison, we’ve taken the top 20% of the models and uncovered the following: \n- Before mid 2024: The gap was between 100-150 points\n- In https://t.co/yuj3h8WGdf",
+      "timestamp": "2026-03-27T17:34:37+00:00",
+      "url": "https://x.com/arena/status/2037584085997216100",
+      "images": [],
+      "likes": 99,
+      "retweets": 9,
+      "views": 11152
+    },
+    {
+      "id": "2037190720201670847",
+      "username": "GoogleAI",
+      "text": "Listen up 🔊Gemini 3.1 Flash Live is launching today, making a big difference for developers who are building real-time voice and vision agents.\n\nHow, you ask? Well, this model delivers:\n\n— Responses that feel as fast as natural dialogue\n— Better task completion in noisy https://t.co/0CVadPYIYF",
+      "timestamp": "2026-03-26T15:31:31+00:00",
+      "url": "https://x.com/GoogleAI/status/2037190720201670847",
+      "images": [
+        "https://pbs.twimg.com/media/HEWIqcIbYAMFDE1.jpg",
+        "https://pbs.twimg.com/media/HEWIqcGbYAM6i9f.png"
+      ],
+      "likes": 342,
+      "retweets": 44,
+      "views": 52767
+    },
+    {
+      "id": "2036480663801487462",
+      "username": "NVIDIARobotics",
+      "text": "Useful agents will need to interact with the world as it is.\n\nNVIDIA CEO Jensen Huang joins @lexfridman to break down how physical AI agents like humanoid robots will reason, act, and operate in ways that make sense in the real world. https://t.co/mnPLsb0Qmm",
+      "timestamp": "2026-03-24T16:30:00+00:00",
+      "url": "https://x.com/NVIDIARobotics/status/2036480663801487462",
+      "images": [],
+      "likes": 195,
+      "retweets": 40,
+      "views": 10272
     }
   ]
 }
