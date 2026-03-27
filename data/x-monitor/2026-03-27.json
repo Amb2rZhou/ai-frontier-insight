@@ -1,11 +1,11 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-27T20:38:18.533935",
+  "scraped_at": "2026-03-27T23:10:06.091091",
   "date": "2026-03-27",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 92,
+  "tweet_count": 103,
   "account_count": 49,
   "tweets": [
     {
@@ -1070,6 +1070,133 @@
       "likes": 126,
       "retweets": 7,
       "views": 13043
+    },
+    {
+      "id": "2037545396017496245",
+      "username": "a16z",
+      "text": "Anduril President Matthew Steckman says there are two red flags for new defense companies: not realizing that what they're doing already exists, and an overestimation of TAM:\n\n\"There's too much hubris in the technology market that, as high-tech people, we can do everything better https://t.co/vArR6Iq0XY",
+      "timestamp": "2026-03-27T15:00:52+00:00",
+      "url": "https://x.com/a16z/status/2037545396017496245",
+      "images": [],
+      "likes": 6,
+      "retweets": 1,
+      "views": 1495
+    },
+    {
+      "id": "2037541006237733217",
+      "username": "emollick",
+      "text": "Last year everyone spoke about over building of AI data centers, likely this year will start to demonstrate that there is not nearly enough compute to meet demand \n\nI think to degree to which AI is currently subsidized depends on the model, but agree with everything else here",
+      "timestamp": "2026-03-27T14:43:26+00:00",
+      "url": "https://x.com/emollick/status/2037541006237733217",
+      "images": [],
+      "likes": 38,
+      "retweets": 5,
+      "views": 4318
+    },
+    {
+      "id": "2037537750585606222",
+      "username": "a16z",
+      "text": "Anduril President Matthew Steckman says parts of Lattice—even from their first Sentry Tower in 2017—live on in today’s autonomous fighter jet:\n\n \"The first product we built was a sensing tower.\"\n\n\"This was like—old school CV AI—in 2017, and just allowed you to spot threats at a https://t.co/S2jN5KNDXf",
+      "timestamp": "2026-03-27T14:30:30+00:00",
+      "url": "https://x.com/a16z/status/2037537750585606222",
+      "images": [],
+      "likes": 32,
+      "retweets": 5,
+      "views": 4400
+    },
+    {
+      "id": "2037536637954212332",
+      "username": "omarsar0",
+      "text": "NEW research from IBM: Workflow Optimization for LLM Agents.\n\nLLM agent workflows involve interleaving model calls, retrieval, tool use, code execution, memory updates, and verification.\n\nHow you wire these together matters more than most teams realize.\n\nThis new survey maps the https://t.co/A9eMw7R8N5",
+      "timestamp": "2026-03-27T14:26:04+00:00",
+      "url": "https://x.com/omarsar0/status/2037536637954212332",
+      "images": [
+        "https://pbs.twimg.com/media/HEbIxiybsAAmmFd.png"
+      ],
+      "likes": 23,
+      "retweets": 1,
+      "views": 3876
+    },
+    {
+      "id": "2037535556352254383",
+      "username": "fchollet",
+      "text": "Agents everywhere, doing everything",
+      "timestamp": "2026-03-27T14:21:46+00:00",
+      "url": "https://x.com/fchollet/status/2037535556352254383",
+      "images": [],
+      "likes": 116,
+      "retweets": 8,
+      "views": 6038
+    },
+    {
+      "id": "2037528667966828561",
+      "username": "ClementDelangue",
+      "text": "To be fair @julien_c named one of our first conversational AI “audio boloss”",
+      "timestamp": "2026-03-27T13:54:24+00:00",
+      "url": "https://x.com/ClementDelangue/status/2037528667966828561",
+      "images": [],
+      "likes": 15,
+      "retweets": 1,
+      "views": 2891
+    },
+    {
+      "id": "2037525620934988169",
+      "username": "minchoi",
+      "text": "This story is wild…\n\nPaul used AI (ChatGPT, Gemini, and Grok) to help create a personalized mRNA cancer vaccine protocol for his dog Rosie.\n\nAs a real, months-long process involving vets, genomics labs, scientists, sequencing, and AI.\n\nHere's how he did it👇\n\n&gt; Rosie's cancer https://t.co/Z79W8oMNrd",
+      "timestamp": "2026-03-27T13:42:18+00:00",
+      "url": "https://x.com/minchoi/status/2037525620934988169",
+      "images": [
+        "https://pbs.twimg.com/media/HEa-JzYa8AAKM-x.png"
+      ],
+      "likes": 49,
+      "retweets": 6,
+      "views": 13124
+    },
+    {
+      "id": "2037518375786533269",
+      "username": "ClementDelangue",
+      "text": "can someone share this with the Anthropic team? https://t.co/CS3uhpm4iO",
+      "timestamp": "2026-03-27T13:13:30+00:00",
+      "url": "https://x.com/ClementDelangue/status/2037518375786533269",
+      "images": [
+        "https://pbs.twimg.com/media/HEa4GX8acAIXAk6.jpg"
+      ],
+      "likes": 134,
+      "retweets": 4,
+      "views": 14470
+    },
+    {
+      "id": "2037518187441369278",
+      "username": "GaryMarcus",
+      "text": "“Many Americans already take a dim view of A.I. and feel as if they are being frog-marched to a future that they neither asked for nor wanted. If A.I. robs some of them of their livelihoods, knocks them out of the middle class and thwarts the aspirations of their kids, wariness",
+      "timestamp": "2026-03-27T13:12:45+00:00",
+      "url": "https://x.com/GaryMarcus/status/2037518187441369278",
+      "images": [],
+      "likes": 234,
+      "retweets": 40,
+      "views": 21409
+    },
+    {
+      "id": "2037387601624113394",
+      "username": "lateinteraction",
+      "text": "Exclusive: @a1zhang confirms he has begun training his “most capable” RLM to date, after an accidental data leak revealed its existence",
+      "timestamp": "2026-03-27T04:33:51+00:00",
+      "url": "https://x.com/lateinteraction/status/2037387601624113394",
+      "images": [],
+      "likes": 131,
+      "retweets": 3,
+      "views": 15105
+    },
+    {
+      "id": "2037197174480478631",
+      "username": "mervenoyann",
+      "text": "Cohere just topped Open ASR Leaderboard with a 2B model 👑\n&gt; conformer based model\n&gt; covers 14 languages \n&gt; comes with @huggingface transformers support day-0!",
+      "timestamp": "2026-03-26T15:57:10+00:00",
+      "url": "https://x.com/mervenoyann/status/2037197174480478631",
+      "images": [],
+      "likes": 83,
+      "retweets": 11,
+      "views": 6147
     }
   ]
 }
