@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-27T04:29:59.359505",
+  "scraped_at": "2026-03-27T09:01:09.250416",
   "date": "2026-03-27",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 42,
-  "account_count": 29,
+  "tweet_count": 62,
+  "account_count": 37,
   "tweets": [
     {
       "id": "2037218942813433927",
@@ -489,6 +489,243 @@
       "likes": 92,
       "retweets": 2,
       "views": 26669
+    },
+    {
+      "id": "2037331252693573708",
+      "username": "fchollet",
+      "text": "If you care about the rate of AGI progress, you should be excited about a new eval that focuses research efforts by pointing out important gaps &amp; providing a way to measure progress towards fixing them\n\nIf instead you only care about having your preconceptions confirmed, too bad",
+      "timestamp": "2026-03-27T00:49:57+00:00",
+      "url": "https://x.com/fchollet/status/2037331252693573708",
+      "images": [],
+      "likes": 33,
+      "retweets": 4,
+      "views": 1161
+    },
+    {
+      "id": "2037330635459842234",
+      "username": "fchollet",
+      "text": "Many people expect that current AI is ready to cure cancer and do breakthrough new science. ARC-AGI-3 envs are like a microcosm of the scientific method: you must observe a tiny world, form a theory of how it works, test it, iterate until correct. Over the course of a few",
+      "timestamp": "2026-03-27T00:47:29+00:00",
+      "url": "https://x.com/fchollet/status/2037330635459842234",
+      "images": [],
+      "likes": 18,
+      "retweets": 2,
+      "views": 1783
+    },
+    {
+      "id": "2037329706115084607",
+      "username": "huggingface",
+      "text": "Model weights are here: https://t.co/rQlfP51Db7!",
+      "timestamp": "2026-03-27T00:43:48+00:00",
+      "url": "https://x.com/huggingface/status/2037329706115084607",
+      "images": [],
+      "likes": 7,
+      "retweets": 2,
+      "views": 1694
+    },
+    {
+      "id": "2037317876621639857",
+      "username": "DeryaTR_",
+      "text": "While we are debating how intelligent AI keeps getting, some humans are going in the opposite direction! The gap is widening! https://t.co/4B8Sh52xWg",
+      "timestamp": "2026-03-26T23:56:47+00:00",
+      "url": "https://x.com/DeryaTR_/status/2037317876621639857",
+      "images": [
+        "https://pbs.twimg.com/media/HEYBznMXcAA3pAy.jpg"
+      ],
+      "likes": 27,
+      "retweets": 0,
+      "views": 1266
+    },
+    {
+      "id": "2037315604546310632",
+      "username": "EMostaque",
+      "text": "Who are the top folk to talk to in open science",
+      "timestamp": "2026-03-26T23:47:46+00:00",
+      "url": "https://x.com/EMostaque/status/2037315604546310632",
+      "images": [],
+      "likes": 16,
+      "retweets": 3,
+      "views": 2933
+    },
+    {
+      "id": "2037314482222039356",
+      "username": "a16z",
+      "text": "Early Netscape core https://t.co/lbBTZE9vAT",
+      "timestamp": "2026-03-26T23:43:18+00:00",
+      "url": "https://x.com/a16z/status/2037314482222039356",
+      "images": [
+        "https://pbs.twimg.com/media/HEX-uLwaIAAZUdo.png",
+        "https://pbs.twimg.com/media/HEX-uYXbgAAENcp.jpg"
+      ],
+      "likes": 94,
+      "retweets": 4,
+      "views": 5648
+    },
+    {
+      "id": "2037311464026091619",
+      "username": "GaryMarcus",
+      "text": "FTFY: *AI slop* will vastly exceed all human content.\n\nIs that a good thing?",
+      "timestamp": "2026-03-26T23:31:19+00:00",
+      "url": "https://x.com/GaryMarcus/status/2037311464026091619",
+      "images": [],
+      "likes": 39,
+      "retweets": 4,
+      "views": 2769
+    },
+    {
+      "id": "2037309237064552452",
+      "username": "embirico",
+      "text": "Over the past months Codex has completely taken over how everyone works at @OpenAI.\n\nTechnical teams use it for literally everything, and now that it’s easy to plug into all our tools, even non-technical teams like comms and sales are codexmaxing. Much more to come!",
+      "timestamp": "2026-03-26T23:22:28+00:00",
+      "url": "https://x.com/embirico/status/2037309237064552452",
+      "images": [],
+      "likes": 67,
+      "retweets": 4,
+      "views": 3160
+    },
+    {
+      "id": "2037303665355104755",
+      "username": "NVIDIARobotics",
+      "text": "Everywhere you turned at #NVIDIAGTC, physical AI was in the mix. 🦾\n\nFrom robots and autonomous vehicles to industrial AI, it was incredible to see it all in one place, alongside an amazing community of developers.\n\nSee you at the next GTC. 🤗 https://t.co/GOzNhYtJgS",
+      "timestamp": "2026-03-26T23:00:19+00:00",
+      "url": "https://x.com/NVIDIARobotics/status/2037303665355104755",
+      "images": [],
+      "likes": 22,
+      "retweets": 4,
+      "views": 1384
+    },
+    {
+      "id": "2037303305970315406",
+      "username": "minchoi",
+      "text": "Hugging Face just made arXiv paper retrieval way better for AI agents.\n\n𝚑𝚏 𝚙𝚊𝚙𝚎𝚛𝚜 [𝚜𝚎𝚊𝚛𝚌𝚑, 𝚛𝚎𝚊𝚍]\n\n turns arXiv into agent-ready markdown👇\nhttps://t.co/7KJfErdhuq",
+      "timestamp": "2026-03-26T22:58:54+00:00",
+      "url": "https://x.com/minchoi/status/2037303305970315406",
+      "images": [],
+      "likes": 104,
+      "retweets": 10,
+      "views": 8840
+    },
+    {
+      "id": "2037295393604583478",
+      "username": "DeryaTR_",
+      "text": "Revolution in drug development is beginning. Its impact will be felt in a few years, and the number of highly effective treatments will then increase exponentially. \n\nPeople still don’t understand that the AI advance is literally a life-and-death matter for billions of people!",
+      "timestamp": "2026-03-26T22:27:27+00:00",
+      "url": "https://x.com/DeryaTR_/status/2037295393604583478",
+      "images": [],
+      "likes": 56,
+      "retweets": 7,
+      "views": 3960
+    },
+    {
+      "id": "2037295090306039867",
+      "username": "emollick",
+      "text": "Great little story from @danshapiro about how he asked a coding agent to fix the official webcam software from Canon that kept crashing. He woke up to a new, fully functional Rust webcam app that has worked ever since.  https://t.co/uazUapOQb0 https://t.co/3BVb2PU1uN",
+      "timestamp": "2026-03-26T22:26:15+00:00",
+      "url": "https://x.com/emollick/status/2037295090306039867",
+      "images": [
+        "https://pbs.twimg.com/media/HEXtFcEWUAAMemu.jpg",
+        "https://pbs.twimg.com/media/HEXtFcCXUAA4SiH.jpg"
+      ],
+      "likes": 134,
+      "retweets": 7,
+      "views": 8343
+    },
+    {
+      "id": "2037288484294000991",
+      "username": "googledevs",
+      "text": "Turn your ideas into a prototype with Gemini in @AndroidStudio. The AI agent helps developers build and ship apps across the development lifecycle 🤖",
+      "timestamp": "2026-03-26T22:00:00+00:00",
+      "url": "https://x.com/googledevs/status/2037288484294000991",
+      "images": [],
+      "likes": 24,
+      "retweets": 6,
+      "views": 4592
+    },
+    {
+      "id": "2037284299871772938",
+      "username": "PyTorch",
+      "text": "PyTorch 2.11 features improvements for distributed training and hardware-specific operator support. Join Andrey Talman and Nikita Shulga on Tuesday, March 31st at 10 am for a live update and Q&amp;A.\n\nTopics:\n- Differentiable Collectives for Distributed Training\n- FlexAttention: Now https://t.co/vMvk1VQJ91",
+      "timestamp": "2026-03-26T21:43:22+00:00",
+      "url": "https://x.com/PyTorch/status/2037284299871772938",
+      "images": [
+        "https://pbs.twimg.com/media/HEXjQfFXoAEs1-i.jpg"
+      ],
+      "likes": 14,
+      "retweets": 2,
+      "views": 2606
+    },
+    {
+      "id": "2037278806579257849",
+      "username": "NielsRogge",
+      "text": "VERY cool first open release of Chroma on @huggingface, along with a tech report and all the details on training an agentic search agent\n\nFind it here https://t.co/Ef8vdBZGgy",
+      "timestamp": "2026-03-26T21:21:32+00:00",
+      "url": "https://x.com/NielsRogge/status/2037278806579257849",
+      "images": [],
+      "likes": 28,
+      "retweets": 5,
+      "views": 6549
+    },
+    {
+      "id": "2037275875784413525",
+      "username": "saranormous",
+      "text": "if you’re a startup in 2026 and you don’t have a “labs” group, you might as well be enterprise SaaS",
+      "timestamp": "2026-03-26T21:09:54+00:00",
+      "url": "https://x.com/saranormous/status/2037275875784413525",
+      "images": [],
+      "likes": 268,
+      "retweets": 9,
+      "views": 25398
+    },
+    {
+      "id": "2037275141462217181",
+      "username": "DeryaTR_",
+      "text": "Logging out of Sora Matrix 😅 https://t.co/JL8HiQY7hY",
+      "timestamp": "2026-03-26T21:06:59+00:00",
+      "url": "https://x.com/DeryaTR_/status/2037275141462217181",
+      "images": [],
+      "likes": 37,
+      "retweets": 2,
+      "views": 3861
+    },
+    {
+      "id": "2037226921679810670",
+      "username": "rasbt",
+      "text": "Added lots of improvements to the LLM Architecture Gallery in the last 2 weeks. \n\nImho the coolest one yet: A diff tool many of you were asking for!\n\nhttps://t.co/NO7z6XSRHS https://t.co/5ZCIg15ml6",
+      "timestamp": "2026-03-26T17:55:22+00:00",
+      "url": "https://x.com/rasbt/status/2037226921679810670",
+      "images": [
+        "https://pbs.twimg.com/media/HEWu6QXXIAAIhIz.jpg"
+      ],
+      "likes": 355,
+      "retweets": 42,
+      "views": 11855
+    },
+    {
+      "id": "2037187750005240307",
+      "username": "OfficialLoganK",
+      "text": "Introducing Gemini 3.1 Flash Live, our new realtime model to build voice and vision agents!! \n\nWe have spent more than a year improving the model + infra + experience, the results? A step function improvement in quality, reliability, and latency. https://t.co/0esYpmDy5l",
+      "timestamp": "2026-03-26T15:19:43+00:00",
+      "url": "https://x.com/OfficialLoganK/status/2037187750005240307",
+      "images": [
+        "https://pbs.twimg.com/media/HEWLKaXbYAYLCmI.jpg",
+        "https://pbs.twimg.com/media/HEWLS9dXUAAvhwq.jpg"
+      ],
+      "likes": 2862,
+      "retweets": 230,
+      "views": 195924
+    },
+    {
+      "id": "2036474373654118777",
+      "username": "mervenoyann",
+      "text": "AI2 @allen_ai released MolmoWeb: 4B and 8B browser use (clicking) models as well as their datasets 🔥 \n\nall under Apache 2.0 license as always 💗 https://t.co/g62cqq3O0H",
+      "timestamp": "2026-03-24T16:05:01+00:00",
+      "url": "https://x.com/mervenoyann/status/2036474373654118777",
+      "images": [
+        "https://pbs.twimg.com/media/HEMCn4aWsAIkz46.jpg"
+      ],
+      "likes": 43,
+      "retweets": 4,
+      "views": 2567
     }
   ]
 }
