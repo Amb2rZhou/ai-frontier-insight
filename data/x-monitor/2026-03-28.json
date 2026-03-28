@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-28T06:19:39.768604",
+  "scraped_at": "2026-03-28T09:20:55.067700",
   "date": "2026-03-28",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 33,
-  "account_count": 26,
+  "tweet_count": 46,
+  "account_count": 32,
   "tweets": [
     {
       "id": "2037600189779693624",
@@ -398,6 +398,157 @@
       "likes": 195,
       "retweets": 40,
       "views": 10272
+    },
+    {
+      "id": "2037693112810877034",
+      "username": "Miles_Brundage",
+      "text": "Lots of alpha in watching Colossus: The Forbin Project still",
+      "timestamp": "2026-03-28T00:47:51+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2037693112810877034",
+      "images": [],
+      "likes": 1,
+      "retweets": 1,
+      "views": 374
+    },
+    {
+      "id": "2037690653895758328",
+      "username": "boazbaraktcs",
+      "text": "Based on what I see in mainstream AI reporting, their hallucination problem is worse than ours.",
+      "timestamp": "2026-03-28T00:38:05+00:00",
+      "url": "https://x.com/boazbaraktcs/status/2037690653895758328",
+      "images": [],
+      "likes": 12,
+      "retweets": 1,
+      "views": 1479
+    },
+    {
+      "id": "2037687629949382707",
+      "username": "deliprao",
+      "text": "👏 to @NeurIPSConf for reverting and resolving this miscommunication.",
+      "timestamp": "2026-03-28T00:26:04+00:00",
+      "url": "https://x.com/deliprao/status/2037687629949382707",
+      "images": [],
+      "likes": 0,
+      "retweets": 0,
+      "views": 324
+    },
+    {
+      "id": "2037683693146550532",
+      "username": "GaryMarcus",
+      "text": "Great interview, with the legendary @alanalda",
+      "timestamp": "2026-03-28T00:10:25+00:00",
+      "url": "https://x.com/GaryMarcus/status/2037683693146550532",
+      "images": [],
+      "likes": 13,
+      "retweets": 2,
+      "views": 2319
+    },
+    {
+      "id": "2037683601966501968",
+      "username": "LiamFedus",
+      "text": "Fun lineup for CS 153, and I look forward to sharing our experience building Periodic this spring!",
+      "timestamp": "2026-03-28T00:10:03+00:00",
+      "url": "https://x.com/LiamFedus/status/2037683601966501968",
+      "images": [],
+      "likes": 44,
+      "retweets": 4,
+      "views": 3770
+    },
+    {
+      "id": "2037683456990466423",
+      "username": "GaryMarcus",
+      "text": "Yeah, that’s what @geoffreyhinton tried to argue; clearly he was wrong.",
+      "timestamp": "2026-03-28T00:09:29+00:00",
+      "url": "https://x.com/GaryMarcus/status/2037683456990466423",
+      "images": [],
+      "likes": 12,
+      "retweets": 1,
+      "views": 2326
+    },
+    {
+      "id": "2037682868407746718",
+      "username": "boazbaraktcs",
+      "text": "While I work for Anthropic's competitor, I have great appreciation for their work and their people. They care deeply about AI going well and U.S. succeeding. I don't know Tarun personally, but have heard great things about him, and oppose the unfair attacks against him.",
+      "timestamp": "2026-03-28T00:07:08+00:00",
+      "url": "https://x.com/boazbaraktcs/status/2037682868407746718",
+      "images": [],
+      "likes": 35,
+      "retweets": 1,
+      "views": 4324
+    },
+    {
+      "id": "2037665973252100298",
+      "username": "Azure",
+      "text": "Ready to build a rock-solid foundation in Azure Databricks? Learn about workspace provisioning, compute selection, data architectures, and Microsoft integrations. Start skilling up today: https://t.co/MiForrygb4 https://t.co/F9r48sEtDK",
+      "timestamp": "2026-03-27T23:00:00+00:00",
+      "url": "https://x.com/Azure/status/2037665973252100298",
+      "images": [
+        "https://pbs.twimg.com/media/HEcrOdqW0AEkNgp.jpg"
+      ],
+      "likes": 9,
+      "retweets": 4,
+      "views": 1830
+    },
+    {
+      "id": "2037662994407227666",
+      "username": "dylan522p",
+      "text": "Silicon Welfare: Nvidia GPUs are happiest when they are running Claude Capybara",
+      "timestamp": "2026-03-27T22:48:10+00:00",
+      "url": "https://x.com/dylan522p/status/2037662994407227666",
+      "images": [],
+      "likes": 166,
+      "retweets": 3,
+      "views": 16734
+    },
+    {
+      "id": "2037661796946026524",
+      "username": "ClementDelangue",
+      "text": "Next steps:\n- enable the 50,000 models available in inference providers\n- enable the 3,000,000 models available on HF\n- local free fast inference with llama.cpp\n- train and bring your own model!\n\nWe don't want a world where you're forced to choose between two or three lookalike",
+      "timestamp": "2026-03-27T22:43:24+00:00",
+      "url": "https://x.com/ClementDelangue/status/2037661796946026524",
+      "images": [],
+      "likes": 141,
+      "retweets": 19,
+      "views": 15259
+    },
+    {
+      "id": "2037660976627978661",
+      "username": "minchoi",
+      "text": "Google is getting deeper into Anthropic.\n\nFT says it plans to help finance a giant Texas data center.\n\nThe real AI war is now compute + power👇 https://t.co/lPtppk1fwT",
+      "timestamp": "2026-03-27T22:40:09+00:00",
+      "url": "https://x.com/minchoi/status/2037660976627978661",
+      "images": [
+        "https://pbs.twimg.com/media/HEc5weXXEAAq5Ds.jpg"
+      ],
+      "likes": 106,
+      "retweets": 18,
+      "views": 14858
+    },
+    {
+      "id": "2037556175814734270",
+      "username": "mervenoyann",
+      "text": "fav papers from 3DV #3\n\nDetailGen3D refines geometric texture of 3D assets, model learns to do coarse-to-fine transformation\n\nsee below summary of their inference pipeline\n\nmodel &amp; demo ➡️ https://t.co/FbXHDa7E4D",
+      "timestamp": "2026-03-27T15:43:42+00:00",
+      "url": "https://x.com/mervenoyann/status/2037556175814734270",
+      "images": [
+        "https://pbs.twimg.com/media/HEbaT1JXAAAE4_v.jpg"
+      ],
+      "likes": 17,
+      "retweets": 2,
+      "views": 1948
+    },
+    {
+      "id": "2036499691571953848",
+      "username": "AnthropicAI",
+      "text": "New from the Anthropic Economic Index: how people’s use of Claude changes with experience.\n\nLonger-term users are more likely to iterate carefully with Claude, and less likely to hand it full autonomy. They attempt higher-value tasks, and receive more successful responses. https://t.co/yCsrA0bLt9",
+      "timestamp": "2026-03-24T17:45:37+00:00",
+      "url": "https://x.com/AnthropicAI/status/2036499691571953848",
+      "images": [
+        "https://pbs.twimg.com/media/HEMVXWNaIAEkMLV.jpg"
+      ],
+      "likes": 2525,
+      "retweets": 243,
+      "views": 230819
     }
   ]
 }
