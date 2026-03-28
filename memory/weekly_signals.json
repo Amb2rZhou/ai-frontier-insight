@@ -1011,6 +1011,221 @@
           19
         ]
       }
+    ],
+    "2026-03-28": [
+      {
+        "title": "Anthropic's Next-Gen Model 'Claude Mythos' Leaked, Poses Cybersecurity Risks",
+        "signal_text": "据 Fortune 报道，泄露的 Anthropic 内部文件显示其下一代模型“Claude Mythos”已在测试中，且公司内部评估认为该模型存在前所未有的网络安全风险。这一信号来自获 4500+ views 的推文，表明顶级 AI 实验室在开发更强大模型的同时，对潜在风险的担忧也在加剧。",
+        "signal_strength": 0.82,
+        "sources": [
+          {
+            "name": "@minchoi (citing Fortune)",
+            "url": "https://x.com/minchoi/status/2037384864509423652"
+          },
+          {
+            "name": "@DeryaTR_",
+            "url": "https://x.com/DeryaTR_/status/2037405841398157734"
+          }
+        ],
+        "tags": [
+          "头部公司战略动作",
+          "内容安全与治理",
+          "行业风险与监管"
+        ],
+        "raw_item_indices": [
+          37,
+          53
+        ]
+      },
+      {
+        "title": "OpenAI Codex Launches Plugin Support, Enabling New Workflow Automation",
+        "signal_text": "OpenAI 为其 AI 编程助手 Codex 推出插件支持。用户现可利用插件在 Codex 内自动化工作流，例如处理 Box 中的文档以提取结构化数据。OpenAI Devs 官方账号（获 560+ likes）同步发布了用例库，展示如何一键构建 iOS 应用、分析数据集等。",
+        "signal_strength": 0.8,
+        "sources": [
+          {
+            "name": "@OpenAIDevs",
+            "url": "https://x.com/OpenAIDevs/status/2037604273434018259"
+          },
+          {
+            "name": "@levie (Box CEO)",
+            "url": "https://x.com/levie/status/2037383187245273477"
+          },
+          {
+            "name": "@gdb",
+            "url": "https://x.com/gdb/status/2037348081684111623"
+          }
+        ],
+        "tags": [
+          "Agent 与新交互范式",
+          "头部公司战略动作",
+          "内容创作与理解"
+        ],
+        "raw_item_indices": [
+          38,
+          50,
+          97
+        ]
+      },
+      {
+        "title": "Microsoft Research Paper Finds Self-Distillation Can Harm LLM Reasoning",
+        "signal_text": "微软研究院（Microsoft Research）团队发表论文，揭示自蒸馏（Self-Distillation）有时会损害大语言模型的推理能力。研究发现，自蒸馏会抑制模型表达不确定性的能力，从而对数学推理，特别是分布外（OOD）问题的性能产生负面影响。",
+        "signal_strength": 0.78,
+        "sources": [
+          {
+            "name": "Microsoft Research (via HuggingFace Papers)",
+            "url": "https://huggingface.co/papers/2603.24472"
+          }
+        ],
+        "tags": [
+          "技术突破",
+          "内容创作与理解",
+          "推理效率提升"
+        ],
+        "raw_item_indices": [
+          137
+        ]
+      },
+      {
+        "title": "Tencent AI Lab Publishes UI-Voyager: A Self-Evolving Mobile GUI Agent",
+        "signal_text": "腾讯 AI Lab 团队提出 UI-Voyager，一个通过失败经验进行自我进化的移动端 GUI 智能体。该框架采用两阶段训练（拒绝微调和群体相对自蒸馏），提升了在图形用户界面任务上的效率和性能，为自动化交互和 Agent 能力演进提供了新思路。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "Tencent (via HuggingFace Papers)",
+            "url": "https://huggingface.co/papers/2603.24533"
+          }
+        ],
+        "tags": [
+          "Agent 与新交互范式",
+          "技术突破",
+          "头部公司战略动作"
+        ],
+        "raw_item_indices": [
+          138
+        ]
+      },
+      {
+        "title": "Perplexity AI Powers Samsung Browser's Browsing Assist Feature",
+        "signal_text": "AI 搜索公司 Perplexity 宣布其技术现已集成到三星浏览器（Samsung Browser）的“浏览助手”（Browsing Assist）功能中，覆盖 Galaxy Android 和 Windows 设备。这是 Perplexity 在扩大其 AI 搜索技术落地场景上的重要一步。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "@perplexity_ai",
+            "url": "https://x.com/perplexity_ai/status/2037556796139921847"
+          }
+        ],
+        "tags": [
+          "搜索与推荐",
+          "头部公司战略动作",
+          "新产品形态"
+        ],
+        "raw_item_indices": [
+          80
+        ]
+      },
+      {
+        "title": "Google Releases Agent Development Kit for Faster AI Agent Building",
+        "signal_text": "Google Developers 发布 Agent Development Kit，旨在帮助开发者更快地构建和部署 AI 智能体。该工具包提供设置智能体、部署系统和链接工具的能力，并计划举办线上构建活动展示与专业 AI 工作流集成的实例。",
+        "signal_strength": 0.72,
+        "sources": [
+          {
+            "name": "@googledevs",
+            "url": "https://x.com/googledevs/status/2037643322387234886"
+          }
+        ],
+        "tags": [
+          "Agent 与新交互范式",
+          "开源生态",
+          "头部公司战略动作"
+        ],
+        "raw_item_indices": [
+          86
+        ]
+      },
+      {
+        "title": "Inflection AI Partners with Crusoe on 900MW AI Data Center in Texas",
+        "signal_text": "Inflection AI 联合创始人 Mustafa Suleyman 宣布，公司正与 Crusoe 合作，在德克萨斯州阿比林市建设一个 900MW 的 AI 数据中心（AI factory），以扩充其 AI 算力集群。这反映了头部 AI 公司对算力基础设施的持续大规模投入。",
+        "signal_strength": 0.72,
+        "sources": [
+          {
+            "name": "@mustafasuleyman (Inflection AI co-founder)",
+            "url": "https://x.com/mustafasuleyman/status/2037547756320141587"
+          }
+        ],
+        "tags": [
+          "头部公司战略动作",
+          "技术突破"
+        ],
+        "raw_item_indices": [
+          84
+        ]
+      },
+      {
+        "title": "IndexCache: Sparse Attention Optimizer from Tsinghua & Z.ai Speeds Up Long-Context Inference",
+        "signal_text": "据 VentureBeat 报道，清华大学和 Z.ai 的研究人员提出 IndexCache，一种新的稀疏注意力优化技术，可减少长上下文处理中高达 75% 的冗余计算，在 20 万 token 的上下文上实现 1.82 倍的推理加速。这对提升长文本理解和生成效率有直接价值。",
+        "signal_strength": 0.7,
+        "sources": [
+          {
+            "name": "VentureBeat (citing arXiv)",
+            "url": "https://venturebeat.com/technology/indexcache-a-new-sparse-attention-optimizer-delivers-1-82x-faster-inference"
+          }
+        ],
+        "tags": [
+          "技术突破",
+          "搜索与推荐",
+          "推理效率提升"
+        ],
+        "raw_item_indices": [
+          28
+        ]
+      },
+      {
+        "title": "OpenAI CEO Shares Story of User Using LLMs to Develop mRNA Vaccine for Dog",
+        "signal_text": "OpenAI CEO Sam Altman（获 1600+ likes, 194k+ views）分享了一个用户故事：一位名叫 Paul 的用户利用 ChatGPT、Gemini 和 Grok 等 LLM，在兽医和基因组学实验室的协助下，为其患癌的宠物狗 Rosie 制定了个性化的 mRNA 癌症疫苗方案。这展示了 AI 在赋能个体进行复杂研究方面的潜力。",
+        "signal_strength": 0.7,
+        "sources": [
+          {
+            "name": "@sama (OpenAI CEO)",
+            "url": "https://x.com/sama/status/2037396826060673188"
+          },
+          {
+            "name": "@minchoi",
+            "url": "https://x.com/minchoi/status/2037525620934988169"
+          }
+        ],
+        "tags": [
+          "Agent 与新交互范式",
+          "内容创作与理解",
+          "新产品形态"
+        ],
+        "raw_item_indices": [
+          55,
+          65
+        ]
+      },
+      {
+        "title": "NeurIPS Reverses Policy After Backlash from Chinese Researchers Over Geopolitical Lines",
+        "signal_text": "据 Wired 报道，顶级 AI 会议 NeurIPS 近期一项政策变动引发了来自中国研究人员的广泛反对，随后该政策被迅速撤销。NeurIPS 官方账号（获 280+ likes, 86k+ views）发表声明，承认此事引起警觉并承诺进行解释。这凸显了 AI 研究与地缘政治日益交织的现状。",
+        "signal_strength": 0.68,
+        "sources": [
+          {
+            "name": "Wired",
+            "url": "https://www.wired.com/story/made-in-china-ai-research-is-starting-to-split-along-geopolitical-lines/"
+          },
+          {
+            "name": "@NeurIPSConf",
+            "url": "https://x.com/NeurIPSConf/status/2037438893457289364"
+          }
+        ],
+        "tags": [
+          "行业风险与监管",
+          "开源生态"
+        ],
+        "raw_item_indices": [
+          14,
+          57
+        ]
+      }
     ]
   },
   "archived_weeks": [

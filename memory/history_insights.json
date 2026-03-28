@@ -1,66 +1,6 @@
 {
   "predictions": [
     {
-      "date": "2026-03-18T09:32:50.472640+08:00",
-      "prediction_text": "内容与电商平台的AI研发团队可以考虑评估此类专用模型，以优化内部Agent系统的成本与性能。",
-      "category": "model_release",
-      "source_signal": "OpenAI Releases GPT-5.4 mini and nano for Coding and Agent Workloads"
-    },
-    {
-      "date": "2026-03-18T09:32:50.486811+08:00",
-      "prediction_text": "推荐系统与算法工程团队可以探索构建类似的内部Agent，以自动化模型迭代与实验流程。",
-      "category": "strategic_move",
-      "source_signal": "Meta Deploys Autonomous AI Agent for Ads Ranking Model Development"
-    },
-    {
-      "date": "2026-03-18T09:32:50.509336+08:00",
-      "prediction_text": "拥有独特数据资产的平台可以考虑利用此类平台，探索从零训练垂直领域专属模型的可能性。",
-      "category": "strategic_move",
-      "source_signal": "Mistral Launches ‘Forge’ Platform for Enterprise Custom Model Training"
-    },
-    {
-      "date": "2026-03-18T09:32:50.528847+08:00",
-      "prediction_text": "创作者工具与开发者生态团队可以考虑集成此类工具，赋能高级用户进行个性化模型微调。",
-      "category": "open_source",
-      "source_signal": "Unsloth AI Releases Open-Source Web UI for Fast Local LLM Training"
-    },
-    {
-      "date": "2026-03-18T09:32:50.545280+08:00",
-      "prediction_text": "AI研发团队可以关注并参与此类基准构建，确保自研模型的能力评估与行业前沿对齐。",
-      "category": "strategic_move",
-      "source_signal": "Google DeepMind Launches AGI Cognitive Framework Hackathon with $200K Prizes"
-    },
-    {
-      "date": "2026-03-18T09:32:50.566390+08:00",
-      "prediction_text": "搜索产品值得关注如何将自身实时内容API更便捷地接入主流开源Agent工作流。",
-      "category": "ecosystem_shift",
-      "source_signal": "Ollama Integrates Web Search/Fetch into OpenClaw Ecosystem"
-    },
-    {
-      "date": "2026-03-18T09:32:50.584477+08:00",
-      "prediction_text": "计划部署低延迟AI应用（如实时内容生成）的平台，可以关注边缘推理基础设施的进展。",
-      "category": "infrastructure",
-      "source_signal": "NVIDIA Unveils AI Grid Strategy with Telecom Giants for Distributed Inference"
-    },
-    {
-      "date": "2026-03-18T09:32:50.602274+08:00",
-      "prediction_text": "内容安全团队在审核AI生成的图文/视频内容时，需要考虑视觉干扰对模型安全性的潜在影响。",
-      "category": "research_breakthrough",
-      "source_signal": "Research: Visual Distraction Undermines Moral Reasoning in Vision-Language Models"
-    },
-    {
-      "date": "2026-03-18T09:32:50.638801+08:00",
-      "prediction_text": "涉及跨境业务或敏感行业的内容平台，其AI数据治理与合规框架需要预判此类地缘技术趋势。",
-      "category": "strategic_move",
-      "source_signal": "Pentagon Plans Secure Environments for AI Companies to Train on Classified Data"
-    },
-    {
-      "date": "2026-03-18T09:32:50.647549+08:00",
-      "prediction_text": "电商与内容平台的Agent系统可以考虑集成此类标准化接口，以统一处理用户文件与媒体资产。",
-      "category": "ecosystem_shift",
-      "source_signal": "Box Releases Official CLI, Enabling Cloud File System for AI Agents"
-    },
-    {
       "date": "2026-03-19T09:33:16.540693+08:00",
       "prediction_text": "内容平台的创作者工具可以考虑集成或对标此类AI设计能力，赋能用户快速生成高保真视觉内容。",
       "category": "strategic_move",
@@ -599,6 +539,66 @@
       "prediction_text": "内容安全与社区治理团队需要提前构建更精细的AI内容溯源、质量评估与分级展示机制。",
       "category": "industry_risk",
       "source_signal": "Wikipedia Cracks Down on AI-Generated Article Writing"
+    },
+    {
+      "date": "2026-03-28T09:34:44.298287+08:00",
+      "prediction_text": "内容安全与治理团队必须将前沿模型风险评估纳入核心工作流，提前部署防御性检测与干预机制。",
+      "category": "strategic_move",
+      "source_signal": "Anthropic's Next-Gen Model 'Claude Mythos' Leaked, Poses Cybersecurity Risks"
+    },
+    {
+      "date": "2026-03-28T09:34:44.315689+08:00",
+      "prediction_text": "创作者工具与平台运营团队可以探索构建类似的插件市场，将内部能力封装为可组合的AI工具。",
+      "category": "ecosystem_shift",
+      "source_signal": "OpenAI Codex Launches Plugin Support, Enabling New Workflow Automation"
+    },
+    {
+      "date": "2026-03-28T09:34:44.328297+08:00",
+      "prediction_text": "研发团队在部署轻量化模型时，建议建立更严格的OOD评估基准，警惕性能虚假繁荣。",
+      "category": "research_breakthrough",
+      "source_signal": "Microsoft Research Paper Finds Self-Distillation Can Harm LLM Reasoning"
+    },
+    {
+      "date": "2026-03-28T09:34:44.333557+08:00",
+      "prediction_text": "电商与内容平台的交互设计团队值得关注此方向，探索可自我优化的用户引导与客服Agent。",
+      "category": "research_breakthrough",
+      "source_signal": "Tencent AI Lab Publishes UI-Voyager: A Self-Evolving Mobile GUI Agent"
+    },
+    {
+      "date": "2026-03-28T09:34:44.338582+08:00",
+      "prediction_text": "搜索产品团队可以考虑与终端厂商合作，将垂直领域搜索能力深度植入系统级服务。",
+      "category": "strategic_move",
+      "source_signal": "Perplexity AI Powers Samsung Browser's Browsing Assist Feature"
+    },
+    {
+      "date": "2026-03-28T09:34:44.343232+08:00",
+      "prediction_text": "平台的企业服务团队可以借鉴此模式，开放核心AI能力供生态伙伴构建垂直场景Agent。",
+      "category": "ecosystem_shift",
+      "source_signal": "Google Releases Agent Development Kit for Faster AI Agent Building"
+    },
+    {
+      "date": "2026-03-28T09:34:44.347827+08:00",
+      "prediction_text": "长期来看，拥有稳定、低成本算力供给将成为平台AI战略的底层基础设施保障。",
+      "category": "infrastructure",
+      "source_signal": "Inflection AI Partners with Crusoe on 900MW AI Data Center in Texas"
+    },
+    {
+      "date": "2026-03-28T09:34:44.352517+08:00",
+      "prediction_text": "推荐系统与搜索团队可以探索利用超长上下文，构建更深度的用户意图理解与个性化服务。",
+      "category": "research_breakthrough",
+      "source_signal": "IndexCache: Sparse Attention Optimizer from Tsinghua & Z.ai Speeds Up Long-Context Inference"
+    },
+    {
+      "date": "2026-03-28T09:34:44.356897+08:00",
+      "prediction_text": "社区平台与创作者工具团队值得探索为专业领域创作者提供垂直数据、工作流支持的AI助手。",
+      "category": "ecosystem_shift",
+      "source_signal": "OpenAI CEO Shares Story of User Using LLMs to Develop mRNA Vaccine for Dog"
+    },
+    {
+      "date": "2026-03-28T09:34:44.361272+08:00",
+      "prediction_text": "研发团队需建立更独立、多元的技术供应链与人才网络，以应对可能的技术生态割裂风险。",
+      "category": "industry_risk",
+      "source_signal": "NeurIPS Reverses Policy After Backlash from Chinese Researchers Over Geopolitical Lines"
     }
   ]
 }
