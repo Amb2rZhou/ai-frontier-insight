@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-29T02:09:24.425167",
+  "scraped_at": "2026-03-29T05:12:47.941124",
   "date": "2026-03-29",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 6,
-  "account_count": 6,
+  "tweet_count": 17,
+  "account_count": 15,
   "tweets": [
     {
       "id": "2037954025283281394",
@@ -73,6 +73,136 @@
       "likes": 23,
       "retweets": 1,
       "views": 2273
+    },
+    {
+      "id": "2037997630500856069",
+      "username": "emollick",
+      "text": "Students undermine their own learning by getting answers from AI. But the authors of the original paper have a new RCT that shows well-prompted AI tutors do, actually, boost learning: https://t.co/0HtjGC8eU0\n\n*Not quote tweeting because don't want to boost slop science accounts https://t.co/ogSs1Qpr7M",
+      "timestamp": "2026-03-28T20:57:53+00:00",
+      "url": "https://x.com/emollick/status/2037997630500856069",
+      "images": [
+        "https://pbs.twimg.com/media/HEhqqwkXsAAypiA.png",
+        "https://pbs.twimg.com/media/HEhrCcHXcAAXBSP.jpg"
+      ],
+      "likes": 16,
+      "retweets": 3,
+      "views": 1706
+    },
+    {
+      "id": "2037988925818519763",
+      "username": "steipete",
+      "text": "So much of this, every day. You really have to develop thick skin (exoskeleton?) when working on successful open source.\n\n(The Chrome extension has been removed since Google added native access in 144+, which is simpler, but yes, it does require a one-time setting change) https://t.co/N62y2XfaTW",
+      "timestamp": "2026-03-28T20:23:18+00:00",
+      "url": "https://x.com/steipete/status/2037988925818519763",
+      "images": [
+        "https://pbs.twimg.com/media/HEhjSJwa8AAmD3k.jpg"
+      ],
+      "likes": 131,
+      "retweets": 5,
+      "views": 12045
+    },
+    {
+      "id": "2037976630795112466",
+      "username": "minchoi",
+      "text": "Humanoid robots are starting to do useful work... at the hospital 🤯\nhttps://t.co/rjUz3985KM",
+      "timestamp": "2026-03-28T19:34:27+00:00",
+      "url": "https://x.com/minchoi/status/2037976630795112466",
+      "images": [],
+      "likes": 47,
+      "retweets": 8,
+      "views": 9467
+    },
+    {
+      "id": "2037970128134922650",
+      "username": "CSProfKGD",
+      "text": "Thank you @Nicolas_Keller for giving me a glimpse of the future of robotics! https://t.co/f5Otg8FDr0",
+      "timestamp": "2026-03-28T19:08:36+00:00",
+      "url": "https://x.com/CSProfKGD/status/2037970128134922650",
+      "images": [
+        "https://pbs.twimg.com/media/HEhTBxDagAAG9M5.jpg"
+      ],
+      "likes": 5,
+      "retweets": 0,
+      "views": 450
+    },
+    {
+      "id": "2037968740671713407",
+      "username": "emollick",
+      "text": "Curious if there has been any good articles written on the impact of VLMs on low-vision and blind people. The advent of a universal text reading, and visual description system seems like it would be a big advance as a result of AI, but haven't seen anything written about it.",
+      "timestamp": "2026-03-28T19:03:06+00:00",
+      "url": "https://x.com/emollick/status/2037968740671713407",
+      "images": [],
+      "likes": 46,
+      "retweets": 5,
+      "views": 6406
+    },
+    {
+      "id": "2037967603637870814",
+      "username": "deliprao",
+      "text": "Buried lede: \"This was achieved through showing Claude Code and Codex the browsers ground truth, and have them measure &amp; iterate against those at every significant container width, running over weeks.\"\n\n@_chenglou may have independently done autoresearch like optimization (much",
+      "timestamp": "2026-03-28T18:58:34+00:00",
+      "url": "https://x.com/deliprao/status/2037967603637870814",
+      "images": [],
+      "likes": 17,
+      "retweets": 2,
+      "views": 2338
+    },
+    {
+      "id": "2037966943282696213",
+      "username": "mitchellh",
+      "text": "libghostty for Rust! Some Ghostty maintainers came together and made a really high quality Rust crate in front of libghostty-vt. The repo includes a full port of Ghostling (full terminal in a single Rust file!). The API is beautiful. https://t.co/6sdTkjG24V https://t.co/vgWXgCBDWy",
+      "timestamp": "2026-03-28T18:55:57+00:00",
+      "url": "https://x.com/mitchellh/status/2037966943282696213",
+      "images": [
+        "https://pbs.twimg.com/media/HEhQFgxa4AArRuE.jpg"
+      ],
+      "likes": 450,
+      "retweets": 32,
+      "views": 18598
+    },
+    {
+      "id": "2037965752972513777",
+      "username": "emollick",
+      "text": "X search, long broken, has finally been fixed. All it took was a multi-hundred-million-dollar AI model\n\n(Seriously, X search is notoriously bad, but Grok is very good at this specific task, though it is funny that I have to burn a ton of tokens to do a keyword search on the site)",
+      "timestamp": "2026-03-28T18:51:13+00:00",
+      "url": "https://x.com/emollick/status/2037965752972513777",
+      "images": [],
+      "likes": 141,
+      "retweets": 5,
+      "views": 9114
+    },
+    {
+      "id": "2037964810575290593",
+      "username": "mustafasuleyman",
+      "text": "For the next couple years at least, the entire AI industry is going to be defined by this fact: demand is going to wildly outstrip supply, and so what matters is which companies / products have margin to pay for tokens.\n\nThose products will then rapidly improve because latency",
+      "timestamp": "2026-03-28T18:47:29+00:00",
+      "url": "https://x.com/mustafasuleyman/status/2037964810575290593",
+      "images": [],
+      "likes": 306,
+      "retweets": 27,
+      "views": 44354
+    },
+    {
+      "id": "2037961145319825437",
+      "username": "Austen",
+      "text": "That’s why Gauntlet AI does this as a service",
+      "timestamp": "2026-03-28T18:32:55+00:00",
+      "url": "https://x.com/Austen/status/2037961145319825437",
+      "images": [],
+      "likes": 10,
+      "retweets": 2,
+      "views": 5051
+    },
+    {
+      "id": "2036876440851902867",
+      "username": "code",
+      "text": "On Wednesdays, we ship! 🚀\n \nThis week’s @code highlights include the new Customization window - a central place to manage all chat customizations. https://t.co/vH3FjXbBUl",
+      "timestamp": "2026-03-25T18:42:41+00:00",
+      "url": "https://x.com/code/status/2036876440851902867",
+      "images": [],
+      "likes": 586,
+      "retweets": 64,
+      "views": 119969
     }
   ]
 }
