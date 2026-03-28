@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-29T05:12:47.941124",
+  "scraped_at": "2026-03-29T07:46:23.292763",
   "date": "2026-03-29",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 17,
-  "account_count": 15,
+  "tweet_count": 25,
+  "account_count": 19,
   "tweets": [
     {
       "id": "2037954025283281394",
@@ -203,6 +203,96 @@
       "likes": 586,
       "retweets": 64,
       "views": 119969
+    },
+    {
+      "id": "2038032811907506424",
+      "username": "deliprao",
+      "text": "I love SF so much. Sending all haters to /dev/null",
+      "timestamp": "2026-03-28T23:17:41+00:00",
+      "url": "https://x.com/deliprao/status/2038032811907506424",
+      "images": [],
+      "likes": 1,
+      "retweets": 0,
+      "views": 215
+    },
+    {
+      "id": "2038027453575344591",
+      "username": "npew",
+      "text": "Markdown is the new Python",
+      "timestamp": "2026-03-28T22:56:24+00:00",
+      "url": "https://x.com/npew/status/2038027453575344591",
+      "images": [],
+      "likes": 9,
+      "retweets": 0,
+      "views": 593
+    },
+    {
+      "id": "2038017873831252325",
+      "username": "addyosmani",
+      "text": "I can't remember the last time I was truly stuck on a coding problem. AI agents changed this. Going from \"sometimes blocked\" to \"always moving\" is wild.",
+      "timestamp": "2026-03-28T22:18:20+00:00",
+      "url": "https://x.com/addyosmani/status/2038017873831252325",
+      "images": [],
+      "likes": 93,
+      "retweets": 12,
+      "views": 5723
+    },
+    {
+      "id": "2038015536253272145",
+      "username": "omarsar0",
+      "text": "NEW research from NVIDIA.\n\nPost-training agents with RL is powerful but expensive.\n\nEvery parameter update needs full multi-turn rollouts with environment interactions, making end-to-end RL prohibitively costly for long-horizon agentic tasks.\n\nThis research offers a practical https://t.co/Qekx3ajlmD",
+      "timestamp": "2026-03-28T22:09:02+00:00",
+      "url": "https://x.com/omarsar0/status/2038015536253272145",
+      "images": [
+        "https://pbs.twimg.com/media/HEh8VFrbQAA7aAg.jpg"
+      ],
+      "likes": 64,
+      "retweets": 8,
+      "views": 5905
+    },
+    {
+      "id": "2038014766182981775",
+      "username": "emollick",
+      "text": "Deleted a post because I accused someone of running a slop science account in passing when it turned out it was a reputable account that was using overly Claude-y writing.",
+      "timestamp": "2026-03-28T22:05:59+00:00",
+      "url": "https://x.com/emollick/status/2038014766182981775",
+      "images": [],
+      "likes": 105,
+      "retweets": 0,
+      "views": 9476
+    },
+    {
+      "id": "2038009533096690147",
+      "username": "omarsar0",
+      "text": "Great time to build with @FireworksAI_HQ Fire Pass.  \n\nI recommend Kimi K2.5 Turbo if you are building for agentic coding.",
+      "timestamp": "2026-03-28T21:45:11+00:00",
+      "url": "https://x.com/omarsar0/status/2038009533096690147",
+      "images": [],
+      "likes": 8,
+      "retweets": 1,
+      "views": 2456
+    },
+    {
+      "id": "2037921699824607591",
+      "username": "karpathy",
+      "text": "- Drafted a blog post\n- Used an LLM to meticulously improve the argument over 4 hours.\n- Wow, feeling great, it’s so convincing!\n- Fun idea let’s ask it to argue the opposite. \n- LLM demolishes the entire argument and convinces me that the opposite is in fact true.\n- lol\n\nThe",
+      "timestamp": "2026-03-28T15:56:10+00:00",
+      "url": "https://x.com/karpathy/status/2037921699824607591",
+      "images": [],
+      "likes": 18806,
+      "retweets": 1393,
+      "views": 1171622
+    },
+    {
+      "id": "2037376770576708089",
+      "username": "nickcammarata",
+      "text": "if anthropic's next model is really named capybara you know it's the singularity. if a model sounds like a call of duty killstreak you know it's nothing. if it sounds like a children's bookstore, you're already working for it",
+      "timestamp": "2026-03-27T03:50:49+00:00",
+      "url": "https://x.com/nickcammarata/status/2037376770576708089",
+      "images": [],
+      "likes": 1182,
+      "retweets": 51,
+      "views": 128068
     }
   ]
 }
