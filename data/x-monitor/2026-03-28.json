@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-28T15:30:19.799342",
+  "scraped_at": "2026-03-28T18:35:03.727797",
   "date": "2026-03-28",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 69,
-  "account_count": 39,
+  "tweet_count": 73,
+  "account_count": 40,
   "tweets": [
     {
       "id": "2037600189779693624",
@@ -819,6 +819,54 @@
       "likes": 4050,
       "retweets": 434,
       "views": 282888
+    },
+    {
+      "id": "2037837037735207035",
+      "username": "NielsRogge",
+      "text": "Realistic video of running a local MiniMax-M2.5 (GGUF 3-bit) via @openclaw \n\nIt runs between 10-20 tokens per second on a DGX Spark, so combined with reasoning tokens and tool calling, it can take some time before responding\n\nThis is only going to get better though! https://t.co/ImqMr1H0EC",
+      "timestamp": "2026-03-28T10:19:45+00:00",
+      "url": "https://x.com/NielsRogge/status/2037837037735207035",
+      "images": [],
+      "likes": 1,
+      "retweets": 0,
+      "views": 116
+    },
+    {
+      "id": "2037836744645583323",
+      "username": "giffmana",
+      "text": "I just achieved the holy grail as a weekend project!\n\nWrote a multimodal training codebase in pure C and CUDA+NCCL with minimal dependencies (no torch!) that achieves 45 MFU with FSDP on four 8xH100 nodes.\n\nI might feel cute and open-source it later. Screenshot for proof: https://t.co/SSeOxCyjEJ",
+      "timestamp": "2026-03-28T10:18:35+00:00",
+      "url": "https://x.com/giffmana/status/2037836744645583323",
+      "images": [
+        "https://pbs.twimg.com/media/HEfZT5_XkAAr8Fj.jpg"
+      ],
+      "likes": 36,
+      "retweets": 2,
+      "views": 714
+    },
+    {
+      "id": "2037824354373788062",
+      "username": "NielsRogge",
+      "text": "Some good and some bad things for open-source lately\n\nThe main thing I like about open source is its diversity. \n\nFrom open audio models from @cohere and @MistralAI to an open 20B agentic search model by @trychroma to new LLMs from @Alibaba_Qwen, @MiniMax_AI, and @Zai_org. Never https://t.co/ZtfR2wQbec",
+      "timestamp": "2026-03-28T09:29:21+00:00",
+      "url": "https://x.com/NielsRogge/status/2037824354373788062",
+      "images": [
+        "https://pbs.twimg.com/media/HEfNyO4XEAAhWf0.png"
+      ],
+      "likes": 11,
+      "retweets": 0,
+      "views": 518
+    },
+    {
+      "id": "2037530125638455610",
+      "username": "ClementDelangue",
+      "text": "We need more open agent traces datasets. Who can help?",
+      "timestamp": "2026-03-27T14:00:12+00:00",
+      "url": "https://x.com/ClementDelangue/status/2037530125638455610",
+      "images": [],
+      "likes": 424,
+      "retweets": 35,
+      "views": 80226
     }
   ]
 }
