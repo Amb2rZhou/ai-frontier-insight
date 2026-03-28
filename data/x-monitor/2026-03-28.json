@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-28T12:25:30.405335",
+  "scraped_at": "2026-03-28T15:30:19.799342",
   "date": "2026-03-28",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 59,
-  "account_count": 36,
+  "tweet_count": 69,
+  "account_count": 39,
   "tweets": [
     {
       "id": "2037600189779693624",
@@ -700,6 +700,125 @@
       "likes": 56,
       "retweets": 5,
       "views": 2867
+    },
+    {
+      "id": "2037786358710935663",
+      "username": "docmilanfar",
+      "text": "generalization is a feature. memorization is a bug",
+      "timestamp": "2026-03-28T06:58:22+00:00",
+      "url": "https://x.com/docmilanfar/status/2037786358710935663",
+      "images": [],
+      "likes": 9,
+      "retweets": 0,
+      "views": 496
+    },
+    {
+      "id": "2037748678375473349",
+      "username": "DeryaTR_",
+      "text": "The age of AI will unlock the next stage of human evolution, which I call Human 2.0. This will be a greater upgrade for our species than when the first modern humans emerged about 50-100 thousand years ago. The enormity of this transition is currently incomprehensible to most.",
+      "timestamp": "2026-03-28T04:28:39+00:00",
+      "url": "https://x.com/DeryaTR_/status/2037748678375473349",
+      "images": [],
+      "likes": 188,
+      "retweets": 25,
+      "views": 6076
+    },
+    {
+      "id": "2037681802350104775",
+      "username": "gneubig",
+      "text": "@natolambert @ClementDelangue Thanks @natolambert !\n\n@yueqi_song shared some our work here, and we're continuing adding to it https://t.co/HiYtIrnwlx",
+      "timestamp": "2026-03-28T00:02:54+00:00",
+      "url": "https://x.com/gneubig/status/2037681802350104775",
+      "images": [],
+      "likes": 5,
+      "retweets": 0,
+      "views": 1127
+    },
+    {
+      "id": "2037658400004477278",
+      "username": "OpenAIDevs",
+      "text": "Build voice agents that do real work.\n\nWe built a clinic concierge demo for a Singapore health clinic with gpt-realtime-1.5.\n\nIt speaks naturally with patients, collects the right details, and books appointments in real time. https://t.co/d5Xn5Z7WRz",
+      "timestamp": "2026-03-27T22:29:55+00:00",
+      "url": "https://x.com/OpenAIDevs/status/2037658400004477278",
+      "images": [],
+      "likes": 618,
+      "retweets": 42,
+      "views": 56018
+    },
+    {
+      "id": "2037346989244096581",
+      "username": "thsottiaux",
+      "text": "Hello. We have reset Codex usage limits across all plans to let everyone experiment with the magnificent plugins we just launched, and because it had been a while! \n\nYou can just build unlimited things with Codex. Have fun!",
+      "timestamp": "2026-03-27T01:52:28+00:00",
+      "url": "https://x.com/thsottiaux/status/2037346989244096581",
+      "images": [],
+      "likes": 8876,
+      "retweets": 385,
+      "views": 841552
+    },
+    {
+      "id": "2037296366087741840",
+      "username": "OpenAIDevs",
+      "text": "This is just the beginning.\n\nWe're shipping more plugins for more use cases over time, and growing the skills library alongside them.\n\nBuild your own plugins and share them with your team:\nhttps://t.co/kT46UAybio https://t.co/bL8OVN0keT",
+      "timestamp": "2026-03-26T22:31:19+00:00",
+      "url": "https://x.com/OpenAIDevs/status/2037296366087741840",
+      "images": [
+        "https://pbs.twimg.com/media/HEXuP53aIAAT9bT.jpg"
+      ],
+      "likes": 210,
+      "retweets": 6,
+      "views": 47327
+    },
+    {
+      "id": "2037296350682096013",
+      "username": "OpenAIDevs",
+      "text": "Under the hood, plugins bundle apps and skills for seamless authentication to your tools, plus skills so Codex is instantly great at using them.\n\nPlugins are available in the Codex app, Codex CLI, and IDE extensions. https://t.co/TQfpuPnpBa",
+      "timestamp": "2026-03-26T22:31:15+00:00",
+      "url": "https://x.com/OpenAIDevs/status/2037296350682096013",
+      "images": [
+        "https://pbs.twimg.com/media/HEXuPBzaoAAno49.jpg"
+      ],
+      "likes": 189,
+      "retweets": 6,
+      "views": 26453
+    },
+    {
+      "id": "2037296335020609867",
+      "username": "OpenAIDevs",
+      "text": "With plugins, Codex can now support more real work, including the planning, research, and coordination that happens before you write code and the workflows that follow.\n\nAs an example, the @googledrive plugin lets Codex work across Google Drive, Docs, Sheets, and Slides with https://t.co/t0vK119T1u",
+      "timestamp": "2026-03-26T22:31:12+00:00",
+      "url": "https://x.com/OpenAIDevs/status/2037296335020609867",
+      "images": [
+        "https://pbs.twimg.com/media/HEXuOBBaAAAm-Ia.jpg"
+      ],
+      "likes": 295,
+      "retweets": 12,
+      "views": 33137
+    },
+    {
+      "id": "2037296316104282119",
+      "username": "OpenAIDevs",
+      "text": "We're rolling out plugins in Codex.\n\nCodex now works seamlessly out of the box with the most important tools builders already use, like @SlackHQ, @Figma, @NotionHQ, @gmail, and more.\n\nhttps://t.co/PQDsLqHGA6 https://t.co/TIbsIUAf6S",
+      "timestamp": "2026-03-26T22:31:07+00:00",
+      "url": "https://x.com/OpenAIDevs/status/2037296316104282119",
+      "images": [],
+      "likes": 4907,
+      "retweets": 514,
+      "views": 1091819
+    },
+    {
+      "id": "2037289861745623132",
+      "username": "ollama",
+      "text": "Visual Studio Code now integrates with Ollama via GitHub Copilot. \n\nIf you have Ollama installed, any local or cloud model from Ollama can be selected for use within Visual Studio Code. https://t.co/11BqI12oSV",
+      "timestamp": "2026-03-26T22:05:28+00:00",
+      "url": "https://x.com/ollama/status/2037289861745623132",
+      "images": [
+        "https://pbs.twimg.com/media/HEXlPUEa8AArwdf.jpg",
+        "https://pbs.twimg.com/media/HEXn7t3bkAApYcG.png"
+      ],
+      "likes": 4050,
+      "retweets": 434,
+      "views": 282888
     }
   ]
 }
