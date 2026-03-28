@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-28T09:20:55.067700",
+  "scraped_at": "2026-03-28T12:25:30.405335",
   "date": "2026-03-28",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 46,
-  "account_count": 32,
+  "tweet_count": 59,
+  "account_count": 36,
   "tweets": [
     {
       "id": "2037600189779693624",
@@ -549,6 +549,157 @@
       "likes": 2525,
       "retweets": 243,
       "views": 230819
+    },
+    {
+      "id": "2037746041999560825",
+      "username": "Austen",
+      "text": "It’s probably pretty obvious to anyone who is actually around tech, but in case you aren’t:\n\nPretty much everything this account posts is just completely made up. https://t.co/kvAeWDHZ1b",
+      "timestamp": "2026-03-28T04:18:10+00:00",
+      "url": "https://x.com/Austen/status/2037746041999560825",
+      "images": [
+        "https://pbs.twimg.com/media/HEeHOcFXwAA2Kg5.jpg"
+      ],
+      "likes": 6,
+      "retweets": 0,
+      "views": 844
+    },
+    {
+      "id": "2037744753073385518",
+      "username": "levie",
+      "text": "The big gap in most enterprises being able to automate work is being able to get right context to the agents.\n\nWe experience a huge benefit in coding in tech because the problem is generally far simpler than other areas of knowledge work. The codebase contains a bunch of",
+      "timestamp": "2026-03-28T04:13:03+00:00",
+      "url": "https://x.com/levie/status/2037744753073385518",
+      "images": [],
+      "likes": 14,
+      "retweets": 2,
+      "views": 2817
+    },
+    {
+      "id": "2037744084945702932",
+      "username": "Austen",
+      "text": "Come to Gauntlet AI and that can be you",
+      "timestamp": "2026-03-28T04:10:23+00:00",
+      "url": "https://x.com/Austen/status/2037744084945702932",
+      "images": [],
+      "likes": 7,
+      "retweets": 0,
+      "views": 1188
+    },
+    {
+      "id": "2037743023602180499",
+      "username": "deliprao",
+      "text": "The Google turboquant paper is making ML folks in this decade discover JL lemma and interact with math folks (which is cool). It appears more cool and mysterious if you do not read ML papers from the 90s and early 2000s :) https://t.co/ZZYcUlBP3Q",
+      "timestamp": "2026-03-28T04:06:10+00:00",
+      "url": "https://x.com/deliprao/status/2037743023602180499",
+      "images": [
+        "https://pbs.twimg.com/media/HEeEetqacAAvTQ8.jpg",
+        "https://pbs.twimg.com/media/HEeEetqaMAAEuKj.jpg",
+        "https://pbs.twimg.com/media/HEeEetGXAAAX_Hz.jpg"
+      ],
+      "likes": 4,
+      "retweets": 1,
+      "views": 230
+    },
+    {
+      "id": "2037732675897770123",
+      "username": "gdb",
+      "text": "Codex use cases are like Skills, but for humans",
+      "timestamp": "2026-03-28T03:25:03+00:00",
+      "url": "https://x.com/gdb/status/2037732675897770123",
+      "images": [],
+      "likes": 234,
+      "retweets": 11,
+      "views": 37290
+    },
+    {
+      "id": "2037728356117156072",
+      "username": "Miles_Brundage",
+      "text": "Codex people at OAI - I do not see a way to change the account used for a Plugin, or to do multiple accounts. \n\nE.g.: \n- Install Google Drive plugin for account A\n- Uninstall\n- Start reinstalling... you do not get prompted about \"which account,\" just assumes it's account A again",
+      "timestamp": "2026-03-28T03:07:53+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2037728356117156072",
+      "images": [],
+      "likes": 0,
+      "retweets": 0,
+      "views": 590
+    },
+    {
+      "id": "2037725493315707290",
+      "username": "steipete",
+      "text": "Another sick upcoming feature:\n\n/acp spawn codex --bind here\nLOOK AT ME, I AM CODEX NOW\n\nYou could bind codex/claude code/opencode already in threads, now you can take over your current session as well.",
+      "timestamp": "2026-03-28T02:56:31+00:00",
+      "url": "https://x.com/steipete/status/2037725493315707290",
+      "images": [],
+      "likes": 290,
+      "retweets": 16,
+      "views": 17088
+    },
+    {
+      "id": "2037721666877268423",
+      "username": "DeryaTR_",
+      "text": "BioAI is getting agentified! Operon agent would be super cool to have!",
+      "timestamp": "2026-03-28T02:41:19+00:00",
+      "url": "https://x.com/DeryaTR_/status/2037721666877268423",
+      "images": [],
+      "likes": 27,
+      "retweets": 1,
+      "views": 2540
+    },
+    {
+      "id": "2037720249236336887",
+      "username": "Miles_Brundage",
+      "text": "Who called it Russian AGI and not SkyNyet",
+      "timestamp": "2026-03-28T02:35:41+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2037720249236336887",
+      "images": [],
+      "likes": 5,
+      "retweets": 0,
+      "views": 612
+    },
+    {
+      "id": "2037716015879205152",
+      "username": "docmilanfar",
+      "text": "It is unfortunately very typical behavior to take every ask and turn it into a sequence of relatively useless meetings, rather than actually do the work required to sort out the needs. This is often how your calendar gets filled end-to-end with unproductive time-sinks.",
+      "timestamp": "2026-03-28T02:18:51+00:00",
+      "url": "https://x.com/docmilanfar/status/2037716015879205152",
+      "images": [],
+      "likes": 27,
+      "retweets": 0,
+      "views": 1419
+    },
+    {
+      "id": "2037715163562815817",
+      "username": "steipete",
+      "text": "The next version of OpenClaw is also an MCP, you can use it instead of Anthropic's message channel MCP to connect to a much wider range of message providers.\n\n(I know, this is awkward)",
+      "timestamp": "2026-03-28T02:15:28+00:00",
+      "url": "https://x.com/steipete/status/2037715163562815817",
+      "images": [],
+      "likes": 1005,
+      "retweets": 45,
+      "views": 74037
+    },
+    {
+      "id": "2037705083735978442",
+      "username": "DeryaTR_",
+      "text": "These are great Codex use cases! Beware though, it’s extremely addictive to use Codex, you can easily become an addict like me!☺️",
+      "timestamp": "2026-03-28T01:35:25+00:00",
+      "url": "https://x.com/DeryaTR_/status/2037705083735978442",
+      "images": [],
+      "likes": 85,
+      "retweets": 7,
+      "views": 8786
+    },
+    {
+      "id": "2037227350921011471",
+      "username": "sarahookr",
+      "text": "&lt;3 @kaggle x @adaption_ai collabs\n\nnow anyone can adapt and open source frontier ai data to @kaggle. 🔥\n\nPart of our commitment to enable builders everywhere to shape AI. https://t.co/ePdmU7WJMt",
+      "timestamp": "2026-03-26T17:57:04+00:00",
+      "url": "https://x.com/sarahookr/status/2037227350921011471",
+      "images": [
+        "https://pbs.twimg.com/media/HEWvQBda8AAH8IZ.jpg"
+      ],
+      "likes": 56,
+      "retweets": 5,
+      "views": 2867
     }
   ]
 }
