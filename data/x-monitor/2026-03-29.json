@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-29T17:52:19.181413",
+  "scraped_at": "2026-03-29T22:57:43.003960",
   "date": "2026-03-29",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 39,
-  "account_count": 28,
+  "tweet_count": 57,
+  "account_count": 37,
   "tweets": [
     {
       "id": "2037954025283281394",
@@ -453,6 +453,210 @@
       "likes": 873,
       "retweets": 88,
       "views": 233719
+    },
+    {
+      "id": "2038264119737172366",
+      "username": "GaryMarcus",
+      "text": "Frontier models can’t see, and if  you think they can, you’ve probably been fooled by benchmarks that can totally be gamed.\n\nIn the very short essay linked below I discuss a stunning new finding from Stanford that shows just how serious the problem is.\n\nAnd why this means a lot",
+      "timestamp": "2026-03-29T14:36:49+00:00",
+      "url": "https://x.com/GaryMarcus/status/2038264119737172366",
+      "images": [],
+      "likes": 21,
+      "retweets": 6,
+      "views": 1292
+    },
+    {
+      "id": "2038263457125142742",
+      "username": "levie",
+      "text": "The thing that most people miss initially with agents is that the scope of what we will produce will go up commensurate with what the tools can now automate, which basically means we’ll working the same or even more.\n\nEveryone thinks that we will use AI to do what we already do",
+      "timestamp": "2026-03-29T14:34:11+00:00",
+      "url": "https://x.com/levie/status/2038263457125142742",
+      "images": [],
+      "likes": 47,
+      "retweets": 7,
+      "views": 8137
+    },
+    {
+      "id": "2038261861460721802",
+      "username": "minchoi",
+      "text": "AI is getting out of hand... in China 😂\n\nAbsolute cinema https://t.co/2eptQJG9BJ",
+      "timestamp": "2026-03-29T14:27:51+00:00",
+      "url": "https://x.com/minchoi/status/2038261861460721802",
+      "images": [],
+      "likes": 38,
+      "retweets": 7,
+      "views": 4161
+    },
+    {
+      "id": "2038257709326172291",
+      "username": "DeryaTR_",
+      "text": "It's crazy what people are now creating with Pretext, developed by @_chenglou!",
+      "timestamp": "2026-03-29T14:11:21+00:00",
+      "url": "https://x.com/DeryaTR_/status/2038257709326172291",
+      "images": [],
+      "likes": 5,
+      "retweets": 0,
+      "views": 2367
+    },
+    {
+      "id": "2038257624240537823",
+      "username": "NielsRogge",
+      "text": "Some learnings: I was able to run MiniMax-M2.5 (3-bit GGUF) on the DGX Spark (about 90 GB size), but the speed was not really acceptable \n\nSo switched to Qwen3.5-35B-A3B cause Qwen3.5-27B is also too slow. \n\nMoEs are better in terms of speed on memory-bandwidth constrained https://t.co/XzQgcY7c8d",
+      "timestamp": "2026-03-29T14:11:01+00:00",
+      "url": "https://x.com/NielsRogge/status/2038257624240537823",
+      "images": [
+        "https://pbs.twimg.com/media/HElYgJpb0AA99GL.jpg"
+      ],
+      "likes": 8,
+      "retweets": 0,
+      "views": 559
+    },
+    {
+      "id": "2038253776310530300",
+      "username": "GaryMarcus",
+      "text": "People on this site regularly give me shit, and almost always turn out to be wrong.\n\nLike when I said LLMs might well contribute to delusions, and people doubted me. \n\nNew study shows that ChatGPT was 26 times more likely than a control to give dangerous responses to people",
+      "timestamp": "2026-03-29T13:55:43+00:00",
+      "url": "https://x.com/GaryMarcus/status/2038253776310530300",
+      "images": [],
+      "likes": 60,
+      "retweets": 8,
+      "views": 4087
+    },
+    {
+      "id": "2038249832020586534",
+      "username": "rasbt",
+      "text": "It’s done.\n\nAll chapters of Build A Reasoning Model (From Scratch) are now available in early access.\n\nThe book is currently in production and should be out in the next months, including full-color print and syntax highlighting.\n\nThere’s also a preorder up on Amazon. https://t.co/ANaJHjpC2s",
+      "timestamp": "2026-03-29T13:40:03+00:00",
+      "url": "https://x.com/rasbt/status/2038249832020586534",
+      "images": [
+        "https://pbs.twimg.com/media/HElRWpbXkAAVj6V.jpg"
+      ],
+      "likes": 534,
+      "retweets": 56,
+      "views": 12964
+    },
+    {
+      "id": "2038246016483316116",
+      "username": "_akhaliq",
+      "text": "Intern-S1-Pro\n\nScientific Multimodal Foundation Model at Trillion Scale\n\npaper: https://t.co/jBDdNw932V https://t.co/mQDq5GE94f",
+      "timestamp": "2026-03-29T13:24:53+00:00",
+      "url": "https://x.com/_akhaliq/status/2038246016483316116",
+      "images": [
+        "https://pbs.twimg.com/media/HElN5NYbMAAkIMk.png"
+      ],
+      "likes": 20,
+      "retweets": 5,
+      "views": 3238
+    },
+    {
+      "id": "2038244244645675395",
+      "username": "DeryaTR_",
+      "text": "It turns out this is a very big deal! Cheng Lou has solved this:\n\n“Text layout &amp; measurement was the last &amp; biggest bottleneck for unlocking much more interesting UIs, especially in the age of AI.”",
+      "timestamp": "2026-03-29T13:17:51+00:00",
+      "url": "https://x.com/DeryaTR_/status/2038244244645675395",
+      "images": [],
+      "likes": 62,
+      "retweets": 6,
+      "views": 7173
+    },
+    {
+      "id": "2038219092214079673",
+      "username": "roydanroy",
+      "text": "They should have evaluated Gemini's Guided Learning mode.",
+      "timestamp": "2026-03-29T11:37:54+00:00",
+      "url": "https://x.com/roydanroy/status/2038219092214079673",
+      "images": [],
+      "likes": 7,
+      "retweets": 0,
+      "views": 1504
+    },
+    {
+      "id": "2038206740546621775",
+      "username": "DeryaTR_",
+      "text": "9x safer means tens of thousands of lives saved if every car had FSD, and millions of accidents averted every year. Eventually, self-driving cars will be 100x safer, and it will be a major risk and liability to drive classic cars.",
+      "timestamp": "2026-03-29T10:48:49+00:00",
+      "url": "https://x.com/DeryaTR_/status/2038206740546621775",
+      "images": [],
+      "likes": 131,
+      "retweets": 8,
+      "views": 8546
+    },
+    {
+      "id": "2038205852641816602",
+      "username": "CSProfKGD",
+      "text": "That’s #AI slop, right? 🤭 https://t.co/nUyBZUQIP2",
+      "timestamp": "2026-03-29T10:45:17+00:00",
+      "url": "https://x.com/CSProfKGD/status/2038205852641816602",
+      "images": [],
+      "likes": 2,
+      "retweets": 0,
+      "views": 1498
+    },
+    {
+      "id": "2038203547649773836",
+      "username": "shaneguML",
+      "text": "There's something really zen about AGI monks",
+      "timestamp": "2026-03-29T10:36:08+00:00",
+      "url": "https://x.com/shaneguML/status/2038203547649773836",
+      "images": [],
+      "likes": 20,
+      "retweets": 3,
+      "views": 2472
+    },
+    {
+      "id": "2038201413591871987",
+      "username": "CSProfKGD",
+      "text": "Researchers racing to post their latest work in arXiv before getting scooped 🏃‍♂️\nhttps://t.co/XmomOkyK8B",
+      "timestamp": "2026-03-29T10:27:39+00:00",
+      "url": "https://x.com/CSProfKGD/status/2038201413591871987",
+      "images": [],
+      "likes": 38,
+      "retweets": 0,
+      "views": 4844
+    },
+    {
+      "id": "2038200466316689872",
+      "username": "CSProfKGD",
+      "text": "Model distillation in the real world. https://t.co/Y9Zh1bW5Js",
+      "timestamp": "2026-03-29T10:23:53+00:00",
+      "url": "https://x.com/CSProfKGD/status/2038200466316689872",
+      "images": [],
+      "likes": 2,
+      "retweets": 0,
+      "views": 1849
+    },
+    {
+      "id": "2038198647679009131",
+      "username": "CSProfKGD",
+      "text": "#KostasThoughts: As a baby step, conferences should consider establishing a separate track for multimedia-style articles.\n\nI miss the Distill articles.\n\nhttps://t.co/aytzEWUG3M",
+      "timestamp": "2026-03-29T10:16:40+00:00",
+      "url": "https://x.com/CSProfKGD/status/2038198647679009131",
+      "images": [],
+      "likes": 2,
+      "retweets": 2,
+      "views": 763
+    },
+    {
+      "id": "2038197705353183280",
+      "username": "CSProfKGD",
+      "text": "#KostasThoughts: It’s 2026 and our research is still summarized with a static PDF.  We abandoned transparencies for talks, so why not static papers?\n\nIt’s time for innovation in this space, where “papers” are presented with rich, multimedia content.",
+      "timestamp": "2026-03-29T10:12:55+00:00",
+      "url": "https://x.com/CSProfKGD/status/2038197705353183280",
+      "images": [],
+      "likes": 6,
+      "retweets": 2,
+      "views": 2080
+    },
+    {
+      "id": "2037310992284311940",
+      "username": "thsottiaux",
+      "text": "Boom. Plugins! Codex now has access to most things it couldn’t reach before and all super easy behind the same with you use for your ChatGPT account.\n\nI use this for *everything*, from managing my calendar, triaging incoming bugs, keeping up to date with what everyone is doing at",
+      "timestamp": "2026-03-26T23:29:26+00:00",
+      "url": "https://x.com/thsottiaux/status/2037310992284311940",
+      "images": [],
+      "likes": 1109,
+      "retweets": 60,
+      "views": 156633
     }
   ]
 }
