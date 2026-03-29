@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-29T09:17:23.574616",
+  "scraped_at": "2026-03-29T13:49:21.595453",
   "date": "2026-03-29",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 29,
-  "account_count": 22,
+  "tweet_count": 36,
+  "account_count": 26,
   "tweets": [
     {
       "id": "2037954025283281394",
@@ -339,6 +339,85 @@
       "likes": 86,
       "retweets": 3,
       "views": 17642
+    },
+    {
+      "id": "2038117793602892146",
+      "username": "Miles_Brundage",
+      "text": "The AI Doc? You mean IBM Watson Health? https://t.co/Cnue42XrPX",
+      "timestamp": "2026-03-29T04:55:23+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2038117793602892146",
+      "images": [
+        "https://pbs.twimg.com/media/HEjZOtqbgAAqpmu.jpg"
+      ],
+      "likes": 3,
+      "retweets": 0,
+      "views": 302
+    },
+    {
+      "id": "2038110126251647010",
+      "username": "nickcammarata",
+      "text": "me: i want x\nclaude: that would be a significant engineering effort, maybe two weeks\nme: okay try it\nclaude, 7 seconds later: done. also refactored the data layer",
+      "timestamp": "2026-03-29T04:24:55+00:00",
+      "url": "https://x.com/nickcammarata/status/2038110126251647010",
+      "images": [],
+      "likes": 23,
+      "retweets": 0,
+      "views": 825
+    },
+    {
+      "id": "2038084923517796839",
+      "username": "openclaw",
+      "text": "OpenClaw 2026.3.28 🦞\n\n🛡️ Plugin approval hooks — any tool can pause for your OK\n⚡ xAI Responses API + x_search\n💬 ACP bind here: Discord/iMessage\n🩹WhatsApp echo loop, Telegram splitting, Discord reconnect fixes\n\nTokyo pre-ClawCon drop 🇯🇵https://t.co/xKgheOEuxk",
+      "timestamp": "2026-03-29T02:44:46+00:00",
+      "url": "https://x.com/openclaw/status/2038084923517796839",
+      "images": [],
+      "likes": 1028,
+      "retweets": 92,
+      "views": 74794
+    },
+    {
+      "id": "2038074759527981416",
+      "username": "steipete",
+      "text": "MCPorter (MCP-&gt;CLI)🧳0.8.0 is out.\n\n- stronger OAuth handling for servers\n- valid JSON output on fallback paths\n- better mcporter call behavior and error handling\n- generated CLIs handle object-valued args better\n- keep-alive/daemon reliability https://t.co/Nu9UOBxPam",
+      "timestamp": "2026-03-29T02:04:22+00:00",
+      "url": "https://x.com/steipete/status/2038074759527981416",
+      "images": [],
+      "likes": 470,
+      "retweets": 30,
+      "views": 35066
+    },
+    {
+      "id": "2038066627842043963",
+      "username": "OpenAIDevs",
+      "text": "Find, validate, and fix vulnerabilities with Codex Security:\n\nhttps://t.co/2Qtod7CY03",
+      "timestamp": "2026-03-29T01:32:04+00:00",
+      "url": "https://x.com/OpenAIDevs/status/2038066627842043963",
+      "images": [],
+      "likes": 293,
+      "retweets": 22,
+      "views": 35867
+    },
+    {
+      "id": "2037263436909019256",
+      "username": "Miles_Brundage",
+      "text": "(to be clear, Anthropic does many things well + it is understandable why this happened, esp. on frank discussion of risks, though I also worry about bias + groupthink as always. That excerpt is wrong for example - OAI + Ant at least are very similar capability-wise)",
+      "timestamp": "2026-03-26T20:20:28+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2037263436909019256",
+      "images": [],
+      "likes": 51,
+      "retweets": 0,
+      "views": 4088
+    },
+    {
+      "id": "2037190338163495326",
+      "username": "NVIDIARobotics",
+      "text": "Did you catch our robot friends during the keynote? 🤖\n\nIncredible to see so many embodiments across delivery, manufacturing, entertainment, transportation, and more.\n\nCatch up on the latest announcements. 📹 https://t.co/xeoF1e4fIY https://t.co/PUkiJJs9PL",
+      "timestamp": "2026-03-26T15:30:00+00:00",
+      "url": "https://x.com/NVIDIARobotics/status/2037190338163495326",
+      "images": [],
+      "likes": 430,
+      "retweets": 98,
+      "views": 19036
     }
   ]
 }
