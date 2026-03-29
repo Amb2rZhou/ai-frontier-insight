@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-29T07:46:23.292763",
+  "scraped_at": "2026-03-29T09:17:23.574616",
   "date": "2026-03-29",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 25,
-  "account_count": 19,
+  "tweet_count": 29,
+  "account_count": 22,
   "tweets": [
     {
       "id": "2037954025283281394",
@@ -293,6 +293,52 @@
       "likes": 1182,
       "retweets": 51,
       "views": 128068
+    },
+    {
+      "id": "2038056509805142383",
+      "username": "bcherny",
+      "text": "A weird part of working at Anthropic: getting a few of these each day https://t.co/cuOKBo0rPr",
+      "timestamp": "2026-03-29T00:51:51+00:00",
+      "url": "https://x.com/bcherny/status/2038056509805142383",
+      "images": [
+        "https://pbs.twimg.com/media/HEihgXCawAApTeL.jpg"
+      ],
+      "likes": 403,
+      "retweets": 7,
+      "views": 18787
+    },
+    {
+      "id": "2038055129186959820",
+      "username": "hardmaru",
+      "text": "My ideal timeline: Growing up in the 90s, discovering neural nets, scaling laws, and building an artificial consciousness.\nhttps://t.co/FQMunONGm3",
+      "timestamp": "2026-03-29T00:46:22+00:00",
+      "url": "https://x.com/hardmaru/status/2038055129186959820",
+      "images": [],
+      "likes": 48,
+      "retweets": 5,
+      "views": 2254
+    },
+    {
+      "id": "2037947638071304547",
+      "username": "lateinteraction",
+      "text": "The size of the representation is not very important. You can always increase the dimension of a single-vector embedding. It barely helps.\n\nThe important thing is interaction: different pieces in the query can attend to (or align with) different pieces in the document.\n\nThis",
+      "timestamp": "2026-03-28T17:39:14+00:00",
+      "url": "https://x.com/lateinteraction/status/2037947638071304547",
+      "images": [],
+      "likes": 71,
+      "retweets": 7,
+      "views": 10980
+    },
+    {
+      "id": "2037404858458980724",
+      "username": "gneubig",
+      "text": "Capybara?! Is Anthropic using Qwen now too?",
+      "timestamp": "2026-03-27T05:42:26+00:00",
+      "url": "https://x.com/gneubig/status/2037404858458980724",
+      "images": [],
+      "likes": 86,
+      "retweets": 3,
+      "views": 17642
     }
   ]
 }
