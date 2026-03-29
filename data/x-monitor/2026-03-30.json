@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-30T03:30:33.152361",
+  "scraped_at": "2026-03-30T07:04:10.080127",
   "date": "2026-03-30",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 12,
-  "account_count": 10,
+  "tweet_count": 23,
+  "account_count": 18,
   "tweets": [
     {
       "id": "2038337511903440944",
@@ -147,6 +147,133 @@
       "likes": 60,
       "retweets": 13,
       "views": 13569
+    },
+    {
+      "id": "2038388021498900575",
+      "username": "GaryMarcus",
+      "text": "I don’t actually think there is that much truth here, @jason.\n\nWe certainly have not reached AGI by any of the traditional definitions. (See agidefinition.agi w @hendrycks @Yoshua_Bengio and myself and many others.) [Current AI systems still have huge problems with visual",
+      "timestamp": "2026-03-29T22:49:10+00:00",
+      "url": "https://x.com/GaryMarcus/status/2038388021498900575",
+      "images": [],
+      "likes": 22,
+      "retweets": 5,
+      "views": 1451
+    },
+    {
+      "id": "2038382941081055426",
+      "username": "docmilanfar",
+      "text": "The Laplacian operator can be expressed as the difference of a pair of smoothing operators. Here’s a canonical demonstration https://t.co/1jG4n1xlyk",
+      "timestamp": "2026-03-29T22:28:59+00:00",
+      "url": "https://x.com/docmilanfar/status/2038382941081055426",
+      "images": [
+        "https://pbs.twimg.com/media/HEnKdJnbsAAd5wd.jpg"
+      ],
+      "likes": 23,
+      "retweets": 2,
+      "views": 673
+    },
+    {
+      "id": "2038365670380044661",
+      "username": "mathemagic1an",
+      "text": "Age of dynamic UI is approaching\n\nClaude now renders arbitrary HTML/JS/CSS inline https://t.co/M87SDd8nYH",
+      "timestamp": "2026-03-29T21:20:21+00:00",
+      "url": "https://x.com/mathemagic1an/status/2038365670380044661",
+      "images": [
+        "https://pbs.twimg.com/media/HEm6qGfb0AAxdAt.jpg"
+      ],
+      "likes": 5,
+      "retweets": 1,
+      "views": 569
+    },
+    {
+      "id": "2038362631359316440",
+      "username": "sarahookr",
+      "text": "human intelligence rests on our ability to scale co-ordination of movement and intent very cheaply. \n\nWe believe in common myths like nation states or gods, which is a far cheaper mechanism for coordination than gradient updates.",
+      "timestamp": "2026-03-29T21:08:16+00:00",
+      "url": "https://x.com/sarahookr/status/2038362631359316440",
+      "images": [],
+      "likes": 40,
+      "retweets": 5,
+      "views": 2024
+    },
+    {
+      "id": "2038350674581422581",
+      "username": "Miles_Brundage",
+      "text": "Notably, the funding source matters a lot here since Trump's AI legislative agenda is many things to many people on the right, so the funders will have a lot of say in how \"opposing/supporting\" that agenda gets operationalized https://t.co/qzcC8HjFtz",
+      "timestamp": "2026-03-29T20:20:46+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2038350674581422581",
+      "images": [],
+      "likes": 6,
+      "retweets": 3,
+      "views": 1686
+    },
+    {
+      "id": "2038348809873334741",
+      "username": "minchoi",
+      "text": "Wow... Grok Imagine is crazy 🤯\n\n100% AI\nhttps://t.co/cDZ43fve2B",
+      "timestamp": "2026-03-29T20:13:21+00:00",
+      "url": "https://x.com/minchoi/status/2038348809873334741",
+      "images": [],
+      "likes": 357,
+      "retweets": 28,
+      "views": 28076
+    },
+    {
+      "id": "2038348688901173646",
+      "username": "thegautamkamath",
+      "text": "Have modern LLMs learned to make April Fools jokes on April 1? Or have they learned that these are cringe artifacts of the early 2000's? Let's wait and see.",
+      "timestamp": "2026-03-29T20:12:52+00:00",
+      "url": "https://x.com/thegautamkamath/status/2038348688901173646",
+      "images": [],
+      "likes": 6,
+      "retweets": 0,
+      "views": 756
+    },
+    {
+      "id": "2038342512230748364",
+      "username": "alexgraveley",
+      "text": "The big switch on horizon is when agent systems *become* the software backbone, instead of just generating it.",
+      "timestamp": "2026-03-29T19:48:20+00:00",
+      "url": "https://x.com/alexgraveley/status/2038342512230748364",
+      "images": [],
+      "likes": 7,
+      "retweets": 2,
+      "views": 828
+    },
+    {
+      "id": "2038340472519962646",
+      "username": "Miles_Brundage",
+      "text": "Good thing we're not putting these things into everything, otherwise I might worry that the many vulnerabilities in current agents were more than an academic curiosity https://t.co/Un6ZrnMADW",
+      "timestamp": "2026-03-29T19:40:13+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2038340472519962646",
+      "images": [],
+      "likes": 17,
+      "retweets": 3,
+      "views": 2312
+    },
+    {
+      "id": "2038340289832878189",
+      "username": "fchollet",
+      "text": "Let me explain what I mean using your chess analogy...\n\nImagine a world where chess doesn't exist. In this world, humanity encounters an alien species, and they say \"let's play a game of Glurg, it's our traditional pastime. Here are the rules, see you tomorrow\" -- and it's the",
+      "timestamp": "2026-03-29T19:39:30+00:00",
+      "url": "https://x.com/fchollet/status/2038340289832878189",
+      "images": [],
+      "likes": 275,
+      "retweets": 13,
+      "views": 48090
+    },
+    {
+      "id": "2036885404188643541",
+      "username": "GavinSBaker",
+      "text": "Most interesting chart I’ve seen in quite some time.  From @eglyman https://t.co/2gYQeOFvnE",
+      "timestamp": "2026-03-25T19:18:18+00:00",
+      "url": "https://x.com/GavinSBaker/status/2036885404188643541",
+      "images": [
+        "https://pbs.twimg.com/media/HER4erBbYAAOuB0.jpg"
+      ],
+      "likes": 580,
+      "retweets": 65,
+      "views": 133900
     }
   ]
 }
