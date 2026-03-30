@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-30T16:29:20.768510",
+  "scraped_at": "2026-03-30T21:06:29.897333",
   "date": "2026-03-30",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 42,
-  "account_count": 32,
+  "tweet_count": 46,
+  "account_count": 35,
   "tweets": [
     {
       "id": "2038337511903440944",
@@ -491,6 +491,52 @@
       "likes": 627,
       "retweets": 48,
       "views": 54419
+    },
+    {
+      "id": "2038563326167310507",
+      "username": "MattNiessner",
+      "text": "📢GaussianGPT: autoregressive 3D Gaussian scene generation.\n\nWe introduce a GPT-style model that directly generates 3D Gaussian scenes, token by token, in a series of small, discrete decision steps. Generation, completion, and large-scale outpainting in a single pipeline.\n\nUnlike https://t.co/QCUl7VDPxB",
+      "timestamp": "2026-03-30T10:25:46+00:00",
+      "url": "https://x.com/MattNiessner/status/2038563326167310507",
+      "images": [],
+      "likes": 461,
+      "retweets": 74,
+      "views": 16626
+    },
+    {
+      "id": "2038562934184382840",
+      "username": "roydanroy",
+      "text": "Excited to see a close friend launching a new startup in the AI and security space!",
+      "timestamp": "2026-03-30T10:24:12+00:00",
+      "url": "https://x.com/roydanroy/status/2038562934184382840",
+      "images": [],
+      "likes": 6,
+      "retweets": 0,
+      "views": 1181
+    },
+    {
+      "id": "2038552830638755962",
+      "username": "ClementDelangue",
+      "text": "It’s time for open-source agent tools to rely primarily on open-source models, instead of closed-source APIs that send all your data to the cloud and ultimately will get hacked and/or shut down",
+      "timestamp": "2026-03-30T09:44:03+00:00",
+      "url": "https://x.com/ClementDelangue/status/2038552830638755962",
+      "images": [],
+      "likes": 287,
+      "retweets": 35,
+      "views": 12863
+    },
+    {
+      "id": "2038541839507083305",
+      "username": "PyTorch",
+      "text": "A round of applause for our #PyTorchCon Europe silver sponsors. Paris becomes the center of the #AI world on 7-8 April. 🌍 Join us for two days packed with world-class keynotes, workshops, &amp; specialized tracks on modern AI development. Register: https://t.co/zFEkkeDp2Y Schedule: https://t.co/zxqof1rJF7",
+      "timestamp": "2026-03-30T09:00:23+00:00",
+      "url": "https://x.com/PyTorch/status/2038541839507083305",
+      "images": [
+        "https://pbs.twimg.com/media/HEpa-8FXAAAxxFY.jpg"
+      ],
+      "likes": 6,
+      "retweets": 0,
+      "views": 2773
     }
   ]
 }
