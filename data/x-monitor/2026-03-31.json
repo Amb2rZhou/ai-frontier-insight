@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-31T04:44:48.399317",
+  "scraped_at": "2026-03-31T07:48:51.357422",
   "date": "2026-03-31",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 44,
-  "account_count": 30,
+  "tweet_count": 55,
+  "account_count": 37,
   "tweets": [
     {
       "id": "2038664176395248093",
@@ -519,6 +519,134 @@
       "likes": 10,
       "retweets": 3,
       "views": 2779
+    },
+    {
+      "id": "2038764782384554173",
+      "username": "chelseabfinn",
+      "text": "Agents like Claude Code do amazing things relying critically on hand-engineered harnesses\n\nWe show how agents can optimize the harness w.r.t. end performance\n\nKey idea: store all experience in a filesystem &amp; allow agents to selectively inspect it\n\nPaper: https://t.co/AsNRE9KzyF",
+      "timestamp": "2026-03-30T23:46:17+00:00",
+      "url": "https://x.com/chelseabfinn/status/2038764782384554173",
+      "images": [],
+      "likes": 1,
+      "retweets": 0,
+      "views": 42
+    },
+    {
+      "id": "2038760964049567768",
+      "username": "embirico",
+      "text": "given the number of people who use codex to review claude, we decided to get a little cheecky",
+      "timestamp": "2026-03-30T23:31:06+00:00",
+      "url": "https://x.com/embirico/status/2038760964049567768",
+      "images": [],
+      "likes": 15,
+      "retweets": 0,
+      "views": 621
+    },
+    {
+      "id": "2038760847473009083",
+      "username": "a16z",
+      "text": "Marc Andreessen says AI is the \"silver bullet excuse\" for companies laying people off, but most layoffs are actually due to higher interest rates and overstaffing during COVID:\n\n\"This entire labor displacement thing is 100% incorrect. It's completely wrong. It's classic zero-sum https://t.co/KkaYgyaN5S",
+      "timestamp": "2026-03-30T23:30:39+00:00",
+      "url": "https://x.com/a16z/status/2038760847473009083",
+      "images": [],
+      "likes": 23,
+      "retweets": 2,
+      "views": 2506
+    },
+    {
+      "id": "2038753047434715640",
+      "username": "deliprao",
+      "text": "Every time PC writes \"raise questions about how broadly applicable and reliable the proposed approach will be in practice\" for a paper, it will without doubt be a high-impact paper.  Yolo/Dropout/Knowledge Distillation/PageRank/... It's the inverse-Cramer rule for academia.",
+      "timestamp": "2026-03-30T22:59:39+00:00",
+      "url": "https://x.com/deliprao/status/2038753047434715640",
+      "images": [],
+      "likes": 1,
+      "retweets": 0,
+      "views": 374
+    },
+    {
+      "id": "2038752860192518294",
+      "username": "ClementDelangue",
+      "text": "So proud to have @ggerganov and @ggml_org part of the @huggingface team. One of the unsung heroes of AI, powering the most widely used open-source runtime for local AI!",
+      "timestamp": "2026-03-30T22:58:54+00:00",
+      "url": "https://x.com/ClementDelangue/status/2038752860192518294",
+      "images": [],
+      "likes": 29,
+      "retweets": 1,
+      "views": 2503
+    },
+    {
+      "id": "2038747913078362262",
+      "username": "thsottiaux",
+      "text": "You can now experience the power of codex while the little orange thing keeps you company. Works with your ChatGPT subscription, just as everywhere else.\n\nClearly proof you can just build things. Have fun",
+      "timestamp": "2026-03-30T22:39:15+00:00",
+      "url": "https://x.com/thsottiaux/status/2038747913078362262",
+      "images": [],
+      "likes": 456,
+      "retweets": 15,
+      "views": 25013
+    },
+    {
+      "id": "2038742692038119592",
+      "username": "stevenbjohnson",
+      "text": "New @NotebookLM: The Science Of Ben Franklin, a featured notebook created with @googlearts and one of the world's most esteemed scientific orgs, @royalsociety. Original papers, letters, contemporary sources, and studio creations give us a new vista into Franklin's work.\n\nThis https://t.co/Xc73UPsUUQ",
+      "timestamp": "2026-03-30T22:18:30+00:00",
+      "url": "https://x.com/stevenbjohnson/status/2038742692038119592",
+      "images": [
+        "https://pbs.twimg.com/media/HEsRBMYaQAAgOT-.jpg",
+        "https://pbs.twimg.com/media/HEsRBMZbEAA376Z.jpg",
+        "https://pbs.twimg.com/media/HEsRBMaa8AAwni-.jpg",
+        "https://pbs.twimg.com/media/HEsRBMjbsAAb4do.jpg"
+      ],
+      "likes": 6,
+      "retweets": 0,
+      "views": 673
+    },
+    {
+      "id": "2038740688473334075",
+      "username": "wightmanr",
+      "text": "So issue 2 has very recently been fixed in the nightlies. Yay. Now on #1, if we do set the a, b cutoffs in a range of 2-3σ (where it's actually truncating), is there actually any difference in training outcome for recent LLM models and training best practices vs just using",
+      "timestamp": "2026-03-30T22:10:32+00:00",
+      "url": "https://x.com/wightmanr/status/2038740688473334075",
+      "images": [],
+      "likes": 2,
+      "retweets": 0,
+      "views": 444
+    },
+    {
+      "id": "2038724952547803364",
+      "username": "ClementDelangue",
+      "text": "A lot of people mistake inadequate scaffolding for a lack of capability in smaller local models. You can't expect a system that was built for large model APIs to work out of the box magically with smaller local models.\n\nSimilarly, many people fine-tune poorly and then conclude",
+      "timestamp": "2026-03-30T21:08:01+00:00",
+      "url": "https://x.com/ClementDelangue/status/2038724952547803364",
+      "images": [],
+      "likes": 76,
+      "retweets": 8,
+      "views": 6162
+    },
+    {
+      "id": "2038721865028706676",
+      "username": "ClementDelangue",
+      "text": "A lot of people mistake inadequate scaffolding for a lack of capability in smaller local models. You can't expect a system that was built for large model APIs to work out of the box magically with smaller local models.\n\nSimilarly, many people fine-tune poorly and then conclude",
+      "timestamp": "2026-03-30T20:55:44+00:00",
+      "url": "https://x.com/ClementDelangue/status/2038721865028706676",
+      "images": [],
+      "likes": 28,
+      "retweets": 0,
+      "views": 4122
+    },
+    {
+      "id": "2038342798659723373",
+      "username": "NielsRogge",
+      "text": "Codex + @huggingface plugins are a great combo\n\nWith the new `hf-mount` CLI, agents can mount Buckets and repos as local filesystems. \n\nHence, they don't need to wait to download or upload stuff, and just work as if they were local 🤯\n\nPretty amazing! https://t.co/XFtclMUqY0",
+      "timestamp": "2026-03-29T19:49:28+00:00",
+      "url": "https://x.com/NielsRogge/status/2038342798659723373",
+      "images": [
+        "https://pbs.twimg.com/media/HEmHeW2agAAuHsY.jpg"
+      ],
+      "likes": 29,
+      "retweets": 8,
+      "views": 1856
     }
   ]
 }
