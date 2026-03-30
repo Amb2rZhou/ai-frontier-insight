@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-31T01:12:06.214109",
+  "scraped_at": "2026-03-31T04:44:48.399317",
   "date": "2026-03-31",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 26,
-  "account_count": 18,
+  "tweet_count": 44,
+  "account_count": 30,
   "tweets": [
     {
       "id": "2038664176395248093",
@@ -311,6 +311,214 @@
       "likes": 13,
       "retweets": 4,
       "views": 2086
+    },
+    {
+      "id": "2038715203940954457",
+      "username": "omarsar0",
+      "text": "This is really cool! I was already calling Codex inside of Claude Code, but this plugin should make it feel smoother to delegate tasks like reviews, refactoring, and other complex research tasks that I use Codex for.",
+      "timestamp": "2026-03-30T20:29:16+00:00",
+      "url": "https://x.com/omarsar0/status/2038715203940954457",
+      "images": [],
+      "likes": 8,
+      "retweets": 1,
+      "views": 720
+    },
+    {
+      "id": "2038707398471258295",
+      "username": "boazbaraktcs",
+      "text": "Great work with some preliminary negative results on the impact of mid-training on aligned or misaligned AIs on ultimate model behavior.",
+      "timestamp": "2026-03-30T19:58:15+00:00",
+      "url": "https://x.com/boazbaraktcs/status/2038707398471258295",
+      "images": [],
+      "likes": 13,
+      "retweets": 1,
+      "views": 966
+    },
+    {
+      "id": "2038705891722350596",
+      "username": "Miles_Brundage",
+      "text": "Who called it a woke language model and not an autoprogressive model",
+      "timestamp": "2026-03-30T19:52:16+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2038705891722350596",
+      "images": [],
+      "likes": 14,
+      "retweets": 0,
+      "views": 697
+    },
+    {
+      "id": "2038704756550472002",
+      "username": "GavinSBaker",
+      "text": "Risk/reward seems attractive:\n\nToken consumption accelerating, GPU per hour rental prices going vertical and Tech valuations are broadly below their Covid and Deepseek lows.\n\nSome high quality secular growth names are at mid single digit multiples on real 27/28 numbers.",
+      "timestamp": "2026-03-30T19:47:45+00:00",
+      "url": "https://x.com/GavinSBaker/status/2038704756550472002",
+      "images": [],
+      "likes": 538,
+      "retweets": 39,
+      "views": 54542
+    },
+    {
+      "id": "2038694666544013412",
+      "username": "allen_ai",
+      "text": "Thrilled to have Ai2’s VP of Engineering Jeremy Tryba on stage at @GeekWire's Agents of Transformation event last week. \n\nHe painted a vivid picture of what agentic AI can do for science, and cancer research in particular. 👇 \n\n\"When you have an agent building this tree of https://t.co/aLKupYpfe4",
+      "timestamp": "2026-03-30T19:07:40+00:00",
+      "url": "https://x.com/allen_ai/status/2038694666544013412",
+      "images": [
+        "https://pbs.twimg.com/media/HErl_r-W8AAfswA.jpg"
+      ],
+      "likes": 4,
+      "retweets": 1,
+      "views": 739
+    },
+    {
+      "id": "2038693742094246032",
+      "username": "claudeai",
+      "text": "Auto mode for Claude Code is now available on the Enterprise plan and for API users.\n\nTo try it out, update your install and run claude --enable-auto-mode.",
+      "timestamp": "2026-03-30T19:03:59+00:00",
+      "url": "https://x.com/claudeai/status/2038693742094246032",
+      "images": [],
+      "likes": 1694,
+      "retweets": 99,
+      "views": 143460
+    },
+    {
+      "id": "2038693491153199428",
+      "username": "emollick",
+      "text": "One of the things that is useful about the ChatGPT GPT-5.4 Pro (and also Thinking) harness is that it is quite good at understanding how to read scientific papers, not just relying on text, but also figuring out which figures are key and inspecting those visually. https://t.co/3jHFNWoieP",
+      "timestamp": "2026-03-30T19:03:00+00:00",
+      "url": "https://x.com/emollick/status/2038693491153199428",
+      "images": [
+        "https://pbs.twimg.com/media/HErkVKeX0AAROpW.png"
+      ],
+      "likes": 65,
+      "retweets": 2,
+      "views": 6842
+    },
+    {
+      "id": "2038691045563596886",
+      "username": "Austen",
+      "text": "Kelly's latest app - Clawptimizer - is something we had Kelly build... to optimize Kelly.\n\nIt anlyzes your OpenClaw setup to fix memory, optimize AI token usage, and automatically optimizes all of your config.\n\nHelped us save thousands of dollars/week.\n\nhttps://t.co/ohOlhD91do",
+      "timestamp": "2026-03-30T18:53:16+00:00",
+      "url": "https://x.com/Austen/status/2038691045563596886",
+      "images": [],
+      "likes": 19,
+      "retweets": 2,
+      "views": 4614
+    },
+    {
+      "id": "2038681956532330835",
+      "username": "mitchellh",
+      "text": "I've been working on making the WebAssembly build of libghostty a bit more ergonomic. Here's a weird API I've never written before, but libghostty-vt now has an API to dump its exported structs as JSON with size/alignment/type info to help bindings: https://t.co/FJhbQ9O0Tq\n\nThe https://t.co/vB01CG1fup",
+      "timestamp": "2026-03-30T18:17:09+00:00",
+      "url": "https://x.com/mitchellh/status/2038681956532330835",
+      "images": [
+        "https://pbs.twimg.com/media/HErZ8ooaAAAkVlA.jpg"
+      ],
+      "likes": 116,
+      "retweets": 1,
+      "views": 7002
+    },
+    {
+      "id": "2038681415110344866",
+      "username": "Azure",
+      "text": "Your data is everything. Azure IaaS helps you protect it with enterprise-proven resiliency with built-in business continuity and disaster recovery — helping you to build resilient architectures and plan recovery with confidence. \n\nLearn more in our resource center: https://t.co/QB5NKgajz6",
+      "timestamp": "2026-03-30T18:15:00+00:00",
+      "url": "https://x.com/Azure/status/2038681415110344866",
+      "images": [],
+      "likes": 12,
+      "retweets": 3,
+      "views": 2356
+    },
+    {
+      "id": "2038680759305691586",
+      "username": "emollick",
+      "text": "This is true, but ARC-AGI-3 is also a test designed so that AI gets zero today, just as the earlier ARC-AGI tests were designed . Those tests were then mostly saturated with a year or two.\n\nThe thing to watch with ARC-AGI-3 is whether we see the same progress.",
+      "timestamp": "2026-03-30T18:12:24+00:00",
+      "url": "https://x.com/emollick/status/2038680759305691586",
+      "images": [],
+      "likes": 188,
+      "retweets": 5,
+      "views": 18759
+    },
+    {
+      "id": "2038676960771985816",
+      "username": "minchoi",
+      "text": "Claude just killed many software 😬\nhttps://t.co/ICtay9QxiL",
+      "timestamp": "2026-03-30T17:57:18+00:00",
+      "url": "https://x.com/minchoi/status/2038676960771985816",
+      "images": [],
+      "likes": 249,
+      "retweets": 20,
+      "views": 41489
+    },
+    {
+      "id": "2038673971395068171",
+      "username": "NeurIPSConf",
+      "text": "The Position Paper Track is back at NeurIPS 2026 for the second year, with an expanded scope, and better alignment with the main and Evaluation and Dataset tracks!\n\nHead to the Call for Paper at https://t.co/bcgamskTyY for all the important dates and information and read our",
+      "timestamp": "2026-03-30T17:45:26+00:00",
+      "url": "https://x.com/NeurIPSConf/status/2038673971395068171",
+      "images": [],
+      "likes": 43,
+      "retweets": 8,
+      "views": 6027
+    },
+    {
+      "id": "2038668940201570589",
+      "username": "NVIDIARobotics",
+      "text": "NVIDIA IGX Thor is now available. 🎉\n\nHave questions? Join our experts for a live webinar on Wednesday, April 15 at 9 AM PT to learn how IGX Thor delivers real-time AI performance and functional safety for autonomous robots, surgical systems, and industrial automation at the https://t.co/uXiIUCTaEu",
+      "timestamp": "2026-03-30T17:25:26+00:00",
+      "url": "https://x.com/NVIDIARobotics/status/2038668940201570589",
+      "images": [
+        "https://pbs.twimg.com/media/HErOmNgWcAA-LO6.jpg"
+      ],
+      "likes": 38,
+      "retweets": 8,
+      "views": 2324
+    },
+    {
+      "id": "2038668801256968381",
+      "username": "omarsar0",
+      "text": "Computer use now available in Claude Code.\n\nWaited a long time for this.",
+      "timestamp": "2026-03-30T17:24:53+00:00",
+      "url": "https://x.com/omarsar0/status/2038668801256968381",
+      "images": [],
+      "likes": 39,
+      "retweets": 2,
+      "views": 5612
+    },
+    {
+      "id": "2038666307738964466",
+      "username": "tri_dao",
+      "text": "It's my favorite kind of work: linear algebra insight + fast kernels.\nWhen playing w Muon a while ago, we were thinking why not speed it up by operating on the small square matrix X X^T instead of the large rectangular matrix X. Jack, Noah, and Berlin spent many months",
+      "timestamp": "2026-03-30T17:14:59+00:00",
+      "url": "https://x.com/tri_dao/status/2038666307738964466",
+      "images": [],
+      "likes": 518,
+      "retweets": 45,
+      "views": 29936
+    },
+    {
+      "id": "2038664772632121573",
+      "username": "emollick",
+      "text": "Responsible OpenClaw owners do not let their Claws post on social media on their behalf. They make terrible and very boring commentators.",
+      "timestamp": "2026-03-30T17:08:53+00:00",
+      "url": "https://x.com/emollick/status/2038664772632121573",
+      "images": [],
+      "likes": 133,
+      "retweets": 3,
+      "views": 7837
+    },
+    {
+      "id": "2038054127142346868",
+      "username": "PetarV_93",
+      "text": "~3 days left to apply to attend EEML'26 in Cetinje 🇲🇪  (link below).\n\nWe've faced unprecedented levels of interest and therefore will **not** be extending the deadline after the 31st.\n\nThe speaker lineup is stellar, atmosphere will be amazing; you don't want to miss this one :) https://t.co/NNLtavyV2v",
+      "timestamp": "2026-03-29T00:42:23+00:00",
+      "url": "https://x.com/PetarV_93/status/2038054127142346868",
+      "images": [
+        "https://pbs.twimg.com/media/HEifbTTW0AAM8sy.jpg"
+      ],
+      "likes": 10,
+      "retweets": 3,
+      "views": 2779
     }
   ]
 }
