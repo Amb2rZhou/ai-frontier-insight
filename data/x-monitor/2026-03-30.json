@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-30T13:27:23.150475",
+  "scraped_at": "2026-03-30T16:29:20.768510",
   "date": "2026-03-30",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 34,
-  "account_count": 28,
+  "tweet_count": 42,
+  "account_count": 32,
   "tweets": [
     {
       "id": "2038337511903440944",
@@ -399,6 +399,98 @@
       "likes": 54,
       "retweets": 8,
       "views": 10171
+    },
+    {
+      "id": "2038527235473248594",
+      "username": "giffmana",
+      "text": "I thought I was being clever with something I did in my code. Chatted with the LLM about it, and it agrees this is a good idea, but then brutally mogs me with a causal side-note of \"[...] That's the standard trick for training loops [...]\"\n\nOuch! https://t.co/jmMUjUAsSD",
+      "timestamp": "2026-03-30T08:02:21+00:00",
+      "url": "https://x.com/giffmana/status/2038527235473248594",
+      "images": [
+        "https://pbs.twimg.com/media/HEpNodaaMAAj_kJ.png"
+      ],
+      "likes": 11,
+      "retweets": 0,
+      "views": 815
+    },
+    {
+      "id": "2038526769494430197",
+      "username": "PyTorch",
+      "text": "The Training Systems track at #PyTorchCon Europe, 7-8 April, explores distributed training, infrastructure optimization &amp; scaling models across modern hardware. Learn more: https://t.co/tqXMnTjCrv\n\n🎟 Register → https://t.co/zFEkkeDp2Y https://t.co/bgGPQ1baMl",
+      "timestamp": "2026-03-30T08:00:30+00:00",
+      "url": "https://x.com/PyTorch/status/2038526769494430197",
+      "images": [],
+      "likes": 5,
+      "retweets": 2,
+      "views": 815
+    },
+    {
+      "id": "2038522843252551880",
+      "username": "Thom_Wolf",
+      "text": "the LLM is the computer",
+      "timestamp": "2026-03-30T07:44:54+00:00",
+      "url": "https://x.com/Thom_Wolf/status/2038522843252551880",
+      "images": [],
+      "likes": 7,
+      "retweets": 1,
+      "views": 1198
+    },
+    {
+      "id": "2038512069549691367",
+      "username": "shaneguML",
+      "text": "2/3 of Japanese population are monthly active on X. And many post through anonymous accounts (inherited from 2chan days since 1999).\n\nAnalogy: millions of Roon's competing and self-evolving for the past 25 years. It's the frontier lab for posting.",
+      "timestamp": "2026-03-30T07:02:05+00:00",
+      "url": "https://x.com/shaneguML/status/2038512069549691367",
+      "images": [],
+      "likes": 34,
+      "retweets": 1,
+      "views": 4889
+    },
+    {
+      "id": "2038494612583543254",
+      "username": "emollick",
+      "text": "I would expect that a lot of things that were old hat to experts, but completely inaccessible to most people, will go viral in the coming months.\n\nSure, anyone could have done those things before, but it required a lot of deep knowledge. Now the AI can make it happen by asking.",
+      "timestamp": "2026-03-30T05:52:43+00:00",
+      "url": "https://x.com/emollick/status/2038494612583543254",
+      "images": [],
+      "likes": 78,
+      "retweets": 6,
+      "views": 10543
+    },
+    {
+      "id": "2038225369191391370",
+      "username": "giffmana",
+      "text": "I stopped putting progress indicators in my code. I just have a codex session running and ask it \"look at the input and output files and read the tmux pane, then give me an ETA estimate.\"\n\nAnd then just \"And now?\" every now and then. https://t.co/aUwAfyjvFW",
+      "timestamp": "2026-03-29T12:02:51+00:00",
+      "url": "https://x.com/giffmana/status/2038225369191391370",
+      "images": [
+        "https://pbs.twimg.com/media/HEk6-F5WYAAXWzC.png"
+      ],
+      "likes": 180,
+      "retweets": 7,
+      "views": 20901
+    },
+    {
+      "id": "2038036319436464226",
+      "username": "mathemagic1an",
+      "text": "If Nabokov were alive, he would write a novel comprised of sequential Claude chats\n\nThe books's index would be the MEMORIES.md and associated filesystem",
+      "timestamp": "2026-03-28T23:31:38+00:00",
+      "url": "https://x.com/mathemagic1an/status/2038036319436464226",
+      "images": [],
+      "likes": 11,
+      "retweets": 1,
+      "views": 2585
+    },
+    {
+      "id": "2037911242820796883",
+      "username": "natolambert",
+      "text": "A few facts, while the dust is settling.\n\nAi2 still is...\n- releasing open models, folks want to, and it's actually required in the NSF grant\n- using substantial compute to do so from said grant\n- funded additionally by FFST (new funding body) on top of NSF, for work in open",
+      "timestamp": "2026-03-28T15:14:37+00:00",
+      "url": "https://x.com/natolambert/status/2037911242820796883",
+      "images": [],
+      "likes": 627,
+      "retweets": 48,
+      "views": 54419
     }
   ]
 }
