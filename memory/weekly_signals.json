@@ -1,271 +1,53 @@
 {
-  "current_week": "2026-W12",
+  "current_week": "2026-W13",
   "days": {
-    "2026-03-23": [
+    "2026-03-30": [
       {
-        "title": "NVIDIA Releases Nemotron-Cascade 2: Efficient 30B MoE Model",
-        "signal_text": "NVIDIA 发布了 Nemotron-Cascade 2，这是一个 300亿参数的 MoE 模型，每次推理仅激活 30亿参数。该模型通过级联 RL 和多领域策略蒸馏进行后训练，展现出强大的推理和智能体能力，在紧凑规模下匹配前沿开源模型。",
-        "signal_strength": 0.85,
-        "sources": [
-          {
-            "name": "HuggingFace Papers (NVIDIA)",
-            "url": "https://huggingface.co/papers/2603.19220"
-          },
-          {
-            "name": "HuggingFace Model",
-            "url": "https://huggingface.co/nvidia/Nemotron-Cascade-2-30B-A3B"
-          }
-        ],
-        "tags": [
-          "技术突破",
-          "开源生态",
-          "推理效率提升"
-        ],
-        "raw_item_indices": [
-          76,
-          101
-        ]
-      },
-      {
-        "title": "Cursor Admits New Coding Model Built on Moonshot AI's Kimi",
-        "signal_text": "据 TechCrunch 报道，Cursor 承认其新的编码模型是基于月之暗面（Moonshot AI）的 Kimi 构建的。这验证了中国开源模型的影响力，但也因当前地缘政治环境而显得尤为敏感。",
+        "title": "OpenAI Codex Launches Security Feature for Vulnerability Detection",
+        "signal_text": "OpenAI 官方开发者账号宣布 Codex 安全功能，可用于查找、验证和修复代码漏洞，获 290+ likes 和 35k+ views 关注。",
         "signal_strength": 0.8,
         "sources": [
           {
-            "name": "TechCrunch",
-            "url": "https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/"
+            "name": "@OpenAIDevs (OpenAI)",
+            "url": "https://x.com/OpenAIDevs/status/2038066627842043963"
           }
         ],
         "tags": [
-          "开源生态",
-          "头部公司战略动作",
-          "中国AI模型"
-        ],
-        "raw_item_indices": [
-          15
-        ]
-      },
-      {
-        "title": "Baidu's SAMA Model for Instruction-Guided Video Editing",
-        "signal_text": "百度团队提出 SAMA 模型，采用分解式方法进行指令引导的视频编辑，将语义锚定与运动建模分离，通过预训练组件实现运动保持的编辑。该模型在 HuggingFace 上获得 62 个赞。",
-        "signal_strength": 0.75,
-        "sources": [
-          {
-            "name": "HuggingFace Papers (BAIDU)",
-            "url": "https://huggingface.co/papers/2603.19228"
-          }
-        ],
-        "tags": [
-          "内容创作与理解",
-          "多模态生成",
-          "视频编辑"
-        ],
-        "raw_item_indices": [
-          73
-        ]
-      },
-      {
-        "title": "Elon Musk Announces Terafab Chip Plant for AI and Robotics",
-        "signal_text": "据 The Verge 和 TechCrunch 报道，Elon Musk 宣布计划在德克萨斯州奥斯汀建设 Terafab 芯片工厂，由特斯拉和 SpaceX 联合运营，旨在为机器人、人工智能和太空数据中心大规模生产芯片。",
-        "signal_strength": 0.75,
-        "sources": [
-          {
-            "name": "The Verge",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/898722/musk-terafab-chip-plant"
-          },
-          {
-            "name": "TechCrunch",
-            "url": "https://techcrunch.com/2026/03/22/elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla/"
-          }
-        ],
-        "tags": [
-          "AI硬件竞争",
+          "内容安全与治理",
+          "代码安全",
           "头部公司战略动作"
         ],
         "raw_item_indices": [
-          19,
-          22
+          35
         ]
       },
       {
-        "title": "Research: Alignment Makes LLMs Normative, Not Descriptive",
-        "signal_text": "Technion Israel Institute of Technology 的研究表明，语言模型的后训练对齐在人类行为预测和规范性表现之间造成了权衡。基础模型能更好地预测真实的人类行为，而对齐后的模型则表现出更规范但预测准确性更差的行为。",
+        "title": "Nicolas Carlini Claims Claude Outperforms Him in Security Research",
+        "signal_text": "知名安全研究员 Nicolas Carlini（Google Scholar 引用 6.7万+）表示，Claude 在安全研究方面比他更出色，并利用其发现了 Linux 内核中一个自 2003 年存在的漏洞。",
         "signal_strength": 0.7,
         "sources": [
           {
-            "name": "HuggingFace Papers (Technion)",
-            "url": "https://huggingface.co/papers/2603.17218"
+            "name": "Reddit (引用 Nicolas Carlini 观点)",
+            "url": "https://www.reddit.com/r/artificial/comments/1s738xf/nicolas_carlini_672k_citations_on_google_scholar/"
           }
         ],
         "tags": [
           "内容安全与治理",
-          "AI伦理",
-          "模型对齐"
+          "AI 能力评估",
+          "头部公司战略动作"
         ],
         "raw_item_indices": [
-          77
+          17
         ]
       },
       {
-        "title": "Memento-Skills: Let Agents Design Agents via Memory-Based RL",
-        "signal_text": "伦敦大学学院的研究团队提出 Memento-Skills，一个通用语言模型智能体系统，可通过基于记忆的强化学习，利用状态化提示自主设计和改进特定任务智能体。",
-        "signal_strength": 0.7,
-        "sources": [
-          {
-            "name": "HuggingFace Papers (University College London)",
-            "url": "https://huggingface.co/papers/2603.18743"
-          }
-        ],
-        "tags": [
-          "Agent 与新交互范式",
-          "AI Agent 框架",
-          "自主任务执行"
-        ],
-        "raw_item_indices": [
-          78
-        ]
-      },
-      {
-        "title": "New Benchmark LVOmniBench Reveals Challenges in Long Audio-Video Understanding",
-        "signal_text": "新推出的长音频-视频理解基准 LVOmniBench 揭示了当前全能模态大语言模型在处理长篇幅多模态输入方面面临显著挑战。",
+        "title": "OpenClaw Agent Framework Update Gains High Engagement",
+        "signal_text": "OpenClaw Agent 框架发布 2026.3.28 版本更新，引入插件审批钩子、xAI Responses API 集成等功能，相关推文获 1000+ likes 和 74k+ views 的高互动量。",
         "signal_strength": 0.65,
         "sources": [
           {
-            "name": "HuggingFace Papers",
-            "url": "https://huggingface.co/papers/2603.19217"
-          }
-        ],
-        "tags": [
-          "内容理解",
-          "多模态融合",
-          "评估基准"
-        ],
-        "raw_item_indices": [
-          82
-        ]
-      },
-      {
-        "title": "Community Concern Over AI Security in Open-Weight Models",
-        "signal_text": "一个名为 Worm-GPT-LLM-2026 的高性能 C++ LLM 红队测试执行引擎在 GitHub 上获得关注（74 stars），该项目旨在部署动态越狱载荷、绕过对齐护栏。这反映了社区对开源模型安全漏洞的持续关注和工具化趋势。",
-        "signal_strength": 0.65,
-        "sources": [
-          {
-            "name": "GitHub Trending",
-            "url": "https://github.com/dubermandeer/Worm-GPT-LLM-2026"
-          }
-        ],
-        "tags": [
-          "内容安全与治理",
-          "AI安全漏洞",
-          "开源生态"
-        ],
-        "raw_item_indices": [
-          61
-        ]
-      },
-      {
-        "title": "Game Developer Apologizes for Use of AI Art in 'Crimson Desert'",
-        "signal_text": "据 The Verge 报道，游戏《赤色沙漠》的开发商为其在游戏中使用 AI 生成素材而道歉，称本意是在发布前替换掉这些素材。此事引发了关于游戏开发中 AI 艺术使用和透明度的行业讨论。",
-        "signal_strength": 0.6,
-        "sources": [
-          {
-            "name": "The Verge",
-            "url": "https://www.theverge.com/games/898771/crimson-desert-dev-apologizes-ai-art"
-          }
-        ],
-        "tags": [
-          "内容安全与治理",
-          "AI生成内容检测",
-          "行业风险"
-        ],
-        "raw_item_indices": [
-          16
-        ]
-      },
-      {
-        "title": "Industry Discussion: AI Agents Still in Early Adoption Phase",
-        "signal_text": "Box CEO Aaron Levie 发推（获 25 likes, 2636 views）指出，智能体技术目前仍处于非常早期的阶段，大多数公司甚至尚未规模化使用编码智能体，更不用说其他知识工作，我们仍处于 AI 工作的“聊天机器人时代”。",
-        "signal_strength": 0.6,
-        "sources": [
-          {
-            "name": "Twitter (@levie)",
-            "url": "https://x.com/levie/status/2035762343502836020"
-          }
-        ],
-        "tags": [
-          "Agent 与新交互范式",
-          "行业洞察"
-        ],
-        "raw_item_indices": [
-          38
-        ]
-      }
-    ],
-    "2026-03-24": [
-      {
-        "title": "NVIDIA CEO Jensen Huang Claims AGI Has Been Achieved",
-        "signal_text": "据 The Verge 报道，NVIDIA CEO 黄仁勋在 Lex Fridman 播客中表示“我认为我们已经实现了 AGI”。这一争议性言论再次引发了关于 AGI 定义和当前 AI 能力界限的行业讨论。",
-        "signal_strength": 0.85,
-        "sources": [
-          {
-            "name": "The Verge",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/899086/jensen-huang-nvidia-agi"
-          }
-        ],
-        "tags": [
-          "头部公司战略动作",
-          "行业趋势"
-        ],
-        "raw_item_indices": [
-          29
-        ]
-      },
-      {
-        "title": "Meta Hires AI Agent Startup Dreamer Team",
-        "signal_text": "据 The Information 报道，Meta 已收购 AI Agent 初创公司 Dreamer 的创始团队，包括 Hugo Barra、David Singleton 和 Nicholas Jitkoff，他们将加入 Meta 的 Superintelligence Labs 团队。这表明 Meta 正在通过人才收购加强其在自主 AI 智能体领域的布局。",
-        "signal_strength": 0.8,
-        "sources": [
-          {
-            "name": "The Information",
-            "url": "https://www.theinformation.com/briefings/meta-hires-ai-startup-dreamers-team"
-          }
-        ],
-        "tags": [
-          "头部公司战略动作",
-          "Agent 与新交互范式",
-          "人才流动"
-        ],
-        "raw_item_indices": [
-          25
-        ]
-      },
-      {
-        "title": "WorldAgents: Agentic Framework for 3D World Generation from 2D Models",
-        "signal_text": "据慕尼黑工业大学教授 @MattNiessner 介绍，其团队提出“WorldAgents”框架，通过 Director (VLM)、Generator (如 Flux) 和 Verifier (VLM) 的智能体协作，无需训练即可从 2D 图像模型生成高保真 3D 世界。这为多模态内容生成提供了新的 Agent 范式。",
-        "signal_strength": 0.8,
-        "sources": [
-          {
-            "name": "Matt Niessner (@MattNiessner)",
-            "url": "https://x.com/MattNiessner/status/2036019740930408905"
-          }
-        ],
-        "tags": [
-          "内容创作与理解",
-          "Agent 与新交互范式",
-          "多模态融合"
-        ],
-        "raw_item_indices": [
-          55
-        ]
-      },
-      {
-        "title": "OpenClaw Releases Major Update with Plugin Marketplace and New Models",
-        "signal_text": "AI 编码智能体平台 OpenClaw 发布 2026.3.22 大版本更新，引入 ClawHub 插件市场，集成 MiniMax M2.7、GPT-5.4-mini/nano 等新模型，支持 per-agent 推理，并增强了搜索和沙箱功能。该推文获 3300+ likes，显示社区高度关注。",
-        "signal_strength": 0.8,
-        "sources": [
-          {
-            "name": "OpenClaw (@openclaw)",
-            "url": "https://x.com/openclaw/status/2036043904949330407"
+            "name": "@openclaw",
+            "url": "https://x.com/openclaw/status/2038084923517796839"
           }
         ],
         "tags": [
@@ -274,1155 +56,102 @@
           "工具调用"
         ],
         "raw_item_indices": [
-          69
+          33
         ]
       },
       {
-        "title": "Google Gemini Gains On-Device Agent Capabilities for Tasks",
-        "signal_text": "据 The Information 报道，Google 的 Gemini 应用已悄然为最新 Pixel 和三星手机用户提供新功能：可通过语音指令让 Gemini 代理完成叫 Uber、订 DoorDash 等任务。这表明 Google 正在移动端推进轻量级、本地的 AI Agent 交互。",
-        "signal_strength": 0.8,
+        "title": "Research Highlights Cost Misleading in API Pricing for Reasoning Models",
+        "signal_text": "新研究量化了所列 API 价格在推理模型中的误导性，在 8 个前沿推理模型和 9 个任务中，21.8% 的模型对比较显示出实际成本与标价不符。该推文由 AI 策展人 @omarsar0 转发，获 60+ likes。",
+        "signal_strength": 0.65,
         "sources": [
           {
-            "name": "The Information",
-            "url": "https://www.theinformation.com/articles/googles-gemini-steals-march-openai"
-          }
-        ],
-        "tags": [
-          "头部公司战略动作",
-          "Agent 与新交互范式",
-          "端侧部署"
-        ],
-        "raw_item_indices": [
-          4
-        ]
-      },
-      {
-        "title": "NVIDIA Releases OpenShell for Agent Governance",
-        "signal_text": "NVIDIA AI 官方宣布推出 OpenShell，这是一个旨在为自主 AI 智能体提供内置安全和隐私控制的新框架，以确保其负责任地部署。这表明行业正从单纯追求 Agent 能力转向关注其安全治理。",
-        "signal_strength": 0.75,
-        "sources": [
-          {
-            "name": "NVIDIA AI (@NVIDIAAI)",
-            "url": "https://x.com/NVIDIAAI/status/2036095627348615493"
-          }
-        ],
-        "tags": [
-          "Agent 与新交互范式",
-          "内容安全与治理",
-          "开源生态"
-        ],
-        "raw_item_indices": [
-          63
-        ]
-      },
-      {
-        "title": "Research: Current Alignment Evaluation Methods May Be Flawed",
-        "signal_text": "一篇 arXiv 论文（2603.18280）指出，当前的 AI 对齐评估主要衡量概念检测和拒绝，但真正的对齐更多是通过内部知识路由实现的。该研究挑战了现有评估基准的有效性，对内容安全和模型治理有重要启示。",
-        "signal_strength": 0.75,
-        "sources": [
-          {
-            "name": "arXiv 2603.18280",
-            "url": "https://arxiv.org/abs/2603.18280"
-          }
-        ],
-        "tags": [
-          "内容安全与治理",
-          "技术突破"
-        ],
-        "raw_item_indices": [
-          39
-        ]
-      },
-      {
-        "title": "UnslothAI Enables RL Fine-tuning of Qwen3.5 on Consumer GPUs",
-        "signal_text": "UnslothAI 团队发布免费教程，展示如何在仅 8GB VRAM 的消费级 GPU 上，使用视觉 GRPO 方法对 Qwen3.5-2B 模型进行强化学习微调，使其自主解决数学问题。这大幅降低了高效模型定制和优化的门槛。",
-        "signal_strength": 0.75,
-        "sources": [
-          {
-            "name": "UnslothAI (@UnslothAI)",
-            "url": "https://x.com/UnslothAI/status/2036070709903179835"
+            "name": "@omarsar0 (转发研究)",
+            "url": "https://x.com/omarsar0/status/2038271724937224386"
           }
         ],
         "tags": [
           "技术突破",
-          "推理效率提升",
-          "开源生态"
-        ],
-        "raw_item_indices": [
-          68
-        ]
-      },
-      {
-        "title": "OpenAI Reportedly Offers High Returns to Raise Capital",
-        "signal_text": "据 @minchoi 援引报道，OpenAI 正在向私募股权公司提供高达 17.5% 的保证回报率以筹集新资金。这反映了 AI 巨头为支撑其庞大的基础设施和研发开支，正在采取激进的融资策略。",
-        "signal_strength": 0.7,
-        "sources": [
-          {
-            "name": "@minchoi (Twitter)",
-            "url": "https://x.com/minchoi/status/2036094385503244463"
-          }
-        ],
-        "tags": [
-          "头部公司战略动作",
+          "推理效率",
           "商业化路径"
         ],
         "raw_item_indices": [
-          64
+          66
         ]
       },
       {
-        "title": "HuggingFace CEO Proposes 'S3 for Agents' Storage Solution",
-        "signal_text": "HuggingFace CEO Clement Delangue 在推文中表示，希望将 HuggingFace 的存储桶打造为“AI 智能体的 S3”，并邀请社区反馈用例。这预示着 AI Agent 生态的基础设施需求正在催生新的标准化服务。",
-        "signal_strength": 0.7,
+        "title": "Lightricks Releases LTX-2.3 Multimodal Video Model",
+        "signal_text": "Lightricks 发布的 LTX-2.3 多模态视频模型在 HuggingFace 上获得 830 likes 和超 136 万次下载，支持图像/文本/音频到视频的多种生成任务。",
+        "signal_strength": 0.65,
         "sources": [
           {
-            "name": "Clement Delangue (@ClementDelangue)",
-            "url": "https://x.com/ClementDelangue/status/2036103377726145004"
+            "name": "HuggingFace Model (Lightricks/LTX-2.3)",
+            "url": "https://huggingface.co/Lightricks/LTX-2.3"
           }
         ],
         "tags": [
-          "Agent 与新交互范式",
-          "开源生态",
-          "基础设施"
-        ],
-        "raw_item_indices": [
-          62
-        ]
-      }
-    ],
-    "2026-03-25": [
-      {
-        "title": "Major PyPI Supply Chain Attack via litellm Library",
-        "signal_text": "前特斯拉 AI 总监、知名 AI 研究员 Andrej Karpathy 发推警告，litellm PyPI 包发生供应链攻击，简单的 `pip install litellm` 就足以窃取 SSH 密钥、云服务凭证、环境变量等敏感信息。该推文获 8700+ likes 和超 129 万 views，引发安全社区巨大震动。",
-        "signal_strength": 0.9,
-        "sources": [
-          {
-            "name": "@karpathy",
-            "url": "https://x.com/karpathy/status/2036487306585268612"
-          }
-        ],
-        "tags": [
-          "内容安全与治理",
-          "AI Security Vulnerabilities",
-          "开源生态"
-        ],
-        "raw_item_indices": [
-          93
-        ]
-      },
-      {
-        "title": "Anthropic Launches Claude Computer Use for Mac Control",
-        "signal_text": "据 VentureBeat 报道，Anthropic 推出了迄今为止最具雄心的消费级 AI Agent，赋予其 Claude 聊天机器人直接控制用户 Mac 的能力，包括点击按钮、打开应用程序和执行任务。这标志着 AI Agent 向实际工作执行迈出了关键一步。",
-        "signal_strength": 0.88,
-        "sources": [
-          {
-            "name": "VentureBeat",
-            "url": "https://venturebeat.com/technology/anthropics-claude-can-now-control-your-mac-escalating-the-fight-to-build-ai"
-          }
-        ],
-        "tags": [
-          "Agent 与新交互范式",
-          "头部公司战略动作",
-          "内容创作与理解"
-        ],
-        "raw_item_indices": [
-          24
-        ]
-      },
-      {
-        "title": "Google DeepMind Partners with Agile Robots for Next-Gen Robotics",
-        "signal_text": "Google DeepMind 官方宣布与 Agile Robots 建立新的研究合作伙伴关系，旨在将 Gemini 基础模型与其硬件集成，以帮助构建下一代更有帮助和实用的机器人。该推文获 600+ likes，引发广泛关注。",
-        "signal_strength": 0.87,
-        "sources": [
-          {
-            "name": "@GoogleDeepMind",
-            "url": "https://x.com/GoogleDeepMind/status/2036418139672482229"
-          }
-        ],
-        "tags": [
-          "头部公司战略动作",
-          "Agent 与新交互范式",
+          "内容创作与理解",
+          "视频生成",
           "多模态融合"
-        ],
-        "raw_item_indices": [
-          62
-        ]
-      },
-      {
-        "title": "Anthropic Details Multi-Agent Harness for Frontend Design and Software Engineering",
-        "signal_text": "Anthropic 工程博客发布新文章，详细介绍了他们如何使用多智能体框架（multi-agent harness）来推动 Claude 在前端设计和长期自主软件工程方面的能力。该推文获 1783 likes，显示社区高度关注。",
-        "signal_strength": 0.86,
-        "sources": [
-          {
-            "name": "@AnthropicAI",
-            "url": "https://x.com/AnthropicAI/status/2036481033621623056"
-          }
-        ],
-        "tags": [
-          "Agent 与新交互范式",
-          "头部公司战略动作",
-          "内容创作与理解"
-        ],
-        "raw_item_indices": [
-          97
-        ]
-      },
-      {
-        "title": "Arm Announces Entry into AI Chip Manufacturing with Major Customers",
-        "signal_text": "据 Wired 报道，芯片设计公司 Arm 宣布开始制造自己的 AI 芯片，并称 Meta、OpenAI、Cerebras 和 Cloudflare 是其新人工智能硬件的首批客户。这标志着 Arm 从 IP 授权向芯片制造的战略转变。",
-        "signal_strength": 0.85,
-        "sources": [
-          {
-            "name": "Wired",
-            "url": "https://wired.com/story/chip-design-firm-arm-is-making-its-own-ai-cpu/"
-          }
-        ],
-        "tags": [
-          "AI Hardware Competition",
-          "头部公司战略动作",
-          "技术突破"
-        ],
-        "raw_item_indices": [
-          30
-        ]
-      },
-      {
-        "title": "Wojciech Zaremba Joins OpenAI Foundation to Lead AI Resilience",
-        "signal_text": "OpenAI 联合创始人 Wojciech Zaremba 宣布将加入 OpenAI Foundation，领导 AI 韧性（AI resilience）工作，专注于最小化 AGI 可能带来的潜在干扰，如对儿童和青少年的影响、模型故障、新兴生物风险等。",
-        "signal_strength": 0.83,
-        "sources": [
-          {
-            "name": "@woj_zaremba",
-            "url": "https://x.com/woj_zaremba/status/2036483827271655917"
-          }
-        ],
-        "tags": [
-          "头部公司战略动作",
-          "内容安全与治理",
-          "AI Safety"
-        ],
-        "raw_item_indices": [
-          95
-        ]
-      },
-      {
-        "title": "Cloudflare Releases Dynamic Workers for 100x Faster AI Agent Execution",
-        "signal_text": "据 VentureBeat 报道，Cloudflare 推出了 Dynamic Workers 公开测试版，这是一个新的轻量级、基于隔离的沙盒系统，旨在改变企业部署 AI Agent 的方式。该系统声称启动时间在毫秒级，内存使用量比容器少 10 倍，可将 AI Agent 代码执行速度提升 100 倍。",
-        "signal_strength": 0.82,
-        "sources": [
-          {
-            "name": "VentureBeat",
-            "url": "https://venturebeat.com/infrastructure/cloudflares-new-dynamic-workers-ditch-containers-to-run-ai-agent-code-100x"
-          }
-        ],
-        "tags": [
-          "AI Infrastructure Optimization",
-          "Agent 与新交互范式",
-          "技术突破"
-        ],
-        "raw_item_indices": [
-          25
-        ]
-      },
-      {
-        "title": "HuggingFace CEO Proposes Open-Sourcing Sora as OpenAI Shuts Down App",
-        "signal_text": "HuggingFace CEO Clement Delangue 发推提议，既然 OpenAI 正在关闭 Sora 应用，不如将其开源，这将是对领域的巨大贡献。该提议获 800+ likes，反映了开源社区对获取前沿视频生成技术的期待。",
-        "signal_strength": 0.8,
-        "sources": [
-          {
-            "name": "@ClementDelangue",
-            "url": "https://x.com/ClementDelangue/status/2036548842099781694"
-          }
-        ],
-        "tags": [
-          "开源生态",
-          "头部公司战略动作",
-          "内容创作与理解"
-        ],
-        "raw_item_indices": [
-          118
-        ]
-      },
-      {
-        "title": "Kleiner Perkins Raises $3.5B to Go All-In on AI Investing",
-        "signal_text": "据 TechCrunch 报道，知名风投机构 Kleiner Perkins 新募集 35 亿美元资金，将全部投入 AI 领域。其中 10 亿美元用于投资早期初创公司，25 亿美元用于后期成长型企业。这表明资本正大规模涌入 AI 赛道。",
-        "signal_strength": 0.79,
-        "sources": [
-          {
-            "name": "TechCrunch",
-            "url": "https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/"
-          }
-        ],
-        "tags": [
-          "行业风险与监管",
-          "投资趋势"
-        ],
-        "raw_item_indices": [
-          2
-        ]
-      },
-      {
-        "title": "AI2 Releases MolmoWeb: Open-Weight Visual Web Agent with 30K Human Trajectories",
-        "signal_text": "据 VentureBeat 报道，非营利研究机构 AI2 发布了 MolmoWeb，一个开源的视觉网页 Agent，包含 30K 人类任务轨迹和完整的训练栈。这为开发者提供了介于封闭 API 和无训练模型的开源框架之间的新选择。",
-        "signal_strength": 0.78,
-        "sources": [
-          {
-            "name": "VentureBeat",
-            "url": "https://venturebeat.com/data/ai2-releases-molmoweb-an-open-weight-visual-web-agent-with-30k-human-task"
-          }
-        ],
-        "tags": [
-          "开源生态",
-          "Agent 与新交互范式",
-          "搜索与推荐"
-        ],
-        "raw_item_indices": [
-          34
-        ]
-      }
-    ],
-    "2026-03-26": [
-      {
-        "title": "Google's TurboQuant Algorithm Cuts KV Cache Memory by 6x",
-        "signal_text": "据 VentureBeat 报道，Google 发布新的 TurboQuant 算法，可将 LLM 推理中的 Key-Value (KV) 缓存内存占用减少 6 倍，速度提升高达 8 倍，成本降低 50% 或更多。该技术通过新的量化方法解决长上下文处理的内存瓶颈，使百万 token 上下文在单 GPU 上更可行。AI 研究员 @DeryaTR_ 和 @minchoi 均指出其重要性。",
-        "signal_strength": 0.85,
-        "sources": [
-          {
-            "name": "VentureBeat",
-            "url": "https://venturebeat.com/infrastructure/googles-new-turboquant-algorithm-speeds-up-ai-memory-8x-cutting-costs-by-50"
-          },
-          {
-            "name": "@DeryaTR_ (AI researcher)",
-            "url": "https://x.com/DeryaTR_/status/2036931243158233407"
-          },
-          {
-            "name": "@minchoi (AI researcher)",
-            "url": "https://x.com/minchoi/status/2036912728351133970"
-          }
-        ],
-        "tags": [
-          "技术突破",
-          "推理效率提升",
-          "搜索与推荐"
-        ],
-        "raw_item_indices": [
-          21,
-          112,
-          115
-        ]
-      },
-      {
-        "title": "Claude Expands Computer Use Tools to Mobile",
-        "signal_text": "Anthropic 的 Claude 宣布其计算机使用工具（如探索 Figma 设计、创建 Canva 幻灯片、查看 Amplitude 仪表板等）现已可在移动端使用。用户可以直接在手机上通过 Claude 调用这些生产力工具，标志着 AI Agent 交互范式的进一步扩展。该推文获 7300+ likes 和 56 万+ views，引发极高关注。",
-        "signal_strength": 0.83,
-        "sources": [
-          {
-            "name": "claudeai",
-            "url": "https://x.com/claudeai/status/2036850783526719610"
-          }
-        ],
-        "tags": [
-          "Agent 与新交互范式",
-          "工具调用",
-          "头部公司战略动作"
-        ],
-        "raw_item_indices": [
-          91
-        ]
-      },
-      {
-        "title": "Google Releases Lyria 3 Pro Music Generation Model",
-        "signal_text": "Google 正式发布 Lyria 3 Pro 音乐生成模型，用户可在更多 Google 产品中创建更长的音乐曲目。据 AI 研究员 @emollick 在获 10k+ views 的推文中分享，该模型可根据文本提示（如将诗歌改编为特定音乐风格）生成高质量音乐，展示了多模态生成能力的进步。",
-        "signal_strength": 0.82,
-        "sources": [
-          {
-            "name": "Google AI Blog",
-            "url": "https://blog.google/innovation-and-ai/technology/ai/lyria-3-pro/"
-          },
-          {
-            "name": "@emollick (AI researcher)",
-            "url": "https://x.com/emollick/status/2036836310447452606"
-          }
-        ],
-        "tags": [
-          "内容创作与理解",
-          "多模态生成",
-          "头部公司战略动作"
-        ],
-        "raw_item_indices": [
-          30,
-          104
-        ]
-      },
-      {
-        "title": "OpenAI Launches AI Safety Bug Bounty Program",
-        "signal_text": "OpenAI 官方宣布推出专注于 AI 滥用和安全风险的 Safety Bug Bounty 计划。该计划在现有安全赏金计划基础上，新增对 AI 特定安全问题和滥用场景的识别，旨在与安全研究社区合作，共同识别和缓解其产品中的风险。该公告获 250+ likes 和 13k+ views。",
-        "signal_strength": 0.8,
-        "sources": [
-          {
-            "name": "OpenAI Newsroom",
-            "url": "https://x.com/OpenAINewsroom/status/2036862362905698334"
-          }
-        ],
-        "tags": [
-          "内容安全与治理",
-          "行业风险与监管",
-          "头部公司战略动作"
-        ],
-        "raw_item_indices": [
-          86
-        ]
-      },
-      {
-        "title": "François Chollet Launches ARC-AGI-3 Benchmark for Agentic AI",
-        "signal_text": "Google 研究员 François Chollet 正式推出 ARC-AGI-3 基准测试，旨在评估 Agentic AI 在接近人类行动效率方面的表现。该基准目前未被现有前沿模型饱和（私有测试集得分低于 1%），Chollet 称其为当前唯一未饱和的 Agentic AI 基准，任何分数跃升都可能意味着 AGI 研究的突破。该系列推文获数万 views。",
-        "signal_strength": 0.8,
-        "sources": [
-          {
-            "name": "@fchollet (Google researcher)",
-            "url": "https://x.com/fchollet/status/2036863769981403497"
-          },
-          {
-            "name": "@fchollet",
-            "url": "https://x.com/fchollet/status/2036868401843626302"
-          }
-        ],
-        "tags": [
-          "Agent 与新交互范式",
-          "技术突破",
-          "评估基准"
-        ],
-        "raw_item_indices": [
-          82,
-          85
-        ]
-      },
-      {
-        "title": "Anthropic Details Claude Code Auto Mode Safety Design",
-        "signal_text": "Anthropic 在工程博客中详细介绍了 Claude Code 自动模式的安全设计。该模式是一个更安全的中间方案，通过构建和测试分类器来做出批准决策，而非完全无需权限提示，旨在平衡自动化与安全性。该博文获 500+ likes 和 22k+ views。",
-        "signal_strength": 0.78,
-        "sources": [
-          {
-            "name": "AnthropicAI",
-            "url": "https://x.com/AnthropicAI/status/2036944806317088921"
-          }
-        ],
-        "tags": [
-          "Agent 与新交互范式",
-          "内容安全与治理",
-          "头部公司战略动作"
-        ],
-        "raw_item_indices": [
-          111
-        ]
-      },
-      {
-        "title": "Cursor AI Enables Cloud Agents to Run on User Infrastructure",
-        "signal_text": "AI 编程助手 Cursor 宣布其云端 Agent 现在可以在用户自有基础设施上运行。用户可以获得相同的云端 Agent 框架和体验，同时将代码和工具执行完全保留在自己的网络内，以满足企业对数据安全和隐私的要求。该公告获 230+ likes 和 6k+ views。",
-        "signal_strength": 0.75,
-        "sources": [
-          {
-            "name": "cursor_ai",
-            "url": "https://x.com/cursor_ai/status/2036873885665419773"
-          }
-        ],
-        "tags": [
-          "Agent 与新交互范式",
-          "企业级应用",
-          "开源生态"
-        ],
-        "raw_item_indices": [
-          78
-        ]
-      },
-      {
-        "title": "ByteDance Seed Team Publishes SIMART for 3D Asset Generation",
-        "signal_text": "字节跳动 Seed 团队在 arXiv 发布论文《SIMART: Decomposing Monolithic Meshes into Sim-ready Articulated Assets via MLLM》。该研究提出了一个统一的多模态大语言模型框架，用于生成可模拟的、关节化的 3D 资产，通过减少 tokenization 开销并提高模拟就绪度，在 3D 内容生成方向取得进展。",
-        "signal_strength": 0.75,
-        "sources": [
-          {
-            "name": "arXiv (ByteDance Seed)",
-            "url": "https://huggingface.co/papers/2603.23386"
-          }
-        ],
-        "tags": [
-          "内容创作与理解",
-          "多模态生成",
-          "头部公司战略动作"
-        ],
-        "raw_item_indices": [
-          164
-        ]
-      },
-      {
-        "title": "Anthropic Study Highlights Growing AI Skills Gap",
-        "signal_text": "据 TechCrunch 报道，Anthropic 的研究发现，AI 尚未大规模取代工作岗位，但早期数据显示不平等正在加剧，有经验的“超级用户”正在获得优势。这引发了人们对未来劳动力分化、技能差距和岗位替代的担忧。",
-        "signal_strength": 0.75,
-        "sources": [
-          {
-            "name": "TechCrunch",
-            "url": "https://techcrunch.com/2026/03/25/the-ai-skills-gap-is-here-says-ai-company-and-power-users-are-pulling-ahead/"
-          }
-        ],
-        "tags": [
-          "行业风险与监管",
-          "头部公司战略动作"
-        ],
-        "raw_item_indices": [
-          14
-        ]
-      },
-      {
-        "title": "PyTorch and Nebius Speed Up DeepSeek-V3 Pre-training by 41%",
-        "signal_text": "PyTorch 官方宣布与 Nebius 合作，使用 TorchTitan 在 256 块 NVIDIA B200 GPU 上加速了 DeepSeek-V3（16B 和 671B）的预训练。通过 TorchAO 的 MXFP8 与 DeepEP 结合，相比 BF16 实现了高达 41% 的训练吞吐量提升（且收敛效果相当）。这展示了开源生态在高效训练大规模模型方面的进展。",
-        "signal_strength": 0.75,
-        "sources": [
-          {
-            "name": "PyTorch",
-            "url": "https://x.com/PyTorch/status/2036884532104736961"
-          }
-        ],
-        "tags": [
-          "技术突破",
-          "开源生态",
-          "推理效率提升"
         ],
         "raw_item_indices": [
           128
         ]
-      }
-    ],
-    "2026-03-27": [
-      {
-        "title": "Google Launches Gemini 3.1 Flash Live for Real-Time Voice and Vision Agents",
-        "signal_text": "Google 正式发布 Gemini 3.1 Flash Live，这是一个专为实时语音和视觉 Agent 设计的模型。据 Google AI 负责人 Jeff Dean 介绍，该模型原生理解音频，能处理复杂指令，在 ComplexFuncBench 和 Scale AI 的 AudioMultiChallenge 上表现领先。产品负责人 Logan Kilpatrick 表示，其在质量、可靠性和延迟方面实现了阶跃式改进，可用于构建语音控制应用。",
-        "signal_strength": 0.9,
-        "sources": [
-          {
-            "name": "Google AI Blog",
-            "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/"
-          },
-          {
-            "name": "Jeff Dean (@JeffDean)",
-            "url": "https://x.com/JeffDean/status/2037200383270170735"
-          },
-          {
-            "name": "Logan Kilpatrick (@OfficialLoganK)",
-            "url": "https://x.com/OfficialLoganK/status/2037187750005240307"
-          }
-        ],
-        "tags": [
-          "内容创作与理解",
-          "Agent 与新交互范式",
-          "头部公司战略动作"
-        ],
-        "raw_item_indices": [
-          35,
-          79,
-          131
-        ]
       },
       {
-        "title": "Intercom Launches Fin Apex 1.0, a Specialized AI Model Outperforming GPT-5.4 in Customer Service",
-        "signal_text": "据 VentureBeat 报道，客户服务平台 Intercom 发布了自研的专用 AI 模型 Fin Apex 1.0。该模型在客户服务解决率上击败了 GPT-5.4 和 Claude Sonnet 4.6，展示了垂直领域专用模型在特定任务上的优势。Intercom CEO 表示，在 AI 时代，赢家将是全栈 AI 公司。",
-        "signal_strength": 0.8,
-        "sources": [
-          {
-            "name": "VentureBeat",
-            "url": "https://venturebeat.com/technology/intercoms-new-post-trained-fin-apex-1-0-beats-gpt-5-4-and-claude-sonnet-4-6"
-          },
-          {
-            "name": "Clement Delangue (@ClementDelangue)",
-            "url": "https://x.com/ClementDelangue/status/2037226458767143371"
-          }
-        ],
-        "tags": [
-          "Agent 与新交互范式",
-          "头部公司战略动作",
-          "开源生态"
-        ],
-        "raw_item_indices": [
-          32,
-          106
-        ]
-      },
-      {
-        "title": "Google Expands Search Live Globally and Launches Chat Migration Tools for Gemini",
-        "signal_text": "Google 宣布其 AI 驱动的实时视觉搜索功能 Search Live 正在全球范围内扩展。同时，Google 推出了“切换工具”，使用户能够轻松地将其他聊天机器人的聊天记录和个人信息迁移到 Gemini，旨在降低用户转换成本。",
-        "signal_strength": 0.8,
-        "sources": [
-          {
-            "name": "Google AI Blog (Search Live)",
-            "url": "https://blog.google/products-and-platforms/products/search/search-live-global-expansion/"
-          },
-          {
-            "name": "TechCrunch (Gemini Migration)",
-            "url": "https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/"
-          }
-        ],
-        "tags": [
-          "搜索与推荐",
-          "头部公司战略动作"
-        ],
-        "raw_item_indices": [
-          9,
-          36
-        ]
-      },
-      {
-        "title": "Chroma Open-Sources Agentic Search Agent Trained with RL",
-        "signal_text": "向量数据库公司 Chroma 在 HuggingFace 上开源了其 Agentic Search Agent，并发布了技术报告。该搜索 Agent 使用强化学习训练，包含用于编辑上下文的剪枝工具、带验证步骤的合成数据管道以及从召回转向精度的课程学习。OpenAI 联合创始人 John Schulman 称赞了其训练效率和开放性。",
-        "signal_strength": 0.75,
-        "sources": [
-          {
-            "name": "Niels Rogge (@NielsRogge)",
-            "url": "https://x.com/NielsRogge/status/2037278806579257849"
-          },
-          {
-            "name": "John Schulman (@johnschulman2)",
-            "url": "https://x.com/johnschulman2/status/2037260655989014706"
-          }
-        ],
-        "tags": [
-          "搜索与推荐",
-          "Agent 与新交互范式",
-          "开源生态"
-        ],
-        "raw_item_indices": [
-          91,
-          127
-        ]
-      },
-      {
-        "title": "Sakana AI Announces Strategic Partnership with Mitsubishi Electric for Agentic AI in Manufacturing",
-        "signal_text": "日本 AI 初创公司 Sakana AI 宣布与三菱电机达成战略合作并获得投资。双方将结合三菱电机在制造业的领域知识和海量数据与 Sakana AI 的技术，共同推动 Agentic AI 在制造业的应用。",
-        "signal_strength": 0.75,
-        "sources": [
-          {
-            "name": "hardmaru (@hardmaru)",
-            "url": "https://x.com/hardmaru/status/2037123533357408415"
-          }
-        ],
-        "tags": [
-          "Agent 与新交互范式",
-          "头部公司战略动作"
-        ],
-        "raw_item_indices": [
-          70
-        ]
-      },
-      {
-        "title": "François Chollet Announces ARC-AGI-4 Release for Early 2027",
-        "signal_text": "Keras 创始人 François Chollet 宣布，下一代 AGI 基准测试 ARC-AGI-4 将于 2027 年初发布。他计划保持年度发布节奏，并确保每个新基准在发布时都未被饱和，以针对最重要的未解决研究问题。",
-        "signal_strength": 0.75,
-        "sources": [
-          {
-            "name": "François Chollet (@fchollet)",
-            "url": "https://x.com/fchollet/status/2037132780505624867"
-          }
-        ],
-        "tags": [
-          "技术突破",
-          "Agent 与新交互范式"
-        ],
-        "raw_item_indices": [
-          69
-        ]
-      },
-      {
-        "title": "DeepMind Paper Analyzes Challenges in Iterative Generative Optimization with LLMs",
-        "signal_text": "Google DeepMind 团队发表论文，分析了使用大语言模型进行迭代式生成优化所面临的挑战。研究发现，关于工件修改和学习证据的隐式设计决策会显著影响成功率，这为改进 AI 辅助创作和设计工具提供了重要见解。",
-        "signal_strength": 0.75,
-        "sources": [
-          {
-            "name": "HuggingFace Papers (DeepMind)",
-            "url": "https://huggingface.co/papers/2603.23994"
-          }
-        ],
-        "tags": [
-          "内容创作与理解",
-          "技术突破",
-          "头部公司战略动作"
-        ],
-        "raw_item_indices": [
-          170
-        ]
-      },
-      {
-        "title": "Meta AI Releases LagerNVS: Latent Geometry for Real-Time Neural View Synthesis",
-        "signal_text": "Meta AI 团队发表论文 LagerNVS，提出一种通过编码器-解码器架构融入 3D 归纳偏置的方法，使神经网络无需显式 3D 重建即可执行新视角合成等 3D 任务，并实现实时渲染。该工作已获得 148 GitHub stars。",
-        "signal_strength": 0.7,
-        "sources": [
-          {
-            "name": "HuggingFace Papers (LagerNVS)",
-            "url": "https://huggingface.co/papers/2603.20176"
-          },
-          {
-            "name": "@_akhaliq (curator)",
-            "url": "https://x.com/_akhaliq/status/2037233908857582041"
-          }
-        ],
-        "tags": [
-          "内容创作与理解",
-          "技术突破",
-          "头部公司战略动作"
-        ],
-        "raw_item_indices": [
-          103,
-          178
-        ]
-      },
-      {
-        "title": "Benchmark Shows Performance Leap for Agentic AI in OSWorld",
-        "signal_text": "OSWorld 基准测试排行榜显示，多个基于 Opus 4.5 的 Agent 系统（如 agent s3 w/ Opus 4.5 bBoN 和 UiPath Screen Agent w/ Opus 4.5）排名大幅跃升（上升 6-9 名），得分达到 66-67%，表明近期 Agent 在操作系统任务上的性能有显著进步。",
-        "signal_strength": 0.7,
-        "sources": [
-          {
-            "name": "OSWorld Benchmark",
-            "url": "https://os-world.github.io/"
-          }
-        ],
-        "tags": [
-          "Agent 与新交互范式",
-          "技术突破"
-        ],
-        "raw_item_indices": [
-          204,
-          205,
-          206,
-          207
-        ]
-      },
-      {
-        "title": "Wikipedia Cracks Down on AI-Generated Article Writing",
-        "signal_text": "据 TechCrunch 报道，维基百科正在加强对 AI 生成文章写作的管控。该网站一直在与 AI 生成内容的问题作斗争，其政策可能因此发生变化，反映出社区对 AI 生成内容质量和可信度的担忧。",
+        "title": "TechCrunch: Sora's Shutdown Could Signal Reality Check for AI Video",
+        "signal_text": "据 TechCrunch 分析，Sora 的关闭可能标志着 AI 生成视频领域将迎来更广泛的战略收缩或现实检验，引发对行业商业化路径的讨论。",
         "signal_strength": 0.65,
         "sources": [
           {
             "name": "TechCrunch",
-            "url": "https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/"
+            "url": "https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/"
           }
         ],
         "tags": [
-          "内容安全与治理",
-          "行业风险与监管"
+          "行业风险与监管",
+          "商业化路径",
+          "视频生成"
         ],
         "raw_item_indices": [
-          19
-        ]
-      }
-    ],
-    "2026-03-28": [
-      {
-        "title": "Anthropic's Next-Gen Model 'Claude Mythos' Leaked, Poses Cybersecurity Risks",
-        "signal_text": "据 Fortune 报道，泄露的 Anthropic 内部文件显示其下一代模型“Claude Mythos”已在测试中，且公司内部评估认为该模型存在前所未有的网络安全风险。这一信号来自获 4500+ views 的推文，表明顶级 AI 实验室在开发更强大模型的同时，对潜在风险的担忧也在加剧。",
-        "signal_strength": 0.82,
-        "sources": [
-          {
-            "name": "@minchoi (citing Fortune)",
-            "url": "https://x.com/minchoi/status/2037384864509423652"
-          },
-          {
-            "name": "@DeryaTR_",
-            "url": "https://x.com/DeryaTR_/status/2037405841398157734"
-          }
-        ],
-        "tags": [
-          "头部公司战略动作",
-          "内容安全与治理",
-          "行业风险与监管"
-        ],
-        "raw_item_indices": [
-          37,
-          53
+          20
         ]
       },
       {
-        "title": "OpenAI Codex Launches Plugin Support, Enabling New Workflow Automation",
-        "signal_text": "OpenAI 为其 AI 编程助手 Codex 推出插件支持。用户现可利用插件在 Codex 内自动化工作流，例如处理 Box 中的文档以提取结构化数据。OpenAI Devs 官方账号（获 560+ likes）同步发布了用例库，展示如何一键构建 iOS 应用、分析数据集等。",
-        "signal_strength": 0.8,
+        "title": "Forge-Film: DAG-Driven Parallel AI Film Generation Engine",
+        "signal_text": "GitHub 开源项目 Forge-Film 获得关注，这是一个多模型 DAG 驱动的并行 AI 电影生成引擎，通过将场景叙事依赖建模为 DAG 并以关键路径最优调度驱动并行生成，提升影视生成效率。",
+        "signal_strength": 0.6,
         "sources": [
           {
-            "name": "@OpenAIDevs",
-            "url": "https://x.com/OpenAIDevs/status/2037604273434018259"
-          },
-          {
-            "name": "@levie (Box CEO)",
-            "url": "https://x.com/levie/status/2037383187245273477"
-          },
-          {
-            "name": "@gdb",
-            "url": "https://x.com/gdb/status/2037348081684111623"
+            "name": "GitHub Trending (F-R-L/forge-film)",
+            "url": "https://github.com/F-R-L/forge-film"
           }
         ],
         "tags": [
-          "Agent 与新交互范式",
-          "头部公司战略动作",
-          "内容创作与理解"
-        ],
-        "raw_item_indices": [
-          38,
-          50,
-          97
-        ]
-      },
-      {
-        "title": "Microsoft Research Paper Finds Self-Distillation Can Harm LLM Reasoning",
-        "signal_text": "微软研究院（Microsoft Research）团队发表论文，揭示自蒸馏（Self-Distillation）有时会损害大语言模型的推理能力。研究发现，自蒸馏会抑制模型表达不确定性的能力，从而对数学推理，特别是分布外（OOD）问题的性能产生负面影响。",
-        "signal_strength": 0.78,
-        "sources": [
-          {
-            "name": "Microsoft Research (via HuggingFace Papers)",
-            "url": "https://huggingface.co/papers/2603.24472"
-          }
-        ],
-        "tags": [
-          "技术突破",
           "内容创作与理解",
-          "推理效率提升"
-        ],
-        "raw_item_indices": [
-          137
-        ]
-      },
-      {
-        "title": "Tencent AI Lab Publishes UI-Voyager: A Self-Evolving Mobile GUI Agent",
-        "signal_text": "腾讯 AI Lab 团队提出 UI-Voyager，一个通过失败经验进行自我进化的移动端 GUI 智能体。该框架采用两阶段训练（拒绝微调和群体相对自蒸馏），提升了在图形用户界面任务上的效率和性能，为自动化交互和 Agent 能力演进提供了新思路。",
-        "signal_strength": 0.75,
-        "sources": [
-          {
-            "name": "Tencent (via HuggingFace Papers)",
-            "url": "https://huggingface.co/papers/2603.24533"
-          }
-        ],
-        "tags": [
-          "Agent 与新交互范式",
-          "技术突破",
-          "头部公司战略动作"
-        ],
-        "raw_item_indices": [
-          138
-        ]
-      },
-      {
-        "title": "Perplexity AI Powers Samsung Browser's Browsing Assist Feature",
-        "signal_text": "AI 搜索公司 Perplexity 宣布其技术现已集成到三星浏览器（Samsung Browser）的“浏览助手”（Browsing Assist）功能中，覆盖 Galaxy Android 和 Windows 设备。这是 Perplexity 在扩大其 AI 搜索技术落地场景上的重要一步。",
-        "signal_strength": 0.75,
-        "sources": [
-          {
-            "name": "@perplexity_ai",
-            "url": "https://x.com/perplexity_ai/status/2037556796139921847"
-          }
-        ],
-        "tags": [
-          "搜索与推荐",
-          "头部公司战略动作",
-          "新产品形态"
-        ],
-        "raw_item_indices": [
-          80
-        ]
-      },
-      {
-        "title": "Google Releases Agent Development Kit for Faster AI Agent Building",
-        "signal_text": "Google Developers 发布 Agent Development Kit，旨在帮助开发者更快地构建和部署 AI 智能体。该工具包提供设置智能体、部署系统和链接工具的能力，并计划举办线上构建活动展示与专业 AI 工作流集成的实例。",
-        "signal_strength": 0.72,
-        "sources": [
-          {
-            "name": "@googledevs",
-            "url": "https://x.com/googledevs/status/2037643322387234886"
-          }
-        ],
-        "tags": [
-          "Agent 与新交互范式",
-          "开源生态",
-          "头部公司战略动作"
-        ],
-        "raw_item_indices": [
-          86
-        ]
-      },
-      {
-        "title": "Inflection AI Partners with Crusoe on 900MW AI Data Center in Texas",
-        "signal_text": "Inflection AI 联合创始人 Mustafa Suleyman 宣布，公司正与 Crusoe 合作，在德克萨斯州阿比林市建设一个 900MW 的 AI 数据中心（AI factory），以扩充其 AI 算力集群。这反映了头部 AI 公司对算力基础设施的持续大规模投入。",
-        "signal_strength": 0.72,
-        "sources": [
-          {
-            "name": "@mustafasuleyman (Inflection AI co-founder)",
-            "url": "https://x.com/mustafasuleyman/status/2037547756320141587"
-          }
-        ],
-        "tags": [
-          "头部公司战略动作",
-          "技术突破"
+          "视频生成",
+          "开源生态"
         ],
         "raw_item_indices": [
           84
         ]
       },
       {
-        "title": "IndexCache: Sparse Attention Optimizer from Tsinghua & Z.ai Speeds Up Long-Context Inference",
-        "signal_text": "据 VentureBeat 报道，清华大学和 Z.ai 的研究人员提出 IndexCache，一种新的稀疏注意力优化技术，可减少长上下文处理中高达 75% 的冗余计算，在 20 万 token 的上下文上实现 1.82 倍的推理加速。这对提升长文本理解和生成效率有直接价值。",
-        "signal_strength": 0.7,
+        "title": "Study Warns of AI-Generated Content in Workplace Communication",
+        "signal_text": "一项学术研究正在调查员工如何感知工作场所沟通中的 AI 使用，特别关注已披露与推断的 AI 使用及其差异，反映了对 AI 生成内容透明度的关注。",
+        "signal_strength": 0.6,
         "sources": [
           {
-            "name": "VentureBeat (citing arXiv)",
-            "url": "https://venturebeat.com/technology/indexcache-a-new-sparse-attention-optimizer-delivers-1-82x-faster-inference"
-          }
-        ],
-        "tags": [
-          "技术突破",
-          "搜索与推荐",
-          "推理效率提升"
-        ],
-        "raw_item_indices": [
-          28
-        ]
-      },
-      {
-        "title": "OpenAI CEO Shares Story of User Using LLMs to Develop mRNA Vaccine for Dog",
-        "signal_text": "OpenAI CEO Sam Altman（获 1600+ likes, 194k+ views）分享了一个用户故事：一位名叫 Paul 的用户利用 ChatGPT、Gemini 和 Grok 等 LLM，在兽医和基因组学实验室的协助下，为其患癌的宠物狗 Rosie 制定了个性化的 mRNA 癌症疫苗方案。这展示了 AI 在赋能个体进行复杂研究方面的潜力。",
-        "signal_strength": 0.7,
-        "sources": [
-          {
-            "name": "@sama (OpenAI CEO)",
-            "url": "https://x.com/sama/status/2037396826060673188"
-          },
-          {
-            "name": "@minchoi",
-            "url": "https://x.com/minchoi/status/2037525620934988169"
-          }
-        ],
-        "tags": [
-          "Agent 与新交互范式",
-          "内容创作与理解",
-          "新产品形态"
-        ],
-        "raw_item_indices": [
-          55,
-          65
-        ]
-      },
-      {
-        "title": "NeurIPS Reverses Policy After Backlash from Chinese Researchers Over Geopolitical Lines",
-        "signal_text": "据 Wired 报道，顶级 AI 会议 NeurIPS 近期一项政策变动引发了来自中国研究人员的广泛反对，随后该政策被迅速撤销。NeurIPS 官方账号（获 280+ likes, 86k+ views）发表声明，承认此事引起警觉并承诺进行解释。这凸显了 AI 研究与地缘政治日益交织的现状。",
-        "signal_strength": 0.68,
-        "sources": [
-          {
-            "name": "Wired",
-            "url": "https://www.wired.com/story/made-in-china-ai-research-is-starting-to-split-along-geopolitical-lines/"
-          },
-          {
-            "name": "@NeurIPSConf",
-            "url": "https://x.com/NeurIPSConf/status/2037438893457289364"
-          }
-        ],
-        "tags": [
-          "行业风险与监管",
-          "开源生态"
-        ],
-        "raw_item_indices": [
-          14,
-          57
-        ]
-      }
-    ],
-    "2026-03-29": [
-      {
-        "title": "Mustafa Suleyman Highlights AI Industry Supply-Demand Imbalance",
-        "signal_text": "Inflection AI联合创始人Mustafa Suleyman（获300+ likes, 4.4万+ views）指出，未来几年AI行业将由需求远超供给定义，拥有支付token预算利润空间的公司/产品将能快速改进。这揭示了当前AI商业化的核心约束和竞争态势。",
-        "signal_strength": 0.85,
-        "sources": [
-          {
-            "name": "Twitter @mustafasuleyman",
-            "url": "https://x.com/mustafasuleyman/status/2037964810575290593"
-          }
-        ],
-        "tags": [
-          "行业洞察",
-          "商业化路径",
-          "基础设施"
-        ],
-        "raw_item_indices": [
-          68
-        ]
-      },
-      {
-        "title": "Andrej Karpathy Highlights LLM's Persuasive but Reversible Arguments",
-        "signal_text": "前特斯拉AI总监、OpenAI研究员Andrej Karpathy（推文获1.8万+ likes, 117万+ views）分享亲身经历：用LLM花4小时完善一篇博客论点后，让LLM论证相反观点，结果LLM轻易推翻了原论点并说服了他。这直观揭示了当前LLM在复杂推理和论证上的局限性及“两面性”。",
-        "signal_strength": 0.85,
-        "sources": [
-          {
-            "name": "Twitter @karpathy",
-            "url": "https://x.com/karpathy/status/2037921699824607591"
-          }
-        ],
-        "tags": [
-          "技术洞察",
-          "LLM局限性",
-          "内容创作"
-        ],
-        "raw_item_indices": [
-          76
-        ]
-      },
-      {
-        "title": "ByteDance's LVFace Face Recognition Model Gains Community Traction",
-        "signal_text": "字节跳动在ICCV 2025发表的LVFace人脸识别模型（已在GitHub开源）正引发社区讨论和实际应用测试，用户正在将其与ArcFace/ResNet等现有方案进行性能对比。这表明头部公司在计算机视觉（尤其是人脸相关）的先进技术正快速进入应用生态。",
-        "signal_strength": 0.8,
-        "sources": [
-          {
-            "name": "Reddit ML",
-            "url": "https://www.reddit.com/r/MachineLearning/comments/1s6a90d/lvface_performance_vs_arcfaceresnet/"
-          }
-        ],
-        "tags": [
-          "内容理解",
-          "计算机视觉",
-          "开源生态",
-          "字节跳动"
-        ],
-        "raw_item_indices": [
-          13
-        ]
-      },
-      {
-        "title": "Stanford Study Warns of Dangers in AI Personal Advice",
-        "signal_text": "斯坦福大学计算机科学家团队的研究指出，向AI聊天机器人寻求个人建议存在潜在危害，量化了AI的“谄媚”倾向可能带来的风险。该研究由知名学术机构完成，对内容平台的内容安全和用户引导有直接参考价值。",
-        "signal_strength": 0.75,
-        "sources": [
-          {
-            "name": "TechCrunch",
-            "url": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/"
+            "name": "Reddit (学术研究招募)",
+            "url": "https://www.reddit.com/r/artificial/comments/1s70rqr/does_your_manager_use_ai_to_write_their_messages/"
           }
         ],
         "tags": [
           "内容安全与治理",
-          "AI伦理",
-          "用户研究"
+          "AI 生成内容检测",
+          "行业风险"
         ],
         "raw_item_indices": [
-          11
-        ]
-      },
-      {
-        "title": "François Chollet Predicts Future Class Divide Based on Cognitive Agency",
-        "signal_text": "Keras创始人François Chollet（获340+ likes）提出，如果AGI实现，未来的阶级划分将基于认知能动性而非财富：分为“专注阶级”（能控制注意力并做事的人）和“垃圾内容阶级”（注意力被算法投喂内容吞噬的人）。这对内容社区的长期生态设计具有深刻启示。",
-        "signal_strength": 0.75,
-        "sources": [
-          {
-            "name": "Twitter @fchollet",
-            "url": "https://x.com/fchollet/status/2037940998933008420"
-          }
-        ],
-        "tags": [
-          "行业洞察",
-          "AI伦理",
-          "内容生态",
-          "未来学"
-        ],
-        "raw_item_indices": [
-          56
-        ]
-      },
-      {
-        "title": "InternLM Releases WildClawBench for In-the-Wild Agent Evaluation",
-        "signal_text": "InternLM（上海人工智能实验室）开源了WildClawBench，这是一个用于在OpenClaw环境中评估AI智能体的真实场景基准。这表明国内头部研究机构正积极参与并推动AI Agent评估生态的建设。",
-        "signal_strength": 0.75,
-        "sources": [
-          {
-            "name": "GitHub (InternLM)",
-            "url": "https://github.com/InternLM/WildClawBench"
-          }
-        ],
-        "tags": [
-          "Agent与新交互范式",
-          "基准测试",
-          "开源生态",
-          "InternLM"
-        ],
-        "raw_item_indices": [
-          85
-        ]
-      },
-      {
-        "title": "Suno AI Music Model v5.5 Focuses on User Customization",
-        "signal_text": "据The Verge报道，AI音乐生成公司Suno发布了其模型的v5.5版本更新，重点从提升保真度转向赋予用户更多控制权，新增了“Voices”、“My Taste”和“Custom Models”三大功能。这标志着AI生成工具正从追求通用质量向支持深度个性化创作演进。",
-        "signal_strength": 0.75,
-        "sources": [
-          {
-            "name": "The Verge",
-            "url": "https://www.theverge.com/entertainment/903056/suno-ai-music-v5-5-model"
-          }
-        ],
-        "tags": [
-          "内容创作与理解",
-          "个性化内容生成",
-          "AIGC工具",
-          "音频生成"
-        ],
-        "raw_item_indices": [
-          15
-        ]
-      },
-      {
-        "title": "Bluesky Launches AI-Powered Custom Feed Builder App 'Attie'",
-        "signal_text": "据TechCrunch报道，去中心化社交协议Bluesky推出了一款名为Attie的新应用，利用AI帮助用户在atproto协议上构建自定义信息流。这展示了AI在社交网络内容发现和个性化推荐中的新应用范式。",
-        "signal_strength": 0.7,
-        "sources": [
-          {
-            "name": "TechCrunch",
-            "url": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/"
-          }
-        ],
-        "tags": [
-          "搜索与推荐",
-          "个性化内容生成",
-          "新产品形态",
-          "社交网络"
-        ],
-        "raw_item_indices": [
-          7
-        ]
-      },
-      {
-        "title": "The Verge Critiques TikTok's AI-Generated Ad Detection",
-        "signal_text": "据The Verge报道，TikTok在识别AI生成的广告内容方面存在明显不足，即使普通用户也能发现一些未标注的AI生成广告。这凸显了内容平台在AI生成内容检测和合规标注方面面临的现实挑战。",
-        "signal_strength": 0.7,
-        "sources": [
-          {
-            "name": "The Verge",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/900400/tiktok-ai-ads-labels-samsung-disclosure"
-          }
-        ],
-        "tags": [
-          "内容安全与治理",
-          "AI生成内容检测",
-          "平台合规",
-          "TikTok"
-        ],
-        "raw_item_indices": [
-          24
-        ]
-      },
-      {
-        "title": "Lean-Ctx: Open-Source Tool Cuts LLM Token Consumption by 89-99%",
-        "signal_text": "一个名为`lean-ctx`的Rust开源项目（获294 stars）通过Shell Hook + MCP Server的混合上下文优化器，声称能将LLM的token消耗降低89-99%。该工具单二进制、零依赖，为降低AI应用成本提供了新思路。",
-        "signal_strength": 0.7,
-        "sources": [
-          {
-            "name": "GitHub",
-            "url": "https://github.com/yvgude/lean-ctx"
-          }
-        ],
-        "tags": [
-          "技术突破",
-          "推理效率提升",
-          "开源工具",
-          "成本优化"
-        ],
-        "raw_item_indices": [
-          82
+          18
         ]
       }
     ]
@@ -7366,6 +6095,1436 @@
             "raw_item_indices": [
               53,
               56
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "week": "2026-W12",
+      "days": {
+        "2026-03-23": [
+          {
+            "title": "NVIDIA Releases Nemotron-Cascade 2: Efficient 30B MoE Model",
+            "signal_text": "NVIDIA 发布了 Nemotron-Cascade 2，这是一个 300亿参数的 MoE 模型，每次推理仅激活 30亿参数。该模型通过级联 RL 和多领域策略蒸馏进行后训练，展现出强大的推理和智能体能力，在紧凑规模下匹配前沿开源模型。",
+            "signal_strength": 0.85,
+            "sources": [
+              {
+                "name": "HuggingFace Papers (NVIDIA)",
+                "url": "https://huggingface.co/papers/2603.19220"
+              },
+              {
+                "name": "HuggingFace Model",
+                "url": "https://huggingface.co/nvidia/Nemotron-Cascade-2-30B-A3B"
+              }
+            ],
+            "tags": [
+              "技术突破",
+              "开源生态",
+              "推理效率提升"
+            ],
+            "raw_item_indices": [
+              76,
+              101
+            ]
+          },
+          {
+            "title": "Cursor Admits New Coding Model Built on Moonshot AI's Kimi",
+            "signal_text": "据 TechCrunch 报道，Cursor 承认其新的编码模型是基于月之暗面（Moonshot AI）的 Kimi 构建的。这验证了中国开源模型的影响力，但也因当前地缘政治环境而显得尤为敏感。",
+            "signal_strength": 0.8,
+            "sources": [
+              {
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/"
+              }
+            ],
+            "tags": [
+              "开源生态",
+              "头部公司战略动作",
+              "中国AI模型"
+            ],
+            "raw_item_indices": [
+              15
+            ]
+          },
+          {
+            "title": "Baidu's SAMA Model for Instruction-Guided Video Editing",
+            "signal_text": "百度团队提出 SAMA 模型，采用分解式方法进行指令引导的视频编辑，将语义锚定与运动建模分离，通过预训练组件实现运动保持的编辑。该模型在 HuggingFace 上获得 62 个赞。",
+            "signal_strength": 0.75,
+            "sources": [
+              {
+                "name": "HuggingFace Papers (BAIDU)",
+                "url": "https://huggingface.co/papers/2603.19228"
+              }
+            ],
+            "tags": [
+              "内容创作与理解",
+              "多模态生成",
+              "视频编辑"
+            ],
+            "raw_item_indices": [
+              73
+            ]
+          },
+          {
+            "title": "Elon Musk Announces Terafab Chip Plant for AI and Robotics",
+            "signal_text": "据 The Verge 和 TechCrunch 报道，Elon Musk 宣布计划在德克萨斯州奥斯汀建设 Terafab 芯片工厂，由特斯拉和 SpaceX 联合运营，旨在为机器人、人工智能和太空数据中心大规模生产芯片。",
+            "signal_strength": 0.75,
+            "sources": [
+              {
+                "name": "The Verge",
+                "url": "https://www.theverge.com/ai-artificial-intelligence/898722/musk-terafab-chip-plant"
+              },
+              {
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com/2026/03/22/elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla/"
+              }
+            ],
+            "tags": [
+              "AI硬件竞争",
+              "头部公司战略动作"
+            ],
+            "raw_item_indices": [
+              19,
+              22
+            ]
+          },
+          {
+            "title": "Research: Alignment Makes LLMs Normative, Not Descriptive",
+            "signal_text": "Technion Israel Institute of Technology 的研究表明，语言模型的后训练对齐在人类行为预测和规范性表现之间造成了权衡。基础模型能更好地预测真实的人类行为，而对齐后的模型则表现出更规范但预测准确性更差的行为。",
+            "signal_strength": 0.7,
+            "sources": [
+              {
+                "name": "HuggingFace Papers (Technion)",
+                "url": "https://huggingface.co/papers/2603.17218"
+              }
+            ],
+            "tags": [
+              "内容安全与治理",
+              "AI伦理",
+              "模型对齐"
+            ],
+            "raw_item_indices": [
+              77
+            ]
+          },
+          {
+            "title": "Memento-Skills: Let Agents Design Agents via Memory-Based RL",
+            "signal_text": "伦敦大学学院的研究团队提出 Memento-Skills，一个通用语言模型智能体系统，可通过基于记忆的强化学习，利用状态化提示自主设计和改进特定任务智能体。",
+            "signal_strength": 0.7,
+            "sources": [
+              {
+                "name": "HuggingFace Papers (University College London)",
+                "url": "https://huggingface.co/papers/2603.18743"
+              }
+            ],
+            "tags": [
+              "Agent 与新交互范式",
+              "AI Agent 框架",
+              "自主任务执行"
+            ],
+            "raw_item_indices": [
+              78
+            ]
+          },
+          {
+            "title": "New Benchmark LVOmniBench Reveals Challenges in Long Audio-Video Understanding",
+            "signal_text": "新推出的长音频-视频理解基准 LVOmniBench 揭示了当前全能模态大语言模型在处理长篇幅多模态输入方面面临显著挑战。",
+            "signal_strength": 0.65,
+            "sources": [
+              {
+                "name": "HuggingFace Papers",
+                "url": "https://huggingface.co/papers/2603.19217"
+              }
+            ],
+            "tags": [
+              "内容理解",
+              "多模态融合",
+              "评估基准"
+            ],
+            "raw_item_indices": [
+              82
+            ]
+          },
+          {
+            "title": "Community Concern Over AI Security in Open-Weight Models",
+            "signal_text": "一个名为 Worm-GPT-LLM-2026 的高性能 C++ LLM 红队测试执行引擎在 GitHub 上获得关注（74 stars），该项目旨在部署动态越狱载荷、绕过对齐护栏。这反映了社区对开源模型安全漏洞的持续关注和工具化趋势。",
+            "signal_strength": 0.65,
+            "sources": [
+              {
+                "name": "GitHub Trending",
+                "url": "https://github.com/dubermandeer/Worm-GPT-LLM-2026"
+              }
+            ],
+            "tags": [
+              "内容安全与治理",
+              "AI安全漏洞",
+              "开源生态"
+            ],
+            "raw_item_indices": [
+              61
+            ]
+          },
+          {
+            "title": "Game Developer Apologizes for Use of AI Art in 'Crimson Desert'",
+            "signal_text": "据 The Verge 报道，游戏《赤色沙漠》的开发商为其在游戏中使用 AI 生成素材而道歉，称本意是在发布前替换掉这些素材。此事引发了关于游戏开发中 AI 艺术使用和透明度的行业讨论。",
+            "signal_strength": 0.6,
+            "sources": [
+              {
+                "name": "The Verge",
+                "url": "https://www.theverge.com/games/898771/crimson-desert-dev-apologizes-ai-art"
+              }
+            ],
+            "tags": [
+              "内容安全与治理",
+              "AI生成内容检测",
+              "行业风险"
+            ],
+            "raw_item_indices": [
+              16
+            ]
+          },
+          {
+            "title": "Industry Discussion: AI Agents Still in Early Adoption Phase",
+            "signal_text": "Box CEO Aaron Levie 发推（获 25 likes, 2636 views）指出，智能体技术目前仍处于非常早期的阶段，大多数公司甚至尚未规模化使用编码智能体，更不用说其他知识工作，我们仍处于 AI 工作的“聊天机器人时代”。",
+            "signal_strength": 0.6,
+            "sources": [
+              {
+                "name": "Twitter (@levie)",
+                "url": "https://x.com/levie/status/2035762343502836020"
+              }
+            ],
+            "tags": [
+              "Agent 与新交互范式",
+              "行业洞察"
+            ],
+            "raw_item_indices": [
+              38
+            ]
+          }
+        ],
+        "2026-03-24": [
+          {
+            "title": "NVIDIA CEO Jensen Huang Claims AGI Has Been Achieved",
+            "signal_text": "据 The Verge 报道，NVIDIA CEO 黄仁勋在 Lex Fridman 播客中表示“我认为我们已经实现了 AGI”。这一争议性言论再次引发了关于 AGI 定义和当前 AI 能力界限的行业讨论。",
+            "signal_strength": 0.85,
+            "sources": [
+              {
+                "name": "The Verge",
+                "url": "https://www.theverge.com/ai-artificial-intelligence/899086/jensen-huang-nvidia-agi"
+              }
+            ],
+            "tags": [
+              "头部公司战略动作",
+              "行业趋势"
+            ],
+            "raw_item_indices": [
+              29
+            ]
+          },
+          {
+            "title": "Meta Hires AI Agent Startup Dreamer Team",
+            "signal_text": "据 The Information 报道，Meta 已收购 AI Agent 初创公司 Dreamer 的创始团队，包括 Hugo Barra、David Singleton 和 Nicholas Jitkoff，他们将加入 Meta 的 Superintelligence Labs 团队。这表明 Meta 正在通过人才收购加强其在自主 AI 智能体领域的布局。",
+            "signal_strength": 0.8,
+            "sources": [
+              {
+                "name": "The Information",
+                "url": "https://www.theinformation.com/briefings/meta-hires-ai-startup-dreamers-team"
+              }
+            ],
+            "tags": [
+              "头部公司战略动作",
+              "Agent 与新交互范式",
+              "人才流动"
+            ],
+            "raw_item_indices": [
+              25
+            ]
+          },
+          {
+            "title": "WorldAgents: Agentic Framework for 3D World Generation from 2D Models",
+            "signal_text": "据慕尼黑工业大学教授 @MattNiessner 介绍，其团队提出“WorldAgents”框架，通过 Director (VLM)、Generator (如 Flux) 和 Verifier (VLM) 的智能体协作，无需训练即可从 2D 图像模型生成高保真 3D 世界。这为多模态内容生成提供了新的 Agent 范式。",
+            "signal_strength": 0.8,
+            "sources": [
+              {
+                "name": "Matt Niessner (@MattNiessner)",
+                "url": "https://x.com/MattNiessner/status/2036019740930408905"
+              }
+            ],
+            "tags": [
+              "内容创作与理解",
+              "Agent 与新交互范式",
+              "多模态融合"
+            ],
+            "raw_item_indices": [
+              55
+            ]
+          },
+          {
+            "title": "OpenClaw Releases Major Update with Plugin Marketplace and New Models",
+            "signal_text": "AI 编码智能体平台 OpenClaw 发布 2026.3.22 大版本更新，引入 ClawHub 插件市场，集成 MiniMax M2.7、GPT-5.4-mini/nano 等新模型，支持 per-agent 推理，并增强了搜索和沙箱功能。该推文获 3300+ likes，显示社区高度关注。",
+            "signal_strength": 0.8,
+            "sources": [
+              {
+                "name": "OpenClaw (@openclaw)",
+                "url": "https://x.com/openclaw/status/2036043904949330407"
+              }
+            ],
+            "tags": [
+              "Agent 与新交互范式",
+              "开源生态",
+              "工具调用"
+            ],
+            "raw_item_indices": [
+              69
+            ]
+          },
+          {
+            "title": "Google Gemini Gains On-Device Agent Capabilities for Tasks",
+            "signal_text": "据 The Information 报道，Google 的 Gemini 应用已悄然为最新 Pixel 和三星手机用户提供新功能：可通过语音指令让 Gemini 代理完成叫 Uber、订 DoorDash 等任务。这表明 Google 正在移动端推进轻量级、本地的 AI Agent 交互。",
+            "signal_strength": 0.8,
+            "sources": [
+              {
+                "name": "The Information",
+                "url": "https://www.theinformation.com/articles/googles-gemini-steals-march-openai"
+              }
+            ],
+            "tags": [
+              "头部公司战略动作",
+              "Agent 与新交互范式",
+              "端侧部署"
+            ],
+            "raw_item_indices": [
+              4
+            ]
+          },
+          {
+            "title": "NVIDIA Releases OpenShell for Agent Governance",
+            "signal_text": "NVIDIA AI 官方宣布推出 OpenShell，这是一个旨在为自主 AI 智能体提供内置安全和隐私控制的新框架，以确保其负责任地部署。这表明行业正从单纯追求 Agent 能力转向关注其安全治理。",
+            "signal_strength": 0.75,
+            "sources": [
+              {
+                "name": "NVIDIA AI (@NVIDIAAI)",
+                "url": "https://x.com/NVIDIAAI/status/2036095627348615493"
+              }
+            ],
+            "tags": [
+              "Agent 与新交互范式",
+              "内容安全与治理",
+              "开源生态"
+            ],
+            "raw_item_indices": [
+              63
+            ]
+          },
+          {
+            "title": "Research: Current Alignment Evaluation Methods May Be Flawed",
+            "signal_text": "一篇 arXiv 论文（2603.18280）指出，当前的 AI 对齐评估主要衡量概念检测和拒绝，但真正的对齐更多是通过内部知识路由实现的。该研究挑战了现有评估基准的有效性，对内容安全和模型治理有重要启示。",
+            "signal_strength": 0.75,
+            "sources": [
+              {
+                "name": "arXiv 2603.18280",
+                "url": "https://arxiv.org/abs/2603.18280"
+              }
+            ],
+            "tags": [
+              "内容安全与治理",
+              "技术突破"
+            ],
+            "raw_item_indices": [
+              39
+            ]
+          },
+          {
+            "title": "UnslothAI Enables RL Fine-tuning of Qwen3.5 on Consumer GPUs",
+            "signal_text": "UnslothAI 团队发布免费教程，展示如何在仅 8GB VRAM 的消费级 GPU 上，使用视觉 GRPO 方法对 Qwen3.5-2B 模型进行强化学习微调，使其自主解决数学问题。这大幅降低了高效模型定制和优化的门槛。",
+            "signal_strength": 0.75,
+            "sources": [
+              {
+                "name": "UnslothAI (@UnslothAI)",
+                "url": "https://x.com/UnslothAI/status/2036070709903179835"
+              }
+            ],
+            "tags": [
+              "技术突破",
+              "推理效率提升",
+              "开源生态"
+            ],
+            "raw_item_indices": [
+              68
+            ]
+          },
+          {
+            "title": "OpenAI Reportedly Offers High Returns to Raise Capital",
+            "signal_text": "据 @minchoi 援引报道，OpenAI 正在向私募股权公司提供高达 17.5% 的保证回报率以筹集新资金。这反映了 AI 巨头为支撑其庞大的基础设施和研发开支，正在采取激进的融资策略。",
+            "signal_strength": 0.7,
+            "sources": [
+              {
+                "name": "@minchoi (Twitter)",
+                "url": "https://x.com/minchoi/status/2036094385503244463"
+              }
+            ],
+            "tags": [
+              "头部公司战略动作",
+              "商业化路径"
+            ],
+            "raw_item_indices": [
+              64
+            ]
+          },
+          {
+            "title": "HuggingFace CEO Proposes 'S3 for Agents' Storage Solution",
+            "signal_text": "HuggingFace CEO Clement Delangue 在推文中表示，希望将 HuggingFace 的存储桶打造为“AI 智能体的 S3”，并邀请社区反馈用例。这预示着 AI Agent 生态的基础设施需求正在催生新的标准化服务。",
+            "signal_strength": 0.7,
+            "sources": [
+              {
+                "name": "Clement Delangue (@ClementDelangue)",
+                "url": "https://x.com/ClementDelangue/status/2036103377726145004"
+              }
+            ],
+            "tags": [
+              "Agent 与新交互范式",
+              "开源生态",
+              "基础设施"
+            ],
+            "raw_item_indices": [
+              62
+            ]
+          }
+        ],
+        "2026-03-25": [
+          {
+            "title": "Major PyPI Supply Chain Attack via litellm Library",
+            "signal_text": "前特斯拉 AI 总监、知名 AI 研究员 Andrej Karpathy 发推警告，litellm PyPI 包发生供应链攻击，简单的 `pip install litellm` 就足以窃取 SSH 密钥、云服务凭证、环境变量等敏感信息。该推文获 8700+ likes 和超 129 万 views，引发安全社区巨大震动。",
+            "signal_strength": 0.9,
+            "sources": [
+              {
+                "name": "@karpathy",
+                "url": "https://x.com/karpathy/status/2036487306585268612"
+              }
+            ],
+            "tags": [
+              "内容安全与治理",
+              "AI Security Vulnerabilities",
+              "开源生态"
+            ],
+            "raw_item_indices": [
+              93
+            ]
+          },
+          {
+            "title": "Anthropic Launches Claude Computer Use for Mac Control",
+            "signal_text": "据 VentureBeat 报道，Anthropic 推出了迄今为止最具雄心的消费级 AI Agent，赋予其 Claude 聊天机器人直接控制用户 Mac 的能力，包括点击按钮、打开应用程序和执行任务。这标志着 AI Agent 向实际工作执行迈出了关键一步。",
+            "signal_strength": 0.88,
+            "sources": [
+              {
+                "name": "VentureBeat",
+                "url": "https://venturebeat.com/technology/anthropics-claude-can-now-control-your-mac-escalating-the-fight-to-build-ai"
+              }
+            ],
+            "tags": [
+              "Agent 与新交互范式",
+              "头部公司战略动作",
+              "内容创作与理解"
+            ],
+            "raw_item_indices": [
+              24
+            ]
+          },
+          {
+            "title": "Google DeepMind Partners with Agile Robots for Next-Gen Robotics",
+            "signal_text": "Google DeepMind 官方宣布与 Agile Robots 建立新的研究合作伙伴关系，旨在将 Gemini 基础模型与其硬件集成，以帮助构建下一代更有帮助和实用的机器人。该推文获 600+ likes，引发广泛关注。",
+            "signal_strength": 0.87,
+            "sources": [
+              {
+                "name": "@GoogleDeepMind",
+                "url": "https://x.com/GoogleDeepMind/status/2036418139672482229"
+              }
+            ],
+            "tags": [
+              "头部公司战略动作",
+              "Agent 与新交互范式",
+              "多模态融合"
+            ],
+            "raw_item_indices": [
+              62
+            ]
+          },
+          {
+            "title": "Anthropic Details Multi-Agent Harness for Frontend Design and Software Engineering",
+            "signal_text": "Anthropic 工程博客发布新文章，详细介绍了他们如何使用多智能体框架（multi-agent harness）来推动 Claude 在前端设计和长期自主软件工程方面的能力。该推文获 1783 likes，显示社区高度关注。",
+            "signal_strength": 0.86,
+            "sources": [
+              {
+                "name": "@AnthropicAI",
+                "url": "https://x.com/AnthropicAI/status/2036481033621623056"
+              }
+            ],
+            "tags": [
+              "Agent 与新交互范式",
+              "头部公司战略动作",
+              "内容创作与理解"
+            ],
+            "raw_item_indices": [
+              97
+            ]
+          },
+          {
+            "title": "Arm Announces Entry into AI Chip Manufacturing with Major Customers",
+            "signal_text": "据 Wired 报道，芯片设计公司 Arm 宣布开始制造自己的 AI 芯片，并称 Meta、OpenAI、Cerebras 和 Cloudflare 是其新人工智能硬件的首批客户。这标志着 Arm 从 IP 授权向芯片制造的战略转变。",
+            "signal_strength": 0.85,
+            "sources": [
+              {
+                "name": "Wired",
+                "url": "https://wired.com/story/chip-design-firm-arm-is-making-its-own-ai-cpu/"
+              }
+            ],
+            "tags": [
+              "AI Hardware Competition",
+              "头部公司战略动作",
+              "技术突破"
+            ],
+            "raw_item_indices": [
+              30
+            ]
+          },
+          {
+            "title": "Wojciech Zaremba Joins OpenAI Foundation to Lead AI Resilience",
+            "signal_text": "OpenAI 联合创始人 Wojciech Zaremba 宣布将加入 OpenAI Foundation，领导 AI 韧性（AI resilience）工作，专注于最小化 AGI 可能带来的潜在干扰，如对儿童和青少年的影响、模型故障、新兴生物风险等。",
+            "signal_strength": 0.83,
+            "sources": [
+              {
+                "name": "@woj_zaremba",
+                "url": "https://x.com/woj_zaremba/status/2036483827271655917"
+              }
+            ],
+            "tags": [
+              "头部公司战略动作",
+              "内容安全与治理",
+              "AI Safety"
+            ],
+            "raw_item_indices": [
+              95
+            ]
+          },
+          {
+            "title": "Cloudflare Releases Dynamic Workers for 100x Faster AI Agent Execution",
+            "signal_text": "据 VentureBeat 报道，Cloudflare 推出了 Dynamic Workers 公开测试版，这是一个新的轻量级、基于隔离的沙盒系统，旨在改变企业部署 AI Agent 的方式。该系统声称启动时间在毫秒级，内存使用量比容器少 10 倍，可将 AI Agent 代码执行速度提升 100 倍。",
+            "signal_strength": 0.82,
+            "sources": [
+              {
+                "name": "VentureBeat",
+                "url": "https://venturebeat.com/infrastructure/cloudflares-new-dynamic-workers-ditch-containers-to-run-ai-agent-code-100x"
+              }
+            ],
+            "tags": [
+              "AI Infrastructure Optimization",
+              "Agent 与新交互范式",
+              "技术突破"
+            ],
+            "raw_item_indices": [
+              25
+            ]
+          },
+          {
+            "title": "HuggingFace CEO Proposes Open-Sourcing Sora as OpenAI Shuts Down App",
+            "signal_text": "HuggingFace CEO Clement Delangue 发推提议，既然 OpenAI 正在关闭 Sora 应用，不如将其开源，这将是对领域的巨大贡献。该提议获 800+ likes，反映了开源社区对获取前沿视频生成技术的期待。",
+            "signal_strength": 0.8,
+            "sources": [
+              {
+                "name": "@ClementDelangue",
+                "url": "https://x.com/ClementDelangue/status/2036548842099781694"
+              }
+            ],
+            "tags": [
+              "开源生态",
+              "头部公司战略动作",
+              "内容创作与理解"
+            ],
+            "raw_item_indices": [
+              118
+            ]
+          },
+          {
+            "title": "Kleiner Perkins Raises $3.5B to Go All-In on AI Investing",
+            "signal_text": "据 TechCrunch 报道，知名风投机构 Kleiner Perkins 新募集 35 亿美元资金，将全部投入 AI 领域。其中 10 亿美元用于投资早期初创公司，25 亿美元用于后期成长型企业。这表明资本正大规模涌入 AI 赛道。",
+            "signal_strength": 0.79,
+            "sources": [
+              {
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/"
+              }
+            ],
+            "tags": [
+              "行业风险与监管",
+              "投资趋势"
+            ],
+            "raw_item_indices": [
+              2
+            ]
+          },
+          {
+            "title": "AI2 Releases MolmoWeb: Open-Weight Visual Web Agent with 30K Human Trajectories",
+            "signal_text": "据 VentureBeat 报道，非营利研究机构 AI2 发布了 MolmoWeb，一个开源的视觉网页 Agent，包含 30K 人类任务轨迹和完整的训练栈。这为开发者提供了介于封闭 API 和无训练模型的开源框架之间的新选择。",
+            "signal_strength": 0.78,
+            "sources": [
+              {
+                "name": "VentureBeat",
+                "url": "https://venturebeat.com/data/ai2-releases-molmoweb-an-open-weight-visual-web-agent-with-30k-human-task"
+              }
+            ],
+            "tags": [
+              "开源生态",
+              "Agent 与新交互范式",
+              "搜索与推荐"
+            ],
+            "raw_item_indices": [
+              34
+            ]
+          }
+        ],
+        "2026-03-26": [
+          {
+            "title": "Google's TurboQuant Algorithm Cuts KV Cache Memory by 6x",
+            "signal_text": "据 VentureBeat 报道，Google 发布新的 TurboQuant 算法，可将 LLM 推理中的 Key-Value (KV) 缓存内存占用减少 6 倍，速度提升高达 8 倍，成本降低 50% 或更多。该技术通过新的量化方法解决长上下文处理的内存瓶颈，使百万 token 上下文在单 GPU 上更可行。AI 研究员 @DeryaTR_ 和 @minchoi 均指出其重要性。",
+            "signal_strength": 0.85,
+            "sources": [
+              {
+                "name": "VentureBeat",
+                "url": "https://venturebeat.com/infrastructure/googles-new-turboquant-algorithm-speeds-up-ai-memory-8x-cutting-costs-by-50"
+              },
+              {
+                "name": "@DeryaTR_ (AI researcher)",
+                "url": "https://x.com/DeryaTR_/status/2036931243158233407"
+              },
+              {
+                "name": "@minchoi (AI researcher)",
+                "url": "https://x.com/minchoi/status/2036912728351133970"
+              }
+            ],
+            "tags": [
+              "技术突破",
+              "推理效率提升",
+              "搜索与推荐"
+            ],
+            "raw_item_indices": [
+              21,
+              112,
+              115
+            ]
+          },
+          {
+            "title": "Claude Expands Computer Use Tools to Mobile",
+            "signal_text": "Anthropic 的 Claude 宣布其计算机使用工具（如探索 Figma 设计、创建 Canva 幻灯片、查看 Amplitude 仪表板等）现已可在移动端使用。用户可以直接在手机上通过 Claude 调用这些生产力工具，标志着 AI Agent 交互范式的进一步扩展。该推文获 7300+ likes 和 56 万+ views，引发极高关注。",
+            "signal_strength": 0.83,
+            "sources": [
+              {
+                "name": "claudeai",
+                "url": "https://x.com/claudeai/status/2036850783526719610"
+              }
+            ],
+            "tags": [
+              "Agent 与新交互范式",
+              "工具调用",
+              "头部公司战略动作"
+            ],
+            "raw_item_indices": [
+              91
+            ]
+          },
+          {
+            "title": "Google Releases Lyria 3 Pro Music Generation Model",
+            "signal_text": "Google 正式发布 Lyria 3 Pro 音乐生成模型，用户可在更多 Google 产品中创建更长的音乐曲目。据 AI 研究员 @emollick 在获 10k+ views 的推文中分享，该模型可根据文本提示（如将诗歌改编为特定音乐风格）生成高质量音乐，展示了多模态生成能力的进步。",
+            "signal_strength": 0.82,
+            "sources": [
+              {
+                "name": "Google AI Blog",
+                "url": "https://blog.google/innovation-and-ai/technology/ai/lyria-3-pro/"
+              },
+              {
+                "name": "@emollick (AI researcher)",
+                "url": "https://x.com/emollick/status/2036836310447452606"
+              }
+            ],
+            "tags": [
+              "内容创作与理解",
+              "多模态生成",
+              "头部公司战略动作"
+            ],
+            "raw_item_indices": [
+              30,
+              104
+            ]
+          },
+          {
+            "title": "OpenAI Launches AI Safety Bug Bounty Program",
+            "signal_text": "OpenAI 官方宣布推出专注于 AI 滥用和安全风险的 Safety Bug Bounty 计划。该计划在现有安全赏金计划基础上，新增对 AI 特定安全问题和滥用场景的识别，旨在与安全研究社区合作，共同识别和缓解其产品中的风险。该公告获 250+ likes 和 13k+ views。",
+            "signal_strength": 0.8,
+            "sources": [
+              {
+                "name": "OpenAI Newsroom",
+                "url": "https://x.com/OpenAINewsroom/status/2036862362905698334"
+              }
+            ],
+            "tags": [
+              "内容安全与治理",
+              "行业风险与监管",
+              "头部公司战略动作"
+            ],
+            "raw_item_indices": [
+              86
+            ]
+          },
+          {
+            "title": "François Chollet Launches ARC-AGI-3 Benchmark for Agentic AI",
+            "signal_text": "Google 研究员 François Chollet 正式推出 ARC-AGI-3 基准测试，旨在评估 Agentic AI 在接近人类行动效率方面的表现。该基准目前未被现有前沿模型饱和（私有测试集得分低于 1%），Chollet 称其为当前唯一未饱和的 Agentic AI 基准，任何分数跃升都可能意味着 AGI 研究的突破。该系列推文获数万 views。",
+            "signal_strength": 0.8,
+            "sources": [
+              {
+                "name": "@fchollet (Google researcher)",
+                "url": "https://x.com/fchollet/status/2036863769981403497"
+              },
+              {
+                "name": "@fchollet",
+                "url": "https://x.com/fchollet/status/2036868401843626302"
+              }
+            ],
+            "tags": [
+              "Agent 与新交互范式",
+              "技术突破",
+              "评估基准"
+            ],
+            "raw_item_indices": [
+              82,
+              85
+            ]
+          },
+          {
+            "title": "Anthropic Details Claude Code Auto Mode Safety Design",
+            "signal_text": "Anthropic 在工程博客中详细介绍了 Claude Code 自动模式的安全设计。该模式是一个更安全的中间方案，通过构建和测试分类器来做出批准决策，而非完全无需权限提示，旨在平衡自动化与安全性。该博文获 500+ likes 和 22k+ views。",
+            "signal_strength": 0.78,
+            "sources": [
+              {
+                "name": "AnthropicAI",
+                "url": "https://x.com/AnthropicAI/status/2036944806317088921"
+              }
+            ],
+            "tags": [
+              "Agent 与新交互范式",
+              "内容安全与治理",
+              "头部公司战略动作"
+            ],
+            "raw_item_indices": [
+              111
+            ]
+          },
+          {
+            "title": "Cursor AI Enables Cloud Agents to Run on User Infrastructure",
+            "signal_text": "AI 编程助手 Cursor 宣布其云端 Agent 现在可以在用户自有基础设施上运行。用户可以获得相同的云端 Agent 框架和体验，同时将代码和工具执行完全保留在自己的网络内，以满足企业对数据安全和隐私的要求。该公告获 230+ likes 和 6k+ views。",
+            "signal_strength": 0.75,
+            "sources": [
+              {
+                "name": "cursor_ai",
+                "url": "https://x.com/cursor_ai/status/2036873885665419773"
+              }
+            ],
+            "tags": [
+              "Agent 与新交互范式",
+              "企业级应用",
+              "开源生态"
+            ],
+            "raw_item_indices": [
+              78
+            ]
+          },
+          {
+            "title": "ByteDance Seed Team Publishes SIMART for 3D Asset Generation",
+            "signal_text": "字节跳动 Seed 团队在 arXiv 发布论文《SIMART: Decomposing Monolithic Meshes into Sim-ready Articulated Assets via MLLM》。该研究提出了一个统一的多模态大语言模型框架，用于生成可模拟的、关节化的 3D 资产，通过减少 tokenization 开销并提高模拟就绪度，在 3D 内容生成方向取得进展。",
+            "signal_strength": 0.75,
+            "sources": [
+              {
+                "name": "arXiv (ByteDance Seed)",
+                "url": "https://huggingface.co/papers/2603.23386"
+              }
+            ],
+            "tags": [
+              "内容创作与理解",
+              "多模态生成",
+              "头部公司战略动作"
+            ],
+            "raw_item_indices": [
+              164
+            ]
+          },
+          {
+            "title": "Anthropic Study Highlights Growing AI Skills Gap",
+            "signal_text": "据 TechCrunch 报道，Anthropic 的研究发现，AI 尚未大规模取代工作岗位，但早期数据显示不平等正在加剧，有经验的“超级用户”正在获得优势。这引发了人们对未来劳动力分化、技能差距和岗位替代的担忧。",
+            "signal_strength": 0.75,
+            "sources": [
+              {
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com/2026/03/25/the-ai-skills-gap-is-here-says-ai-company-and-power-users-are-pulling-ahead/"
+              }
+            ],
+            "tags": [
+              "行业风险与监管",
+              "头部公司战略动作"
+            ],
+            "raw_item_indices": [
+              14
+            ]
+          },
+          {
+            "title": "PyTorch and Nebius Speed Up DeepSeek-V3 Pre-training by 41%",
+            "signal_text": "PyTorch 官方宣布与 Nebius 合作，使用 TorchTitan 在 256 块 NVIDIA B200 GPU 上加速了 DeepSeek-V3（16B 和 671B）的预训练。通过 TorchAO 的 MXFP8 与 DeepEP 结合，相比 BF16 实现了高达 41% 的训练吞吐量提升（且收敛效果相当）。这展示了开源生态在高效训练大规模模型方面的进展。",
+            "signal_strength": 0.75,
+            "sources": [
+              {
+                "name": "PyTorch",
+                "url": "https://x.com/PyTorch/status/2036884532104736961"
+              }
+            ],
+            "tags": [
+              "技术突破",
+              "开源生态",
+              "推理效率提升"
+            ],
+            "raw_item_indices": [
+              128
+            ]
+          }
+        ],
+        "2026-03-27": [
+          {
+            "title": "Google Launches Gemini 3.1 Flash Live for Real-Time Voice and Vision Agents",
+            "signal_text": "Google 正式发布 Gemini 3.1 Flash Live，这是一个专为实时语音和视觉 Agent 设计的模型。据 Google AI 负责人 Jeff Dean 介绍，该模型原生理解音频，能处理复杂指令，在 ComplexFuncBench 和 Scale AI 的 AudioMultiChallenge 上表现领先。产品负责人 Logan Kilpatrick 表示，其在质量、可靠性和延迟方面实现了阶跃式改进，可用于构建语音控制应用。",
+            "signal_strength": 0.9,
+            "sources": [
+              {
+                "name": "Google AI Blog",
+                "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/"
+              },
+              {
+                "name": "Jeff Dean (@JeffDean)",
+                "url": "https://x.com/JeffDean/status/2037200383270170735"
+              },
+              {
+                "name": "Logan Kilpatrick (@OfficialLoganK)",
+                "url": "https://x.com/OfficialLoganK/status/2037187750005240307"
+              }
+            ],
+            "tags": [
+              "内容创作与理解",
+              "Agent 与新交互范式",
+              "头部公司战略动作"
+            ],
+            "raw_item_indices": [
+              35,
+              79,
+              131
+            ]
+          },
+          {
+            "title": "Intercom Launches Fin Apex 1.0, a Specialized AI Model Outperforming GPT-5.4 in Customer Service",
+            "signal_text": "据 VentureBeat 报道，客户服务平台 Intercom 发布了自研的专用 AI 模型 Fin Apex 1.0。该模型在客户服务解决率上击败了 GPT-5.4 和 Claude Sonnet 4.6，展示了垂直领域专用模型在特定任务上的优势。Intercom CEO 表示，在 AI 时代，赢家将是全栈 AI 公司。",
+            "signal_strength": 0.8,
+            "sources": [
+              {
+                "name": "VentureBeat",
+                "url": "https://venturebeat.com/technology/intercoms-new-post-trained-fin-apex-1-0-beats-gpt-5-4-and-claude-sonnet-4-6"
+              },
+              {
+                "name": "Clement Delangue (@ClementDelangue)",
+                "url": "https://x.com/ClementDelangue/status/2037226458767143371"
+              }
+            ],
+            "tags": [
+              "Agent 与新交互范式",
+              "头部公司战略动作",
+              "开源生态"
+            ],
+            "raw_item_indices": [
+              32,
+              106
+            ]
+          },
+          {
+            "title": "Google Expands Search Live Globally and Launches Chat Migration Tools for Gemini",
+            "signal_text": "Google 宣布其 AI 驱动的实时视觉搜索功能 Search Live 正在全球范围内扩展。同时，Google 推出了“切换工具”，使用户能够轻松地将其他聊天机器人的聊天记录和个人信息迁移到 Gemini，旨在降低用户转换成本。",
+            "signal_strength": 0.8,
+            "sources": [
+              {
+                "name": "Google AI Blog (Search Live)",
+                "url": "https://blog.google/products-and-platforms/products/search/search-live-global-expansion/"
+              },
+              {
+                "name": "TechCrunch (Gemini Migration)",
+                "url": "https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/"
+              }
+            ],
+            "tags": [
+              "搜索与推荐",
+              "头部公司战略动作"
+            ],
+            "raw_item_indices": [
+              9,
+              36
+            ]
+          },
+          {
+            "title": "Chroma Open-Sources Agentic Search Agent Trained with RL",
+            "signal_text": "向量数据库公司 Chroma 在 HuggingFace 上开源了其 Agentic Search Agent，并发布了技术报告。该搜索 Agent 使用强化学习训练，包含用于编辑上下文的剪枝工具、带验证步骤的合成数据管道以及从召回转向精度的课程学习。OpenAI 联合创始人 John Schulman 称赞了其训练效率和开放性。",
+            "signal_strength": 0.75,
+            "sources": [
+              {
+                "name": "Niels Rogge (@NielsRogge)",
+                "url": "https://x.com/NielsRogge/status/2037278806579257849"
+              },
+              {
+                "name": "John Schulman (@johnschulman2)",
+                "url": "https://x.com/johnschulman2/status/2037260655989014706"
+              }
+            ],
+            "tags": [
+              "搜索与推荐",
+              "Agent 与新交互范式",
+              "开源生态"
+            ],
+            "raw_item_indices": [
+              91,
+              127
+            ]
+          },
+          {
+            "title": "Sakana AI Announces Strategic Partnership with Mitsubishi Electric for Agentic AI in Manufacturing",
+            "signal_text": "日本 AI 初创公司 Sakana AI 宣布与三菱电机达成战略合作并获得投资。双方将结合三菱电机在制造业的领域知识和海量数据与 Sakana AI 的技术，共同推动 Agentic AI 在制造业的应用。",
+            "signal_strength": 0.75,
+            "sources": [
+              {
+                "name": "hardmaru (@hardmaru)",
+                "url": "https://x.com/hardmaru/status/2037123533357408415"
+              }
+            ],
+            "tags": [
+              "Agent 与新交互范式",
+              "头部公司战略动作"
+            ],
+            "raw_item_indices": [
+              70
+            ]
+          },
+          {
+            "title": "François Chollet Announces ARC-AGI-4 Release for Early 2027",
+            "signal_text": "Keras 创始人 François Chollet 宣布，下一代 AGI 基准测试 ARC-AGI-4 将于 2027 年初发布。他计划保持年度发布节奏，并确保每个新基准在发布时都未被饱和，以针对最重要的未解决研究问题。",
+            "signal_strength": 0.75,
+            "sources": [
+              {
+                "name": "François Chollet (@fchollet)",
+                "url": "https://x.com/fchollet/status/2037132780505624867"
+              }
+            ],
+            "tags": [
+              "技术突破",
+              "Agent 与新交互范式"
+            ],
+            "raw_item_indices": [
+              69
+            ]
+          },
+          {
+            "title": "DeepMind Paper Analyzes Challenges in Iterative Generative Optimization with LLMs",
+            "signal_text": "Google DeepMind 团队发表论文，分析了使用大语言模型进行迭代式生成优化所面临的挑战。研究发现，关于工件修改和学习证据的隐式设计决策会显著影响成功率，这为改进 AI 辅助创作和设计工具提供了重要见解。",
+            "signal_strength": 0.75,
+            "sources": [
+              {
+                "name": "HuggingFace Papers (DeepMind)",
+                "url": "https://huggingface.co/papers/2603.23994"
+              }
+            ],
+            "tags": [
+              "内容创作与理解",
+              "技术突破",
+              "头部公司战略动作"
+            ],
+            "raw_item_indices": [
+              170
+            ]
+          },
+          {
+            "title": "Meta AI Releases LagerNVS: Latent Geometry for Real-Time Neural View Synthesis",
+            "signal_text": "Meta AI 团队发表论文 LagerNVS，提出一种通过编码器-解码器架构融入 3D 归纳偏置的方法，使神经网络无需显式 3D 重建即可执行新视角合成等 3D 任务，并实现实时渲染。该工作已获得 148 GitHub stars。",
+            "signal_strength": 0.7,
+            "sources": [
+              {
+                "name": "HuggingFace Papers (LagerNVS)",
+                "url": "https://huggingface.co/papers/2603.20176"
+              },
+              {
+                "name": "@_akhaliq (curator)",
+                "url": "https://x.com/_akhaliq/status/2037233908857582041"
+              }
+            ],
+            "tags": [
+              "内容创作与理解",
+              "技术突破",
+              "头部公司战略动作"
+            ],
+            "raw_item_indices": [
+              103,
+              178
+            ]
+          },
+          {
+            "title": "Benchmark Shows Performance Leap for Agentic AI in OSWorld",
+            "signal_text": "OSWorld 基准测试排行榜显示，多个基于 Opus 4.5 的 Agent 系统（如 agent s3 w/ Opus 4.5 bBoN 和 UiPath Screen Agent w/ Opus 4.5）排名大幅跃升（上升 6-9 名），得分达到 66-67%，表明近期 Agent 在操作系统任务上的性能有显著进步。",
+            "signal_strength": 0.7,
+            "sources": [
+              {
+                "name": "OSWorld Benchmark",
+                "url": "https://os-world.github.io/"
+              }
+            ],
+            "tags": [
+              "Agent 与新交互范式",
+              "技术突破"
+            ],
+            "raw_item_indices": [
+              204,
+              205,
+              206,
+              207
+            ]
+          },
+          {
+            "title": "Wikipedia Cracks Down on AI-Generated Article Writing",
+            "signal_text": "据 TechCrunch 报道，维基百科正在加强对 AI 生成文章写作的管控。该网站一直在与 AI 生成内容的问题作斗争，其政策可能因此发生变化，反映出社区对 AI 生成内容质量和可信度的担忧。",
+            "signal_strength": 0.65,
+            "sources": [
+              {
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/"
+              }
+            ],
+            "tags": [
+              "内容安全与治理",
+              "行业风险与监管"
+            ],
+            "raw_item_indices": [
+              19
+            ]
+          }
+        ],
+        "2026-03-28": [
+          {
+            "title": "Anthropic's Next-Gen Model 'Claude Mythos' Leaked, Poses Cybersecurity Risks",
+            "signal_text": "据 Fortune 报道，泄露的 Anthropic 内部文件显示其下一代模型“Claude Mythos”已在测试中，且公司内部评估认为该模型存在前所未有的网络安全风险。这一信号来自获 4500+ views 的推文，表明顶级 AI 实验室在开发更强大模型的同时，对潜在风险的担忧也在加剧。",
+            "signal_strength": 0.82,
+            "sources": [
+              {
+                "name": "@minchoi (citing Fortune)",
+                "url": "https://x.com/minchoi/status/2037384864509423652"
+              },
+              {
+                "name": "@DeryaTR_",
+                "url": "https://x.com/DeryaTR_/status/2037405841398157734"
+              }
+            ],
+            "tags": [
+              "头部公司战略动作",
+              "内容安全与治理",
+              "行业风险与监管"
+            ],
+            "raw_item_indices": [
+              37,
+              53
+            ]
+          },
+          {
+            "title": "OpenAI Codex Launches Plugin Support, Enabling New Workflow Automation",
+            "signal_text": "OpenAI 为其 AI 编程助手 Codex 推出插件支持。用户现可利用插件在 Codex 内自动化工作流，例如处理 Box 中的文档以提取结构化数据。OpenAI Devs 官方账号（获 560+ likes）同步发布了用例库，展示如何一键构建 iOS 应用、分析数据集等。",
+            "signal_strength": 0.8,
+            "sources": [
+              {
+                "name": "@OpenAIDevs",
+                "url": "https://x.com/OpenAIDevs/status/2037604273434018259"
+              },
+              {
+                "name": "@levie (Box CEO)",
+                "url": "https://x.com/levie/status/2037383187245273477"
+              },
+              {
+                "name": "@gdb",
+                "url": "https://x.com/gdb/status/2037348081684111623"
+              }
+            ],
+            "tags": [
+              "Agent 与新交互范式",
+              "头部公司战略动作",
+              "内容创作与理解"
+            ],
+            "raw_item_indices": [
+              38,
+              50,
+              97
+            ]
+          },
+          {
+            "title": "Microsoft Research Paper Finds Self-Distillation Can Harm LLM Reasoning",
+            "signal_text": "微软研究院（Microsoft Research）团队发表论文，揭示自蒸馏（Self-Distillation）有时会损害大语言模型的推理能力。研究发现，自蒸馏会抑制模型表达不确定性的能力，从而对数学推理，特别是分布外（OOD）问题的性能产生负面影响。",
+            "signal_strength": 0.78,
+            "sources": [
+              {
+                "name": "Microsoft Research (via HuggingFace Papers)",
+                "url": "https://huggingface.co/papers/2603.24472"
+              }
+            ],
+            "tags": [
+              "技术突破",
+              "内容创作与理解",
+              "推理效率提升"
+            ],
+            "raw_item_indices": [
+              137
+            ]
+          },
+          {
+            "title": "Tencent AI Lab Publishes UI-Voyager: A Self-Evolving Mobile GUI Agent",
+            "signal_text": "腾讯 AI Lab 团队提出 UI-Voyager，一个通过失败经验进行自我进化的移动端 GUI 智能体。该框架采用两阶段训练（拒绝微调和群体相对自蒸馏），提升了在图形用户界面任务上的效率和性能，为自动化交互和 Agent 能力演进提供了新思路。",
+            "signal_strength": 0.75,
+            "sources": [
+              {
+                "name": "Tencent (via HuggingFace Papers)",
+                "url": "https://huggingface.co/papers/2603.24533"
+              }
+            ],
+            "tags": [
+              "Agent 与新交互范式",
+              "技术突破",
+              "头部公司战略动作"
+            ],
+            "raw_item_indices": [
+              138
+            ]
+          },
+          {
+            "title": "Perplexity AI Powers Samsung Browser's Browsing Assist Feature",
+            "signal_text": "AI 搜索公司 Perplexity 宣布其技术现已集成到三星浏览器（Samsung Browser）的“浏览助手”（Browsing Assist）功能中，覆盖 Galaxy Android 和 Windows 设备。这是 Perplexity 在扩大其 AI 搜索技术落地场景上的重要一步。",
+            "signal_strength": 0.75,
+            "sources": [
+              {
+                "name": "@perplexity_ai",
+                "url": "https://x.com/perplexity_ai/status/2037556796139921847"
+              }
+            ],
+            "tags": [
+              "搜索与推荐",
+              "头部公司战略动作",
+              "新产品形态"
+            ],
+            "raw_item_indices": [
+              80
+            ]
+          },
+          {
+            "title": "Google Releases Agent Development Kit for Faster AI Agent Building",
+            "signal_text": "Google Developers 发布 Agent Development Kit，旨在帮助开发者更快地构建和部署 AI 智能体。该工具包提供设置智能体、部署系统和链接工具的能力，并计划举办线上构建活动展示与专业 AI 工作流集成的实例。",
+            "signal_strength": 0.72,
+            "sources": [
+              {
+                "name": "@googledevs",
+                "url": "https://x.com/googledevs/status/2037643322387234886"
+              }
+            ],
+            "tags": [
+              "Agent 与新交互范式",
+              "开源生态",
+              "头部公司战略动作"
+            ],
+            "raw_item_indices": [
+              86
+            ]
+          },
+          {
+            "title": "Inflection AI Partners with Crusoe on 900MW AI Data Center in Texas",
+            "signal_text": "Inflection AI 联合创始人 Mustafa Suleyman 宣布，公司正与 Crusoe 合作，在德克萨斯州阿比林市建设一个 900MW 的 AI 数据中心（AI factory），以扩充其 AI 算力集群。这反映了头部 AI 公司对算力基础设施的持续大规模投入。",
+            "signal_strength": 0.72,
+            "sources": [
+              {
+                "name": "@mustafasuleyman (Inflection AI co-founder)",
+                "url": "https://x.com/mustafasuleyman/status/2037547756320141587"
+              }
+            ],
+            "tags": [
+              "头部公司战略动作",
+              "技术突破"
+            ],
+            "raw_item_indices": [
+              84
+            ]
+          },
+          {
+            "title": "IndexCache: Sparse Attention Optimizer from Tsinghua & Z.ai Speeds Up Long-Context Inference",
+            "signal_text": "据 VentureBeat 报道，清华大学和 Z.ai 的研究人员提出 IndexCache，一种新的稀疏注意力优化技术，可减少长上下文处理中高达 75% 的冗余计算，在 20 万 token 的上下文上实现 1.82 倍的推理加速。这对提升长文本理解和生成效率有直接价值。",
+            "signal_strength": 0.7,
+            "sources": [
+              {
+                "name": "VentureBeat (citing arXiv)",
+                "url": "https://venturebeat.com/technology/indexcache-a-new-sparse-attention-optimizer-delivers-1-82x-faster-inference"
+              }
+            ],
+            "tags": [
+              "技术突破",
+              "搜索与推荐",
+              "推理效率提升"
+            ],
+            "raw_item_indices": [
+              28
+            ]
+          },
+          {
+            "title": "OpenAI CEO Shares Story of User Using LLMs to Develop mRNA Vaccine for Dog",
+            "signal_text": "OpenAI CEO Sam Altman（获 1600+ likes, 194k+ views）分享了一个用户故事：一位名叫 Paul 的用户利用 ChatGPT、Gemini 和 Grok 等 LLM，在兽医和基因组学实验室的协助下，为其患癌的宠物狗 Rosie 制定了个性化的 mRNA 癌症疫苗方案。这展示了 AI 在赋能个体进行复杂研究方面的潜力。",
+            "signal_strength": 0.7,
+            "sources": [
+              {
+                "name": "@sama (OpenAI CEO)",
+                "url": "https://x.com/sama/status/2037396826060673188"
+              },
+              {
+                "name": "@minchoi",
+                "url": "https://x.com/minchoi/status/2037525620934988169"
+              }
+            ],
+            "tags": [
+              "Agent 与新交互范式",
+              "内容创作与理解",
+              "新产品形态"
+            ],
+            "raw_item_indices": [
+              55,
+              65
+            ]
+          },
+          {
+            "title": "NeurIPS Reverses Policy After Backlash from Chinese Researchers Over Geopolitical Lines",
+            "signal_text": "据 Wired 报道，顶级 AI 会议 NeurIPS 近期一项政策变动引发了来自中国研究人员的广泛反对，随后该政策被迅速撤销。NeurIPS 官方账号（获 280+ likes, 86k+ views）发表声明，承认此事引起警觉并承诺进行解释。这凸显了 AI 研究与地缘政治日益交织的现状。",
+            "signal_strength": 0.68,
+            "sources": [
+              {
+                "name": "Wired",
+                "url": "https://www.wired.com/story/made-in-china-ai-research-is-starting-to-split-along-geopolitical-lines/"
+              },
+              {
+                "name": "@NeurIPSConf",
+                "url": "https://x.com/NeurIPSConf/status/2037438893457289364"
+              }
+            ],
+            "tags": [
+              "行业风险与监管",
+              "开源生态"
+            ],
+            "raw_item_indices": [
+              14,
+              57
+            ]
+          }
+        ],
+        "2026-03-29": [
+          {
+            "title": "Mustafa Suleyman Highlights AI Industry Supply-Demand Imbalance",
+            "signal_text": "Inflection AI联合创始人Mustafa Suleyman（获300+ likes, 4.4万+ views）指出，未来几年AI行业将由需求远超供给定义，拥有支付token预算利润空间的公司/产品将能快速改进。这揭示了当前AI商业化的核心约束和竞争态势。",
+            "signal_strength": 0.85,
+            "sources": [
+              {
+                "name": "Twitter @mustafasuleyman",
+                "url": "https://x.com/mustafasuleyman/status/2037964810575290593"
+              }
+            ],
+            "tags": [
+              "行业洞察",
+              "商业化路径",
+              "基础设施"
+            ],
+            "raw_item_indices": [
+              68
+            ]
+          },
+          {
+            "title": "Andrej Karpathy Highlights LLM's Persuasive but Reversible Arguments",
+            "signal_text": "前特斯拉AI总监、OpenAI研究员Andrej Karpathy（推文获1.8万+ likes, 117万+ views）分享亲身经历：用LLM花4小时完善一篇博客论点后，让LLM论证相反观点，结果LLM轻易推翻了原论点并说服了他。这直观揭示了当前LLM在复杂推理和论证上的局限性及“两面性”。",
+            "signal_strength": 0.85,
+            "sources": [
+              {
+                "name": "Twitter @karpathy",
+                "url": "https://x.com/karpathy/status/2037921699824607591"
+              }
+            ],
+            "tags": [
+              "技术洞察",
+              "LLM局限性",
+              "内容创作"
+            ],
+            "raw_item_indices": [
+              76
+            ]
+          },
+          {
+            "title": "ByteDance's LVFace Face Recognition Model Gains Community Traction",
+            "signal_text": "字节跳动在ICCV 2025发表的LVFace人脸识别模型（已在GitHub开源）正引发社区讨论和实际应用测试，用户正在将其与ArcFace/ResNet等现有方案进行性能对比。这表明头部公司在计算机视觉（尤其是人脸相关）的先进技术正快速进入应用生态。",
+            "signal_strength": 0.8,
+            "sources": [
+              {
+                "name": "Reddit ML",
+                "url": "https://www.reddit.com/r/MachineLearning/comments/1s6a90d/lvface_performance_vs_arcfaceresnet/"
+              }
+            ],
+            "tags": [
+              "内容理解",
+              "计算机视觉",
+              "开源生态",
+              "字节跳动"
+            ],
+            "raw_item_indices": [
+              13
+            ]
+          },
+          {
+            "title": "Stanford Study Warns of Dangers in AI Personal Advice",
+            "signal_text": "斯坦福大学计算机科学家团队的研究指出，向AI聊天机器人寻求个人建议存在潜在危害，量化了AI的“谄媚”倾向可能带来的风险。该研究由知名学术机构完成，对内容平台的内容安全和用户引导有直接参考价值。",
+            "signal_strength": 0.75,
+            "sources": [
+              {
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/"
+              }
+            ],
+            "tags": [
+              "内容安全与治理",
+              "AI伦理",
+              "用户研究"
+            ],
+            "raw_item_indices": [
+              11
+            ]
+          },
+          {
+            "title": "François Chollet Predicts Future Class Divide Based on Cognitive Agency",
+            "signal_text": "Keras创始人François Chollet（获340+ likes）提出，如果AGI实现，未来的阶级划分将基于认知能动性而非财富：分为“专注阶级”（能控制注意力并做事的人）和“垃圾内容阶级”（注意力被算法投喂内容吞噬的人）。这对内容社区的长期生态设计具有深刻启示。",
+            "signal_strength": 0.75,
+            "sources": [
+              {
+                "name": "Twitter @fchollet",
+                "url": "https://x.com/fchollet/status/2037940998933008420"
+              }
+            ],
+            "tags": [
+              "行业洞察",
+              "AI伦理",
+              "内容生态",
+              "未来学"
+            ],
+            "raw_item_indices": [
+              56
+            ]
+          },
+          {
+            "title": "InternLM Releases WildClawBench for In-the-Wild Agent Evaluation",
+            "signal_text": "InternLM（上海人工智能实验室）开源了WildClawBench，这是一个用于在OpenClaw环境中评估AI智能体的真实场景基准。这表明国内头部研究机构正积极参与并推动AI Agent评估生态的建设。",
+            "signal_strength": 0.75,
+            "sources": [
+              {
+                "name": "GitHub (InternLM)",
+                "url": "https://github.com/InternLM/WildClawBench"
+              }
+            ],
+            "tags": [
+              "Agent与新交互范式",
+              "基准测试",
+              "开源生态",
+              "InternLM"
+            ],
+            "raw_item_indices": [
+              85
+            ]
+          },
+          {
+            "title": "Suno AI Music Model v5.5 Focuses on User Customization",
+            "signal_text": "据The Verge报道，AI音乐生成公司Suno发布了其模型的v5.5版本更新，重点从提升保真度转向赋予用户更多控制权，新增了“Voices”、“My Taste”和“Custom Models”三大功能。这标志着AI生成工具正从追求通用质量向支持深度个性化创作演进。",
+            "signal_strength": 0.75,
+            "sources": [
+              {
+                "name": "The Verge",
+                "url": "https://www.theverge.com/entertainment/903056/suno-ai-music-v5-5-model"
+              }
+            ],
+            "tags": [
+              "内容创作与理解",
+              "个性化内容生成",
+              "AIGC工具",
+              "音频生成"
+            ],
+            "raw_item_indices": [
+              15
+            ]
+          },
+          {
+            "title": "Bluesky Launches AI-Powered Custom Feed Builder App 'Attie'",
+            "signal_text": "据TechCrunch报道，去中心化社交协议Bluesky推出了一款名为Attie的新应用，利用AI帮助用户在atproto协议上构建自定义信息流。这展示了AI在社交网络内容发现和个性化推荐中的新应用范式。",
+            "signal_strength": 0.7,
+            "sources": [
+              {
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/"
+              }
+            ],
+            "tags": [
+              "搜索与推荐",
+              "个性化内容生成",
+              "新产品形态",
+              "社交网络"
+            ],
+            "raw_item_indices": [
+              7
+            ]
+          },
+          {
+            "title": "The Verge Critiques TikTok's AI-Generated Ad Detection",
+            "signal_text": "据The Verge报道，TikTok在识别AI生成的广告内容方面存在明显不足，即使普通用户也能发现一些未标注的AI生成广告。这凸显了内容平台在AI生成内容检测和合规标注方面面临的现实挑战。",
+            "signal_strength": 0.7,
+            "sources": [
+              {
+                "name": "The Verge",
+                "url": "https://www.theverge.com/ai-artificial-intelligence/900400/tiktok-ai-ads-labels-samsung-disclosure"
+              }
+            ],
+            "tags": [
+              "内容安全与治理",
+              "AI生成内容检测",
+              "平台合规",
+              "TikTok"
+            ],
+            "raw_item_indices": [
+              24
+            ]
+          },
+          {
+            "title": "Lean-Ctx: Open-Source Tool Cuts LLM Token Consumption by 89-99%",
+            "signal_text": "一个名为`lean-ctx`的Rust开源项目（获294 stars）通过Shell Hook + MCP Server的混合上下文优化器，声称能将LLM的token消耗降低89-99%。该工具单二进制、零依赖，为降低AI应用成本提供了新思路。",
+            "signal_strength": 0.7,
+            "sources": [
+              {
+                "name": "GitHub",
+                "url": "https://github.com/yvgude/lean-ctx"
+              }
+            ],
+            "tags": [
+              "技术突破",
+              "推理效率提升",
+              "开源工具",
+              "成本优化"
+            ],
+            "raw_item_indices": [
+              82
             ]
           }
         ]

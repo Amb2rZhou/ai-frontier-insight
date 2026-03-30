@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-29T09:34:54.209392+08:00",
+  "last_updated": "2026-03-30T09:35:46.289883+08:00",
   "trends": [
     {
       "id": "ai_safety_pivot_and_accelerated_agi_time",
@@ -11,7 +11,7 @@
         "Anthropic"
       ],
       "trajectory": "accelerating",
-      "signal_count": 43,
+      "signal_count": 45,
       "weekly_counts": [
         1,
         1,
@@ -24,7 +24,7 @@
         1,
         1,
         1,
-        1
+        2
       ],
       "key_events": [
         {
@@ -178,6 +178,10 @@
         {
           "date": "2026-03-29",
           "event": "Stanford Study Warns of Dangers in AI Personal Advice, highlighting safety concerns about AI advice systems"
+        },
+        {
+          "date": "2026-03-30",
+          "event": "Nicolas Carlini claims Claude outperforms him in security research, highlighting AI's advancing capabilities in security domains"
         }
       ],
       "created": "2026-02-25"
@@ -260,16 +264,16 @@
         "Multimodal AI"
       ],
       "trajectory": "accelerating",
-      "signal_count": 28,
+      "signal_count": 29,
       "weekly_counts": [
         1,
         1,
         1,
         1,
-        1,
         2,
         1,
         2,
+        1,
         1,
         1,
         1,
@@ -379,6 +383,10 @@
         {
           "date": "2026-03-25",
           "event": "HuggingFace CEO proposes open-sourcing Sora as OpenAI shuts down app"
+        },
+        {
+          "date": "2026-03-30",
+          "event": "Lightricks releases LTX-2.3 multimodal video model, expanding open-source video generation capabilities"
         }
       ],
       "created": "2026-02-25"
@@ -482,9 +490,8 @@
         "Anthropic"
       ],
       "trajectory": "accelerating",
-      "signal_count": 71,
+      "signal_count": 72,
       "weekly_counts": [
-        3,
         3,
         2,
         3,
@@ -495,6 +502,7 @@
         2,
         1,
         4,
+        1,
         1
       ],
       "key_events": [
@@ -649,6 +657,10 @@
         {
           "date": "2026-03-28",
           "event": "OpenAI Codex Launches Plugin Support, Enabling New Workflow Automation"
+        },
+        {
+          "date": "2026-03-30",
+          "event": "OpenAI Codex launches security feature for vulnerability detection, enhancing enterprise security capabilities"
         }
       ],
       "created": "2026-02-25"
@@ -675,8 +687,8 @@
         0,
         0,
         0,
-        0,
-        1
+        1,
+        0
       ],
       "key_events": [
         {
@@ -704,9 +716,8 @@
         "Multimodal AI"
       ],
       "trajectory": "accelerating",
-      "signal_count": 68,
+      "signal_count": 69,
       "weekly_counts": [
-        1,
         2,
         2,
         3,
@@ -717,7 +728,8 @@
         2,
         3,
         1,
-        2
+        2,
+        1
       ],
       "key_events": [
         {
@@ -879,6 +891,10 @@
         {
           "date": "2026-03-29",
           "event": "Andrej Karpathy Highlights LLM's Persuasive but Reversible Arguments; Lean-Ctx: Open-Source Tool Cuts LLM Token Consumption by 89-99%"
+        },
+        {
+          "date": "2026-03-30",
+          "event": "Research highlights cost misleading in API pricing for reasoning models, revealing transparency issues in AI service pricing"
         }
       ],
       "created": "2026-02-25"
@@ -1083,9 +1099,8 @@
         "Automation"
       ],
       "trajectory": "accelerating",
-      "signal_count": 102,
+      "signal_count": 103,
       "weekly_counts": [
-        4,
         3,
         1,
         2,
@@ -1096,6 +1111,7 @@
         1,
         3,
         2,
+        1,
         1
       ],
       "key_events": [
@@ -1266,6 +1282,10 @@
         {
           "date": "2026-03-29",
           "event": "InternLM Releases WildClawBench for In-the-Wild Agent Evaluation, advancing agent testing capabilities"
+        },
+        {
+          "date": "2026-03-30",
+          "event": "OpenClaw agent framework update gains high engagement, showing continued developer adoption"
         }
       ],
       "created": "2026-02-25"
@@ -1629,9 +1649,8 @@
         "Risk Management"
       ],
       "trajectory": "accelerating",
-      "signal_count": 35,
+      "signal_count": 37,
       "weekly_counts": [
-        1,
         1,
         1,
         1,
@@ -1642,7 +1661,8 @@
         1,
         1,
         1,
-        1
+        1,
+        2
       ],
       "key_events": [
         {
@@ -1764,6 +1784,10 @@
         {
           "date": "2026-03-29",
           "event": "Stanford Study Warns of Dangers in AI Personal Advice, highlighting new safety risks in AI advice systems"
+        },
+        {
+          "date": "2026-03-30",
+          "event": "Study warns of AI-generated content in workplace communication, revealing new social engineering risks"
         }
       ],
       "created": "2026-02-25"
@@ -1990,9 +2014,8 @@
         "Startup Funding"
       ],
       "trajectory": "accelerating",
-      "signal_count": 32,
+      "signal_count": 34,
       "weekly_counts": [
-        1,
         1,
         1,
         2,
@@ -2003,7 +2026,8 @@
         1,
         1,
         1,
-        1
+        1,
+        2
       ],
       "key_events": [
         {
@@ -2117,6 +2141,10 @@
         {
           "date": "2026-03-29",
           "event": "Suno AI Music Model v5.5 Focuses on User Customization, advancing personalized audio generation"
+        },
+        {
+          "date": "2026-03-30",
+          "event": "Forge-Film: DAG-driven parallel AI film generation engine emerges, advancing video production automation"
         }
       ],
       "created": "2026-02-26"
@@ -2201,6 +2229,7 @@
         0,
         0,
         0,
+        0,
         0
       ],
       "key_events": [
@@ -2224,6 +2253,7 @@
       "signal_count": 1,
       "weekly_counts": [
         1,
+        0,
         0,
         0,
         0,
@@ -2265,6 +2295,7 @@
         0,
         0,
         0,
+        0,
         0
       ],
       "key_events": [
@@ -2288,7 +2319,7 @@
       "signal_count": 2,
       "weekly_counts": [
         1,
-        1,
+        0,
         0,
         0,
         0,
@@ -2325,6 +2356,7 @@
       "signal_count": 1,
       "weekly_counts": [
         1,
+        0,
         0,
         0,
         0,
@@ -2379,6 +2411,7 @@
       "signal_count": 1,
       "weekly_counts": [
         1,
+        0,
         0,
         0,
         0,
@@ -2507,6 +2540,28 @@
         }
       ],
       "created": "2026-03-23"
+    },
+    {
+      "id": "ai_video_generation_market_reality_check",
+      "name": "AI Video Generation Market Reality Check and Consolidation",
+      "related_tags": [
+        "Video Generation",
+        "Market Consolidation",
+        "Commercialization",
+        "Sora"
+      ],
+      "trajectory": "accelerating",
+      "signal_count": 1,
+      "weekly_counts": [
+        1
+      ],
+      "key_events": [
+        {
+          "date": "2026-03-30",
+          "event": "First detected"
+        }
+      ],
+      "created": "2026-03-30"
     }
   ]
 }
