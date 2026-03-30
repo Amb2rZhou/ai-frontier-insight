@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-30T09:05:08.593421",
+  "scraped_at": "2026-03-30T13:27:23.150475",
   "date": "2026-03-30",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 27,
-  "account_count": 22,
+  "tweet_count": 34,
+  "account_count": 28,
   "tweets": [
     {
       "id": "2038337511903440944",
@@ -318,6 +318,87 @@
       "likes": 1101,
       "retweets": 120,
       "views": 110234
+    },
+    {
+      "id": "2038482377102799147",
+      "username": "JeffDean",
+      "text": "\"Give me your tired, your poor, your huddled masses yearning to breathe free\" 🗽\n\nAs Charles Barkley observed, we are falling short of our own ideals.",
+      "timestamp": "2026-03-30T05:04:06+00:00",
+      "url": "https://x.com/JeffDean/status/2038482377102799147",
+      "images": [],
+      "likes": 53,
+      "retweets": 14,
+      "views": 3481
+    },
+    {
+      "id": "2038473824338145419",
+      "username": "shaneguML",
+      "text": "SKILL.md --self-improve https://t.co/tV5AlgerRr",
+      "timestamp": "2026-03-30T04:30:07+00:00",
+      "url": "https://x.com/shaneguML/status/2038473824338145419",
+      "images": [
+        "https://pbs.twimg.com/media/HEodItwbEAAlT0_.jpg"
+      ],
+      "likes": 6,
+      "retweets": 0,
+      "views": 505
+    },
+    {
+      "id": "2038468564500537416",
+      "username": "levie",
+      "text": "It’s wild to think about what types of infrastructure and services must change in a world where agents can process information a hundred or a thousand times faster than humans.\n\nEven the tools that were built for machine speed before, generally were still in service of end-users",
+      "timestamp": "2026-03-30T04:09:13+00:00",
+      "url": "https://x.com/levie/status/2038468564500537416",
+      "images": [],
+      "likes": 74,
+      "retweets": 8,
+      "views": 16529
+    },
+    {
+      "id": "2038454205476941941",
+      "username": "arankomatsuzaki",
+      "text": "While Alec is one of the best ML researchers of all time, LLM started way before. \n\nHere's one from 2013 for non-neural architecture and one from 2016, which is afaik the first neural LLM if we define LLM as LM w/ &gt;1B params. https://t.co/WM0oR28uAn",
+      "timestamp": "2026-03-30T03:12:09+00:00",
+      "url": "https://x.com/arankomatsuzaki/status/2038454205476941941",
+      "images": [
+        "https://pbs.twimg.com/media/HEoK4sobIAAcgOB.jpg"
+      ],
+      "likes": 50,
+      "retweets": 5,
+      "views": 7687
+    },
+    {
+      "id": "2038450052830502964",
+      "username": "DeryaTR_",
+      "text": "Exactly 12 months ago, Anthropic CEO Dario Amodei made what sounded like an outlandish prediction: that in 12 months, AI would be writing essentially all of the code. It turned out to be one of the most strikingly correct predictions in the age of AI. Exact quote:\n\n“If I look at",
+      "timestamp": "2026-03-30T02:55:39+00:00",
+      "url": "https://x.com/DeryaTR_/status/2038450052830502964",
+      "images": [],
+      "likes": 147,
+      "retweets": 8,
+      "views": 7639
+    },
+    {
+      "id": "2038437460250894340",
+      "username": "srush_nlp",
+      "text": "This is adorable, but it's missing Cursor! Who will defend the North and man the Wall? \n\n(Made with cloud agents - \"add cursor in sf-ai-startup-quest and take 10 second video\".) https://t.co/YTihfrnvla",
+      "timestamp": "2026-03-30T02:05:37+00:00",
+      "url": "https://x.com/srush_nlp/status/2038437460250894340",
+      "images": [],
+      "likes": 62,
+      "retweets": 1,
+      "views": 8715
+    },
+    {
+      "id": "2037994222578712663",
+      "username": "arena",
+      "text": "Most people have heard of big model smell, but what about pristine pre-training smell?\n\nEvan and Derry seem to think it exists. https://t.co/eFBNfeLDKO",
+      "timestamp": "2026-03-28T20:44:21+00:00",
+      "url": "https://x.com/arena/status/2037994222578712663",
+      "images": [],
+      "likes": 54,
+      "retweets": 8,
+      "views": 10171
     }
   ]
 }
