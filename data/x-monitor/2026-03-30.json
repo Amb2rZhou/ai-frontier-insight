@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-30T07:04:10.080127",
+  "scraped_at": "2026-03-30T09:05:08.593421",
   "date": "2026-03-30",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 23,
-  "account_count": 18,
+  "tweet_count": 27,
+  "account_count": 22,
   "tweets": [
     {
       "id": "2038337511903440944",
@@ -274,6 +274,50 @@
       "likes": 580,
       "retweets": 65,
       "views": 133900
+    },
+    {
+      "id": "2038414750585889175",
+      "username": "DeryaTR_",
+      "text": "Congratulations to my friend @biogerontology &amp; @InSilicoMeds for this monumental deal for AI-developed drugs! They pioneered the development of the first AI-generated drug years ago when most were skeptical this would be possible! This is why I said we’ll cure all diseases soon!",
+      "timestamp": "2026-03-30T00:35:23+00:00",
+      "url": "https://x.com/DeryaTR_/status/2038414750585889175",
+      "images": [],
+      "likes": 19,
+      "retweets": 2,
+      "views": 1468
+    },
+    {
+      "id": "2038393826918952960",
+      "username": "OpenAIDevs",
+      "text": "What are you building this weekend?",
+      "timestamp": "2026-03-29T23:12:14+00:00",
+      "url": "https://x.com/OpenAIDevs/status/2038393826918952960",
+      "images": [],
+      "likes": 457,
+      "retweets": 14,
+      "views": 38369
+    },
+    {
+      "id": "2037616578787713194",
+      "username": "emollick",
+      "text": "One way to see the advancement of AI is to see how much further you can get with new models on the same hardware\n\nHere is \"an otter using a laptop on an airplane\" generated on my home computer using the open weights Wan 2.1, first try. We have come pretty far in 18 months. https://t.co/c4iz9UcmTB",
+      "timestamp": "2026-03-27T19:43:44+00:00",
+      "url": "https://x.com/emollick/status/2037616578787713194",
+      "images": [],
+      "likes": 290,
+      "retweets": 13,
+      "views": 34183
+    },
+    {
+      "id": "2037561745649397805",
+      "username": "GeminiApp",
+      "text": "The March installment of Gemini Drops is here!\n\nFrom transferring your past AI chat history to getting personalized help across your Google apps for free, this Drop is all about making AI feel more continuous and intuitive.\n\nHere’s a look at everything we shipped in March ↓",
+      "timestamp": "2026-03-27T16:05:50+00:00",
+      "url": "https://x.com/GeminiApp/status/2037561745649397805",
+      "images": [],
+      "likes": 1101,
+      "retweets": 120,
+      "views": 110234
     }
   ]
 }
