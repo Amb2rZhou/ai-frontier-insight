@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-03-31T12:24:38.270790",
+  "scraped_at": "2026-03-31T15:27:18.007886",
   "date": "2026-03-31",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 76,
-  "account_count": 42,
+  "tweet_count": 86,
+  "account_count": 47,
   "tweets": [
     {
       "id": "2038664176395248093",
@@ -897,6 +897,123 @@
       "likes": 94,
       "retweets": 3,
       "views": 5660
+    },
+    {
+      "id": "2038875507635245181",
+      "username": "CSProfKGD",
+      "text": "PSA: Here we go again.  Don’t be fooled by fake conferences 🙄 https://t.co/X5oBFOwOz4",
+      "timestamp": "2026-03-31T07:06:16+00:00",
+      "url": "https://x.com/CSProfKGD/status/2038875507635245181",
+      "images": [
+        "https://pbs.twimg.com/media/HEuKduAbwAEfHL3.jpg"
+      ],
+      "likes": 2,
+      "retweets": 1,
+      "views": 212
+    },
+    {
+      "id": "2038874107085832368",
+      "username": "PyTorch",
+      "text": "1️⃣ week until #PyTorchCon Europe! 🇫🇷 Paris becomes the home of #PyTorch for two days of #ML breakthroughs &amp; community from 7-8 April. Check out schedule: https://t.co/VibJpzycTV. 🎟 Join us! https://t.co/zFEkkeDp2Y https://t.co/WNpkYpjVZo",
+      "timestamp": "2026-03-31T07:00:42+00:00",
+      "url": "https://x.com/PyTorch/status/2038874107085832368",
+      "images": [],
+      "likes": 3,
+      "retweets": 1,
+      "views": 786
+    },
+    {
+      "id": "2038853278373421299",
+      "username": "giffmana",
+      "text": "If i was still publishing, i would now write a paper on REINDEER",
+      "timestamp": "2026-03-31T05:37:56+00:00",
+      "url": "https://x.com/giffmana/status/2038853278373421299",
+      "images": [],
+      "likes": 11,
+      "retweets": 0,
+      "views": 2410
+    },
+    {
+      "id": "2038849654423798197",
+      "username": "karpathy",
+      "text": "New supply chain attack this time for npm axios, the most popular HTTP client library with 300M weekly downloads.\n\nScanning my system I found a use imported from googleworkspace/cli from a few days ago when I was experimenting with gmail/gcal cli. The installed version (luckily)",
+      "timestamp": "2026-03-31T05:23:32+00:00",
+      "url": "https://x.com/karpathy/status/2038849654423798197",
+      "images": [],
+      "likes": 3818,
+      "retweets": 430,
+      "views": 363226
+    },
+    {
+      "id": "2038848878875726321",
+      "username": "HochreiterSepp",
+      "text": "A high-performance trading architecture built around xLSTM: https://t.co/wkh84dYSao\n\nThe model is used as a market-state encoder, while reinforcement learning handles the trading decisions. This performance of xLSTM should be confirmed  by further investigations. https://t.co/qeIy6bZfiq",
+      "timestamp": "2026-03-31T05:20:27+00:00",
+      "url": "https://x.com/HochreiterSepp/status/2038848878875726321",
+      "images": [
+        "https://pbs.twimg.com/media/HEtyM8sa8AAv-HS.jpg"
+      ],
+      "likes": 6,
+      "retweets": 1,
+      "views": 356
+    },
+    {
+      "id": "2038677637644922943",
+      "username": "satyanadella",
+      "text": "New in M365 Copilot: Council.\n\nYou can run multiple models on the same prompt at the same time, so you can see where they align and diverge, and understand what each adds. https://t.co/2p7O14OLFp",
+      "timestamp": "2026-03-30T18:00:00+00:00",
+      "url": "https://x.com/satyanadella/status/2038677637644922943",
+      "images": [],
+      "likes": 2196,
+      "retweets": 256,
+      "views": 321953
+    },
+    {
+      "id": "2038098158434369749",
+      "username": "Miles_Brundage",
+      "text": "Leaked footage of the one remaining xAI employee training a frontier model https://t.co/7MFONZZ2K1",
+      "timestamp": "2026-03-29T03:37:21+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2038098158434369749",
+      "images": [],
+      "likes": 197,
+      "retweets": 5,
+      "views": 78162
+    },
+    {
+      "id": "2037785955126652990",
+      "username": "thsottiaux",
+      "text": "Growth of codex continues to outpace our prediction (maybe we are not super good at that) and we almost ran out of capacity three days in a row. We have ramped up more significantly ahead of next week.",
+      "timestamp": "2026-03-28T06:56:46+00:00",
+      "url": "https://x.com/thsottiaux/status/2037785955126652990",
+      "images": [],
+      "likes": 2141,
+      "retweets": 48,
+      "views": 87435
+    },
+    {
+      "id": "2037477945346761066",
+      "username": "Thom_Wolf",
+      "text": "Who would win when combining best algo(model+optimization)/data of the year?\n\nh/t @lvwerra",
+      "timestamp": "2026-03-27T10:32:51+00:00",
+      "url": "https://x.com/Thom_Wolf/status/2037477945346761066",
+      "images": [],
+      "likes": 27,
+      "retweets": 5,
+      "views": 26696
+    },
+    {
+      "id": "2037275544580944340",
+      "username": "ClementDelangue",
+      "text": "I got no other than the Godmother of AI @drfeifei as a coworker at the @huggingface Miami office today! So inspiring!\n\nhttps://t.co/mdn3xxQcsy https://t.co/AF740DX9zN",
+      "timestamp": "2026-03-26T21:08:35+00:00",
+      "url": "https://x.com/ClementDelangue/status/2037275544580944340",
+      "images": [
+        "https://pbs.twimg.com/media/HEXbTseXcAA4DhP.jpg",
+        "https://pbs.twimg.com/media/HEXbTsfXMAA_Olv.jpg"
+      ],
+      "likes": 841,
+      "retweets": 33,
+      "views": 66543
     }
   ]
 }
