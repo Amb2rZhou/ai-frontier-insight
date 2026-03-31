@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-30T09:35:46.289883+08:00",
+  "last_updated": "2026-03-31T09:34:06.894695+08:00",
   "trends": [
     {
       "id": "ai_safety_pivot_and_accelerated_agi_time",
@@ -11,7 +11,7 @@
         "Anthropic"
       ],
       "trajectory": "accelerating",
-      "signal_count": 45,
+      "signal_count": 46,
       "weekly_counts": [
         1,
         1,
@@ -23,8 +23,8 @@
         1,
         1,
         1,
-        1,
-        2
+        2,
+        1
       ],
       "key_events": [
         {
@@ -182,6 +182,10 @@
         {
           "date": "2026-03-30",
           "event": "Nicolas Carlini claims Claude outperforms him in security research, highlighting AI's advancing capabilities in security domains"
+        },
+        {
+          "date": "2026-03-31",
+          "event": "UK AI Security Institute Research on Natural Emergent Misalignment from Reward Hacking"
         }
       ],
       "created": "2026-02-25"
@@ -196,7 +200,7 @@
         "Nvidia"
       ],
       "trajectory": "accelerating",
-      "signal_count": 12,
+      "signal_count": 13,
       "weekly_counts": [
         1,
         2,
@@ -208,6 +212,7 @@
         1,
         1,
         0,
+        1,
         1
       ],
       "key_events": [
@@ -250,6 +255,10 @@
         {
           "date": "2026-03-25",
           "event": "Google DeepMind partners with Agile Robots for next-generation robotics"
+        },
+        {
+          "date": "2026-03-31",
+          "event": "NVIDIA IGX Thor Platform Now Available for Autonomous Robots and Surgical Systems"
         }
       ],
       "created": "2026-02-25"
@@ -264,15 +273,15 @@
         "Multimodal AI"
       ],
       "trajectory": "accelerating",
-      "signal_count": 29,
+      "signal_count": 30,
       "weekly_counts": [
         1,
         1,
         1,
-        1,
         2,
         1,
         2,
+        1,
         1,
         1,
         1,
@@ -387,6 +396,10 @@
         {
           "date": "2026-03-30",
           "event": "Lightricks releases LTX-2.3 multimodal video model, expanding open-source video generation capabilities"
+        },
+        {
+          "date": "2026-03-31",
+          "event": "Cohere Releases Open-Weight ASR Model with 5.4% Word Error Rate"
         }
       ],
       "created": "2026-02-25"
@@ -490,9 +503,8 @@
         "Anthropic"
       ],
       "trajectory": "accelerating",
-      "signal_count": 72,
+      "signal_count": 75,
       "weekly_counts": [
-        3,
         2,
         3,
         1,
@@ -503,7 +515,8 @@
         1,
         4,
         1,
-        1
+        1,
+        3
       ],
       "key_events": [
         {
@@ -661,6 +674,10 @@
         {
           "date": "2026-03-30",
           "event": "OpenAI Codex launches security feature for vulnerability detection, enhancing enterprise security capabilities"
+        },
+        {
+          "date": "2026-03-31",
+          "event": "Claude Code Launches Auto Mode for Enterprise and API Users; OpenAI Codex Usage Data Shows Developers Delegate Long-Running Tasks Overnight"
         }
       ],
       "created": "2026-02-25"
@@ -716,10 +733,9 @@
         "Multimodal AI"
       ],
       "trajectory": "accelerating",
-      "signal_count": 69,
+      "signal_count": 71,
       "weekly_counts": [
         2,
-        2,
         3,
         2,
         2,
@@ -729,7 +745,8 @@
         3,
         1,
         2,
-        1
+        1,
+        2
       ],
       "key_events": [
         {
@@ -895,6 +912,10 @@
         {
           "date": "2026-03-30",
           "event": "Research highlights cost misleading in API pricing for reasoning models, revealing transparency issues in AI service pricing"
+        },
+        {
+          "date": "2026-03-31",
+          "event": "DeepMind Paper Analyzes Challenges in Iterative Generative Optimization with LLMs; Apple Researchers Introduce LGTM for High-Fidelity 4K Novel View Synthesis"
         }
       ],
       "created": "2026-02-25"
@@ -1099,9 +1120,8 @@
         "Automation"
       ],
       "trajectory": "accelerating",
-      "signal_count": 103,
+      "signal_count": 105,
       "weekly_counts": [
-        3,
         1,
         2,
         2,
@@ -1112,7 +1132,8 @@
         3,
         2,
         1,
-        1
+        1,
+        2
       ],
       "key_events": [
         {
@@ -1286,6 +1307,10 @@
         {
           "date": "2026-03-30",
           "event": "OpenClaw agent framework update gains high engagement, showing continued developer adoption"
+        },
+        {
+          "date": "2026-03-31",
+          "event": "Former Coatue Partner Raises $65M Seed for Enterprise AI Agent Startup; HuggingFace CEO Advocates for Open-Source Models in Agent Tools"
         }
       ],
       "created": "2026-02-25"
@@ -1649,9 +1674,8 @@
         "Risk Management"
       ],
       "trajectory": "accelerating",
-      "signal_count": 37,
+      "signal_count": 38,
       "weekly_counts": [
-        1,
         1,
         1,
         1,
@@ -1662,7 +1686,8 @@
         1,
         1,
         1,
-        2
+        2,
+        1
       ],
       "key_events": [
         {
@@ -1788,6 +1813,10 @@
         {
           "date": "2026-03-30",
           "event": "Study warns of AI-generated content in workplace communication, revealing new social engineering risks"
+        },
+        {
+          "date": "2026-03-31",
+          "event": "UK AI Security Institute Research on Natural Emergent Misalignment from Reward Hacking"
         }
       ],
       "created": "2026-02-25"
@@ -1900,17 +1929,17 @@
         "DeepSeek"
       ],
       "trajectory": "accelerating",
-      "signal_count": 15,
+      "signal_count": 16,
       "weekly_counts": [
         1,
         1,
-        1,
         2,
         1,
         1,
         1,
         1,
         2,
+        1,
         1,
         1,
         1
@@ -1967,6 +1996,10 @@
         {
           "date": "2026-03-29",
           "event": "ByteDance's LVFace Face Recognition Model Gains Community Traction, expanding Chinese AI ecosystem"
+        },
+        {
+          "date": "2026-03-31",
+          "event": "Alibaba Qwen Releases Qwen3.5-Omni, a Native Multimodal Model with Audio-Visual Vibe Coding"
         }
       ],
       "created": "2026-02-25"
@@ -2014,9 +2047,8 @@
         "Startup Funding"
       ],
       "trajectory": "accelerating",
-      "signal_count": 34,
+      "signal_count": 35,
       "weekly_counts": [
-        1,
         1,
         2,
         1,
@@ -2027,7 +2059,8 @@
         1,
         1,
         1,
-        2
+        2,
+        1
       ],
       "key_events": [
         {
@@ -2145,6 +2178,10 @@
         {
           "date": "2026-03-30",
           "event": "Forge-Film: DAG-driven parallel AI film generation engine emerges, advancing video production automation"
+        },
+        {
+          "date": "2026-03-31",
+          "event": "Apple Researchers Introduce LGTM for High-Fidelity 4K Novel View Synthesis"
         }
       ],
       "created": "2026-02-26"

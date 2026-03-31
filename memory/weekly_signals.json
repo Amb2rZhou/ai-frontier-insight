@@ -154,6 +154,212 @@
           18
         ]
       }
+    ],
+    "2026-03-31": [
+      {
+        "title": "Alibaba Qwen Releases Qwen3.5-Omni, a Native Multimodal Model with Audio-Visual Vibe Coding",
+        "signal_text": "阿里巴巴通义千问团队正式发布 Qwen3.5-Omni，这是一个原生支持文本、图像、音频和视频理解的多模态模型，其标志性功能是“音视频氛围编码”（Audio-Visual Vibe Coding），可实现实时交互和智能内容生成。该模型已在 OpenRouter 上提供预览，官方推文获 1454 likes 和 13.1 万 views，引发社区高度关注。",
+        "signal_strength": 0.88,
+        "sources": [
+          {
+            "name": "Alibaba_Qwen Twitter",
+            "url": "https://x.com/Alibaba_Qwen/status/2038636335272194241"
+          },
+          {
+            "name": "Alibaba_Qwen Twitter (OpenRouter)",
+            "url": "https://x.com/Alibaba_Qwen/status/2038780221193863362"
+          }
+        ],
+        "tags": [
+          "内容创作与理解",
+          "多模态融合",
+          "头部公司战略动作"
+        ],
+        "raw_item_indices": [
+          65,
+          67,
+          68,
+          70,
+          71,
+          72,
+          73,
+          110
+        ]
+      },
+      {
+        "title": "Former Coatue Partner Raises $65M Seed for Enterprise AI Agent Startup",
+        "signal_text": "据 TechCrunch 报道，前 Coatue 合伙人筹集了高达 6500 万美元的种子轮融资，用于一家企业 AI 代理初创公司。如此大规模的种子轮融资表明，投资者对能够解决企业复杂任务的 AI 代理解决方案抱有极高期望和信心。",
+        "signal_strength": 0.85,
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/03/30/former-coatue-partner-raises-huge-65m-seed-for-enterprise-ai-agent-startup/"
+          }
+        ],
+        "tags": [
+          "Agent 与新交互范式",
+          "头部公司战略动作",
+          "行业风险与监管"
+        ],
+        "raw_item_indices": [
+          12
+        ]
+      },
+      {
+        "title": "Claude Code Launches Auto Mode for Enterprise and API Users",
+        "signal_text": "Anthropic 为其 AI 编程助手 Claude Code 推出“自动模式”（Auto Mode），现已面向企业版和 API 用户开放。用户可通过更新安装并运行 `claude --enable-auto-mode` 来启用此功能，标志着 AI 代理在自动化编程任务方面迈出重要一步。官方公告推文获 1694 likes 和 14.3 万 views。",
+        "signal_strength": 0.82,
+        "sources": [
+          {
+            "name": "claudeai Twitter",
+            "url": "https://x.com/claudeai/status/2038693742094246032"
+          }
+        ],
+        "tags": [
+          "Agent 与新交互范式",
+          "内容创作与理解",
+          "头部公司战略动作"
+        ],
+        "raw_item_indices": [
+          85
+        ]
+      },
+      {
+        "title": "Cohere Releases Open-Weight ASR Model with 5.4% Word Error Rate",
+        "signal_text": "据 VentureBeat 报道，Cohere 发布开源权重的自动语音识别模型 Transcribe，词错误率低至 5.4%，足以在生产流水线中替代闭源语音 API。该模型在准确性、延迟、成本和数据驻留四个关键维度上均具备竞争力，为企业构建语音工作流提供了新选择。",
+        "signal_strength": 0.78,
+        "sources": [
+          {
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/orchestration/coheres-open-weight-asr-model-hits-5-4-word-error-rate-low-enough-to-replace"
+          },
+          {
+            "name": "HuggingFace Model (CohereLabs/cohere-transcribe-03-2026)",
+            "url": "https://huggingface.co/CohereLabs/cohere-transcribe-03-2026"
+          }
+        ],
+        "tags": [
+          "技术突破",
+          "开源生态",
+          "内容创作与理解"
+        ],
+        "raw_item_indices": [
+          25,
+          157
+        ]
+      },
+      {
+        "title": "OpenAI Codex Usage Data Shows Developers Delegate Long-Running Tasks Overnight",
+        "signal_text": "OpenAI 开发者账号发布数据称，开发者倾向于在一天结束时将耗时长、难度高的任务（如代码重构和架构规划）委托给 Codex 处理，让 AI 在他们睡觉时工作。这条推文获 800 likes 和 6.5 万 views，揭示了 AI 编程助手工作模式的重要转变。",
+        "signal_strength": 0.78,
+        "sources": [
+          {
+            "name": "OpenAIDevs Twitter",
+            "url": "https://x.com/OpenAIDevs/status/2038707501492056401"
+          }
+        ],
+        "tags": [
+          "Agent 与新交互范式",
+          "内容创作与理解",
+          "头部公司战略动作"
+        ],
+        "raw_item_indices": [
+          116
+        ]
+      },
+      {
+        "title": "Apple Researchers Introduce LGTM for High-Fidelity 4K Novel View Synthesis",
+        "signal_text": "Apple 研究人员发表论文《Less Gaussians, Texture More: 4K Feed-Forward Textured Splatting》，提出 LGTM 框架，通过预测带有逐基元纹理的紧凑高斯图元，实现高保真度的 4K 新视角合成，将几何复杂性与渲染需求解耦。这代表了 3D 内容生成领域的重要进展。",
+        "signal_strength": 0.76,
+        "sources": [
+          {
+            "name": "arXiv Paper (Apple)",
+            "url": "https://huggingface.co/papers/2603.25745"
+          }
+        ],
+        "tags": [
+          "内容创作与理解",
+          "技术突破",
+          "多模态融合"
+        ],
+        "raw_item_indices": [
+          152
+        ]
+      },
+      {
+        "title": "DeepMind Paper Analyzes Challenges in Iterative Generative Optimization with LLMs",
+        "signal_text": "Google DeepMind 团队发表论文《Understanding the Challenges in Iterative Generative Optimization with LLMs》，分析了使用大语言模型进行迭代式生成优化所面临的挑战，指出关于产物修改和学习证据的隐式设计决策会显著影响成功率。该研究对 AI 辅助创作和设计工具的优化具有指导意义。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "arXiv Paper (DeepMind)",
+            "url": "https://huggingface.co/papers/2603.23994"
+          }
+        ],
+        "tags": [
+          "内容创作与理解",
+          "技术突破",
+          "Agent 与新交互范式"
+        ],
+        "raw_item_indices": [
+          143
+        ]
+      },
+      {
+        "title": "NVIDIA IGX Thor Platform Now Available for Autonomous Robots and Surgical Systems",
+        "signal_text": "NVIDIA Robotics 宣布其 IGX Thor 平台现已上市，该平台为自主机器人、手术系统和工业自动化提供实时 AI 性能和功能安全。NVIDIA 将于 4 月 15 日举办网络研讨会介绍详情。这标志着 AI 硬件在边缘和关键任务场景的部署进入新阶段。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "NVIDIARobotics Twitter",
+            "url": "https://x.com/NVIDIARobotics/status/2038668940201570589"
+          }
+        ],
+        "tags": [
+          "技术突破",
+          "头部公司战略动作"
+        ],
+        "raw_item_indices": [
+          93
+        ]
+      },
+      {
+        "title": "HuggingFace CEO Advocates for Open-Source Models in Agent Tools",
+        "signal_text": "HuggingFace CEO Clement Delangue 发推文（获 287 likes 和 1.2 万 views）呼吁，开源 Agent 工具应主要依赖开源模型，而非将数据发送至云端的闭源 API，以避免被黑客攻击或服务关闭的风险。这反映了开源生态在 AI 代理领域的重要性日益增长。",
+        "signal_strength": 0.73,
+        "sources": [
+          {
+            "name": "ClementDelangue Twitter",
+            "url": "https://x.com/ClementDelangue/status/2038552830638755962"
+          }
+        ],
+        "tags": [
+          "开源生态",
+          "Agent 与新交互范式",
+          "行业风险与监管"
+        ],
+        "raw_item_indices": [
+          52
+        ]
+      },
+      {
+        "title": "UK AI Security Institute Research on Natural Emergent Misalignment from Reward Hacking",
+        "signal_text": "英国人工智能安全研究所模型透明度团队在 Alignment Forum 上发表研究《(Some) Natural Emergent Misalignment from Reward Hacking in Non-Production RL》，探讨了在非生产强化学习环境中，奖励黑客行为如何自然导致模型错位。该研究对理解 AI 安全风险和模型对齐具有重要意义。",
+        "signal_strength": 0.72,
+        "sources": [
+          {
+            "name": "Alignment Forum",
+            "url": "https://www.alignmentforum.org/posts/2ANCyejqxfqK2obEj/some-natural-emergent-misalignment-from-reward-hacking-in"
+          }
+        ],
+        "tags": [
+          "内容安全与治理",
+          "技术突破"
+        ],
+        "raw_item_indices": [
+          36
+        ]
+      }
     ]
   },
   "archived_weeks": [

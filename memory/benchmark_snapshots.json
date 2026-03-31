@@ -162,7 +162,7 @@
         "params_b": 72.706
       }
     ],
-    "updated": "2026-03-29T09:31:29.397293+08:00"
+    "updated": "2026-03-31T09:31:23.998786+08:00"
   },
   "swebench_verified": {
     "top_models": [
@@ -242,7 +242,7 @@
         "date": "2025-11-03"
       }
     ],
-    "updated": "2026-03-30T09:32:05.384585+08:00"
+    "updated": "2026-03-31T09:31:23.998786+08:00"
   },
   "arc_agi_2": {
     "top_models": [
@@ -307,7 +307,7 @@
         "score": 55.4
       }
     ],
-    "updated": "2026-03-30T09:32:05.384585+08:00"
+    "updated": "2026-03-31T09:31:23.998786+08:00"
   },
   "osworld": {
     "top_models": [
@@ -387,17 +387,17 @@
         "institution": "GBOX.AI"
       }
     ],
-    "updated": "2026-03-27T09:31:21.456582+08:00"
+    "updated": "2026-03-31T09:31:23.998786+08:00"
   },
   "terminal_bench": {
     "top_models": [
       {
-        "name": "ForgeCode/forge (claude-opus-4-6)",
+        "name": "ForgeCode/forge (gpt-5.4)",
         "score": 81.8,
         "verified": false
       },
       {
-        "name": "ForgeCode/forge (gpt-5.4)",
+        "name": "ForgeCode/forge (claude-opus-4-6)",
         "score": 81.8,
         "verified": false
       },
@@ -467,6 +467,6 @@
         "verified": false
       }
     ],
-    "updated": "2026-03-27T09:31:21.456582+08:00"
+    "updated": "2026-03-31T09:31:23.998786+08:00"
   }
 }

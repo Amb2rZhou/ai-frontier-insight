@@ -1,66 +1,6 @@
 {
   "predictions": [
     {
-      "date": "2026-03-20T09:34:13.673049+08:00",
-      "prediction_text": "AI基础设施团队建议关注并评估SPEED-Bench，以优化自研或托管模型的推理性能与成本。",
-      "category": "infrastructure",
-      "source_signal": "NVIDIA and HuggingFace Introduce SPEED-Bench for Speculative Decoding"
-    },
-    {
-      "date": "2026-03-20T09:34:13.680449+08:00",
-      "prediction_text": "平台在推广内部AI编程工具时，值得关注辅助与教育功能的平衡，避免核心团队能力空心化。",
-      "category": "industry_risk",
-      "source_signal": "Anthropic Research Highlights Potential Downsides of AI Coding Assistance"
-    },
-    {
-      "date": "2026-03-21T09:34:44.797343+08:00",
-      "prediction_text": "内容与电商平台的开发者关系团队可以考虑推出针对学生或创作者的定向API激励计划。",
-      "category": "strategic_move",
-      "source_signal": "OpenAI Launches Codex for Students with $100 Credits"
-    },
-    {
-      "date": "2026-03-21T09:34:44.805097+08:00",
-      "prediction_text": "内容与社区平台的研究团队值得关注自主研究Agent对内容发现、质量审核与知识整理的颠覆潜力。",
-      "category": "strategic_move",
-      "source_signal": "MIT Tech Review: OpenAI Refocuses on Building Fully Automated AI Researcher"
-    },
-    {
-      "date": "2026-03-21T09:34:44.810830+08:00",
-      "prediction_text": "内容与电商平台的语音交互产品团队建议基于真实用户对话数据建立内部评估基准。",
-      "category": "research_breakthrough",
-      "source_signal": "Scale AI Launches First Real-World Voice AI Benchmark"
-    },
-    {
-      "date": "2026-03-21T09:34:44.816629+08:00",
-      "prediction_text": "AI基础设施团队可以评估类似架构，用于部署高智能的客服、推荐或创作Agent。",
-      "category": "model_release",
-      "source_signal": "NVIDIA Releases Nemotron-Cascade 2: Efficient 30B MoE Model with Strong Reasoning"
-    },
-    {
-      "date": "2026-03-21T09:34:44.822263+08:00",
-      "prediction_text": "内容平台的视频创作工具值得探索集成类似技术，实现更精准的用户意图理解与内容修改。",
-      "category": "research_breakthrough",
-      "source_signal": "Baidu Releases SAMA for Instruction-Guided Video Editing"
-    },
-    {
-      "date": "2026-03-21T09:34:44.827927+08:00",
-      "prediction_text": "技术选型团队可以更积极地评估和集成头部中国开源模型，以构建差异化能力。",
-      "category": "ecosystem_shift",
-      "source_signal": "HuggingFace CEO: Cursor's New Model Based on Kimi, Validates Chinese Open-Source Impact"
-    },
-    {
-      "date": "2026-03-21T09:34:44.833547+08:00",
-      "prediction_text": "电商与内容平台的搜索团队可以考虑接入垂直数据源，打造专业导购或内容研究助手。",
-      "category": "new_product_form",
-      "source_signal": "Perplexity Computer Integrates Market Research Data from PitchBook, Statista, CB Insights"
-    },
-    {
-      "date": "2026-03-21T09:34:44.839981+08:00",
-      "prediction_text": "推荐系统与内容安全团队需要重新评估对齐模型在理解争议性话题和用户偏好时的潜在偏差。",
-      "category": "research_breakthrough",
-      "source_signal": "Research: Alignment Makes LLMs Normative, Not Descriptive"
-    },
-    {
       "date": "2026-03-21T09:34:44.845840+08:00",
       "prediction_text": "客户端团队可以探索部署高性能端侧语音模型，实现低延迟、高隐私的语音交互功能。",
       "category": "research_breakthrough",
@@ -599,6 +539,66 @@
       "prediction_text": "社区平台与内容安全团队建议探索更精细的AI内容披露与溯源机制，以建立用户信任。",
       "category": "research_breakthrough",
       "source_signal": "Study Warns of AI-Generated Content in Workplace Communication"
+    },
+    {
+      "date": "2026-03-31T09:33:26.660033+08:00",
+      "prediction_text": "内容创作工具团队值得探索集成此类原生多模态模型，打造实时、沉浸式的音视频内容共创体验。",
+      "category": "model_release",
+      "source_signal": "Alibaba Qwen Releases Qwen3.5-Omni, a Native Multimodal Model with Audio-Visual Vibe Coding"
+    },
+    {
+      "date": "2026-03-31T09:33:26.675763+08:00",
+      "prediction_text": "电商与客服Agent研发团队可以考虑借鉴其融资逻辑，规划面向复杂商务流程的自动化解决方案。",
+      "category": "strategic_move",
+      "source_signal": "Former Coatue Partner Raises $65M Seed for Enterprise AI Agent Startup"
+    },
+    {
+      "date": "2026-03-31T09:33:26.688166+08:00",
+      "prediction_text": "创作者工具与研发团队可以评估引入类似自动化模式，用于处理内容生成中的批量、标准化任务。",
+      "category": "strategic_move",
+      "source_signal": "Claude Code Launches Auto Mode for Enterprise and API Users"
+    },
+    {
+      "date": "2026-03-31T09:33:26.694884+08:00",
+      "prediction_text": "基础设施与产品团队可以考虑采用此类开源模型，以降低对第三方语音API的依赖与成本。",
+      "category": "open_source",
+      "source_signal": "Cohere Releases Open-Weight ASR Model with 5.4% Word Error Rate"
+    },
+    {
+      "date": "2026-03-31T09:33:26.699369+08:00",
+      "prediction_text": "创作者工具团队可以探索“异步任务队列”功能，允许用户提交复杂内容生成任务并离线获取结果。",
+      "category": "ecosystem_shift",
+      "source_signal": "OpenAI Codex Usage Data Shows Developers Delegate Long-Running Tasks Overnight"
+    },
+    {
+      "date": "2026-03-31T09:33:26.703735+08:00",
+      "prediction_text": "电商平台与社区产品团队值得关注此类技术，探索商品3D化与沉浸式空间内容的生成应用。",
+      "category": "research_breakthrough",
+      "source_signal": "Apple Researchers Introduce LGTM for High-Fidelity 4K Novel View Synthesis"
+    },
+    {
+      "date": "2026-03-31T09:33:26.708462+08:00",
+      "prediction_text": "AI产品与设计团队建议深入研究迭代优化中的用户意图捕捉与反馈机制设计。",
+      "category": "research_breakthrough",
+      "source_signal": "DeepMind Paper Analyzes Challenges in Iterative Generative Optimization with LLMs"
+    },
+    {
+      "date": "2026-03-31T09:33:26.713243+08:00",
+      "prediction_text": "基础设施团队可以评估此类边缘AI平台，用于部署对延迟与可靠性要求极高的实时内容处理服务。",
+      "category": "infrastructure",
+      "source_signal": "NVIDIA IGX Thor Platform Now Available for Autonomous Robots and Surgical Systems"
+    },
+    {
+      "date": "2026-03-31T09:33:26.717802+08:00",
+      "prediction_text": "平台在构建内部Agent时，建议优先评估基于开源模型的本地化部署方案以控制风险。",
+      "category": "ecosystem_shift",
+      "source_signal": "HuggingFace CEO Advocates for Open-Source Models in Agent Tools"
+    },
+    {
+      "date": "2026-03-31T09:33:26.722148+08:00",
+      "prediction_text": "内容安全与模型团队值得关注此类研究，加强对内部微调与强化学习流程的监控与对齐评估。",
+      "category": "research_breakthrough",
+      "source_signal": "UK AI Security Institute Research on Natural Emergent Misalignment from Reward Hacking"
     }
   ]
 }
