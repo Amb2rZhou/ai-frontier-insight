@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-01T14:19:28.851806",
+  "scraped_at": "2026-04-01T16:52:33.621009",
   "date": "2026-04-01",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 68,
-  "account_count": 36,
+  "tweet_count": 76,
+  "account_count": 38,
   "tweets": [
     {
       "id": "2039047852450562077",
@@ -795,6 +795,94 @@
       "likes": 511,
       "retweets": 51,
       "views": 123405
+    },
+    {
+      "id": "2039248564967424483",
+      "username": "thsottiaux",
+      "text": "Our Codex dashboards are showing increased rate of users hitting rate limits and since we don't fully understand why I have made the cautious decision of resetting the usage limits for all plans. Enjoy.\n\nI also wanted to celebrate us finding a pocket of fraudulent accounts that",
+      "timestamp": "2026-04-01T07:48:39+00:00",
+      "url": "https://x.com/thsottiaux/status/2039248564967424483",
+      "images": [],
+      "likes": 2795,
+      "retweets": 163,
+      "views": 99109
+    },
+    {
+      "id": "2039248073134682476",
+      "username": "DeryaTR_",
+      "text": "Another major AI advance in math: solving three further Erdős problems! The internal model at OpenAI is just amazing…!",
+      "timestamp": "2026-04-01T07:46:42+00:00",
+      "url": "https://x.com/DeryaTR_/status/2039248073134682476",
+      "images": [],
+      "likes": 21,
+      "retweets": 0,
+      "views": 2690
+    },
+    {
+      "id": "2039246602255114650",
+      "username": "osanseviero",
+      "text": "Introducing Kaggle Standardized Agent Exams 🔥\n\nLet your agents register to an exam, solve it, and join the leaderboard",
+      "timestamp": "2026-04-01T07:40:52+00:00",
+      "url": "https://x.com/osanseviero/status/2039246602255114650",
+      "images": [],
+      "likes": 28,
+      "retweets": 0,
+      "views": 1693
+    },
+    {
+      "id": "2039244748054315244",
+      "username": "__tinygrad__",
+      "text": "People always ask if anyone actually buys tinyboxes cause they don't see videos on YouTube. Consider the price point and who buys them. We're probably the top choice for AI startups that avoid the cloud.",
+      "timestamp": "2026-04-01T07:33:29+00:00",
+      "url": "https://x.com/__tinygrad__/status/2039244748054315244",
+      "images": [],
+      "likes": 39,
+      "retweets": 1,
+      "views": 2706
+    },
+    {
+      "id": "2039240359197438229",
+      "username": "openclaw",
+      "text": "ClawHub now has an official China mirror 🇨🇳🦞\nhttps://t.co/d8Odd4sNOp\n\nJust tell your agent: \"Find skills on ClawHub using https://t.co/NoR7AXyM6U\"\n\nThanks @BytePlusGlobal / VolcanoEngine for the infra sponsorship 🙏\n\nOther regions need a mirror? PRs welcome.",
+      "timestamp": "2026-04-01T07:16:03+00:00",
+      "url": "https://x.com/openclaw/status/2039240359197438229",
+      "images": [],
+      "likes": 326,
+      "retweets": 35,
+      "views": 29674
+    },
+    {
+      "id": "2039225908268273912",
+      "username": "Miles_Brundage",
+      "text": "IIUC, both Anthropic and OpenAI are a bit janky in terms of enabling smooth AI &lt;&gt; Google Docs interaction...\n\n...but are trying (with Plugins/Connectors), and are further along than Google itself...\n\nAm I missing anything (haven't tried Google Workspace CLI yet)?",
+      "timestamp": "2026-04-01T06:18:38+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2039225908268273912",
+      "images": [],
+      "likes": 12,
+      "retweets": 1,
+      "views": 1456
+    },
+    {
+      "id": "2039111619268190215",
+      "username": "saranormous",
+      "text": "the AI cloud will be financed",
+      "timestamp": "2026-03-31T22:44:29+00:00",
+      "url": "https://x.com/saranormous/status/2039111619268190215",
+      "images": [],
+      "likes": 71,
+      "retweets": 0,
+      "views": 11213
+    },
+    {
+      "id": "2039109996097491153",
+      "username": "emollick",
+      "text": "The biggest bottleneck in AI for most people isn't the models. It's the chatbot. New interfaces like Claude Dispatch, are closing the gap between what AI can do and what people can actually use it for. For many folks, that is where leaps will come from. https://t.co/E32ysD2Cac",
+      "timestamp": "2026-03-31T22:38:02+00:00",
+      "url": "https://x.com/emollick/status/2039109996097491153",
+      "images": [],
+      "likes": 249,
+      "retweets": 17,
+      "views": 19125
     }
   ]
 }
