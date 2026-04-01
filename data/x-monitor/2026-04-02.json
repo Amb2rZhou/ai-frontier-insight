@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-02T01:04:55.090631",
+  "scraped_at": "2026-04-02T06:08:42.795077",
   "date": "2026-04-02",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 28,
-  "account_count": 17,
+  "tweet_count": 50,
+  "account_count": 30,
   "tweets": [
     {
       "id": "2039387985582649663",
@@ -342,6 +342,258 @@
       "likes": 87,
       "retweets": 11,
       "views": 18579
+    },
+    {
+      "id": "2039459610395083012",
+      "username": "PyTorch",
+      "text": "Yesterday’s PyTorch 2.11 live Q&amp;A with Nikita Shulga and Andrey Talman, moderated by Chris Gottbrath, covered five major focus areas: FlexAttention with FlashAttention-4, differentiable collectives, MPS operator expansion, RNN/LSTM GPU export support, and hardware backend https://t.co/YeTUPUaLvD",
+      "timestamp": "2026-04-01T21:47:17+00:00",
+      "url": "https://x.com/PyTorch/status/2039459610395083012",
+      "images": [],
+      "likes": 4,
+      "retweets": 1,
+      "views": 856
+    },
+    {
+      "id": "2039456670234079396",
+      "username": "LiamFedus",
+      "text": "Being part of the niche intersection of AI researchers who go to the gym has been an endless source of fun in my career (e.g., my co-founder, @ekindogus, and I became friends at the Google Rails gym!)\n\nGreat lift, @creatine_cycle",
+      "timestamp": "2026-04-01T21:35:36+00:00",
+      "url": "https://x.com/LiamFedus/status/2039456670234079396",
+      "images": [],
+      "likes": 25,
+      "retweets": 1,
+      "views": 2006
+    },
+    {
+      "id": "2039454289542726136",
+      "username": "littmath",
+      "text": "One challenge in checking mathematics is that almost all (informal) math contains minor errors. So when you run across an error, you work to fix it, or decide that it is likely fatal. This is hard work, and relies on the presumption that the vast majority of errors are indeed",
+      "timestamp": "2026-04-01T21:26:08+00:00",
+      "url": "https://x.com/littmath/status/2039454289542726136",
+      "images": [],
+      "likes": 173,
+      "retweets": 13,
+      "views": 4090
+    },
+    {
+      "id": "2039450627667861969",
+      "username": "sedielem",
+      "text": "\"Diffusability\" is all about the spectrum.\nhttps://t.co/nb4i8tDJl3\n\nIf you enjoyed my blog post about diffusion as spectral autoregression, and are wondering how this relates to latent diffusion, give this paper a read! https://t.co/DPXjoLK5X4",
+      "timestamp": "2026-04-01T21:11:35+00:00",
+      "url": "https://x.com/sedielem/status/2039450627667861969",
+      "images": [
+        "https://pbs.twimg.com/media/HE2VeO7WYAAHLGV.jpg"
+      ],
+      "likes": 60,
+      "retweets": 9,
+      "views": 2174
+    },
+    {
+      "id": "2039447827739541948",
+      "username": "googledevs",
+      "text": "When building, what task do you find AI the most helpful for?",
+      "timestamp": "2026-04-01T21:00:27+00:00",
+      "url": "https://x.com/googledevs/status/2039447827739541948",
+      "images": [],
+      "likes": 22,
+      "retweets": 3,
+      "views": 3159
+    },
+    {
+      "id": "2039439340519207157",
+      "username": "Austen",
+      "text": "The hardest part of AI in big organizations is the IT",
+      "timestamp": "2026-04-01T20:26:44+00:00",
+      "url": "https://x.com/Austen/status/2039439340519207157",
+      "images": [],
+      "likes": 28,
+      "retweets": 1,
+      "views": 3484
+    },
+    {
+      "id": "2039436859055751258",
+      "username": "thsottiaux",
+      "text": "Announcing Codex. \n\nA new product from OpenAI that moves beyond coding, into cooking. We were already cooking before, but now *you* can cook too ... with Codex. It is powered by the same technology as our other Codex products. You can just cook things. https://t.co/tMnH1nn1VX",
+      "timestamp": "2026-04-01T20:16:52+00:00",
+      "url": "https://x.com/thsottiaux/status/2039436859055751258",
+      "images": [
+        "https://pbs.twimg.com/media/HE2IkrIbYAEXfyk.jpg"
+      ],
+      "likes": 843,
+      "retweets": 34,
+      "views": 28943
+    },
+    {
+      "id": "2039419585254875191",
+      "username": "nvidia",
+      "text": "Delivered performance, not peak chip specifications, drives AI factory productivity.\n\nRigorous benchmarks are the only way to see past the noise. In MLPerf Inference v6.0, NVIDIA extreme co-design delivered the highest token output across the broadest range of models and https://t.co/sjLf9dnsEu",
+      "timestamp": "2026-04-01T19:08:14+00:00",
+      "url": "https://x.com/nvidia/status/2039419585254875191",
+      "images": [],
+      "likes": 55,
+      "retweets": 8,
+      "views": 11866
+    },
+    {
+      "id": "2039416083481088244",
+      "username": "wightmanr",
+      "text": "Lesson learned. If you're using Muon or similar, make sure all of your 2D (or &gt;= 2D depending on impl) weights are actually supposed to be using Muon :/ \n\nI was trying to figured out why a gated attention ablation was not working at all. I forgot to filter the gate projections so",
+      "timestamp": "2026-04-01T18:54:19+00:00",
+      "url": "https://x.com/wightmanr/status/2039416083481088244",
+      "images": [],
+      "likes": 22,
+      "retweets": 2,
+      "views": 1914
+    },
+    {
+      "id": "2039413343216402435",
+      "username": "Miles_Brundage",
+      "text": "Just dropped https://t.co/vPdwWSNszl",
+      "timestamp": "2026-04-01T18:43:26+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2039413343216402435",
+      "images": [
+        "https://pbs.twimg.com/media/HE1zoD6bUAAOM8h.jpg"
+      ],
+      "likes": 37,
+      "retweets": 2,
+      "views": 1932
+    },
+    {
+      "id": "2039413334634803560",
+      "username": "GaryMarcus",
+      "text": "is there a reliable metric on the price of secondary shares for a big startup like OpenAI?",
+      "timestamp": "2026-04-01T18:43:24+00:00",
+      "url": "https://x.com/GaryMarcus/status/2039413334634803560",
+      "images": [],
+      "likes": 22,
+      "retweets": 1,
+      "views": 4820
+    },
+    {
+      "id": "2039409616950542351",
+      "username": "openclaw",
+      "text": "OpenClaw 2026.4.1 🦞\n\n🤖 GLM 5.1 + failover that doesn't loop\n🛡️ AWS Bedrock Guardrails\n📋 /tasks — your agent keeps receipts\n⏱️ Cron per-job tool allowlists\n🔧 40+ stability &amp; exec fixes\n\nWe're renaming to ClankerBot. This is not a joke. Okay it is. https://t.co/LVk4om4cET",
+      "timestamp": "2026-04-01T18:28:37+00:00",
+      "url": "https://x.com/openclaw/status/2039409616950542351",
+      "images": [],
+      "likes": 888,
+      "retweets": 64,
+      "views": 68617
+    },
+    {
+      "id": "2039409125038395526",
+      "username": "mustafasuleyman",
+      "text": "One place MAI-Image-2 really knocks it out of the park is surrealist images. Try this one:\n\nClose-up zoomed in macro photo of a bright orange clownfish hiding among stark white peonies with bright yellow stamens. High contrast, shallow depth of field, vibrant wildlife https://t.co/0oUKJKvzVg",
+      "timestamp": "2026-04-01T18:26:40+00:00",
+      "url": "https://x.com/mustafasuleyman/status/2039409125038395526",
+      "images": [
+        "https://pbs.twimg.com/media/HE1uOI-bwAAArMk.jpg"
+      ],
+      "likes": 39,
+      "retweets": 6,
+      "views": 6867
+    },
+    {
+      "id": "2039408430793072882",
+      "username": "OpenAINewsroom",
+      "text": "Something's different about Codex.\n\n@bradlightcap calls the team's focus \"a singular and unique effort in the history of the company\" https://t.co/q3Sp6r5kMf",
+      "timestamp": "2026-04-01T18:23:54+00:00",
+      "url": "https://x.com/OpenAINewsroom/status/2039408430793072882",
+      "images": [],
+      "likes": 322,
+      "retweets": 21,
+      "views": 30422
+    },
+    {
+      "id": "2039406972450062345",
+      "username": "NVIDIARobotics",
+      "text": "Have you seen Agile Robots’ latest humanoid robot? 🤖\n\nHear from Laurenz von Czettritz as he introduces Agile ONE, a coworker on the factory floor, and explains how NVIDIA technology powers its advanced capabilities. https://t.co/FHOxmsPJIJ",
+      "timestamp": "2026-04-01T18:18:07+00:00",
+      "url": "https://x.com/NVIDIARobotics/status/2039406972450062345",
+      "images": [],
+      "likes": 32,
+      "retweets": 12,
+      "views": 2095
+    },
+    {
+      "id": "2039406948274307355",
+      "username": "mustafasuleyman",
+      "text": "Been awesome to have MAI-Image-2 out in the world and see people's creations. Wanted to start sharing some favorite prompts the team has come up with so you can test them out for yourself 👀 \n\nWill keep adding to this (and share yours too)",
+      "timestamp": "2026-04-01T18:18:01+00:00",
+      "url": "https://x.com/mustafasuleyman/status/2039406948274307355",
+      "images": [],
+      "likes": 73,
+      "retweets": 7,
+      "views": 16169
+    },
+    {
+      "id": "2039404288082894912",
+      "username": "_akhaliq",
+      "text": "Storage Buckets for Spaces\n\nYou can now mount HF Buckets as persistent storage volumes directly in your Spaces. In Space settings, the new \"Storage Buckets\" section lets you create or select a bucket, set the mount path and access mode. You can also attach a bucket when creating https://t.co/Qf99smfF3P",
+      "timestamp": "2026-04-01T18:07:27+00:00",
+      "url": "https://x.com/_akhaliq/status/2039404288082894912",
+      "images": [
+        "https://pbs.twimg.com/media/HE1q9gnXAAAv4i2.jpg"
+      ],
+      "likes": 3,
+      "retweets": 0,
+      "views": 2684
+    },
+    {
+      "id": "2039403255474876641",
+      "username": "NVIDIARobotics",
+      "text": "Build a Physical AI Pipeline on DGX Spark with NemoClaw, Omniverse NuRec, and Isaac Sim https://t.co/JtWRGK5fBV",
+      "timestamp": "2026-04-01T18:03:21+00:00",
+      "url": "https://x.com/NVIDIARobotics/status/2039403255474876641",
+      "images": [],
+      "likes": 34,
+      "retweets": 5,
+      "views": 1616
+    },
+    {
+      "id": "2039399330487157037",
+      "username": "a16z",
+      "text": "Inside Block: How AI Changes Software Development\n\nBlock's Owen Jennings sat down with a16z GP David Haber to discuss how AI is changing software businesses, including the end of handwritten code, why Block reduced its workforce by 40%, how small teams are doing more with agents, https://t.co/iQgeVRsgeA",
+      "timestamp": "2026-04-01T17:47:45+00:00",
+      "url": "https://x.com/a16z/status/2039399330487157037",
+      "images": [],
+      "likes": 56,
+      "retweets": 5,
+      "views": 32095
+    },
+    {
+      "id": "2039396993450312051",
+      "username": "GaryMarcus",
+      "text": "Sic transit gloria mundi. \n\nSix months later, Sam might not be able to find a buyer for Brad’s shares. \n\nIn no small part because he didn’t have a decent answer to Brad’s question of how to make OpenAI’s finances work.\n \nLooking to heaven (note his eyeballs) didn’t help.",
+      "timestamp": "2026-04-01T17:38:28+00:00",
+      "url": "https://x.com/GaryMarcus/status/2039396993450312051",
+      "images": [],
+      "likes": 48,
+      "retweets": 4,
+      "views": 5573
+    },
+    {
+      "id": "2039395754549391509",
+      "username": "GaryMarcus",
+      "text": "It’s worse than that, @polymarket: a  lot (most?) of OpenAI’s new funding is *contingent* money, not guaranteed.\n\nNo wonder people are getting skittish about OpenAI’s secondary market shares.\n\nOpenAI may well become the biggest flameout since Enron.",
+      "timestamp": "2026-04-01T17:33:32+00:00",
+      "url": "https://x.com/GaryMarcus/status/2039395754549391509",
+      "images": [],
+      "likes": 51,
+      "retweets": 6,
+      "views": 5534
+    },
+    {
+      "id": "2039388652015583650",
+      "username": "mmitchell_ai",
+      "text": "My fireside chat on building Trustworthy AI @NVIDIAGTC with Nikki Pope is up! Was so nice to be invited and to chat about the changing trust landscape.\nhttps://t.co/uQm5EjvXO7",
+      "timestamp": "2026-04-01T17:05:19+00:00",
+      "url": "https://x.com/mmitchell_ai/status/2039388652015583650",
+      "images": [],
+      "likes": 3,
+      "retweets": 1,
+      "views": 409
     }
   ]
 }
