@@ -360,6 +360,220 @@
           36
         ]
       }
+    ],
+    "2026-04-01": [
+      {
+        "title": "OpenAI Completes $122B Funding Round at $852B Valuation",
+        "signal_text": "据 OpenAI 官方博客及 TechCrunch 报道，OpenAI 已完成新一轮高达 1220 亿美元的融资，估值达到 8520 亿美元。本轮融资由亚马逊、英伟达和软银领投，旨在加速前沿 AI 的全球扩张，投资下一代算力，并满足 ChatGPT、Codex 和企业级 AI 日益增长的需求。",
+        "signal_strength": 0.95,
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/accelerating-the-next-phase-ai"
+          },
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/"
+          }
+        ],
+        "tags": [
+          "头部公司战略动作",
+          "商业化路径",
+          "融资"
+        ],
+        "raw_item_indices": [
+          22,
+          28,
+          42
+        ]
+      },
+      {
+        "title": "Anthropic Claude Code Source Code Leak",
+        "signal_text": "据 The Verge 和 VentureBeat 报道，Anthropic 在其 Claude Code 的 2.1.88 更新中意外包含了一个 JavaScript 源码映射文件，导致其 TypeScript 代码库泄露。泄露内容据称包含一个类似电子宠物的“Tamagotchi-style pet”和一个常驻代理（always-on agent）的代码。",
+        "signal_strength": 0.85,
+        "sources": [
+          {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/904776/anthropic-claude-source-code-leak"
+          },
+          {
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/technology/claude-codes-source-code-appears-to-have-leaked-heres-what-we-know"
+          }
+        ],
+        "tags": [
+          "内容安全与治理",
+          "头部公司战略动作",
+          "AI Agent"
+        ],
+        "raw_item_indices": [
+          17,
+          39,
+          66
+        ]
+      },
+      {
+        "title": "Meta Introduces Adaptive Ranking Model for LLM-Scale Ads Recommendation",
+        "signal_text": "Meta 工程团队发布博客，介绍其“自适应排序模型”（Adaptive Ranking Model），该模型通过弯曲推理扩展曲线，能够以 LLM 规模服务广告推荐系统模型，旨在为广告主带来更好的效果，代表了推荐算法向超大规模模型演进的重要一步。",
+        "signal_strength": 0.85,
+        "sources": [
+          {
+            "name": "Meta Engineering Blog",
+            "url": "https://engineering.fb.com/2026/03/31/ml-applications/meta-adaptive-ranking-model-bending-the-inference-scaling-curve-to-serve-llm-scale-models-for-ads/"
+          }
+        ],
+        "tags": [
+          "搜索与推荐",
+          "个性化推荐算法",
+          "技术突破"
+        ],
+        "raw_item_indices": [
+          36
+        ]
+      },
+      {
+        "title": "Google Releases Veo 3.1 Lite, a Cost-Effective Video Generation Model",
+        "signal_text": "据 Google AI 官方博客，Google 发布了 Veo 3.1 Lite，这是其最具成本效益的视频生成模型，旨在降低高质量视频生成的门槛，供开发者构建应用。",
+        "signal_strength": 0.8,
+        "sources": [
+          {
+            "name": "Google AI Blog",
+            "url": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/"
+          }
+        ],
+        "tags": [
+          "内容创作与理解",
+          "多模态生成",
+          "头部公司战略动作"
+        ],
+        "raw_item_indices": [
+          37
+        ]
+      },
+      {
+        "title": "Ollama Major Update: MLX Integration for Apple Silicon and NVFP4 Support",
+        "signal_text": "据 Ollama 官方推文（获 3500+ likes），Ollama 发布重大更新，深度集成 Apple 的 MLX 框架，使其在 Apple Silicon 设备上运行速度大幅提升，同时支持 NVIDIA 的 NVFP4 格式以降低内存带宽和存储需求，并改进了缓存机制，为 OpenClaw、Claude Code 等代理任务提供更高效的本地推理支持。",
+        "signal_strength": 0.8,
+        "sources": [
+          {
+            "name": "Twitter @ollama",
+            "url": "https://x.com/ollama/status/2038835449012351197"
+          }
+        ],
+        "tags": [
+          "技术突破",
+          "推理效率提升",
+          "端侧部署",
+          "开源生态"
+        ],
+        "raw_item_indices": [
+          71,
+          72,
+          73,
+          74,
+          75
+        ]
+      },
+      {
+        "title": "Salesforce Announces AI-Heavy Slack Overhaul with 30+ New Features",
+        "signal_text": "据 TechCrunch 和 VentureBeat 报道，Salesforce 宣布对 Slack 进行重大 AI 改造，推出 30 多项新功能，这是自被 Salesforce 收购以来 Slackbot 最雄心勃勃的更新，旨在将 AI 深度集成到工作流和团队协作中。",
+        "signal_strength": 0.8,
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/"
+          },
+          {
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/orchestration/slack-adds-30-ai-features-to-slackbot-its-most-ambitious-update-since-the"
+          }
+        ],
+        "tags": [
+          "头部公司战略动作",
+          "Agent 与新交互范式",
+          "企业AI代理"
+        ],
+        "raw_item_indices": [
+          15,
+          34
+        ]
+      },
+      {
+        "title": "KwaiKAT Releases KAT-Coder-V2, an Agentic Coding Model Close to Claude Opus 4.6",
+        "signal_text": "据知名 AI 策展人 @arankomatsuzaki 分享（获 200+ likes），快手（Kwai）旗下 KwaiKAT 团队发布了 KAT-Coder-V2，这是一个代理式编码模型，其性能接近 Claude Opus 4.6，显示了中国公司在 AI 编程助手领域的快速进展。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "Twitter @arankomatsuzaki",
+            "url": "https://x.com/arankomatsuzaki/status/2038844459857985954"
+          }
+        ],
+        "tags": [
+          "Agent 与新交互范式",
+          "中国AI模型竞争",
+          "内容创作与理解"
+        ],
+        "raw_item_indices": [
+          69
+        ]
+      },
+      {
+        "title": "IBM Granite 4.0 3B Vision: Compact Multimodal Model for Enterprise Documents",
+        "signal_text": "据 HuggingFace 博客，IBM 发布了 Granite 4.0 3B Vision，这是一个紧凑的多模态模型，专门为企业文档理解而设计，展示了在轻量级模型上实现专业领域多模态能力的趋势。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "HuggingFace Blog",
+            "url": "https://huggingface.co/blog/ibm-granite/granite-4-vision"
+          }
+        ],
+        "tags": [
+          "技术突破",
+          "多模态融合",
+          "内容理解"
+        ],
+        "raw_item_indices": [
+          38
+        ]
+      },
+      {
+        "title": "MIT Technology Review: AI Benchmarks Are Broken, Need New Evaluation Frameworks",
+        "signal_text": "MIT Technology Review 发表评论文章，指出当前以“机器是否超越人类”为核心的 AI 评估基准已失效，这种框架误导了发展方向并加剧了社会风险。文章呼吁建立新的评估体系，更关注 AI 如何增强人类能力、促进协作以及对社会结构的系统性影响。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/"
+          }
+        ],
+        "tags": [
+          "行业风险与监管",
+          "内容安全与治理",
+          "AI评估"
+        ],
+        "raw_item_indices": [
+          44
+        ]
+      },
+      {
+        "title": "Schmidhuber Accuses LeCun of JEPA Idea Plagiarism",
+        "signal_text": "AI 先驱 Jürgen Schmidhuber (@SchmidhuberAI) 发推（获 700+ likes）指控 Yann LeCun 大力推广的联合嵌入预测架构（JEPA，2022）的核心思想并非原创，而是与其 1992 年的可预测性最大化系统（PMAX）基本相同。此争议在社区引发广泛关注。",
+        "signal_strength": 0.7,
+        "sources": [
+          {
+            "name": "Twitter @SchmidhuberAI",
+            "url": "https://x.com/SchmidhuberAI/status/2038989707917271210"
+          }
+        ],
+        "tags": [
+          "技术突破",
+          "行业风险与监管",
+          "伦理争议"
+        ],
+        "raw_item_indices": [
+          108
+        ]
+      }
     ]
   },
   "archived_weeks": [

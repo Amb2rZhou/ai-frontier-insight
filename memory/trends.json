@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-31T09:34:06.894695+08:00",
+  "last_updated": "2026-04-01T09:34:24.039320+08:00",
   "trends": [
     {
       "id": "ai_safety_pivot_and_accelerated_agi_time",
@@ -11,7 +11,7 @@
         "Anthropic"
       ],
       "trajectory": "accelerating",
-      "signal_count": 46,
+      "signal_count": 47,
       "weekly_counts": [
         1,
         1,
@@ -22,8 +22,8 @@
         1,
         1,
         1,
-        1,
         2,
+        1,
         1
       ],
       "key_events": [
@@ -186,6 +186,10 @@
         {
           "date": "2026-03-31",
           "event": "UK AI Security Institute Research on Natural Emergent Misalignment from Reward Hacking"
+        },
+        {
+          "date": "2026-04-01",
+          "event": "MIT Technology Review: AI Benchmarks Are Broken, Need New Evaluation Frameworks"
         }
       ],
       "created": "2026-02-25"
@@ -273,14 +277,14 @@
         "Multimodal AI"
       ],
       "trajectory": "accelerating",
-      "signal_count": 30,
+      "signal_count": 31,
       "weekly_counts": [
         1,
         1,
-        1,
         2,
         1,
         2,
+        1,
         1,
         1,
         1,
@@ -400,6 +404,10 @@
         {
           "date": "2026-03-31",
           "event": "Cohere Releases Open-Weight ASR Model with 5.4% Word Error Rate"
+        },
+        {
+          "date": "2026-04-01",
+          "event": "Ollama Major Update: MLX Integration for Apple Silicon and NVFP4 Support"
         }
       ],
       "created": "2026-02-25"
@@ -503,9 +511,8 @@
         "Anthropic"
       ],
       "trajectory": "accelerating",
-      "signal_count": 75,
+      "signal_count": 77,
       "weekly_counts": [
-        2,
         3,
         1,
         1,
@@ -516,7 +523,8 @@
         4,
         1,
         1,
-        3
+        3,
+        2
       ],
       "key_events": [
         {
@@ -678,6 +686,10 @@
         {
           "date": "2026-03-31",
           "event": "Claude Code Launches Auto Mode for Enterprise and API Users; OpenAI Codex Usage Data Shows Developers Delegate Long-Running Tasks Overnight"
+        },
+        {
+          "date": "2026-04-01",
+          "event": "Salesforce Announces AI-Heavy Slack Overhaul with 30+ New Features; Anthropic Claude Code Source Code Leak"
         }
       ],
       "created": "2026-02-25"
@@ -733,9 +745,8 @@
         "Multimodal AI"
       ],
       "trajectory": "accelerating",
-      "signal_count": 71,
+      "signal_count": 73,
       "weekly_counts": [
-        2,
         3,
         2,
         2,
@@ -746,6 +757,7 @@
         1,
         2,
         1,
+        2,
         2
       ],
       "key_events": [
@@ -916,6 +928,10 @@
         {
           "date": "2026-03-31",
           "event": "DeepMind Paper Analyzes Challenges in Iterative Generative Optimization with LLMs; Apple Researchers Introduce LGTM for High-Fidelity 4K Novel View Synthesis"
+        },
+        {
+          "date": "2026-04-01",
+          "event": "Meta Introduces Adaptive Ranking Model for LLM-Scale Ads Recommendation; IBM Granite 4.0 3B Vision: Compact Multimodal Model for Enterprise Documents"
         }
       ],
       "created": "2026-02-25"
@@ -930,7 +946,7 @@
         "xAI"
       ],
       "trajectory": "accelerating",
-      "signal_count": 21,
+      "signal_count": 22,
       "weekly_counts": [
         1,
         1,
@@ -1029,6 +1045,10 @@
         {
           "date": "2026-03-28",
           "event": "NeurIPS Reverses Policy After Backlash from Chinese Researchers Over Geopolitical Lines"
+        },
+        {
+          "date": "2026-04-01",
+          "event": "OpenAI Completes $122B Funding Round at $852B Valuation"
         }
       ],
       "created": "2026-02-25"
@@ -1120,9 +1140,8 @@
         "Automation"
       ],
       "trajectory": "accelerating",
-      "signal_count": 105,
+      "signal_count": 106,
       "weekly_counts": [
-        1,
         2,
         2,
         4,
@@ -1133,7 +1152,8 @@
         2,
         1,
         1,
-        2
+        2,
+        1
       ],
       "key_events": [
         {
@@ -1311,6 +1331,10 @@
         {
           "date": "2026-03-31",
           "event": "Former Coatue Partner Raises $65M Seed for Enterprise AI Agent Startup; HuggingFace CEO Advocates for Open-Source Models in Agent Tools"
+        },
+        {
+          "date": "2026-04-01",
+          "event": "KwaiKAT Releases KAT-Coder-V2, an Agentic Coding Model Close to Claude Opus 4.6"
         }
       ],
       "created": "2026-02-25"
@@ -1390,10 +1414,10 @@
         "Meta"
       ],
       "trajectory": "accelerating",
-      "signal_count": 35,
+      "signal_count": 36,
       "weekly_counts": [
-        1,
         2,
+        1,
         1,
         1,
         1,
@@ -1533,6 +1557,10 @@
         {
           "date": "2026-03-29",
           "event": "Lean-Ctx: Open-Source Tool Cuts LLM Token Consumption by 89-99%, significantly reducing inference costs"
+        },
+        {
+          "date": "2026-04-01",
+          "event": "Ollama Major Update: MLX Integration for Apple Silicon and NVFP4 Support"
         }
       ],
       "created": "2026-02-25"
@@ -1674,12 +1702,11 @@
         "Risk Management"
       ],
       "trajectory": "accelerating",
-      "signal_count": 38,
+      "signal_count": 39,
       "weekly_counts": [
         1,
         1,
         1,
-        1,
         2,
         1,
         1,
@@ -1687,6 +1714,7 @@
         1,
         1,
         2,
+        1,
         1
       ],
       "key_events": [
@@ -1817,6 +1845,10 @@
         {
           "date": "2026-03-31",
           "event": "UK AI Security Institute Research on Natural Emergent Misalignment from Reward Hacking"
+        },
+        {
+          "date": "2026-04-01",
+          "event": "Anthropic Claude Code Source Code Leak"
         }
       ],
       "created": "2026-02-25"
@@ -1929,16 +1961,16 @@
         "DeepSeek"
       ],
       "trajectory": "accelerating",
-      "signal_count": 16,
+      "signal_count": 17,
       "weekly_counts": [
         1,
-        1,
         2,
         1,
         1,
         1,
         1,
         2,
+        1,
         1,
         1,
         1,
@@ -2000,6 +2032,10 @@
         {
           "date": "2026-03-31",
           "event": "Alibaba Qwen Releases Qwen3.5-Omni, a Native Multimodal Model with Audio-Visual Vibe Coding"
+        },
+        {
+          "date": "2026-04-01",
+          "event": "KwaiKAT Releases KAT-Coder-V2, an Agentic Coding Model Close to Claude Opus 4.6"
         }
       ],
       "created": "2026-02-25"
@@ -2047,9 +2083,8 @@
         "Startup Funding"
       ],
       "trajectory": "accelerating",
-      "signal_count": 35,
+      "signal_count": 36,
       "weekly_counts": [
-        1,
         2,
         1,
         1,
@@ -2060,6 +2095,7 @@
         1,
         1,
         2,
+        1,
         1
       ],
       "key_events": [
@@ -2182,6 +2218,10 @@
         {
           "date": "2026-03-31",
           "event": "Apple Researchers Introduce LGTM for High-Fidelity 4K Novel View Synthesis"
+        },
+        {
+          "date": "2026-04-01",
+          "event": "Google Releases Veo 3.1 Lite, a Cost-Effective Video Generation Model"
         }
       ],
       "created": "2026-02-26"

@@ -1,66 +1,6 @@
 {
   "predictions": [
     {
-      "date": "2026-03-21T09:34:44.845840+08:00",
-      "prediction_text": "客户端团队可以探索部署高性能端侧语音模型，实现低延迟、高隐私的语音交互功能。",
-      "category": "research_breakthrough",
-      "source_signal": "Quantized On-Device Speech Models Outperform Whisper Large v3"
-    },
-    {
-      "date": "2026-03-21T09:34:44.851439+08:00",
-      "prediction_text": "内容理解团队建议针对长视频、直播等内容形态，研发专用的多模态理解与摘要模型。",
-      "category": "research_breakthrough",
-      "source_signal": "New Benchmark LVOmniBench Reveals Challenges in Long Audio-Video Understanding"
-    },
-    {
-      "date": "2026-03-22T09:34:23.908938+08:00",
-      "prediction_text": "电商与内容平台的客服/导购 Agent 可以考虑基于类似优化，提供更流畅的多步骤服务体验。",
-      "category": "infrastructure",
-      "source_signal": "OpenAI Announces 10x Faster Agent Workflows with Container Pooling"
-    },
-    {
-      "date": "2026-03-22T09:34:23.919843+08:00",
-      "prediction_text": "技术选型团队可以评估此类模型，用于构建高并发的推荐、创作或审核 Agent 集群。",
-      "category": "model_release",
-      "source_signal": "NVIDIA Releases Nemotron-Cascade 2: Efficient 30B MoE Model with Strong Reasoning"
-    },
-    {
-      "date": "2026-03-22T09:34:23.950157+08:00",
-      "prediction_text": "内容安全与推荐系统团队需要区分模型用于“规范引导”还是“风险预测”的场景，并针对性调优。",
-      "category": "research_breakthrough",
-      "source_signal": "Research: Alignment Makes LLMs Normative, Not Descriptive"
-    },
-    {
-      "date": "2026-03-22T09:34:23.967247+08:00",
-      "prediction_text": "基础设施团队值得关注超大规模 AI 硬件协同设计趋势，评估其对长期算力成本与架构的影响。",
-      "category": "strategic_move",
-      "source_signal": "xAI Announces \"Terafab\": Next Step Towards Galactic Civilization"
-    },
-    {
-      "date": "2026-03-22T09:34:23.989561+08:00",
-      "prediction_text": "视频创作工具团队可以探索集成类似解耦编辑技术，提升 AI 辅助功能的实用性与可控性。",
-      "category": "research_breakthrough",
-      "source_signal": "[Update] Baidu's SAMA Model for Instruction-Guided Video Editing Gains Traction"
-    },
-    {
-      "date": "2026-03-22T09:34:24.007285+08:00",
-      "prediction_text": "推荐系统团队可以考虑训练轻量级“品味模型”，用于内容冷启动或质量预评估，优化资源分配。",
-      "category": "research_breakthrough",
-      "source_signal": "Research: Small Models Can Learn \"Taste\" from Citations and Engagement"
-    },
-    {
-      "date": "2026-03-22T09:34:24.022816+08:00",
-      "prediction_text": "内容平台的版权与合规团队需要建立可操作的 AI 内容检测与标注流程，以应对合作伙伴审查。",
-      "category": "industry_risk",
-      "source_signal": "Major Publisher Pulls Novel Over Suspected AI-Generated Text"
-    },
-    {
-      "date": "2026-03-22T09:34:24.047094+08:00",
-      "prediction_text": "内容理解团队建议基于类似基准，研发针对长视频摘要、亮点提取与内容审核的专用模型。",
-      "category": "research_breakthrough",
-      "source_signal": "New Benchmark LVOmniBench Reveals Challenges in Long Audio-Video Understanding"
-    },
-    {
       "date": "2026-03-22T09:34:24.068248+08:00",
       "prediction_text": "工程团队在构建 Agent 系统时，可以优先采用模块化、可替换的设计，而非过度优化单一方案。",
       "category": "industry_insight",
@@ -599,6 +539,66 @@
       "prediction_text": "内容安全与模型团队值得关注此类研究，加强对内部微调与强化学习流程的监控与对齐评估。",
       "category": "research_breakthrough",
       "source_signal": "UK AI Security Institute Research on Natural Emergent Misalignment from Reward Hacking"
+    },
+    {
+      "date": "2026-04-01T09:33:39.534523+08:00",
+      "prediction_text": "内容与电商平台建议加速评估自研或深度定制垂直模型，以对冲对单一供应商的过度依赖与成本失控风险。",
+      "category": "strategic_move",
+      "source_signal": "OpenAI Completes $122B Funding Round at $852B Valuation"
+    },
+    {
+      "date": "2026-04-01T09:33:39.544040+08:00",
+      "prediction_text": "内容安全与平台Agent研发团队值得关注代码泄露揭示的交互模式，并强化自身Agent系统的安全审计与输入过滤。",
+      "category": "ecosystem_shift",
+      "source_signal": "Anthropic Claude Code Source Code Leak"
+    },
+    {
+      "date": "2026-04-01T09:33:39.553054+08:00",
+      "prediction_text": "推荐算法团队可以探索基于LLM的下一代排序架构，以统一处理内容、商品与广告的个性化分发。",
+      "category": "research_breakthrough",
+      "source_signal": "Meta Introduces Adaptive Ranking Model for LLM-Scale Ads Recommendation"
+    },
+    {
+      "date": "2026-04-01T09:33:39.559209+08:00",
+      "prediction_text": "内容创作工具团队可以考虑集成此类轻量级视频模型，为用户提供低门槛的短视频/动态内容生成功能。",
+      "category": "model_release",
+      "source_signal": "Google Releases Veo 3.1 Lite, a Cost-Effective Video Generation Model"
+    },
+    {
+      "date": "2026-04-01T09:33:39.565009+08:00",
+      "prediction_text": "创作者工具与客户端团队可以探索基于MLX等框架，将部分AI功能（如内容草稿生成）完全本地化以提升体验与隐私。",
+      "category": "infrastructure",
+      "source_signal": "Ollama Major Update: MLX Integration for Apple Silicon and NVFP4 Support"
+    },
+    {
+      "date": "2026-04-01T09:33:39.569871+08:00",
+      "prediction_text": "社区与电商平台的产品团队建议探索将AI Agent深度嵌入用户互动与交易流程，而非仅作为附加功能。",
+      "category": "strategic_move",
+      "source_signal": "Salesforce Announces AI-Heavy Slack Overhaul with 30+ New Features"
+    },
+    {
+      "date": "2026-04-01T09:33:39.574758+08:00",
+      "prediction_text": "平台研发与创作者工具团队可以考虑引入或对标此类垂直领域SOTA模型，以提升内部效率与对外服务能力。",
+      "category": "strategic_move",
+      "source_signal": "KwaiKAT Releases KAT-Coder-V2, an Agentic Coding Model Close to Claude Opus 4.6"
+    },
+    {
+      "date": "2026-04-01T09:33:39.579484+08:00",
+      "prediction_text": "电商与内容审核团队可以评估采用此类紧凑模型，用于商品详情理解、资质文档审核等成本敏感型任务。",
+      "category": "model_release",
+      "source_signal": "IBM Granite 4.0 3B Vision: Compact Multimodal Model for Enterprise Documents"
+    },
+    {
+      "date": "2026-04-01T09:33:39.584523+08:00",
+      "prediction_text": "产品与算法评估团队值得探索建立新的AI效用评估框架，重点关注用户满意度、创作效率与生态健康度。",
+      "category": "ecosystem_shift",
+      "source_signal": "MIT Technology Review: AI Benchmarks Are Broken, Need New Evaluation Frameworks"
+    },
+    {
+      "date": "2026-04-01T09:33:39.589517+08:00",
+      "prediction_text": "平台研究院在发表或采用新技术时，建议加强技术溯源与合规审查，避免潜在的学术伦理与法律风险。",
+      "category": "ecosystem_shift",
+      "source_signal": "Schmidhuber Accuses LeCun of JEPA Idea Plagiarism"
     }
   ]
 }
