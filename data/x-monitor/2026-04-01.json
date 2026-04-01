@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-01T11:45:38.378396",
+  "scraped_at": "2026-04-01T14:19:28.851806",
   "date": "2026-04-01",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 63,
-  "account_count": 34,
+  "tweet_count": 68,
+  "account_count": 36,
   "tweets": [
     {
       "id": "2039047852450562077",
@@ -738,6 +738,63 @@
       "likes": 46,
       "retweets": 7,
       "views": 2040
+    },
+    {
+      "id": "2039218033533837587",
+      "username": "docmilanfar",
+      "text": "“For every complex problem there is an answer that is clear, simple, and wrong.”",
+      "timestamp": "2026-04-01T05:47:20+00:00",
+      "url": "https://x.com/docmilanfar/status/2039218033533837587",
+      "images": [],
+      "likes": 29,
+      "retweets": 2,
+      "views": 730
+    },
+    {
+      "id": "2039216522028257549",
+      "username": "levie",
+      "text": "The ultimate rate limiter on productivity gains from agents will be on critical stuff like security, compliance, governance, the ability to review the work of the agent, ensure that it’s compatible with regulations, and so on. \n\nWe’ve been living in a little bit of la-la land",
+      "timestamp": "2026-04-01T05:41:20+00:00",
+      "url": "https://x.com/levie/status/2039216522028257549",
+      "images": [],
+      "likes": 46,
+      "retweets": 11,
+      "views": 8833
+    },
+    {
+      "id": "2039204156410667448",
+      "username": "__tinygrad__",
+      "text": "we own the AI computer market from $10k-$10M. if that's your budget, you won't beat our prices. you aren't going to be a hyperscalar, but you don't have to be a serf either. we keep the middle class out of the perpetual underclass.",
+      "timestamp": "2026-04-01T04:52:12+00:00",
+      "url": "https://x.com/__tinygrad__/status/2039204156410667448",
+      "images": [],
+      "likes": 123,
+      "retweets": 4,
+      "views": 6297
+    },
+    {
+      "id": "2039194611118190866",
+      "username": "ClementDelangue",
+      "text": "That’s why I usually say that comparing open models with closed-source APIs or products is like comparing apples and oranges. Or comparing an engine with a full car. Or comparing an ingredient with a Michelin dinner (missing ingredients, prep and chef). \n\nThere’s a lot of",
+      "timestamp": "2026-04-01T04:14:16+00:00",
+      "url": "https://x.com/ClementDelangue/status/2039194611118190866",
+      "images": [],
+      "likes": 98,
+      "retweets": 4,
+      "views": 10411
+    },
+    {
+      "id": "2038950775028662697",
+      "username": "minchoi",
+      "text": "Holy smokes... Anthropic just accidentally dropped entire Claude Code source code 😬\n\nCode in reply https://t.co/VEWVVqbfQk",
+      "timestamp": "2026-03-31T12:05:21+00:00",
+      "url": "https://x.com/minchoi/status/2038950775028662697",
+      "images": [
+        "https://pbs.twimg.com/media/HEvOAeabwAAGcwD.jpg"
+      ],
+      "likes": 511,
+      "retweets": 51,
+      "views": 123405
     }
   ]
 }
