@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-02T08:44:15.672669",
+  "scraped_at": "2026-04-02T13:30:41.662665",
   "date": "2026-04-02",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 61,
-  "account_count": 34,
+  "tweet_count": 69,
+  "account_count": 38,
   "tweets": [
     {
       "id": "2039387985582649663",
@@ -721,6 +721,96 @@
       "likes": 73,
       "retweets": 0,
       "views": 15688
+    },
+    {
+      "id": "2039566561803964510",
+      "username": "roydanroy",
+      "text": "Giving this argument betrays that there’s no chance this result is true.",
+      "timestamp": "2026-04-02T04:52:16+00:00",
+      "url": "https://x.com/roydanroy/status/2039566561803964510",
+      "images": [],
+      "likes": 4,
+      "retweets": 0,
+      "views": 446
+    },
+    {
+      "id": "2039559184522559881",
+      "username": "GaryMarcus",
+      "text": "When you have one job, and blow it. https://t.co/O5P0rdeCJx",
+      "timestamp": "2026-04-02T04:22:57+00:00",
+      "url": "https://x.com/GaryMarcus/status/2039559184522559881",
+      "images": [
+        "https://pbs.twimg.com/media/HE34RTyagAAKQgv.jpg"
+      ],
+      "likes": 20,
+      "retweets": 2,
+      "views": 1423
+    },
+    {
+      "id": "2039551079621566812",
+      "username": "steipete",
+      "text": "I never use plan mode. \n\nThe main reason this was added to codex is for claude-pilled people who struggle with changing their habits.\n\njust talk with your agent.",
+      "timestamp": "2026-04-02T03:50:45+00:00",
+      "url": "https://x.com/steipete/status/2039551079621566812",
+      "images": [],
+      "likes": 1104,
+      "retweets": 52,
+      "views": 121490
+    },
+    {
+      "id": "2039550028444991515",
+      "username": "thsottiaux",
+      "text": "Codex growth goes weeee. And it's not even next week. Who even works on April 1st.",
+      "timestamp": "2026-04-02T03:46:34+00:00",
+      "url": "https://x.com/thsottiaux/status/2039550028444991515",
+      "images": [],
+      "likes": 518,
+      "retweets": 10,
+      "views": 15974
+    },
+    {
+      "id": "2039521244899655842",
+      "username": "fchollet",
+      "text": "One of the best AI products I've seen recently: (drumroll)\n\nAdobe Podcast",
+      "timestamp": "2026-04-02T01:52:11+00:00",
+      "url": "https://x.com/fchollet/status/2039521244899655842",
+      "images": [],
+      "likes": 93,
+      "retweets": 2,
+      "views": 22518
+    },
+    {
+      "id": "2039512199862059343",
+      "username": "OpenAINewsroom",
+      "text": "OpenAI Co-founder and President @gdb sits down with @alexkantrowitz on @BigTechPod to talk AI and how it can empower everyone. https://t.co/ClkuPYwZ27",
+      "timestamp": "2026-04-02T01:16:15+00:00",
+      "url": "https://x.com/OpenAINewsroom/status/2039512199862059343",
+      "images": [],
+      "likes": 264,
+      "retweets": 24,
+      "views": 13558
+    },
+    {
+      "id": "2039506800660152597",
+      "username": "deliprao",
+      "text": "how did it get past astro-ph moderation team or they are in on this joke?",
+      "timestamp": "2026-04-02T00:54:48+00:00",
+      "url": "https://x.com/deliprao/status/2039506800660152597",
+      "images": [],
+      "likes": 3,
+      "retweets": 0,
+      "views": 1078
+    },
+    {
+      "id": "2038982149362053548",
+      "username": "DeryaTR_",
+      "text": "I built a very complex bio/chem app for macOS with Codex. It's still alpha, but it's crazy what I have now! It took 75 prompts &amp; about half of Codex's 5.4 xHigh weekly rate. I tried the same prompts with Claude code &amp; ran out of weekly limits before completing 25% of the prompts!",
+      "timestamp": "2026-03-31T14:10:01+00:00",
+      "url": "https://x.com/DeryaTR_/status/2038982149362053548",
+      "images": [],
+      "likes": 235,
+      "retweets": 10,
+      "views": 15522
     }
   ]
 }
