@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-03T02:02:04.056133",
+  "scraped_at": "2026-04-03T04:36:53.231116",
   "date": "2026-04-03",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 49,
-  "account_count": 28,
+  "tweet_count": 77,
+  "account_count": 40,
   "tweets": [
     {
       "id": "2039764040499499177",
@@ -582,6 +582,327 @@
       "likes": 2302,
       "retweets": 261,
       "views": 160799
+    },
+    {
+      "id": "2039803144536760518",
+      "username": "ClementDelangue",
+      "text": "Will @tbpn cover the @google gemma 4 release today?",
+      "timestamp": "2026-04-02T20:32:22+00:00",
+      "url": "https://x.com/ClementDelangue/status/2039803144536760518",
+      "images": [],
+      "likes": 3,
+      "retweets": 0,
+      "views": 212
+    },
+    {
+      "id": "2039802553878094167",
+      "username": "googledevs",
+      "text": "Go beyond chatbots. Build your next AI agent on your own device. 🤖\n\nUse #GoogleAIEdge to bring Gemma 4's power to the edge. Experiment in the Gallery app or deploy to any device – laptop, mobile, IoT – via LiteRT-LM.\n\nWhat will you build?\n\nLearn how: https://t.co/ThUdBiKw14",
+      "timestamp": "2026-04-02T20:30:01+00:00",
+      "url": "https://x.com/googledevs/status/2039802553878094167",
+      "images": [],
+      "likes": 8,
+      "retweets": 3,
+      "views": 435
+    },
+    {
+      "id": "2039802229184434279",
+      "username": "Yoshua_Bengio",
+      "text": "Un tour d’horizon de ma vision pour une IA plus sécuritaire et au service de l'humanité, dans le cadre de la série « les gourous de l’IA » de @lemondefr \nhttps://t.co/EhYAAixNQn",
+      "timestamp": "2026-04-02T20:28:43+00:00",
+      "url": "https://x.com/Yoshua_Bengio/status/2039802229184434279",
+      "images": [],
+      "likes": 4,
+      "retweets": 0,
+      "views": 152
+    },
+    {
+      "id": "2039795387582791842",
+      "username": "Miles_Brundage",
+      "text": "I’ve been acquired by Tippy https://t.co/mbdRXXnP6p",
+      "timestamp": "2026-04-02T20:01:32+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2039795387582791842",
+      "images": [
+        "https://pbs.twimg.com/media/HE7PGBxbAAAGirI.jpg"
+      ],
+      "likes": 10,
+      "retweets": 0,
+      "views": 338
+    },
+    {
+      "id": "2039795172762923379",
+      "username": "PyTorch",
+      "text": "\"The Hub as Infrastructure: From Open PyTorch Models, to a Safe and Performant Distribution Hub\" 🎤\n\nJoin Lysandre Debut (Chief OS Officer @huggingface) at #PyTorchCon Europe this April! Learn how distribution hubs are revolutionizing the #ML lifecycle.\n\n📍 Paris | 7-8 April https://t.co/IHN4W8vNhC",
+      "timestamp": "2026-04-02T20:00:41+00:00",
+      "url": "https://x.com/PyTorch/status/2039795172762923379",
+      "images": [],
+      "likes": 3,
+      "retweets": 1,
+      "views": 789
+    },
+    {
+      "id": "2039794329972048210",
+      "username": "PyTorch",
+      "text": "PyTorch Foundation is officially opening the Call for Proposals (CFP) for PyTorch Conference North America 2026, held October 20–21 in San Jose, California.\n\nThis is the primary technical forum for maintainers, researchers, and engineers to share advancements across the PyTorch https://t.co/AzHeTelcNf",
+      "timestamp": "2026-04-02T19:57:20+00:00",
+      "url": "https://x.com/PyTorch/status/2039794329972048210",
+      "images": [
+        "https://pbs.twimg.com/media/HE7OHd2W4AABZFe.jpg"
+      ],
+      "likes": 2,
+      "retweets": 1,
+      "views": 832
+    },
+    {
+      "id": "2039791984827593053",
+      "username": "ClementDelangue",
+      "text": "this is Gemma 4 running locally on a 3 year old mac meaning:\n- free (=$0 no matter how much you use)\n- safe (you're not leaking all your data via unsafe APIs)\n- fast (as you can see)",
+      "timestamp": "2026-04-02T19:48:01+00:00",
+      "url": "https://x.com/ClementDelangue/status/2039791984827593053",
+      "images": [],
+      "likes": 93,
+      "retweets": 6,
+      "views": 11169
+    },
+    {
+      "id": "2039791545986191562",
+      "username": "UnslothAI",
+      "text": "Gemma 4 E4B was able to search and cite 10+ websites, execute code to find the best answer! 🔥\n\nYou only need 6GB RAM to try this in Unsloth Studio.\n\nGitHub repo: https://t.co/aZWYAtakBP https://t.co/tWWkyaPaqz",
+      "timestamp": "2026-04-02T19:46:16+00:00",
+      "url": "https://x.com/UnslothAI/status/2039791545986191562",
+      "images": [],
+      "likes": 180,
+      "retweets": 17,
+      "views": 9073
+    },
+    {
+      "id": "2039790183264997816",
+      "username": "Austen",
+      "text": "I do think it’s highly likely that companies will become more in-your-face competitive with AI.\n\nIt’s 10x easier to clone and undercut existing companies.\n\nI wouldn’t be surprised to see more Rocket Internets that push through the shame of cloning in the name of capitalism.",
+      "timestamp": "2026-04-02T19:40:51+00:00",
+      "url": "https://x.com/Austen/status/2039790183264997816",
+      "images": [],
+      "likes": 26,
+      "retweets": 2,
+      "views": 4614
+    },
+    {
+      "id": "2039789691961270308",
+      "username": "mmitchell_ai",
+      "text": "Child safety is an area where we deeply need ML tools to work well, and it's the area where we know the least about whether they actually do.\nWithout transparency into how these tools perform, we can't build the infrastructure or human oversight needed to protect kids",
+      "timestamp": "2026-04-02T19:38:54+00:00",
+      "url": "https://x.com/mmitchell_ai/status/2039789691961270308",
+      "images": [],
+      "likes": 6,
+      "retweets": 4,
+      "views": 413
+    },
+    {
+      "id": "2039789473324544102",
+      "username": "emollick",
+      "text": "New report from us: Can you prompt inject your way to an “A”?\n\nAs LLMs increasingly are used as judges, people are inserting AI prompts into letters, CVs &amp; papers. We tested whether it works. It does on older &amp; smaller models, but not on most frontier AI: https://t.co/rSdYAq7HWD https://t.co/O918Er77Xo",
+      "timestamp": "2026-04-02T19:38:02+00:00",
+      "url": "https://x.com/emollick/status/2039789473324544102",
+      "images": [
+        "https://pbs.twimg.com/media/HE7JtsEXAAA4LDg.jpg",
+        "https://pbs.twimg.com/media/HE7JtsEXwAAEG1W.jpg"
+      ],
+      "likes": 38,
+      "retweets": 9,
+      "views": 5028
+    },
+    {
+      "id": "2039789061154685323",
+      "username": "openclaw",
+      "text": "OpenClaw 2026.4.2 🦞\n\n🔄 Durable Task Flow orchestration\n🔓 Better native exec defaults + approvals\n🤖 Copilot + Kimi + provider hardening\n🔌 Tighter plugin activation boundaries\n🛡️ Hardened provider transport + routing\n\nLess bloat. More lobster. https://t.co/iYXguWkUpH",
+      "timestamp": "2026-04-02T19:36:24+00:00",
+      "url": "https://x.com/openclaw/status/2039789061154685323",
+      "images": [],
+      "likes": 478,
+      "retweets": 38,
+      "views": 23105
+    },
+    {
+      "id": "2039788257815261400",
+      "username": "mervenoyann",
+      "text": "run OpenClaw, Hermes Agent and Pi with Gemma 4 with few lines of change 🔥",
+      "timestamp": "2026-04-02T19:33:12+00:00",
+      "url": "https://x.com/mervenoyann/status/2039788257815261400",
+      "images": [],
+      "likes": 16,
+      "retweets": 6,
+      "views": 4101
+    },
+    {
+      "id": "2039787516002279565",
+      "username": "PyTorch",
+      "text": "The PyTorch Ecosystem Working Group is happy to welcome several new projects to the PyTorch Ecosystem Landscape, including PhysicsNeMo, Unsloth, ONNX, and KTransformers.\n\nThe PyTorch Ecosystem Landscape is a map of the innovative open source AI projects that extend, integrate https://t.co/DGSnW2msEk",
+      "timestamp": "2026-04-02T19:30:15+00:00",
+      "url": "https://x.com/PyTorch/status/2039787516002279565",
+      "images": [
+        "https://pbs.twimg.com/media/HE7H6z5XUAArSMu.jpg"
+      ],
+      "likes": 14,
+      "retweets": 0,
+      "views": 1265
+    },
+    {
+      "id": "2039783965473772023",
+      "username": "a16z",
+      "text": "Tools for Humanity CEO Alex Blania says the internet is splitting into humans, agents, and agents acting on behalf of humans.\n\n\"Are you interacting with a human, an agent on behalf of a human or just an agent? I think these are roughly the three areas that we want to split https://t.co/J0xNXZ8Tqy",
+      "timestamp": "2026-04-02T19:16:09+00:00",
+      "url": "https://x.com/a16z/status/2039783965473772023",
+      "images": [],
+      "likes": 31,
+      "retweets": 3,
+      "views": 5869
+    },
+    {
+      "id": "2039783947434123748",
+      "username": "jeremyphoward",
+      "text": "Cool use of llms.txt to provide an author-created AI-assisted reading experience for a book:\nhttps://t.co/hhykz4a4QE\n\n(LLMs can be *fantastic* for close reading.)",
+      "timestamp": "2026-04-02T19:16:05+00:00",
+      "url": "https://x.com/jeremyphoward/status/2039783947434123748",
+      "images": [],
+      "likes": 12,
+      "retweets": 5,
+      "views": 2339
+    },
+    {
+      "id": "2039782910996148508",
+      "username": "ClementDelangue",
+      "text": "You can run Gemma 4 100% locally in your browser thanks to HF transformers.js. That means 100% private and 100% free!\n\n@xenovacom created a demo for it here: https://t.co/5AQ6qWH0cw https://t.co/Rg0IbkAZzL",
+      "timestamp": "2026-04-02T19:11:57+00:00",
+      "url": "https://x.com/ClementDelangue/status/2039782910996148508",
+      "images": [
+        "https://pbs.twimg.com/media/HE7DcpDXQAAt9lG.jpg"
+      ],
+      "likes": 209,
+      "retweets": 27,
+      "views": 9163
+    },
+    {
+      "id": "2039781800864567624",
+      "username": "sriramk",
+      "text": "Really excited for this launch of Gemma 4 from @demishassabis and the DeepMind team.\n\nOpen source models are a key front for the west to have a lead on and this is a very key addition to the effort.\n\nExcited to see what developers in SV and around the world can build using this.",
+      "timestamp": "2026-04-02T19:07:33+00:00",
+      "url": "https://x.com/sriramk/status/2039781800864567624",
+      "images": [],
+      "likes": 98,
+      "retweets": 8,
+      "views": 30274
+    },
+    {
+      "id": "2039780069086814576",
+      "username": "gneubig",
+      "text": "Awesome! Kudos to Google for continuing to release good models, and also in local use + research friendly sizes.\n\nAnyone tried this as a coding agent yet?",
+      "timestamp": "2026-04-02T19:00:40+00:00",
+      "url": "https://x.com/gneubig/status/2039780069086814576",
+      "images": [],
+      "likes": 12,
+      "retweets": 1,
+      "views": 1176
+    },
+    {
+      "id": "2039779904313561568",
+      "username": "NVIDIARobotics",
+      "text": "Exciting news for Jetson developers 🎉\n\nGemma 4 is now on Jetson. @GoogleGemma’s latest multimodal, multilingual models run across the full Jetson platform—from Orin Nano to Thor—bringing on-device AI to robotics, edge, and embedded systems.\n\nCut latency, manage costs, and keep",
+      "timestamp": "2026-04-02T19:00:01+00:00",
+      "url": "https://x.com/NVIDIARobotics/status/2039779904313561568",
+      "images": [],
+      "likes": 28,
+      "retweets": 5,
+      "views": 1875
+    },
+    {
+      "id": "2039775690963484752",
+      "username": "gdb",
+      "text": "AI creates new opportunity for entrepreneurs",
+      "timestamp": "2026-04-02T18:43:16+00:00",
+      "url": "https://x.com/gdb/status/2039775690963484752",
+      "images": [],
+      "likes": 256,
+      "retweets": 16,
+      "views": 36321
+    },
+    {
+      "id": "2039773765031059685",
+      "username": "PyTorch",
+      "text": "\"PyTorch is probably the most important piece of open source software most enterprise technology leaders have never had a governance conversation about. Every GPU launch, every major model release – somewhere in the stack, there it is.\"\n\nIn conversation with Alyx MacQueen https://t.co/huaKSbb1d1",
+      "timestamp": "2026-04-02T18:35:37+00:00",
+      "url": "https://x.com/PyTorch/status/2039773765031059685",
+      "images": [
+        "https://pbs.twimg.com/media/HE67abLWAAARb2a.png"
+      ],
+      "likes": 7,
+      "retweets": 3,
+      "views": 3367
+    },
+    {
+      "id": "2039773740586918137",
+      "username": "sama",
+      "text": "TBPN is my favorite tech show.\n\nWe want them to keep that going and for them to do what they do so well.\n\nI don't expect them to go any easier on us, am sure I'll do my part to help enable that with occasional stupid decisions.",
+      "timestamp": "2026-04-02T18:35:31+00:00",
+      "url": "https://x.com/sama/status/2039773740586918137",
+      "images": [],
+      "likes": 2919,
+      "retweets": 80,
+      "views": 245855
+    },
+    {
+      "id": "2039772832213741840",
+      "username": "Austen",
+      "text": "Going live in 30 minutes from Austin: \n\nChatting with Gauntlet AI challengers; get to see what they’re working on right now.\n\nhttps://t.co/kkhBwzd7Fm",
+      "timestamp": "2026-04-02T18:31:55+00:00",
+      "url": "https://x.com/Austen/status/2039772832213741840",
+      "images": [],
+      "likes": 7,
+      "retweets": 2,
+      "views": 5690
+    },
+    {
+      "id": "2039771189288267813",
+      "username": "natolambert",
+      "text": "The TBPN acquisition is just the tip of the iceberg in a shifting media landscape, where direct relationships are king. \n\nWe're in the first years of this transition that'll take probably ~10 years to fully settle. The point isn't to control editorial, but control distribution.",
+      "timestamp": "2026-04-02T18:25:23+00:00",
+      "url": "https://x.com/natolambert/status/2039771189288267813",
+      "images": [],
+      "likes": 61,
+      "retweets": 5,
+      "views": 4003
+    },
+    {
+      "id": "2039769440720761037",
+      "username": "levie",
+      "text": "Everyone’s missing the point. OpenAI can now harvest TBPN guest content for training data to automate CEOs out of jobs. It’s over.",
+      "timestamp": "2026-04-02T18:18:26+00:00",
+      "url": "https://x.com/levie/status/2039769440720761037",
+      "images": [],
+      "likes": 405,
+      "retweets": 22,
+      "views": 28690
+    },
+    {
+      "id": "2039767302523191603",
+      "username": "paraga",
+      "text": "Top finding: \"AI agents produce better quality evidence than humans.\" \n\nThanks for partnering with us on this!",
+      "timestamp": "2026-04-02T18:09:56+00:00",
+      "url": "https://x.com/paraga/status/2039767302523191603",
+      "images": [],
+      "likes": 7,
+      "retweets": 1,
+      "views": 2985
+    },
+    {
+      "id": "2039364228927348818",
+      "username": "mmitchell_ai",
+      "text": "What @ClementDelangue writes is so key in understanding the “open vs closed” narrative. Also super relevant to the misunderstanding about whether an entire AI system is a stochastic parrot (it’s not!)",
+      "timestamp": "2026-04-01T15:28:16+00:00",
+      "url": "https://x.com/mmitchell_ai/status/2039364228927348818",
+      "images": [],
+      "likes": 5,
+      "retweets": 1,
+      "views": 1794
     }
   ]
 }
