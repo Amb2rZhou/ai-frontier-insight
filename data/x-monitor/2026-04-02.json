@@ -1,11 +1,11 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-02T16:32:21.769267",
+  "scraped_at": "2026-04-02T21:26:31.177406",
   "date": "2026-04-02",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 74,
+  "tweet_count": 83,
   "account_count": 38,
   "tweets": [
     {
@@ -868,6 +868,115 @@
       "likes": 22,
       "retweets": 4,
       "views": 3753
+    },
+    {
+      "id": "2039695229792756034",
+      "username": "Alibaba_Qwen",
+      "text": "（6/8）QwenCode：Letter Flying\n\nQwen3.6-Plus is compatible with Qwen Code. It helps you understand complex codebases, automate tedious work, and ship faster. https://t.co/sNcFVi658s",
+      "timestamp": "2026-04-02T13:23:33+00:00",
+      "url": "https://x.com/Alibaba_Qwen/status/2039695229792756034",
+      "images": [],
+      "likes": 7,
+      "retweets": 1,
+      "views": 336
+    },
+    {
+      "id": "2039694871368540272",
+      "username": "Alibaba_Qwen",
+      "text": "（5/8）OpenClaw：Personal Schedule Management\n\nQwen3.6-Plus is compatible with OpenClaw (formerly Moltbot / Clawdbot). Here's the demo of Personal Schedule Management. https://t.co/qjkpRrwa7E",
+      "timestamp": "2026-04-02T13:22:07+00:00",
+      "url": "https://x.com/Alibaba_Qwen/status/2039694871368540272",
+      "images": [],
+      "likes": 11,
+      "retweets": 0,
+      "views": 695
+    },
+    {
+      "id": "2039694518250009084",
+      "username": "Alibaba_Qwen",
+      "text": "（4/8）Web Dev：Designer Personal Site \n\nPrompt：Design a personal website for a designer who received an Awwwards nomination, featuring large areas of white space, oversized serif font titles, a custom cursor that follows the mouse, perspective-shifting images in the portfolio https://t.co/rZqLsm04cL",
+      "timestamp": "2026-04-02T13:20:43+00:00",
+      "url": "https://x.com/Alibaba_Qwen/status/2039694518250009084",
+      "images": [],
+      "likes": 8,
+      "retweets": 0,
+      "views": 666
+    },
+    {
+      "id": "2039693929583649009",
+      "username": "Alibaba_Qwen",
+      "text": "（3/8）VLM Performance https://t.co/AmFdbky2xM",
+      "timestamp": "2026-04-02T13:18:23+00:00",
+      "url": "https://x.com/Alibaba_Qwen/status/2039693929583649009",
+      "images": [
+        "https://pbs.twimg.com/media/HE5yz-MaoAAk9Hu.jpg"
+      ],
+      "likes": 25,
+      "retweets": 2,
+      "views": 1353
+    },
+    {
+      "id": "2039693698091601930",
+      "username": "Alibaba_Qwen",
+      "text": "（2/8）LM Performance https://t.co/bADxnyXFkN",
+      "timestamp": "2026-04-02T13:17:27+00:00",
+      "url": "https://x.com/Alibaba_Qwen/status/2039693698091601930",
+      "images": [
+        "https://pbs.twimg.com/media/HE5ymPibIAAbVSr.jpg"
+      ],
+      "likes": 23,
+      "retweets": 1,
+      "views": 1314
+    },
+    {
+      "id": "2039693436622872864",
+      "username": "Alibaba_Qwen",
+      "text": "（1/8）🚀 Introducing Qwen3.6-Plus: Towards Real-World Agents! 🤖\n\nToday, we’re thrilled to drop a major milestone in our journey toward native multimodal agents.\n\nHere is what makes Qwen3.6-Plus a game-changer：\n💻 Next-level Agentic Coding: Smarter, faster execution.\n👁️ https://t.co/joLtFPirLr",
+      "timestamp": "2026-04-02T13:16:25+00:00",
+      "url": "https://x.com/Alibaba_Qwen/status/2039693436622872864",
+      "images": [
+        "https://pbs.twimg.com/media/HE5xq3NboAIwGS3.jpg"
+      ],
+      "likes": 132,
+      "retweets": 17,
+      "views": 6751
+    },
+    {
+      "id": "2039671033649574383",
+      "username": "minchoi",
+      "text": "AI video just got a lot cheaper\n\n Veo 3.1 Lite pricing is the real Google drop\n\n&gt; 720p: $0.05/sec\n&gt; 1080p: $0.08/sec https://t.co/a7w8UsOn5S",
+      "timestamp": "2026-04-02T11:47:24+00:00",
+      "url": "https://x.com/minchoi/status/2039671033649574383",
+      "images": [],
+      "likes": 37,
+      "retweets": 5,
+      "views": 7479
+    },
+    {
+      "id": "2039659188838707392",
+      "username": "PyTorch",
+      "text": "It was great to see @sparkycollier (Mark Collier) on the keynote stage at #KubeCon + #CloudNativeCon to discuss how cloud native infrastructure is powering the shift from AI inference to autonomous agents.\n\nIt’s clear that CNCF OSS is the backbone of the modern AI landscape. https://t.co/ETT43I9vZ0",
+      "timestamp": "2026-04-02T11:00:20+00:00",
+      "url": "https://x.com/PyTorch/status/2039659188838707392",
+      "images": [
+        "https://pbs.twimg.com/media/HE5TNOuW4AAo47F.jpg"
+      ],
+      "likes": 8,
+      "retweets": 2,
+      "views": 2461
+    },
+    {
+      "id": "2039628977958973827",
+      "username": "PyTorch",
+      "text": "#PyTorchCon is packed with @AMD engineers this year including joint work with engineers from @Meta and @RedHat. Multiple sessions spanning distributed training, quantization, inference routing, and privacy-preserving fine-tuning — all on ROCm™.\n\nThis is what native PyTorch https://t.co/xKn2Ldp0f4",
+      "timestamp": "2026-04-02T09:00:17+00:00",
+      "url": "https://x.com/PyTorch/status/2039628977958973827",
+      "images": [
+        "https://pbs.twimg.com/media/HE43uucWMAAGomk.jpg"
+      ],
+      "likes": 12,
+      "retweets": 4,
+      "views": 3114
     }
   ]
 }
