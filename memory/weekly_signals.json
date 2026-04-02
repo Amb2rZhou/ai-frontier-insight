@@ -574,6 +574,194 @@
           108
         ]
       }
+    ],
+    "2026-04-02": [
+      {
+        "title": "Google DeepMind Introduces AI Agent Traps Framework",
+        "signal_text": "Google DeepMind 的研究人员提出了首个系统性框架，用于理解开放网络如何被武器化以对抗自主 AI Agent。该论文定义了“AI Agent 陷阱”，揭示了 Web 环境本身可能成为比更聪明的攻击者更大的威胁。",
+        "signal_strength": 0.88,
+        "sources": [
+          {
+            "name": "@omarsar0 (citing Google DeepMind paper)",
+            "url": "https://x.com/omarsar0/status/2039383554510217707"
+          }
+        ],
+        "tags": [
+          "内容安全与治理",
+          "Agent 与新交互范式",
+          "技术突破"
+        ],
+        "raw_item_indices": [
+          72
+        ]
+      },
+      {
+        "title": "DeepMind Safety Research on Chain-of-Thought Monitorability",
+        "signal_text": "DeepMind 安全研究团队在 Alignment Forum 上发布文章，探讨了强化学习训练何时会破坏思维链（Chain-of-Thought）的可监控性。这项研究对于理解并确保复杂 AI 推理过程的可解释性与安全性至关重要。",
+        "signal_strength": 0.85,
+        "sources": [
+          {
+            "name": "Alignment Forum (Crossposted from DeepMind Safety Research)",
+            "url": "https://www.alignmentforum.org/posts/SvxaKP5KdkksZPcG7/predicting-when-rl-training-breaks-chain-of-thought"
+          }
+        ],
+        "tags": [
+          "内容安全与治理",
+          "技术突破"
+        ],
+        "raw_item_indices": [
+          40
+        ]
+      },
+      {
+        "title": "Google Devs Proposes Agent Skills Specification for Efficiency",
+        "signal_text": "Google 开发者团队提出 Agent Skills 规范，通过渐进式披露（progressive disclosure）技术，仅在需要时加载领域专业知识，可将基线上下文使用量减少高达 90%。该方法将 Agent 知识分为三层，旨在构建更高效的 AI Agent。",
+        "signal_strength": 0.82,
+        "sources": [
+          {
+            "name": "@googledevs",
+            "url": "https://x.com/googledevs/status/2039359112668950986"
+          }
+        ],
+        "tags": [
+          "Agent 与新交互范式",
+          "技术突破",
+          "搜索与推荐"
+        ],
+        "raw_item_indices": [
+          87
+        ]
+      },
+      {
+        "title": "Alibaba Qwen Powers GrandCode to Conquer Coding Milestone",
+        "signal_text": "据阿里通义千问官方账号宣布，GrandCode 团队在 Qwen 模型的驱动下，攻克了编码智能的最后堡垒，实现了一项里程碑式的成就。这表明 Qwen 在复杂代码生成和推理任务上已达到领先水平。",
+        "signal_strength": 0.8,
+        "sources": [
+          {
+            "name": "@Alibaba_Qwen",
+            "url": "https://x.com/Alibaba_Qwen/status/2039357046844424587"
+          }
+        ],
+        "tags": [
+          "头部公司战略动作",
+          "内容创作与理解",
+          "开源生态"
+        ],
+        "raw_item_indices": [
+          89
+        ]
+      },
+      {
+        "title": "OpenAI Codex Resets Rate Limits Proactively Amid High Usage",
+        "signal_text": "OpenAI Codex 产品负责人 Tibo Sottiaux 宣布，由于仪表板显示用户达到速率限制的情况增加，且原因未完全明确，已谨慎决定重置所有计划的用量限制。此举获 2795+ likes 和 99k+ views，显示社区高度关注。",
+        "signal_strength": 0.78,
+        "sources": [
+          {
+            "name": "@thsottiaux (OpenAI Codex lead)",
+            "url": "https://x.com/thsottiaux/status/2039248564967424483"
+          }
+        ],
+        "tags": [
+          "头部公司战略动作",
+          "Agent 与新交互范式"
+        ],
+        "raw_item_indices": [
+          51
+        ]
+      },
+      {
+        "title": "Intuit's AI Agents Achieve 85% Repeat Usage with Human-in-the-Loop",
+        "signal_text": "据 VentureBeat 报道，Intuit 向 300 万客户推出 AI Agent 后，实现了 85% 的重复使用率。其成功秘诀在于将 AI 与人类专业知识相结合，而非完全取代，这比预期更为重要。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/orchestration/intuits-ai-agents-hit-85-repeat-usage-the-secret-was-keeping-humans-involved"
+          }
+        ],
+        "tags": [
+          "Agent 与新交互范式",
+          "行业风险与监管"
+        ],
+        "raw_item_indices": [
+          18
+        ]
+      },
+      {
+        "title": "HuggingFace Blog: Hcompany Releases Holo3 for Computer Use",
+        "signal_text": "Hcompany 在 HuggingFace 博客上发布了 Holo3 模型，旨在突破计算机使用（Computer Use）的前沿。该模型为 GUI Agent 和自动化任务执行设计，在相关社区引发关注。",
+        "signal_strength": 0.72,
+        "sources": [
+          {
+            "name": "HuggingFace Blog",
+            "url": "https://huggingface.co/blog/Hcompany/holo3"
+          }
+        ],
+        "tags": [
+          "Agent 与新交互范式",
+          "开源生态",
+          "内容创作与理解"
+        ],
+        "raw_item_indices": [
+          34
+        ]
+      },
+      {
+        "title": "MIT Research Proves Fundamental Limits of Multi-Agent LLM Planning",
+        "signal_text": "据 AI 研究员 Omar S. 分享，MIT 的新理论研究证明了多智能体 LLM 架构在规划能力上存在根本性限制。该工作将 LLM 多智能体规划建模为有限无环决策过程，从数学上揭示了增加更多 Agent 未必能提升性能。",
+        "signal_strength": 0.7,
+        "sources": [
+          {
+            "name": "@omarsar0 (citing MIT theoretical work)",
+            "url": "https://x.com/omarsar0/status/2039361664374739136"
+          }
+        ],
+        "tags": [
+          "技术突破",
+          "Agent 与新交互范式"
+        ],
+        "raw_item_indices": [
+          84
+        ]
+      },
+      {
+        "title": "Kilo Launches KiloClaw to Combat Enterprise 'Shadow AI'",
+        "signal_text": "据 VentureBeat 报道，Kilo 公司推出了 KiloClaw for Organizations，旨在实现大规模安全 AI Agent 的部署，以应对企业中的“影子 AI”（Shadow AI）或“自带 AI”（BYOAI）危机，类似于过去未经授权的个人设备使用问题。",
+        "signal_strength": 0.7,
+        "sources": [
+          {
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/orchestration/the-end-of-shadow-ai-at-enterprises-kilo-launches-kiloclaw-for-organizations"
+          }
+        ],
+        "tags": [
+          "Agent 与新交互范式",
+          "行业风险与监管",
+          "内容安全与治理"
+        ],
+        "raw_item_indices": [
+          3
+        ]
+      },
+      {
+        "title": "Tencent Hunyuan's Unify-Agent: World-Grounded Image Synthesis",
+        "signal_text": "腾讯混元团队（Tencent Hunyuan）在 arXiv 上发布论文《Unify-Agent》，提出一种统一的多模态 Agent，用于世界接地的图像合成。该模型通过结合基于 Agent 的建模与多模态理解，增强了通过推理、搜索和生成过程进行图像合成的能力。",
+        "signal_strength": 0.68,
+        "sources": [
+          {
+            "name": "arXiv (Tencent Hunyuan)",
+            "url": "https://huggingface.co/papers/2603.29620"
+          }
+        ],
+        "tags": [
+          "内容创作与理解",
+          "多模态融合",
+          "头部公司战略动作"
+        ],
+        "raw_item_indices": [
+          151
+        ]
+      }
     ]
   },
   "archived_weeks": [
