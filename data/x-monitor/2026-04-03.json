@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-03T09:08:05.053518",
+  "scraped_at": "2026-04-03T12:02:42.857613",
   "date": "2026-04-03",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 94,
-  "account_count": 45,
+  "tweet_count": 105,
+  "account_count": 50,
   "tweets": [
     {
       "id": "2039764040499499177",
@@ -1094,6 +1094,133 @@
       "likes": 132,
       "retweets": 21,
       "views": 10558
+    },
+    {
+      "id": "2039914246235148311",
+      "username": "docmilanfar",
+      "text": "they fine-tuned the last layer https://t.co/3mYnesTNTD",
+      "timestamp": "2026-04-03T03:53:50+00:00",
+      "url": "https://x.com/docmilanfar/status/2039914246235148311",
+      "images": [
+        "https://pbs.twimg.com/media/HE87I5KaYAAYPn9.png"
+      ],
+      "likes": 8,
+      "retweets": 0,
+      "views": 139
+    },
+    {
+      "id": "2039911942513725597",
+      "username": "__tinygrad__",
+      "text": "Off by an order of magnitude, it's 25 TB. Preorder today!",
+      "timestamp": "2026-04-03T03:44:41+00:00",
+      "url": "https://x.com/__tinygrad__/status/2039911942513725597",
+      "images": [],
+      "likes": 15,
+      "retweets": 1,
+      "views": 845
+    },
+    {
+      "id": "2039908245465100406",
+      "username": "DeryaTR_",
+      "text": "So Anthropic now claims there was no token-eating bug after all, it was all our fault for using Opus 4.6! Such dishonesty!\n\nI cancelled my Max account and, for the first time, turned negative toward an AI company. They claim to have the highest ethics &amp; we need to trust them!? 👎",
+      "timestamp": "2026-04-03T03:30:00+00:00",
+      "url": "https://x.com/DeryaTR_/status/2039908245465100406",
+      "images": [],
+      "likes": 107,
+      "retweets": 9,
+      "views": 3828
+    },
+    {
+      "id": "2039904088737947889",
+      "username": "minchoi",
+      "text": "Oh wow... Pika just dropped real-time video chat for AI agents.\n\nNow you can send a Google Meet invite to your Claude, OpenClaw, or other AI agent and have it join the call.\n\nThis completely changes how you talk to AI 🤯\nhttps://t.co/fVdcfnQbG2",
+      "timestamp": "2026-04-03T03:13:28+00:00",
+      "url": "https://x.com/minchoi/status/2039904088737947889",
+      "images": [],
+      "likes": 43,
+      "retweets": 6,
+      "views": 4577
+    },
+    {
+      "id": "2039901964679688437",
+      "username": "thsottiaux",
+      "text": "The Codex App is now our most used surface, ahead of the VS Code extension and the CLI. No wonder it inspires a few others 👀\n\nYou can install it here https://t.co/Lwg13vEJDn + you get up to $500 in credits if you are getting started as a business or enterprise.",
+      "timestamp": "2026-04-03T03:05:02+00:00",
+      "url": "https://x.com/thsottiaux/status/2039901964679688437",
+      "images": [],
+      "likes": 386,
+      "retweets": 13,
+      "views": 24076
+    },
+    {
+      "id": "2039893158952419779",
+      "username": "thsottiaux",
+      "text": "With Codex the there is quite the gulf in load between peak and off-peak times, and we would like to achieve more of a smoother traffic pattern as that would be a more optimal use of our compute. \n\nWe have ideas, but curious what you all think we should do? Would more usage",
+      "timestamp": "2026-04-03T02:30:03+00:00",
+      "url": "https://x.com/thsottiaux/status/2039893158952419779",
+      "images": [],
+      "likes": 511,
+      "retweets": 14,
+      "views": 29464
+    },
+    {
+      "id": "2039889233914286418",
+      "username": "GaryMarcus",
+      "text": "Which company’s dollars are more likely to lead an advance in AI for science? 🤔",
+      "timestamp": "2026-04-03T02:14:27+00:00",
+      "url": "https://x.com/GaryMarcus/status/2039889233914286418",
+      "images": [],
+      "likes": 17,
+      "retweets": 1,
+      "views": 3695
+    },
+    {
+      "id": "2039875376512741481",
+      "username": "fchollet",
+      "text": "JAX is what a well-designed low-level machine learning framework looks like. Good design lets you deliver much greater performance with much lower effort. Bad design is the exact opposite.",
+      "timestamp": "2026-04-03T01:19:23+00:00",
+      "url": "https://x.com/fchollet/status/2039875376512741481",
+      "images": [],
+      "likes": 156,
+      "retweets": 11,
+      "views": 10945
+    },
+    {
+      "id": "2039874256964927880",
+      "username": "ChrSzegedy",
+      "text": "Papers are the proof of work for academic transactions.",
+      "timestamp": "2026-04-03T01:14:56+00:00",
+      "url": "https://x.com/ChrSzegedy/status/2039874256964927880",
+      "images": [],
+      "likes": 12,
+      "retweets": 1,
+      "views": 1504
+    },
+    {
+      "id": "2039780905619705902",
+      "username": "rasbt",
+      "text": "Flagship open-weight release days are always exciting. Was just reading through the Gemma 4 reports, configs, and code, and here are my takeaways:\n\nArchitecture-wise, besides multi-model support, Gemma 4 (31B) looks pretty much unchanged compared to Gemma 3 (27B).\n\nGemma 4 https://t.co/sZ77pZho95",
+      "timestamp": "2026-04-02T19:03:59+00:00",
+      "url": "https://x.com/rasbt/status/2039780905619705902",
+      "images": [
+        "https://pbs.twimg.com/media/HE7B3IIXMAMuz5w.jpg"
+      ],
+      "likes": 678,
+      "retweets": 99,
+      "views": 29782
+    },
+    {
+      "id": "2039117204000489566",
+      "username": "lateinteraction",
+      "text": "MIPROv1 spotted in the wild. All I can say is that I hope they have a sound implementation.. https://t.co/MAOYO5zu5C",
+      "timestamp": "2026-03-31T23:06:41+00:00",
+      "url": "https://x.com/lateinteraction/status/2039117204000489566",
+      "images": [
+        "https://pbs.twimg.com/media/HExmSdGWYAAPjv_.jpg"
+      ],
+      "likes": 72,
+      "retweets": 5,
+      "views": 3451
     }
   ]
 }
