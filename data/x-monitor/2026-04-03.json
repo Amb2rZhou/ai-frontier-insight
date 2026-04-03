@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-03T12:02:42.857613",
+  "scraped_at": "2026-04-03T15:38:59.084836",
   "date": "2026-04-03",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 105,
-  "account_count": 50,
+  "tweet_count": 110,
+  "account_count": 51,
   "tweets": [
     {
       "id": "2039764040499499177",
@@ -1221,6 +1221,65 @@
       "likes": 72,
       "retweets": 5,
       "views": 3451
+    },
+    {
+      "id": "2039964923673874467",
+      "username": "NielsRogge",
+      "text": "Whoa, Cursor CEO liked my tweet :) https://t.co/Go3LmKSRQw",
+      "timestamp": "2026-04-03T07:15:13+00:00",
+      "url": "https://x.com/NielsRogge/status/2039964923673874467",
+      "images": [
+        "https://pbs.twimg.com/media/HE9pOrobcAAxLL_.jpg"
+      ],
+      "likes": 1,
+      "retweets": 0,
+      "views": 122
+    },
+    {
+      "id": "2039961241624453332",
+      "username": "PyTorch",
+      "text": "From leading the #PyTorch transition to the @linuxfoundation to spearheading the Llama #OpenSource strategy, Joe Spisak has defined the #AI landscape. 🚀\n\nJoin him at #PyTorchCon Europe in Paris to discuss the future of collaborative AI!\n\n📍 Paris | 7-8 April\nDetails: https://t.co/LAyXclJDQ6",
+      "timestamp": "2026-04-03T07:00:35+00:00",
+      "url": "https://x.com/PyTorch/status/2039961241624453332",
+      "images": [],
+      "likes": 4,
+      "retweets": 0,
+      "views": 888
+    },
+    {
+      "id": "2039950296969863283",
+      "username": "gdb",
+      "text": "the codex app is growing super fast, it’s very well done",
+      "timestamp": "2026-04-03T06:17:05+00:00",
+      "url": "https://x.com/gdb/status/2039950296969863283",
+      "images": [],
+      "likes": 257,
+      "retweets": 5,
+      "views": 16825
+    },
+    {
+      "id": "2039941213244072173",
+      "username": "ClementDelangue",
+      "text": "Google just re-entered the game 🔥🔥\n\nThey want to take the crown 👑 back from Chinese open source AI.\n\nAnd... Gemma 4 is FINALLY Apache 2.0 aka real-open-source-licensed.\n\nFrom what I've seen it's going to be a pretty significant model. But give it a try yourself today:\n\nbrew https://t.co/xQsoQDLxYw",
+      "timestamp": "2026-04-03T05:41:00+00:00",
+      "url": "https://x.com/ClementDelangue/status/2039941213244072173",
+      "images": [
+        "https://pbs.twimg.com/media/HE9TuRKWYAAAV7U.jpg"
+      ],
+      "likes": 184,
+      "retweets": 22,
+      "views": 7923
+    },
+    {
+      "id": "2039931799414194621",
+      "username": "levie",
+      "text": "One of the biggest lessons thus far in building AI agents is you have to be brutally unsentimental in your architecture. \n\nThe models get better and better at handling things you previously built scaffolding for, you need to ruthlessly jettison your prior tech to get those new",
+      "timestamp": "2026-04-03T05:03:35+00:00",
+      "url": "https://x.com/levie/status/2039931799414194621",
+      "images": [],
+      "likes": 157,
+      "retweets": 17,
+      "views": 19285
     }
   ]
 }
