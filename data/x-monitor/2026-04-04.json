@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-04T02:53:46.700204",
+  "scraped_at": "2026-04-04T07:28:07.571236",
   "date": "2026-04-04",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 49,
-  "account_count": 29,
+  "tweet_count": 70,
+  "account_count": 39,
   "tweets": [
     {
       "id": "2040099881008652634",
@@ -591,6 +591,243 @@
       "likes": 1767,
       "retweets": 52,
       "views": 53230
+    },
+    {
+      "id": "2040203337698803981",
+      "username": "a16z",
+      "text": "Marc Andreessen says in the future, we may not have programming languages or even user interfaces:\n\n\"I kind of think that in 10 years, I'm not sure there will even be a salient concept of a programming language in the way that we understand it today.\"\n\n\"If you project forward, https://t.co/7xX6uYKVFT",
+      "timestamp": "2026-04-03T23:02:35+00:00",
+      "url": "https://x.com/a16z/status/2040203337698803981",
+      "images": [],
+      "likes": 52,
+      "retweets": 10,
+      "views": 5018
+    },
+    {
+      "id": "2040201086133248083",
+      "username": "ClementDelangue",
+      "text": "First public PR in years from the legend @JeffDean was to @huggingface transformers. Any other proud moment for us and our community!",
+      "timestamp": "2026-04-03T22:53:38+00:00",
+      "url": "https://x.com/ClementDelangue/status/2040201086133248083",
+      "images": [],
+      "likes": 43,
+      "retweets": 6,
+      "views": 3624
+    },
+    {
+      "id": "2040193776954773886",
+      "username": "a16z",
+      "text": "Marc Andreessen explains why the manager class might disappear in the AI era:\n\n\"I've always viewed my entire life as—we're raging against the dying of the light. We're constantly trying to fight off managerialism swamping everything and everything getting boring, gray, dumb, and https://t.co/duvlYWbQxe",
+      "timestamp": "2026-04-03T22:24:36+00:00",
+      "url": "https://x.com/a16z/status/2040193776954773886",
+      "images": [],
+      "likes": 99,
+      "retweets": 15,
+      "views": 9595
+    },
+    {
+      "id": "2040187485741896040",
+      "username": "GaryMarcus",
+      "text": "Can you trust the output of LLMs?",
+      "timestamp": "2026-04-03T21:59:36+00:00",
+      "url": "https://x.com/GaryMarcus/status/2040187485741896040",
+      "images": [],
+      "likes": 13,
+      "retweets": 5,
+      "views": 2461
+    },
+    {
+      "id": "2040186816045646277",
+      "username": "GaryMarcus",
+      "text": "Folks, I gave a cute example of a hallucination earlier today because I thought it was funny. \n\nBut if you think hallucinations are remotely solved (as some people alleged in the comments), you really need to look at this recent Stanford study, in which recent models *completely",
+      "timestamp": "2026-04-03T21:56:56+00:00",
+      "url": "https://x.com/GaryMarcus/status/2040186816045646277",
+      "images": [],
+      "likes": 31,
+      "retweets": 5,
+      "views": 6963
+    },
+    {
+      "id": "2040185497415565442",
+      "username": "thsottiaux",
+      "text": "Always fun when you notice Codex being clever in a way you don't expect. \n\nIn a session today, it was running a slow build process and got annoyed (don't we all). Before making a change it checked that progress was actually happening and did so not by checking the logs, but by https://t.co/EE4I0cfQY5",
+      "timestamp": "2026-04-03T21:51:42+00:00",
+      "url": "https://x.com/thsottiaux/status/2040185497415565442",
+      "images": [
+        "https://pbs.twimg.com/media/HFAxCtcboAAEJkx.png"
+      ],
+      "likes": 396,
+      "retweets": 7,
+      "views": 16100
+    },
+    {
+      "id": "2040181542191006128",
+      "username": "a16z",
+      "text": "Marc Andreessen: AI is an \"80 year overnight success.\"\n\n\"Something about AI causes the people in the field to become both excessively utopian and excessively apocalyptic.\"\n\n\"What's actually happened is—in retrospect, an enormous amount of technical progress built up over time.\" https://t.co/0WLNFX7lAD",
+      "timestamp": "2026-04-03T21:35:59+00:00",
+      "url": "https://x.com/a16z/status/2040181542191006128",
+      "images": [],
+      "likes": 191,
+      "retweets": 28,
+      "views": 13299
+    },
+    {
+      "id": "2040177838817476879",
+      "username": "osanseviero",
+      "text": "New Jeff Dean fact: the transformers PR for Gemma 4 had 14 authors and Jeff was one of them",
+      "timestamp": "2026-04-03T21:21:16+00:00",
+      "url": "https://x.com/osanseviero/status/2040177838817476879",
+      "images": [],
+      "likes": 303,
+      "retweets": 13,
+      "views": 20866
+    },
+    {
+      "id": "2040172493705511014",
+      "username": "Azure",
+      "text": "Thinking about migrating SQL Server to Azure? On #AzureFriday, Scott Hanselman and Uros Milanovic dive into Azure SQL Managed Instance— Next-gen General Purpose tier leveled up with a built-in performance upgrade, optimized cost, and more flexibility: https://t.co/PxbQ2jx025 https://t.co/7AVvpiPpSa",
+      "timestamp": "2026-04-03T21:00:01+00:00",
+      "url": "https://x.com/Azure/status/2040172493705511014",
+      "images": [
+        "https://pbs.twimg.com/media/HFAmEiFXAAEvpIB.jpg"
+      ],
+      "likes": 16,
+      "retweets": 3,
+      "views": 2105
+    },
+    {
+      "id": "2040172489502831003",
+      "username": "googledevs",
+      "text": "✅ Good caching = fast sites.\n❌ Bad caching = fast exits. https://t.co/r1fZTa4xNr",
+      "timestamp": "2026-04-03T21:00:00+00:00",
+      "url": "https://x.com/googledevs/status/2040172489502831003",
+      "images": [
+        "https://pbs.twimg.com/media/HE8rteWWQAAGfA1.png"
+      ],
+      "likes": 29,
+      "retweets": 2,
+      "views": 2791
+    },
+    {
+      "id": "2040168906770534636",
+      "username": "a16z",
+      "text": "Marc Andreessen: Software isn't precious anymore. In this new world, high quality software is infinitely available.\n\n\"We've always lived in a world in which software is this precious thing that you have to think about very carefully.\"\n\n\"It was really hard to generate good https://t.co/XMKARrlpwt",
+      "timestamp": "2026-04-03T20:45:46+00:00",
+      "url": "https://x.com/a16z/status/2040168906770534636",
+      "images": [],
+      "likes": 481,
+      "retweets": 58,
+      "views": 88618
+    },
+    {
+      "id": "2040166468877164704",
+      "username": "emollick",
+      "text": "Need to set up my OpenClaw to update and restart my Claude Dispatch to add computer use so I can use that instead.",
+      "timestamp": "2026-04-03T20:36:05+00:00",
+      "url": "https://x.com/emollick/status/2040166468877164704",
+      "images": [],
+      "likes": 71,
+      "retweets": 0,
+      "views": 9293
+    },
+    {
+      "id": "2040162119325454548",
+      "username": "GoogleAI",
+      "text": "Here’s everything we launched this week (we promise not a single one of these is a joke):\n\n— Gemma 4, bringing our most intelligent open models and breakthrough reasoning to your personal hardware and devices while outcompeting models 20x its size\n\n— Veo 3.1 Lite, our latest",
+      "timestamp": "2026-04-03T20:18:48+00:00",
+      "url": "https://x.com/GoogleAI/status/2040162119325454548",
+      "images": [],
+      "likes": 283,
+      "retweets": 22,
+      "views": 21508
+    },
+    {
+      "id": "2040161518898319728",
+      "username": "UnslothAI",
+      "text": "Gemma 4 E4B (4-bit) completed a full repo audit by executing Bash code and tool calls locally.\n\nRuns on just 6GB RAM. https://t.co/ugeLkXfv8v",
+      "timestamp": "2026-04-03T20:16:25+00:00",
+      "url": "https://x.com/UnslothAI/status/2040161518898319728",
+      "images": [],
+      "likes": 380,
+      "retweets": 37,
+      "views": 17151
+    },
+    {
+      "id": "2040161313595466203",
+      "username": "fchollet",
+      "text": "Good tutorial on using Keras Kinetic to fine-tune LLMs on the Keras + JAX + TPU stack!",
+      "timestamp": "2026-04-03T20:15:36+00:00",
+      "url": "https://x.com/fchollet/status/2040161313595466203",
+      "images": [],
+      "likes": 61,
+      "retweets": 14,
+      "views": 11810
+    },
+    {
+      "id": "2040154521511637187",
+      "username": "embirico",
+      "text": "Couldn’t be more excited to welcome Kath to the Codex team!\n\nLooking forward to having your help making it great for everyone!",
+      "timestamp": "2026-04-03T19:48:36+00:00",
+      "url": "https://x.com/embirico/status/2040154521511637187",
+      "images": [],
+      "likes": 137,
+      "retweets": 2,
+      "views": 8719
+    },
+    {
+      "id": "2040150768137953631",
+      "username": "GaryMarcus",
+      "text": "this is soooo wrong.\n\nthe whole point of AGI is to be *general*, across all problems. that’s literally what the G stands for, general.\n\nOlympiad problems are narrow, and don’t per se have anything special to do with AGI. \n\nFor some discussion of AGI definitions, see @hendrycks et",
+      "timestamp": "2026-04-03T19:33:41+00:00",
+      "url": "https://x.com/GaryMarcus/status/2040150768137953631",
+      "images": [],
+      "likes": 55,
+      "retweets": 4,
+      "views": 17483
+    },
+    {
+      "id": "2040148759410081939",
+      "username": "nvidia",
+      "text": "“NVIDIA’s cost per token is the lowest in the world.” — Jensen Huang, Founder &amp; CEO of NVIDIA \n\nToken generation cost is a direct result of architecture excellence and extreme co-design, not just compute cost. Lowest cost per token and highest performance per watt are definitive https://t.co/7SUVDp84XI",
+      "timestamp": "2026-04-03T19:25:43+00:00",
+      "url": "https://x.com/nvidia/status/2040148759410081939",
+      "images": [],
+      "likes": 269,
+      "retweets": 44,
+      "views": 21331
+    },
+    {
+      "id": "2040143041692930293",
+      "username": "cursor_ai",
+      "text": "We're doubling Composer 2 usage through the end of this weekend.\n\nWe recommend trying it out in our new interface, available in Cursor 3.\n\nEnjoy!",
+      "timestamp": "2026-04-03T19:02:59+00:00",
+      "url": "https://x.com/cursor_ai/status/2040143041692930293",
+      "images": [],
+      "likes": 842,
+      "retweets": 56,
+      "views": 64419
+    },
+    {
+      "id": "2040142335145865425",
+      "username": "RichardSocher",
+      "text": "A modest proposal: companies should reward their employees for building AI agents.\n\nThink of it like a referral bonus for the AI era.\n\nAll executives want employees to experiment with AI, but those same employees are worried about building something to replace them. The",
+      "timestamp": "2026-04-03T19:00:11+00:00",
+      "url": "https://x.com/RichardSocher/status/2040142335145865425",
+      "images": [],
+      "likes": 13,
+      "retweets": 3,
+      "views": 1917
+    },
+    {
+      "id": "2039137446932185266",
+      "username": "OfficialLoganK",
+      "text": "Quality of life updates to @GoogleAIStudio we just shipped (using Gemini):\n\n- You can now (optionally) save a temp chat in the playground\n- You can now turn a playground chat into an app in 2 clicks\n- Updated colors for playground to add some soul to it\n- Simplified the mobile",
+      "timestamp": "2026-04-01T00:27:07+00:00",
+      "url": "https://x.com/OfficialLoganK/status/2039137446932185266",
+      "images": [],
+      "likes": 891,
+      "retweets": 55,
+      "views": 58130
     }
   ]
 }
