@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-02T09:35:38.088927+08:00",
+  "last_updated": "2026-04-03T09:36:48.467906+08:00",
   "trends": [
     {
       "id": "ai_safety_pivot_and_accelerated_agi_time",
@@ -11,9 +11,8 @@
         "Anthropic"
       ],
       "trajectory": "accelerating",
-      "signal_count": 49,
+      "signal_count": 50,
       "weekly_counts": [
-        1,
         1,
         1,
         1,
@@ -24,7 +23,8 @@
         2,
         1,
         1,
-        2
+        2,
+        1
       ],
       "key_events": [
         {
@@ -194,6 +194,10 @@
         {
           "date": "2026-04-02",
           "event": "DeepMind Safety Research on Chain-of-Thought Monitorability"
+        },
+        {
+          "date": "2026-04-03",
+          "event": "OpenAI acquires tech podcast TBPN to shape AI narrative"
         }
       ],
       "created": "2026-02-25"
@@ -207,10 +211,9 @@
         "Funding",
         "Nvidia"
       ],
-      "trajectory": "accelerating",
+      "trajectory": "stable",
       "signal_count": 13,
       "weekly_counts": [
-        1,
         2,
         1,
         2,
@@ -221,7 +224,8 @@
         1,
         0,
         1,
-        1
+        1,
+        0
       ],
       "key_events": [
         {
@@ -281,9 +285,8 @@
         "Multimodal AI"
       ],
       "trajectory": "accelerating",
-      "signal_count": 32,
+      "signal_count": 34,
       "weekly_counts": [
-        1,
         2,
         1,
         2,
@@ -294,7 +297,8 @@
         1,
         1,
         1,
-        1
+        1,
+        2
       ],
       "key_events": [
         {
@@ -416,6 +420,10 @@
         {
           "date": "2026-04-02",
           "event": "Alibaba Qwen Powers GrandCode to Conquer Coding Milestone"
+        },
+        {
+          "date": "2026-04-03",
+          "event": "Google DeepMind releases Gemma 4 under Apache 2.0 with edge deployment focus"
         }
       ],
       "created": "2026-02-25"
@@ -429,12 +437,11 @@
         "Startups",
         "Nvidia Competition"
       ],
-      "trajectory": "accelerating",
+      "trajectory": "stable",
       "signal_count": 14,
       "weekly_counts": [
         1,
         1,
-        1,
         0,
         0,
         1,
@@ -443,7 +450,8 @@
         1,
         1,
         1,
-        1
+        1,
+        0
       ],
       "key_events": [
         {
@@ -519,9 +527,8 @@
         "Anthropic"
       ],
       "trajectory": "accelerating",
-      "signal_count": 79,
+      "signal_count": 85,
       "weekly_counts": [
-        1,
         1,
         1,
         3,
@@ -532,7 +539,8 @@
         1,
         3,
         2,
-        2
+        2,
+        6
       ],
       "key_events": [
         {
@@ -702,6 +710,10 @@
         {
           "date": "2026-04-02",
           "event": "OpenAI Codex Resets Rate Limits Proactively Amid High Usage"
+        },
+        {
+          "date": "2026-04-03",
+          "event": "Multiple enterprise agent launches: Perplexity Computer for taxes, Claude Code Windows expansion, Box content agent, OpenAI Codex pay-as-you-go pricing"
         }
       ],
       "created": "2026-02-25"
@@ -726,8 +738,8 @@
         0,
         0,
         0,
-        0,
         1,
+        0,
         0,
         0
       ],
@@ -756,10 +768,9 @@
         "Efficiency",
         "Multimodal AI"
       ],
-      "trajectory": "accelerating",
+      "trajectory": "stable",
       "signal_count": 75,
       "weekly_counts": [
-        2,
         2,
         1,
         1,
@@ -770,7 +781,8 @@
         1,
         2,
         2,
-        2
+        2,
+        0
       ],
       "key_events": [
         {
@@ -962,7 +974,7 @@
         "xAI"
       ],
       "trajectory": "accelerating",
-      "signal_count": 22,
+      "signal_count": 23,
       "weekly_counts": [
         1,
         1,
@@ -1065,6 +1077,10 @@
         {
           "date": "2026-04-01",
           "event": "OpenAI Completes $122B Funding Round at $852B Valuation"
+        },
+        {
+          "date": "2026-04-03",
+          "event": "OpenAI acquires tech podcast TBPN to shape AI narrative"
         }
       ],
       "created": "2026-02-25"
@@ -1078,11 +1094,12 @@
         "Enterprise AI",
         "Anthropic"
       ],
-      "trajectory": "accelerating",
+      "trajectory": "stable",
       "signal_count": 2,
       "weekly_counts": [
         1,
         1,
+        0,
         0
       ],
       "key_events": [
@@ -1156,9 +1173,8 @@
         "Automation"
       ],
       "trajectory": "accelerating",
-      "signal_count": 110,
+      "signal_count": 114,
       "weekly_counts": [
-        2,
         4,
         3,
         2,
@@ -1169,6 +1185,7 @@
         1,
         2,
         1,
+        4,
         4
       ],
       "key_events": [
@@ -1355,6 +1372,10 @@
         {
           "date": "2026-04-02",
           "event": "Google Devs Proposes Agent Skills Specification for Efficiency"
+        },
+        {
+          "date": "2026-04-03",
+          "event": "Multiple agent ecosystem developments: Perplexity tax agent, Claude Windows expansion, Meta ranking engineer agent, Box enterprise agent"
         }
       ],
       "created": "2026-02-25"
@@ -1368,7 +1389,7 @@
         "Startups",
         "Europe"
       ],
-      "trajectory": "accelerating",
+      "trajectory": "stable",
       "signal_count": 9,
       "weekly_counts": [
         1,
@@ -1378,7 +1399,8 @@
         1,
         1,
         1,
-        1
+        1,
+        0
       ],
       "key_events": [
         {
@@ -1434,9 +1456,9 @@
         "Meta"
       ],
       "trajectory": "accelerating",
-      "signal_count": 36,
+      "signal_count": 37,
       "weekly_counts": [
-        2,
+        1,
         1,
         1,
         1,
@@ -1581,6 +1603,10 @@
         {
           "date": "2026-04-01",
           "event": "Ollama Major Update: MLX Integration for Apple Silicon and NVFP4 Support"
+        },
+        {
+          "date": "2026-04-03",
+          "event": "Meta details ranking engineer agent's AI infrastructure optimization"
         }
       ],
       "created": "2026-02-25"
@@ -1638,7 +1664,6 @@
       "trajectory": "stable",
       "signal_count": 4,
       "weekly_counts": [
-        1,
         0,
         0,
         0,
@@ -1649,7 +1674,8 @@
         0,
         0,
         1,
-        1
+        1,
+        0
       ],
       "key_events": [
         {
@@ -1721,11 +1747,10 @@
         "Open Source",
         "Risk Management"
       ],
-      "trajectory": "accelerating",
+      "trajectory": "stable",
       "signal_count": 41,
       "weekly_counts": [
         1,
-        1,
         2,
         1,
         1,
@@ -1735,7 +1760,8 @@
         2,
         1,
         1,
-        2
+        2,
+        0
       ],
       "key_events": [
         {
@@ -1896,11 +1922,11 @@
         0,
         0,
         0,
-        0,
         1,
         1,
         1,
-        1
+        1,
+        0
       ],
       "key_events": [
         {
@@ -1985,14 +2011,14 @@
         "DeepSeek"
       ],
       "trajectory": "accelerating",
-      "signal_count": 18,
+      "signal_count": 19,
       "weekly_counts": [
-        2,
         1,
         1,
         1,
         1,
         2,
+        1,
         1,
         1,
         1,
@@ -2064,6 +2090,10 @@
         {
           "date": "2026-04-02",
           "event": "Alibaba Qwen Powers GrandCode to Conquer Coding Milestone"
+        },
+        {
+          "date": "2026-04-03",
+          "event": "Alibaba Qwen launches Qwen3.6-Plus targeting real-world agent capabilities"
         }
       ],
       "created": "2026-02-25"
@@ -2111,7 +2141,7 @@
         "Startup Funding"
       ],
       "trajectory": "accelerating",
-      "signal_count": 37,
+      "signal_count": 38,
       "weekly_counts": [
         1,
         1,
@@ -2120,8 +2150,8 @@
         1,
         1,
         1,
-        1,
         2,
+        1,
         1,
         1,
         1
@@ -2254,6 +2284,10 @@
         {
           "date": "2026-04-02",
           "event": "Tencent Hunyuan's Unify-Agent: World-Grounded Image Synthesis"
+        },
+        {
+          "date": "2026-04-03",
+          "event": "Microsoft launches three in-house AI models (Transcribe, Voice, Image) in Foundry"
         }
       ],
       "created": "2026-02-26"
@@ -2494,10 +2528,11 @@
         "Community",
         "Sustainability"
       ],
-      "trajectory": "stable",
+      "trajectory": "fading",
       "signal_count": 1,
       "weekly_counts": [
-        1
+        1,
+        0
       ],
       "key_events": [
         {
@@ -2571,10 +2606,11 @@
         "Consumer Behavior",
         "Industry Analysis"
       ],
-      "trajectory": "accelerating",
+      "trajectory": "fading",
       "signal_count": 1,
       "weekly_counts": [
-        1
+        1,
+        0
       ],
       "key_events": [
         {
@@ -2593,10 +2629,11 @@
         "Funding",
         "Yann LeCun"
       ],
-      "trajectory": "accelerating",
+      "trajectory": "fading",
       "signal_count": 1,
       "weekly_counts": [
-        1
+        1,
+        0
       ],
       "key_events": [
         {
@@ -2615,10 +2652,11 @@
         "Intellectual Property",
         "Content Generation"
       ],
-      "trajectory": "accelerating",
+      "trajectory": "fading",
       "signal_count": 1,
       "weekly_counts": [
-        1
+        1,
+        0
       ],
       "key_events": [
         {
@@ -2659,10 +2697,11 @@
         "Commercialization",
         "Sora"
       ],
-      "trajectory": "accelerating",
+      "trajectory": "fading",
       "signal_count": 1,
       "weekly_counts": [
-        1
+        1,
+        0
       ],
       "key_events": [
         {
