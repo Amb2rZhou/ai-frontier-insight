@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-04T00:19:33.604743",
+  "scraped_at": "2026-04-04T02:53:46.700204",
   "date": "2026-04-04",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 19,
-  "account_count": 17,
+  "tweet_count": 49,
+  "account_count": 29,
   "tweets": [
     {
       "id": "2040099881008652634",
@@ -235,6 +235,362 @@
       "likes": 7,
       "retweets": 4,
       "views": 3030
+    },
+    {
+      "id": "2040140176291516618",
+      "username": "GaryMarcus",
+      "text": "It’s nice gig making LLMs.\n\nYou can distribute free models that suck.\n\nHype them to the skies.\n\nTake credit for the hundreds of millions of user you’ve got.\n\nAnd when they make a mistake, you can blame the users for not using the paid models.",
+      "timestamp": "2026-04-03T18:51:36+00:00",
+      "url": "https://x.com/GaryMarcus/status/2040140176291516618",
+      "images": [],
+      "likes": 3,
+      "retweets": 0,
+      "views": 96
+    },
+    {
+      "id": "2040138638961574034",
+      "username": "sarahookr",
+      "text": "Excited for my first ever trip to Singapore next month. 🔥✨\n\nFeels very overdue. Will be fantastic to connect with the research and developer ecosystem while there.",
+      "timestamp": "2026-04-03T18:45:30+00:00",
+      "url": "https://x.com/sarahookr/status/2040138638961574034",
+      "images": [],
+      "likes": 6,
+      "retweets": 2,
+      "views": 269
+    },
+    {
+      "id": "2040134762392928564",
+      "username": "a16z",
+      "text": "Only 3% of households are paying for AI. But once they get a taste, they come back for more.\n\nMore charts: https://t.co/tusDMkBz8W https://t.co/T6CkbHTZD3",
+      "timestamp": "2026-04-03T18:30:05+00:00",
+      "url": "https://x.com/a16z/status/2040134762392928564",
+      "images": [
+        "https://pbs.twimg.com/media/HFADwDxacAAjh7r.jpg",
+        "https://pbs.twimg.com/media/HFADwQYaEAAHO4K.jpg"
+      ],
+      "likes": 26,
+      "retweets": 2,
+      "views": 2578
+    },
+    {
+      "id": "2040134146207752531",
+      "username": "GaryMarcus",
+      "text": "LMAO. Last year most of Silicon Valley was predicting AGI in 2027 (which, spoiler alert, ain’t gonna happen).\n\nNow the most prominent former advocate of AGI in 2027, @DKokotajlo, says 2029, and Groks writes it up as “AI forecasters shorten timelines for AGI”, when on net Daniel https://t.co/lrV82nnjaN",
+      "timestamp": "2026-04-03T18:27:38+00:00",
+      "url": "https://x.com/GaryMarcus/status/2040134146207752531",
+      "images": [
+        "https://pbs.twimg.com/media/HFADMdeawAAQZav.jpg"
+      ],
+      "likes": 24,
+      "retweets": 2,
+      "views": 1483
+    },
+    {
+      "id": "2040133264631816195",
+      "username": "_akhaliq",
+      "text": "SKILL0 \n\nIn-Context Agentic Reinforcement Learning for Skill Internalization  \n\npaper: https://t.co/00VpX19T6G https://t.co/rj7ndANGDb",
+      "timestamp": "2026-04-03T18:24:08+00:00",
+      "url": "https://x.com/_akhaliq/status/2040133264631816195",
+      "images": [
+        "https://pbs.twimg.com/media/HFACVnHWEAAXTE3.jpg"
+      ],
+      "likes": 5,
+      "retweets": 2,
+      "views": 1160
+    },
+    {
+      "id": "2040132221328388418",
+      "username": "addyosmani",
+      "text": "Tip: Figure out your personal ceiling for running multiple agents in parallel.\n\nWe need to accept that more agents running doesn't mean more of _you_ available. The narrative is still mostly about throughput and parallelism, but almost nobody's talking about what it actually",
+      "timestamp": "2026-04-03T18:20:00+00:00",
+      "url": "https://x.com/addyosmani/status/2040132221328388418",
+      "images": [],
+      "likes": 27,
+      "retweets": 3,
+      "views": 3346
+    },
+    {
+      "id": "2040131652093960327",
+      "username": "_akhaliq",
+      "text": "Generative World Renderer\n\npaper: https://t.co/VxvbWIfkZx https://t.co/VtVOCspoQx",
+      "timestamp": "2026-04-03T18:17:44+00:00",
+      "url": "https://x.com/_akhaliq/status/2040131652093960327",
+      "images": [],
+      "likes": 16,
+      "retweets": 1,
+      "views": 1375
+    },
+    {
+      "id": "2040131587623502013",
+      "username": "GaryMarcus",
+      "text": "Agreed; timing will make a huge difference.\n\nWhich is *why* honest examination of technical strengths is so essential.",
+      "timestamp": "2026-04-03T18:17:28+00:00",
+      "url": "https://x.com/GaryMarcus/status/2040131587623502013",
+      "images": [],
+      "likes": 7,
+      "retweets": 1,
+      "views": 2075
+    },
+    {
+      "id": "2040129705655820687",
+      "username": "natolambert",
+      "text": "People are too obsessed with benchmarks for open models. The core determining factor of success often is:\n1. Immediate &amp; long term tooling support.\n2. Finetunability\n\nTbh Gemma has struggled here in the past. Qwen has excelled at it. It's where the winners are crowned. https://t.co/LkGb3tHjA3",
+      "timestamp": "2026-04-03T18:10:00+00:00",
+      "url": "https://x.com/natolambert/status/2040129705655820687",
+      "images": [
+        "https://pbs.twimg.com/media/HE_xTIeagAA2K8K.png"
+      ],
+      "likes": 42,
+      "retweets": 1,
+      "views": 2408
+    },
+    {
+      "id": "2040128751812456802",
+      "username": "_akhaliq",
+      "text": "fastest way to get started with Gemma 4 is with the Gradio app on Hugging Face\n\napp: https://t.co/NGJSYaXcOc https://t.co/0qrBsC42uJ",
+      "timestamp": "2026-04-03T18:06:12+00:00",
+      "url": "https://x.com/_akhaliq/status/2040128751812456802",
+      "images": [],
+      "likes": 6,
+      "retweets": 1,
+      "views": 1509
+    },
+    {
+      "id": "2040127746307707037",
+      "username": "_akhaliq",
+      "text": "The Latent Space\n\nFoundation, Evolution, Mechanism, Ability, and Outlook\n\npaper: https://t.co/Jla6adBQom https://t.co/FQzxjcbzko",
+      "timestamp": "2026-04-03T18:02:13+00:00",
+      "url": "https://x.com/_akhaliq/status/2040127746307707037",
+      "images": [
+        "https://pbs.twimg.com/media/HE_9VgCXkAA6AcQ.jpg"
+      ],
+      "likes": 7,
+      "retweets": 3,
+      "views": 1413
+    },
+    {
+      "id": "2040127372410720272",
+      "username": "PyTorch",
+      "text": "We’re excited to announce the 2026 PyTorch Docathon! May 5-19, refine technical documentation, test tutorials in CI environments, and help accelerate the transition from research to production.\n\nDocathon begins with a live kick-off and Q&amp;A on May 5 at 10 AM PT. \n\nSubmissions and https://t.co/qu7j8ubkXe",
+      "timestamp": "2026-04-03T18:00:43+00:00",
+      "url": "https://x.com/PyTorch/status/2040127372410720272",
+      "images": [
+        "https://pbs.twimg.com/media/HE_9BF-WEAAmxIm.jpg"
+      ],
+      "likes": 9,
+      "retweets": 1,
+      "views": 1514
+    },
+    {
+      "id": "2040122180848283686",
+      "username": "Miles_Brundage",
+      "text": "Still not too late for AI companies to stem the tide of AI populism, though that requires looking in the mirror a bit on your policy posture...\n\nOfc if there are no real guardrails + you're very visibly opposing them, many people will want to shut it down https://t.co/sZfBuGFeCY",
+      "timestamp": "2026-04-03T17:40:06+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2040122180848283686",
+      "images": [],
+      "likes": 17,
+      "retweets": 2,
+      "views": 1315
+    },
+    {
+      "id": "2040119188895813894",
+      "username": "DeryaTR_",
+      "text": "Anthropic: We greatly reduced your rate limits. We are not resetting any rates for the bugs that ate your tokens &amp; blame you for reaching your limits with few prompts.\n\nOpenAI: New $0 Codex only seat, reduced cost from $25 to $20, making it frictionless for teams to try Codex",
+      "timestamp": "2026-04-03T17:28:12+00:00",
+      "url": "https://x.com/DeryaTR_/status/2040119188895813894",
+      "images": [],
+      "likes": 267,
+      "retweets": 9,
+      "views": 14726
+    },
+    {
+      "id": "2040115036400820308",
+      "username": "wightmanr",
+      "text": "I tried an exercise yesterday. After Gemma4 release, I asked both Codex and Claude Code to implement the model (from the as yet unmerged JAX impl) in clean, canonical PyTorch. They both dutifully reproduced working text decoders within a few hours that remapped and loaded",
+      "timestamp": "2026-04-03T17:11:42+00:00",
+      "url": "https://x.com/wightmanr/status/2040115036400820308",
+      "images": [],
+      "likes": 15,
+      "retweets": 0,
+      "views": 1652
+    },
+    {
+      "id": "2040112629415313838",
+      "username": "PetarV_93",
+      "text": "here's a fantastic visual guide to how gemma 4 works!\n\nalso featuring a quote i deeply identify with:\n\n\"Developing incredible research and sharing it with the world is something that even to this day, is ingrained in the culture of [@GoogleDeepMind] research teams.\"\n\n❤️🧑‍🔬",
+      "timestamp": "2026-04-03T17:02:08+00:00",
+      "url": "https://x.com/PetarV_93/status/2040112629415313838",
+      "images": [],
+      "likes": 9,
+      "retweets": 1,
+      "views": 824
+    },
+    {
+      "id": "2040110531642618105",
+      "username": "_akhaliq",
+      "text": "DataFlex\n\nA Unified Framework for Data-Centric Dynamic Training of Large Language Models\n\npaper: https://t.co/N6JCavfpMt https://t.co/jQvusdm4qO",
+      "timestamp": "2026-04-03T16:53:48+00:00",
+      "url": "https://x.com/_akhaliq/status/2040110531642618105",
+      "images": [
+        "https://pbs.twimg.com/media/HE_tpnQaoAEtdr6.jpg"
+      ],
+      "likes": 6,
+      "retweets": 0,
+      "views": 2187
+    },
+    {
+      "id": "2040110422557368538",
+      "username": "drfeifei",
+      "text": "It’s 11th year and counting! Teaching the first lecture of @cs231n every year has been a highlight of my spring seasons. As usual, I asked students which departments or schools they come from @Stanford . Increasingly, students raise their hands to indicate that they come from all https://t.co/XZNGOYq9Ue",
+      "timestamp": "2026-04-03T16:53:22+00:00",
+      "url": "https://x.com/drfeifei/status/2040110422557368538",
+      "images": [
+        "https://pbs.twimg.com/media/HE_tnf3aoAIkl2K.jpg",
+        "https://pbs.twimg.com/media/HE_tnf3aoAAdpZu.jpg"
+      ],
+      "likes": 330,
+      "retweets": 28,
+      "views": 14510
+    },
+    {
+      "id": "2040109374044250288",
+      "username": "wightmanr",
+      "text": "Thanks Codex, inspires much confidence...\n\n  So the current evidence is:\n\n  - preprocessing: basically right\n  - vision tower: basically right\n  - image injection / expanded token semantics: not right enough yet",
+      "timestamp": "2026-04-03T16:49:12+00:00",
+      "url": "https://x.com/wightmanr/status/2040109374044250288",
+      "images": [],
+      "likes": 5,
+      "retweets": 0,
+      "views": 677
+    },
+    {
+      "id": "2040108120861720618",
+      "username": "khoomeik",
+      "text": "pretraining research, with its kernels and optimizers, is often perceived as more \"cracked\" than humanistic vibes-driven posttraining research\n\nbut due to weaker verifiability, the latter seems much further away from being automated\n\nplan your career accordingly",
+      "timestamp": "2026-04-03T16:44:14+00:00",
+      "url": "https://x.com/khoomeik/status/2040108120861720618",
+      "images": [],
+      "likes": 224,
+      "retweets": 8,
+      "views": 7556
+    },
+    {
+      "id": "2040107427362746421",
+      "username": "_akhaliq",
+      "text": "VOID\n\nVideo Object and Interaction Deletion\n\npaper: https://t.co/zgAZjL7mfL\n\nmodel: https://t.co/hOF11E9Ion\n\napp: https://t.co/Wh7TzrKnEb https://t.co/3M0mgEtwo4",
+      "timestamp": "2026-04-03T16:41:28+00:00",
+      "url": "https://x.com/_akhaliq/status/2040107427362746421",
+      "images": [],
+      "likes": 18,
+      "retweets": 4,
+      "views": 2295
+    },
+    {
+      "id": "2040106417500352573",
+      "username": "fchollet",
+      "text": "The Keras team is doing a community call today at 10am PT. That's in 25 min. The call is open to all -- join to learn about the latest features and what's next, and to ask your questions!\n\nLink to join (start in 25 min): https://t.co/zy5oJ5Lp8u",
+      "timestamp": "2026-04-03T16:37:27+00:00",
+      "url": "https://x.com/fchollet/status/2040106417500352573",
+      "images": [],
+      "likes": 23,
+      "retweets": 3,
+      "views": 19325
+    },
+    {
+      "id": "2040106248943599642",
+      "username": "_akhaliq",
+      "text": "BizGenEval\n\nA Systematic Benchmark for Commercial Visual Content Generation\n\npaper: https://t.co/NgeT8KMMEd https://t.co/YuuEBdoFXQ",
+      "timestamp": "2026-04-03T16:36:47+00:00",
+      "url": "https://x.com/_akhaliq/status/2040106248943599642",
+      "images": [
+        "https://pbs.twimg.com/media/HE_pyFsaoAE0ueQ.jpg"
+      ],
+      "likes": 13,
+      "retweets": 3,
+      "views": 2212
+    },
+    {
+      "id": "2040105885398139215",
+      "username": "_akhaliq",
+      "text": "Pretrained Video Models as Differentiable Physics Simulators for Urban Wind Flows\n\npaper: https://t.co/z3oKErhhD4 https://t.co/KmyiMIeL9T",
+      "timestamp": "2026-04-03T16:35:21+00:00",
+      "url": "https://x.com/_akhaliq/status/2040105885398139215",
+      "images": [
+        "https://pbs.twimg.com/media/HE_pZB-WEAAtmqY.jpg"
+      ],
+      "likes": 15,
+      "retweets": 4,
+      "views": 2221
+    },
+    {
+      "id": "2040105813776441368",
+      "username": "a16z",
+      "text": "IT services are first on the chopping block as companies adopt AI\n\nMore charts: https://t.co/tusDMkBz8W https://t.co/8YM1O4TfXi",
+      "timestamp": "2026-04-03T16:35:03+00:00",
+      "url": "https://x.com/a16z/status/2040105813776441368",
+      "images": [
+        "https://pbs.twimg.com/media/HE_pbNkacAABuT0.jpg"
+      ],
+      "likes": 84,
+      "retweets": 14,
+      "views": 9824
+    },
+    {
+      "id": "2040104287930589421",
+      "username": "hardmaru",
+      "text": "self-driving sushi\nhttps://t.co/v53GyS6MyB",
+      "timestamp": "2026-04-03T16:29:00+00:00",
+      "url": "https://x.com/hardmaru/status/2040104287930589421",
+      "images": [],
+      "likes": 98,
+      "retweets": 5,
+      "views": 6485
+    },
+    {
+      "id": "2040104137438756884",
+      "username": "_akhaliq",
+      "text": "MultiGen\n\nLevel-Design for Editable Multiplayer Worlds in Diffusion Game Engines\n\npaper: https://t.co/UT01uUYBxj https://t.co/AMY0bDusAj",
+      "timestamp": "2026-04-03T16:28:24+00:00",
+      "url": "https://x.com/_akhaliq/status/2040104137438756884",
+      "images": [],
+      "likes": 19,
+      "retweets": 3,
+      "views": 3235
+    },
+    {
+      "id": "2040102623483756721",
+      "username": "DeryaTR_",
+      "text": "Fortunately, I have the opposite problem: the more things Codex builds, the more ideas I get to create! It’s like living in the ADHD heaven 😅",
+      "timestamp": "2026-04-03T16:22:23+00:00",
+      "url": "https://x.com/DeryaTR_/status/2040102623483756721",
+      "images": [],
+      "likes": 40,
+      "retweets": 0,
+      "views": 4572
+    },
+    {
+      "id": "2039736104052486326",
+      "username": "natolambert",
+      "text": "Google dropped 4 different Gemma open-weight models! I'm most excited that they're finally adopting a standard Apache 2.0 open source license. This'll massively boost adoption. The standard of better licenses was set by mostly Chinese open model labs, and now labs in the U.S. https://t.co/c3oRipJgKr",
+      "timestamp": "2026-04-02T16:05:58+00:00",
+      "url": "https://x.com/natolambert/status/2039736104052486326",
+      "images": [
+        "https://pbs.twimg.com/media/HE6ZLXDXcAAm2yQ.jpg"
+      ],
+      "likes": 619,
+      "retweets": 49,
+      "views": 51301
+    },
+    {
+      "id": "2039647374600183852",
+      "username": "nickcammarata",
+      "text": "people don’t understand the work ethic required to be a professional researcher. a pro basketball player’s job is to make baskets so they shoot 500 shots a day. my job is to have ideas so I take 14 showers",
+      "timestamp": "2026-04-02T10:13:23+00:00",
+      "url": "https://x.com/nickcammarata/status/2039647374600183852",
+      "images": [],
+      "likes": 1767,
+      "retweets": 52,
+      "views": 53230
     }
   ]
 }
