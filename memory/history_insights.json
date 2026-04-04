@@ -1,66 +1,6 @@
 {
   "predictions": [
     {
-      "date": "2026-03-24T09:36:16.689447+08:00",
-      "prediction_text": "战略投资团队在评估外部AI服务依赖时，需考虑供应商的长期财务可持续性与锁定风险。",
-      "category": "strategic_move",
-      "source_signal": "OpenAI Reportedly Offers High Returns to Raise Capital"
-    },
-    {
-      "date": "2026-03-24T09:36:16.708522+08:00",
-      "prediction_text": "基础设施团队可以探索构建或采用专为Agent设计的存储服务，以支持其长期运行与个性化。",
-      "category": "infrastructure",
-      "source_signal": "HuggingFace CEO Proposes 'S3 for Agents' Storage Solution"
-    },
-    {
-      "date": "2026-03-25T09:33:32.271483+08:00",
-      "prediction_text": "基础设施团队建议对所有AI依赖库进行供应链安全审计，并探索自研或可控的替代方案。",
-      "category": "infrastructure",
-      "source_signal": "Major PyPI Supply Chain Attack via litellm Library"
-    },
-    {
-      "date": "2026-03-25T09:33:32.286784+08:00",
-      "prediction_text": "电商与内容平台的客户端产品团队可以考虑探索集成此类Agent，重构用户任务执行路径。",
-      "category": "strategic_move",
-      "source_signal": "Anthropic Launches Claude Computer Use for Mac Control"
-    },
-    {
-      "date": "2026-03-25T09:33:32.311069+08:00",
-      "prediction_text": "社区与内容平台的长期战略值得关注物理世界交互Agent，为未来的UGC内容形态布局。",
-      "category": "strategic_move",
-      "source_signal": "Google DeepMind Partners with Agile Robots for Next-Gen Robotics"
-    },
-    {
-      "date": "2026-03-25T09:33:32.338891+08:00",
-      "prediction_text": "创作者工具与研发效能团队可以探索引入多Agent架构，自动化设计、编码与测试工作流。",
-      "category": "research_breakthrough",
-      "source_signal": "Anthropic Details Multi-Agent Harness for Frontend Design and Software Engineering"
-    },
-    {
-      "date": "2026-03-25T09:33:32.365451+08:00",
-      "prediction_text": "基础设施团队在规划算力时，建议评估Arm等新玩家方案，以降低对单一供应商的依赖。",
-      "category": "infrastructure",
-      "source_signal": "Arm Announces Entry into AI Chip Manufacturing with Major Customers"
-    },
-    {
-      "date": "2026-03-25T09:33:32.381398+08:00",
-      "prediction_text": "内容安全与平台治理团队值得借鉴其框架，将韧性设计融入自研AI系统的全生命周期。",
-      "category": "strategic_move",
-      "source_signal": "Wojciech Zaremba Joins OpenAI Foundation to Lead AI Resilience"
-    },
-    {
-      "date": "2026-03-25T09:33:32.406757+08:00",
-      "prediction_text": "推荐系统与开发者生态团队可以考虑采用类似方案，以支持海量个性化Agent的实时运行。",
-      "category": "infrastructure",
-      "source_signal": "Cloudflare Releases Dynamic Workers for 100x Faster AI Agent Execution"
-    },
-    {
-      "date": "2026-03-25T09:33:32.462558+08:00",
-      "prediction_text": "内容创作工具团队在技术选型时，建议平衡开源模型生态与闭源模型性能的长期风险。",
-      "category": "ecosystem_shift",
-      "source_signal": "HuggingFace CEO Proposes Open-Sourcing Sora as OpenAI Shuts Down App"
-    },
-    {
       "date": "2026-03-25T09:33:32.479999+08:00",
       "prediction_text": "战略投资与业务团队值得密切关注被投企业动向，提前布局合作或防御性收购。",
       "category": "ecosystem_shift",
@@ -599,6 +539,66 @@
       "prediction_text": "内容与社区产品的语音交互设计，可以考虑探索车载等特定场景下的轻量化、语音优先AI体验。",
       "category": "new_product_form",
       "source_signal": "OpenAI ChatGPT Voice Mode Now Available in CarPlay"
+    },
+    {
+      "date": "2026-04-04T09:33:21.433688+08:00",
+      "prediction_text": "电商与内容平台的B端服务可以考虑基于此类平台快速构建面向商家的智能运营与客服Agent。",
+      "category": "ecosystem_shift",
+      "source_signal": "Nvidia Launches Enterprise AI Agent Platform with Major Partners"
+    },
+    {
+      "date": "2026-04-04T09:33:21.449020+08:00",
+      "prediction_text": "搜索与推荐系统团队值得探索将用户行为与内容图谱转化为AI可演进的Markdown知识库。",
+      "category": "research_breakthrough",
+      "source_signal": "Andrej Karpathy Proposes 'LLM Knowledge Base' Architecture Bypassing RAG"
+    },
+    {
+      "date": "2026-04-04T09:33:21.473241+08:00",
+      "prediction_text": "依赖外部大模型API的平台，其创作者工具团队建议评估供应商锁定风险并探索开源替代方案。",
+      "category": "strategic_move",
+      "source_signal": "Anthropic Restricts Third-Party Harnesses, Sparking Developer Backlash"
+    },
+    {
+      "date": "2026-04-04T09:33:21.496642+08:00",
+      "prediction_text": "平台在制定长期AI供应商合作战略时，建议将核心团队稳定性纳入风险评估框架。",
+      "category": "strategic_move",
+      "source_signal": "OpenAI Executive Shuffle: COO Brad Lightcap to Lead 'Special Projects'"
+    },
+    {
+      "date": "2026-04-04T09:33:21.510709+08:00",
+      "prediction_text": "内容安全与数据团队必须将供应商安全审计与数据溯源能力建设提升至最高优先级。",
+      "category": "infrastructure",
+      "source_signal": "Meta Pauses Work with Data Vendor Mercor After Security Breach"
+    },
+    {
+      "date": "2026-04-04T09:33:21.532013+08:00",
+      "prediction_text": "社区与电商平台的客服或导购Agent可以探索集成实时视频能力，以提升复杂场景下的服务体验。",
+      "category": "new_product_form",
+      "source_signal": "Pika Labs Enables Real-Time Video Chat for AI Agents"
+    },
+    {
+      "date": "2026-04-04T09:33:21.556321+08:00",
+      "prediction_text": "推荐系统与基础设施团队建议立项研究Agent上下文压缩与编译优化，以降低推理成本。",
+      "category": "infrastructure",
+      "source_signal": "Community Analysis Reveals Massive Token Waste in Agent Frameworks"
+    },
+    {
+      "date": "2026-04-04T09:33:21.567490+08:00",
+      "prediction_text": "有自研模型需求的内容平台可以考虑评估此类可定制开源模型，作为商用API的补充或替代。",
+      "category": "open_source",
+      "source_signal": "Arcee Releases Open Source Trinity-Large-Thinking Model for Enterprise Customization"
+    },
+    {
+      "date": "2026-04-04T09:33:21.576408+08:00",
+      "prediction_text": "平台在规划重度依赖外部API的Agent功能时，基础设施团队需提前设计降级与缓存策略。",
+      "category": "infrastructure",
+      "source_signal": "GitHub API Rate Limits Become Bottleneck for AI Agent Scaling"
+    },
+    {
+      "date": "2026-04-04T09:33:21.582658+08:00",
+      "prediction_text": "平台内部研发与对外提供的创作者工具，值得加速集成成熟的编码Agent以提升生产力。",
+      "category": "ecosystem_shift",
+      "source_signal": "Cursor AI Doubles Composer 2 Usage, Highlights Agent Adoption Growth"
     }
   ]
 }

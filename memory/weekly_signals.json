@@ -1013,6 +1013,207 @@
           76
         ]
       }
+    ],
+    "2026-04-04": [
+      {
+        "title": "Nvidia Launches Enterprise AI Agent Platform with Major Partners",
+        "signal_text": "据 VentureBeat 报道，NVIDIA 在 GTC 2026 上推出了企业级 AI Agent 平台，并已获得 Adobe、Salesforce、SAP 等 17 家公司的采用。这标志着 AI Agent 正加速进入企业工作流，并可能重塑企业软件生态。",
+        "signal_strength": 0.88,
+        "sources": [
+          {
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/technology/nvidia-launches-enterprise-ai-agent-platform-with-adobe-salesforce-sap-among"
+          }
+        ],
+        "tags": [
+          "AI Agent",
+          "企业应用",
+          "头部公司战略"
+        ],
+        "raw_item_indices": [
+          10
+        ]
+      },
+      {
+        "title": "Andrej Karpathy Proposes 'LLM Knowledge Base' Architecture Bypassing RAG",
+        "signal_text": "前 OpenAI 联合创始人、特斯拉 AI 总监 Andrej Karpathy 提出了一种新的“LLM 知识库”架构，该架构通过由 AI 维护的、不断演进的 Markdown 库来绕过传统的 RAG 方法。据 VentureBeat 报道，这为知识管理和 Agent 长期记忆提供了新思路。",
+        "signal_strength": 0.82,
+        "sources": [
+          {
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/data/karpathy-shares-llm-knowledge-base-architecture-that-bypasses-rag-with-an"
+          }
+        ],
+        "tags": [
+          "AI Agent",
+          "知识管理",
+          "搜索与推荐"
+        ],
+        "raw_item_indices": [
+          7
+        ]
+      },
+      {
+        "title": "Anthropic Restricts Third-Party Harnesses, Sparking Developer Backlash",
+        "signal_text": "据 The Verge 和 Hacker News 报道，Anthropic 宣布新政策，从 4 月 4 日起，Claude 订阅用户将无法使用其订阅额度来调用包括 OpenClaw 在内的第三方“harness”工具，需额外付费。此举引发了开发者社区的强烈不满，被视为对生态的控制收紧。",
+        "signal_strength": 0.8,
+        "sources": [
+          {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban"
+          },
+          {
+            "name": "Hacker News",
+            "url": "https://news.ycombinator.com/item?id=47633396"
+          }
+        ],
+        "tags": [
+          "头部公司战略",
+          "AI Agent",
+          "开源生态"
+        ],
+        "raw_item_indices": [
+          5,
+          13
+        ]
+      },
+      {
+        "title": "OpenAI Executive Shuffle: COO Brad Lightcap to Lead 'Special Projects'",
+        "signal_text": "据 TechCrunch 报道，OpenAI 进行高管调整：首席运营官 Brad Lightcap 将转任领导“特殊项目”；首席营销官 Kate Rouch 因健康原因暂时离任。同时，The Verge 报道称 AGI 部署负责人 Fidji Simo 也将因医疗原因休假数周。这显示 OpenAI 在高速发展期的内部组织调整。",
+        "signal_strength": 0.78,
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/"
+          },
+          {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/906965/openais-agi-boss-is-taking-a-leave-of-absence"
+          }
+        ],
+        "tags": [
+          "头部公司战略",
+          "组织架构"
+        ],
+        "raw_item_indices": [
+          20,
+          23
+        ]
+      },
+      {
+        "title": "Meta Pauses Work with Data Vendor Mercor After Security Breach",
+        "signal_text": "据 Wired 报道，Meta 在主要数据供应商 Mercor 发生安全事件后，已暂停与其合作。该事件可能导致 AI 模型训练的关键数据暴露，对依赖第三方数据供应商的 AI 实验室构成安全警示。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "Wired",
+            "url": "https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/"
+          }
+        ],
+        "tags": [
+          "内容安全与治理",
+          "数据安全",
+          "头部公司战略"
+        ],
+        "raw_item_indices": [
+          16
+        ]
+      },
+      {
+        "title": "Pika Labs Enables Real-Time Video Chat for AI Agents",
+        "signal_text": "AI 研究员 @minchoi 在推文中透露（获 43 likes，4577 views），Pika 刚刚推出了 AI Agent 的实时视频聊天功能。用户现在可以向 Claude、OpenClaw 或其他 AI Agent 发送 Google Meet 邀请，让其加入视频通话。这标志着 AI 交互正从纯文本向多模态、实时化演进。",
+        "signal_strength": 0.72,
+        "sources": [
+          {
+            "name": "@minchoi (Twitter)",
+            "url": "https://x.com/minchoi/status/2039904088737947889"
+          }
+        ],
+        "tags": [
+          "AI Agent",
+          "多模态",
+          "新交互范式"
+        ],
+        "raw_item_indices": [
+          41
+        ]
+      },
+      {
+        "title": "Community Analysis Reveals Massive Token Waste in Agent Frameworks",
+        "signal_text": "Reddit 社区分析显示（r/artificial 热门帖），当前 Agent 框架在每个会话中因重复发送静态文件会浪费超过 35 万个 tokens。研究者提出了一种编译时方法，将查询上下文从 1373 个 tokens 减少到 73 个，实现了 95% 的削减。这突显了 Agent 效率优化的重要性和巨大空间。",
+        "signal_strength": 0.7,
+        "sources": [
+          {
+            "name": "Reddit r/artificial",
+            "url": "https://www.reddit.com/r/artificial/comments/1sbthh0/agent_frameworks_waste_350000_tokens_per_session/"
+          }
+        ],
+        "tags": [
+          "AI Agent",
+          "推理效率",
+          "技术突破"
+        ],
+        "raw_item_indices": [
+          6
+        ]
+      },
+      {
+        "title": "Arcee Releases Open Source Trinity-Large-Thinking Model for Enterprise Customization",
+        "signal_text": "据 VentureBeat 报道，AI 初创公司 Arcee 发布了开源模型 Trinity-Large-Thinking。该模型被定位为罕见的、功能强大的美国制造 AI 模型，企业可以下载并进行定制。这反映了在美国开源模型生态中，有公司试图填补 Meta 等巨头策略调整后留下的空间。",
+        "signal_strength": 0.7,
+        "sources": [
+          {
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/technology/arcees-new-open-source-trinity-large-thinking-is-the-rare-powerful-u-s-made"
+          }
+        ],
+        "tags": [
+          "开源生态",
+          "企业应用",
+          "模型发布"
+        ],
+        "raw_item_indices": [
+          37
+        ]
+      },
+      {
+        "title": "GitHub API Rate Limits Become Bottleneck for AI Agent Scaling",
+        "signal_text": "开发者 @steipete 在推文中指出（获 737 likes，47k views），他不断触达 GitHub API 的速率限制，并认为该 API 在设计时并未考虑到 AI Agent 的大规模使用场景。这揭示了 AI Agent 生态发展所依赖的基础设施（如代码托管平台）面临的新的可扩展性挑战。",
+        "signal_strength": 0.68,
+        "sources": [
+          {
+            "name": "@steipete (Twitter)",
+            "url": "https://x.com/steipete/status/2040067429242675523"
+          }
+        ],
+        "tags": [
+          "AI Agent",
+          "基础设施",
+          "可扩展性"
+        ],
+        "raw_item_indices": [
+          61
+        ]
+      },
+      {
+        "title": "Cursor AI Doubles Composer 2 Usage, Highlights Agent Adoption Growth",
+        "signal_text": "AI 代码助手 Cursor 官方账号宣布（推文获 842 likes，64k views），将 Composer 2 的使用额度翻倍至本周末。这间接反映了 AI 编码 Agent 使用量的快速增长和开发者社区的高活跃度。",
+        "signal_strength": 0.63,
+        "sources": [
+          {
+            "name": "@cursor_ai (Twitter)",
+            "url": "https://x.com/cursor_ai/status/2040143041692930293"
+          }
+        ],
+        "tags": [
+          "AI Agent",
+          "开发者生态",
+          "开源工具"
+        ],
+        "raw_item_indices": [
+          115
+        ]
+      }
     ]
   },
   "archived_weeks": [
