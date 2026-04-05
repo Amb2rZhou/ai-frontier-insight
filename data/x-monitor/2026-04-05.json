@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-05T13:43:45.033136",
+  "scraped_at": "2026-04-05T18:15:57.978845",
   "date": "2026-04-05",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 35,
-  "account_count": 22,
+  "tweet_count": 40,
+  "account_count": 25,
   "tweets": [
     {
       "id": "2040563098495406523",
@@ -400,6 +400,63 @@
       "likes": 3655,
       "retweets": 349,
       "views": 335285
+    },
+    {
+      "id": "2040733745863389221",
+      "username": "DeryaTR_",
+      "text": "My Claude max use rate limit has significantly improved since yesterday. Also received a $100 API credit, though that goes through fast but it's still a good gesture. This shows that the problem was not the users. Acknowledging this &amp; not blaming your users is critical for trust.",
+      "timestamp": "2026-04-05T10:10:14+00:00",
+      "url": "https://x.com/DeryaTR_/status/2040733745863389221",
+      "images": [],
+      "likes": 3,
+      "retweets": 0,
+      "views": 298
+    },
+    {
+      "id": "2040731299069981140",
+      "username": "PyTorch",
+      "text": "How do we scale evaluations for agentic #AI? 🤖\n\n@besanushi (Senior AI Research Manager @nvidia) joins #PyTorchCon Europe to discuss \"The Unbearable Lightness of (Agentic) Evaluations\" and the road to consistent measurement pipelines.\n\n📍 Paris | 7-8 April\nLearn more: https://t.co/xx89BMpXPH",
+      "timestamp": "2026-04-05T10:00:31+00:00",
+      "url": "https://x.com/PyTorch/status/2040731299069981140",
+      "images": [],
+      "likes": 3,
+      "retweets": 2,
+      "views": 527
+    },
+    {
+      "id": "2040675443288973689",
+      "username": "shaneguML",
+      "text": "You have no idea what a \"pure capitalism\" society looks like under post-AGI era, until you probe into Chinese social media.",
+      "timestamp": "2026-04-05T06:18:34+00:00",
+      "url": "https://x.com/shaneguML/status/2040675443288973689",
+      "images": [],
+      "likes": 50,
+      "retweets": 3,
+      "views": 8075
+    },
+    {
+      "id": "2040666459370840199",
+      "username": "thsottiaux",
+      "text": "Does anyone have a breakdown of how much value you get in your various AI subscriptions from different providers? When compared to API prices",
+      "timestamp": "2026-04-05T05:42:52+00:00",
+      "url": "https://x.com/thsottiaux/status/2040666459370840199",
+      "images": [],
+      "likes": 496,
+      "retweets": 10,
+      "views": 37675
+    },
+    {
+      "id": "2039739427715735645",
+      "username": "arena",
+      "text": "Gemma-4-31B is now live in Text Arena - ranking #3 among open models (#27 overall), matching much larger models at 10× smaller scale! A significant jump from Gemma-3-27B (+87 pts).\n\nHighlights:\n- #3 open (#27 overall), on par with the best open models Kimi-K2.5, Qwen-3.5-397b\n- https://t.co/Vsalqgd9Gp",
+      "timestamp": "2026-04-02T16:19:10+00:00",
+      "url": "https://x.com/arena/status/2039739427715735645",
+      "images": [
+        "https://pbs.twimg.com/media/HE6ZAdBbQAAJ4jb.jpg"
+      ],
+      "likes": 570,
+      "retweets": 54,
+      "views": 160521
     }
   ]
 }
