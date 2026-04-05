@@ -14,14 +14,32 @@ from .ai_client import call_ai
 
 
 def _title_similar(a: str, b: str, threshold: float = 0.6) -> bool:
-    """Check if two titles are similar enough to be considered duplicates."""
-    words_a = set(a.split())
-    words_b = set(b.split())
+    """Check if two titles are similar enough to be considered duplicates.
+
+    Two-pass check:
+    1. Word overlap ratio >= threshold (original logic)
+    2. If first 2 meaningful words match (subject + verb), lower threshold to 0.35
+       e.g. "Anthropic Restricts ..." vs "Anthropic Restricts ..." = same event
+    """
+    words_a = set(a.lower().split())
+    words_b = set(b.lower().split())
     if not words_a or not words_b:
         return False
     overlap = len(words_a & words_b)
     shorter = min(len(words_a), len(words_b))
-    return overlap / shorter >= threshold
+    ratio = overlap / shorter
+
+    if ratio >= threshold:
+        return True
+
+    # Pass 2: if subject+verb match, use relaxed threshold
+    list_a = [w.strip(",:;'\"") for w in a.lower().split()]
+    list_b = [w.strip(",:;'\"") for w in b.lower().split()]
+    if len(list_a) >= 2 and len(list_b) >= 2:
+        if list_a[0] == list_b[0] and list_a[1] == list_b[1]:
+            return ratio >= 0.35
+
+    return False
 
 
 def extract_signals(raw_items: List[RawItem]) -> Optional[List[Dict]]:
@@ -119,8 +137,9 @@ def extract_signals(raw_items: List[RawItem]) -> Optional[List[Dict]]:
         "google", "deepmind", "openai", "anthropic", "meta", "fair",
         "microsoft", "apple", "nvidia", "huggingface",
         "bytedance", "字节", "tencent", "腾讯", "alibaba", "阿里", "baidu", "百度",
-        "huawei", "华为", "sensetime", "商汤",
+        "huawei", "华为", "sensetime", "商汤", "salesforce",
         "mit", "stanford", "cmu", "carnegie", "berkeley", "清华", "北大", "中科院",
+        "peking university", "tsinghua",
         "princeton", "harvard", "yale", "oxford", "cambridge",
     ]
     before_filter = len(signals)
