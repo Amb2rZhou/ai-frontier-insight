@@ -1,60 +1,6 @@
 {
   "predictions": [
     {
-      "date": "2026-03-25T09:33:32.479999+08:00",
-      "prediction_text": "战略投资与业务团队值得密切关注被投企业动向，提前布局合作或防御性收购。",
-      "category": "ecosystem_shift",
-      "source_signal": "Kleiner Perkins Raises $3.5B to Go All-In on AI Investing"
-    },
-    {
-      "date": "2026-03-25T09:33:32.494152+08:00",
-      "prediction_text": "搜索产品与电商平台可以基于此类数据，快速微调出理解特定平台UI与流程的专属Agent。",
-      "category": "open_source",
-      "source_signal": "AI2 Releases MolmoWeb: Open-Weight Visual Web Agent with 30K Human Trajectories"
-    },
-    {
-      "date": "2026-03-26T09:34:33.473137+08:00",
-      "prediction_text": "推荐系统与搜索产品可以考虑引入此类技术，以低成本支持超长用户行为序列的实时建模。",
-      "category": "research_breakthrough",
-      "source_signal": "Google's TurboQuant Algorithm Cuts KV Cache Memory by 6x"
-    },
-    {
-      "date": "2026-03-26T09:34:33.490046+08:00",
-      "prediction_text": "电商与内容平台的客户端产品团队值得探索集成移动端Agent，重构购物与内容创作流程。",
-      "category": "strategic_move",
-      "source_signal": "Claude Expands Computer Use Tools to Mobile"
-    },
-    {
-      "date": "2026-03-26T09:34:33.496499+08:00",
-      "prediction_text": "内容创作工具团队可以考虑引入此类模型，为创作者提供一站式的音视频内容生成能力。",
-      "category": "model_release",
-      "source_signal": "Google Releases Lyria 3 Pro Music Generation Model"
-    },
-    {
-      "date": "2026-03-26T09:34:33.502385+08:00",
-      "prediction_text": "内容安全与平台治理团队可以借鉴其框架，建立针对AI生成内容滥用场景的动态防御体系。",
-      "category": "strategic_move",
-      "source_signal": "OpenAI Launches AI Safety Bug Bounty Program"
-    },
-    {
-      "date": "2026-03-26T09:34:33.508114+08:00",
-      "prediction_text": "研发与战略团队可以基于此基准评估自研Agent能力，明确与AGI级智能的差距与方向。",
-      "category": "research_breakthrough",
-      "source_signal": "François Chollet Launches ARC-AGI-3 Benchmark for Agentic AI"
-    },
-    {
-      "date": "2026-03-26T09:34:33.513681+08:00",
-      "prediction_text": "创作者工具与客服Agent团队可以探索类似的沙盒与分类器机制，在自动化与安全间取得平衡。",
-      "category": "strategic_move",
-      "source_signal": "Anthropic Details Claude Code Auto Mode Safety Design"
-    },
-    {
-      "date": "2026-03-26T09:34:33.519464+08:00",
-      "prediction_text": "电商与内容平台的企业服务团队可以考虑提供私有化Agent方案，满足品牌客户的数据合规需求。",
-      "category": "ecosystem_shift",
-      "source_signal": "Cursor AI Enables Cloud Agents to Run on User Infrastructure"
-    },
-    {
       "date": "2026-03-26T09:34:33.525093+08:00",
       "prediction_text": "内容平台的3D/AR生态团队可以关注此类技术，为未来的沉浸式内容与虚拟商品提供生成能力。",
       "category": "research_breakthrough",
@@ -599,6 +545,60 @@
       "prediction_text": "平台内部研发与对外提供的创作者工具，值得加速集成成熟的编码Agent以提升生产力。",
       "category": "ecosystem_shift",
       "source_signal": "Cursor AI Doubles Composer 2 Usage, Highlights Agent Adoption Growth"
+    },
+    {
+      "date": "2026-04-05T12:23:09.109199+08:00",
+      "prediction_text": "重度依赖外部API的Agent产品团队，建议评估多供应商策略与开源模型替代方案以对冲风险。",
+      "category": "strategic_move",
+      "source_signal": "Anthropic Restricts Third-Party Tool Access for Claude Code Subscribers"
+    },
+    {
+      "date": "2026-04-05T12:23:09.132800+08:00",
+      "prediction_text": "推荐系统与内容发现团队值得探索利用多Agent框架进行开放式内容探索与用户兴趣挖掘。",
+      "category": "research_breakthrough",
+      "source_signal": "MIT Researchers Propose CORAL: Autonomous Multi-Agent Evolution Framework"
+    },
+    {
+      "date": "2026-04-05T12:23:09.163949+08:00",
+      "prediction_text": "内容安全与推荐算法团队可以考虑引入此类工具，以系统性缓解模型在不同用户群体中的偏差。",
+      "category": "open_source",
+      "source_signal": "Meta Open-Sources MCGrad for ML Model Calibration in Subgroups"
+    },
+    {
+      "date": "2026-04-05T12:23:09.186658+08:00",
+      "prediction_text": "内容平台的创作者工具团队可以探索集成此类能力，为用户提供一键式视频内容净化与重制功能。",
+      "category": "open_source",
+      "source_signal": "Netflix Releases VOID: Video Object and Interaction Deletion Framework"
+    },
+    {
+      "date": "2026-04-05T12:23:09.211669+08:00",
+      "prediction_text": "社区平台的内容治理团队建议加速部署可信的AI内容检测与主动标注系统，以重建信任。",
+      "category": "content_security_governance",
+      "source_signal": "The Verge Highlights Growing Skepticism Towards Unlabeled AI Content"
+    },
+    {
+      "date": "2026-04-05T12:23:09.231028+08:00",
+      "prediction_text": "平台内部研发与对外提供的开发者服务，值得关注此类一体化AI开发与部署工作流的集成机会。",
+      "category": "ecosystem_shift",
+      "source_signal": "OpenAI Codex Integrates Vercel Plugin for Streamlined Deployment"
+    },
+    {
+      "date": "2026-04-05T12:23:09.249639+08:00",
+      "prediction_text": "内容安全团队必须将AI深度伪造检测与创作者身份验证机制的建设提升至最高优先级。",
+      "category": "content_security_governance",
+      "source_signal": "Folk Musician Targeted by AI Fakes and Copyright Troll, Spotlighting Content Risks"
+    },
+    {
+      "date": "2026-04-05T12:23:09.263038+08:00",
+      "prediction_text": "基础设施团队可以考虑采用vLLM等高性能开源方案，以低成本快速支持最新的开源模型。",
+      "category": "infrastructure",
+      "source_signal": "vLLM v0.19.0 Released with Full Gemma 4 Architecture Support"
+    },
+    {
+      "date": "2026-04-05T12:23:09.278567+08:00",
+      "prediction_text": "电商与内容平台的智能客服或运营Agent团队，可以基于此类框架快速原型化多角色协作场景。",
+      "category": "open_source",
+      "source_signal": "Open-Source Multi-Agent Framework 'open-multi-agent' Gains Traction"
     }
   ]
 }

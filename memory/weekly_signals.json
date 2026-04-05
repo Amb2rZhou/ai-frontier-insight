@@ -1214,6 +1214,183 @@
           115
         ]
       }
+    ],
+    "2026-04-05": [
+      {
+        "title": "Anthropic Restricts Third-Party Tool Access for Claude Code Subscribers",
+        "signal_text": "据 TechCrunch 报道，Anthropic 宣布 Claude Code 订阅用户未来使用 OpenClaw 等第三方工具将需要支付额外费用。这一政策变化引发了开发者社区的强烈反响，HuggingFace CEO Clement Delangue 在推文中（获 92 likes）表达了担忧，认为在算力受限的世界里，前沿实验室可能会优先服务自己的直接产品和客户，这使得完全基于其 API 构建变得危险且不可持续。",
+        "signal_strength": 0.8,
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/"
+          },
+          {
+            "name": "Twitter @ClementDelangue",
+            "url": "https://x.com/ClementDelangue/status/2040438379280478619"
+          }
+        ],
+        "tags": [
+          "头部公司战略动作",
+          "AI Agent",
+          "行业风险与监管"
+        ],
+        "raw_item_indices": [
+          17,
+          35
+        ]
+      },
+      {
+        "title": "MIT Researchers Propose CORAL: Autonomous Multi-Agent Evolution Framework",
+        "signal_text": "麻省理工学院（MIT）的研究人员在 Arxiv 上发布论文“CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery”。该框架通过持久记忆、异步执行和协作问题解决，实现了开放式的多智能体自主进化与发现。",
+        "signal_strength": 0.78,
+        "sources": [
+          {
+            "name": "Arxiv (MIT)",
+            "url": "https://huggingface.co/papers/2604.01658"
+          }
+        ],
+        "tags": [
+          "Agent 与新交互范式",
+          "技术突破"
+        ],
+        "raw_item_indices": [
+          100
+        ]
+      },
+      {
+        "title": "Meta Open-Sources MCGrad for ML Model Calibration in Subgroups",
+        "signal_text": "Meta 的研究团队在 Reddit 上宣布开源 MCGrad，这是一个用于在多子组中校准机器学习模型的 Python 包。该工具已在 Meta 内部生产环境中开发并部署，相关工作也将在 KDD 2026 上发表。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "Reddit r/MachineLearning",
+            "url": "https://www.reddit.com/r/MachineLearning/comments/1scjzer/p_mcgrad_fix_calibration_of_your_ml_model_in/"
+          }
+        ],
+        "tags": [
+          "开源生态",
+          "技术突破",
+          "内容安全与治理"
+        ],
+        "raw_item_indices": [
+          12
+        ]
+      },
+      {
+        "title": "Netflix Releases VOID: Video Object and Interaction Deletion Framework",
+        "signal_text": "Netflix 研究团队在 Arxiv 上发布论文并开源 VOID 模型，这是一个利用视觉语言模型和视频扩散模型进行视频对象移除的框架。该框架通过因果推理和物理一致性生成，能够创建物理上合理的场景。该模型在 HuggingFace 上已获 310 likes。",
+        "signal_strength": 0.72,
+        "sources": [
+          {
+            "name": "Arxiv (Netflix)",
+            "url": "https://huggingface.co/papers/2604.02296"
+          },
+          {
+            "name": "HuggingFace Model",
+            "url": "https://huggingface.co/netflix/void-model"
+          }
+        ],
+        "tags": [
+          "多模态生成",
+          "内容创作与理解",
+          "开源生态"
+        ],
+        "raw_item_indices": [
+          104,
+          126
+        ]
+      },
+      {
+        "title": "The Verge Highlights Growing Skepticism Towards Unlabeled AI Content",
+        "signal_text": "据 The Verge 报道，随着生成式 AI 技术越来越擅长模仿人类作品，人们对在线平台拒绝标注明显 AI 内容的行为自然产生怀疑。文章指出，“这看起来像 AI”已成为创作者们害怕看到的短语，凸显了内容真实性和标注的紧迫问题。",
+        "signal_strength": 0.7,
+        "sources": [
+          {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/tech/906453/human-made-ai-free-logo-creative-content"
+          }
+        ],
+        "tags": [
+          "内容安全与治理",
+          "行业风险与监管"
+        ],
+        "raw_item_indices": [
+          23
+        ]
+      },
+      {
+        "title": "OpenAI Codex Integrates Vercel Plugin for Streamlined Deployment",
+        "signal_text": "OpenAI 开发者官方账号（@OpenAIDevs）宣布，用户现在可以在 Codex 应用中使用 Vercel 插件，实现从项目设置到部署的一站式流程。该推文获得了较高的关注（9286 views）。",
+        "signal_strength": 0.65,
+        "sources": [
+          {
+            "name": "Twitter @OpenAIDevs",
+            "url": "https://x.com/OpenAIDevs/status/2040443885374304639"
+          }
+        ],
+        "tags": [
+          "AI Agent",
+          "产品发布"
+        ],
+        "raw_item_indices": [
+          33
+        ]
+      },
+      {
+        "title": "Folk Musician Targeted by AI Fakes and Copyright Troll, Spotlighting Content Risks",
+        "signal_text": "据 The Verge 报道，民谣艺术家 Murphy Campbell 发现 Spotify 个人主页上出现了并非由她上传的 AI 伪造歌曲。这一事件凸显了 AI 生成内容被用于身份盗用和版权欺诈的风险，对内容平台的安全与治理提出了新的挑战。",
+        "signal_strength": 0.65,
+        "sources": [
+          {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright"
+          }
+        ],
+        "tags": [
+          "内容安全与治理",
+          "行业风险与监管"
+        ],
+        "raw_item_indices": [
+          16
+        ]
+      },
+      {
+        "title": "vLLM v0.19.0 Released with Full Gemma 4 Architecture Support",
+        "signal_text": "高性能 LLM 推理库 vLLM 发布 v0.19.0 版本，该版本包含来自 197 位贡献者的 448 次提交。主要亮点包括对 Google Gemma 4 架构的完整支持，涵盖 MoE、多模态、推理和工具使用能力。",
+        "signal_strength": 0.6,
+        "sources": [
+          {
+            "name": "GitHub Release (vllm-project/vllm)",
+            "url": "https://github.com/vllm-project/vllm/releases/tag/v0.19.0"
+          }
+        ],
+        "tags": [
+          "开源生态",
+          "技术突破"
+        ],
+        "raw_item_indices": [
+          92
+        ]
+      },
+      {
+        "title": "Open-Source Multi-Agent Framework 'open-multi-agent' Gains Traction",
+        "signal_text": "GitHub 上名为“open-multi-agent”的 TypeScript 多智能体框架获得显著关注（4065 stars）。该框架设计简洁，通过一次 runTeam() 调用即可实现从目标到结果的全过程，支持自动任务分解和并行执行。",
+        "signal_strength": 0.55,
+        "sources": [
+          {
+            "name": "GitHub Trending",
+            "url": "https://github.com/JackChen-me/open-multi-agent"
+          }
+        ],
+        "tags": [
+          "开源生态",
+          "AI Agent"
+        ],
+        "raw_item_indices": [
+          83
+        ]
+      }
     ]
   },
   "archived_weeks": [
