@@ -1,0 +1,161 @@
+{
+  "source": "x-monitor",
+  "scraped_at": "2026-04-06T02:32:58.821694",
+  "date": "2026-04-06",
+  "list_urls": [
+    "https://x.com/i/lists/2026486577304842549"
+  ],
+  "tweet_count": 13,
+  "account_count": 9,
+  "tweets": [
+    {
+      "id": "2040859250214199659",
+      "username": "DeryaTR_",
+      "text": "I am building my personal knowledge-base wiki. @karpathy popularized this recently. Currently, I am creating it as an HTML site using AI. Growing every day. https://t.co/LK2HxOKaaE",
+      "timestamp": "2026-04-05T18:28:57+00:00",
+      "url": "https://x.com/DeryaTR_/status/2040859250214199659",
+      "images": [
+        "https://pbs.twimg.com/media/HFKWXJ1a8AA9yv2.jpg"
+      ],
+      "likes": 2,
+      "retweets": 0,
+      "views": 507
+    },
+    {
+      "id": "2040858958425096501",
+      "username": "sriramk",
+      "text": "There’s always a debate in tech and computer science between platforms you control and you don’t. \n\nAll of open source from the original days of GNU or BSD through Linux to any number of open source libraries and software that power tech today all the way to AI are critical.",
+      "timestamp": "2026-04-05T18:27:47+00:00",
+      "url": "https://x.com/sriramk/status/2040858958425096501",
+      "images": [],
+      "likes": 4,
+      "retweets": 1,
+      "views": 343
+    },
+    {
+      "id": "2040856623967600770",
+      "username": "thegautamkamath",
+      "text": "\"I had no business putting my name on something I didn't understand\"\n\nRemarkable that Haliey Welch (Hawk Tuah Girl) now has more commitment to authorship integrity than many ML researchers https://t.co/w869pWUHxc",
+      "timestamp": "2026-04-05T18:18:31+00:00",
+      "url": "https://x.com/thegautamkamath/status/2040856623967600770",
+      "images": [
+        "https://pbs.twimg.com/media/HFKTaN5XUAMeQ1e.jpg"
+      ],
+      "likes": 3,
+      "retweets": 0,
+      "views": 216
+    },
+    {
+      "id": "2040851723774808310",
+      "username": "emollick",
+      "text": "Gemma 4 E4B is impressive for an on-device LLM. GPT-4ish quality, and expect hallucinations.\n\nHere is: “List five sociological theories starting with u and what they are. Then describe them in a rhyming verse”\n\nIts in real time, the last is a little bit of a stretch, but not bad! https://t.co/nJ5HuQsFSB",
+      "timestamp": "2026-04-05T17:59:02+00:00",
+      "url": "https://x.com/emollick/status/2040851723774808310",
+      "images": [],
+      "likes": 46,
+      "retweets": 1,
+      "views": 3739
+    },
+    {
+      "id": "2040833814671356011",
+      "username": "sriramk",
+      "text": "It’s a great weekend for open source AI energy in the U.S. \n\nBeen personally spending it moving some workflows to open models on my old MacBook Pros and desktop PCs.",
+      "timestamp": "2026-04-05T16:47:52+00:00",
+      "url": "https://x.com/sriramk/status/2040833814671356011",
+      "images": [],
+      "likes": 114,
+      "retweets": 7,
+      "views": 8242
+    },
+    {
+      "id": "2040833418687127916",
+      "username": "openclaw",
+      "text": "langosta · lagosta · Hummer · homard · aragosta · ıstakoz · homar · الكركند · ロブスター · 바닷가재 · 龙虾 · lobster \n\nOpenClaw docs now speak 12 languages 🌍🦞\n\nWe moved translations into a dedicated docs repo, added per-language glossaries + translation memory, and retranslate https://t.co/SvND4dxsOm",
+      "timestamp": "2026-04-05T16:46:18+00:00",
+      "url": "https://x.com/openclaw/status/2040833418687127916",
+      "images": [
+        "https://pbs.twimg.com/media/HFJ9XmmbcAA-Xym.jpg"
+      ],
+      "likes": 253,
+      "retweets": 28,
+      "views": 22109
+    },
+    {
+      "id": "2040831898620932397",
+      "username": "steipete",
+      "text": "Hooked up GPT 5.4 to auto-translate our docs via automatic GitHub trigger; way better than what google translate gives you. (also takes significantly longer, so happens once a day)",
+      "timestamp": "2026-04-05T16:40:16+00:00",
+      "url": "https://x.com/steipete/status/2040831898620932397",
+      "images": [],
+      "likes": 58,
+      "retweets": 5,
+      "views": 7799
+    },
+    {
+      "id": "2040828457475559927",
+      "username": "Austen",
+      "text": "You can ask that I use your tools as my main code editor or you can prohibit me from doing basic stuff in defense of inference costs.\n\nYou cannot do both.",
+      "timestamp": "2026-04-05T16:26:35+00:00",
+      "url": "https://x.com/Austen/status/2040828457475559927",
+      "images": [],
+      "likes": 50,
+      "retweets": 2,
+      "views": 7353
+    },
+    {
+      "id": "2040826259735822365",
+      "username": "osanseviero",
+      "text": "See you there! Excited to share about Gemma 4 and what the team has been cooking for the last few months",
+      "timestamp": "2026-04-05T16:17:51+00:00",
+      "url": "https://x.com/osanseviero/status/2040826259735822365",
+      "images": [],
+      "likes": 35,
+      "retweets": 3,
+      "views": 2328
+    },
+    {
+      "id": "2040822483511841057",
+      "username": "fchollet",
+      "text": "Tutorial on fine tuning Gemma on TPU v5 using Kinetic + Keras + JAX.\n\nEasiest stack to fully leverage TPUs at scale.",
+      "timestamp": "2026-04-05T16:02:51+00:00",
+      "url": "https://x.com/fchollet/status/2040822483511841057",
+      "images": [],
+      "likes": 64,
+      "retweets": 8,
+      "views": 11396
+    },
+    {
+      "id": "2040821328043708848",
+      "username": "DeryaTR_",
+      "text": "OpenAI Sora app is ending on April 26 😢 https://t.co/qQZToORCRQ",
+      "timestamp": "2026-04-05T15:58:15+00:00",
+      "url": "https://x.com/DeryaTR_/status/2040821328043708848",
+      "images": [],
+      "likes": 52,
+      "retweets": 1,
+      "views": 4752
+    },
+    {
+      "id": "2040811558427648357",
+      "username": "steipete",
+      "text": "Anthropic now blocks first-party harness use too 👀\n\nclaude -p --append-system-prompt 'A personal assistant running inside OpenClaw.' 'is clawd here?'\n\n→ 400 Third-party apps now draw from your extra usage, not your plan limits.\n\nSo yeah: bring your own coin 🪙🦞",
+      "timestamp": "2026-04-05T15:19:26+00:00",
+      "url": "https://x.com/steipete/status/2040811558427648357",
+      "images": [],
+      "likes": 2741,
+      "retweets": 130,
+      "views": 405841
+    },
+    {
+      "id": "2040800381471522880",
+      "username": "sriramk",
+      "text": "there are several products waiting to be built here.",
+      "timestamp": "2026-04-05T14:35:01+00:00",
+      "url": "https://x.com/sriramk/status/2040800381471522880",
+      "images": [],
+      "likes": 169,
+      "retweets": 5,
+      "views": 37232
+    }
+  ]
+}
