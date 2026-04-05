@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-05T18:15:57.978845",
+  "scraped_at": "2026-04-05T22:30:12.735181",
   "date": "2026-04-05",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 40,
-  "account_count": 25,
+  "tweet_count": 46,
+  "account_count": 29,
   "tweets": [
     {
       "id": "2040563098495406523",
@@ -457,6 +457,81 @@
       "likes": 570,
       "retweets": 54,
       "views": 160521
+    },
+    {
+      "id": "2040791023475908792",
+      "username": "gneubig",
+      "text": "In the spirit of language model freedom, as a weekend project I finally set up my own fully local coding agent:\n\n* GMKtek box with AMD Ryzen\n* Qwen3.5 30B A3B, served with lemonade server+llama.cpp\n* ngrok to expose the endpoint\n* OpenHands as the agent, currently through the CLI https://t.co/Kq62EGGujl",
+      "timestamp": "2026-04-05T13:57:50+00:00",
+      "url": "https://x.com/gneubig/status/2040791023475908792",
+      "images": [
+        "https://pbs.twimg.com/media/HFJXE7fXMAAFgih.jpg"
+      ],
+      "likes": 15,
+      "retweets": 0,
+      "views": 464
+    },
+    {
+      "id": "2040784375546007674",
+      "username": "DeryaTR_",
+      "text": "Created with Grok imagine video🇺🇸❤️ https://t.co/lH2VW7Fc4S",
+      "timestamp": "2026-04-05T13:31:25+00:00",
+      "url": "https://x.com/DeryaTR_/status/2040784375546007674",
+      "images": [],
+      "likes": 13,
+      "retweets": 1,
+      "views": 1739
+    },
+    {
+      "id": "2040775602693697640",
+      "username": "boazbaraktcs",
+      "text": "I was curious so asked ChatGPT to check this out - this seems to be true! https://t.co/Ot0bmDCRuP",
+      "timestamp": "2026-04-05T12:56:34+00:00",
+      "url": "https://x.com/boazbaraktcs/status/2040775602693697640",
+      "images": [
+        "https://pbs.twimg.com/media/HFJKfCmaUAEJgOn.jpg"
+      ],
+      "likes": 7,
+      "retweets": 0,
+      "views": 2106
+    },
+    {
+      "id": "2040758442894233973",
+      "username": "CSProfKGD",
+      "text": "15 papers accepted  https://t.co/C4PdmGnuln",
+      "timestamp": "2026-04-05T11:48:22+00:00",
+      "url": "https://x.com/CSProfKGD/status/2040758442894233973",
+      "images": [],
+      "likes": 9,
+      "retweets": 0,
+      "views": 1486
+    },
+    {
+      "id": "2040436307176898897",
+      "username": "emollick",
+      "text": "Big deal paper here: field experiment on 515 startups, half shown case studies of how startups are successfully using AI.\n\nThose firms used AI 44% more, had 1.9x higher revenue, needed 39% less capital:\n1) AI accelerates businesses\n2) The challenge is understanding how to use it https://t.co/3verMMjO3e",
+      "timestamp": "2026-04-04T14:28:19+00:00",
+      "url": "https://x.com/emollick/status/2040436307176898897",
+      "images": [
+        "https://pbs.twimg.com/media/HFEWAbHWAAAAtU7.jpg",
+        "https://pbs.twimg.com/media/HFEWAbwbwAEI2CC.jpg"
+      ],
+      "likes": 950,
+      "retweets": 138,
+      "views": 281704
+    },
+    {
+      "id": "2040113851182583817",
+      "username": "RisingSayak",
+      "text": "We're shipping an elaborate guide on how to profile diffusion pipelines in Diffusers to set them up for success with `torch.compile` 🔥\n\nWe devised a workflow with Claude &amp; it turned out to be quite effective. It served its purpose well. With the help of the trace alone, we https://t.co/lNFIdjsiDv",
+      "timestamp": "2026-04-03T17:07:00+00:00",
+      "url": "https://x.com/RisingSayak/status/2040113851182583817",
+      "images": [
+        "https://pbs.twimg.com/media/HE_wWF9a4AAyLpy.jpg"
+      ],
+      "likes": 135,
+      "retweets": 16,
+      "views": 14879
     }
   ]
 }
