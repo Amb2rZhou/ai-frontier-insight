@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-06T02:32:58.821694",
+  "scraped_at": "2026-04-06T05:06:18.684556",
   "date": "2026-04-06",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 13,
-  "account_count": 9,
+  "tweet_count": 17,
+  "account_count": 12,
   "tweets": [
     {
       "id": "2040859250214199659",
@@ -156,6 +156,52 @@
       "likes": 169,
       "retweets": 5,
       "views": 37232
+    },
+    {
+      "id": "2040897866194096322",
+      "username": "Miles_Brundage",
+      "text": "I think the \"Project\" abstraction used by both ChatGPT and Claude -- a folder with misc. files that an agent might need, stored in the cloud -- erases much of the value of having an agent always running on a device? What am I missing here",
+      "timestamp": "2026-04-05T21:02:24+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2040897866194096322",
+      "images": [],
+      "likes": 0,
+      "retweets": 0,
+      "views": 100
+    },
+    {
+      "id": "2040874501777317982",
+      "username": "OfficialLoganK",
+      "text": "Lots of people want Gemma 4! \n\nGoogle AI Edge is #8 on the iOS App Store for productivity apps. https://t.co/BFj8Ckiqm9",
+      "timestamp": "2026-04-05T19:29:33+00:00",
+      "url": "https://x.com/OfficialLoganK/status/2040874501777317982",
+      "images": [
+        "https://pbs.twimg.com/media/HFKkiw-bgAAPOxf.jpg"
+      ],
+      "likes": 680,
+      "retweets": 32,
+      "views": 37039
+    },
+    {
+      "id": "2040865511794499970",
+      "username": "khoomeik",
+      "text": "while much of the semiconductor supply chain is in 🇩🇪🇹🇼🇯🇵🇰🇷🇳🇱, it’s easy to forget that silicon valley is still a huge player\n\napplied materials, lam research, and KLA are TSMC’s most critical suppliers after ASML\n\nand they’re all hq’d in the bay area",
+      "timestamp": "2026-04-05T18:53:50+00:00",
+      "url": "https://x.com/khoomeik/status/2040865511794499970",
+      "images": [],
+      "likes": 90,
+      "retweets": 2,
+      "views": 6117
+    },
+    {
+      "id": "2039801593055322601",
+      "username": "osanseviero",
+      "text": "As part of the Gemma 4 release, we're launching Agent Skills: an Android app experience where you can import different skills and have Gemma 4 E2B reason and use the skills!\n\nRunning entirely in the phone, available in the Google PlayStore. Try it now! https://t.co/UFvptXxFsw",
+      "timestamp": "2026-04-02T20:26:12+00:00",
+      "url": "https://x.com/osanseviero/status/2039801593055322601",
+      "images": [],
+      "likes": 1821,
+      "retweets": 210,
+      "views": 245497
     }
   ]
 }
