@@ -1,66 +1,6 @@
 {
   "predictions": [
     {
-      "date": "2026-03-26T09:34:33.525093+08:00",
-      "prediction_text": "内容平台的3D/AR生态团队可以关注此类技术，为未来的沉浸式内容与虚拟商品提供生成能力。",
-      "category": "research_breakthrough",
-      "source_signal": "ByteDance Seed Team Publishes SIMART for 3D Asset Generation"
-    },
-    {
-      "date": "2026-03-26T09:34:33.530736+08:00",
-      "prediction_text": "创作者生态与商家运营团队值得探索结构化AI培训，系统性提升中长尾用户的AI应用能力。",
-      "category": "ecosystem_shift",
-      "source_signal": "Anthropic Study Highlights Growing AI Skills Gap"
-    },
-    {
-      "date": "2026-03-26T09:34:33.536948+08:00",
-      "prediction_text": "基础设施团队在规划训练集群时，可以考虑引入此类开源方案，以优化成本与能效。",
-      "category": "open_source",
-      "source_signal": "PyTorch and Nebius Speed Up DeepSeek-V3 Pre-training by 41%"
-    },
-    {
-      "date": "2026-03-27T09:33:28.864317+08:00",
-      "prediction_text": "内容与电商平台的客服/导购Agent值得探索集成此类模型，构建“所见即所得”的实时语音视觉交互体验。",
-      "category": "strategic_move",
-      "source_signal": "Google Launches Gemini 3.1 Flash Live for Real-Time Voice and Vision Agents"
-    },
-    {
-      "date": "2026-03-27T09:33:28.879883+08:00",
-      "prediction_text": "内容与社区平台的客服、创作者助手等核心场景建议探索自研或深度定制垂直模型，以提升解决率与用户体验。",
-      "category": "strategic_move",
-      "source_signal": "Intercom Launches Fin Apex 1.0, a Specialized AI Model Outperforming GPT-5.4 in Customer Service"
-    },
-    {
-      "date": "2026-03-27T09:33:28.885413+08:00",
-      "prediction_text": "搜索产品团队可以考虑设计低摩擦的用户数据迁移工具，以防御生态锁定并降低用户尝试新AI功能的成本。",
-      "category": "strategic_move",
-      "source_signal": "Google Expands Search Live Globally and Launches Chat Migration Tools for Gemini"
-    },
-    {
-      "date": "2026-03-27T09:33:28.891105+08:00",
-      "prediction_text": "推荐系统与搜索团队可以借鉴其RL训练与课程学习框架，探索下一代主动式、可演进的个性化信息获取Agent。",
-      "category": "open_source",
-      "source_signal": "Chroma Open-Sources Agentic Search Agent Trained with RL"
-    },
-    {
-      "date": "2026-03-27T09:33:28.896004+08:00",
-      "prediction_text": "电商平台的企业服务团队可以考虑与垂直行业巨头合作，将平台交易数据与行业知识结合，开发产业级商业Agent。",
-      "category": "ecosystem_shift",
-      "source_signal": "Sakana AI Announces Strategic Partnership with Mitsubishi Electric for Agentic AI in Manufacturing"
-    },
-    {
-      "date": "2026-03-27T09:33:28.900667+08:00",
-      "prediction_text": "研发团队可以基于此类基准持续评估自研Agent的“真实智能”水平，明确与AGI的差距并指导技术路线。",
-      "category": "research_breakthrough",
-      "source_signal": "François Chollet Announces ARC-AGI-4 Release for Early 2027"
-    },
-    {
-      "date": "2026-03-27T09:33:28.905172+08:00",
-      "prediction_text": "创作者工具团队在开发AI编辑、设计功能时，需要系统性研究并优化迭代过程中的隐式决策逻辑。",
-      "category": "research_breakthrough",
-      "source_signal": "DeepMind Paper Analyzes Challenges in Iterative Generative Optimization with LLMs"
-    },
-    {
       "date": "2026-03-27T09:33:28.909561+08:00",
       "prediction_text": "内容平台的3D/AR生态与电商的虚拟试穿团队值得关注此类技术，为UGC创作与商品展示提供新工具。",
       "category": "research_breakthrough",
@@ -599,6 +539,66 @@
       "prediction_text": "电商与内容平台的智能客服或运营Agent团队，可以基于此类框架快速原型化多角色协作场景。",
       "category": "open_source",
       "source_signal": "Open-Source Multi-Agent Framework 'open-multi-agent' Gains Traction"
+    },
+    {
+      "date": "2026-04-06T09:32:57.830296+08:00",
+      "prediction_text": "内容理解与生成模型的研发团队可以考虑引入类似框架，优化训练数据策略。",
+      "category": "research_breakthrough",
+      "source_signal": "Peking University Team Releases DataFlex for Dynamic LLM Training"
+    },
+    {
+      "date": "2026-04-06T09:32:57.844672+08:00",
+      "prediction_text": "视频内容创作与理解团队值得探索利用此类能力进行复杂叙事生成或交互式内容规划。",
+      "category": "research_breakthrough",
+      "source_signal": "Princeton Study Finds Video Models Exhibit Early Reasoning in Maze Solving"
+    },
+    {
+      "date": "2026-04-06T09:32:57.868514+08:00",
+      "prediction_text": "创作者工具与运营自动化团队可以探索基于此类框架构建多模态内容生成与编辑Agent。",
+      "category": "ecosystem_shift",
+      "source_signal": "OpenClaw Adds Native Video Generation with Multi-Provider Support"
+    },
+    {
+      "date": "2026-04-06T09:32:57.895006+08:00",
+      "prediction_text": "内容运营与审核团队可以考虑探索此类技术，自动化重复性后台操作流程。",
+      "category": "research_breakthrough",
+      "source_signal": "Salesforce Proposes GPA for GUI Process Automation from Demonstrations"
+    },
+    {
+      "date": "2026-04-06T09:32:57.916130+08:00",
+      "prediction_text": "视频搜索与推荐团队需要关注并投资于长上下文、时空推理等核心能力的评测与提升。",
+      "category": "research_breakthrough",
+      "source_signal": "Peking University Releases VideoZeroBench for Long- Video QA Evaluation"
+    },
+    {
+      "date": "2026-04-06T09:32:57.937137+08:00",
+      "prediction_text": "移动端产品团队值得探索集成此类模型，以提供低延迟、高隐私的AI功能。",
+      "category": "strategic_move",
+      "source_signal": "Google AI Edge App Ranks High on iOS Store Post-Gemma 4"
+    },
+    {
+      "date": "2026-04-06T09:32:57.958219+08:00",
+      "prediction_text": "内容安全与版权团队必须将AIGC版权识别与过滤机制的建设提升至最高优先级。",
+      "category": "content_security_governance",
+      "source_signal": "The Verge Exposes AI Music Platform Suno's Copyright Risks"
+    },
+    {
+      "date": "2026-04-06T09:32:57.977623+08:00",
+      "prediction_text": "产品与法务团队可以参考此先例，在服务条款中明确AI功能的用途与责任限制。",
+      "category": "strategic_move",
+      "source_signal": "TechCrunch Reports Microsoft Copilot Terms Label It 'For Entertainment Only'"
+    },
+    {
+      "date": "2026-04-06T09:32:58.006735+08:00",
+      "prediction_text": "基础设施与开发者服务团队可以考虑提供类似的开源集成方案，降低内部AI应用门槛。",
+      "category": "open_source",
+      "source_signal": "Community Builds Personal Local Coding Agent with Open-Source Stack"
+    },
+    {
+      "date": "2026-04-06T09:32:58.033591+08:00",
+      "prediction_text": "战略与产品团队在规划Agent功能时，需要同步评估其社会影响与用户接受度。",
+      "category": "ecosystem_shift",
+      "source_signal": "VentureBeat Analyzes the Chaos and Reality of AI Agent Adoption"
     }
   ]
 }
