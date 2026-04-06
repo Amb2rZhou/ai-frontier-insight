@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-06T05:06:18.684556",
+  "scraped_at": "2026-04-06T09:07:30.628139",
   "date": "2026-04-06",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 17,
-  "account_count": 12,
+  "tweet_count": 23,
+  "account_count": 17,
   "tweets": [
     {
       "id": "2040859250214199659",
@@ -202,6 +202,76 @@
       "likes": 1821,
       "retweets": 210,
       "views": 245497
+    },
+    {
+      "id": "2040944508402360592",
+      "username": "__tinygrad__",
+      "text": "exabox preorder is live. we considered raising a round to buy a datacenter, but with exaboxes we don't have to and can build out at our own pace. exaboxes just require a concrete slab and a big plug. https://t.co/01nzuEavjK",
+      "timestamp": "2026-04-06T00:07:44+00:00",
+      "url": "https://x.com/__tinygrad__/status/2040944508402360592",
+      "images": [],
+      "likes": 162,
+      "retweets": 7,
+      "views": 7099
+    },
+    {
+      "id": "2040928953653744003",
+      "username": "steipete",
+      "text": "The next version of @OpenClaw comes with native video generation. To start, I added support for the following companies:\n\n  - Alibaba\n  - BytePlus\n  - fal\n  - Google\n  - MiniMax\n  - OpenAI\n  - Qwen\n  - Together\n  - xAI https://t.co/NeSp4shVEx https://t.co/EkPVJ8aXe6",
+      "timestamp": "2026-04-05T23:05:55+00:00",
+      "url": "https://x.com/steipete/status/2040928953653744003",
+      "images": [
+        "https://pbs.twimg.com/media/HFLVueDXMAEDeiN.jpg"
+      ],
+      "likes": 1104,
+      "retweets": 75,
+      "views": 50836
+    },
+    {
+      "id": "2040921927988940878",
+      "username": "NandoDF",
+      "text": "This is such an inspiring video. It also makes me feel proud that we are building AI tools to empower these amazing scientists to expand our knowledge.\n\nModern physics is forcing us to rethink existence | Michelle Thaller: Fu... https://t.co/V3V3sHnRcm via @YouTube",
+      "timestamp": "2026-04-05T22:38:00+00:00",
+      "url": "https://x.com/NandoDF/status/2040921927988940878",
+      "images": [],
+      "likes": 7,
+      "retweets": 2,
+      "views": 1953
+    },
+    {
+      "id": "2040916481307767116",
+      "username": "minchoi",
+      "text": "Wow... Grok Imagine upgrades https://t.co/7EH6vlG6BB",
+      "timestamp": "2026-04-05T22:16:22+00:00",
+      "url": "https://x.com/minchoi/status/2040916481307767116",
+      "images": [],
+      "likes": 29,
+      "retweets": 5,
+      "views": 8756
+    },
+    {
+      "id": "2040911131108069692",
+      "username": "ClementDelangue",
+      "text": "Gemma 4 is #1 on @huggingface! https://t.co/wNOXZ1BzBu",
+      "timestamp": "2026-04-05T21:55:06+00:00",
+      "url": "https://x.com/ClementDelangue/status/2040911131108069692",
+      "images": [
+        "https://pbs.twimg.com/media/HFLF26iakAAF133.jpg"
+      ],
+      "likes": 284,
+      "retweets": 26,
+      "views": 16798
+    },
+    {
+      "id": "2040903637283590164",
+      "username": "boazbaraktcs",
+      "text": "I sometimes think that we could solve alignment by just instructing the model: “if you have an ethical dilemma then think what @KelseyTuoc would advise and do that thing.”",
+      "timestamp": "2026-04-05T21:25:19+00:00",
+      "url": "https://x.com/boazbaraktcs/status/2040903637283590164",
+      "images": [],
+      "likes": 15,
+      "retweets": 0,
+      "views": 2378
     }
   ]
 }
