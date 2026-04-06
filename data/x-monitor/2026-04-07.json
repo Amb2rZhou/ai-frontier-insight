@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-07T01:41:22.129473",
+  "scraped_at": "2026-04-07T05:45:53.062112",
   "date": "2026-04-07",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 36,
-  "account_count": 22,
+  "tweet_count": 58,
+  "account_count": 31,
   "tweets": [
     {
       "id": "2041208395290853694",
@@ -427,6 +427,256 @@
       "likes": 302,
       "retweets": 13,
       "views": 16618
+    },
+    {
+      "id": "2041269193446937038",
+      "username": "a16z",
+      "text": "Roblox home page (2007) https://t.co/G6bJ2Dox5F",
+      "timestamp": "2026-04-06T21:37:55+00:00",
+      "url": "https://x.com/a16z/status/2041269193446937038",
+      "images": [
+        "https://pbs.twimg.com/media/HFQLg4VaUAAAlri.jpg"
+      ],
+      "likes": 17,
+      "retweets": 1,
+      "views": 1727
+    },
+    {
+      "id": "2041261969051918581",
+      "username": "OpenAINewsroom",
+      "text": "\"We announced the single largest raise in history, $122 billion, and at the core of that was the validation of our laser-focused strategy, which is on compute… It drives a flywheel - for every quantum of compute we get, we effectively get 3X in revenue.\" https://t.co/SBzqUwzmVN",
+      "timestamp": "2026-04-06T21:09:12+00:00",
+      "url": "https://x.com/OpenAINewsroom/status/2041261969051918581",
+      "images": [],
+      "likes": 108,
+      "retweets": 8,
+      "views": 4274
+    },
+    {
+      "id": "2041259654613725685",
+      "username": "googledevs",
+      "text": "📣 US users can now change their Google Account username.\n\nIf your platform uses Sign in with Google, or identifies users by email rather than subject ID, we’ve put together best practices to help you maintain a seamless user experience.\n\nRead the full breakdown and https://t.co/Ycr50HIOe1",
+      "timestamp": "2026-04-06T21:00:01+00:00",
+      "url": "https://x.com/googledevs/status/2041259654613725685",
+      "images": [],
+      "likes": 25,
+      "retweets": 4,
+      "views": 1801
+    },
+    {
+      "id": "2041253290025931233",
+      "username": "RisingSayak",
+      "text": "This is happening tomorrow.\n\nWrapped my slides and I feel good about how they turned out!\n\nHoping to share some really cool stuff. So, if you're around, do drop by!",
+      "timestamp": "2026-04-06T20:34:43+00:00",
+      "url": "https://x.com/RisingSayak/status/2041253290025931233",
+      "images": [],
+      "likes": 2,
+      "retweets": 0,
+      "views": 237
+    },
+    {
+      "id": "2041253090205249584",
+      "username": "mitchellh",
+      "text": "Libghostty now fully exposes the Kitty Graphics Protocol. This may be the first native embeddable terminal to support this. I added a full Kitty graphics renderer to Ghostling (the libghostty demo project) in ~270 LoC. Ghostling PR: https://t.co/cNytf61hOq\n\nGhostty GUI has https://t.co/YreuXDGf6T",
+      "timestamp": "2026-04-06T20:33:56+00:00",
+      "url": "https://x.com/mitchellh/status/2041253090205249584",
+      "images": [],
+      "likes": 231,
+      "retweets": 14,
+      "views": 8177
+    },
+    {
+      "id": "2041248694645784750",
+      "username": "DeryaTR_",
+      "text": "Recommended to all Codex addicts like me ☺️",
+      "timestamp": "2026-04-06T20:16:28+00:00",
+      "url": "https://x.com/DeryaTR_/status/2041248694645784750",
+      "images": [],
+      "likes": 12,
+      "retweets": 1,
+      "views": 3698
+    },
+    {
+      "id": "2041247305286996373",
+      "username": "OpenAIDevs",
+      "text": "Let’s talk about building with Codex.\n\nJoin @ryannystrom, @derrickcchoi and @varunrau for a chat about Codex workflows, from exploring feature ideas to shipping together as a team.\n\nhttps://t.co/BTR2Br0Chs",
+      "timestamp": "2026-04-06T20:10:56+00:00",
+      "url": "https://x.com/OpenAIDevs/status/2041247305286996373",
+      "images": [],
+      "likes": 148,
+      "retweets": 11,
+      "views": 13693
+    },
+    {
+      "id": "2041238516022010128",
+      "username": "NielsRogge",
+      "text": "It looks like porting ViTPose to @huggingface Transformers was a big success :)\n\n3.5 million downloads and counting https://t.co/caNzXeQIAK",
+      "timestamp": "2026-04-06T19:36:01+00:00",
+      "url": "https://x.com/NielsRogge/status/2041238516022010128",
+      "images": [
+        "https://pbs.twimg.com/media/HFPvTEIXUAA55DJ.jpg"
+      ],
+      "likes": 16,
+      "retweets": 5,
+      "views": 1574
+    },
+    {
+      "id": "2041236537212576082",
+      "username": "Miles_Brundage",
+      "text": "I hope this and today’s OAI policy idea thing are the beginning of a new chapter in AI companies’ policy postures\n\nSmall steps (workforce stuff is easy vs regulation stuff, and ideas are easy vs endorsements) but still, I will take the Ws when they come",
+      "timestamp": "2026-04-06T19:28:09+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2041236537212576082",
+      "images": [],
+      "likes": 15,
+      "retweets": 3,
+      "views": 1878
+    },
+    {
+      "id": "2041229453959832026",
+      "username": "googledevs",
+      "text": "This new local model trained on Android development provides the best of both worlds: the privacy and cost-efficiency of on-device processing alongside state-of-the-art reasoning and tool-calling capabilities 💯",
+      "timestamp": "2026-04-06T19:00:00+00:00",
+      "url": "https://x.com/googledevs/status/2041229453959832026",
+      "images": [],
+      "likes": 55,
+      "retweets": 14,
+      "views": 5860
+    },
+    {
+      "id": "2041227229540294794",
+      "username": "Miles_Brundage",
+      "text": "\"What a week of OpenAI stories, huh?\"\n\n\"It's Monday morning, captain\"",
+      "timestamp": "2026-04-06T18:51:10+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2041227229540294794",
+      "images": [],
+      "likes": 31,
+      "retweets": 1,
+      "views": 1061
+    },
+    {
+      "id": "2041225122866938364",
+      "username": "steipete",
+      "text": "̶p̶o̶p̶ geek culture https://t.co/BiESTmgvZn",
+      "timestamp": "2026-04-06T18:42:48+00:00",
+      "url": "https://x.com/steipete/status/2041225122866938364",
+      "images": [
+        "https://pbs.twimg.com/media/HFPjTrCXoAABuOT.jpg"
+      ],
+      "likes": 119,
+      "retweets": 4,
+      "views": 22743
+    },
+    {
+      "id": "2041221748927213814",
+      "username": "GaryMarcus",
+      "text": "the gullibility 🙄",
+      "timestamp": "2026-04-06T18:29:23+00:00",
+      "url": "https://x.com/GaryMarcus/status/2041221748927213814",
+      "images": [],
+      "likes": 42,
+      "retweets": 5,
+      "views": 4519
+    },
+    {
+      "id": "2041219955975135705",
+      "username": "NVIDIARobotics",
+      "text": "🌱 AI-powered farming, without chemicals.\n\n@Aigenio’s solar-powered robots use vision AI to identify and remove weeds at the plant level—helping farmers reduce herbicides and adopt more sustainable practices.\n\nPowered by simulation, real-world data and edge AI, this is what https://t.co/K75Q9nU6Mg",
+      "timestamp": "2026-04-06T18:22:16+00:00",
+      "url": "https://x.com/NVIDIARobotics/status/2041219955975135705",
+      "images": [],
+      "likes": 290,
+      "retweets": 72,
+      "views": 11589
+    },
+    {
+      "id": "2041219925268722057",
+      "username": "Austen",
+      "text": "If you are potentially interested in applying to attend Gauntlet AI and have not, why not?",
+      "timestamp": "2026-04-06T18:22:08+00:00",
+      "url": "https://x.com/Austen/status/2041219925268722057",
+      "images": [],
+      "likes": 21,
+      "retweets": 2,
+      "views": 10719
+    },
+    {
+      "id": "2041219911179989320",
+      "username": "DeryaTR_",
+      "text": "Correct. People seem to have the notion that once AGI is achieved, advances in intelligence will stop. That is very foolish. Even among humans, there’s a vast difference in intelligence between people below-average intelligence &amp; geniuses. ASI will also have levels as it advances",
+      "timestamp": "2026-04-06T18:22:05+00:00",
+      "url": "https://x.com/DeryaTR_/status/2041219911179989320",
+      "images": [],
+      "likes": 42,
+      "retweets": 7,
+      "views": 5723
+    },
+    {
+      "id": "2041218797990994057",
+      "username": "a16z",
+      "text": "“Coding will eat all knowledge work”\n\nPeter Yang joins a16z’s Anish Acharya to discuss the post-AI future of work, why AI will create more solopreneurs, why human ambition means there will always be new jobs, and more.\n\n00:00 Intro\n01:56 Using OpenClaw for voice, memory &amp; daily https://t.co/8EnxJiM8lE",
+      "timestamp": "2026-04-06T18:17:40+00:00",
+      "url": "https://x.com/a16z/status/2041218797990994057",
+      "images": [],
+      "likes": 133,
+      "retweets": 23,
+      "views": 14496
+    },
+    {
+      "id": "2041218593367478276",
+      "username": "emollick",
+      "text": "There were likely no major work impacts of GenAI in any large firm throughout 2025. We did not have agentic tools, adoption takes time, and everyone was experimenting with process. \n\nThat is starting to change. Studies that show no impact in 2025 don't tell us much about 2027.",
+      "timestamp": "2026-04-06T18:16:51+00:00",
+      "url": "https://x.com/emollick/status/2041218593367478276",
+      "images": [],
+      "likes": 136,
+      "retweets": 5,
+      "views": 9636
+    },
+    {
+      "id": "2041217780515565676",
+      "username": "Thom_Wolf",
+      "text": "We’re very excited to deepen our work with the @SAIRfoundation co-founded by Terence Tao. We’ve been very active pushing the communities in AI x science in chemistry, physics, biology (more on that very soon) and this aligns perfectly with what the SAIR foundation has been doing",
+      "timestamp": "2026-04-06T18:13:37+00:00",
+      "url": "https://x.com/Thom_Wolf/status/2041217780515565676",
+      "images": [],
+      "likes": 28,
+      "retweets": 9,
+      "views": 3357
+    },
+    {
+      "id": "2041213187714850955",
+      "username": "_akhaliq",
+      "text": "Test-Time Scaling Makes Overtraining Compute-Optimal\n\npaper: https://t.co/oxFgiiS8Vm https://t.co/pGglzWuAwu",
+      "timestamp": "2026-04-06T17:55:22+00:00",
+      "url": "https://x.com/_akhaliq/status/2041213187714850955",
+      "images": [
+        "https://pbs.twimg.com/media/HFPYhGlbcAAMO98.jpg"
+      ],
+      "likes": 26,
+      "retweets": 4,
+      "views": 3349
+    },
+    {
+      "id": "2041212042338517042",
+      "username": "sedielem",
+      "text": "Since we're talking about high-dimensional Gaussians today: human intuition tends to break down in high dimensions (it's firmly rooted in 3D), so I wanted to quantify the incorrect distribution that we think of instead.\n\nI called it the Gaussian Mirage: https://t.co/lOiYXO9PtT",
+      "timestamp": "2026-04-06T17:50:49+00:00",
+      "url": "https://x.com/sedielem/status/2041212042338517042",
+      "images": [],
+      "likes": 115,
+      "retweets": 4,
+      "views": 12678
+    },
+    {
+      "id": "2040917282118148198",
+      "username": "Miles_Brundage",
+      "text": "Why aren’t small Gemma 4s on LM Studio, or are they and I can’t search",
+      "timestamp": "2026-04-05T22:19:33+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2040917282118148198",
+      "images": [],
+      "likes": 52,
+      "retweets": 0,
+      "views": 13677
     }
   ]
 }
