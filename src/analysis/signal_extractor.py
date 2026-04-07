@@ -138,12 +138,15 @@ def extract_signals(raw_items: List[RawItem]) -> Optional[List[Dict]]:
         "microsoft", "apple", "nvidia", "huggingface",
         "bytedance", "字节", "tencent", "腾讯", "alibaba", "阿里", "baidu", "百度",
         "huawei", "华为", "sensetime", "商汤", "salesforce",
+        "samsung", "sony", "adobe", "ibm", "intel", "amazon", "aws",
         "mit", "stanford", "cmu", "carnegie", "berkeley", "清华", "北大", "中科院",
-        "peking university", "tsinghua",
-        "princeton", "harvard", "yale", "oxford", "cambridge",
+        "peking university", "tsinghua", "shanghai jiao tong", "上海交大",
+        "princeton", "harvard", "yale", "oxford", "cambridge", "eth zurich",
+        "toronto", "montreal", "mila",
     ]
     before_filter = len(signals)
     filtered = []
+    filtered_out = []  # keep for backfill if needed
     for s in signals:
         text = (s.get("signal_text", "") + " " + s.get("title", "")).lower()
         sources = [src.get("name", "").lower() for src in s.get("sources", [])]
@@ -153,6 +156,7 @@ def extract_signals(raw_items: List[RawItem]) -> Optional[List[Dict]]:
             has_org = any(org in text for org in _TOP_ORGS)
             if not has_org:
                 print(f"  Filter: removed paper '{s.get('title', '')[:50]}' (no known institution)")
+                filtered_out.append(s)
                 continue
         filtered.append(s)
     signals = filtered
@@ -162,8 +166,17 @@ def extract_signals(raw_items: List[RawItem]) -> Optional[List[Dict]]:
     # Sort by signal_strength descending
     signals.sort(key=lambda s: s.get("signal_strength", 0), reverse=True)
 
-    # Trim to final output count (10)
+    # Trim to final output count (10), backfill from filtered papers if short
     final_count = settings.get("analysis", {}).get("daily_output_signals", 10)
+    if len(signals) < final_count and filtered_out:
+        shortfall = final_count - len(signals)
+        filtered_out.sort(key=lambda s: s.get("signal_strength", 0), reverse=True)
+        backfill = filtered_out[:shortfall]
+        for s in backfill:
+            s["signal_strength"] = min(s.get("signal_strength", 0), 0.65)
+            print(f"  Backfill: '{s.get('title', '')[:50]}' (capped at 0.65)")
+        signals.extend(backfill)
+        signals.sort(key=lambda s: s.get("signal_strength", 0), reverse=True)
     if len(signals) > final_count:
         signals = signals[:final_count]
 
