@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-07T09:17:09.764581",
+  "scraped_at": "2026-04-07T12:03:54.630145",
   "date": "2026-04-07",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 72,
-  "account_count": 36,
+  "tweet_count": 85,
+  "account_count": 41,
   "tweets": [
     {
       "id": "2041208395290853694",
@@ -838,6 +838,151 @@
       "likes": 431,
       "retweets": 52,
       "views": 31411
+    },
+    {
+      "id": "2041363760666030156",
+      "username": "dylan522p",
+      "text": "Big new things from SemiAnalysis coming soon.\nTEM images of 🤫 https://t.co/jw8EBlusQE",
+      "timestamp": "2026-04-07T03:53:41+00:00",
+      "url": "https://x.com/dylan522p/status/2041363760666030156",
+      "images": [
+        "https://pbs.twimg.com/media/HFRhhdJbsAA9iom.jpg"
+      ],
+      "likes": 20,
+      "retweets": 0,
+      "views": 1403
+    },
+    {
+      "id": "2041356401763881184",
+      "username": "hardmaru",
+      "text": "Following our recent defense announcements, our team just completed a major project with Japan’s Ministry of Internal Affairs and Communications (@MIC_JAPAN). 🇯🇵\n\nWe built an end-to-end intelligence system to visualize and counter disinformation on social media.\n\nBlog (Japanese):",
+      "timestamp": "2026-04-07T03:24:27+00:00",
+      "url": "https://x.com/hardmaru/status/2041356401763881184",
+      "images": [],
+      "likes": 24,
+      "retweets": 9,
+      "views": 3660
+    },
+    {
+      "id": "2041350333859819598",
+      "username": "minchoi",
+      "text": "If you think AI video can't be funny then explain this. 😹 https://t.co/YCSThTBEeg",
+      "timestamp": "2026-04-07T03:00:20+00:00",
+      "url": "https://x.com/minchoi/status/2041350333859819598",
+      "images": [],
+      "likes": 54,
+      "retweets": 7,
+      "views": 5236
+    },
+    {
+      "id": "2041349314262495265",
+      "username": "NVIDIARobotics",
+      "text": "⚡ Building solar faster with robotics.\n\nMaximo’s AI-powered robots have installed over 100MW of solar panels—bringing automation to energy projects.\n\nUsing autonomous systems, this solution is helping scale infrastructure faster, safer and more efficiently.\n\n📖 https://t.co/8z916E4Oxj",
+      "timestamp": "2026-04-07T02:56:17+00:00",
+      "url": "https://x.com/NVIDIARobotics/status/2041349314262495265",
+      "images": [],
+      "likes": 79,
+      "retweets": 29,
+      "views": 3356
+    },
+    {
+      "id": "2041347596342460439",
+      "username": "levie",
+      "text": "When you have agents going out and doing work for you, the work just moved up a layer of abstraction.\n\nNow the work is figuring out what to tell the agent to do, ensuring you give it proper instructions, getting needed context to the agent to do its tasks, intervening when it",
+      "timestamp": "2026-04-07T02:49:28+00:00",
+      "url": "https://x.com/levie/status/2041347596342460439",
+      "images": [],
+      "likes": 61,
+      "retweets": 8,
+      "views": 10503
+    },
+    {
+      "id": "2041340466701201740",
+      "username": "GaryMarcus",
+      "text": "Commercial airlines crash at a rate of 7 per 41 million flights.  \n\nCurrent top LLMs hallucinate (by one estimate) 4.6% of the time, about once in 25 prompts. On a known benchmark (usually things are worse on new benchmarks).\n\nComparing them, like the guy below does, is",
+      "timestamp": "2026-04-07T02:21:08+00:00",
+      "url": "https://x.com/GaryMarcus/status/2041340466701201740",
+      "images": [],
+      "likes": 71,
+      "retweets": 13,
+      "views": 4533
+    },
+    {
+      "id": "2041337678776721632",
+      "username": "GaryMarcus",
+      "text": "literally exactly what i said in March 2022. \n\nif only people had read the full article [https://t.co/Wm21ClfdTK] and not just the title, we wouldn’t be here now.",
+      "timestamp": "2026-04-07T02:10:03+00:00",
+      "url": "https://x.com/GaryMarcus/status/2041337678776721632",
+      "images": [],
+      "likes": 17,
+      "retweets": 1,
+      "views": 2305
+    },
+    {
+      "id": "2041336832986853633",
+      "username": "GaryMarcus",
+      "text": "I missed it. What did the “editorially independent” @tbpn say about the @ronanfarrow @andrewmarantz @newyorker exposé on Altman?\n\nOr did they remain silent?",
+      "timestamp": "2026-04-07T02:06:41+00:00",
+      "url": "https://x.com/GaryMarcus/status/2041336832986853633",
+      "images": [],
+      "likes": 15,
+      "retweets": 1,
+      "views": 2752
+    },
+    {
+      "id": "2041280267328098468",
+      "username": "GaryMarcus",
+      "text": "the plot gets wilder: the prof’s evidence for hallucinations has been allegedly solved is a chart from OpenAI showing that all models test hallucinated at least 4.6% of the time on known (therefore somewhat gameable) benchmark.\n\nThat certainly isn’t “solved”. \n\nImagine if your",
+      "timestamp": "2026-04-06T22:21:55+00:00",
+      "url": "https://x.com/GaryMarcus/status/2041280267328098468",
+      "images": [],
+      "likes": 63,
+      "retweets": 7,
+      "views": 4099
+    },
+    {
+      "id": "2041275563466502560",
+      "username": "AnthropicAI",
+      "text": "Our run-rate revenue has surpassed $30 billion, up from $9 billion at the end of 2025, as demand for Claude continues to accelerate. This partnership gives us the compute to keep pace.\n\nRead more: https://t.co/XgSjL0And7",
+      "timestamp": "2026-04-06T22:03:14+00:00",
+      "url": "https://x.com/AnthropicAI/status/2041275563466502560",
+      "images": [],
+      "likes": 3987,
+      "retweets": 355,
+      "views": 1961184
+    },
+    {
+      "id": "2041275561704931636",
+      "username": "AnthropicAI",
+      "text": "We've signed an agreement with Google and Broadcom for multiple gigawatts of next-generation TPU capacity, coming online starting in 2027, to train and serve frontier Claude models.",
+      "timestamp": "2026-04-06T22:03:13+00:00",
+      "url": "https://x.com/AnthropicAI/status/2041275561704931636",
+      "images": [],
+      "likes": 12092,
+      "retweets": 806,
+      "views": 1249917
+    },
+    {
+      "id": "2040529225594409093",
+      "username": "Miles_Brundage",
+      "text": "To be clear, it's been obvious for years that NYT has bad quality control. I have pointed out many errors in their AI coverage, and many typos. \n\nAnd they should pay more humans to do better quality control, regardless of AI.\n\nAI just makes huge failures even *less* excusable",
+      "timestamp": "2026-04-04T20:37:33+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2040529225594409093",
+      "images": [],
+      "likes": 24,
+      "retweets": 0,
+      "views": 1619
+    },
+    {
+      "id": "2040528296832876623",
+      "username": "Miles_Brundage",
+      "text": "NYT + other media should obviously be running every article (including headlines) through at least one high-test-time-compute AI to help with fact checking and typo spotting, and just ignore stuff that isn't helpful. \n\nThey don't bc of AI denialism\n\nhttps://t.co/jHaZQFdZfi",
+      "timestamp": "2026-04-04T20:33:51+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2040528296832876623",
+      "images": [],
+      "likes": 131,
+      "retweets": 8,
+      "views": 17987
     }
   ]
 }
