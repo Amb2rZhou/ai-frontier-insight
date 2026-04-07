@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-07T15:37:35.058858",
+  "scraped_at": "2026-04-07T21:56:50.195648",
   "date": "2026-04-07",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 91,
-  "account_count": 42,
+  "tweet_count": 109,
+  "account_count": 43,
   "tweets": [
     {
       "id": "2041208395290853694",
@@ -1058,6 +1058,230 @@
       "likes": 45,
       "retweets": 2,
       "views": 2372
+    },
+    {
+      "id": "2041513619339575762",
+      "username": "UnslothAI",
+      "text": "You can now fine-tune Gemma 4 with our free notebooks! 🔥\n\nYou just need 8GB VRAM to train Gemma 4 locally!\n\nUnsloth trains Gemma4 1.5x faster with 50% less VRAM.\n\nGitHub: https://t.co/aZWYAtakBP\nGuide: https://t.co/NBwKoFH2lp\n\nGemma-4-E4B Colab: https://t.co/JjpCQgWEpL https://t.co/OZvby0tAAq",
+      "timestamp": "2026-04-07T13:49:10+00:00",
+      "url": "https://x.com/UnslothAI/status/2041513619339575762",
+      "images": [
+        "https://pbs.twimg.com/media/HFTpP1YaYAAktPQ.jpg"
+      ],
+      "likes": 22,
+      "retweets": 2,
+      "views": 474
+    },
+    {
+      "id": "2041512156693201176",
+      "username": "levie",
+      "text": "The same kinds of productivity gains we've seen in coding with AI agents are heading to the rest of knowledge work. \n\nThis is the jump when you go from having a chatbot to being able to actually have an agent go off and do work for minutes or even hours and come back with a https://t.co/4PSMA6RTtc",
+      "timestamp": "2026-04-07T13:43:22+00:00",
+      "url": "https://x.com/levie/status/2041512156693201176",
+      "images": [],
+      "likes": 17,
+      "retweets": 0,
+      "views": 2001
+    },
+    {
+      "id": "2041508740667486304",
+      "username": "emollick",
+      "text": "I suspect that popularity of AI is going to start looking like surveys where people trust their own doctors but are distrustful of the medical establishment\n\nPeople will increasingly like “their AI” but will  increasingly be anxious about “AI” as a category. Some odd implications",
+      "timestamp": "2026-04-07T13:29:47+00:00",
+      "url": "https://x.com/emollick/status/2041508740667486304",
+      "images": [],
+      "likes": 56,
+      "retweets": 2,
+      "views": 3363
+    },
+    {
+      "id": "2041506852392042518",
+      "username": "sarahookr",
+      "text": "Our 3rd week of early access, and we have processed over 10 million data points (I think this morning we were at 11M+) 🔥🎉\n\nCongrats to the @adaption_ai team. Very fun, much lies ahead. https://t.co/OtIGcYYG5j",
+      "timestamp": "2026-04-07T13:22:17+00:00",
+      "url": "https://x.com/sarahookr/status/2041506852392042518",
+      "images": [],
+      "likes": 15,
+      "retweets": 1,
+      "views": 734
+    },
+    {
+      "id": "2041496838335807636",
+      "username": "minchoi",
+      "text": "Anthropic just locked in 3.5 gigawatts of next-gen TPUs from Google + Broadcom.\n\nClaude demand is exploding.\n\nThis is huge. https://t.co/xOaM807FHI",
+      "timestamp": "2026-04-07T12:42:30+00:00",
+      "url": "https://x.com/minchoi/status/2041496838335807636",
+      "images": [
+        "https://pbs.twimg.com/media/HFTacADXgAAsPxH.png"
+      ],
+      "likes": 38,
+      "retweets": 3,
+      "views": 6240
+    },
+    {
+      "id": "2041493450395169079",
+      "username": "PyTorch",
+      "text": "Helion is now a foundation-hosted project within the PyTorch Foundation, writes Michaël Aussems in ITdaily. The project, contributed by @Meta, aims to simplify the development of AI kernels and improve portability across different hardware platforms. Check out the article:",
+      "timestamp": "2026-04-07T12:29:02+00:00",
+      "url": "https://x.com/PyTorch/status/2041493450395169079",
+      "images": [],
+      "likes": 11,
+      "retweets": 3,
+      "views": 1996
+    },
+    {
+      "id": "2041485445628928417",
+      "username": "PyTorch",
+      "text": "At #PyTorchCon EU, Mergen Nachin of @Meta  discusses bringing ExecuTorch to the next frontiers of Edge AI https://t.co/jmnrT7U3f1",
+      "timestamp": "2026-04-07T11:57:13+00:00",
+      "url": "https://x.com/PyTorch/status/2041485445628928417",
+      "images": [
+        "https://pbs.twimg.com/media/HFTPzFiWMAAvkBR.jpg"
+      ],
+      "likes": 7,
+      "retweets": 1,
+      "views": 1899
+    },
+    {
+      "id": "2041484161517523160",
+      "username": "PyTorch",
+      "text": "Today at #PyTorchCon Europe 2026 we’re excited to share that ExecuTorch is becoming a part of PyTorch Core. ExecuTorch extends PyTorch functionality for efficient AI inference on edge devices, from desktop/laptop to mobile phones and embedded systems. Learn more: https://t.co/aRkWDChm6l",
+      "timestamp": "2026-04-07T11:52:07+00:00",
+      "url": "https://x.com/PyTorch/status/2041484161517523160",
+      "images": [
+        "https://pbs.twimg.com/media/HFTPBrPXgAAPVBs.jpg"
+      ],
+      "likes": 10,
+      "retweets": 4,
+      "views": 2448
+    },
+    {
+      "id": "2041473672964104546",
+      "username": "DeryaTR_",
+      "text": "When the guy who invented OpenClaw is working at OpenAI, you can be sure that these agents will work best with GPT-5.4 or newer versions. In fact, this is what I am waiting for before jumping into the OpenClaw madness! Probably a bit late, but I didn’t have much time anyway.☺️🦞",
+      "timestamp": "2026-04-07T11:10:27+00:00",
+      "url": "https://x.com/DeryaTR_/status/2041473672964104546",
+      "images": [],
+      "likes": 49,
+      "retweets": 0,
+      "views": 6093
+    },
+    {
+      "id": "2041454146180567103",
+      "username": "PyTorch",
+      "text": "The TorchInductor team dives deep on how to generate state-of-the-art matrix multiply kernels with the new CuteDSL backend. Learn more: https://t.co/xTLltGx6SW https://t.co/b0TRPFrhN8",
+      "timestamp": "2026-04-07T09:52:51+00:00",
+      "url": "https://x.com/PyTorch/status/2041454146180567103",
+      "images": [
+        "https://pbs.twimg.com/media/HFSzuj0WYAAJuU7.jpg"
+      ],
+      "likes": 40,
+      "retweets": 11,
+      "views": 4232
+    },
+    {
+      "id": "2041453806106362009",
+      "username": "mervenoyann",
+      "text": "I will be speaking keynote at PyCon Italia 🇮🇹🍋 \n\na bit similar to my keynote at PyData Amsterdam 2 years ago but completely changed due to all the paradigm shift, so don't miss out 🤝",
+      "timestamp": "2026-04-07T09:51:30+00:00",
+      "url": "https://x.com/mervenoyann/status/2041453806106362009",
+      "images": [],
+      "likes": 50,
+      "retweets": 2,
+      "views": 2812
+    },
+    {
+      "id": "2041431990327505039",
+      "username": "PyTorch",
+      "text": "Measuring how well models and systems perform in agentic tasks is fragile &amp; difficult to scale across different domains. At #PyTorchCon Europe, @besanushi  of @NVIDIA  discusses the common challenges in reproducing agentic evaluations, including differences in reference https://t.co/tbVwsRUuEy",
+      "timestamp": "2026-04-07T08:24:49+00:00",
+      "url": "https://x.com/PyTorch/status/2041431990327505039",
+      "images": [
+        "https://pbs.twimg.com/media/HFSfXT0bwAAeTd4.jpg"
+      ],
+      "likes": 14,
+      "retweets": 4,
+      "views": 3387
+    },
+    {
+      "id": "2041429948531986607",
+      "username": "PyTorch",
+      "text": "Open Source AI Unlocks the World's Potential shares Maryam Tahhan and Nicolò Lucchesi of @RedHat at #PyTorchCon Europe 2026 https://t.co/WAmApsqE4z",
+      "timestamp": "2026-04-07T08:16:42+00:00",
+      "url": "https://x.com/PyTorch/status/2041429948531986607",
+      "images": [
+        "https://pbs.twimg.com/media/HFSdqD4WMAAIoh4.jpg",
+        "https://pbs.twimg.com/media/HFSdq3waUAAI9Qx.jpg"
+      ],
+      "likes": 12,
+      "retweets": 4,
+      "views": 3045
+    },
+    {
+      "id": "2041428380071911544",
+      "username": "PyTorch",
+      "text": "Live from #PyTorchCon Europe Patrick von Platen of @MistralAI discusses Streaming Everything, how to move from Request input to Streaming input https://t.co/vfFE63KUwc",
+      "timestamp": "2026-04-07T08:10:28+00:00",
+      "url": "https://x.com/PyTorch/status/2041428380071911544",
+      "images": [
+        "https://pbs.twimg.com/media/HFScEk4aIAAYAB_.jpg"
+      ],
+      "likes": 10,
+      "retweets": 1,
+      "views": 2718
+    },
+    {
+      "id": "2041426970253124033",
+      "username": "PyTorch",
+      "text": "PyTorch has become the backbone of production AI. From One Node to Distributed Training and Inference, @roaner of @AMD shares how the PyTorch ecosystem changed AI at #PyTorchCon Europe https://t.co/W1ax7UJPHy",
+      "timestamp": "2026-04-07T08:04:52+00:00",
+      "url": "https://x.com/PyTorch/status/2041426970253124033",
+      "images": [
+        "https://pbs.twimg.com/media/HFSa92PaMAAekhT.jpg"
+      ],
+      "likes": 13,
+      "retweets": 2,
+      "views": 2705
+    },
+    {
+      "id": "2041422969163964721",
+      "username": "PyTorch",
+      "text": "The RL open source ecosystem is exploding 💥 At #PyTorchCon EU @joespeez of @reflection_ai, shares how community-led open source RL is reshaping the AI landscape https://t.co/kxP4QQJgMJ",
+      "timestamp": "2026-04-07T07:48:58+00:00",
+      "url": "https://x.com/PyTorch/status/2041422969163964721",
+      "images": [
+        "https://pbs.twimg.com/media/HFSXXUhWsAACOgp.jpg"
+      ],
+      "likes": 7,
+      "retweets": 1,
+      "views": 2769
+    },
+    {
+      "id": "2040911007392903231",
+      "username": "emollick",
+      "text": "Unappreciated fact is the second scaling law does not seem to completely plateau in many tasks: throw more tokens at a reasoning AI model and get better answers, especially with a simple harness.\n\nBenchmark performance is actually limited by token usage. https://t.co/jP3TgIsT2T https://t.co/DQs6OJvNTy",
+      "timestamp": "2026-04-05T21:54:37+00:00",
+      "url": "https://x.com/emollick/status/2040911007392903231",
+      "images": [
+        "https://pbs.twimg.com/media/HFLFuz5bMAABqAB.jpg",
+        "https://pbs.twimg.com/media/HFLFuzaWkAAZEGe.jpg"
+      ],
+      "likes": 207,
+      "retweets": 15,
+      "views": 24519
+    },
+    {
+      "id": "2038753139247989199",
+      "username": "googledevs",
+      "text": "🌟 Join the TorchTPU session at #PyTorchCon Europe 2026 in Paris on April 7–8. Learn the strategy and roadmap that brings a native @PyTorch experience to TPUs.\n\nThe program includes infrastructure, applications, and agent-based systems, with sessions on training, inference, gen https://t.co/hy8I0buY8R",
+      "timestamp": "2026-03-30T23:00:01+00:00",
+      "url": "https://x.com/googledevs/status/2038753139247989199",
+      "images": [
+        "https://pbs.twimg.com/media/HEnjei7XEAE6e61.jpg"
+      ],
+      "likes": 83,
+      "retweets": 13,
+      "views": 14055
     }
   ]
 }
