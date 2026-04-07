@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-08T02:04:10.284332",
+  "scraped_at": "2026-04-08T07:10:24.447111",
   "date": "2026-04-08",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 35,
-  "account_count": 21,
+  "tweet_count": 73,
+  "account_count": 40,
   "tweets": [
     {
       "id": "2041576063575212379",
@@ -420,6 +420,450 @@
       "likes": 146,
       "retweets": 3,
       "views": 32390
+    },
+    {
+      "id": "2041652239161262568",
+      "username": "googledevs",
+      "text": "Explore the updated Android Bench results to find the best-performing models for your workflow.",
+      "timestamp": "2026-04-07T23:00:00+00:00",
+      "url": "https://x.com/googledevs/status/2041652239161262568",
+      "images": [],
+      "likes": 5,
+      "retweets": 1,
+      "views": 734
+    },
+    {
+      "id": "2041648263078801765",
+      "username": "OpenAINewsroom",
+      "text": "Today, at the eleventh hour, Elon lodged a court filing pretending to change his tune about attacking the nonprofit OpenAI Foundation.\n\nThe truth is that this case has always been about Elon generating more power and more money for what he wants. Having increasingly realized that",
+      "timestamp": "2026-04-07T22:44:12+00:00",
+      "url": "https://x.com/OpenAINewsroom/status/2041648263078801765",
+      "images": [],
+      "likes": 275,
+      "retweets": 16,
+      "views": 15465
+    },
+    {
+      "id": "2041648008924639602",
+      "username": "NVIDIARobotics",
+      "text": "Meet the next wave of robotics startups. 🤖\n\nThe AWS x @MassRobotics Fellowship cohort is advancing real-world robotics across agriculture, manufacturing, humanoids and beyond.\n\nFrom autonomous farming to AI-driven automation, #NVIDIAInception members @burro_ai, @config_inc, https://t.co/kfVUOLxUZA",
+      "timestamp": "2026-04-07T22:43:11+00:00",
+      "url": "https://x.com/NVIDIARobotics/status/2041648008924639602",
+      "images": [
+        "https://pbs.twimg.com/media/HFVkCKeXQAAmmPi.jpg",
+        "https://pbs.twimg.com/media/HFVkCY3XwAA89Ay.jpg",
+        "https://pbs.twimg.com/media/HFVkCkwXsAA_hRw.jpg",
+        "https://pbs.twimg.com/media/HFVkC0bXoAEUOag.jpg"
+      ],
+      "likes": 14,
+      "retweets": 4,
+      "views": 701
+    },
+    {
+      "id": "2041647394794721284",
+      "username": "EMostaque",
+      "text": "Technically all the vulnerabilities in public facing code are in the training data\n\nMake of that what you will",
+      "timestamp": "2026-04-07T22:40:45+00:00",
+      "url": "https://x.com/EMostaque/status/2041647394794721284",
+      "images": [],
+      "likes": 12,
+      "retweets": 0,
+      "views": 2538
+    },
+    {
+      "id": "2041646897815756864",
+      "username": "Austen",
+      "text": "I can't even imagine how much Anthropic will be able to charge for Mythos.\n\nI'm afraid to know.",
+      "timestamp": "2026-04-07T22:38:47+00:00",
+      "url": "https://x.com/Austen/status/2041646897815756864",
+      "images": [],
+      "likes": 24,
+      "retweets": 0,
+      "views": 1854
+    },
+    {
+      "id": "2041644191424380938",
+      "username": "littmath",
+      "text": "claude mythos just prepared a beautiful omakase dinner for me",
+      "timestamp": "2026-04-07T22:28:01+00:00",
+      "url": "https://x.com/littmath/status/2041644191424380938",
+      "images": [],
+      "likes": 20,
+      "retweets": 3,
+      "views": 732
+    },
+    {
+      "id": "2041640098832187523",
+      "username": "Austen",
+      "text": "Turns out all of our custom bespoke handcrafted code was buggy and insecure af too.\n\nAI will be the thing that fixes the security holes we’ve been leaving around for decades.",
+      "timestamp": "2026-04-07T22:11:46+00:00",
+      "url": "https://x.com/Austen/status/2041640098832187523",
+      "images": [],
+      "likes": 32,
+      "retweets": 3,
+      "views": 5013
+    },
+    {
+      "id": "2041638712291803544",
+      "username": "osanseviero",
+      "text": "People in London for the AI Engineer Conference:\n\nAre we doing a running club this week?",
+      "timestamp": "2026-04-07T22:06:15+00:00",
+      "url": "https://x.com/osanseviero/status/2041638712291803544",
+      "images": [],
+      "likes": 10,
+      "retweets": 1,
+      "views": 1649
+    },
+    {
+      "id": "2041638606998000115",
+      "username": "NielsRogge",
+      "text": "Don't let Anthropic fool you - it's literally just an LLM with scaled-up pre-training and post-training.\n\nAs it's an LLM, it is only good at stuff humans have already done; it cannot invent new things. Anthropic themselves consider the catastrophic risks low https://t.co/FaZo0IWPLV",
+      "timestamp": "2026-04-07T22:05:50+00:00",
+      "url": "https://x.com/NielsRogge/status/2041638606998000115",
+      "images": [
+        "https://pbs.twimg.com/media/HFVatqha8AA6kWP.jpg"
+      ],
+      "likes": 13,
+      "retweets": 3,
+      "views": 1572
+    },
+    {
+      "id": "2041636287535575483",
+      "username": "khoomeik",
+      "text": "word on the street is that anthropic upgraded from coffee to beer https://t.co/viHcdlGmqA",
+      "timestamp": "2026-04-07T21:56:37+00:00",
+      "url": "https://x.com/khoomeik/status/2041636287535575483",
+      "images": [
+        "https://pbs.twimg.com/media/HFVZYlvaIAANjrY.jpg"
+      ],
+      "likes": 39,
+      "retweets": 0,
+      "views": 3037
+    },
+    {
+      "id": "2041635363836314065",
+      "username": "NielsRogge",
+      "text": "This. I'm waiting for @ylecun to dunk on Anthropic\n\nMy take is that this is just overhyping, and we will cringe when we look back at it",
+      "timestamp": "2026-04-07T21:52:57+00:00",
+      "url": "https://x.com/NielsRogge/status/2041635363836314065",
+      "images": [],
+      "likes": 15,
+      "retweets": 1,
+      "views": 1476
+    },
+    {
+      "id": "2041634915150917883",
+      "username": "fchollet",
+      "text": "Join the ARC Prize team -- help us build ARC-AGI-4 and ARC-AGI-5",
+      "timestamp": "2026-04-07T21:51:10+00:00",
+      "url": "https://x.com/fchollet/status/2041634915150917883",
+      "images": [],
+      "likes": 41,
+      "retweets": 1,
+      "views": 8617
+    },
+    {
+      "id": "2041631211135590520",
+      "username": "boazbaraktcs",
+      "text": "Glad to hear the model didn’t hack a drone to fly to the park 😂",
+      "timestamp": "2026-04-07T21:36:27+00:00",
+      "url": "https://x.com/boazbaraktcs/status/2041631211135590520",
+      "images": [],
+      "likes": 11,
+      "retweets": 0,
+      "views": 1416
+    },
+    {
+      "id": "2041626147050414095",
+      "username": "DeryaTR_",
+      "text": "Imagine if bad actors got access to Claude Mythos! They could hold hostage &amp; ransom institutions, large companies, or even countries for billions of dollars or just to cause havoc! It would be so destructive that it could even crash economies. I wonder how securely it’s kept?🤔",
+      "timestamp": "2026-04-07T21:16:19+00:00",
+      "url": "https://x.com/DeryaTR_/status/2041626147050414095",
+      "images": [],
+      "likes": 35,
+      "retweets": 5,
+      "views": 6285
+    },
+    {
+      "id": "2041625878786945238",
+      "username": "gneubig",
+      "text": "Lots of stuff in the new Anthropic announcement:\n\nGood:\n1. Improving cybersecurity is great use of agents.\n2. The new model scores are very exciting!\n\nBad:\n1. Not clear if/when the new model will be broadly accessible, which is a step back in broad access to AI.\n2. Related to 1,",
+      "timestamp": "2026-04-07T21:15:15+00:00",
+      "url": "https://x.com/gneubig/status/2041625878786945238",
+      "images": [],
+      "likes": 25,
+      "retweets": 1,
+      "views": 2720
+    },
+    {
+      "id": "2041625597412004239",
+      "username": "goodside",
+      "text": "I feel like I’m watching Pantheon.",
+      "timestamp": "2026-04-07T21:14:08+00:00",
+      "url": "https://x.com/goodside/status/2041625597412004239",
+      "images": [],
+      "likes": 172,
+      "retweets": 10,
+      "views": 13556
+    },
+    {
+      "id": "2041622039648231704",
+      "username": "googledevs",
+      "text": "Accelerate ML workflows using @NVIDIA CUDA-X libraries on @GoogleCloud with a single extension-loading command. ✨\n\nLearn more in a new pathway through the #GoogleDeveloperProgram → https://t.co/BYAUPx442l https://t.co/SxGqA03U1l",
+      "timestamp": "2026-04-07T21:00:00+00:00",
+      "url": "https://x.com/googledevs/status/2041622039648231704",
+      "images": [
+        "https://pbs.twimg.com/media/HFUwFkdWMAA-Blq.png"
+      ],
+      "likes": 58,
+      "retweets": 8,
+      "views": 3539
+    },
+    {
+      "id": "2041621231561310263",
+      "username": "mustafasuleyman",
+      "text": "If building humanist AI with unlimited tokens sounds up your alley, we're hiring at MAI. All the benefits of startup speed + agility w/the resources of one of the world's leading tech companies. If you want to work with a small, brilliant, low-ego team - get in touch.",
+      "timestamp": "2026-04-07T20:56:47+00:00",
+      "url": "https://x.com/mustafasuleyman/status/2041621231561310263",
+      "images": [],
+      "likes": 59,
+      "retweets": 6,
+      "views": 9934
+    },
+    {
+      "id": "2041619635468935625",
+      "username": "EMostaque",
+      "text": "Frontier models will one shot just about anything few years\n\nIntelligence is compression\n\nJevons law is more of a suggestion https://t.co/hUNI1fD6Fl",
+      "timestamp": "2026-04-07T20:50:27+00:00",
+      "url": "https://x.com/EMostaque/status/2041619635468935625",
+      "images": [
+        "https://pbs.twimg.com/media/HFVKO6VXEAAksjP.jpg"
+      ],
+      "likes": 137,
+      "retweets": 12,
+      "views": 8538
+    },
+    {
+      "id": "2041619613239136707",
+      "username": "Austen",
+      "text": "Holy smokes.\n\nClaude Mythos is, apparently, absolutely insane.\n\nI can't even wrap my head around this. https://t.co/MiscHRauUo",
+      "timestamp": "2026-04-07T20:50:21+00:00",
+      "url": "https://x.com/Austen/status/2041619613239136707",
+      "images": [
+        "https://pbs.twimg.com/media/HFVKI24XoAAMVxm.jpg"
+      ],
+      "likes": 173,
+      "retweets": 8,
+      "views": 13546
+    },
+    {
+      "id": "2041618671236469200",
+      "username": "OpenAINewsroom",
+      "text": "Sam Altman on why this moment reminds him of early 2020. \n\nFull conversation at https://t.co/AwbMyUjXSG https://t.co/n6bKQevVqD",
+      "timestamp": "2026-04-07T20:46:37+00:00",
+      "url": "https://x.com/OpenAINewsroom/status/2041618671236469200",
+      "images": [],
+      "likes": 489,
+      "retweets": 30,
+      "views": 41835
+    },
+    {
+      "id": "2041613521801392380",
+      "username": "a16z",
+      "text": ".@pmarca and @bhorowitz helped Adam Neumann find his CTO for Flow:\n\n“Flow spends more money on technology than anything else—not on real estate.”\n\n“We got to four final candidates, and I chose my pick. Then I introduced all four to Ben.”\n\n“Ben calls me: ‘Hey Adam, I finished my https://t.co/90wSJ053J8",
+      "timestamp": "2026-04-07T20:26:09+00:00",
+      "url": "https://x.com/a16z/status/2041613521801392380",
+      "images": [],
+      "likes": 153,
+      "retweets": 9,
+      "views": 25544
+    },
+    {
+      "id": "2041610997450883304",
+      "username": "DeryaTR_",
+      "text": "Claude Mythos Preview seems an incredible step up in coding benchmarks! They won’t release this for some time, likely because it’s very expensive &amp; also due to concerns about cybersecurity, which is a legitimate concern. I wonder what will happen to cybersecurity companies now?",
+      "timestamp": "2026-04-07T20:16:07+00:00",
+      "url": "https://x.com/DeryaTR_/status/2041610997450883304",
+      "images": [],
+      "likes": 67,
+      "retweets": 5,
+      "views": 8415
+    },
+    {
+      "id": "2041610283152797818",
+      "username": "ollama",
+      "text": "We are hosting Ollama's MLX meetup this Thursday night (April 9th) at Ollama's office in Palo Alto at 6pm. \n\nCome meet amazing people! \n\nRSVP is required as space is very limited. \n\nFood &amp; drinks will be available. \n\nMore details: \nhttps://t.co/R0xq8K7b4J https://t.co/RyYuyCDarO",
+      "timestamp": "2026-04-07T20:13:17+00:00",
+      "url": "https://x.com/ollama/status/2041610283152797818",
+      "images": [
+        "https://pbs.twimg.com/media/HFVAcYVa8AANrLi.png"
+      ],
+      "likes": 72,
+      "retweets": 11,
+      "views": 5569
+    },
+    {
+      "id": "2041610217629303218",
+      "username": "sleepinyourhat",
+      "text": "Mythos Preview is, in many ways, a scary model, but it's also pretty well-adjusted as frontier models go.\n\nI'm excited about much new research we have feeding into the welfare assessment for this model:",
+      "timestamp": "2026-04-07T20:13:01+00:00",
+      "url": "https://x.com/sleepinyourhat/status/2041610217629303218",
+      "images": [],
+      "likes": 107,
+      "retweets": 0,
+      "views": 6102
+    },
+    {
+      "id": "2041607066947858534",
+      "username": "Miles_Brundage",
+      "text": "Probably nothing, maybe they got the y axis wrong or something. Carry on https://t.co/jVtnzAOFIB",
+      "timestamp": "2026-04-07T20:00:30+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2041607066947858534",
+      "images": [],
+      "likes": 29,
+      "retweets": 1,
+      "views": 2700
+    },
+    {
+      "id": "2041605852382351666",
+      "username": "bcherny",
+      "text": "Mythos is very powerful, and should feel terrifying. I am proud of our approach to responsibly preview it with cyber defenders, rather than generally releasing it into the wild.\n\nModel card here: https://t.co/HjhknJcRKQ",
+      "timestamp": "2026-04-07T19:55:41+00:00",
+      "url": "https://x.com/bcherny/status/2041605852382351666",
+      "images": [],
+      "likes": 4742,
+      "retweets": 282,
+      "views": 379536
+    },
+    {
+      "id": "2041604465669619993",
+      "username": "NVIDIARobotics",
+      "text": "What is Isaac Automator? 🤔\n\nTune in for this week’s Robotics Office Hours with @raffaello86, Mikhail Yurasov, and special guest Kimate Richards as they break down Isaac Lab 3.0, explore Isaac Automator, and share live demos.\n\n🕑 Wednesday, April 8 @ 11 AM PT\n📆 Add to calendar: https://t.co/BWwMFseZPE",
+      "timestamp": "2026-04-07T19:50:10+00:00",
+      "url": "https://x.com/NVIDIARobotics/status/2041604465669619993",
+      "images": [
+        "https://pbs.twimg.com/media/HFU8cB5XEAAblvk.jpg"
+      ],
+      "likes": 13,
+      "retweets": 4,
+      "views": 1280
+    },
+    {
+      "id": "2041599213050450272",
+      "username": "emollick",
+      "text": "SuperClaude (Mythos) still seems irreducibly Claude-y given the transcripts in the system card.\n\nHere two versions of Mythos are forced to talk to each other across multiple rounds. They are less philosophical than Opus 4.6 or spiritual than Opus 4.1, but still very Claude-like. https://t.co/sj39xfjUsZ",
+      "timestamp": "2026-04-07T19:29:18+00:00",
+      "url": "https://x.com/emollick/status/2041599213050450272",
+      "images": [
+        "https://pbs.twimg.com/media/HFU3Q0Na8AEgZ2a.jpg",
+        "https://pbs.twimg.com/media/HFU3RbZWgAA1KGy.png"
+      ],
+      "likes": 251,
+      "retweets": 8,
+      "views": 26520
+    },
+    {
+      "id": "2041595759272100027",
+      "username": "paraga",
+      "text": "Our APIs are unbeatable for Deep Research",
+      "timestamp": "2026-04-07T19:15:34+00:00",
+      "url": "https://x.com/paraga/status/2041595759272100027",
+      "images": [],
+      "likes": 35,
+      "retweets": 4,
+      "views": 10670
+    },
+    {
+      "id": "2041589717674729916",
+      "username": "julien_c",
+      "text": "“gpt2-large is too powerful to be publicly released” vibes",
+      "timestamp": "2026-04-07T18:51:34+00:00",
+      "url": "https://x.com/julien_c/status/2041589717674729916",
+      "images": [],
+      "likes": 1325,
+      "retweets": 43,
+      "views": 66798
+    },
+    {
+      "id": "2041589004626489434",
+      "username": "Miles_Brundage",
+      "text": "\"It's a good model sir\" I say as I get turned into a GPU for finding more open source vulnerabilities",
+      "timestamp": "2026-04-07T18:48:44+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2041589004626489434",
+      "images": [],
+      "likes": 22,
+      "retweets": 0,
+      "views": 813
+    },
+    {
+      "id": "2041588995784597718",
+      "username": "gneubig",
+      "text": "Ooh, nice, I know what I'm playing with tonight 😀",
+      "timestamp": "2026-04-07T18:48:42+00:00",
+      "url": "https://x.com/gneubig/status/2041588995784597718",
+      "images": [],
+      "likes": 35,
+      "retweets": 2,
+      "views": 2344
+    },
+    {
+      "id": "2041587552893780472",
+      "username": "DeryaTR_",
+      "text": "This is crazy! https://t.co/cZGhUuvIpI has caught up with the SOTA models in coding with its GLM-5.1 open-weight model. \n\nThis is a very big deal given that billions of $ are now spent on coding tokens! Congratulations to @Zai_org team, major achievement! https://t.co/bIAMkViClZ",
+      "timestamp": "2026-04-07T18:42:58+00:00",
+      "url": "https://x.com/DeryaTR_/status/2041587552893780472",
+      "images": [
+        "https://pbs.twimg.com/media/HFUtDl_WYAIsZ01.jpg"
+      ],
+      "likes": 59,
+      "retweets": 5,
+      "views": 7457
+    },
+    {
+      "id": "2041583920647696737",
+      "username": "a16z",
+      "text": "Adam Neumann’s new CTO had to pitch @pmarca and @bhorowitz on building Flow’s architecture from scratch—just three weeks into the job:\n\n\"Marc is very strong in architecture. Ben is very strong in use cases and how it’s used.\"\n\n\"After three hours, they said, 'We agree.'\"\n\n\"We go https://t.co/RPyH42nZ4K",
+      "timestamp": "2026-04-07T18:28:32+00:00",
+      "url": "https://x.com/a16z/status/2041583920647696737",
+      "images": [],
+      "likes": 259,
+      "retweets": 15,
+      "views": 63448
+    },
+    {
+      "id": "2041578743769280811",
+      "username": "alexalbert__",
+      "text": "Glasswing is possibly the most consequential event in the AI industry I've seen up close since joining Anthropic almost 3 years ago. It feels like we're at a turning point in history.",
+      "timestamp": "2026-04-07T18:07:57+00:00",
+      "url": "https://x.com/alexalbert__/status/2041578743769280811",
+      "images": [],
+      "likes": 2026,
+      "retweets": 86,
+      "views": 225115
+    },
+    {
+      "id": "2040067244349063326",
+      "username": "demishassabis",
+      "text": "Gemma 4 outperforms models over 10x their size! (note the x-axis is log scale!) https://t.co/an8LPYYBP2",
+      "timestamp": "2026-04-03T14:01:48+00:00",
+      "url": "https://x.com/demishassabis/status/2040067244349063326",
+      "images": [
+        "https://pbs.twimg.com/media/HE_FIxqbIAEBrzs.jpg"
+      ],
+      "likes": 2934,
+      "retweets": 240,
+      "views": 200072
+    },
+    {
+      "id": "2039166255089799222",
+      "username": "gneubig",
+      "text": "To clarify, OpenHands will not be issuing any DMCA takedown notices for those who want to use our agent, which has most of the features of Claude Code.\n\nWe have Tamagotchi on the roadmap, no worries.",
+      "timestamp": "2026-04-01T02:21:35+00:00",
+      "url": "https://x.com/gneubig/status/2039166255089799222",
+      "images": [],
+      "likes": 81,
+      "retweets": 8,
+      "views": 7996
     }
   ]
 }
