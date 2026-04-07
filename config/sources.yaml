@@ -1,82 +1,19 @@
 # AI Frontier Insight Bot - Data Sources Configuration
 
 # ═══════════════════════════════════════════════════
-# Twitter / X (via TwitterAPI.io)
+# Twitter / X (via x-monitor)
 # ═══════════════════════════════════════════════════
+# 实际数据来自 x-monitor 子系统，通过浏览器抓取 X List (~200 账号)
+# 数据存储在 data/x-monitor/{date}.json，由 TwitterCollector 读取
+# 账号来源：mitbunny.ai 数据库，筛选条件：粉丝≥5000，AI 相关角色
+# 覆盖：OpenAI, Google/DeepMind, NVIDIA, Anthropic, Meta, Microsoft,
+#       HuggingFace, 各大高校教授, AI 创业公司创始人, 独立研究者等
 twitter:
   enabled: true
-  api_base: "https://api.twitterapi.io/twitter"
-  max_tweets_per_account: 20
-  accounts:
-    # ── OpenAI Researchers ──
-    - username: "sama"
-      name: "Sam Altman"
-      tier: 1
-      topics: ["openai", "agi", "strategy"]
-    - username: "gabormelis"
-      name: "Gabor Melis"
-      tier: 2
-      topics: ["openai", "research"]
-    - username: "maborhilabel"
-      name: "Mark Chen"
-      tier: 2
-      topics: ["openai", "research"]
-
-    # ── Anthropic Researchers ──
-    - username: "DarioAmodei"
-      name: "Dario Amodei"
-      tier: 1
-      topics: ["anthropic", "safety", "strategy"]
-    - username: "AmandaAskell"
-      name: "Amanda Askell"
-      tier: 2
-      topics: ["anthropic", "alignment"]
-    - username: "jackclarkSF"
-      name: "Jack Clark"
-      tier: 2
-      topics: ["anthropic", "policy"]
-
-    # ── Google DeepMind ──
-    - username: "demishassabis"
-      name: "Demis Hassabis"
-      tier: 1
-      topics: ["deepmind", "research", "agi"]
-    - username: "jeffdean"
-      name: "Jeff Dean"
-      tier: 1
-      topics: ["google", "research", "infrastructure"]
-
-    # ── Independent Researchers ──
-    - username: "karpathy"
-      name: "Andrej Karpathy"
-      tier: 1
-      topics: ["research", "education", "llm"]
-    - username: "ylecun"
-      name: "Yann LeCun"
-      tier: 1
-      topics: ["meta", "research", "agi"]
-    - username: "jimfan_"
-      name: "Jim Fan"
-      tier: 1
-      topics: ["nvidia", "agents", "embodied_ai"]
-    - username: "hardmaru"
-      name: "David Ha"
-      tier: 2
-      topics: ["research", "agents", "world_models"]
-
-    # ── AI Bloggers / Ecosystem Voices ──
-    - username: "swyx"
-      name: "Swyx"
-      tier: 2
-      topics: ["ai_engineering", "ecosystem"]
-    - username: "simonw"
-      name: "Simon Willison"
-      tier: 2
-      topics: ["llm_apps", "tooling", "open_source"]
-    - username: "laborchintel"
-      name: "AI News"
-      tier: 3
-      topics: ["news", "aggregation"]
+  source: "x-monitor"  # 从 data/x-monitor/*.json 读取，非 API 直采
+  list_url: "https://x.com/i/lists/2026486577304842549"
+  max_members: 200
+  sync_source: "https://x.mitbunny.ai"
 
 # ═══════════════════════════════════════════════════
 # GitHub
