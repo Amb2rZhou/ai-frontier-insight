@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-07T12:03:54.630145",
+  "scraped_at": "2026-04-07T15:37:35.058858",
   "date": "2026-04-07",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 85,
-  "account_count": 41,
+  "tweet_count": 91,
+  "account_count": 42,
   "tweets": [
     {
       "id": "2041208395290853694",
@@ -983,6 +983,81 @@
       "likes": 131,
       "retweets": 8,
       "views": 17987
+    },
+    {
+      "id": "2041415396427796603",
+      "username": "PyTorch",
+      "text": "PyTorch Foundation is excited to welcomes Helion as a Foundation-hosted project to standardize open, portable, and accessible AI kernel authoring 🎉\n\nHelion joins the Foundation as AI model development expands from training to an inference boom, elevating the importance of https://t.co/WQKngtCY2m",
+      "timestamp": "2026-04-07T07:18:52+00:00",
+      "url": "https://x.com/PyTorch/status/2041415396427796603",
+      "images": [
+        "https://pbs.twimg.com/media/HFSQegDWkAAOHE9.jpg"
+      ],
+      "likes": 12,
+      "retweets": 3,
+      "views": 667
+    },
+    {
+      "id": "2041413326731677961",
+      "username": "PyTorch",
+      "text": "Kicking off #PyTorchCon Europe with @sparkycollier, Executive Director of @PyTorch Foundation &amp; GM of AI &amp; Infrastructure at @LinuxFoundation! 🎙️ Mark's keynote explores how the open source intelligence stack compounds and what it means for the future of AI infrastructure https://t.co/0FuXd6SaQP",
+      "timestamp": "2026-04-07T07:10:39+00:00",
+      "url": "https://x.com/PyTorch/status/2041413326731677961",
+      "images": [
+        "https://pbs.twimg.com/media/HFSOmC7XEAAiOKF.jpg"
+      ],
+      "likes": 4,
+      "retweets": 1,
+      "views": 864
+    },
+    {
+      "id": "2041410786292080796",
+      "username": "PyTorch",
+      "text": "It’s here! 💥\n\n#PyTorchCon Europe starts TODAY in Paris.\n\nLet’s build, learn, and celebrate the #PyTorch community together.\n\n🎟 Join us:\nhttps://t.co/zFEkkeDp2Y https://t.co/gcr5QAZtyO",
+      "timestamp": "2026-04-07T07:00:33+00:00",
+      "url": "https://x.com/PyTorch/status/2041410786292080796",
+      "images": [],
+      "likes": 3,
+      "retweets": 0,
+      "views": 977
+    },
+    {
+      "id": "2041408406708482408",
+      "username": "ollama",
+      "text": "🦞Ollama's cloud is one of the best places to run OpenClaw.  \n\n$20 plan is enough for most day to day OpenClaw usage with open models!   \n\nTo make the switch, all you need is to open the terminal and type:   \n\nollama launch openclaw  \n\nChoose a model:   \n\nkimi-k2.5:cloud",
+      "timestamp": "2026-04-07T06:51:06+00:00",
+      "url": "https://x.com/ollama/status/2041408406708482408",
+      "images": [],
+      "likes": 101,
+      "retweets": 10,
+      "views": 7001
+    },
+    {
+      "id": "2041399505015259640",
+      "username": "PyTorch",
+      "text": "Welcome to PyTorch Conference Europe 2026 in Paris! Today's program features keynote sessions from leading voices in AI and practical deep dives on training, inference, GenAI, and focused tracks on responsible AI &amp; compliance, security &amp; privacy, frameworks &amp; compilers, and more. https://t.co/JCDgXWC2f1",
+      "timestamp": "2026-04-07T06:15:44+00:00",
+      "url": "https://x.com/PyTorch/status/2041399505015259640",
+      "images": [
+        "https://pbs.twimg.com/media/HFSCBQ9XwAAsXGV.jpg",
+        "https://pbs.twimg.com/media/HFSCCAuXAAAqCnq.jpg"
+      ],
+      "likes": 7,
+      "retweets": 1,
+      "views": 1704
+    },
+    {
+      "id": "2041368281647567183",
+      "username": "sarahookr",
+      "text": "Another crazy round of acceptances today. 🔥\n\nJoin our research staff this Friday as we share more about our goal of building intelligence that continously evolves. \n\nIncredible to see the response and energy 🎉 https://t.co/hAdMkEYNAA",
+      "timestamp": "2026-04-07T04:11:39+00:00",
+      "url": "https://x.com/sarahookr/status/2041368281647567183",
+      "images": [
+        "https://pbs.twimg.com/media/HFRjwwYbYAABX_l.jpg"
+      ],
+      "likes": 45,
+      "retweets": 2,
+      "views": 2372
     }
   ]
 }
