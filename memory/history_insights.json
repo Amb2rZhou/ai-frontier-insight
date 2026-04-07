@@ -1,54 +1,6 @@
 {
   "predictions": [
     {
-      "date": "2026-03-27T09:33:28.909561+08:00",
-      "prediction_text": "内容平台的3D/AR生态与电商的虚拟试穿团队值得关注此类技术，为UGC创作与商品展示提供新工具。",
-      "category": "research_breakthrough",
-      "source_signal": "Meta AI Releases LagerNVS: Latent Geometry for Real-Time Neural View Synthesis"
-    },
-    {
-      "date": "2026-03-27T09:33:28.914490+08:00",
-      "prediction_text": "平台运营与创作者工具团队可以探索引入高级Agent，自动化内容审核、数据分析、素材处理等后台复杂任务。",
-      "category": "research_breakthrough",
-      "source_signal": "Benchmark Shows Performance Leap for Agentic AI in OSWorld"
-    },
-    {
-      "date": "2026-03-27T09:33:28.918703+08:00",
-      "prediction_text": "内容安全与社区治理团队需要提前构建更精细的AI内容溯源、质量评估与分级展示机制。",
-      "category": "industry_risk",
-      "source_signal": "Wikipedia Cracks Down on AI-Generated Article Writing"
-    },
-    {
-      "date": "2026-03-28T09:34:44.298287+08:00",
-      "prediction_text": "内容安全与治理团队必须将前沿模型风险评估纳入核心工作流，提前部署防御性检测与干预机制。",
-      "category": "strategic_move",
-      "source_signal": "Anthropic's Next-Gen Model 'Claude Mythos' Leaked, Poses Cybersecurity Risks"
-    },
-    {
-      "date": "2026-03-28T09:34:44.315689+08:00",
-      "prediction_text": "创作者工具与平台运营团队可以探索构建类似的插件市场，将内部能力封装为可组合的AI工具。",
-      "category": "ecosystem_shift",
-      "source_signal": "OpenAI Codex Launches Plugin Support, Enabling New Workflow Automation"
-    },
-    {
-      "date": "2026-03-28T09:34:44.328297+08:00",
-      "prediction_text": "研发团队在部署轻量化模型时，建议建立更严格的OOD评估基准，警惕性能虚假繁荣。",
-      "category": "research_breakthrough",
-      "source_signal": "Microsoft Research Paper Finds Self-Distillation Can Harm LLM Reasoning"
-    },
-    {
-      "date": "2026-03-28T09:34:44.333557+08:00",
-      "prediction_text": "电商与内容平台的交互设计团队值得关注此方向，探索可自我优化的用户引导与客服Agent。",
-      "category": "research_breakthrough",
-      "source_signal": "Tencent AI Lab Publishes UI-Voyager: A Self-Evolving Mobile GUI Agent"
-    },
-    {
-      "date": "2026-03-28T09:34:44.338582+08:00",
-      "prediction_text": "搜索产品团队可以考虑与终端厂商合作，将垂直领域搜索能力深度植入系统级服务。",
-      "category": "strategic_move",
-      "source_signal": "Perplexity AI Powers Samsung Browser's Browsing Assist Feature"
-    },
-    {
       "date": "2026-03-28T09:34:44.343232+08:00",
       "prediction_text": "平台的企业服务团队可以借鉴此模式，开放核心AI能力供生态伙伴构建垂直场景Agent。",
       "category": "ecosystem_shift",
@@ -599,6 +551,54 @@
       "prediction_text": "战略与产品团队在规划Agent功能时，需要同步评估其社会影响与用户接受度。",
       "category": "ecosystem_shift",
       "source_signal": "VentureBeat Analyzes the Chaos and Reality of AI Agent Adoption"
+    },
+    {
+      "date": "2026-04-07T09:33:35.411699+08:00",
+      "prediction_text": "平台自研大模型需重新评估算力战略，考虑与云厂商的深度绑定或自建异构计算集群。",
+      "category": "infrastructure",
+      "source_signal": "Anthropic Expands Compute Partnership with Google and Broadcom"
+    },
+    {
+      "date": "2026-04-07T09:33:35.426498+08:00",
+      "prediction_text": "内容安全与推荐系统团队值得探索与外部AI安全研究机构合作，共建内容生成与分发的安全护栏。",
+      "category": "strategic_move",
+      "source_signal": "OpenAI Launches Safety Fellowship Program"
+    },
+    {
+      "date": "2026-04-07T09:33:35.450574+08:00",
+      "prediction_text": "移动端产品团队可以考虑集成或自研端侧生成模型，用于实时内容创作辅助或个性化交互。",
+      "category": "strategic_move",
+      "source_signal": "Google Releases Offline-First AI Dictation App Using Gemma"
+    },
+    {
+      "date": "2026-04-07T09:33:35.466958+08:00",
+      "prediction_text": "创作者工具与运营自动化团队可以探索构建理解平台内部规则与工作流的专用Agent。",
+      "category": "ecosystem_shift",
+      "source_signal": "Meta Engineering Details AI for Mapping Tribal Knowledge in Data Pipelines"
+    },
+    {
+      "date": "2026-04-07T09:33:35.485106+08:00",
+      "prediction_text": "战略投资团队值得关注由核心AI人才主导的早期项目，布局下一代交互与内容生成范式。",
+      "category": "ecosystem_shift",
+      "source_signal": "OpenAI Alums Raise $100M Venture Fund 'Zero Shot'"
+    },
+    {
+      "date": "2026-04-07T09:33:35.504417+08:00",
+      "prediction_text": "基础设施团队可以考虑评估或采用类似云服务，快速为内部业务提供定制化模型能力。",
+      "category": "open_source",
+      "source_signal": "Ollama Cloud Launches Subscription for Running Gemma 4"
+    },
+    {
+      "date": "2026-04-07T09:33:35.518249+08:00",
+      "prediction_text": "技术中台与SRE团队可以探索引入类似Agent，自动化处理内容审核、推荐系统等平台的运维问题。",
+      "category": "ecosystem_shift",
+      "source_signal": "VentureBeat: NeuBird AI Launches Falcon and FalconClaw for Autonomous Software Issue Management"
+    },
+    {
+      "date": "2026-04-07T09:33:35.538441+08:00",
+      "prediction_text": "个性化推荐与社交产品团队值得关注此类技术，探索构建高度拟人化的用户陪伴或内容生成体验。",
+      "category": "open_source",
+      "source_signal": "Open-Source Project 'immortal-skill' Enables Digital Immortality from Chat Logs"
     }
   ]
 }

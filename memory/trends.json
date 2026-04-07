@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-06T09:33:27.544609+08:00",
+  "last_updated": "2026-04-07T09:34:17.484748+08:00",
   "trends": [
     {
       "id": "ai_safety_pivot_and_accelerated_agi_time",
@@ -11,9 +11,8 @@
         "Anthropic"
       ],
       "trajectory": "accelerating",
-      "signal_count": 52,
+      "signal_count": 53,
       "weekly_counts": [
-        1,
         1,
         1,
         1,
@@ -24,6 +23,7 @@
         1,
         1,
         0,
+        1,
         1
       ],
       "key_events": [
@@ -202,6 +202,10 @@
         {
           "date": "2026-04-04",
           "event": "Anthropic restricts third-party harnesses, sparking developer backlash"
+        },
+        {
+          "date": "2026-04-07",
+          "event": "OpenAI Launches Safety Fellowship Program"
         }
       ],
       "created": "2026-02-25"
@@ -289,7 +293,7 @@
         "Multimodal AI"
       ],
       "trajectory": "accelerating",
-      "signal_count": 37,
+      "signal_count": 38,
       "weekly_counts": [
         1,
         1,
@@ -298,8 +302,8 @@
         1,
         1,
         1,
-        1,
         2,
+        1,
         1,
         1,
         1
@@ -436,6 +440,10 @@
         {
           "date": "2026-04-05",
           "event": "vLLM v0.19.0 released with full Gemma 4 architecture support"
+        },
+        {
+          "date": "2026-04-07",
+          "event": "Ollama Cloud Launches Subscription for Running Gemma 4"
         }
       ],
       "created": "2026-02-25"
@@ -539,9 +547,8 @@
         "Anthropic"
       ],
       "trajectory": "accelerating",
-      "signal_count": 93,
+      "signal_count": 95,
       "weekly_counts": [
-        2,
         1,
         4,
         1,
@@ -552,7 +559,8 @@
         6,
         5,
         2,
-        1
+        1,
+        2
       ],
       "key_events": [
         {
@@ -738,6 +746,10 @@
         {
           "date": "2026-04-06",
           "event": "Salesforce Proposes GPA for GUI Process Automation from Demonstrations"
+        },
+        {
+          "date": "2026-04-07",
+          "event": "VentureBeat: NeuBird AI Launches Falcon and FalconClaw for Autonomous Software Issue Management"
         }
       ],
       "created": "2026-02-25"
@@ -759,8 +771,8 @@
         0,
         0,
         0,
-        0,
         1,
+        0,
         0,
         0,
         0,
@@ -1002,7 +1014,7 @@
         "xAI"
       ],
       "trajectory": "accelerating",
-      "signal_count": 25,
+      "signal_count": 26,
       "weekly_counts": [
         1,
         1,
@@ -1013,9 +1025,9 @@
         1,
         1,
         1,
-        1,
         2,
-        0
+        0,
+        1
       ],
       "key_events": [
         {
@@ -1113,6 +1125,10 @@
         {
           "date": "2026-04-04",
           "event": "OpenAI executive shuffle: COO Brad Lightcap to lead 'Special Projects'; Anthropic restricts third-party harnesses, sparking developer backlash"
+        },
+        {
+          "date": "2026-04-07",
+          "event": "OpenAI Alums Raise $100M Venture Fund 'Zero Shot'"
         }
       ],
       "created": "2026-02-25"
@@ -1131,6 +1147,7 @@
       "weekly_counts": [
         1,
         1,
+        0,
         0,
         0,
         0
@@ -1207,9 +1224,8 @@
         "Automation"
       ],
       "trajectory": "accelerating",
-      "signal_count": 125,
+      "signal_count": 127,
       "weekly_counts": [
-        1,
         3,
         2,
         1,
@@ -1220,7 +1236,8 @@
         4,
         5,
         3,
-        3
+        3,
+        2
       ],
       "key_events": [
         {
@@ -1422,6 +1439,10 @@
         {
           "date": "2026-04-06",
           "event": "OpenClaw Adds Native Video Generation with Multi-Provider Support"
+        },
+        {
+          "date": "2026-04-07",
+          "event": "Open-Source Project 'immortal-skill' Enables Digital Immortality from Chat Logs"
         }
       ],
       "created": "2026-02-25"
@@ -1503,7 +1524,7 @@
         "Meta"
       ],
       "trajectory": "accelerating",
-      "signal_count": 41,
+      "signal_count": 42,
       "weekly_counts": [
         1,
         1,
@@ -1513,8 +1534,8 @@
         1,
         1,
         1,
-        1,
         2,
+        1,
         1,
         1
       ],
@@ -1666,6 +1687,10 @@
         {
           "date": "2026-04-06",
           "event": "Community Builds Personal Local Coding Agent with Open-Source Stack"
+        },
+        {
+          "date": "2026-04-07",
+          "event": "Anthropic Expands Compute Partnership with Google and Broadcom"
         }
       ],
       "created": "2026-02-25"
@@ -2213,9 +2238,8 @@
         "Startup Funding"
       ],
       "trajectory": "accelerating",
-      "signal_count": 41,
+      "signal_count": 42,
       "weekly_counts": [
-        1,
         1,
         1,
         1,
@@ -2226,7 +2250,8 @@
         1,
         1,
         1,
-        2
+        2,
+        1
       ],
       "key_events": [
         {
@@ -2368,6 +2393,10 @@
         {
           "date": "2026-04-06",
           "event": "Peking University Releases VideoZeroBench for Long-Video QA Evaluation"
+        },
+        {
+          "date": "2026-04-07",
+          "event": "Google Releases Offline-First AI Dictation App Using Gemma"
         }
       ],
       "created": "2026-02-26"
@@ -2616,6 +2645,7 @@
         1,
         0,
         0,
+        0,
         0
       ],
       "key_events": [
@@ -2701,6 +2731,7 @@
         1,
         0,
         0,
+        0,
         0
       ],
       "key_events": [
@@ -2726,6 +2757,7 @@
         1,
         0,
         0,
+        0,
         0
       ],
       "key_events": [
@@ -2749,6 +2781,7 @@
       "signal_count": 1,
       "weekly_counts": [
         1,
+        0,
         0,
         0,
         0
@@ -2801,6 +2834,7 @@
       "signal_count": 1,
       "weekly_counts": [
         1,
+        0,
         0,
         0,
         0
