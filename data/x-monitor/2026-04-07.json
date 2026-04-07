@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-07T05:45:53.062112",
+  "scraped_at": "2026-04-07T09:17:09.764581",
   "date": "2026-04-07",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 58,
-  "account_count": 31,
+  "tweet_count": 72,
+  "account_count": 36,
   "tweets": [
     {
       "id": "2041208395290853694",
@@ -677,6 +677,167 @@
       "likes": 52,
       "retweets": 0,
       "views": 13677
+    },
+    {
+      "id": "2041320111034826788",
+      "username": "PyTorch",
+      "text": "Early bird registration has been extended! 🐦 Register for #KubeCon + #CloudNativeCon + #OpenInfraSummit + #PyTorchCon China by 6 May to save up to ¥1270 / USD$179.\n\nRegister: https://t.co/cChMvGvcei \n\nDon't forget: The CFP is still open through 3 May: https://t.co/PKdf9djzqR https://t.co/U4uqgeIT1M",
+      "timestamp": "2026-04-07T01:00:15+00:00",
+      "url": "https://x.com/PyTorch/status/2041320111034826788",
+      "images": [
+        "https://pbs.twimg.com/media/HFQ5zpcWMAAGIVm.jpg"
+      ],
+      "likes": 1,
+      "retweets": 1,
+      "views": 572
+    },
+    {
+      "id": "2041310893414502595",
+      "username": "fchollet",
+      "text": "One thing about DL researchers that has always been surprising to me, is that a lot of them have never been exposed to forms of learning other than fitting the parameters of a curve via gradient descent, and are even unable to conceive that there might exist other options",
+      "timestamp": "2026-04-07T00:23:37+00:00",
+      "url": "https://x.com/fchollet/status/2041310893414502595",
+      "images": [],
+      "likes": 211,
+      "retweets": 22,
+      "views": 11018
+    },
+    {
+      "id": "2041303457554940336",
+      "username": "NeurIPSConf",
+      "text": "The NeurIPS 2026 submission site opening has been moved to April 15th.\n\nNote that all tracks (Main Submission, Evaluations &amp; Datasets, and Position Papers) share the same dates.\n\nThe final submission deadlines remain unchanged:\n• Paper Abstracts: May 4th (AOE)\n• Full Papers:",
+      "timestamp": "2026-04-06T23:54:04+00:00",
+      "url": "https://x.com/NeurIPSConf/status/2041303457554940336",
+      "images": [],
+      "likes": 50,
+      "retweets": 2,
+      "views": 6311
+    },
+    {
+      "id": "2041293489879523519",
+      "username": "_akhaliq",
+      "text": "gradio.Server\n\nAny Custom Frontend with Gradio's Backend\n\nbuild with your own frontend framework entirely like React, Svelte, or even plain HTML/JS, while still benefiting from Gradio's queuing system, API infrastructure, MCP support, and ZeroGPU on Spaces\n\nblog: https://t.co/EesCcvtnKi",
+      "timestamp": "2026-04-06T23:14:28+00:00",
+      "url": "https://x.com/_akhaliq/status/2041293489879523519",
+      "images": [],
+      "likes": 11,
+      "retweets": 1,
+      "views": 2600
+    },
+    {
+      "id": "2041287485649719653",
+      "username": "saranormous",
+      "text": "what cool ai folks in AI/investing in Singapore?",
+      "timestamp": "2026-04-06T22:50:36+00:00",
+      "url": "https://x.com/saranormous/status/2041287485649719653",
+      "images": [],
+      "likes": 53,
+      "retweets": 0,
+      "views": 11121
+    },
+    {
+      "id": "2041281286212624862",
+      "username": "GaryMarcus",
+      "text": "This ML Prof told me that the hallucination rate for frontier reasoning LLMs is “next to nil”\n\nAnd then gave me data, only after I pushed him, showing a best-case rate of 4.6% (which of course is benchmark specific).\n\n4.6% is not “next to nil”.\n\nImagine if your accountant",
+      "timestamp": "2026-04-06T22:25:58+00:00",
+      "url": "https://x.com/GaryMarcus/status/2041281286212624862",
+      "images": [],
+      "likes": 96,
+      "retweets": 10,
+      "views": 12961
+    },
+    {
+      "id": "2041279713159921854",
+      "username": "GaryMarcus",
+      "text": "Wild: the head of Y Combinator seems pretty blind to the security risks in OpenClaw.",
+      "timestamp": "2026-04-06T22:19:43+00:00",
+      "url": "https://x.com/GaryMarcus/status/2041279713159921854",
+      "images": [],
+      "likes": 32,
+      "retweets": 1,
+      "views": 4191
+    },
+    {
+      "id": "2041276397474533565",
+      "username": "fchollet",
+      "text": "With curve-fitting, you are recording a lossy approximation of the output of some generative program. With symbolic learning, you are losslessly reverse-engineering the source code of the generative program.\n\nSymbolic learning won't be the best fit for all problems, but for the",
+      "timestamp": "2026-04-06T22:06:32+00:00",
+      "url": "https://x.com/fchollet/status/2041276397474533565",
+      "images": [],
+      "likes": 192,
+      "retweets": 19,
+      "views": 13069
+    },
+    {
+      "id": "2041275519535288629",
+      "username": "mitchellh",
+      "text": "We now build binary \"xcframework\" packages for libghostty on every commit for macOS and iOS. They're available via GitHub releases and blob storage. Just drop them into Xcode or in a Package.swift and you're ready to go. No Zig headaches. No build step. https://t.co/klsCueiq8D https://t.co/750Ls5zNBc",
+      "timestamp": "2026-04-06T22:03:03+00:00",
+      "url": "https://x.com/mitchellh/status/2041275519535288629",
+      "images": [
+        "https://pbs.twimg.com/media/HFQQG0XacAAbvvB.jpg",
+        "https://pbs.twimg.com/media/HFQQJBgbkAALIPW.jpg"
+      ],
+      "likes": 96,
+      "retweets": 7,
+      "views": 7877
+    },
+    {
+      "id": "2041273660246528455",
+      "username": "LiamFedus",
+      "text": "Machine self-improvement is already here for AI software engineering systems. The last version is increasingly helping build the next one. \n\nBut this doesn't generalize infinitely. Rolling this improvement loop forward, we should expect incredible software engineering systems,",
+      "timestamp": "2026-04-06T21:55:40+00:00",
+      "url": "https://x.com/LiamFedus/status/2041273660246528455",
+      "images": [],
+      "likes": 64,
+      "retweets": 2,
+      "views": 5451
+    },
+    {
+      "id": "2041271327433355743",
+      "username": "Miles_Brundage",
+      "text": "Who called it an initially closed and later open model and not an open wait model https://t.co/NDKhp5ZsLx",
+      "timestamp": "2026-04-06T21:46:24+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2041271327433355743",
+      "images": [],
+      "likes": 14,
+      "retweets": 1,
+      "views": 1900
+    },
+    {
+      "id": "2041238722914685336",
+      "username": "ollama",
+      "text": "Ollama's cloud is now the best place to run Gemma 4 in the cloud! \n\nAvailable through a subscription for developers and third-party integrations.\n\n🦞OpenClaw \nollama launch openclaw --model gemma4:31b-cloud\n\nClaude Code\nollama launch claude --model gemma4:31b-cloud\n\nRun the model https://t.co/UbbxDE1BQt",
+      "timestamp": "2026-04-06T19:36:50+00:00",
+      "url": "https://x.com/ollama/status/2041238722914685336",
+      "images": [
+        "https://pbs.twimg.com/media/HFPtb8HaAAAvgZO.jpg"
+      ],
+      "likes": 1134,
+      "retweets": 112,
+      "views": 51877
+    },
+    {
+      "id": "2040909067573752250",
+      "username": "Miles_Brundage",
+      "text": "Worried they sloppified my boy [GPT-5.4 Pro] though perhaps just random variation",
+      "timestamp": "2026-04-05T21:46:54+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2040909067573752250",
+      "images": [],
+      "likes": 23,
+      "retweets": 0,
+      "views": 3620
+    },
+    {
+      "id": "2040796061086646454",
+      "username": "osanseviero",
+      "text": "Gemma 4 is now in Android Studio!\n\nYou can use Android Studio Agent mode to develop features, vibe code Android apps, refactor your code, and fix bugs, all locally, and powered by Gemma! https://t.co/cTebjWOn86",
+      "timestamp": "2026-04-05T14:17:51+00:00",
+      "url": "https://x.com/osanseviero/status/2040796061086646454",
+      "images": [],
+      "likes": 431,
+      "retweets": 52,
+      "views": 31411
     }
   ]
 }
