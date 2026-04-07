@@ -219,6 +219,27 @@ def update_trends_from_ai(ai_result: dict):
                 "created": today,
             })
 
+    # Merge trends if suggested by AI
+    for merge in ai_result.get("merge_trends", []):
+        source_id = merge.get("source_id", "")
+        target_id = merge.get("target_id", "")
+        if source_id in trends_by_id and target_id in trends_by_id:
+            source = trends_by_id[source_id]
+            target = trends_by_id[target_id]
+            # Transfer signal count
+            target["signal_count"] = target.get("signal_count", 0) + source.get("signal_count", 0)
+            # Merge tags
+            existing_tags = set(target.get("related_tags", []))
+            existing_tags.update(source.get("related_tags", []))
+            target["related_tags"] = list(existing_tags)[:8]
+            # Merge key events
+            target_events = target.get("key_events", [])
+            target_events.extend(source.get("key_events", []))
+            target["key_events"] = sorted(target_events, key=lambda e: e.get("date", ""))[-10:]
+            # Remove source trend
+            trends = [t for t in trends if t.get("id") != source_id]
+            print(f"  Trend merged: '{source.get('name')}' → '{target.get('name')}' ({merge.get('reason', '')})")
+
     data["trends"] = trends
     save_trends(data)
 
