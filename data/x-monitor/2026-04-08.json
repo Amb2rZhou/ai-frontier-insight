@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-08T09:12:53.334368",
+  "scraped_at": "2026-04-08T14:16:45.983292",
   "date": "2026-04-08",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 80,
-  "account_count": 44,
+  "tweet_count": 88,
+  "account_count": 47,
   "tweets": [
     {
       "id": "2041576063575212379",
@@ -945,6 +945,100 @@
       "likes": 2200,
       "retweets": 163,
       "views": 105363
+    },
+    {
+      "id": "2041758075363664296",
+      "username": "DeryaTR_",
+      "text": "Elon said it takes about 2 months to train the 10-trillion model. So we should expect Grok 5 by around June.",
+      "timestamp": "2026-04-08T06:00:33+00:00",
+      "url": "https://x.com/DeryaTR_/status/2041758075363664296",
+      "images": [],
+      "likes": 6,
+      "retweets": 0,
+      "views": 1011
+    },
+    {
+      "id": "2041733104696750339",
+      "username": "GaryMarcus",
+      "text": "Voice ChatGPT can’t start a timer, but AGI is imminent!\n \n🤦‍♂️ https://t.co/ah5iCdPdes",
+      "timestamp": "2026-04-08T04:21:20+00:00",
+      "url": "https://x.com/GaryMarcus/status/2041733104696750339",
+      "images": [
+        "https://pbs.twimg.com/media/HFWxcFxbsAEdtOz.jpg"
+      ],
+      "likes": 79,
+      "retweets": 8,
+      "views": 3972
+    },
+    {
+      "id": "2041732610179703100",
+      "username": "levie",
+      "text": "Mythos from Anthropic is another clear reminder that there’s absolutely no wall in model capability progress right now. Meaningful double digit gains on critical benchmarks, and it appears we’re going to keep up getting insane gains from the other labs.\n\nAnd as coding and tool https://t.co/0SEPaOUnjM",
+      "timestamp": "2026-04-08T04:19:22+00:00",
+      "url": "https://x.com/levie/status/2041732610179703100",
+      "images": [
+        "https://pbs.twimg.com/media/HFWw_NxXgAA0ULU.jpg"
+      ],
+      "likes": 88,
+      "retweets": 11,
+      "views": 15490
+    },
+    {
+      "id": "2041719008953606148",
+      "username": "steipete",
+      "text": "Trending on Hacker News rn. https://t.co/MVfZFD2IHI",
+      "timestamp": "2026-04-08T03:25:19+00:00",
+      "url": "https://x.com/steipete/status/2041719008953606148",
+      "images": [],
+      "likes": 124,
+      "retweets": 5,
+      "views": 16003
+    },
+    {
+      "id": "2041716727998796021",
+      "username": "steipete",
+      "text": "Managing open source is way harder than managing [paid] closed source projects.\n\nAt work, you have authority.\nWith OSS you have GitHub Issues.",
+      "timestamp": "2026-04-08T03:16:15+00:00",
+      "url": "https://x.com/steipete/status/2041716727998796021",
+      "images": [],
+      "likes": 334,
+      "retweets": 12,
+      "views": 23667
+    },
+    {
+      "id": "2041692515401891959",
+      "username": "mathemagic1an",
+      "text": "AWS S3 Files\n\nAllows you to expose a filesystem interface on top of assets stored in S3\n\nBig deal for companies that already store massive amounts of data in S3 and want to expose a virtual filesystem to their agents https://t.co/UtvBVoL9Il",
+      "timestamp": "2026-04-08T01:40:03+00:00",
+      "url": "https://x.com/mathemagic1an/status/2041692515401891959",
+      "images": [
+        "https://pbs.twimg.com/media/HFWME5XbEAAC-uV.jpg"
+      ],
+      "likes": 3,
+      "retweets": 0,
+      "views": 1178
+    },
+    {
+      "id": "2041688906903527650",
+      "username": "Austen",
+      "text": "Just watched a guy who was seemingly very high on drugs defend himself vigorously from a self-driving delivery robot he thought was attacking him",
+      "timestamp": "2026-04-08T01:25:42+00:00",
+      "url": "https://x.com/Austen/status/2041688906903527650",
+      "images": [],
+      "likes": 44,
+      "retweets": 0,
+      "views": 5712
+    },
+    {
+      "id": "2039360927653614004",
+      "username": "DrJimFan",
+      "text": "Please check out lead author @letian_fu's deep dive thread!\n\nhttps://t.co/EGftW7kMDU",
+      "timestamp": "2026-04-01T15:15:09+00:00",
+      "url": "https://x.com/DrJimFan/status/2039360927653614004",
+      "images": [],
+      "likes": 31,
+      "retweets": 1,
+      "views": 15049
     }
   ]
 }
