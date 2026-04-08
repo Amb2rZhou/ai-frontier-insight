@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-08T14:16:45.983292",
+  "scraped_at": "2026-04-08T18:21:06.633534",
   "date": "2026-04-08",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 88,
-  "account_count": 47,
+  "tweet_count": 103,
+  "account_count": 49,
   "tweets": [
     {
       "id": "2041576063575212379",
@@ -1039,6 +1039,200 @@
       "likes": 31,
       "retweets": 1,
       "views": 15049
+    },
+    {
+      "id": "2041821253980320223",
+      "username": "osanseviero",
+      "text": "See you tomorrow for a River Thames AI Run! 🏃",
+      "timestamp": "2026-04-08T10:11:36+00:00",
+      "url": "https://x.com/osanseviero/status/2041821253980320223",
+      "images": [],
+      "likes": 2,
+      "retweets": 0,
+      "views": 239
+    },
+    {
+      "id": "2041818251848716518",
+      "username": "__tinygrad__",
+      "text": "Humans are 100T models with 1T active parameters that run at 10 tok/s. They train on only 10B tokens.",
+      "timestamp": "2026-04-08T09:59:41+00:00",
+      "url": "https://x.com/__tinygrad__/status/2041818251848716518",
+      "images": [],
+      "likes": 48,
+      "retweets": 2,
+      "views": 1124
+    },
+    {
+      "id": "2041808858193039662",
+      "username": "mervenoyann",
+      "text": "if you aren't using @huggingface MCP/Skills in your setup you're missing out\n\ncome to my talk at @aiDotEngineer London tomorrow, let's fix this\nhere's a sneak peek 🙌🏻 https://t.co/gr0CD1NjeU",
+      "timestamp": "2026-04-08T09:22:21+00:00",
+      "url": "https://x.com/mervenoyann/status/2041808858193039662",
+      "images": [
+        "https://pbs.twimg.com/media/HFX2IgAXAAAJ78q.jpg",
+        "https://pbs.twimg.com/media/HFX2IgBXUAAyKzM.jpg",
+        "https://pbs.twimg.com/media/HFX2IgCWcAAqMBY.jpg"
+      ],
+      "likes": 14,
+      "retweets": 2,
+      "views": 714
+    },
+    {
+      "id": "2041788204471251007",
+      "username": "PyTorch",
+      "text": "Normalization methods (LayerNorm/RMSNorm) are foundational in modern deep learning models. We evaluate and improve torch.compile performance for LayerNorm/RMSNorm on NVIDIA H100 and B200 to reach near SOTA performance on a kernel-by-kernel basis, whilst providing automatic fusion https://t.co/HQy4mXjIb5",
+      "timestamp": "2026-04-08T08:00:17+00:00",
+      "url": "https://x.com/PyTorch/status/2041788204471251007",
+      "images": [
+        "https://pbs.twimg.com/media/HFXjiPXXoAAFxXT.jpg"
+      ],
+      "likes": 31,
+      "retweets": 1,
+      "views": 3223
+    },
+    {
+      "id": "2041788032529891595",
+      "username": "PyTorch",
+      "text": "By optimizing for token efficiency and memory footprints, we unlock a new class of applications that are faster, private, and more accessible. During #PyTorchCon EU keynote, Léonard Hussenot, Research Scientist at @GoogleDeepMind explores the philosophy and engineering behind https://t.co/H5Y8Acc5CP",
+      "timestamp": "2026-04-08T07:59:36+00:00",
+      "url": "https://x.com/PyTorch/status/2041788032529891595",
+      "images": [
+        "https://pbs.twimg.com/media/HFXjD2dWcAAeE8q.jpg"
+      ],
+      "likes": 6,
+      "retweets": 0,
+      "views": 1862
+    },
+    {
+      "id": "2041785748135739493",
+      "username": "PyTorch",
+      "text": "As AI moves from frontier labs into mainstream production, the operational challenges start to look increasingly cloud native: orchestration, autoscaling, routing, security, policy, and observability. @jbryce, Executive Director, Cloud and Infrastructure, @linuxfoundation https://t.co/xbcZoaKkGm",
+      "timestamp": "2026-04-08T07:50:31+00:00",
+      "url": "https://x.com/PyTorch/status/2041785748135739493",
+      "images": [
+        "https://pbs.twimg.com/media/HFXg27fWIAAbNHm.jpg"
+      ],
+      "likes": 5,
+      "retweets": 1,
+      "views": 1913
+    },
+    {
+      "id": "2041783809528516783",
+      "username": "PyTorch",
+      "text": "Lysandre Debut, Chief Open-Source Officer, @huggingface speaks about The Hub as Infrastructure: From Open PyTorch Models, to a Safe and Performant Distribution Hub at #PyTorchCon Europe https://t.co/iAAkwHg0WG",
+      "timestamp": "2026-04-08T07:42:49+00:00",
+      "url": "https://x.com/PyTorch/status/2041783809528516783",
+      "images": [
+        "https://pbs.twimg.com/media/HFXfjEbXoAAINpt.jpg"
+      ],
+      "likes": 8,
+      "retweets": 1,
+      "views": 1931
+    },
+    {
+      "id": "2041782176727855541",
+      "username": "PyTorch",
+      "text": "At #PyTorchCon EU Artur Niederfahrenhorst, Member of Technical Staff at @anyscalecompute presents the latest updates on @raydistributed https://t.co/ijxtiel9Qw",
+      "timestamp": "2026-04-08T07:36:20+00:00",
+      "url": "https://x.com/PyTorch/status/2041782176727855541",
+      "images": [
+        "https://pbs.twimg.com/media/HFXd28jbcAAF3oP.jpg"
+      ],
+      "likes": 4,
+      "retweets": 0,
+      "views": 1873
+    },
+    {
+      "id": "2041780072361714092",
+      "username": "PyTorch",
+      "text": "At #PyTorchCon Europe, @tms_jr Chief Architect - Inference Engineering at @RedHat presents the latest updates on @vllm_project https://t.co/6ArfMfNI0Q",
+      "timestamp": "2026-04-08T07:27:58+00:00",
+      "url": "https://x.com/PyTorch/status/2041780072361714092",
+      "images": [
+        "https://pbs.twimg.com/media/HFXbt9tXEAAArbC.jpg"
+      ],
+      "likes": 13,
+      "retweets": 1,
+      "views": 2301
+    },
+    {
+      "id": "2041778017370845361",
+      "username": "PyTorch",
+      "text": "PyTorch Foundation Announces Safetensors as Newest Contributed Project to Secure AI Model Execution 👏\n\nAs AI model development accelerates, security risks in the production pipeline inherently increase, necessitating secure, high-performance formats that can keep pace with https://t.co/bpDPSvqYM6",
+      "timestamp": "2026-04-08T07:19:48+00:00",
+      "url": "https://x.com/PyTorch/status/2041778017370845361",
+      "images": [
+        "https://pbs.twimg.com/media/HFXaQcAWEAANG6k.jpg"
+      ],
+      "likes": 9,
+      "retweets": 0,
+      "views": 2040
+    },
+    {
+      "id": "2041776677349396515",
+      "username": "PyTorch",
+      "text": "Kicking off our day at #PyTorchCon Europe 2026 @matthew_d_white, Global CTO of AI and CTO at PyTorch Foundation provides an update on technical strategy, ecosystem and projects and working groups. https://t.co/JTYgpIu5aY",
+      "timestamp": "2026-04-08T07:14:28+00:00",
+      "url": "https://x.com/PyTorch/status/2041776677349396515",
+      "images": [
+        "https://pbs.twimg.com/media/HFXZD6SW0AAYcNS.jpg"
+      ],
+      "likes": 9,
+      "retweets": 2,
+      "views": 1991
+    },
+    {
+      "id": "2041773098324603208",
+      "username": "PyTorch",
+      "text": "Big update to #Monarch, our distributed programming framework for #PyTorch! Since its launch at the #PyTorchCon NA in October, the team has shipped Kubernetes support, RDMA on AWS EFA and AMD ROCm, distributed SQL-based telemetry, a terminal UI, and dashboards for live job https://t.co/xf3Di3OKhs",
+      "timestamp": "2026-04-08T07:00:15+00:00",
+      "url": "https://x.com/PyTorch/status/2041773098324603208",
+      "images": [
+        "https://pbs.twimg.com/media/HFXVy9DXsAArpX0.jpg"
+      ],
+      "likes": 14,
+      "retweets": 0,
+      "views": 2541
+    },
+    {
+      "id": "2041772858368471475",
+      "username": "PyTorch",
+      "text": "Bienvenue! We're ready for Day 2 of PyTorch Conference Europe #PyTorchCon https://t.co/RFTWPlSmFm",
+      "timestamp": "2026-04-08T06:59:18+00:00",
+      "url": "https://x.com/PyTorch/status/2041772858368471475",
+      "images": [
+        "https://pbs.twimg.com/media/HFXVlfcWQAAKDpS.jpg",
+        "https://pbs.twimg.com/media/HFXVl_WXAAAyyDI.jpg"
+      ],
+      "likes": 8,
+      "retweets": 1,
+      "views": 2349
+    },
+    {
+      "id": "2041708052425195997",
+      "username": "Miles_Brundage",
+      "text": "Claude-Mythos-LaTeX-Editor-Don't-Exfiltrate-FInal-v3 is sending coded messages https://t.co/mE2Ef7DkLa",
+      "timestamp": "2026-04-08T02:41:47+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2041708052425195997",
+      "images": [
+        "https://pbs.twimg.com/media/HFWak4ma8AIM0uR.png"
+      ],
+      "likes": 43,
+      "retweets": 0,
+      "views": 2327
+    },
+    {
+      "id": "2041694937293713881",
+      "username": "__tinygrad__",
+      "text": "Anthropic's marketing strategy. It's amazing, it's so powerful, it's terrifying... https://t.co/eTlkDpKJZP",
+      "timestamp": "2026-04-08T01:49:40+00:00",
+      "url": "https://x.com/__tinygrad__/status/2041694937293713881",
+      "images": [
+        "https://pbs.twimg.com/media/HFWOjTLa4AAJVH0.png"
+      ],
+      "likes": 1051,
+      "retweets": 78,
+      "views": 34851
     }
   ]
 }
