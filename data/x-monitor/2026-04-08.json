@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-08T20:53:09.308065",
+  "scraped_at": "2026-04-08T23:27:06.019464",
   "date": "2026-04-08",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 108,
-  "account_count": 49,
+  "tweet_count": 132,
+  "account_count": 50,
   "tweets": [
     {
       "id": "2041576063575212379",
@@ -1288,6 +1288,291 @@
       "likes": 150,
       "retweets": 3,
       "views": 18459
+    },
+    {
+      "id": "2041899906949115948",
+      "username": "GaryMarcus",
+      "text": "🤯 AI doesn’t need to be AGI to cause harm!  🤯\n\nChatGPT can’t reliably run a timer but it has still been implicated in delusions, suicides, cognitive surrender, mass disinformation, and so much more. A system doesn’t have to be AGI to carry risks.\n\nMythos probably isn’t AGI",
+      "timestamp": "2026-04-08T15:24:09+00:00",
+      "url": "https://x.com/GaryMarcus/status/2041899906949115948",
+      "images": [],
+      "likes": 3,
+      "retweets": 0,
+      "views": 85
+    },
+    {
+      "id": "2041899470556951037",
+      "username": "a16z",
+      "text": "Box CEO Aaron Levie on the AI Adoption Gap\n\nAaron Levie joins Steven Sinofsky, Martin Casado, and Erik Torenberg to discuss how AI agents will revolutionize work, the growing pains of building software for the agent economy, what Wall Street gets wrong about AI, and more.\n\n00:00 https://t.co/Wc9FakYf9K",
+      "timestamp": "2026-04-08T15:22:25+00:00",
+      "url": "https://x.com/a16z/status/2041899470556951037",
+      "images": [],
+      "likes": 4,
+      "retweets": 0,
+      "views": 678
+    },
+    {
+      "id": "2041899064002814315",
+      "username": "minchoi",
+      "text": "X just dropped new Photo Editor in post composer\n\nPowered with Grok https://t.co/XPVXQTWLVg",
+      "timestamp": "2026-04-08T15:20:48+00:00",
+      "url": "https://x.com/minchoi/status/2041899064002814315",
+      "images": [],
+      "likes": 3,
+      "retweets": 0,
+      "views": 466
+    },
+    {
+      "id": "2041898691578015779",
+      "username": "omarsar0",
+      "text": "Nice paper from Google on automated AI research paper writing.",
+      "timestamp": "2026-04-08T15:19:19+00:00",
+      "url": "https://x.com/omarsar0/status/2041898691578015779",
+      "images": [],
+      "likes": 4,
+      "retweets": 0,
+      "views": 430
+    },
+    {
+      "id": "2041898021365940696",
+      "username": "PyTorch",
+      "text": "And that’s a wrap. Thanks for an amazing first-ever #PyTorchCon Europe 2026! https://t.co/pRmqjLTGzn",
+      "timestamp": "2026-04-08T15:16:39+00:00",
+      "url": "https://x.com/PyTorch/status/2041898021365940696",
+      "images": [
+        "https://pbs.twimg.com/media/HFZHYxvWAAALgNy.jpg",
+        "https://pbs.twimg.com/media/HFZHZHxXAAAmjqE.jpg",
+        "https://pbs.twimg.com/media/HFZHbFbXUAAivTF.jpg",
+        "https://pbs.twimg.com/media/HFZHbchWAAABLT3.jpg"
+      ],
+      "likes": 4,
+      "retweets": 1,
+      "views": 416
+    },
+    {
+      "id": "2041895640826044564",
+      "username": "GaryMarcus",
+      "text": "The scariest part of this is that Anthropic showed some restraint in not releasing a potentially dangerous technology but some of their competitors (such as OpenAI and xAI) might well  not. \n\nWhether Mythos is as scary as it sounds or not, the reality is that without government",
+      "timestamp": "2026-04-08T15:07:12+00:00",
+      "url": "https://x.com/GaryMarcus/status/2041895640826044564",
+      "images": [],
+      "likes": 23,
+      "retweets": 5,
+      "views": 2291
+    },
+    {
+      "id": "2041895515819012598",
+      "username": "mustafasuleyman",
+      "text": "We're not hitting an AI ceiling. Here's why the AI scaling skeptics are wrong.\n\nExponentials help us understand everything that's going on in AI. For thousands of years, we lived in a linear world. Two apple trees produced about twice as many as one did. Walking half as far took https://t.co/zGhVT8aGtn",
+      "timestamp": "2026-04-08T15:06:42+00:00",
+      "url": "https://x.com/mustafasuleyman/status/2041895515819012598",
+      "images": [
+        "https://pbs.twimg.com/media/HFZFJmUa8AAs5gJ.jpg"
+      ],
+      "likes": 34,
+      "retweets": 6,
+      "views": 1931
+    },
+    {
+      "id": "2041895446566601018",
+      "username": "osanseviero",
+      "text": "See you on Friday for the Gemma 4 Runtime in London! \n\nhttps://t.co/Z6VnoRnR3K https://t.co/PAcH92qNOV",
+      "timestamp": "2026-04-08T15:06:25+00:00",
+      "url": "https://x.com/osanseviero/status/2041895446566601018",
+      "images": [
+        "https://pbs.twimg.com/media/HFZE5NGWUAA3wkF.jpg"
+      ],
+      "likes": 13,
+      "retweets": 3,
+      "views": 533
+    },
+    {
+      "id": "2041895109252542730",
+      "username": "omarsar0",
+      "text": "NEW paper: Memory Intelligence Agent (MIA)\n\nMIA boosts GPT-5.4 by up to 9% on LiveVQA.\n\nQuick summary:\n\nMost memory-augmented agents treat memory as a static retrieval problem.\n\nThey store trajectories, retrieve similar ones, and hope for the best.\n\nBut memory that doesn't evolve https://t.co/QsiCA5m6Wp",
+      "timestamp": "2026-04-08T15:05:05+00:00",
+      "url": "https://x.com/omarsar0/status/2041895109252542730",
+      "images": [
+        "https://pbs.twimg.com/media/HFZEx8iakAAzD1S.jpg"
+      ],
+      "likes": 12,
+      "retweets": 1,
+      "views": 1265
+    },
+    {
+      "id": "2041894029390999581",
+      "username": "PyTorch",
+      "text": "⏰ ICYMI — #PyTorchCon North America 2026 CFP is open! Got a session or poster idea? Submit for Oct 20–21 in San Jose. We're looking for work on training, inference, kernel engineering, responsible AI &amp; more.\n\n👉 Submit a session by June 7: https://t.co/hLlKK7WxLD\n⚡Submit a https://t.co/oFOeoM1AID",
+      "timestamp": "2026-04-08T15:00:47+00:00",
+      "url": "https://x.com/PyTorch/status/2041894029390999581",
+      "images": [
+        "https://pbs.twimg.com/media/HFZDyDKWYAAtBhq.jpg"
+      ],
+      "likes": 2,
+      "retweets": 2,
+      "views": 781
+    },
+    {
+      "id": "2041893652234924237",
+      "username": "emollick",
+      "text": "Curious how many large organization CISO offices have taken the Mythos red team reports as the red alert that it is. (I suspect very few)\n\nBased on historical trends in AI they have, at most, about six to nine months until those capabilities become widely diffused to bad actors.",
+      "timestamp": "2026-04-08T14:59:17+00:00",
+      "url": "https://x.com/emollick/status/2041893652234924237",
+      "images": [],
+      "likes": 84,
+      "retweets": 5,
+      "views": 4987
+    },
+    {
+      "id": "2041892443105157276",
+      "username": "gneubig",
+      "text": "In this new work, we create 10,000 training/eval environments from 200 unique software packages, spanning tasks from every major sector of the economy.\n\nFully open source, and ready to scale to even more 😃",
+      "timestamp": "2026-04-08T14:54:29+00:00",
+      "url": "https://x.com/gneubig/status/2041892443105157276",
+      "images": [],
+      "likes": 19,
+      "retweets": 1,
+      "views": 1523
+    },
+    {
+      "id": "2041891375063400774",
+      "username": "ClementDelangue",
+      "text": "Cool thing is that you might be safer in jail with local AI than anywhere else!",
+      "timestamp": "2026-04-08T14:50:14+00:00",
+      "url": "https://x.com/ClementDelangue/status/2041891375063400774",
+      "images": [],
+      "likes": 20,
+      "retweets": 0,
+      "views": 2001
+    },
+    {
+      "id": "2041888538598252958",
+      "username": "EMostaque",
+      "text": "Did Mythos leak Claude Code",
+      "timestamp": "2026-04-08T14:38:58+00:00",
+      "url": "https://x.com/EMostaque/status/2041888538598252958",
+      "images": [],
+      "likes": 5,
+      "retweets": 1,
+      "views": 3307
+    },
+    {
+      "id": "2041888145587773655",
+      "username": "julien_c",
+      "text": "We are giving away Safetensors to the @pytorch foundation (shepherded by the Linux Foundation)\n\nOur shared goal is to make the default serialization format for torch safe and performant. To unlock this, governance needs to be independent of @huggingface.\n\nLooking forward to more https://t.co/otflk4kZkt",
+      "timestamp": "2026-04-08T14:37:25+00:00",
+      "url": "https://x.com/julien_c/status/2041888145587773655",
+      "images": [
+        "https://pbs.twimg.com/media/HFY-Ul1a8AE25_f.jpg"
+      ],
+      "likes": 75,
+      "retweets": 7,
+      "views": 2508
+    },
+    {
+      "id": "2041887455646040289",
+      "username": "GaryMarcus",
+      "text": "To anyone who read Rebooting AI back in (checks notes) 2019, this is both hilarious and unsuprising.\n\nThe field has wasted 7 years on an architecture that can’t solve one of the most basic litmus tests Davis and I discussed then: temporal reasoning.",
+      "timestamp": "2026-04-08T14:34:40+00:00",
+      "url": "https://x.com/GaryMarcus/status/2041887455646040289",
+      "images": [],
+      "likes": 76,
+      "retweets": 7,
+      "views": 4780
+    },
+    {
+      "id": "2041887092402171932",
+      "username": "ClementDelangue",
+      "text": "Glad to see that Mytos is putting back cybersecurity in the spotlight. Our main contribution to the topic has been the creation of Safetensors by @narsilou @huggingface in collaboration with @AiEleuther @StabilityAI.\n\nIt has become the most popular way to share models safely and https://t.co/ind7o6R6i6",
+      "timestamp": "2026-04-08T14:33:13+00:00",
+      "url": "https://x.com/ClementDelangue/status/2041887092402171932",
+      "images": [
+        "https://pbs.twimg.com/media/HFY9SyHXwAEZ8wR.jpg"
+      ],
+      "likes": 31,
+      "retweets": 5,
+      "views": 3504
+    },
+    {
+      "id": "2041886075896131784",
+      "username": "GaryMarcus",
+      "text": "“Social media algs reward engagement, and LLMs are excellent at writing in different styles, so people use LLMs to translate posts and news stories into [exaggerated, misleading] versions that get more engagement”\n\nI see a ton of that here. \n\nnot good.",
+      "timestamp": "2026-04-08T14:29:11+00:00",
+      "url": "https://x.com/GaryMarcus/status/2041886075896131784",
+      "images": [],
+      "likes": 25,
+      "retweets": 2,
+      "views": 2305
+    },
+    {
+      "id": "2041885312113086501",
+      "username": "PyTorch",
+      "text": "PyTorch Ambassadors are making a big difference, spanning 21 countries and 5 continents. During the #PyTorchCon Europe 2026 Ambassador Meetup, ambassadors met with PyTorch Foundation leadership to share experiences https://t.co/KMFyvpRcKK",
+      "timestamp": "2026-04-08T14:26:09+00:00",
+      "url": "https://x.com/PyTorch/status/2041885312113086501",
+      "images": [
+        "https://pbs.twimg.com/media/HFY7u60XAAAPV8E.jpg"
+      ],
+      "likes": 8,
+      "retweets": 2,
+      "views": 1606
+    },
+    {
+      "id": "2041884982507913643",
+      "username": "ClementDelangue",
+      "text": "Anthropic had the most powerful cyber-security model in the history of this world and their internal code based still leaked? \n\nWe should assume everyone can be compromised, and build systems that keep the cost of attacking higher than the reward, limit blast radius when attacks",
+      "timestamp": "2026-04-08T14:24:50+00:00",
+      "url": "https://x.com/ClementDelangue/status/2041884982507913643",
+      "images": [],
+      "likes": 151,
+      "retweets": 17,
+      "views": 8506
+    },
+    {
+      "id": "2041876932401283396",
+      "username": "mervenoyann",
+      "text": "what are some AI Engineer London related events today, tomorrow, weekend? 👀",
+      "timestamp": "2026-04-08T13:52:51+00:00",
+      "url": "https://x.com/mervenoyann/status/2041876932401283396",
+      "images": [],
+      "likes": 10,
+      "retweets": 3,
+      "views": 1561
+    },
+    {
+      "id": "2041871541080924477",
+      "username": "Alibaba_Qwen",
+      "text": "🏆 Qwen3.6-Plus just swept OpenRouter’s Daily, Weekly &amp; Trending charts!\nThe trial has wrapped. The model is fully live &amp; production-ready.\n📉 Lower latency | 🔥 Top-tier reasoning | 💰 Unmatched $/token value\nKeep shipping. Integrate now 👇\n🔗 Model https://t.co/WbfUqbUntL",
+      "timestamp": "2026-04-08T13:31:26+00:00",
+      "url": "https://x.com/Alibaba_Qwen/status/2041871541080924477",
+      "images": [
+        "https://pbs.twimg.com/media/HFYvVZwa8AI82FJ.jpg"
+      ],
+      "likes": 289,
+      "retweets": 20,
+      "views": 12023
+    },
+    {
+      "id": "2041864401808949664",
+      "username": "DeryaTR_",
+      "text": "Yes. This is why I keep claiming that every disease will be treated within a decade and that soon after, aging will be reversed. This is not science fiction anymore. The enormous impact of AI on health and medicine will become apparent in a few years.",
+      "timestamp": "2026-04-08T13:03:04+00:00",
+      "url": "https://x.com/DeryaTR_/status/2041864401808949664",
+      "images": [],
+      "likes": 100,
+      "retweets": 12,
+      "views": 7791
+    },
+    {
+      "id": "2041863636176539661",
+      "username": "googledevs",
+      "text": "Improve your testing strategy with these key tips:\n\n🛠️ Focus each test on a single behavior\n📉 Reduce the complexity of massive test files\n📝 Increase the long-term maintainability of your code\n\nHow do you keep your test suites manageable? Drop your tips ⬇️ https://t.co/UJtBvbZ12y",
+      "timestamp": "2026-04-08T13:00:01+00:00",
+      "url": "https://x.com/googledevs/status/2041863636176539661",
+      "images": [],
+      "likes": 30,
+      "retweets": 7,
+      "views": 3508
     }
   ]
 }
