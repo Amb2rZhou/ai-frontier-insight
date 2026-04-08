@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-08T07:10:24.447111",
+  "scraped_at": "2026-04-08T09:12:53.334368",
   "date": "2026-04-08",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 73,
-  "account_count": 40,
+  "tweet_count": 80,
+  "account_count": 44,
   "tweets": [
     {
       "id": "2041576063575212379",
@@ -864,6 +864,87 @@
       "likes": 81,
       "retweets": 8,
       "views": 7996
+    },
+    {
+      "id": "2041684199229292983",
+      "username": "NVIDIARobotics",
+      "text": "Imagine robots that learn, adapt, and lend a helping hand. 🤖\n\n@UofMaryland researchers use the NVIDIA Isaac platform and hardware to train humanoid robots that can see, plan, and act with autonomy. 📖 https://t.co/DJDK7kGnOs\n\n#NationalRoboticsWeek https://t.co/0rdYIi7Ypv",
+      "timestamp": "2026-04-08T01:07:00+00:00",
+      "url": "https://x.com/NVIDIARobotics/status/2041684199229292983",
+      "images": [
+        "https://pbs.twimg.com/media/HFWE9MVW8AAYc5F.jpg"
+      ],
+      "likes": 1,
+      "retweets": 0,
+      "views": 143
+    },
+    {
+      "id": "2041682441014788186",
+      "username": "googledevs",
+      "text": "✨ Build real-time conversational agents with Gemini 3.1 Flash Live.\n\nImprove user interactions with technology that supports natural conversations across 90+ languages, accent changes, and multimodal inputs. https://t.co/meXhyRrhmL",
+      "timestamp": "2026-04-08T01:00:01+00:00",
+      "url": "https://x.com/googledevs/status/2041682441014788186",
+      "images": [],
+      "likes": 5,
+      "retweets": 2,
+      "views": 590
+    },
+    {
+      "id": "2041681474580021536",
+      "username": "demishassabis",
+      "text": "Thanks for the great conversation @cleoabram (and some competitive Jenga)! Really enjoyed talking about all the amazing ways AI is helping to advance science &amp; the incredible future it will enable!",
+      "timestamp": "2026-04-08T00:56:10+00:00",
+      "url": "https://x.com/demishassabis/status/2041681474580021536",
+      "images": [],
+      "likes": 80,
+      "retweets": 11,
+      "views": 6285
+    },
+    {
+      "id": "2041669438882087180",
+      "username": "steipete",
+      "text": "📝Summarize 0.13 is out!\n\n🎞️ Local video slides (--slides)\n🤖 More model backends (GitHub Copilot)\n🧠 Better GPT-5.4 support\n📺 Better media handling (HLS detection.m3u8)\n\nIt graduated from my tap to official homebrew formula!\n🍺 brew install summarize\nhttps://t.co/b4tOuLg8gD",
+      "timestamp": "2026-04-08T00:08:21+00:00",
+      "url": "https://x.com/steipete/status/2041669438882087180",
+      "images": [],
+      "likes": 329,
+      "retweets": 24,
+      "views": 21438
+    },
+    {
+      "id": "2041658719839383945",
+      "username": "sama",
+      "text": "To celebrate 3 million weekly codex users, we are resetting usage limits.\n\nWe will do this every million users up to 10 million.\n\nHappy building!",
+      "timestamp": "2026-04-07T23:25:45+00:00",
+      "url": "https://x.com/sama/status/2041658719839383945",
+      "images": [],
+      "likes": 8481,
+      "retweets": 471,
+      "views": 327572
+    },
+    {
+      "id": "2041656454952759773",
+      "username": "minchoi",
+      "text": "Holy smokes... Claude Mythos is so good at finding critical bugs Anthropic is not releasing it publicly.\n\nWe are cooked💀 https://t.co/QQVZceAd35",
+      "timestamp": "2026-04-07T23:16:45+00:00",
+      "url": "https://x.com/minchoi/status/2041656454952759773",
+      "images": [
+        "https://pbs.twimg.com/media/HFVroHVb0AAlu62.png"
+      ],
+      "likes": 50,
+      "retweets": 4,
+      "views": 8074
+    },
+    {
+      "id": "2041655710346572085",
+      "username": "thsottiaux",
+      "text": "Three million people are now using Codex weekly - up from two million a little under a month ago. Incredible to see the growth. Thank you to all of you and to the ecosystem we’re part of. To celebrate, we’re resetting rate limits so you can keep building, and we’ll reset them",
+      "timestamp": "2026-04-07T23:13:48+00:00",
+      "url": "https://x.com/thsottiaux/status/2041655710346572085",
+      "images": [],
+      "likes": 2200,
+      "retweets": 163,
+      "views": 105363
     }
   ]
 }
