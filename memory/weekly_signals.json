@@ -345,6 +345,210 @@
           123
         ]
       }
+    ],
+    "2026-04-08": [
+      {
+        "title": "Anthropic Launches Project Glasswing with Unreleased Frontier Model for Cybersecurity",
+        "signal_text": "据 VentureBeat 和 Wired 报道，Anthropic 宣布启动 Project Glasswing，这是一个广泛的网络安全计划，将未发布的尖端 AI 模型 Claude Mythos Preview 与包括 Apple、Google 在内的 12 家主要科技和金融公司联盟配对。Anthropic 认为该模型过于强大和危险，因此不公开发布，而是与合作伙伴共同用于测试和提升 AI 网络安全能力。",
+        "signal_strength": 0.95,
+        "sources": [
+          {
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/technology/anthropic-says-its-most-powerful-ai-cyber-model-is-too-dangerous-to-release"
+          },
+          {
+            "name": "Wired",
+            "url": "https://www.wired.com/story/anthropic-mythos-preview-project-glasswing"
+          }
+        ],
+        "tags": [
+          "内容安全与治理",
+          "头部公司战略动作",
+          "Agent 与新交互范式"
+        ],
+        "raw_item_indices": [
+          14,
+          27
+        ]
+      },
+      {
+        "title": "Chinese Startup Z.ai Releases Open-Source GLM-5.1, Claiming SOTA on Coding Benchmarks",
+        "signal_text": "据 VentureBeat 报道，中国 AI 初创公司 Z.ai (筑派 AI) 发布了开源大模型 GLM-5.1。该模型在 SWE-Bench Pro、Terminal-Bench 和 NL2Repo 等基准测试中表现优异，据称在开源模型中排名第一，全球排名第三。模型专为长时程任务设计，可自主运行 8 小时，并通过数千次迭代优化策略。HuggingFace 模型页已获 300+ likes。",
+        "signal_strength": 0.85,
+        "sources": [
+          {
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/technology/ai-joins-the-8-hour-work-day-as-glm-ships-5-1-open-source-llm-beating-opus-4"
+          },
+          {
+            "name": "HuggingFace",
+            "url": "https://huggingface.co/zai-org/GLM-5.1"
+          }
+        ],
+        "tags": [
+          "开源生态",
+          "技术突破",
+          "中国AI模型竞争"
+        ],
+        "raw_item_indices": [
+          16,
+          86,
+          87,
+          88,
+          201
+        ]
+      },
+      {
+        "title": "NVIDIA Researchers Propose TriAttention for Efficient Long-Context LLM Inference",
+        "signal_text": "NVIDIA 研究团队在 arXiv 上发布论文《TriAttention: Efficient Long Reasoning with Trigonometric KV Compression》。该工作通过利用 Q/K 向量在 pre-RoPE 空间中的集中特性来改进关键重要性估计，从而解决 LLM 中 KV 缓存的内存瓶颈问题，实现高效的长上下文生成。论文在 HuggingFace Papers 上获 65 次点赞。",
+        "signal_strength": 0.85,
+        "sources": [
+          {
+            "name": "arXiv",
+            "url": "https://huggingface.co/papers/2604.04921"
+          }
+        ],
+        "tags": [
+          "技术突破",
+          "推理效率提升"
+        ],
+        "raw_item_indices": [
+          170
+        ]
+      },
+      {
+        "title": "Google Releases PyTorch-Native Backend for TPUs with Significant Performance Boost",
+        "signal_text": "据 Google Developers 官方账号宣布，一个新的 PyTorch-native 后端即将推出，以解锁 Google TPU 的能力。该后端允许以最少的代码更改运行现有的 PyTorch 代码，并在 Fused Eager 模式下获得 50-100%+ 的性能提升。",
+        "signal_strength": 0.8,
+        "sources": [
+          {
+            "name": "Twitter @googledevs",
+            "url": "https://x.com/googledevs/status/2041561643260211334"
+          }
+        ],
+        "tags": [
+          "AI基础设施优化",
+          "技术突破"
+        ],
+        "raw_item_indices": [
+          81
+        ]
+      },
+      {
+        "title": "Amazon S3 Files Bridges Object-File Gap for AI Agent Workspaces",
+        "signal_text": "据 VentureBeat 报道，Amazon 推出了 S3 Files 功能，为 AI 代理提供原生文件系统工作空间。该功能旨在解决企业数据多存储在 Amazon S3 等对象存储系统中，而 AI 代理通常依赖标准文件路径工具进行操作之间的鸿沟。通过弥合这一差距，有望解决破坏多代理流程的“对象-文件”分裂问题。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/data/amazon-s3-files-gives-ai-agents-a-native-file-system-workspace-ending-the"
+          }
+        ],
+        "tags": [
+          "Agent 与新交互范式",
+          "AI基础设施优化"
+        ],
+        "raw_item_indices": [
+          13
+        ]
+      },
+      {
+        "title": "Block Unveils Managerbot, a Proactive AI Agent for Square Sellers",
+        "signal_text": "据 VentureBeat 报道，Block 公司（前身为 Square）推出了 Managerbot，这是一个嵌入 Square 平台的新型 AI 代理。该代理能够主动监控卖家的业务，识别新出现的问题，并提出解决方案，被视为 Jack Dorsey 在 AI 领域押注的最清晰证明点之一。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/data/block-introduces-managerbot-a-proactive-square-ai-agent-and-the-clearest"
+          }
+        ],
+        "tags": [
+          "Agent 与新交互范式",
+          "头部公司战略动作"
+        ],
+        "raw_item_indices": [
+          10
+        ]
+      },
+      {
+        "title": "OpenDataLab Releases MinerU2.5-Pro for Data-Centric Document Parsing",
+        "signal_text": "OpenDataLab 团队（作者包括 Bin Wang, Tianyao He 等）在 arXiv 上发布论文《MinerU2.5-Pro: Pushing the Limits of Data-Centric Document Parsing at Scale》。该工作表明，通过训练数据工程和优化策略，无需改变模型架构即可提升文档解析性能，并在 OmniDocBench v1.6 上取得了 SOTA 结果。论文在 HuggingFace Papers 上获 91 次点赞。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "arXiv",
+            "url": "https://huggingface.co/papers/2604.04771"
+          }
+        ],
+        "tags": [
+          "内容理解",
+          "技术突破"
+        ],
+        "raw_item_indices": [
+          168
+        ]
+      },
+      {
+        "title": "PyTorch Foundation Hosts Helion Project from Meta for AI Kernel Portability",
+        "signal_text": "据 PyTorch 官方账号宣布，由 Meta 贡献的 Helion 项目已成为 PyTorch Foundation 托管的项目。该项目旨在标准化开放、可移植和可访问的 AI 内核编写，以简化 AI 内核开发并提高跨不同硬件平台的可移植性。此举正值 AI 模型开发从训练扩展到推理热潮之际。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "Twitter @PyTorch",
+            "url": "https://x.com/PyTorch/status/2041415396427796603"
+          },
+          {
+            "name": "Twitter @PyTorch",
+            "url": "https://x.com/PyTorch/status/2041493450395169079"
+          }
+        ],
+        "tags": [
+          "开源生态",
+          "AI基础设施优化",
+          "技术突破"
+        ],
+        "raw_item_indices": [
+          48,
+          59
+        ]
+      },
+      {
+        "title": "ExecuTorch Becomes Part of PyTorch Core for Efficient Edge AI Inference",
+        "signal_text": "在 PyTorchCon Europe 2026 上，PyTorch 团队宣布 ExecuTorch 将成为 PyTorch Core 的一部分。ExecuTorch 扩展了 PyTorch 功能，用于在从桌面/笔记本电脑到手机和嵌入式系统的边缘设备上进行高效的 AI 推理。这标志着 PyTorch 在边缘 AI 部署方面的重要进展。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "Twitter @PyTorch",
+            "url": "https://x.com/PyTorch/status/2041484161517523160"
+          }
+        ],
+        "tags": [
+          "技术突破",
+          "端侧部署",
+          "开源生态"
+        ],
+        "raw_item_indices": [
+          61
+        ]
+      },
+      {
+        "title": "VentureBeat: LLM-Referred Traffic Converts at 30-40%, Enterprises Not Optimizing",
+        "signal_text": "据 VentureBeat 分析，随着 AI 代理成为信息的主要消费者，数字发现模式正在改变。由 LLM 推荐的流量转化率高达 30-40%，但大多数企业尚未针对这种新型流量进行优化。这突显了在 AI 代理主导的信息消费时代，企业需要重新思考其流量获取和转化策略。",
+        "signal_strength": 0.7,
+        "sources": [
+          {
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/technology/llm-referred-traffic-converts-at-30-40-and-most-enterprises-arent-optimizing"
+          }
+        ],
+        "tags": [
+          "搜索与推荐",
+          "行业趋势"
+        ],
+        "raw_item_indices": [
+          5
+        ]
+      }
     ]
   },
   "archived_weeks": [

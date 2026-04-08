@@ -1,66 +1,6 @@
 {
   "predictions": [
     {
-      "date": "2026-03-28T09:34:44.343232+08:00",
-      "prediction_text": "平台的企业服务团队可以借鉴此模式，开放核心AI能力供生态伙伴构建垂直场景Agent。",
-      "category": "ecosystem_shift",
-      "source_signal": "Google Releases Agent Development Kit for Faster AI Agent Building"
-    },
-    {
-      "date": "2026-03-28T09:34:44.347827+08:00",
-      "prediction_text": "长期来看，拥有稳定、低成本算力供给将成为平台AI战略的底层基础设施保障。",
-      "category": "infrastructure",
-      "source_signal": "Inflection AI Partners with Crusoe on 900MW AI Data Center in Texas"
-    },
-    {
-      "date": "2026-03-28T09:34:44.352517+08:00",
-      "prediction_text": "推荐系统与搜索团队可以探索利用超长上下文，构建更深度的用户意图理解与个性化服务。",
-      "category": "research_breakthrough",
-      "source_signal": "IndexCache: Sparse Attention Optimizer from Tsinghua & Z.ai Speeds Up Long-Context Inference"
-    },
-    {
-      "date": "2026-03-28T09:34:44.356897+08:00",
-      "prediction_text": "社区平台与创作者工具团队值得探索为专业领域创作者提供垂直数据、工作流支持的AI助手。",
-      "category": "ecosystem_shift",
-      "source_signal": "OpenAI CEO Shares Story of User Using LLMs to Develop mRNA Vaccine for Dog"
-    },
-    {
-      "date": "2026-03-28T09:34:44.361272+08:00",
-      "prediction_text": "研发团队需建立更独立、多元的技术供应链与人才网络，以应对可能的技术生态割裂风险。",
-      "category": "industry_risk",
-      "source_signal": "NeurIPS Reverses Policy After Backlash from Chinese Researchers Over Geopolitical Lines"
-    },
-    {
-      "date": "2026-03-29T09:34:07.348341+08:00",
-      "prediction_text": "电商与内容平台的AI战略应聚焦高ROI场景，优先将算力投入能直接驱动交易或用户增长的闭环应用。",
-      "category": "strategic_move",
-      "source_signal": "Mustafa Suleyman Highlights AI Industry Supply-Demand Imbalance"
-    },
-    {
-      "date": "2026-03-29T09:34:07.366033+08:00",
-      "prediction_text": "社区平台与内容审核团队可以考虑为AI辅助创作引入“对立观点压力测试”作为事实核查的补充环节。",
-      "category": "research_breakthrough",
-      "source_signal": "Andrej Karpathy Highlights LLM's Persuasive but Reversible Arguments"
-    },
-    {
-      "date": "2026-03-29T09:34:07.376235+08:00",
-      "prediction_text": "内容理解与推荐系统团队值得关注并集成此类开源SOTA模型，以快速提升视频/图像的内容理解与标签化能力。",
-      "category": "open_source",
-      "source_signal": "ByteDance's LVFace Face Recognition Model Gains Community Traction"
-    },
-    {
-      "date": "2026-03-29T09:34:07.391786+08:00",
-      "prediction_text": "内容安全与客服/助手产品团队建议探索引入对抗性训练或规则约束，以降低AI建议的迎合性与潜在危害。",
-      "category": "research_breakthrough",
-      "source_signal": "Stanford Study Warns of Dangers in AI Personal Advice"
-    },
-    {
-      "date": "2026-03-29T09:34:07.402295+08:00",
-      "prediction_text": "社区平台的产品设计值得探索如何利用AI增强而非削弱用户的主动探索、深度思考与创作能力。",
-      "category": "ecosystem_shift",
-      "source_signal": "François Chollet Predicts Future Class Divide Based on Cognitive Agency"
-    },
-    {
       "date": "2026-03-29T09:34:07.407333+08:00",
       "prediction_text": "电商与客服的Agent研发团队可以考虑采用此类真实场景基准，以更务实的方式评估与迭代智能体。",
       "category": "ecosystem_shift",
@@ -599,6 +539,66 @@
       "prediction_text": "个性化推荐与社交产品团队值得关注此类技术，探索构建高度拟人化的用户陪伴或内容生成体验。",
       "category": "open_source",
       "source_signal": "Open-Source Project 'immortal-skill' Enables Digital Immortality from Chat Logs"
+    },
+    {
+      "date": "2026-04-08T09:34:28.583937+08:00",
+      "prediction_text": "内容安全团队可以考虑与顶尖AI安全研究机构建立合作，共建生成内容的风险评估与防御体系。",
+      "category": "strategic_move",
+      "source_signal": "Anthropic Launches Project Glasswing with Unreleased Frontier Model for Cybersecurity"
+    },
+    {
+      "date": "2026-04-08T09:34:28.610327+08:00",
+      "prediction_text": "技术中台团队可以评估采用此类开源模型，用于构建内部代码助手或自动化工作流Agent。",
+      "category": "open_source",
+      "source_signal": "Chinese Startup Z.ai Releases Open-Source GLM-5.1, Claiming SOTA on Coding Benchmarks"
+    },
+    {
+      "date": "2026-04-08T09:34:28.646814+08:00",
+      "prediction_text": "推荐系统与搜索产品团队值得探索利用长上下文能力，构建更深度的用户理解与个性化服务。",
+      "category": "research_breakthrough",
+      "source_signal": "NVIDIA Researchers Propose TriAttention for Efficient Long-Context LLM Inference"
+    },
+    {
+      "date": "2026-04-08T09:34:28.681123+08:00",
+      "prediction_text": "基础设施团队可以考虑评估TPU等替代方案，以优化模型训练与推理的性价比。",
+      "category": "infrastructure",
+      "source_signal": "Google Releases PyTorch-Native Backend for TPUs with Significant Performance Boost"
+    },
+    {
+      "date": "2026-04-08T09:34:28.717929+08:00",
+      "prediction_text": "平台开发者工具团队可以探索提供类似的原生文件系统接口，降低Agent调用平台数据的复杂度。",
+      "category": "infrastructure",
+      "source_signal": "Amazon S3 Files Bridges Object-File Gap for AI Agent Workspaces"
+    },
+    {
+      "date": "2026-04-08T09:34:28.741134+08:00",
+      "prediction_text": "电商平台与商家服务团队可以探索构建类似的主动式商业分析Agent，提升客户粘性与价值。",
+      "category": "ecosystem_shift",
+      "source_signal": "Block Unveils Managerbot, a Proactive AI Agent for Square Sellers"
+    },
+    {
+      "date": "2026-04-08T09:34:28.760222+08:00",
+      "prediction_text": "内容理解团队可以加大对高质量、场景化训练数据集的构建，以快速提升垂直场景的AI能力。",
+      "category": "research_breakthrough",
+      "source_signal": "OpenDataLab Releases MinerU2.5-Pro for Data-Centric Document Parsing"
+    },
+    {
+      "date": "2026-04-08T09:34:28.773803+08:00",
+      "prediction_text": "基础设施团队值得关注此类开源项目，为未来混合异构算力环境下的模型部署做准备。",
+      "category": "open_source",
+      "source_signal": "PyTorch Foundation Hosts Helion Project from Meta for AI Kernel Portability"
+    },
+    {
+      "date": "2026-04-08T09:34:28.789221+08:00",
+      "prediction_text": "移动端产品与创作者工具团队可以考虑探索更复杂的端侧实时AI功能，如实时滤镜、本地化创作辅助。",
+      "category": "infrastructure",
+      "source_signal": "ExecuTorch Becomes Part of PyTorch Core for Efficient Edge AI Inference"
+    },
+    {
+      "date": "2026-04-08T09:34:28.813743+08:00",
+      "prediction_text": "电商与内容平台的SEO/增长团队建议探索针对AI Agent的页面结构化与信息优化策略。",
+      "category": "ecosystem_shift",
+      "source_signal": "VentureBeat: LLM-Referred Traffic Converts at 30-40%, Enterprises Not Optimizing"
     }
   ]
 }
