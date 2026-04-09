@@ -144,7 +144,60 @@ MacBook (数据泵)              GitHub                 公司服务器
 | AI 模型灵活性 | 仅 DeepSeek | 内部 AI / DeepSeek / Kimi / 火山 |
 | 适合阶段 | MVP / 快速验证 | 正式运营 / 多团队推广 |
 
-**建议**：先用方案 A 快速上线验证，同步准备方案 B 的 raw data 上传。一旦需要给第二个群或第二个人定制内容，切到方案 B。
+**演进路径**：方案 A 快速验证 → 方案 B 定制化 → 方案 C 全自动化（最终目标）。
+
+---
+
+### 方案 C：全自动化（最终目标 — 去掉 MacBook 依赖）
+
+购买 X API 后，用 GitHub Actions 替代 MacBook 采集所有数据源，实现全链路服务端运行。
+
+**前提**：购买 X API Basic ($100/月)
+
+```
+GitHub Actions (cron, 海外 runner)         公司服务器
+┌─────────────────────────────┐      ┌─────────────────────────┐
+│ 定时采集 (每 2-4 小时)       │      │ Hi Bot (处理+分发层)     │
+│                             │      │                         │
+│ • X API → 推文              │      │ git pull                │
+│ • HuggingFace API → 模型    │ push │         ↓               │
+│ • RSS feeds (全部) → 文章   │────→ │ 硬规则排除               │
+│ • GitHub API → trending     │      │         ↓               │
+│ • arXiv API → 论文          │      │ signal pool             │
+│                             │      │         ↓               │
+│ 产出: raw data JSON         │      │ 各群 AI 处理 + 推送      │
+│ 自动 commit to repo         │      │ 记忆层更新              │
+│                             │      │ WebSocket 问答          │
+│ MacBook: 不需要 ✅           │      └─────────────────────────┘
+└─────────────────────────────┘
+```
+
+**GitHub Actions 网络测试结果（已验证）**：
+
+| 数据源 | 状态 | 说明 |
+|---|---|---|
+| X API (`api.x.com`) | ✅ 401 | 网络通，带 key 即可用 |
+| HuggingFace API | ✅ 200 | 完全可用 |
+| HuggingFace Blog | ✅ 200 | 完全可用 |
+| Reddit ML RSS | ⚠️ 403 | 需加 User-Agent header，可解决 |
+| Google AI Blog RSS | ✅ 301 | 重定向，正常 |
+| arXiv RSS | ✅ 302 | 重定向，正常 |
+| GitHub API | ✅ 200 | 完全可用 |
+| DeepSeek API | ✅ 401 | 网络通，带 key 即可用 |
+| TechCrunch / Verge / Ars Technica | ✅ 200 | 完全可用 |
+| Hacker News RSS | ✅ 200 | 完全可用 |
+
+**方案 C vs 方案 B**：
+
+| 维度 | 方案 B (MacBook 采集) | 方案 C (GitHub Actions 采集) |
+|---|---|---|
+| MacBook 依赖 | 需要在线采集 | **完全不需要** |
+| 数据稳定性 | 受 MacBook 电量/网络影响 | GitHub 99.9% SLA |
+| Twitter 采集 | Playwright 浏览器 + Cookie | X API，稳定可靠 |
+| 运行成本 | 电费 | X API $100/月 + GitHub Actions 免费 (2000分钟/月) |
+| 单点故障 | MacBook | 无 |
+
+**方案 C 是最终目标**，实现后整个系统只有两个运行节点：GitHub Actions（采集）+ 公司服务器（处理+推送），无需任何个人设备参与。
 
 ---
 
@@ -168,13 +221,46 @@ MacBook (数据泵)              GitHub                 公司服务器
 
 | 功能 | API 等级 | 说明 |
 |---|---|---|
-| 去掉 MacBook x-monitor | Basic ($100/月) | 服务器直接采集，Cookie 问题消失 |
+| 去掉 Cookie 维护 | Basic ($100/月) | 不再需要浏览器登录态，API Key 长期有效 |
 | 精确时间查询 | Basic | 不依赖页面滚动，精确 24h 推文 |
 | 扩大到 500+ 账号 | Basic | 不受 List 限制 |
 | 实时告警 | Pro ($5000/月) | 重大事件（模型发布/收购）分钟级推送 |
 | 关键词全网监控 | Pro | 监控 "Claude"/"GPT-5" 等关键词 |
 | Thread 上下文 | Basic | 完整讨论串，信号质量更高 |
-| 方案 B 完全落地 | Basic | 服务器自己采集 Twitter，MacBook 只剩 HF 和被墙 RSS |
+
+**注意**：`api.x.com` 从公司服务器同样不可访问，买了 X API 不能直接在公司服务器调用。但有两个替代路径：
+
+**路径 1: MacBook 调 X API**（简单）
+- 去掉 Playwright 浏览器 + Cookie 维护，改用 Python 调 X API
+- MacBook 仍需在线，但稳定性大幅提升
+
+**路径 2: GitHub Actions 调 X API**（推荐，去掉 MacBook 依赖）
+- GitHub Actions runner 在海外，访问 `api.x.com` 无障碍
+- 用 cron 定时触发，自动采集 Twitter 数据并 commit 到 repo
+- 公司服务器 git pull 即可获取数据
+
+```
+路径 2 架构:
+
+GitHub Actions (cron, 海外 runner)
+  │
+  ├─ X API → 采集推文 → commit to repo
+  ├─ HuggingFace API → 采集模型/spaces → commit to repo
+  └─ (其他被墙源也可以放这里)
+          │
+          ▼
+      GitHub Repo (raw data)
+          │
+     git pull │
+          ▼
+    公司服务器 (Hi Bot)
+```
+
+路径 2 的额外好处：
+- **MacBook 完全退出采集链路**，不再是单点故障
+- HuggingFace（同样被公司服务器墙）也可以通过 GitHub Actions 采集
+- 被墙的 RSS 源（Reddit、Google Blog、HF Blog）同理
+- GitHub Actions 免费额度：2000 分钟/月，足够每天跑几次采集
 
 #### 投入产出
 
