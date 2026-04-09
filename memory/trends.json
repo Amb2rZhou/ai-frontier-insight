@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T09:35:09.099875+08:00",
+  "last_updated": "2026-04-09T11:29:24.442253+08:00",
   "trends": [
     {
       "id": "ai_safety_pivot_and_accelerated_agi_time",
@@ -15,9 +15,8 @@
         "AGI Timeline"
       ],
       "trajectory": "accelerating",
-      "signal_count": 55,
+      "signal_count": 57,
       "weekly_counts": [
-        1,
         1,
         2,
         1,
@@ -28,7 +27,8 @@
         0,
         1,
         1,
-        1
+        1,
+        2
       ],
       "key_events": [
         {
@@ -74,6 +74,10 @@
         {
           "date": "2026-04-08",
           "event": "Anthropic Launches Project Glasswing with Unreleased Frontier Model for Cybersecurity"
+        },
+        {
+          "date": "2026-04-09",
+          "event": "OpenAI Proposes Child Protection Policy Blueprint and Announces $100M+ Alzheimer's Research Grants"
         }
       ],
       "created": "2026-02-25"
@@ -165,9 +169,8 @@
         "Business Models"
       ],
       "trajectory": "accelerating",
-      "signal_count": 42,
+      "signal_count": 43,
       "weekly_counts": [
-        1,
         1,
         1,
         1,
@@ -178,7 +181,8 @@
         1,
         1,
         1,
-        3
+        3,
+        1
       ],
       "key_events": [
         {
@@ -224,6 +228,10 @@
         {
           "date": "2026-04-08",
           "event": "Chinese Startup Z.ai Releases Open-Source GLM-5.1, Claiming SOTA on Coding Benchmarks"
+        },
+        {
+          "date": "2026-04-09",
+          "event": "PyTorch Foundation Adopts Hugging Face's Safetensors for Secure Model Execution"
         }
       ],
       "created": "2026-02-25"
@@ -329,9 +337,8 @@
         "Anthropic"
       ],
       "trajectory": "accelerating",
-      "signal_count": 97,
+      "signal_count": 99,
       "weekly_counts": [
-        4,
         1,
         1,
         3,
@@ -342,7 +349,8 @@
         2,
         1,
         2,
-        1
+        1,
+        2
       ],
       "key_events": [
         {
@@ -388,6 +396,10 @@
         {
           "date": "2026-04-08",
           "event": "Block Unveils Managerbot, a Proactive AI Agent for Square Sellers"
+        },
+        {
+          "date": "2026-04-09",
+          "event": "a16z Report: 29% of Fortune 500 Are Paying Customers of Leading AI Startups"
         }
       ],
       "created": "2026-02-25"
@@ -406,9 +418,8 @@
         "Foundation Models"
       ],
       "trajectory": "accelerating",
-      "signal_count": 81,
+      "signal_count": 82,
       "weekly_counts": [
-        2,
         3,
         1,
         2,
@@ -419,7 +430,8 @@
         0,
         0,
         3,
-        2
+        2,
+        1
       ],
       "key_events": [
         {
@@ -465,6 +477,10 @@
         {
           "date": "2026-04-08",
           "event": "NVIDIA Researchers Propose TriAttention for Efficient Long-Context LLM Inference"
+        },
+        {
+          "date": "2026-04-09",
+          "event": "Jeff Dean Highlights Hedged Requests Technique for Drastic Latency Reduction"
         }
       ],
       "created": "2026-02-25"
@@ -615,6 +631,7 @@
         0,
         0,
         0,
+        0,
         0
       ],
       "key_events": [
@@ -693,9 +710,8 @@
         "Computer Use"
       ],
       "trajectory": "accelerating",
-      "signal_count": 130,
+      "signal_count": 131,
       "weekly_counts": [
-        2,
         1,
         1,
         2,
@@ -706,7 +722,8 @@
         3,
         3,
         2,
-        2
+        2,
+        1
       ],
       "key_events": [
         {
@@ -752,6 +769,10 @@
         {
           "date": "2026-04-08",
           "event": "Amazon S3 Files Bridges Object-File Gap for AI Agent Workspaces"
+        },
+        {
+          "date": "2026-04-09",
+          "event": "OpenClaw Agent Framework Adds Dreaming Feature and Hardens Security"
         }
       ],
       "created": "2026-02-25"
@@ -837,9 +858,8 @@
         "AI Infrastructure"
       ],
       "trajectory": "accelerating",
-      "signal_count": 49,
+      "signal_count": 50,
       "weekly_counts": [
-        1,
         1,
         1,
         1,
@@ -850,7 +870,8 @@
         1,
         1,
         1,
-        3
+        3,
+        1
       ],
       "key_events": [
         {
@@ -1268,9 +1289,8 @@
         "DeepSeek"
       ],
       "trajectory": "accelerating",
-      "signal_count": 21,
+      "signal_count": 22,
       "weekly_counts": [
-        1,
         2,
         1,
         1,
@@ -1280,6 +1300,7 @@
         1,
         1,
         0,
+        1,
         1,
         1
       ],
@@ -1359,6 +1380,10 @@
         {
           "date": "2026-04-08",
           "event": "Chinese Startup Z.ai Releases Open-Source GLM-5.1, Claiming SOTA on Coding Benchmarks"
+        },
+        {
+          "date": "2026-04-09",
+          "event": "Alibaba's Qwen3.6-Plus Tops OpenRouter Charts, Claiming High Cost-Performance"
         }
       ],
       "created": "2026-02-25"
@@ -1373,12 +1398,11 @@
         "Startup Funding"
       ],
       "trajectory": "accelerating",
-      "signal_count": 42,
+      "signal_count": 44,
       "weekly_counts": [
         1,
         1,
         1,
-        1,
         2,
         1,
         1,
@@ -1386,7 +1410,8 @@
         1,
         1,
         2,
-        1
+        1,
+        2
       ],
       "key_events": [
         {
@@ -1532,6 +1557,10 @@
         {
           "date": "2026-04-07",
           "event": "Google Releases Offline-First AI Dictation App Using Gemma"
+        },
+        {
+          "date": "2026-04-09",
+          "event": "Meta Launches Proprietary Multimodal Model Muse Spark with Contemplation Mode"
         }
       ],
       "created": "2026-02-26"

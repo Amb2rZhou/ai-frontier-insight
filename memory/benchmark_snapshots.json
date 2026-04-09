@@ -162,7 +162,7 @@
         "params_b": 72.706
       }
     ],
-    "updated": "2026-04-08T09:31:36.157039+08:00"
+    "updated": "2026-04-09T09:31:18.458274+08:00"
   },
   "swebench_verified": {
     "top_models": [
@@ -242,7 +242,7 @@
         "date": "2025-11-03"
       }
     ],
-    "updated": "2026-04-08T09:31:36.157039+08:00"
+    "updated": "2026-04-09T11:25:59.103575+08:00"
   },
   "arc_agi_2": {
     "top_models": [
@@ -307,7 +307,7 @@
         "score": 55.4
       }
     ],
-    "updated": "2026-04-08T09:31:36.157039+08:00"
+    "updated": "2026-04-09T11:25:59.103575+08:00"
   },
   "osworld": {
     "top_models": [
@@ -387,10 +387,15 @@
         "institution": "GBOX.AI"
       }
     ],
-    "updated": "2026-04-01T09:31:12.797227+08:00"
+    "updated": "2026-04-09T11:25:59.103575+08:00"
   },
   "terminal_bench": {
     "top_models": [
+      {
+        "name": "QuantFlow/pilot-real (claude-opus-4-6)",
+        "score": 82.9,
+        "verified": false
+      },
       {
         "name": "ForgeCode/forge (gpt-5.4)",
         "score": 81.8,
@@ -460,13 +465,8 @@
         "name": "JetBrains/Junie (claude-opus-4-6 + gemini-3-flash-preview + gemini-3.1-pro-preview + gpt-5.3-codex)",
         "score": 71.0,
         "verified": false
-      },
-      {
-        "name": "Feeling AI/ruley (gpt-5.3-codex)",
-        "score": 70.3,
-        "verified": false
       }
     ],
-    "updated": "2026-04-06T09:31:24.479085+08:00"
+    "updated": "2026-04-09T11:25:59.103575+08:00"
   }
 }
