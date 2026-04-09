@@ -1,0 +1,35 @@
+name: Test Network Access
+
+on:
+  workflow_dispatch:  # 手动触发
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Test external endpoints
+        run: |
+          echo "=== GitHub Actions Network Test ==="
+          echo ""
+
+          endpoints=(
+            "https://api.x.com/2/tweets/search/recent"
+            "https://x.com"
+            "https://huggingface.co/api/trending"
+            "https://huggingface.co/api/daily_papers"
+            "https://www.reddit.com/r/MachineLearning/.rss"
+            "https://blog.google/technology/ai/rss/"
+            "https://huggingface.co/blog/feed.xml"
+            "https://arxiv.org/rss/cs.AI"
+            "https://api.github.com/rate_limit"
+            "https://api.deepseek.com/v1/models"
+            "https://hnrss.org/frontpage"
+            "https://techcrunch.com/feed/"
+            "https://www.theverge.com/rss/index.xml"
+            "https://feeds.arstechnica.com/arstechnica/technology-lab"
+          )
+
+          for url in "${endpoints[@]}"; do
+            STATUS=$(curl -s -o /dev/null -w "%{http_code}" --max-time 10 "$url" 2>/dev/null || echo "TIMEOUT")
+            printf "%-55s %s\n" "$url" "$STATUS"
+          done
