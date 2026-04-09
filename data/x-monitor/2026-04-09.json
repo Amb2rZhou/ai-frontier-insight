@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-09T11:41:14.210406",
+  "scraped_at": "2026-04-09T15:18:40.557361",
   "date": "2026-04-09",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 96,
-  "account_count": 45,
+  "tweet_count": 107,
+  "account_count": 49,
   "tweets": [
     {
       "id": "2041975669928702370",
@@ -1117,6 +1117,129 @@
       "likes": 1247,
       "retweets": 21,
       "views": 58055
+    },
+    {
+      "id": "2042132876519731324",
+      "username": "boazbaraktcs",
+      "text": "I agree directionally but disagree with the details. Just like with responsible disclosure, it makes perfect sense to first release cyber capabilities for defenders and only later in general, and even after still have some restrictions to tilt the offense defense balance.\n\nBut",
+      "timestamp": "2026-04-09T06:49:53+00:00",
+      "url": "https://x.com/boazbaraktcs/status/2042132876519731324",
+      "images": [],
+      "likes": 12,
+      "retweets": 0,
+      "views": 626
+    },
+    {
+      "id": "2042120295449010612",
+      "username": "polynoamial",
+      "text": "I'm surprised that, more than a year later, it's still the norm to compare reasoning models on evals by a single number.",
+      "timestamp": "2026-04-09T05:59:53+00:00",
+      "url": "https://x.com/polynoamial/status/2042120295449010612",
+      "images": [],
+      "likes": 101,
+      "retweets": 4,
+      "views": 8544
+    },
+    {
+      "id": "2042106066939605182",
+      "username": "tkipf",
+      "text": "Veo's Reference-to-Video capability is still #1 👑",
+      "timestamp": "2026-04-09T05:03:21+00:00",
+      "url": "https://x.com/tkipf/status/2042106066939605182",
+      "images": [],
+      "likes": 2,
+      "retweets": 0,
+      "views": 891
+    },
+    {
+      "id": "2042099942559453259",
+      "username": "Miles_Brundage",
+      "text": "Is @FoundationOAI the real account",
+      "timestamp": "2026-04-09T04:39:01+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2042099942559453259",
+      "images": [],
+      "likes": 7,
+      "retweets": 0,
+      "views": 1891
+    },
+    {
+      "id": "2042091701066424678",
+      "username": "minchoi",
+      "text": "Damn new Grok Imagine update is wild https://t.co/Lcs6sOKY4r",
+      "timestamp": "2026-04-09T04:06:16+00:00",
+      "url": "https://x.com/minchoi/status/2042091701066424678",
+      "images": [],
+      "likes": 59,
+      "retweets": 2,
+      "views": 7008
+    },
+    {
+      "id": "2042085829896716356",
+      "username": "JeffDean",
+      "text": "Congratulations to @matei_zaharia on winning this year's ACM Prize in Computing!  This is very well-deserved! 🎉",
+      "timestamp": "2026-04-09T03:42:56+00:00",
+      "url": "https://x.com/JeffDean/status/2042085829896716356",
+      "images": [],
+      "likes": 240,
+      "retweets": 9,
+      "views": 20079
+    },
+    {
+      "id": "2042085442133114935",
+      "username": "Austen",
+      "text": "Honestly more companies should just start capturing screen recordings/screenshots of everything that happens at the company to be later fed into models.\n\nThere’s so much data that companies could be grabbing.",
+      "timestamp": "2026-04-09T03:41:24+00:00",
+      "url": "https://x.com/Austen/status/2042085442133114935",
+      "images": [],
+      "likes": 75,
+      "retweets": 3,
+      "views": 13207
+    },
+    {
+      "id": "2042025652795117832",
+      "username": "Austen",
+      "text": "I need Gauntlet for go-to-market.\n\nAI is about to do to marketing and sales what it just did to engineering.\n\nGive everyone who is smart and knows how to use AI absolute superpowers.",
+      "timestamp": "2026-04-08T23:43:49+00:00",
+      "url": "https://x.com/Austen/status/2042025652795117832",
+      "images": [],
+      "likes": 109,
+      "retweets": 3,
+      "views": 23001
+    },
+    {
+      "id": "2041935840935371034",
+      "username": "steipete",
+      "text": "Some folks try to spin a narrative that I don't like local models, meanwhile I spent a lot of time making it easy to use OpenClaw with them.\n\nLatest release adds support for inferrs, which is a new super efficient TurboQuant inference server:\nhttps://t.co/GBswlz4wPE",
+      "timestamp": "2026-04-08T17:46:56+00:00",
+      "url": "https://x.com/steipete/status/2041935840935371034",
+      "images": [],
+      "likes": 1380,
+      "retweets": 53,
+      "views": 195110
+    },
+    {
+      "id": "2041864806534086881",
+      "username": "rasbt",
+      "text": "Strong release! GLM-5.1 is a DeepSeek-V3.2-like architecture (including MLA and DeepSeek Sparse Attention) but with more layers. \n\nAnd the benchmarks look better throughout! Looks like THE flagship open-weight model now. https://t.co/8kzTXaFcJv",
+      "timestamp": "2026-04-08T13:04:40+00:00",
+      "url": "https://x.com/rasbt/status/2041864806534086881",
+      "images": [
+        "https://pbs.twimg.com/media/HFYpKtCXUAAHPuj.jpg"
+      ],
+      "likes": 756,
+      "retweets": 101,
+      "views": 58083
+    },
+    {
+      "id": "2040511923888996608",
+      "username": "nickcammarata",
+      "text": "excited for the synthesis from ‘our cows are hero dosing antibiotics 24/7’ and ‘we proudly give our animals no medicine ever’ to ‘here’s a full AI-audited log of this animal’s life and every medical decision made for it, here’s a score of overall how well it was treated",
+      "timestamp": "2026-04-04T19:28:48+00:00",
+      "url": "https://x.com/nickcammarata/status/2040511923888996608",
+      "images": [],
+      "likes": 78,
+      "retweets": 0,
+      "views": 4840
     }
   ]
 }
