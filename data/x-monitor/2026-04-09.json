@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-09T04:32:10.458461",
+  "scraped_at": "2026-04-09T08:35:17.034074",
   "date": "2026-04-09",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 54,
-  "account_count": 33,
+  "tweet_count": 78,
+  "account_count": 37,
   "tweets": [
     {
       "id": "2041975669928702370",
@@ -639,6 +639,276 @@
       "likes": 60,
       "retweets": 11,
       "views": 6443
+    },
+    {
+      "id": "2042034113595461677",
+      "username": "Austen",
+      "text": "“Member of technical staff” isn’t a low-ranking role in tech.\n\nIt actually means “god emperor who yields to no one”",
+      "timestamp": "2026-04-09T00:17:26+00:00",
+      "url": "https://x.com/Austen/status/2042034113595461677",
+      "images": [],
+      "likes": 20,
+      "retweets": 1,
+      "views": 2178
+    },
+    {
+      "id": "2042031033303101840",
+      "username": "JeffDean",
+      "text": "Great to see the reception for the very capable Gemma 4 models!",
+      "timestamp": "2026-04-09T00:05:12+00:00",
+      "url": "https://x.com/JeffDean/status/2042031033303101840",
+      "images": [],
+      "likes": 67,
+      "retweets": 3,
+      "views": 5263
+    },
+    {
+      "id": "2042028114671276095",
+      "username": "Austen",
+      "text": "As soon as you start measuring software costs relative to headcount costs software costs can go waaaaay up",
+      "timestamp": "2026-04-08T23:53:36+00:00",
+      "url": "https://x.com/Austen/status/2042028114671276095",
+      "images": [],
+      "likes": 20,
+      "retweets": 0,
+      "views": 3173
+    },
+    {
+      "id": "2042025888053702911",
+      "username": "OfficialLoganK",
+      "text": "Projects in the @GeminiApp are now live, with a fun twist…. Notebooks! Enjoy the NotebookLM inspired experience. https://t.co/EnOY6ve27G",
+      "timestamp": "2026-04-08T23:44:45+00:00",
+      "url": "https://x.com/OfficialLoganK/status/2042025888053702911",
+      "images": [],
+      "likes": 240,
+      "retweets": 17,
+      "views": 9693
+    },
+    {
+      "id": "2042024651610861657",
+      "username": "alexandr_wang",
+      "text": "try muse spark yourself! download the Meta AI app or go to https://t.co/DipeeIuXm2!",
+      "timestamp": "2026-04-08T23:39:50+00:00",
+      "url": "https://x.com/alexandr_wang/status/2042024651610861657",
+      "images": [],
+      "likes": 47,
+      "retweets": 3,
+      "views": 6667
+    },
+    {
+      "id": "2042022320815141324",
+      "username": "a16z",
+      "text": "Steven Sinofsky on why Wall Street may be underestimating AI by 10x:\n\n\"They're off by at least an order of magnitude on how big the opportunity is… they will absolutely come out with new models because that's what happens with every new technology.\"\n\n\"This was the problem with https://t.co/RqVn7XpIFr",
+      "timestamp": "2026-04-08T23:30:34+00:00",
+      "url": "https://x.com/a16z/status/2042022320815141324",
+      "images": [],
+      "likes": 33,
+      "retweets": 4,
+      "views": 10011
+    },
+    {
+      "id": "2042019104698368498",
+      "username": "Miles_Brundage",
+      "text": "Forget Mythos\n\nCheck out Porthos and Athos https://t.co/gKXCsAFtTG",
+      "timestamp": "2026-04-08T23:17:48+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2042019104698368498",
+      "images": [
+        "https://pbs.twimg.com/media/HFa1jBnbcAA94cT.jpg"
+      ],
+      "likes": 16,
+      "retweets": 0,
+      "views": 524
+    },
+    {
+      "id": "2042017534816231486",
+      "username": "steipete",
+      "text": "I'm working on character evals and noticed that Claude would constantly pick itself as #1, so I removed the model names from the judge and changed things. https://t.co/Y9SqqJSYRc",
+      "timestamp": "2026-04-08T23:11:33+00:00",
+      "url": "https://x.com/steipete/status/2042017534816231486",
+      "images": [
+        "https://pbs.twimg.com/media/HFa0GAsXMAA8v4-.jpg"
+      ],
+      "likes": 226,
+      "retweets": 6,
+      "views": 20721
+    },
+    {
+      "id": "2042014774691819943",
+      "username": "a16z",
+      "text": "Steven Sinofsky on why it's hard for AI to diffuse through firms:\n\n\"Algorithmic thinking is really, really, really hard for the vast majority of people who have jobs… If you were to go into any person and ask them to create a flow chart for a particular thing that they have to https://t.co/uKxyJtszZv",
+      "timestamp": "2026-04-08T23:00:35+00:00",
+      "url": "https://x.com/a16z/status/2042014774691819943",
+      "images": [],
+      "likes": 46,
+      "retweets": 6,
+      "views": 10606
+    },
+    {
+      "id": "2042007204409008137",
+      "username": "NVIDIARobotics",
+      "text": "From simulation to reality 🤖\n\nRobotics creator @SkyentificTweet built a walking bipedal robot using a simulation-first approach to design, test, and iterating in virtual environments before deploying in the real world. Powered by the NVIDIA Isaac platform and NVIDIA Jetson for https://t.co/rycbnbGq0O",
+      "timestamp": "2026-04-08T22:30:30+00:00",
+      "url": "https://x.com/NVIDIARobotics/status/2042007204409008137",
+      "images": [],
+      "likes": 80,
+      "retweets": 24,
+      "views": 3589
+    },
+    {
+      "id": "2042006510323298779",
+      "username": "a16z",
+      "text": "Aaron Levie and Steven Sinofsky say companies don't yet know how to determine AI spend:\n\n\"The engineering compute budget conversation to me is going to be just like the most wild one in the next couple years. How much should you allocate of your engineering expense to tokens?... https://t.co/Ocj96QvXmU",
+      "timestamp": "2026-04-08T22:27:45+00:00",
+      "url": "https://x.com/a16z/status/2042006510323298779",
+      "images": [],
+      "likes": 14,
+      "retweets": 1,
+      "views": 7326
+    },
+    {
+      "id": "2041995883198476688",
+      "username": "a16z",
+      "text": "Steven Sinofsky on why agents will widen the gap between startups and enterprises:\n\n\"We do have a cat and a mouse game going on where you can't just assume that the agent acts like a human does today because it's going to be the fastest, most thoughtful, craziest ass human that https://t.co/ilCEkZzW0L",
+      "timestamp": "2026-04-08T21:45:31+00:00",
+      "url": "https://x.com/a16z/status/2041995883198476688",
+      "images": [],
+      "likes": 46,
+      "retweets": 8,
+      "views": 11349
+    },
+    {
+      "id": "2041993542290305469",
+      "username": "stevenbjohnson",
+      "text": "Last year @NotebookLM introduced public/featured notebooks to share curated knowledge bases with the world. \n\nNow we are making it easier for you to work with the knowledge you need by launching notebooks as a core organizational unit for Gemini. \n\nBonus for existing NotebookLM",
+      "timestamp": "2026-04-08T21:36:13+00:00",
+      "url": "https://x.com/stevenbjohnson/status/2041993542290305469",
+      "images": [],
+      "likes": 19,
+      "retweets": 2,
+      "views": 2360
+    },
+    {
+      "id": "2041991027981218022",
+      "username": "alexandr_wang",
+      "text": "a good writeup about Muse Spark on a few complex queries (multimodal, stock analysis, coding):\nhttps://t.co/ngYaXTZ4gW",
+      "timestamp": "2026-04-08T21:26:14+00:00",
+      "url": "https://x.com/alexandr_wang/status/2041991027981218022",
+      "images": [],
+      "likes": 214,
+      "retweets": 27,
+      "views": 15932
+    },
+    {
+      "id": "2041988324488049094",
+      "username": "a16z",
+      "text": "Aaron Levie on 1000x more agents than people and the ultimate manifestation of agent-native software:\n\n\"If you start to imagine that we all have to build software for agents… we spend as much time now thinking about the agent interface to our tool as we do the human interface.\" https://t.co/6CawGAHCts",
+      "timestamp": "2026-04-08T21:15:29+00:00",
+      "url": "https://x.com/a16z/status/2041988324488049094",
+      "images": [],
+      "likes": 48,
+      "retweets": 3,
+      "views": 10500
+    },
+    {
+      "id": "2041985846950424760",
+      "username": "alexandr_wang",
+      "text": "try for yourself! https://t.co/DipeeIuXm2 or download Meta AI app",
+      "timestamp": "2026-04-08T21:05:38+00:00",
+      "url": "https://x.com/alexandr_wang/status/2041985846950424760",
+      "images": [],
+      "likes": 127,
+      "retweets": 6,
+      "views": 16587
+    },
+    {
+      "id": "2041984429325771227",
+      "username": "googledevs",
+      "text": "Wednesday Build Hour continues. Come to learn. Leave with something to build.\n\nExplore fast-moving sessions hosted by Google experts covering the tools that matter right now, from Cloud Run to Gemini to the latest in AI agent orchestration.\n\nCheck out what’s on the calendar: https://t.co/wkVFFfSsDE",
+      "timestamp": "2026-04-08T21:00:00+00:00",
+      "url": "https://x.com/googledevs/status/2041984429325771227",
+      "images": [
+        "https://pbs.twimg.com/media/HFZqkf7WoAAejHk.jpg"
+      ],
+      "likes": 22,
+      "retweets": 5,
+      "views": 3291
+    },
+    {
+      "id": "2041984283305279842",
+      "username": "NielsRogge",
+      "text": "This tells you everything you need to know about Mythos. It's clear Anthropic is just hyping it up to increase profits\n\nThey really need to shut up about their \"too dangerous to release\" stuff. \n\nOmg, a 3B model on @huggingface can find it too",
+      "timestamp": "2026-04-08T20:59:26+00:00",
+      "url": "https://x.com/NielsRogge/status/2041984283305279842",
+      "images": [],
+      "likes": 105,
+      "retweets": 8,
+      "views": 7480
+    },
+    {
+      "id": "2041983394469572724",
+      "username": "alexandr_wang",
+      "text": "use muse spark to make websites at https://t.co/DipeeIuXm2!",
+      "timestamp": "2026-04-08T20:55:54+00:00",
+      "url": "https://x.com/alexandr_wang/status/2041983394469572724",
+      "images": [],
+      "likes": 101,
+      "retweets": 8,
+      "views": 11062
+    },
+    {
+      "id": "2041983360780939416",
+      "username": "OpenAIDevs",
+      "text": "Codex brings your work context together so you can make better decisions with clearer priorities. https://t.co/iVeV0MoIyW",
+      "timestamp": "2026-04-08T20:55:46+00:00",
+      "url": "https://x.com/OpenAIDevs/status/2041983360780939416",
+      "images": [],
+      "likes": 280,
+      "retweets": 17,
+      "views": 23379
+    },
+    {
+      "id": "2041981014776672416",
+      "username": "a16z",
+      "text": "Aaron Levie on how AI changes a job once every worker can command an infinite pool of engineers:\n\n\"Imagine you had X job in the economy and right next to that person was an infinite pool of engineers that could automate whatever that person wanted. And what would that job look https://t.co/7EJEHvD91w",
+      "timestamp": "2026-04-08T20:46:26+00:00",
+      "url": "https://x.com/a16z/status/2041981014776672416",
+      "images": [],
+      "likes": 44,
+      "retweets": 3,
+      "views": 12763
+    },
+    {
+      "id": "2041977585949929876",
+      "username": "GaryMarcus",
+      "text": "What Should We Take From Anthropic’s (possibly) Terrifying New Report on Mythos? – ⁦@garymarcus’s latest  @CACMmag⁩  https://t.co/gTmjQyl1AZ",
+      "timestamp": "2026-04-08T20:32:49+00:00",
+      "url": "https://x.com/GaryMarcus/status/2041977585949929876",
+      "images": [],
+      "likes": 20,
+      "retweets": 6,
+      "views": 5858
+    },
+    {
+      "id": "2041254528415302134",
+      "username": "GaryMarcus",
+      "text": "I have an ML professor asserting that hallucinations have been solved in recent frontier reasoning models.\n\nPlease supply any data you know that supports or rebuts this claim.",
+      "timestamp": "2026-04-06T20:39:38+00:00",
+      "url": "https://x.com/GaryMarcus/status/2041254528415302134",
+      "images": [],
+      "likes": 371,
+      "retweets": 24,
+      "views": 52338
+    },
+    {
+      "id": "2040242339126329728",
+      "username": "Austen",
+      "text": "And what if I run a third party harness with Claude Code?\n\nThis distinction is gonna be a really difficult one to police",
+      "timestamp": "2026-04-04T01:37:34+00:00",
+      "url": "https://x.com/Austen/status/2040242339126329728",
+      "images": [],
+      "likes": 69,
+      "retweets": 2,
+      "views": 27242
     }
   ]
 }
