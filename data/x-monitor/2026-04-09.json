@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-09T15:18:40.557361",
+  "scraped_at": "2026-04-09T17:53:52.662815",
   "date": "2026-04-09",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 107,
-  "account_count": 49,
+  "tweet_count": 114,
+  "account_count": 52,
   "tweets": [
     {
       "id": "2041975669928702370",
@@ -1240,6 +1240,85 @@
       "likes": 78,
       "retweets": 0,
       "views": 4840
+    },
+    {
+      "id": "2042168766826516833",
+      "username": "steipete",
+      "text": "OH: Almost everyone at RedHat uses Macs now.",
+      "timestamp": "2026-04-09T09:12:30+00:00",
+      "url": "https://x.com/steipete/status/2042168766826516833",
+      "images": [],
+      "likes": 183,
+      "retweets": 2,
+      "views": 17144
+    },
+    {
+      "id": "2042161107276882106",
+      "username": "deliprao",
+      "text": "I am not sure why big labs do petty data presentation crimes when it’s abundantly clear it will be taken apart by the X crowd, drawing more attention to it. People will forgive and forget our failures than our attempts hide them.",
+      "timestamp": "2026-04-09T08:42:04+00:00",
+      "url": "https://x.com/deliprao/status/2042161107276882106",
+      "images": [],
+      "likes": 1,
+      "retweets": 0,
+      "views": 314
+    },
+    {
+      "id": "2042160455389466913",
+      "username": "mmbronstein",
+      "text": "#Transformers &amp; #GNNs share the same DNA as mixing architectures. \n\nWe show that GNN oversmoothing = LLM rank collapse &amp; over-squashing = representational collapse. \n\nThe fix: shared tools like residual connections and normalization!\n\nSee our new survey @TmlrPub",
+      "timestamp": "2026-04-09T08:39:28+00:00",
+      "url": "https://x.com/mmbronstein/status/2042160455389466913",
+      "images": [],
+      "likes": 32,
+      "retweets": 6,
+      "views": 2056
+    },
+    {
+      "id": "2042153429556933043",
+      "username": "steipete",
+      "text": "raising lobsters at @aiDotEngineer https://t.co/tFZliEaFFN",
+      "timestamp": "2026-04-09T08:11:33+00:00",
+      "url": "https://x.com/steipete/status/2042153429556933043",
+      "images": [
+        "https://pbs.twimg.com/media/HFcvt7MXcAA3OQF.jpg"
+      ],
+      "likes": 220,
+      "retweets": 5,
+      "views": 10668
+    },
+    {
+      "id": "2042142866697548189",
+      "username": "alexandr_wang",
+      "text": "we are excited for people to try muse spark!",
+      "timestamp": "2026-04-09T07:29:35+00:00",
+      "url": "https://x.com/alexandr_wang/status/2042142866697548189",
+      "images": [],
+      "likes": 111,
+      "retweets": 3,
+      "views": 14652
+    },
+    {
+      "id": "2041656121006661811",
+      "username": "Miles_Brundage",
+      "text": "In general, \"we should assume AI capabilities will diffuse quickly via replication + OS, and harden society accordingly\" is correct\n\nBut some ppl are too confident re: \"OS will be there in N months.\"\n\nFew know how expensive Mythos/Spud are or how distilling scales, both key Qs",
+      "timestamp": "2026-04-07T23:15:26+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2041656121006661811",
+      "images": [],
+      "likes": 47,
+      "retweets": 3,
+      "views": 3345
+    },
+    {
+      "id": "2041248358518731020",
+      "username": "fchollet",
+      "text": "Paper below tested a variety of base LLMs (no TTA) on generalization-focus math problems and found that they can't reason and can't do math.\n\nAll true... but the fact that base LLMs have zero fluid intelligence, while extremely controversial back in 2024, is now well established.",
+      "timestamp": "2026-04-06T20:15:07+00:00",
+      "url": "https://x.com/fchollet/status/2041248358518731020",
+      "images": [],
+      "likes": 400,
+      "retweets": 67,
+      "views": 46365
     }
   ]
 }
