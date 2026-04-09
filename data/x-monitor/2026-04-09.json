@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-09T17:53:52.662815",
+  "scraped_at": "2026-04-09T22:31:26.980196",
   "date": "2026-04-09",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 114,
-  "account_count": 52,
+  "tweet_count": 126,
+  "account_count": 53,
   "tweets": [
     {
       "id": "2041975669928702370",
@@ -1319,6 +1319,144 @@
       "likes": 400,
       "retweets": 67,
       "views": 46365
+    },
+    {
+      "id": "2042242964676604057",
+      "username": "omarsar0",
+      "text": "Scaling coding agents via atomic skills",
+      "timestamp": "2026-04-09T14:07:20+00:00",
+      "url": "https://x.com/omarsar0/status/2042242964676604057",
+      "images": [],
+      "likes": 7,
+      "retweets": 2,
+      "views": 1301
+    },
+    {
+      "id": "2042242813384142965",
+      "username": "GaryMarcus",
+      "text": "This SHOULD be an obvious point.",
+      "timestamp": "2026-04-09T14:06:44+00:00",
+      "url": "https://x.com/GaryMarcus/status/2042242813384142965",
+      "images": [],
+      "likes": 8,
+      "retweets": 1,
+      "views": 1256
+    },
+    {
+      "id": "2042237835487400422",
+      "username": "ClementDelangue",
+      "text": "Feels like one of the cybersecurity risks over the coming months will be widely used open-source projects that are simply too lightly maintained for how critical they’ve become.\n\nA few ways to help:\n- fund open source more, and reward maintainers better\n- bring some of the most",
+      "timestamp": "2026-04-09T13:46:57+00:00",
+      "url": "https://x.com/ClementDelangue/status/2042237835487400422",
+      "images": [],
+      "likes": 29,
+      "retweets": 2,
+      "views": 2146
+    },
+    {
+      "id": "2042237250889760907",
+      "username": "GaryMarcus",
+      "text": "Folks, you can relax.\n\nMythos is not some off-trend exponential gain.\n\nAnd the gains weren’t about recursive self-improvement.\n\nGood thread from @ramez.",
+      "timestamp": "2026-04-09T13:44:38+00:00",
+      "url": "https://x.com/GaryMarcus/status/2042237250889760907",
+      "images": [],
+      "likes": 34,
+      "retweets": 8,
+      "views": 3152
+    },
+    {
+      "id": "2042234269574005048",
+      "username": "gneubig",
+      "text": "Better get these folks an agent that's really good at cybersecurity to fix this up.",
+      "timestamp": "2026-04-09T13:32:47+00:00",
+      "url": "https://x.com/gneubig/status/2042234269574005048",
+      "images": [],
+      "likes": 9,
+      "retweets": 0,
+      "views": 850
+    },
+    {
+      "id": "2042225422029439119",
+      "username": "mervenoyann",
+      "text": "if you are at @aiDotEngineer Europe come to my talk at Fleming 14:50\n\nwe'll talk about all the cutting edge things you can do with @huggingface and agents",
+      "timestamp": "2026-04-09T12:57:37+00:00",
+      "url": "https://x.com/mervenoyann/status/2042225422029439119",
+      "images": [],
+      "likes": 22,
+      "retweets": 0,
+      "views": 1056
+    },
+    {
+      "id": "2042217645248827457",
+      "username": "DeryaTR_",
+      "text": "This is very useful for anyone using AI agents and who likes to save on token costs! https://t.co/UfqtLKS8a6",
+      "timestamp": "2026-04-09T12:26:43+00:00",
+      "url": "https://x.com/DeryaTR_/status/2042217645248827457",
+      "images": [
+        "https://pbs.twimg.com/media/HFdqABgXUAArnrn.jpg"
+      ],
+      "likes": 10,
+      "retweets": 5,
+      "views": 2909
+    },
+    {
+      "id": "2042214825405661677",
+      "username": "steipete",
+      "text": "GUYS WE FOUND THE GUY WHO BUILT THE GITHUB MCP SERVER https://t.co/rFrPP8Dd00",
+      "timestamp": "2026-04-09T12:15:31+00:00",
+      "url": "https://x.com/steipete/status/2042214825405661677",
+      "images": [
+        "https://pbs.twimg.com/media/HFdnjFgXUAAK9wE.jpg"
+      ],
+      "likes": 1004,
+      "retweets": 23,
+      "views": 32337
+    },
+    {
+      "id": "2042203021761716263",
+      "username": "sedielem",
+      "text": "I'm at @aiDotEngineer Europe tomorrow (Friday), to talk about what goes into building generative image and video models at scale! 12PM, Rutherford, floor 4.",
+      "timestamp": "2026-04-09T11:28:37+00:00",
+      "url": "https://x.com/sedielem/status/2042203021761716263",
+      "images": [],
+      "likes": 25,
+      "retweets": 0,
+      "views": 1311
+    },
+    {
+      "id": "2042186626269389161",
+      "username": "PyTorch",
+      "text": "PyTorch Conference Europe 2026 was 🔥🔥🔥 \nWhat were your main takeaways? \n#PyTorchCon EU https://t.co/NhezYu51gW",
+      "timestamp": "2026-04-09T10:23:28+00:00",
+      "url": "https://x.com/PyTorch/status/2042186626269389161",
+      "images": [
+        "https://pbs.twimg.com/media/HFdN6dtWoAAluF5.jpg"
+      ],
+      "likes": 13,
+      "retweets": 1,
+      "views": 2887
+    },
+    {
+      "id": "2042004767585751284",
+      "username": "fchollet",
+      "text": "The new model from Meta is already looking like a disappointment: overoptimized for public benchmark numbers at the detriment of everything else. Knowing how to evaluate models in a way that correlates with actual usefulness is a core competency for AI labs, and any new lab is",
+      "timestamp": "2026-04-08T22:20:49+00:00",
+      "url": "https://x.com/fchollet/status/2042004767585751284",
+      "images": [],
+      "likes": 1624,
+      "retweets": 86,
+      "views": 186415
+    },
+    {
+      "id": "2041959937580875931",
+      "username": "emollick",
+      "text": "Hallucinations remain in LLMs, but note that over centuries we have developed complicated, successful machines that take uncertain output from unreliable sources &amp; reduce the risk of errors.\n\nWe call those machines organizational structures &amp; we can apply similar approaches to AI",
+      "timestamp": "2026-04-08T19:22:41+00:00",
+      "url": "https://x.com/emollick/status/2041959937580875931",
+      "images": [],
+      "likes": 407,
+      "retweets": 41,
+      "views": 25522
     }
   ]
 }
