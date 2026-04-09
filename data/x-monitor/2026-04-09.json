@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-09T11:22:07.954932",
+  "scraped_at": "2026-04-09T11:41:14.210406",
   "date": "2026-04-09",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 86,
-  "account_count": 41,
+  "tweet_count": 96,
+  "account_count": 45,
   "tweets": [
     {
       "id": "2041975669928702370",
@@ -1001,6 +1001,122 @@
       "likes": 224,
       "retweets": 38,
       "views": 24120
+    },
+    {
+      "id": "2042084508367831204",
+      "username": "emollick",
+      "text": "So what's the deal with Amazon Nova? They released Nova 2 in December, and even then, the top flight Nova 2 model trailed Sonnet 4.5. And it still hasn't left preview.",
+      "timestamp": "2026-04-09T03:37:41+00:00",
+      "url": "https://x.com/emollick/status/2042084508367831204",
+      "images": [],
+      "likes": 0,
+      "retweets": 0,
+      "views": 309
+    },
+    {
+      "id": "2041913097968103636",
+      "username": "alexandr_wang",
+      "text": "9/ this is MSL's first model and there are certainly rough edges we will polish over time in model behavior. regardless—we are excited for everyone to try it!",
+      "timestamp": "2026-04-08T16:16:34+00:00",
+      "url": "https://x.com/alexandr_wang/status/2041913097968103636",
+      "images": [],
+      "likes": 481,
+      "retweets": 5,
+      "views": 76672
+    },
+    {
+      "id": "2041913051738468437",
+      "username": "ArtificialAnlys",
+      "text": "See further analysis of Muse Spark on Artificial Analysis:\n\nhttps://t.co/J27V7mb8zh",
+      "timestamp": "2026-04-08T16:16:23+00:00",
+      "url": "https://x.com/ArtificialAnlys/status/2041913051738468437",
+      "images": [],
+      "likes": 42,
+      "retweets": 1,
+      "views": 9712
+    },
+    {
+      "id": "2041913048584331691",
+      "username": "ArtificialAnlys",
+      "text": "Full breakdown of eval results: Muse Spark performs strongly on reasoning and instruction-following evaluations. It scores 39.9% on HLE, trailing only Gemini 3.1 Pro Preview (44.7%) and GPT-5.4 (xhigh, 41.6%). The model also achieved 5th highest in CritPT with a score of 11%, an https://t.co/ZVLG0ubr6h",
+      "timestamp": "2026-04-08T16:16:22+00:00",
+      "url": "https://x.com/ArtificialAnlys/status/2041913048584331691",
+      "images": [
+        "https://pbs.twimg.com/media/HFZUo1ja8AIGySU.jpg"
+      ],
+      "likes": 80,
+      "retweets": 2,
+      "views": 13021
+    },
+    {
+      "id": "2041913045749002694",
+      "username": "ArtificialAnlys",
+      "text": "Muse Spark is notably token efficient for its intelligence level. It used 58M output tokens to run the Intelligence Index, comparable to Gemini 3.1 Pro Preview (57M) and notably lower than Claude Opus 4.6 (Adaptive Reasoning, max effort, 157M), GPT-5.4 (xhigh, 120M) and GLM-5 https://t.co/TypAvWeVn3",
+      "timestamp": "2026-04-08T16:16:21+00:00",
+      "url": "https://x.com/ArtificialAnlys/status/2041913045749002694",
+      "images": [
+        "https://pbs.twimg.com/media/HFZUc2ZaIAAIX6J.jpg"
+      ],
+      "likes": 190,
+      "retweets": 14,
+      "views": 33824
+    },
+    {
+      "id": "2041913043379220801",
+      "username": "ArtificialAnlys",
+      "text": "Meta is back! Muse Spark scores 52 on the Artificial Analysis Intelligence Index, behind only Gemini 3.1 Pro, GPT-5.4, and Claude Opus 4.6. Muse Spark is the first new release since Llama 4 in April 2025 and also Meta's first release that is not open weights\n\nMuse Spark is a new https://t.co/HdzxubOFi3",
+      "timestamp": "2026-04-08T16:16:21+00:00",
+      "url": "https://x.com/ArtificialAnlys/status/2041913043379220801",
+      "images": [
+        "https://pbs.twimg.com/media/HFZUVAva8AQhMyk.jpg"
+      ],
+      "likes": 2057,
+      "retweets": 259,
+      "views": 304112
+    },
+    {
+      "id": "2041912814261170571",
+      "username": "cursor_ai",
+      "text": "Try it out at https://t.co/3PT8c7azU3.",
+      "timestamp": "2026-04-08T16:15:26+00:00",
+      "url": "https://x.com/cursor_ai/status/2041912814261170571",
+      "images": [],
+      "likes": 78,
+      "retweets": 0,
+      "views": 21935
+    },
+    {
+      "id": "2041912812637966552",
+      "username": "cursor_ai",
+      "text": "You can now run Cursor on any machine and control it from anywhere.\n\nKick off agents from your phone to run on your devbox. https://t.co/ZpxNr9EMWm",
+      "timestamp": "2026-04-08T16:15:26+00:00",
+      "url": "https://x.com/cursor_ai/status/2041912812637966552",
+      "images": [],
+      "likes": 3737,
+      "retweets": 274,
+      "views": 303319
+    },
+    {
+      "id": "2041413237955301685",
+      "username": "Miles_Brundage",
+      "text": "There'll be a lot of volatility in these AI IPOs and a lot of retail investors are going to get hosed \n\n[no rhyming intended]",
+      "timestamp": "2026-04-07T07:10:18+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2041413237955301685",
+      "images": [],
+      "likes": 17,
+      "retweets": 1,
+      "views": 3078
+    },
+    {
+      "id": "2040845921332719886",
+      "username": "nickcammarata",
+      "text": "i like how we've split things into pretraining and post-training such that it sounds like the model never actaully trains",
+      "timestamp": "2026-04-05T17:35:59+00:00",
+      "url": "https://x.com/nickcammarata/status/2040845921332719886",
+      "images": [],
+      "likes": 1247,
+      "retweets": 21,
+      "views": 58055
     }
   ]
 }
