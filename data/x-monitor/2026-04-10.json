@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-10T16:15:23.130457",
+  "scraped_at": "2026-04-10T23:55:03.962277",
   "date": "2026-04-10",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 104,
-  "account_count": 57,
+  "tweet_count": 129,
+  "account_count": 62,
   "tweets": [
     {
       "id": "2042407875612721401",
@@ -1221,6 +1221,302 @@
       "likes": 526,
       "retweets": 69,
       "views": 51069
+    },
+    {
+      "id": "2042631602908598742",
+      "username": "a16z",
+      "text": "Inference (not training) is projected to drive data center buildout.\n\nMore charts: https://t.co/OgJQcBSNjy https://t.co/W253iKcRtB",
+      "timestamp": "2026-04-10T15:51:39+00:00",
+      "url": "https://x.com/a16z/status/2042631602908598742",
+      "images": [
+        "https://pbs.twimg.com/media/HFjinfabUAA_aBj.jpg"
+      ],
+      "likes": 1,
+      "retweets": 1,
+      "views": 203
+    },
+    {
+      "id": "2042626103551082620",
+      "username": "mitchellh",
+      "text": "Updated the libghostty-vt CMake files to make cross-compilation as easy as one (or a few lines). Since libghostty only depends on libc/c++ and Zig bundles libc when used as a c/c++ compiler, you can get full cross-compilation easily. The Zig toolchain is paying huge dividends! https://t.co/PbGDHcu23B",
+      "timestamp": "2026-04-10T15:29:47+00:00",
+      "url": "https://x.com/mitchellh/status/2042626103551082620",
+      "images": [
+        "https://pbs.twimg.com/media/HFjdgCtakAErUud.jpg",
+        "https://pbs.twimg.com/media/HFjdhS2akAQeaJN.jpg"
+      ],
+      "likes": 43,
+      "retweets": 2,
+      "views": 3202
+    },
+    {
+      "id": "2042624622395302127",
+      "username": "ClementDelangue",
+      "text": "In a world where writing code to build websites and apps is trivial (thank you Lovable, Cursor, Claude,...), the real differentiation for you and your company (and what makes you successful) will be how you manage to train, run and optimize AI models yourself.\n\nThat's why at https://t.co/D4Qpo9eufB",
+      "timestamp": "2026-04-10T15:23:54+00:00",
+      "url": "https://x.com/ClementDelangue/status/2042624622395302127",
+      "images": [
+        "https://pbs.twimg.com/media/HFjcNrSWEAABDrc.jpg"
+      ],
+      "likes": 40,
+      "retweets": 7,
+      "views": 2714
+    },
+    {
+      "id": "2042622024799994062",
+      "username": "DeryaTR_",
+      "text": "Everything in the world, apart from nature, is the result of intelligence. As such, there is no limit to the demand for intelligence as long as humanity’s aspirations, wishes or dreams endure.",
+      "timestamp": "2026-04-10T15:13:35+00:00",
+      "url": "https://x.com/DeryaTR_/status/2042622024799994062",
+      "images": [],
+      "likes": 36,
+      "retweets": 5,
+      "views": 2786
+    },
+    {
+      "id": "2042621659581157675",
+      "username": "a16z",
+      "text": "AI companies raised more capital in Q1 2026 than in all of 2025.\n\nMore charts: https://t.co/OgJQcBSNjy https://t.co/Z3eV4pt19A",
+      "timestamp": "2026-04-10T15:12:08+00:00",
+      "url": "https://x.com/a16z/status/2042621659581157675",
+      "images": [
+        "https://pbs.twimg.com/media/HFjZkvZakAEgmDT.jpg"
+      ],
+      "likes": 54,
+      "retweets": 14,
+      "views": 4816
+    },
+    {
+      "id": "2042621150706950511",
+      "username": "Austen",
+      "text": "“AI will give software engineers superpowers thus making the demand for engineers go down” only makes sense if the number of things that can be built is inherently limited by some other constraint.\n\nUnless AI can do everything (or we run out of things to build) demand will go up.",
+      "timestamp": "2026-04-10T15:10:07+00:00",
+      "url": "https://x.com/Austen/status/2042621150706950511",
+      "images": [],
+      "likes": 44,
+      "retweets": 5,
+      "views": 2323
+    },
+    {
+      "id": "2042619168525111628",
+      "username": "Austen",
+      "text": "Hermes Agent is the Linux of OpenClaw.\n\nIt really is an almost perfect analogy.\n\nUse it for a couple hours and you’ll get exactly what that means.",
+      "timestamp": "2026-04-10T15:02:14+00:00",
+      "url": "https://x.com/Austen/status/2042619168525111628",
+      "images": [],
+      "likes": 22,
+      "retweets": 0,
+      "views": 2985
+    },
+    {
+      "id": "2042618327596425454",
+      "username": "Austen",
+      "text": "Spinning up a new instance of OpenClaw is a fascinating experience https://t.co/vpXlLw7Zag",
+      "timestamp": "2026-04-10T14:58:53+00:00",
+      "url": "https://x.com/Austen/status/2042618327596425454",
+      "images": [
+        "https://pbs.twimg.com/media/HFjWizRakAYozPy.jpg"
+      ],
+      "likes": 17,
+      "retweets": 0,
+      "views": 2804
+    },
+    {
+      "id": "2042614906059387211",
+      "username": "alexandr_wang",
+      "text": "the muse spark API will be coming soon!\n\nwe have been thrilled with the amount of excitement amongst developers who want to try muse spark inside their agentic harnesses\n\nstay tuned!",
+      "timestamp": "2026-04-10T14:45:18+00:00",
+      "url": "https://x.com/alexandr_wang/status/2042614906059387211",
+      "images": [],
+      "likes": 528,
+      "retweets": 25,
+      "views": 34484
+    },
+    {
+      "id": "2042610847520809295",
+      "username": "alexandr_wang",
+      "text": "muse spark is the best model I’ve personally used for Design &amp; UI\n\ngreat to hear the community experience it as well!",
+      "timestamp": "2026-04-10T14:29:10+00:00",
+      "url": "https://x.com/alexandr_wang/status/2042610847520809295",
+      "images": [],
+      "likes": 201,
+      "retweets": 6,
+      "views": 16573
+    },
+    {
+      "id": "2042610674166112498",
+      "username": "MattNiessner",
+      "text": "🚀Announcing NeRSemble 3D Head Avatar Benchmark v2\n\nVersion 2 of the NeRSemble 3D Head Avatar Benchmark systematically evaluates several aspects of 3D head avatar creation. Our goal is to drive progress toward more realistic, robust, and generalizable avatar methods.\n\n🔬Benchmark https://t.co/sPuUNWSoED",
+      "timestamp": "2026-04-10T14:28:29+00:00",
+      "url": "https://x.com/MattNiessner/status/2042610674166112498",
+      "images": [],
+      "likes": 42,
+      "retweets": 9,
+      "views": 2045
+    },
+    {
+      "id": "2042609620879896614",
+      "username": "Austen",
+      "text": "So far the \"AI will completely eliminate the need for engineers\" has been 100% dead wrong",
+      "timestamp": "2026-04-10T14:24:18+00:00",
+      "url": "https://x.com/Austen/status/2042609620879896614",
+      "images": [],
+      "likes": 81,
+      "retweets": 3,
+      "views": 4268
+    },
+    {
+      "id": "2042607311282217309",
+      "username": "code",
+      "text": "VS Code March Release included several improvements to the editor experience. Check out our latest video for demos of Autopilot (Preview), Integrated Browser Debugging, Chat Customization (Preview), and Configurable Thinking Effort in the Model Picker ▶️ https://t.co/IT2xeM3xNX https://t.co/xw9wQiBju8",
+      "timestamp": "2026-04-10T14:15:07+00:00",
+      "url": "https://x.com/code/status/2042607311282217309",
+      "images": [
+        "https://pbs.twimg.com/media/HFjMhpUWIAAOIdp.jpg"
+      ],
+      "likes": 25,
+      "retweets": 4,
+      "views": 5049
+    },
+    {
+      "id": "2042605225316393417",
+      "username": "mervenoyann",
+      "text": "from my chats with people I infer that everyone expects @huggingface to step in to solve wide variety of problems in the ecosystem\n\nwhat is your expectation of us, please leave them below 🤝",
+      "timestamp": "2026-04-10T14:06:50+00:00",
+      "url": "https://x.com/mervenoyann/status/2042605225316393417",
+      "images": [],
+      "likes": 23,
+      "retweets": 2,
+      "views": 2105
+    },
+    {
+      "id": "2042601088029708704",
+      "username": "SchmidhuberAI",
+      "text": "Neural Computers\nhttps://t.co/XVk9bCLGbm https://t.co/ov0qdU1BSb",
+      "timestamp": "2026-04-10T13:50:23+00:00",
+      "url": "https://x.com/SchmidhuberAI/status/2042601088029708704",
+      "images": [],
+      "likes": 339,
+      "retweets": 59,
+      "views": 15853
+    },
+    {
+      "id": "2042600129652281386",
+      "username": "NielsRogge",
+      "text": "It’s @ben_burtenshaw on the main stage at @aiDotEngineer!\n\nTalking about agents at @huggingface\n\nLearning about Skills, upskill, multi-agent research labs 👌🔥 https://t.co/TAMo5FtQtJ",
+      "timestamp": "2026-04-10T13:46:35+00:00",
+      "url": "https://x.com/NielsRogge/status/2042600129652281386",
+      "images": [
+        "https://pbs.twimg.com/media/HFjF9oEaIAAsHAf.jpg"
+      ],
+      "likes": 6,
+      "retweets": 1,
+      "views": 369
+    },
+    {
+      "id": "2042599142560796991",
+      "username": "UnslothAI",
+      "text": "Google DeepMind is hosting a Gemma 4 hackathon with a $10,000 Unsloth prize! 🦥\n\nShow off your best fine-tuned Gemma 4 model built with Unsloth.\n\nThere's $200,000 total prizes to be won.\n\nChallenge info + Notebook: https://t.co/HndHPaXICT https://t.co/cBnNro1fVI",
+      "timestamp": "2026-04-10T13:42:39+00:00",
+      "url": "https://x.com/UnslothAI/status/2042599142560796991",
+      "images": [
+        "https://pbs.twimg.com/media/HFjFAAjakAELw4v.jpg"
+      ],
+      "likes": 194,
+      "retweets": 34,
+      "views": 9513
+    },
+    {
+      "id": "2042582690545733637",
+      "username": "osanseviero",
+      "text": "Thank you for the invitation to 10 Downing Street!\n\nIt was great to talk about open models, the state of AI and exciting opportunities",
+      "timestamp": "2026-04-10T12:37:17+00:00",
+      "url": "https://x.com/osanseviero/status/2042582690545733637",
+      "images": [],
+      "likes": 41,
+      "retweets": 3,
+      "views": 2614
+    },
+    {
+      "id": "2042560199764938928",
+      "username": "NielsRogge",
+      "text": "Super cool talk by @Prince_Canuma at @aiDotEngineer!\n\nMLX is really cool https://t.co/fHwrODUlcH",
+      "timestamp": "2026-04-10T11:07:55+00:00",
+      "url": "https://x.com/NielsRogge/status/2042560199764938928",
+      "images": [
+        "https://pbs.twimg.com/media/HFihrDrX0AA2MYo.jpg"
+      ],
+      "likes": 9,
+      "retweets": 1,
+      "views": 621
+    },
+    {
+      "id": "2042559194830672370",
+      "username": "julien_c",
+      "text": "RIP my huggingface storage 🪦 https://t.co/yBCMZ2f2sg",
+      "timestamp": "2026-04-10T11:03:55+00:00",
+      "url": "https://x.com/julien_c/status/2042559194830672370",
+      "images": [
+        "https://pbs.twimg.com/media/HFigpTHWcAAattD.jpg"
+      ],
+      "likes": 60,
+      "retweets": 1,
+      "views": 4145
+    },
+    {
+      "id": "2042537771865104653",
+      "username": "steipete",
+      "text": "Anthropic's randoms system prompt blockers are getting weirder and weirder.",
+      "timestamp": "2026-04-10T09:38:47+00:00",
+      "url": "https://x.com/steipete/status/2042537771865104653",
+      "images": [],
+      "likes": 437,
+      "retweets": 13,
+      "views": 88339
+    },
+    {
+      "id": "2042529894978973749",
+      "username": "NandoDF",
+      "text": "Very proud of our MAI Voice team! In less than a year this team of less than 10 people achieved this!",
+      "timestamp": "2026-04-10T09:07:29+00:00",
+      "url": "https://x.com/NandoDF/status/2042529894978973749",
+      "images": [],
+      "likes": 19,
+      "retweets": 1,
+      "views": 2417
+    },
+    {
+      "id": "2042272415951253932",
+      "username": "GeminiApp",
+      "text": "Gemini can now transform your questions and complex concepts into customizable interactive  visualizations directly in your chat.\n\nAdjust variables, rotate 3D models, and explore data for a more immersive way to learn and explore in Gemini.",
+      "timestamp": "2026-04-09T16:04:22+00:00",
+      "url": "https://x.com/GeminiApp/status/2042272415951253932",
+      "images": [],
+      "likes": 6768,
+      "retweets": 896,
+      "views": 463639
+    },
+    {
+      "id": "2042188520366780478",
+      "username": "mervenoyann",
+      "text": "I genuinely love Hermes Agent emotes so much @NousResearch  (⌐■_■) \n\npersonally I identify as this one ヽ(&gt;∀&lt;☆)☆\n\nI kinda feel like neglectful parent when I see this  (｡•́︿•̀｡)",
+      "timestamp": "2026-04-09T10:30:59+00:00",
+      "url": "https://x.com/mervenoyann/status/2042188520366780478",
+      "images": [],
+      "likes": 46,
+      "retweets": 1,
+      "views": 3059
+    },
+    {
+      "id": "2042021297627262979",
+      "username": "iamtrask",
+      "text": "I joined DeepMind in 2017 and I remember in my first conversation with my manager, he described to me that he thought Demis's most brilliant move was NOT relocating to Silicon Valley. \n\nDemis's decision meant that for a 5-7 year period, every senior AI researcher in Europe who",
+      "timestamp": "2026-04-08T23:26:30+00:00",
+      "url": "https://x.com/iamtrask/status/2042021297627262979",
+      "images": [],
+      "likes": 526,
+      "retweets": 32,
+      "views": 90139
     }
   ]
 }
