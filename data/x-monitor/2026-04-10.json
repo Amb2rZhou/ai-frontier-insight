@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-10T09:05:59.079750",
+  "scraped_at": "2026-04-10T11:38:09.462350",
   "date": "2026-04-10",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 76,
-  "account_count": 42,
+  "tweet_count": 89,
+  "account_count": 49,
   "tweets": [
     {
       "id": "2042407875612721401",
@@ -897,6 +897,157 @@
       "likes": 186,
       "retweets": 31,
       "views": 17975
+    },
+    {
+      "id": "2042444789891654076",
+      "username": "Austen",
+      "text": "OpenClaw is very good, but too complex and buggy with leaky memory, iffy security to really break through to mainstream.\n\nI’m not convinced it’s the right primitive, either. I think there’s something else we’ve yet to see that could swallow it.",
+      "timestamp": "2026-04-10T03:29:19+00:00",
+      "url": "https://x.com/Austen/status/2042444789891654076",
+      "images": [],
+      "likes": 5,
+      "retweets": 1,
+      "views": 551
+    },
+    {
+      "id": "2042442823673528474",
+      "username": "GaryMarcus",
+      "text": "wow. GenAI is definitely not living up to the hype, for most people.",
+      "timestamp": "2026-04-10T03:21:30+00:00",
+      "url": "https://x.com/GaryMarcus/status/2042442823673528474",
+      "images": [],
+      "likes": 14,
+      "retweets": 4,
+      "views": 951
+    },
+    {
+      "id": "2042440101788279094",
+      "username": "jeremyphoward",
+      "text": "This is a great discussion.\n\nWe've spent 2 years building a solution that's working well for us -- co-writing software side by side the AI in an notebook-ish environment. We call it the \"solveit method\". (We've created a course and platform for it: https://t.co/W0DGKEmLo5 )",
+      "timestamp": "2026-04-10T03:10:41+00:00",
+      "url": "https://x.com/jeremyphoward/status/2042440101788279094",
+      "images": [],
+      "likes": 8,
+      "retweets": 0,
+      "views": 1181
+    },
+    {
+      "id": "2042437450619109515",
+      "username": "GaryMarcus",
+      "text": "I rest my case: Mythos isn’t AGI. It’s not even better at biology than the last model. \n\nIt’s tuned to particular things, not a giant advance towards general intelligence. Same as it ever was.",
+      "timestamp": "2026-04-10T03:00:09+00:00",
+      "url": "https://x.com/GaryMarcus/status/2042437450619109515",
+      "images": [],
+      "likes": 25,
+      "retweets": 2,
+      "views": 1767
+    },
+    {
+      "id": "2042434850003534077",
+      "username": "emollick",
+      "text": "The pace at which useful things are shipping also seems to be accelerating. Model releases are coming faster, of course, but so are significant application and enterprise products (especially from Anthropic). Almost certainly faster than the market can track or absorb information",
+      "timestamp": "2026-04-10T02:49:49+00:00",
+      "url": "https://x.com/emollick/status/2042434850003534077",
+      "images": [],
+      "likes": 81,
+      "retweets": 4,
+      "views": 4127
+    },
+    {
+      "id": "2042430583914287579",
+      "username": "GaryMarcus",
+      "text": "People in Washington get played, yet again\n\nWe really should worry about cybersecurity - a lot –  but Mythos is not the model these guys think it is. \n\n(See my newsletter today for three reasons why it is isn’t.)",
+      "timestamp": "2026-04-10T02:32:52+00:00",
+      "url": "https://x.com/GaryMarcus/status/2042430583914287579",
+      "images": [],
+      "likes": 15,
+      "retweets": 2,
+      "views": 1932
+    },
+    {
+      "id": "2042430017473278200",
+      "username": "NeurIPSConf",
+      "text": "The NeurIPS’26 Position Paper Track is soliciting self-nominations as Area Chair from community members for the 2026 Position Paper Track.\nRead more in our blog post: https://t.co/eURcePDDag \n\nAnd if you think you would be a good fit, apply here: https://t.co/CByDPmUHak",
+      "timestamp": "2026-04-10T02:30:37+00:00",
+      "url": "https://x.com/NeurIPSConf/status/2042430017473278200",
+      "images": [],
+      "likes": 17,
+      "retweets": 2,
+      "views": 2810
+    },
+    {
+      "id": "2042424621626970557",
+      "username": "emollick",
+      "text": "Things that make the jagged intelligence of AI harder to deal with than the jaggedness of humans:\n1) Weaknesses are not always intuitive or identifiable in advanced\n2) All LLMs have similar weaknesses, so you can't just hire a different one\n3) Jagged frontier is moving outward",
+      "timestamp": "2026-04-10T02:09:10+00:00",
+      "url": "https://x.com/emollick/status/2042424621626970557",
+      "images": [],
+      "likes": 53,
+      "retweets": 3,
+      "views": 8894
+    },
+    {
+      "id": "2042416273599185254",
+      "username": "dylan522p",
+      "text": "The Information wrote that Meta consumes 60.2T tokens per month, or ~750M per employee.\nMeta is getting absolutely token-mogged by us currently.\nSemiAnalysis employees consume 1.86B tokens per month.\nFrom our Tokenomics Model post \"Everyone Keeps Estimating Token Prices Wrong\" https://t.co/BbrCZr8oks",
+      "timestamp": "2026-04-10T01:36:00+00:00",
+      "url": "https://x.com/dylan522p/status/2042416273599185254",
+      "images": [
+        "https://pbs.twimg.com/media/HFgeqhObQAA9SFt.jpg"
+      ],
+      "likes": 136,
+      "retweets": 3,
+      "views": 21155
+    },
+    {
+      "id": "2041269362783408228",
+      "username": "minchoi",
+      "text": "Someone just built Karpathy's second brain, but for code.\n\ngraphify turns files, PDFs, and screenshots into a knowledge graph you can query.\n\n100% Open source\n\nCode in comments 👇 https://t.co/l4h22oMIth",
+      "timestamp": "2026-04-06T21:38:35+00:00",
+      "url": "https://x.com/minchoi/status/2041269362783408228",
+      "images": [
+        "https://pbs.twimg.com/media/HFQLgwKWMAE3utG.png"
+      ],
+      "likes": 428,
+      "retweets": 43,
+      "views": 72285
+    },
+    {
+      "id": "2041183790375002259",
+      "username": "mervenoyann",
+      "text": "tip: Gemma 4 exposes a thought channel for reasoning\n\nif you fine-tune it on reasoning and answers, you can inject thinking channel like below ⤵️ https://t.co/K5E9HJcxOb",
+      "timestamp": "2026-04-06T15:58:33+00:00",
+      "url": "https://x.com/mervenoyann/status/2041183790375002259",
+      "images": [
+        "https://pbs.twimg.com/media/HFO9zayW0AAHXck.jpg"
+      ],
+      "likes": 158,
+      "retweets": 13,
+      "views": 9026
+    },
+    {
+      "id": "2040261847597867159",
+      "username": "ollama",
+      "text": "🦞Ollama's cloud is one of the best places to run OpenClaw.\n\n$20 plan is enough for most day to day OpenClaw usage with open models! \n\nTo make the switch, all you need is to open the terminal and type: \n\nollama launch openclaw \n\nChoose a model: \n\nkimi-k2.5:cloud\nglm-5:cloud",
+      "timestamp": "2026-04-04T02:55:05+00:00",
+      "url": "https://x.com/ollama/status/2040261847597867159",
+      "images": [],
+      "likes": 3397,
+      "retweets": 320,
+      "views": 634034
+    },
+    {
+      "id": "2040082258833645605",
+      "username": "arena",
+      "text": "Qwen 3.6 Plus is ready for your real-world use cases in the Text and Code Arena! \n\nIn the Code Arena, you can compare models on real-world, agentic web development tasks—generating HTML or React apps that you can immediately share, or download.\n\nGet testing and don't forget to https://t.co/nV49S5McJc",
+      "timestamp": "2026-04-03T15:01:28+00:00",
+      "url": "https://x.com/arena/status/2040082258833645605",
+      "images": [
+        "https://pbs.twimg.com/media/HE_S5apbIAAqAbD.jpg"
+      ],
+      "likes": 186,
+      "retweets": 11,
+      "views": 17228
     }
   ]
 }
