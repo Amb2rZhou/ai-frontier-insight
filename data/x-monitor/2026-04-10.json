@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-10T11:38:09.462350",
+  "scraped_at": "2026-04-10T16:15:23.130457",
   "date": "2026-04-10",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 89,
-  "account_count": 49,
+  "tweet_count": 104,
+  "account_count": 57,
   "tweets": [
     {
       "id": "2042407875612721401",
@@ -1048,6 +1048,179 @@
       "likes": 186,
       "retweets": 11,
       "views": 17228
+    },
+    {
+      "id": "2042512059049398785",
+      "username": "osanseviero",
+      "text": "Our first successful Gemma 4 Runtime in London with @swyx @patloeber @nick_kango @cormacb and others! 💎Great to go out for a run and talk about Gemma, agents, evals and more",
+      "timestamp": "2026-04-10T07:56:37+00:00",
+      "url": "https://x.com/osanseviero/status/2042512059049398785",
+      "images": [],
+      "likes": 17,
+      "retweets": 1,
+      "views": 398
+    },
+    {
+      "id": "2042511182997639319",
+      "username": "giffmana",
+      "text": "Just got back from a therapy session in Paris.\n\nAlex, Xiaohua and I sat in a room with lots of key PyTorch folks, and we started a neverending stream (&gt;3h!) of mixed rants and letters to santa. The PyTorch team, like any good therapist, listened, nodded, asked \"how did it make",
+      "timestamp": "2026-04-10T07:53:08+00:00",
+      "url": "https://x.com/giffmana/status/2042511182997639319",
+      "images": [],
+      "likes": 24,
+      "retweets": 1,
+      "views": 691
+    },
+    {
+      "id": "2042508513730089461",
+      "username": "NielsRogge",
+      "text": "Those personalized Nano Banana Pro stickers at @aiDotEngineer are seriously cool!\n\nWith @mervenoyann and @andimarafioti https://t.co/7iDTPkkpO0",
+      "timestamp": "2026-04-10T07:42:32+00:00",
+      "url": "https://x.com/NielsRogge/status/2042508513730089461",
+      "images": [
+        "https://pbs.twimg.com/media/HFfoUoTWcAATXL3.jpg"
+      ],
+      "likes": 6,
+      "retweets": 0,
+      "views": 110
+    },
+    {
+      "id": "2042487416972312917",
+      "username": "iamtrask",
+      "text": "Prompt injection is a hard problem. This from-scratch python tutorial shows one way to solve it.",
+      "timestamp": "2026-04-10T06:18:42+00:00",
+      "url": "https://x.com/iamtrask/status/2042487416972312917",
+      "images": [],
+      "likes": 11,
+      "retweets": 0,
+      "views": 949
+    },
+    {
+      "id": "2042469771275329594",
+      "username": "levie",
+      "text": "I think everyone is substantially underestimating the total demand for software and automation in areas that don’t feel like “software”. Not talking about software that’s another app on your phone. \n\nSoftware that just automates things for companies all day long. Most companies",
+      "timestamp": "2026-04-10T05:08:35+00:00",
+      "url": "https://x.com/levie/status/2042469771275329594",
+      "images": [],
+      "likes": 184,
+      "retweets": 19,
+      "views": 16541
+    },
+    {
+      "id": "2042469583374991830",
+      "username": "fchollet",
+      "text": "The power of JAX",
+      "timestamp": "2026-04-10T05:07:50+00:00",
+      "url": "https://x.com/fchollet/status/2042469583374991830",
+      "images": [],
+      "likes": 83,
+      "retweets": 6,
+      "views": 12527
+    },
+    {
+      "id": "2042466235628089503",
+      "username": "HochreiterSepp",
+      "text": "Minimal JAX solver for local flux-tube gyrokinetics which is up to 10x  faster on nonlinear adiabatic simulations. Supercool. Congratulations to  Gianluca and Eric: that is impressive.",
+      "timestamp": "2026-04-10T04:54:32+00:00",
+      "url": "https://x.com/HochreiterSepp/status/2042466235628089503",
+      "images": [],
+      "likes": 8,
+      "retweets": 0,
+      "views": 589
+    },
+    {
+      "id": "2042460500785602648",
+      "username": "levie",
+      "text": "The idea that prompting would be useless is like if giving clear instructions to a brand new colleague who just joined your team is useless. “Prompting” should just encapsulate the entirely of giving the agent everything it needs to perform the task. This is high leverage.",
+      "timestamp": "2026-04-10T04:31:45+00:00",
+      "url": "https://x.com/levie/status/2042460500785602648",
+      "images": [],
+      "likes": 84,
+      "retweets": 9,
+      "views": 15584
+    },
+    {
+      "id": "2042455596834660479",
+      "username": "emollick",
+      "text": "All is not lost. Duckerton is still possible.\n\nHere is Seedance 2.0 with the same prompt. https://t.co/ZBLO70QGCE",
+      "timestamp": "2026-04-10T04:12:15+00:00",
+      "url": "https://x.com/emollick/status/2042455596834660479",
+      "images": [],
+      "likes": 74,
+      "retweets": 2,
+      "views": 18174
+    },
+    {
+      "id": "2042455026120212620",
+      "username": "Everlyn_ai",
+      "text": "Some magic only appears when you slow down.\n\n- generated on Everlyn in 7.7 seconds https://t.co/GGnxLPpNKc",
+      "timestamp": "2026-04-10T04:09:59+00:00",
+      "url": "https://x.com/Everlyn_ai/status/2042455026120212620",
+      "images": [],
+      "likes": 6,
+      "retweets": 0,
+      "views": 457
+    },
+    {
+      "id": "2042449645670916384",
+      "username": "_akhaliq",
+      "text": "DMax\n\nAggressive Parallel Decoding for dLLMs\n\npaper: https://t.co/y421NkegRD https://t.co/Y7Ut9Gxly8",
+      "timestamp": "2026-04-10T03:48:37+00:00",
+      "url": "https://x.com/_akhaliq/status/2042449645670916384",
+      "images": [],
+      "likes": 56,
+      "retweets": 12,
+      "views": 8386
+    },
+    {
+      "id": "2042334451611693415",
+      "username": "karpathy",
+      "text": "Judging by my tl there is a growing gap in understanding of AI capability.\n\nThe first issue I think is around recency and tier of use. I think a lot of people tried the free tier of ChatGPT somewhere  last year and allowed it to inform their views on AI a little too much. This is",
+      "timestamp": "2026-04-09T20:10:52+00:00",
+      "url": "https://x.com/karpathy/status/2042334451611693415",
+      "images": [],
+      "likes": 13210,
+      "retweets": 1534,
+      "views": 1892805
+    },
+    {
+      "id": "2042283481640615944",
+      "username": "GoogleDeepMind",
+      "text": "Gemma 4 punches above its weight, outperforming models 10x its size without the need for massive compute.\n\nWith 10M+ downloads in its first week and 500M+ for the Gemma family overall, we’re excited to see this level of engagement within the open research community. https://t.co/8s9ek1VR8k",
+      "timestamp": "2026-04-09T16:48:20+00:00",
+      "url": "https://x.com/GoogleDeepMind/status/2042283481640615944",
+      "images": [
+        "https://pbs.twimg.com/media/HFelEbEWAAArgzu.jpg"
+      ],
+      "likes": 1321,
+      "retweets": 111,
+      "views": 101871
+    },
+    {
+      "id": "2042019472798564851",
+      "username": "lateinteraction",
+      "text": "For the last few months, I've begun to increasingly dislike the vibe I see in tpot around AI.\n\nNuance and substance are more absent than ever, and are replaced by shallow hype, including now by many of your largest favorite accounts in this space.\n\nin case it needs to be a meme: https://t.co/sfzu74ZzGP",
+      "timestamp": "2026-04-08T23:19:15+00:00",
+      "url": "https://x.com/lateinteraction/status/2042019472798564851",
+      "images": [
+        "https://pbs.twimg.com/media/HFa1eEMXAAAu-sU.png"
+      ],
+      "likes": 154,
+      "retweets": 4,
+      "views": 7921
+    },
+    {
+      "id": "2041556496320700626",
+      "username": "NielsRogge",
+      "text": "New blog post: converting 30k @arxiv papers to Markdown using SOTA OCR models to enable chat with paper functionality\n\nIncludes:\n&gt; leveraging an open OCR model (Chandra 2 by @datalabto)\n&gt; running on GPU infra - @huggingface Jobs \n&gt; using Codex with a SKILL.md https://t.co/jrpin9oq5u",
+      "timestamp": "2026-04-07T16:39:33+00:00",
+      "url": "https://x.com/NielsRogge/status/2041556496320700626",
+      "images": [
+        "https://pbs.twimg.com/media/HFUNmXCXIAYJ5If.jpg"
+      ],
+      "likes": 526,
+      "retweets": 69,
+      "views": 51069
     }
   ]
 }
