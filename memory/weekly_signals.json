@@ -799,6 +799,207 @@
           162
         ]
       }
+    ],
+    "2026-04-10": [
+      {
+        "title": "Meta AI Rises to #6 in App Store Following Muse Spark Launch",
+        "signal_text": "Scale AI CEO Alexandr Wang 在 X 上指出（获 1800+ likes），Meta AI 应用在 App Store 排名一夜之间跃升至第 6 位，且仍在增长。这一增长紧随 Meta 发布其专有多模态模型 Muse Spark（具备“沉思模式”）之后，表明新产品形态获得了显著市场关注。",
+        "signal_strength": 0.85,
+        "sources": [
+          {
+            "name": "Alexandr Wang (Scale AI CEO) on X",
+            "url": "https://x.com/alexandr_wang/status/2042254047244398978"
+          }
+        ],
+        "tags": [
+          "头部公司战略动作",
+          "新产品形态",
+          "多模态生成"
+        ],
+        "raw_item_indices": [
+          55,
+          77,
+          79,
+          139
+        ]
+      },
+      {
+        "title": "Cursor AI Agents Can Now Attach Demos and Screenshots to GitHub PRs",
+        "signal_text": "AI 编程助手 Cursor 在 X 上宣布（获 1200+ likes），其云端 AI Agent 现在可以将其工作的演示和截图附加到其创建的 GitHub Pull Requests 中，使团队能够直接在 GitHub 中审查由 AI Agent 生成的产物，这代表了 AI 辅助开发工作流集成的重要一步。",
+        "signal_strength": 0.8,
+        "sources": [
+          {
+            "name": "Cursor AI on X",
+            "url": "https://x.com/cursor_ai/status/2042287192895267212"
+          }
+        ],
+        "tags": [
+          "AI 辅助创作工具",
+          "Agent 与新交互范式",
+          "新产品形态"
+        ],
+        "raw_item_indices": [
+          118
+        ]
+      },
+      {
+        "title": "Meta AI Researchers Propose 'Think in Strokes' Process-Driven Image Generation",
+        "signal_text": "Meta AI 团队（作者 Lei Zhang 等）在论文《Think in Strokes, Not Pixels》中提出了一种过程驱动的图像生成方法。该方法将图像合成分解为文本规划、视觉草图、文本反思和视觉细化的迭代步骤，通过分步监督确保可控性和可解释性，为内容创作提供了新范式。",
+        "signal_strength": 0.8,
+        "sources": [
+          {
+            "name": "arXiv Paper (Meta AI)",
+            "url": "https://huggingface.co/papers/2604.04746"
+          }
+        ],
+        "tags": [
+          "内容创作与理解",
+          "多模态生成",
+          "技术突破"
+        ],
+        "raw_item_indices": [
+          114,
+          167
+        ]
+      },
+      {
+        "title": "OpenAI Backs Illinois Bill to Limit Liability for AI-Caused Harm",
+        "signal_text": "据 Wired 报道，OpenAI 在伊利诺伊州议会作证，支持一项旨在限制 AI 公司对其产品造成“严重伤害”（包括大规模死亡或金融灾难）时承担责任的法案。这表明头部 AI 公司正在主动参与立法游说，试图塑造对其有利的责任豁免法律框架。",
+        "signal_strength": 0.8,
+        "sources": [
+          {
+            "name": "Wired",
+            "url": "https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/"
+          }
+        ],
+        "tags": [
+          "行业风险与监管",
+          "头部公司战略动作",
+          "合规风险"
+        ],
+        "raw_item_indices": [
+          1
+        ]
+      },
+      {
+        "title": "Anthropic Releases SDK Update with Beta 'Advisor Tool' for Managed Agents",
+        "signal_text": "Anthropic 发布了其 Python SDK v0.93.0 版本更新，新增了对 beta 版“Advisor Tool”的支持。此更新紧随 v0.92.0 版本中添加的对 Claude Managed Agents 的支持，表明 Anthropic 正在加速其 AI Agent 平台和工具调用能力的开发与商业化。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "Anthropic Python SDK GitHub Release",
+            "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.93.0"
+          },
+          {
+            "name": "Anthropic Python SDK GitHub Release (v0.92.0)",
+            "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.92.0"
+          }
+        ],
+        "tags": [
+          "Agent 与新交互范式",
+          "工具调用",
+          "头部公司战略动作"
+        ],
+        "raw_item_indices": [
+          153,
+          154
+        ]
+      },
+      {
+        "title": "Unsloth AI Enables Free Fine-Tuning of Gemma 4 31B on Kaggle",
+        "signal_text": "模型优化公司 Unsloth AI 在 X 上宣布（获 800+ likes），用户现在可以通过其 Notebook 在 Kaggle 上免费微调 Gemma 4 31B 模型。这大幅降低了开发者接触和定制大型前沿模型的门槛，可能推动基于 Gemma 4 的创意应用和个性化内容生成的创新。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "Unsloth AI on X",
+            "url": "https://x.com/UnslothAI/status/2042269554253140048"
+          }
+        ],
+        "tags": [
+          "开源生态",
+          "AI 辅助创作工具",
+          "技术突破"
+        ],
+        "raw_item_indices": [
+          128
+        ]
+      },
+      {
+        "title": "Google Devs Showcase RAG Pipeline Optimization for AI Agents",
+        "signal_text": "Google 开发者关系团队在 X 上发布视频（获 180+ likes），由 GDE Glen Yu 演示如何优化 RAG 管道以构建更精确的 AI Agent。技术栈包括使用 Docling 处理结构化格式、应用点积提高效率以及实施重排序提升准确性，直接服务于搜索增强和智能推荐场景。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "Google Devs on X",
+            "url": "https://x.com/googledevs/status/2042331722298060929"
+          }
+        ],
+        "tags": [
+          "搜索与推荐",
+          "RAG",
+          "Agent 与新交互范式"
+        ],
+        "raw_item_indices": [
+          91
+        ]
+      },
+      {
+        "title": "NVIDIA Introduces RoboLab Benchmark for Generalist Robot Policies",
+        "signal_text": "NVIDIA Robotics 在 X 上宣布推出 RoboLab，一个基于 NVIDIA Isaac 和 Omniverse 构建的高保真仿真基准，用于在任何机器人和任何策略中评估通用机器人策略。该基准旨在推动 Embodied AI 和机器人通用能力的发展，为其在多样化、物理逼真的环境中的表现提供统一衡量标准。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "NVIDIA Robotics on X",
+            "url": "https://x.com/NVIDIARobotics/status/2042407241773461942"
+          }
+        ],
+        "tags": [
+          "技术突破",
+          "Embodied AI",
+          "开源生态"
+        ],
+        "raw_item_indices": [
+          67
+        ]
+      },
+      {
+        "title": "Hugging Face CEO Warns of Cybersecurity Risks in Lightly Maintained Open-Source Projects",
+        "signal_text": "Hugging Face CEO Clément Delangue 在 X 上指出，未来几个月的网络安全风险之一将是那些至关重要但维护不足的广泛使用的开源项目。他呼吁增加对开源项目的资助、更好地奖励维护者，并对最关键的项目进行更严格的审计。这对依赖开源模型的 AI 基础设施构成警示。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "Clément Delangue (Hugging Face CEO) on X",
+            "url": "https://x.com/ClementDelangue/status/2042237835487400422"
+          }
+        ],
+        "tags": [
+          "开源生态",
+          "内容安全与治理",
+          "AI 基础设施优化"
+        ],
+        "raw_item_indices": [
+          58
+        ]
+      },
+      {
+        "title": "Andrew Ng Launches New Course on Efficient LLM Inference with SGLang",
+        "signal_text": "AI 教育家 Andrew Ng 在 X 上宣布（获 170+ likes），与 LMSys 和 RadixArk 合作推出新课程《Efficient Inference with SGLang: Text and Image Generation》。课程由 RadixArk 的技术成员 Richard Chen 教授，重点教授如何利用 SGLang 优化生产环境中的 LLM 和图像生成模型的推理成本与效率。",
+        "signal_strength": 0.7,
+        "sources": [
+          {
+            "name": "Andrew Ng on X",
+            "url": "https://x.com/AndrewYNg/status/2042289428702642588"
+          }
+        ],
+        "tags": [
+          "技术突破",
+          "推理效率提升",
+          "开发者生态变化"
+        ],
+        "raw_item_indices": [
+          115
+        ]
+      }
     ]
   },
   "archived_weeks": [

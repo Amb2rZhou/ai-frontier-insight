@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T11:29:24.442253+08:00",
+  "last_updated": "2026-04-10T09:33:49.152208+08:00",
   "trends": [
     {
       "id": "ai_safety_pivot_and_accelerated_agi_time",
@@ -15,9 +15,8 @@
         "AGI Timeline"
       ],
       "trajectory": "accelerating",
-      "signal_count": 57,
+      "signal_count": 58,
       "weekly_counts": [
-        1,
         2,
         1,
         1,
@@ -28,7 +27,8 @@
         1,
         1,
         1,
-        2
+        2,
+        1
       ],
       "key_events": [
         {
@@ -78,6 +78,10 @@
         {
           "date": "2026-04-09",
           "event": "OpenAI Proposes Child Protection Policy Blueprint and Announces $100M+ Alzheimer's Research Grants"
+        },
+        {
+          "date": "2026-04-10",
+          "event": "OpenAI Backs Illinois Bill to Limit Liability for AI-Caused Harm"
         }
       ],
       "created": "2026-02-25"
@@ -92,9 +96,8 @@
         "Nvidia"
       ],
       "trajectory": "stable",
-      "signal_count": 13,
+      "signal_count": 14,
       "weekly_counts": [
-        1,
         2,
         2,
         1,
@@ -105,7 +108,8 @@
         1,
         1,
         0,
-        0
+        0,
+        1
       ],
       "key_events": [
         {
@@ -151,6 +155,10 @@
         {
           "date": "2026-03-31",
           "event": "NVIDIA IGX Thor Platform Now Available for Autonomous Robots and Surgical Systems"
+        },
+        {
+          "date": "2026-04-10",
+          "event": "NVIDIA Introduces RoboLab Benchmark for Generalist Robot Policies"
         }
       ],
       "created": "2026-02-25"
@@ -169,9 +177,8 @@
         "Business Models"
       ],
       "trajectory": "accelerating",
-      "signal_count": 43,
+      "signal_count": 45,
       "weekly_counts": [
-        1,
         1,
         1,
         1,
@@ -182,7 +189,8 @@
         1,
         1,
         3,
-        1
+        1,
+        2
       ],
       "key_events": [
         {
@@ -232,6 +240,10 @@
         {
           "date": "2026-04-09",
           "event": "PyTorch Foundation Adopts Hugging Face's Safetensors for Secure Model Execution"
+        },
+        {
+          "date": "2026-04-10",
+          "event": "Unsloth AI Enables Free Fine-Tuning of Gemma 4 31B on Kaggle; Hugging Face CEO Warns of Cybersecurity Risks in Lightly Maintained Open-Source Projects"
         }
       ],
       "created": "2026-02-25"
@@ -337,9 +349,8 @@
         "Anthropic"
       ],
       "trajectory": "accelerating",
-      "signal_count": 99,
+      "signal_count": 101,
       "weekly_counts": [
-        1,
         1,
         3,
         2,
@@ -350,6 +361,7 @@
         1,
         2,
         1,
+        2,
         2
       ],
       "key_events": [
@@ -400,6 +412,10 @@
         {
           "date": "2026-04-09",
           "event": "a16z Report: 29% of Fortune 500 Are Paying Customers of Leading AI Startups"
+        },
+        {
+          "date": "2026-04-10",
+          "event": "Cursor AI Agents Can Now Attach Demos and Screenshots to GitHub PRs; Anthropic Releases SDK Update with Beta 'Advisor Tool' for Managed Agents"
         }
       ],
       "created": "2026-02-25"
@@ -418,9 +434,8 @@
         "Foundation Models"
       ],
       "trajectory": "accelerating",
-      "signal_count": 82,
+      "signal_count": 84,
       "weekly_counts": [
-        3,
         1,
         2,
         1,
@@ -431,7 +446,8 @@
         0,
         3,
         2,
-        1
+        1,
+        2
       ],
       "key_events": [
         {
@@ -481,6 +497,10 @@
         {
           "date": "2026-04-09",
           "event": "Jeff Dean Highlights Hedged Requests Technique for Drastic Latency Reduction"
+        },
+        {
+          "date": "2026-04-10",
+          "event": "Google Devs Showcase RAG Pipeline Optimization for AI Agents; Andrew Ng Launches New Course on Efficient LLM Inference with SGLang"
         }
       ],
       "created": "2026-02-25"
@@ -710,9 +730,8 @@
         "Computer Use"
       ],
       "trajectory": "accelerating",
-      "signal_count": 131,
+      "signal_count": 133,
       "weekly_counts": [
-        1,
         1,
         2,
         1,
@@ -723,7 +742,8 @@
         3,
         2,
         2,
-        1
+        1,
+        2
       ],
       "key_events": [
         {
@@ -773,6 +793,10 @@
         {
           "date": "2026-04-09",
           "event": "OpenClaw Agent Framework Adds Dreaming Feature and Hardens Security"
+        },
+        {
+          "date": "2026-04-10",
+          "event": "Cursor AI Agents Can Now Attach Demos and Screenshots to GitHub PRs; Anthropic Releases SDK Update with Beta 'Advisor Tool' for Managed Agents"
         }
       ],
       "created": "2026-02-25"
@@ -858,9 +882,8 @@
         "AI Infrastructure"
       ],
       "trajectory": "accelerating",
-      "signal_count": 50,
+      "signal_count": 51,
       "weekly_counts": [
-        1,
         1,
         1,
         1,
@@ -871,6 +894,7 @@
         1,
         1,
         3,
+        1,
         1
       ],
       "key_events": [
@@ -917,6 +941,10 @@
         {
           "date": "2026-04-08",
           "event": "Google Releases PyTorch-Native Backend for TPUs with Significant Performance Boost"
+        },
+        {
+          "date": "2026-04-10",
+          "event": "Andrew Ng Launches New Course on Efficient LLM Inference with SGLang"
         }
       ],
       "created": "2026-02-25"
@@ -1059,12 +1087,11 @@
         "Risk Management"
       ],
       "trajectory": "stable",
-      "signal_count": 43,
+      "signal_count": 44,
       "weekly_counts": [
         1,
         1,
         1,
-        1,
         2,
         1,
         1,
@@ -1072,6 +1099,7 @@
         0,
         1,
         0,
+        1,
         1
       ],
       "key_events": [
@@ -1218,6 +1246,10 @@
         {
           "date": "2026-04-06",
           "event": "The Verge Exposes AI Music Platform Suno's Copyright Risks"
+        },
+        {
+          "date": "2026-04-10",
+          "event": "Hugging Face CEO Warns of Cybersecurity Risks in Lightly Maintained Open-Source Projects"
         }
       ],
       "created": "2026-02-25"
@@ -1398,11 +1430,10 @@
         "Startup Funding"
       ],
       "trajectory": "accelerating",
-      "signal_count": 44,
+      "signal_count": 46,
       "weekly_counts": [
         1,
         1,
-        1,
         2,
         1,
         1,
@@ -1411,6 +1442,7 @@
         1,
         2,
         1,
+        2,
         2
       ],
       "key_events": [
@@ -1561,6 +1593,10 @@
         {
           "date": "2026-04-09",
           "event": "Meta Launches Proprietary Multimodal Model Muse Spark with Contemplation Mode"
+        },
+        {
+          "date": "2026-04-10",
+          "event": "Meta AI Rises to #6 in App Store Following Muse Spark Launch; Meta AI Researchers Propose 'Think in Strokes' Process-Driven Image Generation"
         }
       ],
       "created": "2026-02-26"
