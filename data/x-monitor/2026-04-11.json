@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-11T17:15:03.986327",
+  "scraped_at": "2026-04-11T20:50:14.008704",
   "date": "2026-04-11",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 93,
-  "account_count": 46,
+  "tweet_count": 100,
+  "account_count": 48,
   "tweets": [
     {
       "id": "2042701528352591972",
@@ -1079,6 +1079,85 @@
       "likes": 850,
       "retweets": 47,
       "views": 51591
+    },
+    {
+      "id": "2042939596552405319",
+      "username": "srush_nlp",
+      "text": "Check out https://t.co/JxGYhkgq8n it’s really cool. https://t.co/UOpmPKKsT8",
+      "timestamp": "2026-04-11T12:15:30+00:00",
+      "url": "https://x.com/srush_nlp/status/2042939596552405319",
+      "images": [
+        "https://pbs.twimg.com/media/HFn6VnhW0AAsHJI.jpg"
+      ],
+      "likes": 5,
+      "retweets": 1,
+      "views": 909
+    },
+    {
+      "id": "2042910348009943051",
+      "username": "__tinygrad__",
+      "text": "Just merged an external PR for Bonsai-8B support (1 bit LLM). Because tinygrad has the correct abstractions, it was 5 lines. https://t.co/BLljWDANgq https://t.co/GlXWqPbYg5",
+      "timestamp": "2026-04-11T10:19:17+00:00",
+      "url": "https://x.com/__tinygrad__/status/2042910348009943051",
+      "images": [],
+      "likes": 93,
+      "retweets": 5,
+      "views": 4464
+    },
+    {
+      "id": "2042897961567363520",
+      "username": "NielsRogge",
+      "text": "Woah really cool example of agentic vision with open models running locally",
+      "timestamp": "2026-04-11T09:30:03+00:00",
+      "url": "https://x.com/NielsRogge/status/2042897961567363520",
+      "images": [],
+      "likes": 8,
+      "retweets": 2,
+      "views": 612
+    },
+    {
+      "id": "2042758557657878904",
+      "username": "Austen",
+      "text": "I’m just wrapping my mind around the data store for a “brain upload” being a wiki.\n\nNot a fancy vector data store or even a graph database, but a wiki.",
+      "timestamp": "2026-04-11T00:16:07+00:00",
+      "url": "https://x.com/Austen/status/2042758557657878904",
+      "images": [],
+      "likes": 56,
+      "retweets": 3,
+      "views": 12009
+    },
+    {
+      "id": "2041724154416943121",
+      "username": "Miles_Brundage",
+      "text": "Someone at Anthropic should ask for Mythos's help coming up with a more concise + accessible / visual overview of the contents of multi-hundred page system cards",
+      "timestamp": "2026-04-08T03:45:46+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2041724154416943121",
+      "images": [],
+      "likes": 55,
+      "retweets": 2,
+      "views": 3118
+    },
+    {
+      "id": "2041556572334428576",
+      "username": "ollama",
+      "text": "GLM-5.1 is here! \n\nTry it on OpenClaw🦞🦞🦞\n\nollama launch openclaw --model glm-5.1:cloud\n\nClaude Code \n\nollama launch claude --model glm-5.1:cloud\n\nChat with the model \n\nollama run glm-5.1:cloud",
+      "timestamp": "2026-04-07T16:39:51+00:00",
+      "url": "https://x.com/ollama/status/2041556572334428576",
+      "images": [],
+      "likes": 1669,
+      "retweets": 150,
+      "views": 140174
+    },
+    {
+      "id": "2041303937182261563",
+      "username": "natolambert",
+      "text": "AI generally: not a bubble.\nOpenAI specifically: having to pay for 1B un-monetizable, high marginal costs users, need to raise so much -- maybe a bubble.",
+      "timestamp": "2026-04-06T23:55:58+00:00",
+      "url": "https://x.com/natolambert/status/2041303937182261563",
+      "images": [],
+      "likes": 277,
+      "retweets": 9,
+      "views": 27518
     }
   ]
 }
