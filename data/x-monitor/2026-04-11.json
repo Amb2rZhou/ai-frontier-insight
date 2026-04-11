@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-11T14:38:12.166621",
+  "scraped_at": "2026-04-11T17:15:03.986327",
   "date": "2026-04-11",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 84,
-  "account_count": 43,
+  "tweet_count": 93,
+  "account_count": 46,
   "tweets": [
     {
       "id": "2042701528352591972",
@@ -973,6 +973,112 @@
       "likes": 279,
       "retweets": 23,
       "views": 45645
+    },
+    {
+      "id": "2042860728026374599",
+      "username": "Miles_Brundage",
+      "text": "Hello, can I please get some good old fashioned \"expert commentary on an AI paper\" please https://t.co/cj2YzkXnAa",
+      "timestamp": "2026-04-11T07:02:06+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2042860728026374599",
+      "images": [],
+      "likes": 2,
+      "retweets": 3,
+      "views": 812
+    },
+    {
+      "id": "2042859700971278619",
+      "username": "Miles_Brundage",
+      "text": "This was done using now-primitive-compared-to-Mythos-and-Spud AI systems https://t.co/QdxuxQV62Q",
+      "timestamp": "2026-04-11T06:58:01+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2042859700971278619",
+      "images": [],
+      "likes": 8,
+      "retweets": 1,
+      "views": 943
+    },
+    {
+      "id": "2042858336169984321",
+      "username": "Miles_Brundage",
+      "text": "Hello, based police, I'd like to report an incident of the US government being AI-pilled + playing an (I hope) helpful coordinating role https://t.co/ZnYtjTVxYj",
+      "timestamp": "2026-04-11T06:52:36+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2042858336169984321",
+      "images": [],
+      "likes": 16,
+      "retweets": 1,
+      "views": 1271
+    },
+    {
+      "id": "2042855538887921685",
+      "username": "Miles_Brundage",
+      "text": "Also why didn't anyone tell me Keerthana wrote a book (\"AI for Robotics\") recently https://t.co/KPZUr8Vz87",
+      "timestamp": "2026-04-11T06:41:29+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2042855538887921685",
+      "images": [],
+      "likes": 4,
+      "retweets": 2,
+      "views": 1117
+    },
+    {
+      "id": "2042753348517138440",
+      "username": "docmilanfar",
+      "text": "In my chat with @ziv_ravid I spoke to how denoising evolved from a \"digital janitor\" to the heart of modern diffusion models. It's a powerful reminder that breakthroughs, even in practice, often come from long-term foundational work, not just the latest trends. link to episode👇 https://t.co/e0K0kBkxMw",
+      "timestamp": "2026-04-10T23:55:25+00:00",
+      "url": "https://x.com/docmilanfar/status/2042753348517138440",
+      "images": [],
+      "likes": 84,
+      "retweets": 11,
+      "views": 5681
+    },
+    {
+      "id": "2042678793555349954",
+      "username": "NielsRogge",
+      "text": "Want to thank @swyx and the @aiDotEngineer team for making Europe Great Again\n\nThanks for organizing this event to bring together AI engineers across Europe, connect, and learn from each other\n\nWill be speaking next time for sure! (If accepted) https://t.co/vcth1YVv1o",
+      "timestamp": "2026-04-10T18:59:10+00:00",
+      "url": "https://x.com/NielsRogge/status/2042678793555349954",
+      "images": [
+        "https://pbs.twimg.com/media/HFkNQD-aUAAaP3T.jpg",
+        "https://pbs.twimg.com/media/HFkNQD-akAQweL5.jpg"
+      ],
+      "likes": 50,
+      "retweets": 9,
+      "views": 3846
+    },
+    {
+      "id": "2042131701728461313",
+      "username": "boazbaraktcs",
+      "text": "I think preserving models for internal deployment is risky. I encourage Anthropic to release Mythos, even if it’s a version that over refuses on cyber tasks or routes risky responses to a weaker model, as we did with codex.",
+      "timestamp": "2026-04-09T06:45:13+00:00",
+      "url": "https://x.com/boazbaraktcs/status/2042131701728461313",
+      "images": [],
+      "likes": 588,
+      "retweets": 27,
+      "views": 65354
+    },
+    {
+      "id": "2042083697051246606",
+      "username": "JeffDean",
+      "text": "@sarahookr I asked Gemini: \"Can you analyze all the billboards listed on https://t.co/KJxh0bLnsd and give me a report of what industry is represented by the company on each billboard\" https://t.co/atA9A4gazZ",
+      "timestamp": "2026-04-09T03:34:28+00:00",
+      "url": "https://x.com/JeffDean/status/2042083697051246606",
+      "images": [
+        "https://pbs.twimg.com/media/HFbwTRHbAAAaGEE.jpg"
+      ],
+      "likes": 83,
+      "retweets": 5,
+      "views": 7375
+    },
+    {
+      "id": "2041969870234120231",
+      "username": "cursor_ai",
+      "text": "Cursor's code review agent can now learn from activity on PRs to self-improve in real time.\n\n78% of issues found are resolved by the time the PR is merged. https://t.co/VHG9nv9mgI",
+      "timestamp": "2026-04-08T20:02:09+00:00",
+      "url": "https://x.com/cursor_ai/status/2041969870234120231",
+      "images": [
+        "https://pbs.twimg.com/media/HFaIAN5a8AEgK0v.png"
+      ],
+      "likes": 850,
+      "retweets": 47,
+      "views": 51591
     }
   ]
 }
