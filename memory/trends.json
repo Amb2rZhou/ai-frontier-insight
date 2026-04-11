@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T09:33:49.152208+08:00",
+  "last_updated": "2026-04-11T09:34:37.669011+08:00",
   "trends": [
     {
       "id": "ai_safety_pivot_and_accelerated_agi_time",
@@ -15,9 +15,8 @@
         "AGI Timeline"
       ],
       "trajectory": "accelerating",
-      "signal_count": 58,
+      "signal_count": 60,
       "weekly_counts": [
-        2,
         1,
         1,
         2,
@@ -28,7 +27,8 @@
         1,
         1,
         2,
-        1
+        1,
+        2
       ],
       "key_events": [
         {
@@ -82,6 +82,10 @@
         {
           "date": "2026-04-10",
           "event": "OpenAI Backs Illinois Bill to Limit Liability for AI-Caused Harm"
+        },
+        {
+          "date": "2026-04-11",
+          "event": "OpenAI Faces Lawsuit Over Alleged Stalking Incident; VentureBeat: AI Agent Zero-Trust Architectures Emerge"
         }
       ],
       "created": "2026-02-25"
@@ -96,10 +100,9 @@
         "Nvidia"
       ],
       "trajectory": "stable",
-      "signal_count": 14,
+      "signal_count": 15,
       "weekly_counts": [
         2,
-        2,
         1,
         0,
         1,
@@ -109,6 +112,7 @@
         1,
         0,
         0,
+        1,
         1
       ],
       "key_events": [
@@ -159,6 +163,10 @@
         {
           "date": "2026-04-10",
           "event": "NVIDIA Introduces RoboLab Benchmark for Generalist Robot Policies"
+        },
+        {
+          "date": "2026-04-11",
+          "event": "Tencent Releases HY-Embodied-0.5 Foundation Model"
         }
       ],
       "created": "2026-02-25"
@@ -177,9 +185,8 @@
         "Business Models"
       ],
       "trajectory": "accelerating",
-      "signal_count": 45,
+      "signal_count": 47,
       "weekly_counts": [
-        1,
         1,
         1,
         1,
@@ -190,6 +197,7 @@
         1,
         3,
         1,
+        2,
         2
       ],
       "key_events": [
@@ -244,6 +252,10 @@
         {
           "date": "2026-04-10",
           "event": "Unsloth AI Enables Free Fine-Tuning of Gemma 4 31B on Kaggle; Hugging Face CEO Warns of Cybersecurity Risks in Lightly Maintained Open-Source Projects"
+        },
+        {
+          "date": "2026-04-11",
+          "event": "ThreadWeaver: Open-Source Parallel Thinking for LLMs; Anthropic Temporarily Bans OpenClaw Creator"
         }
       ],
       "created": "2026-02-25"
@@ -349,9 +361,8 @@
         "Anthropic"
       ],
       "trajectory": "accelerating",
-      "signal_count": 101,
+      "signal_count": 104,
       "weekly_counts": [
-        1,
         3,
         2,
         2,
@@ -362,7 +373,8 @@
         2,
         1,
         2,
-        2
+        2,
+        3
       ],
       "key_events": [
         {
@@ -416,6 +428,10 @@
         {
           "date": "2026-04-10",
           "event": "Cursor AI Agents Can Now Attach Demos and Screenshots to GitHub PRs; Anthropic Releases SDK Update with Beta 'Advisor Tool' for Managed Agents"
+        },
+        {
+          "date": "2026-04-11",
+          "event": "Anthropic Launches Claude Managed Agents Public Beta; Muse Spark API Coming Soon for Agent Integration"
         }
       ],
       "created": "2026-02-25"
@@ -515,9 +531,8 @@
         "xAI"
       ],
       "trajectory": "accelerating",
-      "signal_count": 26,
+      "signal_count": 27,
       "weekly_counts": [
-        1,
         1,
         1,
         1,
@@ -528,6 +543,7 @@
         1,
         2,
         0,
+        1,
         1
       ],
       "key_events": [
@@ -630,6 +646,10 @@
         {
           "date": "2026-04-07",
           "event": "OpenAI Alums Raise $100M Venture Fund 'Zero Shot'"
+        },
+        {
+          "date": "2026-04-11",
+          "event": "Anthropic Temporarily Bans OpenClaw Creator"
         }
       ],
       "created": "2026-02-25"
@@ -730,9 +750,8 @@
         "Computer Use"
       ],
       "trajectory": "accelerating",
-      "signal_count": 133,
+      "signal_count": 135,
       "weekly_counts": [
-        1,
         2,
         1,
         4,
@@ -743,6 +762,7 @@
         2,
         2,
         1,
+        2,
         2
       ],
       "key_events": [
@@ -797,6 +817,10 @@
         {
           "date": "2026-04-10",
           "event": "Cursor AI Agents Can Now Attach Demos and Screenshots to GitHub PRs; Anthropic Releases SDK Update with Beta 'Advisor Tool' for Managed Agents"
+        },
+        {
+          "date": "2026-04-11",
+          "event": "Anthropic Launches Claude Managed Agents Public Beta; VentureBeat: AI Agent Zero-Trust Architectures Emerge"
         }
       ],
       "created": "2026-02-25"
@@ -1087,11 +1111,10 @@
         "Risk Management"
       ],
       "trajectory": "stable",
-      "signal_count": 44,
+      "signal_count": 45,
       "weekly_counts": [
         1,
         1,
-        1,
         2,
         1,
         1,
@@ -1099,6 +1122,7 @@
         0,
         1,
         0,
+        1,
         1,
         1
       ],
@@ -1250,6 +1274,10 @@
         {
           "date": "2026-04-10",
           "event": "Hugging Face CEO Warns of Cybersecurity Risks in Lightly Maintained Open-Source Projects"
+        },
+        {
+          "date": "2026-04-11",
+          "event": "VentureBeat: AI Agent Zero-Trust Architectures Emerge"
         }
       ],
       "created": "2026-02-25"
@@ -1321,9 +1349,8 @@
         "DeepSeek"
       ],
       "trajectory": "accelerating",
-      "signal_count": 22,
+      "signal_count": 24,
       "weekly_counts": [
-        2,
         1,
         1,
         1,
@@ -1334,7 +1361,8 @@
         0,
         1,
         1,
-        1
+        1,
+        2
       ],
       "key_events": [
         {
@@ -1416,6 +1444,10 @@
         {
           "date": "2026-04-09",
           "event": "Alibaba's Qwen3.6-Plus Tops OpenRouter Charts, Claiming High Cost-Performance"
+        },
+        {
+          "date": "2026-04-11",
+          "event": "Tencent Releases HY-Embodied-0.5 Foundation Model; Tencent Proposes MegaStyle for Scalable Style Dataset Creation"
         }
       ],
       "created": "2026-02-25"
@@ -1430,10 +1462,9 @@
         "Startup Funding"
       ],
       "trajectory": "accelerating",
-      "signal_count": 46,
+      "signal_count": 49,
       "weekly_counts": [
         1,
-        1,
         2,
         1,
         1,
@@ -1443,7 +1474,8 @@
         2,
         1,
         2,
-        2
+        2,
+        3
       ],
       "key_events": [
         {
@@ -1597,6 +1629,10 @@
         {
           "date": "2026-04-10",
           "event": "Meta AI Rises to #6 in App Store Following Muse Spark Launch; Meta AI Researchers Propose 'Think in Strokes' Process-Driven Image Generation"
+        },
+        {
+          "date": "2026-04-11",
+          "event": "Tencent Proposes MegaStyle for Scalable Style Dataset Creation; Seedance 2.0 Used to Create 10-Minute AI Film; Muse Spark API Coming Soon for Agent Integration"
         }
       ],
       "created": "2026-02-26"
@@ -1638,12 +1674,13 @@
         "Corporate Strategy"
       ],
       "trajectory": "accelerating",
-      "signal_count": 3,
+      "signal_count": 4,
       "weekly_counts": [
         1,
         1,
         1,
-        0
+        0,
+        1
       ],
       "key_events": [
         {
@@ -1657,6 +1694,10 @@
         {
           "date": "2026-03-25",
           "event": "Kleiner Perkins raises $3.5B to go all-in on AI investing"
+        },
+        {
+          "date": "2026-04-11",
+          "event": "a16z: AI Companies Raised More Capital in Q1 2026 Than All of 2025"
         }
       ],
       "created": "2026-02-28"

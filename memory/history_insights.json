@@ -1,66 +1,6 @@
 {
   "predictions": [
     {
-      "date": "2026-03-31T09:33:26.713243+08:00",
-      "prediction_text": "基础设施团队可以评估此类边缘AI平台，用于部署对延迟与可靠性要求极高的实时内容处理服务。",
-      "category": "infrastructure",
-      "source_signal": "NVIDIA IGX Thor Platform Now Available for Autonomous Robots and Surgical Systems"
-    },
-    {
-      "date": "2026-03-31T09:33:26.717802+08:00",
-      "prediction_text": "平台在构建内部Agent时，建议优先评估基于开源模型的本地化部署方案以控制风险。",
-      "category": "ecosystem_shift",
-      "source_signal": "HuggingFace CEO Advocates for Open-Source Models in Agent Tools"
-    },
-    {
-      "date": "2026-03-31T09:33:26.722148+08:00",
-      "prediction_text": "内容安全与模型团队值得关注此类研究，加强对内部微调与强化学习流程的监控与对齐评估。",
-      "category": "research_breakthrough",
-      "source_signal": "UK AI Security Institute Research on Natural Emergent Misalignment from Reward Hacking"
-    },
-    {
-      "date": "2026-04-01T09:33:39.534523+08:00",
-      "prediction_text": "内容与电商平台建议加速评估自研或深度定制垂直模型，以对冲对单一供应商的过度依赖与成本失控风险。",
-      "category": "strategic_move",
-      "source_signal": "OpenAI Completes $122B Funding Round at $852B Valuation"
-    },
-    {
-      "date": "2026-04-01T09:33:39.544040+08:00",
-      "prediction_text": "内容安全与平台Agent研发团队值得关注代码泄露揭示的交互模式，并强化自身Agent系统的安全审计与输入过滤。",
-      "category": "ecosystem_shift",
-      "source_signal": "Anthropic Claude Code Source Code Leak"
-    },
-    {
-      "date": "2026-04-01T09:33:39.553054+08:00",
-      "prediction_text": "推荐算法团队可以探索基于LLM的下一代排序架构，以统一处理内容、商品与广告的个性化分发。",
-      "category": "research_breakthrough",
-      "source_signal": "Meta Introduces Adaptive Ranking Model for LLM-Scale Ads Recommendation"
-    },
-    {
-      "date": "2026-04-01T09:33:39.559209+08:00",
-      "prediction_text": "内容创作工具团队可以考虑集成此类轻量级视频模型，为用户提供低门槛的短视频/动态内容生成功能。",
-      "category": "model_release",
-      "source_signal": "Google Releases Veo 3.1 Lite, a Cost-Effective Video Generation Model"
-    },
-    {
-      "date": "2026-04-01T09:33:39.565009+08:00",
-      "prediction_text": "创作者工具与客户端团队可以探索基于MLX等框架，将部分AI功能（如内容草稿生成）完全本地化以提升体验与隐私。",
-      "category": "infrastructure",
-      "source_signal": "Ollama Major Update: MLX Integration for Apple Silicon and NVFP4 Support"
-    },
-    {
-      "date": "2026-04-01T09:33:39.569871+08:00",
-      "prediction_text": "社区与电商平台的产品团队建议探索将AI Agent深度嵌入用户互动与交易流程，而非仅作为附加功能。",
-      "category": "strategic_move",
-      "source_signal": "Salesforce Announces AI-Heavy Slack Overhaul with 30+ New Features"
-    },
-    {
-      "date": "2026-04-01T09:33:39.574758+08:00",
-      "prediction_text": "平台研发与创作者工具团队可以考虑引入或对标此类垂直领域SOTA模型，以提升内部效率与对外服务能力。",
-      "category": "strategic_move",
-      "source_signal": "KwaiKAT Releases KAT-Coder-V2, an Agentic Coding Model Close to Claude Opus 4.6"
-    },
-    {
       "date": "2026-04-01T09:33:39.579484+08:00",
       "prediction_text": "电商与内容审核团队可以评估采用此类紧凑模型，用于商品详情理解、资质文档审核等成本敏感型任务。",
       "category": "model_release",
@@ -599,6 +539,66 @@
       "prediction_text": "基础设施团队可以评估引入SGLang等高效推理运行时，以优化平台AI服务的成本与响应速度。",
       "category": "infrastructure",
       "source_signal": "Andrew Ng Launches New Course on Efficient LLM Inference with SGLang"
+    },
+    {
+      "date": "2026-04-11T09:34:11.556178+08:00",
+      "prediction_text": "电商平台的客服、内容平台的创作者助手等Agent服务可以考虑基于此类托管平台快速构建与迭代。",
+      "category": "strategic_move",
+      "source_signal": "Anthropic Launches Claude Managed Agents Public Beta"
+    },
+    {
+      "date": "2026-04-11T09:34:11.561612+08:00",
+      "prediction_text": "内容安全与法务团队必须将AI生成内容的风险预警与干预机制提升至最高优先级。",
+      "category": "strategic_move",
+      "source_signal": "OpenAI Faces Lawsuit Over Alleged Stalking Incident"
+    },
+    {
+      "date": "2026-04-11T09:34:11.575769+08:00",
+      "prediction_text": "平台基础设施团队在构建内部或面向开发者的Agent服务时，建议优先采纳零信任架构设计。",
+      "category": "infrastructure",
+      "source_signal": "VentureBeat: AI Agent Zero-Trust Architectures Emerge"
+    },
+    {
+      "date": "2026-04-11T09:34:11.592980+08:00",
+      "prediction_text": "电商平台的仓储物流机器人、内容平台的VR/AR交互代理值得关注此类模型的进展。",
+      "category": "research_breakthrough",
+      "source_signal": "Tencent Releases HY-Embodied-0.5 Foundation Model"
+    },
+    {
+      "date": "2026-04-11T09:34:11.608778+08:00",
+      "prediction_text": "创作者工具与产品设计团队可以探索集成此类模型，升级智能设计助手与原型生成功能。",
+      "category": "strategic_move",
+      "source_signal": "Muse Spark API Coming Soon for Agent Integration"
+    },
+    {
+      "date": "2026-04-11T09:34:11.622869+08:00",
+      "prediction_text": "战略投资与并购团队需要加速评估并锁定关键AI人才与技术资产，应对白热化竞争。",
+      "category": "ecosystem_shift",
+      "source_signal": "a16z: AI Companies Raised More Capital in Q1 2026 Than All of 2025"
+    },
+    {
+      "date": "2026-04-11T09:34:11.635688+08:00",
+      "prediction_text": "平台在构建开发者生态时，建议提前制定清晰的API使用政策与冲突解决机制。",
+      "category": "ecosystem_shift",
+      "source_signal": "Anthropic Temporarily Bans OpenClaw Creator"
+    },
+    {
+      "date": "2026-04-11T09:34:11.655378+08:00",
+      "prediction_text": "内容平台的AIGC工具团队可以借鉴此方法，快速构建垂直领域（如特定艺术风格）的生成模型。",
+      "category": "research_breakthrough",
+      "source_signal": "Tencent Proposes MegaStyle for Scalable Style Dataset Creation"
+    },
+    {
+      "date": "2026-04-11T09:34:11.672836+08:00",
+      "prediction_text": "推荐系统与搜索团队可以探索将此类技术用于提升复杂查询理解与排序任务的推理速度。",
+      "category": "research_breakthrough",
+      "source_signal": "ThreadWeaver: Open-Source Parallel Thinking for LLMs"
+    },
+    {
+      "date": "2026-04-11T09:34:11.691693+08:00",
+      "prediction_text": "内容平台的视频创作工具值得集成或开发类似能力，赋能创作者生产高质量AI原生影视内容。",
+      "category": "research_breakthrough",
+      "source_signal": "Seedance 2.0 Used to Create 10-Minute AI Film"
     }
   ]
 }
