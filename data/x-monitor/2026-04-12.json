@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-12T01:23:38.804576",
+  "scraped_at": "2026-04-12T05:59:02.184706",
   "date": "2026-04-12",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 16,
-  "account_count": 13,
+  "tweet_count": 25,
+  "account_count": 20,
   "tweets": [
     {
       "id": "2043015470924661206",
@@ -183,6 +183,110 @@
       "likes": 17,
       "retweets": 0,
       "views": 2043
+    },
+    {
+      "id": "2043079801473503627",
+      "username": "GaryMarcus",
+      "text": "X search is completely unreliable. An undergrad could make a better system for classifying trends.\n\nAnd yet they are supposed to be part of a leading rocket-and-AI company?",
+      "timestamp": "2026-04-11T21:32:37+00:00",
+      "url": "https://x.com/GaryMarcus/status/2043079801473503627",
+      "images": [],
+      "likes": 48,
+      "retweets": 5,
+      "views": 1504
+    },
+    {
+      "id": "2043072304217821486",
+      "username": "lateinteraction",
+      "text": "A while back @tom_doerr asked \"I always wondered what exactly the connection between late interaction and DSPy is\".\n\nHere's a tiny writeup on how, to me at least: late interaction, DSPy, GEPA, and RLMs are emblematic of *one* core idea usually missing or done poorly in modern AI.",
+      "timestamp": "2026-04-11T21:02:50+00:00",
+      "url": "https://x.com/lateinteraction/status/2043072304217821486",
+      "images": [],
+      "likes": 26,
+      "retweets": 2,
+      "views": 2308
+    },
+    {
+      "id": "2043071591509041492",
+      "username": "NVIDIARobotics",
+      "text": "At #NVIDIAGTC last month, we shared new technologies that are speeding up the development of AI-powered robots, from open models to next-gen simulation and physics tools. 🦾 \n\nMissed it? Explore the on-demand GTC sessions to see the latest breakthroughs in robotics and embodied https://t.co/A8auzEPVGq",
+      "timestamp": "2026-04-11T21:00:00+00:00",
+      "url": "https://x.com/NVIDIARobotics/status/2043071591509041492",
+      "images": [
+        "https://pbs.twimg.com/media/HFnoyuPWgAQ42pV.jpg",
+        "https://pbs.twimg.com/media/HFnoz-RXEAAereM.jpg",
+        "https://pbs.twimg.com/media/HFno1EhWIAAQqKi.jpg",
+        "https://pbs.twimg.com/media/HFno2LTXMAAzgJQ.jpg"
+      ],
+      "likes": 17,
+      "retweets": 7,
+      "views": 848
+    },
+    {
+      "id": "2043051227387433144",
+      "username": "levie",
+      "text": "We will likely have more lawyers in the future than today, because:\n\n1) AI will cause so many more people to ask legal questions which will encourage them to need to verify or execute through an actual lawyer. \n\n2) AI will cause an explosion of more and more exotic legal terms",
+      "timestamp": "2026-04-11T19:39:05+00:00",
+      "url": "https://x.com/levie/status/2043051227387433144",
+      "images": [],
+      "likes": 159,
+      "retweets": 23,
+      "views": 35686
+    },
+    {
+      "id": "2043046878296838179",
+      "username": "aelluswamy",
+      "text": "Tesla FSD is now rolling out to actual customers in the Netherlands!",
+      "timestamp": "2026-04-11T19:21:48+00:00",
+      "url": "https://x.com/aelluswamy/status/2043046878296838179",
+      "images": [],
+      "likes": 3797,
+      "retweets": 405,
+      "views": 334843
+    },
+    {
+      "id": "2043041394059534608",
+      "username": "nickcammarata",
+      "text": "anthropic question: is it true that fast opus and remote control are mutually exclusive? i want to use api based billing + remote control but that seems not possible. remote control wants a max subscription",
+      "timestamp": "2026-04-11T19:00:00+00:00",
+      "url": "https://x.com/nickcammarata/status/2043041394059534608",
+      "images": [],
+      "likes": 20,
+      "retweets": 0,
+      "views": 2847
+    },
+    {
+      "id": "2043039881866154412",
+      "username": "NielsRogge",
+      "text": "An underrated feature of the Codex Desktop app is that when the agent is running locally, and I close my MacBook and reopen it later, the agent just continues its work without me having to restart it.\n\nVery cool!",
+      "timestamp": "2026-04-11T18:54:00+00:00",
+      "url": "https://x.com/NielsRogge/status/2043039881866154412",
+      "images": [],
+      "likes": 3,
+      "retweets": 0,
+      "views": 389
+    },
+    {
+      "id": "2043026196892360705",
+      "username": "minchoi",
+      "text": "Anthropic just dropped Claude inside Microsoft Word.\n\nImagine drafting and editing documents without leaving Word.\n\nClaude can now write with tracked changes and keeps your formatting intact.\nhttps://t.co/MXjyCMIDIO",
+      "timestamp": "2026-04-11T17:59:37+00:00",
+      "url": "https://x.com/minchoi/status/2043026196892360705",
+      "images": [],
+      "likes": 89,
+      "retweets": 18,
+      "views": 16172
+    },
+    {
+      "id": "2041595526173364583",
+      "username": "Austen",
+      "text": "We were on the $1,000/day track until we had @kellyclaudeai build clawptimizer to automate it for us (https://t.co/jp4GuZabqh)\n\nIt's seriously worth optimizing your token spend. If you're doing material Claude + OpenClaw work will save hundreds/day.",
+      "timestamp": "2026-04-07T19:14:39+00:00",
+      "url": "https://x.com/Austen/status/2041595526173364583",
+      "images": [],
+      "likes": 120,
+      "retweets": 12,
+      "views": 17842
     }
   ]
 }
