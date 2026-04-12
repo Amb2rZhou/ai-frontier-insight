@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-12T05:59:02.184706",
+  "scraped_at": "2026-04-12T09:01:14.003027",
   "date": "2026-04-12",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 25,
-  "account_count": 20,
+  "tweet_count": 31,
+  "account_count": 24,
   "tweets": [
     {
       "id": "2043015470924661206",
@@ -287,6 +287,76 @@
       "likes": 120,
       "retweets": 12,
       "views": 17842
+    },
+    {
+      "id": "2043126077724443069",
+      "username": "JustinLin610",
+      "text": "we need agent evals that are really consistent with real world usages. otherwise people are optimizing foundation models for the wrong direction. the problem of targeting is even bigger than benchmaxxing.",
+      "timestamp": "2026-04-12T00:36:31+00:00",
+      "url": "https://x.com/JustinLin610/status/2043126077724443069",
+      "images": [],
+      "likes": 23,
+      "retweets": 0,
+      "views": 963
+    },
+    {
+      "id": "2043113352436552103",
+      "username": "lateinteraction",
+      "text": "This is finally about as expensive as the initial API pricing for GPT-3 Davinci, at $60 per million input/output tokens.",
+      "timestamp": "2026-04-11T23:45:57+00:00",
+      "url": "https://x.com/lateinteraction/status/2043113352436552103",
+      "images": [],
+      "likes": 21,
+      "retweets": 1,
+      "views": 2546
+    },
+    {
+      "id": "2043104823717867920",
+      "username": "sriramk",
+      "text": "weekend with Openclaw + Hermes + what it seems like @garrytan’s dozens of amazing open source libraries.",
+      "timestamp": "2026-04-11T23:12:03+00:00",
+      "url": "https://x.com/sriramk/status/2043104823717867920",
+      "images": [],
+      "likes": 91,
+      "retweets": 2,
+      "views": 8454
+    },
+    {
+      "id": "2043099113000931398",
+      "username": "lateinteraction",
+      "text": "The bitter free lunch is the idea that if you rely *purely* on scale, you will get the bland and bitter defaults that everyone else is getting.\n\nThere's irreducible complexity and irreducible modularity to *your* problem specification, at least if your problem is worth your time.",
+      "timestamp": "2026-04-11T22:49:22+00:00",
+      "url": "https://x.com/lateinteraction/status/2043099113000931398",
+      "images": [],
+      "likes": 44,
+      "retweets": 5,
+      "views": 2864
+    },
+    {
+      "id": "2042797671094665254",
+      "username": "emollick",
+      "text": "Neat experiment finds AI fact checks are rated as more helpful &amp; less ideological than human ones\n\n\"LLM-generated Community Notes can achieve broader cross-ideological acceptance than human-written notes, receiving more positive ratings from raters across the political spectrum\" https://t.co/Ofg1kYNxYe",
+      "timestamp": "2026-04-11T02:51:32+00:00",
+      "url": "https://x.com/emollick/status/2042797671094665254",
+      "images": [
+        "https://pbs.twimg.com/media/HFl441Ua4AAfVhw.png",
+        "https://pbs.twimg.com/media/HFl46DjWQAAZSl5.jpg",
+        "https://pbs.twimg.com/media/HFl47CcXMAAKbBv.jpg"
+      ],
+      "likes": 201,
+      "retweets": 24,
+      "views": 15576
+    },
+    {
+      "id": "2042299371602264319",
+      "username": "thsottiaux",
+      "text": "We did it, say hi to the $100 plan! \n\nIt should be the sweet spot for a ton of you. It comes with a ton of codex usage. And yes we are resetting the limits again too as I mentioned yesterday. Let’s keep building!",
+      "timestamp": "2026-04-09T17:51:28+00:00",
+      "url": "https://x.com/thsottiaux/status/2042299371602264319",
+      "images": [],
+      "likes": 3726,
+      "retweets": 116,
+      "views": 202505
     }
   ]
 }
