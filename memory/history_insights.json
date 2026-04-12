@@ -1,66 +1,6 @@
 {
   "predictions": [
     {
-      "date": "2026-04-01T09:33:39.579484+08:00",
-      "prediction_text": "电商与内容审核团队可以评估采用此类紧凑模型，用于商品详情理解、资质文档审核等成本敏感型任务。",
-      "category": "model_release",
-      "source_signal": "IBM Granite 4.0 3B Vision: Compact Multimodal Model for Enterprise Documents"
-    },
-    {
-      "date": "2026-04-01T09:33:39.584523+08:00",
-      "prediction_text": "产品与算法评估团队值得探索建立新的AI效用评估框架，重点关注用户满意度、创作效率与生态健康度。",
-      "category": "ecosystem_shift",
-      "source_signal": "MIT Technology Review: AI Benchmarks Are Broken, Need New Evaluation Frameworks"
-    },
-    {
-      "date": "2026-04-01T09:33:39.589517+08:00",
-      "prediction_text": "平台研究院在发表或采用新技术时，建议加强技术溯源与合规审查，避免潜在的学术伦理与法律风险。",
-      "category": "ecosystem_shift",
-      "source_signal": "Schmidhuber Accuses LeCun of JEPA Idea Plagiarism"
-    },
-    {
-      "date": "2026-04-02T09:34:37.175897+08:00",
-      "prediction_text": "内容安全与平台Agent研发团队必须将对抗性环境测试纳入Agent安全评估的核心流程。",
-      "category": "research_breakthrough",
-      "source_signal": "Google DeepMind Introduces AI Agent Traps Framework"
-    },
-    {
-      "date": "2026-04-02T09:34:37.191174+08:00",
-      "prediction_text": "内容安全团队在部署基于RL的推荐或创作系统时，建议优先评估其思维链的可监控性。",
-      "category": "research_breakthrough",
-      "source_signal": "DeepMind Safety Research on Chain-of-Thought Monitorability"
-    },
-    {
-      "date": "2026-04-02T09:34:37.197794+08:00",
-      "prediction_text": "平台Agent架构师可以考虑采用渐进式披露设计，以优化多技能客服或创作助手的运行效率。",
-      "category": "infrastructure",
-      "source_signal": "Google Devs Proposes Agent Skills Specification for Efficiency"
-    },
-    {
-      "date": "2026-04-02T09:34:37.202495+08:00",
-      "prediction_text": "平台研发与创作者工具团队值得评估采用此类顶尖代码模型，以升级内部开发与对外服务能力。",
-      "category": "strategic_move",
-      "source_signal": "Alibaba Qwen Powers GrandCode to Conquer Coding Milestone"
-    },
-    {
-      "date": "2026-04-02T09:34:37.208213+08:00",
-      "prediction_text": "依赖外部大模型API的产品团队建议建立用量预警与多供应商备灾方案，以保障服务连续性。",
-      "category": "ecosystem_shift",
-      "source_signal": "OpenAI Codex Resets Rate Limits Proactively Amid High Usage"
-    },
-    {
-      "date": "2026-04-02T09:34:37.212940+08:00",
-      "prediction_text": "电商与社区平台的客服Agent设计，建议探索清晰的人机职责划分与无缝交接机制。",
-      "category": "strategic_move",
-      "source_signal": "Intuit's AI Agents Achieve 85% Repeat Usage with Human-in-the-Loop"
-    },
-    {
-      "date": "2026-04-02T09:34:37.217371+08:00",
-      "prediction_text": "创作者工具与运营团队可以探索利用此类模型，自动化内容上传、数据分析等重复性界面操作。",
-      "category": "model_release",
-      "source_signal": "HuggingFace Blog: Hcompany Releases Holo3 for Computer Use"
-    },
-    {
       "date": "2026-04-02T09:34:37.221754+08:00",
       "prediction_text": "平台在设计多Agent协作系统（如内容审核流水线）时，建议依据理论边界优化架构，避免过度复杂化。",
       "category": "research_breakthrough",
@@ -599,6 +539,66 @@
       "prediction_text": "内容平台的视频创作工具值得集成或开发类似能力，赋能创作者生产高质量AI原生影视内容。",
       "category": "research_breakthrough",
       "source_signal": "Seedance 2.0 Used to Create 10-Minute AI Film"
+    },
+    {
+      "date": "2026-04-12T09:34:33.659779+08:00",
+      "prediction_text": "平台在选型或自研Agent时，建议探索基于真实业务场景的评估体系，而非依赖公开榜单。",
+      "category": "research_breakthrough",
+      "source_signal": "Berkeley RDI Exposes AI Agent Benchmark Manipulation"
+    },
+    {
+      "date": "2026-04-12T09:34:33.678870+08:00",
+      "prediction_text": "内容安全与基础设施团队可以考虑强化对AI服务供应链的安全审计与监控。",
+      "category": "infrastructure",
+      "source_signal": "OpenAI Discloses Security Incident Related to Third-Party Library"
+    },
+    {
+      "date": "2026-04-12T09:34:33.706814+08:00",
+      "prediction_text": "电商平台的体验创新团队值得关注并利用此类数据集，构建高保真虚拟试穿功能。",
+      "category": "research_breakthrough",
+      "source_signal": "Google Releases Large-Scale Virtual Try-On Dataset FIT"
+    },
+    {
+      "date": "2026-04-12T09:34:33.729194+08:00",
+      "prediction_text": "社区平台在规划AI驱动的线下服务或内容时，建议关注此类监管进展及其责任框架。",
+      "category": "ecosystem_shift",
+      "source_signal": "Tesla FSD Supervised Approved in Netherlands, First in Europe"
+    },
+    {
+      "date": "2026-04-12T09:34:33.763614+08:00",
+      "prediction_text": "平台在开发客服、创作等Agent时，可以考虑基于ClawBench类框架进行端到端验收测试。",
+      "category": "research_breakthrough",
+      "source_signal": "ClawBench Presents Real-World Evaluation for AI Agents"
+    },
+    {
+      "date": "2026-04-12T09:34:33.787859+08:00",
+      "prediction_text": "平台基础设施团队在长期算力规划中，值得关注RISC-V生态的成本与灵活性优势。",
+      "category": "ecosystem_shift",
+      "source_signal": "NVIDIA-Backed SiFive Hits $3.65B Valuation for Open RISC-V AI Chips"
+    },
+    {
+      "date": "2026-04-12T09:34:33.824303+08:00",
+      "prediction_text": "平台战略组可以评估与硬件厂商在Agent生态上的竞合关系，探索垂直整合机会。",
+      "category": "strategic_move",
+      "source_signal": "AMD's GAIA AI Agent Platform Adds Chat-Based Custom Agent Building"
+    },
+    {
+      "date": "2026-04-12T09:34:33.855229+08:00",
+      "prediction_text": "内容安全与治理团队可以考虑试点AI辅助的事实核查，以缓解社区内的对立情绪。",
+      "category": "research_breakthrough",
+      "source_signal": "Study Finds AI Fact-Checks More Accepted Across Ideological Spectrum"
+    },
+    {
+      "date": "2026-04-12T09:34:33.878126+08:00",
+      "prediction_text": "平台在构建开放Agent生态前，建议优先投入底层互操作协议与信任机制的设计。",
+      "category": "infrastructure",
+      "source_signal": "MIT Hosts Open Agentic Web Conference on Agent Infrastructure"
+    },
+    {
+      "date": "2026-04-12T09:34:33.921668+08:00",
+      "prediction_text": "创作者工具或开发者生态团队可以探索提供类似的低门槛、体验式Agent开发环境。",
+      "category": "strategic_move",
+      "source_signal": "Cursor AI Announces Free Weekend for Composer 2 Agent Builder"
     }
   ]
 }

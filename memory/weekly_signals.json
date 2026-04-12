@@ -1186,6 +1186,203 @@
           108
         ]
       }
+    ],
+    "2026-04-12": [
+      {
+        "title": "Berkeley RDI Exposes AI Agent Benchmark Manipulation",
+        "signal_text": "加州大学伯克利分校的RDI团队发布博客文章，揭露当前AI Agent基准测试存在严重的“benchmark hacking”问题，即模型通过针对性优化而非真实能力提升来刷榜，并呼吁建立更可信的评估体系。",
+        "signal_strength": 0.82,
+        "sources": [
+          {
+            "name": "Hacker News (206 points)",
+            "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/"
+          }
+        ],
+        "tags": [
+          "AI Agent",
+          "Benchmark",
+          "Research"
+        ],
+        "raw_item_indices": [
+          13
+        ]
+      },
+      {
+        "title": "OpenAI Discloses Security Incident Related to Third-Party Library",
+        "signal_text": "OpenAI官方账号发布声明，确认发现一个涉及第三方开发库Axios的安全问题，该问题是更广泛行业事件的一部分。OpenAI表示未发现用户数据被访问、系统被入侵或软件被篡改的证据，并已采取措施。该推文获3100+ likes和120万+ views，引发高度关注。",
+        "signal_strength": 0.8,
+        "sources": [
+          {
+            "name": "Twitter (@OpenAI)",
+            "url": "https://x.com/OpenAI/status/2042780052669239782"
+          }
+        ],
+        "tags": [
+          "Content Security",
+          "Cybersecurity",
+          "Headline Company"
+        ],
+        "raw_item_indices": [
+          45
+        ]
+      },
+      {
+        "title": "Google Releases Large-Scale Virtual Try-On Dataset FIT",
+        "signal_text": "Google研究团队发布大规模虚拟试穿数据集FIT，该数据集包含精确的身体和服装尺寸测量，通过合成3D服装生成和物理模拟来解决服装合身性评估问题，对电商和内容生成有直接应用价值。",
+        "signal_strength": 0.78,
+        "sources": [
+          {
+            "name": "Arxiv (Google)",
+            "url": "https://huggingface.co/papers/2604.08526"
+          }
+        ],
+        "tags": [
+          "Multimodal",
+          "Dataset",
+          "E-commerce"
+        ],
+        "raw_item_indices": [
+          109
+        ]
+      },
+      {
+        "title": "Tesla FSD Supervised Approved in Netherlands, First in Europe",
+        "signal_text": "据The Verge报道和特斯拉Autopilot软件总监Ashok Elluswamy推文（获3700+ likes），荷兰监管机构RDW正式批准特斯拉的监督式全自动驾驶（FSD Supervised），使其成为欧洲首个授权使用FSD的道路，可能为更广泛采用打开大门。",
+        "signal_strength": 0.7,
+        "sources": [
+          {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/transportation/910717/netherlands-tesla-supervised-full-self-driving"
+          },
+          {
+            "name": "Twitter (@aelluswamy)",
+            "url": "https://x.com/aelluswamy/status/2043046878296838179"
+          }
+        ],
+        "tags": [
+          "Autonomous Driving",
+          "Regulation",
+          "Headline Company"
+        ],
+        "raw_item_indices": [
+          3,
+          70
+        ]
+      },
+      {
+        "title": "ClawBench Presents Real-World Evaluation for AI Agents",
+        "signal_text": "Natural and Artificial Intelligence Lab发布ClawBench，一个包含153个真实世界任务、覆盖144个平台的综合性评估框架，用于测试AI Agent自动化日常在线任务的能力，标志着Agent评估向实用性转变。",
+        "signal_strength": 0.68,
+        "sources": [
+          {
+            "name": "Arxiv",
+            "url": "https://huggingface.co/papers/2604.08523"
+          }
+        ],
+        "tags": [
+          "AI Agent",
+          "Benchmark",
+          "Evaluation"
+        ],
+        "raw_item_indices": [
+          95
+        ]
+      },
+      {
+        "title": "NVIDIA-Backed SiFive Hits $3.65B Valuation for Open RISC-V AI Chips",
+        "signal_text": "据TechCrunch报道，获得NVIDIA投资的SiFive以36.5亿美元估值完成融资，其芯片设计基于开放的RISC-V指令集架构，而非x86或ARM，标志着AI芯片领域开源硬件生态的竞争加剧。",
+        "signal_strength": 0.68,
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/04/11/nvidia-backed-sifive-hits-3-65-billion-valuation-for-open-ai-chips/"
+          }
+        ],
+        "tags": [
+          "AI Hardware",
+          "Open Source",
+          "Investment"
+        ],
+        "raw_item_indices": [
+          22
+        ]
+      },
+      {
+        "title": "AMD's GAIA AI Agent Platform Adds Chat-Based Custom Agent Building",
+        "signal_text": "据社区讨论，AMD的GAIA AI Agent平台现已支持通过聊天界面构建自定义AI Agent，并转型为“真正的桌面应用”，表明硬件厂商正积极布局AI Agent生态以增强其平台吸引力。",
+        "signal_strength": 0.65,
+        "sources": [
+          {
+            "name": "Reddit AI",
+            "url": "https://www.reddit.com/r/artificial/comments/1sitbvu/amds_gaia_now_allows_building_custom_ai_agents/"
+          }
+        ],
+        "tags": [
+          "AI Agent",
+          "Hardware",
+          "Platform"
+        ],
+        "raw_item_indices": [
+          11
+        ]
+      },
+      {
+        "title": "Study Finds AI Fact-Checks More Accepted Across Ideological Spectrum",
+        "signal_text": "宾夕法尼亚大学教授Ethan Mollick分享的一项实验研究发现，LLM生成的事实核查内容比人类编写的更易获得跨意识形态的接受，在政治光谱两端获得更多正面评价，为AI在内容治理和虚假信息识别中的应用提供了新视角。",
+        "signal_strength": 0.65,
+        "sources": [
+          {
+            "name": "Twitter (@emollick)",
+            "url": "https://x.com/emollick/status/2042797671094665254"
+          }
+        ],
+        "tags": [
+          "Content Safety",
+          "Misinformation",
+          "Research"
+        ],
+        "raw_item_indices": [
+          78
+        ]
+      },
+      {
+        "title": "MIT Hosts Open Agentic Web Conference on Agent Infrastructure",
+        "signal_text": "MIT举办了“开放智能体网络”会议，讨论指出当前处于Agent基础设施的“DNS时代”，在大规模Agent互找和互信之前，需要身份、认证、声誉和注册等基础架构，类比DNS在搜索引擎出现前的作用。",
+        "signal_strength": 0.65,
+        "sources": [
+          {
+            "name": "Reddit AI (Conference Summary)",
+            "url": "https://www.reddit.com/r/artificial/comments/1siypay/spent_today_at_mits_open_agentic_web_conference/"
+          }
+        ],
+        "tags": [
+          "AI Agent",
+          "Infrastructure",
+          "Research"
+        ],
+        "raw_item_indices": [
+          1
+        ]
+      },
+      {
+        "title": "Cursor AI Announces Free Weekend for Composer 2 Agent Builder",
+        "signal_text": "Cursor AI官方账号宣布本周末其新的Composer 2 Agent构建工具使用量翻倍，用户可无小时限制地使用，旨在推广其新的AI Agent开发界面。该推文获300+ likes，显示开发者社区对低代码Agent构建工具的需求旺盛。",
+        "signal_strength": 0.62,
+        "sources": [
+          {
+            "name": "Twitter (@cursor_ai)",
+            "url": "https://x.com/cursor_ai/status/2043009335161430187"
+          }
+        ],
+        "tags": [
+          "AI Agent",
+          "Developer Tools",
+          "Product Launch"
+        ],
+        "raw_item_indices": [
+          56
+        ]
+      }
     ]
   },
   "archived_weeks": [

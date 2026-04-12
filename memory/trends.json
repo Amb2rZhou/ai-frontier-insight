@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T09:34:37.669011+08:00",
+  "last_updated": "2026-04-12T09:35:13.587284+08:00",
   "trends": [
     {
       "id": "ai_safety_pivot_and_accelerated_agi_time",
@@ -15,9 +15,8 @@
         "AGI Timeline"
       ],
       "trajectory": "accelerating",
-      "signal_count": 60,
+      "signal_count": 61,
       "weekly_counts": [
-        1,
         1,
         2,
         1,
@@ -28,7 +27,8 @@
         1,
         2,
         1,
-        2
+        2,
+        1
       ],
       "key_events": [
         {
@@ -86,6 +86,10 @@
         {
           "date": "2026-04-11",
           "event": "OpenAI Faces Lawsuit Over Alleged Stalking Incident; VentureBeat: AI Agent Zero-Trust Architectures Emerge"
+        },
+        {
+          "date": "2026-04-12",
+          "event": "OpenAI Discloses Security Incident Related to Third-Party Library"
         }
       ],
       "created": "2026-02-25"
@@ -99,10 +103,9 @@
         "Funding",
         "Nvidia"
       ],
-      "trajectory": "stable",
-      "signal_count": 15,
+      "trajectory": "accelerating",
+      "signal_count": 16,
       "weekly_counts": [
-        2,
         1,
         0,
         1,
@@ -112,6 +115,7 @@
         1,
         0,
         0,
+        1,
         1,
         1
       ],
@@ -167,6 +171,10 @@
         {
           "date": "2026-04-11",
           "event": "Tencent Releases HY-Embodied-0.5 Foundation Model"
+        },
+        {
+          "date": "2026-04-12",
+          "event": "Tesla FSD Supervised Approved in Netherlands, First in Europe"
         }
       ],
       "created": "2026-02-25"
@@ -269,10 +277,9 @@
         "Startups",
         "Nvidia Competition"
       ],
-      "trajectory": "stable",
-      "signal_count": 14,
+      "trajectory": "accelerating",
+      "signal_count": 15,
       "weekly_counts": [
-        1,
         0,
         0,
         1,
@@ -283,7 +290,8 @@
         1,
         1,
         0,
-        0
+        0,
+        1
       ],
       "key_events": [
         {
@@ -345,6 +353,10 @@
         {
           "date": "2026-03-25",
           "event": "Arm announces entry into AI chip manufacturing with major customers"
+        },
+        {
+          "date": "2026-04-12",
+          "event": "NVIDIA-Backed SiFive Hits $3.65B Valuation for Open RISC-V AI Chips"
         }
       ],
       "created": "2026-02-25"
@@ -361,9 +373,8 @@
         "Anthropic"
       ],
       "trajectory": "accelerating",
-      "signal_count": 104,
+      "signal_count": 105,
       "weekly_counts": [
-        3,
         2,
         2,
         6,
@@ -374,7 +385,8 @@
         1,
         2,
         2,
-        3
+        3,
+        1
       ],
       "key_events": [
         {
@@ -432,6 +444,10 @@
         {
           "date": "2026-04-11",
           "event": "Anthropic Launches Claude Managed Agents Public Beta; Muse Spark API Coming Soon for Agent Integration"
+        },
+        {
+          "date": "2026-04-12",
+          "event": "AMD's GAIA AI Agent Platform Adds Chat-Based Custom Agent Building"
         }
       ],
       "created": "2026-02-25"
@@ -450,9 +466,8 @@
         "Foundation Models"
       ],
       "trajectory": "accelerating",
-      "signal_count": 84,
+      "signal_count": 86,
       "weekly_counts": [
-        1,
         2,
         1,
         2,
@@ -463,6 +478,7 @@
         3,
         2,
         1,
+        2,
         2
       ],
       "key_events": [
@@ -517,6 +533,10 @@
         {
           "date": "2026-04-10",
           "event": "Google Devs Showcase RAG Pipeline Optimization for AI Agents; Andrew Ng Launches New Course on Efficient LLM Inference with SGLang"
+        },
+        {
+          "date": "2026-04-12",
+          "event": "Berkeley RDI Exposes AI Agent Benchmark Manipulation; Study Finds AI Fact-Checks More Accepted Across Ideological Spectrum"
         }
       ],
       "created": "2026-02-25"
@@ -672,6 +692,7 @@
         0,
         0,
         0,
+        0,
         0
       ],
       "key_events": [
@@ -750,9 +771,8 @@
         "Computer Use"
       ],
       "trajectory": "accelerating",
-      "signal_count": 135,
+      "signal_count": 139,
       "weekly_counts": [
-        2,
         1,
         4,
         4,
@@ -763,7 +783,8 @@
         2,
         1,
         2,
-        2
+        2,
+        4
       ],
       "key_events": [
         {
@@ -821,6 +842,10 @@
         {
           "date": "2026-04-11",
           "event": "Anthropic Launches Claude Managed Agents Public Beta; VentureBeat: AI Agent Zero-Trust Architectures Emerge"
+        },
+        {
+          "date": "2026-04-12",
+          "event": "Berkeley RDI Exposes AI Agent Benchmark Manipulation; ClawBench Presents Real-World Evaluation for AI Agents; AMD's GAIA AI Agent Platform Adds Chat-Based Custom Agent Building; MIT Hosts Open Agentic Web Conference on Agent Infrastructure; Cursor AI Announces Free Weekend for Composer 2 Agent Builder"
         }
       ],
       "created": "2026-02-25"
@@ -906,9 +931,8 @@
         "AI Infrastructure"
       ],
       "trajectory": "accelerating",
-      "signal_count": 51,
+      "signal_count": 52,
       "weekly_counts": [
-        1,
         1,
         1,
         1,
@@ -918,6 +942,7 @@
         1,
         1,
         3,
+        1,
         1,
         1
       ],
@@ -969,6 +994,10 @@
         {
           "date": "2026-04-10",
           "event": "Andrew Ng Launches New Course on Efficient LLM Inference with SGLang"
+        },
+        {
+          "date": "2026-04-12",
+          "event": "MIT Hosts Open Agentic Web Conference on Agent Infrastructure"
         }
       ],
       "created": "2026-02-25"
@@ -1110,11 +1139,10 @@
         "Open Source",
         "Risk Management"
       ],
-      "trajectory": "stable",
-      "signal_count": 45,
+      "trajectory": "accelerating",
+      "signal_count": 46,
       "weekly_counts": [
         1,
-        1,
         2,
         1,
         1,
@@ -1122,6 +1150,7 @@
         0,
         1,
         0,
+        1,
         1,
         1,
         1
@@ -1278,6 +1307,10 @@
         {
           "date": "2026-04-11",
           "event": "VentureBeat: AI Agent Zero-Trust Architectures Emerge"
+        },
+        {
+          "date": "2026-04-12",
+          "event": "OpenAI Discloses Security Incident Related to Third-Party Library"
         }
       ],
       "created": "2026-02-25"
@@ -1462,9 +1495,8 @@
         "Startup Funding"
       ],
       "trajectory": "accelerating",
-      "signal_count": 49,
+      "signal_count": 50,
       "weekly_counts": [
-        1,
         2,
         1,
         1,
@@ -1475,7 +1507,8 @@
         1,
         2,
         2,
-        3
+        3,
+        1
       ],
       "key_events": [
         {
@@ -1633,6 +1666,10 @@
         {
           "date": "2026-04-11",
           "event": "Tencent Proposes MegaStyle for Scalable Style Dataset Creation; Seedance 2.0 Used to Create 10-Minute AI Film; Muse Spark API Coming Soon for Agent Integration"
+        },
+        {
+          "date": "2026-04-12",
+          "event": "Google Releases Large-Scale Virtual Try-On Dataset FIT"
         }
       ],
       "created": "2026-02-26"
