@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-12T09:01:14.003027",
+  "scraped_at": "2026-04-12T20:38:25.077707",
   "date": "2026-04-12",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 31,
-  "account_count": 24,
+  "tweet_count": 45,
+  "account_count": 29,
   "tweets": [
     {
       "id": "2043015470924661206",
@@ -357,6 +357,168 @@
       "likes": 3726,
       "retweets": 116,
       "views": 202505
+    },
+    {
+      "id": "2043305511571902637",
+      "username": "NielsRogge",
+      "text": "Can anyone explain to me why Meta AI is suddenly at the top of the App Store?\n\nIt’s not like the general public is like “yeah they just became on par with GPT-5.4 and Opus 4.6, I gotta use Meta now”",
+      "timestamp": "2026-04-12T12:29:31+00:00",
+      "url": "https://x.com/NielsRogge/status/2043305511571902637",
+      "images": [],
+      "likes": 1,
+      "retweets": 0,
+      "views": 83
+    },
+    {
+      "id": "2043295159941738547",
+      "username": "UnslothAI",
+      "text": "MiniMax 2.7 can now be run locally!🔥\n\nMiniMax-M2.7 is a new 230B parameter open model with SOTA on SWE-Pro and Terminal Bench 2.\n\nRun the Dynamic 4-bit MoE model on 128GB Mac or RAM/VRAM setups.\n\nGuide: https://t.co/lF2iGDZ7Ut\nGGUF: https://t.co/w0fsK6rKN0 https://t.co/lBhgz78K9I",
+      "timestamp": "2026-04-12T11:48:23+00:00",
+      "url": "https://x.com/UnslothAI/status/2043295159941738547",
+      "images": [
+        "https://pbs.twimg.com/media/HFs9Ak8bIAASTxA.jpg"
+      ],
+      "likes": 117,
+      "retweets": 17,
+      "views": 6539
+    },
+    {
+      "id": "2043251588702114266",
+      "username": "DeryaTR_",
+      "text": "I agree with this take. GPT-5.4 Pro is still the uncontested king of AI for me. Mythos appears poised to challenge it, but obviously GPT-5.4 Pro is not going to sit still and surrender its crown so easily 😉",
+      "timestamp": "2026-04-12T08:55:15+00:00",
+      "url": "https://x.com/DeryaTR_/status/2043251588702114266",
+      "images": [],
+      "likes": 135,
+      "retweets": 12,
+      "views": 13700
+    },
+    {
+      "id": "2043248173355860429",
+      "username": "giffmana",
+      "text": "ZurichCV meetup this Thu.\n\nFrancis is a great guy, worth chatting with!\nI don't know Korrawe, but believe it or not, motion generation for character animation (his topic) is the topic which lured me into generative ML, with GPs back then. Great topic if you're into games.",
+      "timestamp": "2026-04-12T08:41:40+00:00",
+      "url": "https://x.com/giffmana/status/2043248173355860429",
+      "images": [],
+      "likes": 31,
+      "retweets": 4,
+      "views": 4990
+    },
+    {
+      "id": "2043206157444255748",
+      "username": "deliprao",
+      "text": "Every CS conference is now an AI conference as model is code and code is model, but this is an ephemeral phenomena. Once sufficient AI permeation has reached in all disciplines, much like software code, the “AI” parts will recede to the background and we will go back to domain",
+      "timestamp": "2026-04-12T05:54:43+00:00",
+      "url": "https://x.com/deliprao/status/2043206157444255748",
+      "images": [],
+      "likes": 67,
+      "retweets": 7,
+      "views": 7122
+    },
+    {
+      "id": "2043192922565132706",
+      "username": "minchoi",
+      "text": "3 years of AI progress\n\nModelscope (left)\nGrok Imagine v1 (right) https://t.co/o6xze6Rjnn",
+      "timestamp": "2026-04-12T05:02:08+00:00",
+      "url": "https://x.com/minchoi/status/2043192922565132706",
+      "images": [],
+      "likes": 123,
+      "retweets": 16,
+      "views": 20566
+    },
+    {
+      "id": "2043192337111924930",
+      "username": "levie",
+      "text": "This chart puts the datacenter demands into perspective very clearly. Amazon has done more capex in the last 3 years than its entire history. \n\nRight now most AI adoption is on chat tools that are relatively token efficient. Comparatively, coding agents, use orders of magnitude https://t.co/SCVcPbkcTS",
+      "timestamp": "2026-04-12T04:59:48+00:00",
+      "url": "https://x.com/levie/status/2043192337111924930",
+      "images": [
+        "https://pbs.twimg.com/media/HFrgmmUbsAAfDy9.jpg"
+      ],
+      "likes": 142,
+      "retweets": 24,
+      "views": 24720
+    },
+    {
+      "id": "2043177308803215811",
+      "username": "alexandr_wang",
+      "text": "check out Contemplating mode for your most complex reasoning queries!",
+      "timestamp": "2026-04-12T04:00:05+00:00",
+      "url": "https://x.com/alexandr_wang/status/2043177308803215811",
+      "images": [],
+      "likes": 204,
+      "retweets": 7,
+      "views": 20602
+    },
+    {
+      "id": "2043175802578346466",
+      "username": "alexandr_wang",
+      "text": "people are finding all the cool things we built into muse spark :)",
+      "timestamp": "2026-04-12T03:54:06+00:00",
+      "url": "https://x.com/alexandr_wang/status/2043175802578346466",
+      "images": [],
+      "likes": 359,
+      "retweets": 6,
+      "views": 50659
+    },
+    {
+      "id": "2043168448268652682",
+      "username": "minchoi",
+      "text": "Holy moly... Claude Code team is cracked 🤯\n\nThere's a TurboTax connector in Claude Code now https://t.co/Wr9NaPJa14",
+      "timestamp": "2026-04-12T03:24:52+00:00",
+      "url": "https://x.com/minchoi/status/2043168448268652682",
+      "images": [
+        "https://pbs.twimg.com/media/HFrKoOJXcAA4qg8.jpg"
+      ],
+      "likes": 45,
+      "retweets": 5,
+      "views": 11164
+    },
+    {
+      "id": "2043160983279919386",
+      "username": "minchoi",
+      "text": "Grok Imagine w/ Extend\n\nPROMPT: \"low angle tracking pov of skier slaloming down snowy mountain slope, gopro\" https://t.co/vmMYLzjCj5",
+      "timestamp": "2026-04-12T02:55:13+00:00",
+      "url": "https://x.com/minchoi/status/2043160983279919386",
+      "images": [],
+      "likes": 53,
+      "retweets": 4,
+      "views": 10223
+    },
+    {
+      "id": "2043146517028958365",
+      "username": "emollick",
+      "text": "Really interesting ideas are going to be increasingly at a premium as the cost of executing those ideas drops.\n\n(Our research and others shows AI is quite good at generating interesting ideas, but not nearly as good at generating outlier really interesting ideas)",
+      "timestamp": "2026-04-12T01:57:44+00:00",
+      "url": "https://x.com/emollick/status/2043146517028958365",
+      "images": [],
+      "likes": 219,
+      "retweets": 24,
+      "views": 15456
+    },
+    {
+      "id": "2043143224965906888",
+      "username": "minchoi",
+      "text": "Bro is cooking👀 https://t.co/409hA11nYP",
+      "timestamp": "2026-04-12T01:44:39+00:00",
+      "url": "https://x.com/minchoi/status/2043143224965906888",
+      "images": [
+        "https://pbs.twimg.com/media/HFqz2eLXUAAcwSr.jpg"
+      ],
+      "likes": 19,
+      "retweets": 1,
+      "views": 18544
+    },
+    {
+      "id": "2042902030738464897",
+      "username": "giffmana",
+      "text": "There's nothing quite like Florian (Xeo) looking at an eval:",
+      "timestamp": "2026-04-11T09:46:14+00:00",
+      "url": "https://x.com/giffmana/status/2042902030738464897",
+      "images": [],
+      "likes": 107,
+      "retweets": 8,
+      "views": 17650
     }
   ]
 }
