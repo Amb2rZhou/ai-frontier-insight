@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-13T14:30:56.837480",
+  "scraped_at": "2026-04-13T17:34:25.767037",
   "date": "2026-04-13",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 36,
-  "account_count": 26,
+  "tweet_count": 41,
+  "account_count": 28,
   "tweets": [
     {
       "id": "2043358074686116123",
@@ -419,6 +419,67 @@
       "likes": 341,
       "retweets": 37,
       "views": 370101
+    },
+    {
+      "id": "2043619568959341027",
+      "username": "ollama",
+      "text": "We are working through the night to continue to scale capacity for Ollama's cloud. \n\nApologies if you see any performance degradation. https://t.co/vjMVT7e98d",
+      "timestamp": "2026-04-13T09:17:28+00:00",
+      "url": "https://x.com/ollama/status/2043619568959341027",
+      "images": [
+        "https://pbs.twimg.com/media/HFxkXxTa0AAYjSl.jpg"
+      ],
+      "likes": 23,
+      "retweets": 0,
+      "views": 957
+    },
+    {
+      "id": "2043584417067639081",
+      "username": "giffmana",
+      "text": "tfw codex just ran `readelf` and now asks for permission to run `gdb` and `perf`. https://t.co/Y1t9MHKhS9",
+      "timestamp": "2026-04-13T06:57:47+00:00",
+      "url": "https://x.com/giffmana/status/2043584417067639081",
+      "images": [],
+      "likes": 35,
+      "retweets": 2,
+      "views": 3080
+    },
+    {
+      "id": "2043408661603594740",
+      "username": "emollick",
+      "text": "Currently, ChatGPT has the best way of viewing thinking traces, a short summary of steps in the main window, and a detailed audit in the sidebar if you want it\n\nClaude does almost as well, but more summarized and harder to see calculations and code\n\nIts a big weak spot for Gemini https://t.co/fx9nZNAGaC",
+      "timestamp": "2026-04-12T19:19:24+00:00",
+      "url": "https://x.com/emollick/status/2043408661603594740",
+      "images": [
+        "https://pbs.twimg.com/media/HFukMQcaoAAPVQj.jpg",
+        "https://pbs.twimg.com/media/HFukrNOWIAAJUWD.jpg",
+        "https://pbs.twimg.com/media/HFulJqtWIAAG9B9.jpg"
+      ],
+      "likes": 299,
+      "retweets": 13,
+      "views": 28463
+    },
+    {
+      "id": "2043190951632404760",
+      "username": "emollick",
+      "text": "OpenAI should probably bite the bullet and just name their next set of models something more human sounding.\n\nEveryone anthropomorphizes their AIs anyway, and \"Claude\" is an easier name to refer to than ChatGPT. Also easier to make a gerund, \"Clauding,\" or adjective, \"Claudy-y.\"",
+      "timestamp": "2026-04-12T04:54:18+00:00",
+      "url": "https://x.com/emollick/status/2043190951632404760",
+      "images": [],
+      "likes": 412,
+      "retweets": 8,
+      "views": 35404
+    },
+    {
+      "id": "2042616241597104444",
+      "username": "Austen",
+      "text": "An underrated part of AI agents is dropping in a GitHub repo link and saying “make this work” instead of spending 30 minutes trying to follow half-baked onboarding docs and understanding whatever cute key words and processes the creator designed",
+      "timestamp": "2026-04-10T14:50:36+00:00",
+      "url": "https://x.com/Austen/status/2042616241597104444",
+      "images": [],
+      "likes": 165,
+      "retweets": 7,
+      "views": 7282
     }
   ]
 }
