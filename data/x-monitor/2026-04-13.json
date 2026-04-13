@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-13T10:55:26.873107",
+  "scraped_at": "2026-04-13T14:30:56.837480",
   "date": "2026-04-13",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 33,
-  "account_count": 24,
+  "tweet_count": 36,
+  "account_count": 26,
   "tweets": [
     {
       "id": "2043358074686116123",
@@ -386,6 +386,39 @@
       "likes": 1725,
       "retweets": 169,
       "views": 184708
+    },
+    {
+      "id": "2043399706634805682",
+      "username": "addyosmani",
+      "text": "Want to give your agent quality checks? \n\nChrome's DevTools MCP now includes:\n\n⚡️ Performance checks via Lighthouse\n📈 Memory leak detection Skill\n🦻 Accessibility debugging Skill\n🎨 LCP optimization Skill\n\nand an experimental new CLI 👀 https://t.co/jOS6z66WtG",
+      "timestamp": "2026-04-12T18:43:49+00:00",
+      "url": "https://x.com/addyosmani/status/2043399706634805682",
+      "images": [],
+      "likes": 776,
+      "retweets": 89,
+      "views": 72714
+    },
+    {
+      "id": "2042987819333738929",
+      "username": "GaryMarcus",
+      "text": "Claude Code is not AGI, but it is the single biggest advance in AI since the LLM.\n\nBut the thing is, Claude Code is NOT a pure LLM. And it’s not pure deep learning. Not even close. \n\nAnd that changes everything. \n\nThe source code leak proves it. Tucked away at its center is a",
+      "timestamp": "2026-04-11T15:27:07+00:00",
+      "url": "https://x.com/GaryMarcus/status/2042987819333738929",
+      "images": [],
+      "likes": 2876,
+      "retweets": 519,
+      "views": 499884
+    },
+    {
+      "id": "2042986522828562499",
+      "username": "perplexity_ai",
+      "text": "Over the past two weeks, students researched and prepared stock pitches with Perplexity Computer.\n\nNow the top 5 finalists will present live for $17,500 in prizes to our panel of judges.\n\nWatch today’s live pitches from 9–10:30 AM PST: https://t.co/iqBF209Xms",
+      "timestamp": "2026-04-11T15:21:58+00:00",
+      "url": "https://x.com/perplexity_ai/status/2042986522828562499",
+      "images": [],
+      "likes": 341,
+      "retweets": 37,
+      "views": 370101
     }
   ]
 }
