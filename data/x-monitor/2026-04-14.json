@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-14T18:50:17.828496",
+  "scraped_at": "2026-04-14T22:34:53.212523",
   "date": "2026-04-14",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 112,
-  "account_count": 51,
+  "tweet_count": 120,
+  "account_count": 56,
   "tweets": [
     {
       "id": "2043745768243376298",
@@ -1320,6 +1320,98 @@
       "likes": 193,
       "retweets": 16,
       "views": 22512
+    },
+    {
+      "id": "2044058608472670534",
+      "username": "ClementDelangue",
+      "text": "Time to follow https://t.co/K4Rf9nWzU8! https://t.co/8sET4B20ZB",
+      "timestamp": "2026-04-14T14:22:03+00:00",
+      "url": "https://x.com/ClementDelangue/status/2044058608472670534",
+      "images": [
+        "https://pbs.twimg.com/media/HF30c8RXwAACBsB.jpg"
+      ],
+      "likes": 17,
+      "retweets": 2,
+      "views": 1089
+    },
+    {
+      "id": "2044057406167232964",
+      "username": "AnthropicAI",
+      "text": "Our Long-Term Benefit Trust has appointed Vas Narasimhan to Anthropic's Board of Directors.\n\nVas brings more than two decades of experience in medicine and global health, including as CEO of Novartis.\n\nRead more: https://t.co/DSvtZUTone",
+      "timestamp": "2026-04-14T14:17:17+00:00",
+      "url": "https://x.com/AnthropicAI/status/2044057406167232964",
+      "images": [],
+      "likes": 152,
+      "retweets": 16,
+      "views": 11009
+    },
+    {
+      "id": "2044053580504584349",
+      "username": "ClementDelangue",
+      "text": "Introducing Kernels on the Hugging Face Hub ✨\n\nWhat if shipping a GPU kernel was as easy as pushing a model?\n\n- Pre-compiled for your exact GPU, PyTorch &amp; OS\n- Multiple kernel versions coexist in one process\n- torch.compile compatible\n- 1.7x–2.5x speedups over PyTorch baselines https://t.co/U0qDdxCWkd",
+      "timestamp": "2026-04-14T14:02:04+00:00",
+      "url": "https://x.com/ClementDelangue/status/2044053580504584349",
+      "images": [],
+      "likes": 83,
+      "retweets": 16,
+      "views": 3498
+    },
+    {
+      "id": "2044042546976883063",
+      "username": "openclaw",
+      "text": "OpenClaw 2026.4.14 🦞\n\nMore reliability updates:\n\n✨ Smarter GPT-5.4 routing and recovery\n🌐 Chrome/CDP improvements\n🧵 Subagents no longer get stuck\n💬 Slack/Telegram/Discord fixes\n⚡️ Various performance improvements\n\nWas sleeping, and we still shipped. https://t.co/krJ2gRQSbM",
+      "timestamp": "2026-04-14T13:18:14+00:00",
+      "url": "https://x.com/openclaw/status/2044042546976883063",
+      "images": [],
+      "likes": 619,
+      "retweets": 67,
+      "views": 64411
+    },
+    {
+      "id": "2044037958517350793",
+      "username": "googledevs",
+      "text": "Build a video conference agent that uses Gemini 3.1 Flash Live to interact with users ✨\n\nLearn about setting up Fishjam and Gemini Live API, building a React frontend with the Fishjam SDK, and using system prompts to define agent behavior.\n\nFull walkthrough here → https://t.co/F1BA2ILf6f",
+      "timestamp": "2026-04-14T13:00:00+00:00",
+      "url": "https://x.com/googledevs/status/2044037958517350793",
+      "images": [
+        "https://pbs.twimg.com/media/HF0ELUUW8AAJ8hX.jpg"
+      ],
+      "likes": 22,
+      "retweets": 3,
+      "views": 2316
+    },
+    {
+      "id": "2044008903269331199",
+      "username": "deliprao",
+      "text": "This is a 2D soft ReLU https://t.co/DugQ5yCav6",
+      "timestamp": "2026-04-14T11:04:33+00:00",
+      "url": "https://x.com/deliprao/status/2044008903269331199",
+      "images": [],
+      "likes": 29,
+      "retweets": 0,
+      "views": 3062
+    },
+    {
+      "id": "2043209068890763334",
+      "username": "emollick",
+      "text": "I think Muse Spark came in far better than most were expecting as the first new model attempt from Meta, especially given the fact that it has been a year since Llama 4 with no models at all (and that Llama 4 was generally considered a dead end).",
+      "timestamp": "2026-04-12T06:06:17+00:00",
+      "url": "https://x.com/emollick/status/2043209068890763334",
+      "images": [],
+      "likes": 396,
+      "retweets": 11,
+      "views": 32412
+    },
+    {
+      "id": "2042670341915295865",
+      "username": "claudeai",
+      "text": "Claude for Word is now in beta.\n\nDraft, edit, and revise documents directly from the sidebar. Claude preserves your formatting, and edits appear as tracked changes.\n\nAvailable on Team and Enterprise plans. https://t.co/tl1mZVELNg",
+      "timestamp": "2026-04-10T18:25:35+00:00",
+      "url": "https://x.com/claudeai/status/2042670341915295865",
+      "images": [],
+      "likes": 31818,
+      "retweets": 2435,
+      "views": 12204982
     }
   ]
 }
