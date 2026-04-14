@@ -198,6 +198,194 @@
           54
         ]
       }
+    ],
+    "2026-04-14": [
+      {
+        "title": "Stanford HAI 2026 AI Index: China Erases US Lead, AI Adoption Faster Than Internet",
+        "signal_text": "据斯坦福大学 HAI 发布的 2026 年 AI 指数报告，中美在 AI 领域的差距已基本消失，AI 采用速度超过互联网，年轻开发者就业率下降 20%，主要 AI 实验室的透明度评分大幅下降。",
+        "signal_strength": 0.9,
+        "sources": [
+          {
+            "name": "Reddit AI (源自 Stanford HAI 报告)",
+            "url": "https://www.reddit.com/r/artificial/comments/1skuh7v/title_stanford_hai_2026_ai_index_china_erases_us/"
+          }
+        ],
+        "tags": [
+          "行业风险与监管",
+          "头部公司战略动作",
+          "技术突破"
+        ],
+        "raw_item_indices": [
+          1
+        ]
+      },
+      {
+        "title": "OpenAI Acquires AI Personal Finance Startup Hiro",
+        "signal_text": "据 TechCrunch 报道，OpenAI 收购了 AI 个人理财初创公司 Hiro，此举表明 OpenAI 正在为 ChatGPT 构建金融规划能力。",
+        "signal_strength": 0.85,
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/"
+          }
+        ],
+        "tags": [
+          "头部公司战略动作",
+          "Agent 与新交互范式"
+        ],
+        "raw_item_indices": [
+          4
+        ]
+      },
+      {
+        "title": "DeepMind Proposes Elastic Looped Transformers for Efficient Visual Generation",
+        "signal_text": "Google DeepMind 团队提出 Elastic Looped Transformers (ELT)，利用具有权重共享和循环内自蒸馏的循环 Transformer 架构，实现参数高效的视觉生成，并具有可调节的计算预算。",
+        "signal_strength": 0.85,
+        "sources": [
+          {
+            "name": "Arxiv (Deepmind)",
+            "url": "https://huggingface.co/papers/2604.09168"
+          }
+        ],
+        "tags": [
+          "技术突破",
+          "内容创作与理解"
+        ],
+        "raw_item_indices": [
+          114
+        ]
+      },
+      {
+        "title": "Anthropic Allegedly 'Nerfing' Claude Performance, Users Report Degradation",
+        "signal_text": "据 VentureBeat 报道，越来越多的开发者和 AI 重度用户在社交媒体上指责 Anthropic 降低了 Claude Opus 4.6 和 Claude Code 的性能，认为其旗舰编码模型的能力和可靠性下降，Anthropic 高管则予以否认。",
+        "signal_strength": 0.8,
+        "sources": [
+          {
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/technology/is-anthropic-nerfing-claude-users-increasingly-report-performance"
+          }
+        ],
+        "tags": [
+          "头部公司战略动作",
+          "内容安全与治理"
+        ],
+        "raw_item_indices": [
+          30
+        ]
+      },
+      {
+        "title": "Microsoft Researchers Improve Visual Reasoning with Faithful GRPO",
+        "signal_text": "微软研究人员探索如何利用具有可验证奖励的强化学习来提高视觉推理的准确性，同时保持逻辑一致性和视觉基础。",
+        "signal_strength": 0.8,
+        "sources": [
+          {
+            "name": "Arxiv (Microsoft)",
+            "url": "https://huggingface.co/papers/2604.08476"
+          }
+        ],
+        "tags": [
+          "技术突破",
+          "搜索与推荐"
+        ],
+        "raw_item_indices": [
+          126
+        ]
+      },
+      {
+        "title": "Alibaba Proposes AgentSwing for Adaptive Context Management in Web Agents",
+        "signal_text": "阿里巴巴 NLP 团队提出 AgentSwing，这是一个状态感知的自适应框架，通过并行分支和前向路由动态管理上下文，以改进长视野信息搜索任务，性能优于静态方法。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "Arxiv (Alibaba-NLP)",
+            "url": "https://huggingface.co/papers/2603.27490"
+          }
+        ],
+        "tags": [
+          "Agent 与新交互范式",
+          "搜索与推荐"
+        ],
+        "raw_item_indices": [
+          120
+        ]
+      },
+      {
+        "title": "Thinking Machines Hires Workshop Labs Founders to Build Human-Centric AI",
+        "signal_text": "据 OpenAI CTO Mira Murati 和联合创始人 Soumith Chintala 推文，Thinking Machines 聘请了 Workshop Labs 的联合创始人 Luke Drago 和 L. Rud L.，以继续其构建“保持未来人性化”的 AI 的使命。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "Twitter (@miramurati, @soumithchintala)",
+            "url": "https://x.com/miramurati/status/2043740848337367488"
+          },
+          {
+            "name": "Twitter (@soumithchintala)",
+            "url": "https://x.com/soumithchintala/status/2043752413085966574"
+          }
+        ],
+        "tags": [
+          "头部公司战略动作",
+          "内容安全与治理"
+        ],
+        "raw_item_indices": [
+          53,
+          76
+        ]
+      },
+      {
+        "title": "Andrew Ng Discusses Future of Software Engineering Amid AI Agent Acceleration",
+        "signal_text": "吴恩达（Andrew Ng）发推讨论 AI Agent 加速编码背景下的软件工程未来，指出趋势之一是“产品管理瓶颈”，即我们更受限于决定构建什么，而非实际构建过程。",
+        "signal_strength": 0.7,
+        "sources": [
+          {
+            "name": "Twitter (@AndrewYNg)",
+            "url": "https://x.com/AndrewYNg/status/2043742105852621052"
+          }
+        ],
+        "tags": [
+          "Agent 与新交互范式",
+          "行业风险与监管"
+        ],
+        "raw_item_indices": [
+          52
+        ]
+      },
+      {
+        "title": "Perplexity CEO Highlights Full Circle Pivot to 'Computer' for Founders",
+        "signal_text": "Perplexity CEO Arav Srinivas 发推（获 300+ likes）表示，公司向“Computer”的转型是一个完整的循环，创始人正利用它来发展对其经济和社区至关重要的公司。",
+        "signal_strength": 0.7,
+        "sources": [
+          {
+            "name": "Twitter (@AravSrinivas)",
+            "url": "https://x.com/AravSrinivas/status/2043726497870127559"
+          }
+        ],
+        "tags": [
+          "头部公司战略动作",
+          "Agent 与新交互范式"
+        ],
+        "raw_item_indices": [
+          63
+        ]
+      },
+      {
+        "title": "GitHub Trending: EcoAlign-Forge for Multi-Agent DPO Data Synthesis",
+        "signal_text": "GitHub 出现新兴项目 EcoAlign-Forge（获 100+ stars），这是一个多智能体偏好训练数据自动合成框架，流程包括红队攻击、多角色审核、终审裁决，最终生成 DPO 偏好对。",
+        "signal_strength": 0.7,
+        "sources": [
+          {
+            "name": "GitHub Trending",
+            "url": "https://github.com/dengxianghua888-ops/ecoalign-forge"
+          }
+        ],
+        "tags": [
+          "开源生态",
+          "内容安全与治理"
+        ],
+        "raw_item_indices": [
+          87
+        ]
+      }
     ]
   },
   "archived_weeks": [
