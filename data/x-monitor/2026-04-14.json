@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-14T06:19:07.395182",
+  "scraped_at": "2026-04-14T08:55:21.542484",
   "date": "2026-04-14",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 33,
-  "account_count": 24,
+  "tweet_count": 38,
+  "account_count": 28,
   "tweets": [
     {
       "id": "2043745768243376298",
@@ -389,6 +389,61 @@
       "likes": 16,
       "retweets": 2,
       "views": 1498
+    },
+    {
+      "id": "2043843505013834176",
+      "username": "sriramk",
+      "text": "this seems to be where we are headed especially given recent advances on harnesses / memory.",
+      "timestamp": "2026-04-14T00:07:19+00:00",
+      "url": "https://x.com/sriramk/status/2043843505013834176",
+      "images": [],
+      "likes": 17,
+      "retweets": 2,
+      "views": 3603
+    },
+    {
+      "id": "2043831031468568734",
+      "username": "gdb",
+      "text": "The world is transitioning to a compute-powered economy.\n\nThe field of software engineering is currently undergoing a renaissance, with AI having dramatically sped up software engineering even over just the past six months. AI is now on track to bring this same transformation to",
+      "timestamp": "2026-04-13T23:17:45+00:00",
+      "url": "https://x.com/gdb/status/2043831031468568734",
+      "images": [],
+      "likes": 1195,
+      "retweets": 134,
+      "views": 62048
+    },
+    {
+      "id": "2043822835525677300",
+      "username": "code",
+      "text": "🌐 The integrated browser in @code now has pinch-to-zoom and zoom shortcuts on macOS, better agent tool descriptions, and more updates.\n\nLearn more → https://t.co/290HLseY3y https://t.co/zYrKCTiSgq",
+      "timestamp": "2026-04-13T22:45:11+00:00",
+      "url": "https://x.com/code/status/2043822835525677300",
+      "images": [],
+      "likes": 113,
+      "retweets": 6,
+      "views": 12457
+    },
+    {
+      "id": "2043819344862580890",
+      "username": "cHHillee",
+      "text": "As I've talked to folks about Thinky's purpose and why Thinky exists, I've found myself referring to The Intelligence Curse (https://t.co/FXMFkzHURE) time and time again. So much so that I've even suggested in the past that The Intelligence Curse would serve pretty well as",
+      "timestamp": "2026-04-13T22:31:18+00:00",
+      "url": "https://x.com/cHHillee/status/2043819344862580890",
+      "images": [],
+      "likes": 164,
+      "retweets": 8,
+      "views": 17033
+    },
+    {
+      "id": "2041924282964394085",
+      "username": "emollick",
+      "text": "Seems like a good model from Meta that is still trailing the current series of releases.\n\nThe most important thing to note is that it is not open weights. That was the main reason that Meta's models were so important. Without that, it is a lot harder to predict the value of Spark",
+      "timestamp": "2026-04-08T17:01:00+00:00",
+      "url": "https://x.com/emollick/status/2041924282964394085",
+      "images": [],
+      "likes": 229,
+      "retweets": 9,
+      "views": 26388
     }
   ]
 }
