@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-15T02:11:03.009502",
+  "scraped_at": "2026-04-15T04:46:35.726067",
   "date": "2026-04-15",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 22,
-  "account_count": 17,
+  "tweet_count": 35,
+  "account_count": 25,
   "tweets": [
     {
       "id": "2044113893707133082",
@@ -265,6 +265,151 @@
       "likes": 59,
       "retweets": 6,
       "views": 6723
+    },
+    {
+      "id": "2044152175891493224",
+      "username": "NielsRogge",
+      "text": "So you can actually run a 26B model on your local laptop. The model is a so-called Mixture-of-Experts (MoE) model, meaning only a few parameters are activated for each token the model generates. Oh, and you also need to use a quantized version of the model to run it on 16GB of https://t.co/lfbpafx1F3",
+      "timestamp": "2026-04-14T20:33:51+00:00",
+      "url": "https://x.com/NielsRogge/status/2044152175891493224",
+      "images": [
+        "https://pbs.twimg.com/media/HF5JLM-W0AAsQmP.png"
+      ],
+      "likes": 0,
+      "retweets": 0,
+      "views": 153
+    },
+    {
+      "id": "2044145419060424914",
+      "username": "ClementDelangue",
+      "text": "let's go open-source and local models!",
+      "timestamp": "2026-04-14T20:07:00+00:00",
+      "url": "https://x.com/ClementDelangue/status/2044145419060424914",
+      "images": [],
+      "likes": 67,
+      "retweets": 5,
+      "views": 5278
+    },
+    {
+      "id": "2044144091395699055",
+      "username": "alexalbert__",
+      "text": "New version of Claude Code in the desktop app dropped today with tons of new features and performance improvements. \n\nBetween Cowork and Code, I've found I don't really need to open other apps (or even my terminal) to do most of my work now.",
+      "timestamp": "2026-04-14T20:01:44+00:00",
+      "url": "https://x.com/alexalbert__/status/2044144091395699055",
+      "images": [],
+      "likes": 298,
+      "retweets": 8,
+      "views": 21119
+    },
+    {
+      "id": "2044139560355901911",
+      "username": "ClementDelangue",
+      "text": "Is there somewhere a collection of the best agent/coding harnesses for each models, especially open-source and local ones?\n\nIn my opinion, the biggest reason why people are struggling with open/local models these days is that the agent/coding harnesses in most open agent are not",
+      "timestamp": "2026-04-14T19:43:44+00:00",
+      "url": "https://x.com/ClementDelangue/status/2044139560355901911",
+      "images": [],
+      "likes": 27,
+      "retweets": 5,
+      "views": 2833
+    },
+    {
+      "id": "2044138443039748125",
+      "username": "omarsar0",
+      "text": "LLM Knowledge Base → Slides\n\nWhen @karpathy shared his LLM Knowledge Base setup, many were wondering how to generate more visual forms of the wiki.\n\nThere are many options, but I think @GammaApp is one of the best at producing high-quality, rich presentations.\n\nTo showcase this, https://t.co/QiOKeSBUTZ",
+      "timestamp": "2026-04-14T19:39:17+00:00",
+      "url": "https://x.com/omarsar0/status/2044138443039748125",
+      "images": [],
+      "likes": 44,
+      "retweets": 10,
+      "views": 3600
+    },
+    {
+      "id": "2044134715867750568",
+      "username": "emollick",
+      "text": "Version numbers are not a very useful way to understand model ability gains at this stage. Unfortunately that means that if you aren’t following closely, you would expect that 5.4 is a small gain over 5, or 4.6 a small gain over 4. That just isn’t the case, though.",
+      "timestamp": "2026-04-14T19:24:29+00:00",
+      "url": "https://x.com/emollick/status/2044134715867750568",
+      "images": [],
+      "likes": 71,
+      "retweets": 0,
+      "views": 6985
+    },
+    {
+      "id": "2044133627169009983",
+      "username": "nickcammarata",
+      "text": "do you code / do you think you will ever write an if statement by hand again",
+      "timestamp": "2026-04-14T19:20:09+00:00",
+      "url": "https://x.com/nickcammarata/status/2044133627169009983",
+      "images": [],
+      "likes": 35,
+      "retweets": 3,
+      "views": 3783
+    },
+    {
+      "id": "2044133089853747638",
+      "username": "a16z",
+      "text": "Ben Horowitz and Alex Rampell on AI Infrastructure, Crypto, and the Future of Venture\n\na16z's Ben Horowitz and Alex Rampell sit down to discuss why the fundamental rules of building software companies have changed, how AI is creating massive demand for crypto infrastructure, why https://t.co/J9LZGozgwn",
+      "timestamp": "2026-04-14T19:18:01+00:00",
+      "url": "https://x.com/a16z/status/2044133089853747638",
+      "images": [],
+      "likes": 37,
+      "retweets": 7,
+      "views": 8466
+    },
+    {
+      "id": "2044128604963913951",
+      "username": "Azure",
+      "text": "MAI-Image-2-Efficient is now in public preview in Microsoft Foundry and MAI Playground. Built on the same architecture as MAI-Image-2, this new model is engineered for speed and efficiency: https://t.co/zA8W5ussGa https://t.co/9UTMvCCxqV",
+      "timestamp": "2026-04-14T19:00:12+00:00",
+      "url": "https://x.com/Azure/status/2044128604963913951",
+      "images": [],
+      "likes": 27,
+      "retweets": 6,
+      "views": 4345
+    },
+    {
+      "id": "2044127200157544828",
+      "username": "nvidia",
+      "text": "Quantum and AI are coming together in powerful new ways with NVIDIA Ising. \n\nDive into the latest NVIDIA AI Podcast episode to see what this means for the future of computing.",
+      "timestamp": "2026-04-14T18:54:37+00:00",
+      "url": "https://x.com/nvidia/status/2044127200157544828",
+      "images": [],
+      "likes": 135,
+      "retweets": 13,
+      "views": 34128
+    },
+    {
+      "id": "2044124960096965115",
+      "username": "emollick",
+      "text": "AI keeps getting better but the last time the shape of the jagged frontier changed radically was o1 &amp; the Reasoner\n\nA good mental model of the coming months is that models get very good at the things they are already good at (coding), but weaknesses will be similar (long fiction)",
+      "timestamp": "2026-04-14T18:45:43+00:00",
+      "url": "https://x.com/emollick/status/2044124960096965115",
+      "images": [],
+      "likes": 137,
+      "retweets": 5,
+      "views": 7707
+    },
+    {
+      "id": "2044116228743045299",
+      "username": "ZoubinGhahrama1",
+      "text": "Introducing Gemini Robotics-ER 1.6, a significant upgrade to our spatial and visual reasoning model that enables robots to understand their environments with unprecedented precision. Available to developers via the Gemini API and Google AI Studio!",
+      "timestamp": "2026-04-14T18:11:01+00:00",
+      "url": "https://x.com/ZoubinGhahrama1/status/2044116228743045299",
+      "images": [],
+      "likes": 21,
+      "retweets": 0,
+      "views": 3064
+    },
+    {
+      "id": "2044103260169220434",
+      "username": "natolambert",
+      "text": "One of my passions is that education should be dispersed freely and as widely as possible, especially for technologies as dynamic and crucial as LLMs/AI.\n\nI'm proud to have friends who would disown me if I did a paywalled course.",
+      "timestamp": "2026-04-14T17:19:29+00:00",
+      "url": "https://x.com/natolambert/status/2044103260169220434",
+      "images": [],
+      "likes": 145,
+      "retweets": 15,
+      "views": 9189
     }
   ]
 }
