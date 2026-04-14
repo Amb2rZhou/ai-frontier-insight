@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-14T13:44:35.941802",
+  "scraped_at": "2026-04-14T18:50:17.828496",
   "date": "2026-04-14",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 100,
-  "account_count": 50,
+  "tweet_count": 112,
+  "account_count": 51,
   "tweets": [
     {
       "id": "2043745768243376298",
@@ -1174,6 +1174,152 @@
       "likes": 176,
       "retweets": 14,
       "views": 33178
+    },
+    {
+      "id": "2043989536762425625",
+      "username": "lateinteraction",
+      "text": "A simple, lightweight, and effective late interaction approach!\n\n“ColChunk achieves over a 90% reduction in storage requirements while simultaneously delivering a 9-point average improvement in nDCG@5 across representative single-vector models”",
+      "timestamp": "2026-04-14T09:47:35+00:00",
+      "url": "https://x.com/lateinteraction/status/2043989536762425625",
+      "images": [],
+      "likes": 19,
+      "retweets": 2,
+      "views": 1728
+    },
+    {
+      "id": "2043933968022618503",
+      "username": "DeryaTR_",
+      "text": "New BioAI multimodal model DISCO simultaneously designs protein sequence &amp; 3D structure from scratch!",
+      "timestamp": "2026-04-14T06:06:47+00:00",
+      "url": "https://x.com/DeryaTR_/status/2043933968022618503",
+      "images": [],
+      "likes": 28,
+      "retweets": 7,
+      "views": 4220
+    },
+    {
+      "id": "2043928127697535383",
+      "username": "DeryaTR_",
+      "text": "Great news from NVIDIA for BioAI builders! AI is democratizing genome analysis!",
+      "timestamp": "2026-04-14T05:43:34+00:00",
+      "url": "https://x.com/DeryaTR_/status/2043928127697535383",
+      "images": [],
+      "likes": 38,
+      "retweets": 1,
+      "views": 5502
+    },
+    {
+      "id": "2043908357296402523",
+      "username": "arankomatsuzaki",
+      "text": "abs: https://t.co/6dSiAlmzhw\nrepo: https://t.co/GQk9x6CyfW\nmodel: https://t.co/V5oR5ajhIP",
+      "timestamp": "2026-04-14T04:25:01+00:00",
+      "url": "https://x.com/arankomatsuzaki/status/2043908357296402523",
+      "images": [],
+      "likes": 20,
+      "retweets": 4,
+      "views": 2335
+    },
+    {
+      "id": "2043908355283157248",
+      "username": "arankomatsuzaki",
+      "text": "Together AI presents Introspective Diffusion LM\n\n- The first DLM to match the quality of AR while outperforming DLMs in both model quality and serving efficiency\n\n- Delivering about 3× higher throughput than prior SotA DLMs https://t.co/Ji6Ys7DvnS",
+      "timestamp": "2026-04-14T04:25:00+00:00",
+      "url": "https://x.com/arankomatsuzaki/status/2043908355283157248",
+      "images": [
+        "https://pbs.twimg.com/media/HF1qbQSasAQxbvq.jpg"
+      ],
+      "likes": 139,
+      "retweets": 30,
+      "views": 9209
+    },
+    {
+      "id": "2043898369937195511",
+      "username": "docmilanfar",
+      "text": "Caveat: This thread is meant to clarify basics for a broad audience - good enough 95% of the time\n\nI'm intentionally sweeping a lot of details under the rug (eg CI's are approximate, heavy tailed distributions need different treatment, SD/SE estimates are biased, etc. etc.)",
+      "timestamp": "2026-04-14T03:45:19+00:00",
+      "url": "https://x.com/docmilanfar/status/2043898369937195511",
+      "images": [],
+      "likes": 30,
+      "retweets": 1,
+      "views": 2041
+    },
+    {
+      "id": "2043898367865200745",
+      "username": "docmilanfar",
+      "text": "Bottom line: \nIf you have want to estimate the expected value, compute both the mean *and* the standard error. \n\nAlways report confidence intervals using error bars. Without them, you can easily fool yourself into believing things that aren't (statistically) true\n\n6/6 https://t.co/SoLohP28Ki",
+      "timestamp": "2026-04-14T03:45:19+00:00",
+      "url": "https://x.com/docmilanfar/status/2043898367865200745",
+      "images": [
+        "https://pbs.twimg.com/media/HF1hrYsasAAXtmX.jpg"
+      ],
+      "likes": 15,
+      "retweets": 1,
+      "views": 2183
+    },
+    {
+      "id": "2043898366254616928",
+      "username": "docmilanfar",
+      "text": "You can do this because of central limit theorem. \n\nIt says that even tho we don't know the density of x, for large enough N, the average m̂ itself behaves like a Gaussian. So we can use the SE to report a confidence intervals (CI) around m̂. \n\n5/6 https://t.co/O58IxvDWXt",
+      "timestamp": "2026-04-14T03:45:18+00:00",
+      "url": "https://x.com/docmilanfar/status/2043898366254616928",
+      "images": [
+        "https://pbs.twimg.com/media/HF1hHJxasAE8pMZ.png"
+      ],
+      "likes": 14,
+      "retweets": 0,
+      "views": 1860
+    },
+    {
+      "id": "2043898364715253848",
+      "username": "docmilanfar",
+      "text": "So now you have an estimate of the mean m̂, and an estimate of the confidence around the mean: the Standard Error. How do you report this?\n\nOn a plot, the point estimate m̂ should be reported with error bars that quantify the range of likely values of the estimated mean. eg\n\n4/6 https://t.co/wbsl8NgYad",
+      "timestamp": "2026-04-14T03:45:18+00:00",
+      "url": "https://x.com/docmilanfar/status/2043898364715253848",
+      "images": [
+        "https://pbs.twimg.com/media/HF1gogtasAIboKo.png"
+      ],
+      "likes": 15,
+      "retweets": 0,
+      "views": 1911
+    },
+    {
+      "id": "2043898363184283800",
+      "username": "docmilanfar",
+      "text": "But this expression isn't practical because we don't know √var(xᵢ) either - so we are forced to estimate that too. \n\nHere, we typically just plug in the (sample) Standard Deviation for it. Therefore:\n\nStandard Error ≈ Sample Standard Deviation/√N  \n\n3/6 https://t.co/L7WSFI2cPU",
+      "timestamp": "2026-04-14T03:45:18+00:00",
+      "url": "https://x.com/docmilanfar/status/2043898363184283800",
+      "images": [
+        "https://pbs.twimg.com/media/HF1gU0baoAAi9z7.png"
+      ],
+      "likes": 13,
+      "retweets": 1,
+      "views": 2852
+    },
+    {
+      "id": "2043898361582064117",
+      "username": "docmilanfar",
+      "text": "Since m̂ is itself a random variable, we need to quantify the uncertainty around it too: this is what the Standard Error does.  \n\nThe Standard Error is *not* the same as the spread of the samples - that's the Standard Deviation (SD) - but the two are closely related:\n\n2/6 https://t.co/sTrwHExZHP",
+      "timestamp": "2026-04-14T03:45:17+00:00",
+      "url": "https://x.com/docmilanfar/status/2043898361582064117",
+      "images": [
+        "https://pbs.twimg.com/media/HF1gBrZasAASP7C.png"
+      ],
+      "likes": 13,
+      "retweets": 0,
+      "views": 2773
+    },
+    {
+      "id": "2043898360164393072",
+      "username": "docmilanfar",
+      "text": "Two basic concepts are often conflated:\n\nSample Standard Deviation (SD) vs Standard Err (SE)\n\nSay you want to estimate m=𝔼(x) from N independent samples xᵢ. A typical choice is the average or \"sample\" mean m̂\n\nBut how stable is this? That's what Standard Error tells you:\n\n1/6 https://t.co/SlhC4Jeai4",
+      "timestamp": "2026-04-14T03:45:17+00:00",
+      "url": "https://x.com/docmilanfar/status/2043898360164393072",
+      "images": [
+        "https://pbs.twimg.com/media/HF1f15SasAIGkdx.png"
+      ],
+      "likes": 193,
+      "retweets": 16,
+      "views": 22512
     }
   ]
 }
