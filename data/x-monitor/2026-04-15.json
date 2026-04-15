@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-15T15:27:15.995075",
+  "scraped_at": "2026-04-15T20:02:06.087598",
   "date": "2026-04-15",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 69,
-  "account_count": 37,
+  "tweet_count": 78,
+  "account_count": 40,
   "tweets": [
     {
       "id": "2044113893707133082",
@@ -809,6 +809,113 @@
       "likes": 36,
       "retweets": 1,
       "views": 4302
+    },
+    {
+      "id": "2044381611542622307",
+      "username": "julien_c",
+      "text": "they should update this wording at this point https://t.co/417xgLCDqr",
+      "timestamp": "2026-04-15T11:45:33+00:00",
+      "url": "https://x.com/julien_c/status/2044381611542622307",
+      "images": [
+        "https://pbs.twimg.com/media/HF8aMG_aAAA9-kR.jpg"
+      ],
+      "likes": 3,
+      "retweets": 0,
+      "views": 331
+    },
+    {
+      "id": "2044375797729800500",
+      "username": "julien_c",
+      "text": "i am a bit scared that Anthropic is going to turn most of Claude Code to Remote vs. local execution\n\nTime for good local agents https://t.co/NUHVz5UAV1",
+      "timestamp": "2026-04-15T11:22:27+00:00",
+      "url": "https://x.com/julien_c/status/2044375797729800500",
+      "images": [
+        "https://pbs.twimg.com/media/HF8Uz19WYAAmLz5.png"
+      ],
+      "likes": 7,
+      "retweets": 0,
+      "views": 686
+    },
+    {
+      "id": "2044340577563816394",
+      "username": "__tinygrad__",
+      "text": "We're hiring from the pool of tinygrad contributors. Hybrid in-person/remote, offices in San Diego and Hong Kong. In the era of slop, come help build something beautiful. https://t.co/tCXCicV71M",
+      "timestamp": "2026-04-15T09:02:30+00:00",
+      "url": "https://x.com/__tinygrad__/status/2044340577563816394",
+      "images": [
+        "https://pbs.twimg.com/media/HF70Cp-a0AA_pjQ.jpg"
+      ],
+      "likes": 254,
+      "retweets": 6,
+      "views": 8710
+    },
+    {
+      "id": "2044339915853623380",
+      "username": "RisingSayak",
+      "text": "What I cannot profile, I cannot optimize.",
+      "timestamp": "2026-04-15T08:59:52+00:00",
+      "url": "https://x.com/RisingSayak/status/2044339915853623380",
+      "images": [],
+      "likes": 3,
+      "retweets": 0,
+      "views": 277
+    },
+    {
+      "id": "2043511779024642396",
+      "username": "Austen",
+      "text": "Engineers! We want to:\n\nFly you to Austin \n\nGive you an apartment\n\nClean your room\n\nDo your laundry\n\nFeed you 3x/day\n\nHelp you master building with AI\n\nAnd give you a $200k to $1m job.\n\nYou pay nothing, ever, no matter what. Even if you don’t take the job.",
+      "timestamp": "2026-04-13T02:09:09+00:00",
+      "url": "https://x.com/Austen/status/2043511779024642396",
+      "images": [],
+      "likes": 371,
+      "retweets": 20,
+      "views": 64960
+    },
+    {
+      "id": "2043342874817789991",
+      "username": "minchoi",
+      "text": "Japan just made its AI move. \n\nSoftBank, Sony, NEC, and Honda are teaming up to build a domestic AI champion. https://t.co/QPbDKfOdfC",
+      "timestamp": "2026-04-12T14:57:59+00:00",
+      "url": "https://x.com/minchoi/status/2043342874817789991",
+      "images": [
+        "https://pbs.twimg.com/media/HFtpRsUXIAEH_hG.jpg"
+      ],
+      "likes": 122,
+      "retweets": 21,
+      "views": 12649
+    },
+    {
+      "id": "2043341056960581990",
+      "username": "natolambert",
+      "text": "Seems like 30-200B open models are getting a massive surge in usage at least partially related to openclaw, but it's very hard to attribute back to. How could we make this easier for the ecosystem to measure?",
+      "timestamp": "2026-04-12T14:50:46+00:00",
+      "url": "https://x.com/natolambert/status/2043341056960581990",
+      "images": [],
+      "likes": 80,
+      "retweets": 5,
+      "views": 10746
+    },
+    {
+      "id": "2042963501199597950",
+      "username": "emollick",
+      "text": "A lot of our education on writing well focuses on logic, clarity, and argument. AI will force us to think more about style. The boredom that comes from everything on the internet reading Claude-y now, no matter how good the substance is, should make us appreciate variety more.",
+      "timestamp": "2026-04-11T13:50:29+00:00",
+      "url": "https://x.com/emollick/status/2042963501199597950",
+      "images": [],
+      "likes": 436,
+      "retweets": 43,
+      "views": 30784
+    },
+    {
+      "id": "2041979161930314080",
+      "username": "Miles_Brundage",
+      "text": "The way Glasswing was defined suggested partners get early access to Mythos.\n\nI'd understand Ant being skeptical about that, but it'd be a shame if Ant / OAI can't work closely on cybersecurity due to animosity.\n\nWe have bigger enemies RN, especially time https://t.co/G3iDhjLDGT",
+      "timestamp": "2026-04-08T20:39:04+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2041979161930314080",
+      "images": [],
+      "likes": 56,
+      "retweets": 2,
+      "views": 10078
     }
   ]
 }
