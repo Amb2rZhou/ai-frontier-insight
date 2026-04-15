@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14T09:35:18.458932+08:00",
+  "last_updated": "2026-04-15T09:35:24.656375+08:00",
   "trends": [
     {
       "id": "ai_safety_pivot_and_accelerated_agi_time",
@@ -15,9 +15,8 @@
         "AGI Timeline"
       ],
       "trajectory": "accelerating",
-      "signal_count": 64,
+      "signal_count": 65,
       "weekly_counts": [
-        1,
         1,
         0,
         1,
@@ -28,6 +27,7 @@
         2,
         1,
         2,
+        1,
         1
       ],
       "key_events": [
@@ -98,6 +98,10 @@
         {
           "date": "2026-04-14",
           "event": "Anthropic Allegedly 'Nerfing' Claude Performance, Users Report Degradation"
+        },
+        {
+          "date": "2026-04-15",
+          "event": "OpenAI Launches GPT-5.4-Cyber and Expands Trusted Access Program"
         }
       ],
       "created": "2026-02-25"
@@ -112,9 +116,8 @@
         "Nvidia"
       ],
       "trajectory": "accelerating",
-      "signal_count": 16,
+      "signal_count": 17,
       "weekly_counts": [
-        1,
         0,
         1,
         1,
@@ -123,6 +126,7 @@
         1,
         0,
         0,
+        1,
         1,
         1,
         1
@@ -183,6 +187,10 @@
         {
           "date": "2026-04-12",
           "event": "Tesla FSD Supervised Approved in Netherlands, First in Europe"
+        },
+        {
+          "date": "2026-04-15",
+          "event": "Google Announces Gemini Robotics-ER 1.6 for Enhanced Robot Environmental Understanding"
         }
       ],
       "created": "2026-02-25"
@@ -201,9 +209,8 @@
         "Business Models"
       ],
       "trajectory": "accelerating",
-      "signal_count": 48,
+      "signal_count": 50,
       "weekly_counts": [
-        1,
         1,
         2,
         1,
@@ -214,7 +221,8 @@
         1,
         2,
         2,
-        1
+        1,
+        2
       ],
       "key_events": [
         {
@@ -276,6 +284,10 @@
         {
           "date": "2026-04-14",
           "event": "GitHub Trending: EcoAlign-Forge for Multi-Agent DPO Data Synthesis"
+        },
+        {
+          "date": "2026-04-15",
+          "event": "Hugging Face Introduces 'Kernels on the Hub' for Easy GPU Kernel Deployment; New Open LLM Leaderboard Entries Showcase Fine-Tuned Qwen Models"
         }
       ],
       "created": "2026-02-25"
@@ -385,9 +397,8 @@
         "Anthropic"
       ],
       "trajectory": "accelerating",
-      "signal_count": 108,
+      "signal_count": 110,
       "weekly_counts": [
-        2,
         6,
         5,
         2,
@@ -398,7 +409,8 @@
         2,
         3,
         1,
-        3
+        3,
+        2
       ],
       "key_events": [
         {
@@ -464,6 +476,10 @@
         {
           "date": "2026-04-14",
           "event": "Alibaba Proposes AgentSwing for Adaptive Context Management in Web Agents; Andrew Ng Discusses Future of Software Engineering Amid AI Agent Acceleration; Perplexity CEO Highlights Full Circle Pivot to 'Computer' for Founders"
+        },
+        {
+          "date": "2026-04-15",
+          "event": "Google Devs Share Five Architectural Patterns for Production-Grade AI Agents; Databricks Research Shows Multi-Step Agents Outperform Single-Turn RAG by 21%"
         }
       ],
       "created": "2026-02-25"
@@ -482,9 +498,8 @@
         "Foundation Models"
       ],
       "trajectory": "accelerating",
-      "signal_count": 89,
+      "signal_count": 90,
       "weekly_counts": [
-        2,
         2,
         2,
         0,
@@ -495,7 +510,8 @@
         2,
         2,
         1,
-        2
+        2,
+        1
       ],
       "key_events": [
         {
@@ -561,6 +577,10 @@
         {
           "date": "2026-04-14",
           "event": "DeepMind Proposes Elastic Looped Transformers for Efficient Visual Generation; Microsoft Researchers Improve Visual Reasoning with Faithful GRPO"
+        },
+        {
+          "date": "2026-04-15",
+          "event": "Survey Finds 43% of AI-Generated Code Changes Require Debugging in Production"
         }
       ],
       "created": "2026-02-25"
@@ -575,9 +595,8 @@
         "xAI"
       ],
       "trajectory": "accelerating",
-      "signal_count": 29,
+      "signal_count": 30,
       "weekly_counts": [
-        1,
         1,
         1,
         1,
@@ -588,7 +607,8 @@
         0,
         1,
         1,
-        2
+        2,
+        1
       ],
       "key_events": [
         {
@@ -698,6 +718,10 @@
         {
           "date": "2026-04-14",
           "event": "OpenAI Acquires AI Personal Finance Startup Hiro; Thinking Machines Hires Workshop Labs Founders to Build Human-Centric AI"
+        },
+        {
+          "date": "2026-04-15",
+          "event": "Anthropic Appoints Novartis CEO Vas Narasimhan to Its Board of Directors"
         }
       ],
       "created": "2026-02-25"
@@ -716,6 +740,7 @@
       "weekly_counts": [
         1,
         1,
+        0,
         0,
         0,
         0,
@@ -799,9 +824,8 @@
         "Computer Use"
       ],
       "trajectory": "accelerating",
-      "signal_count": 146,
+      "signal_count": 148,
       "weekly_counts": [
-        4,
         5,
         3,
         3,
@@ -812,7 +836,8 @@
         2,
         4,
         4,
-        3
+        3,
+        2
       ],
       "key_events": [
         {
@@ -882,6 +907,10 @@
         {
           "date": "2026-04-14",
           "event": "Alibaba Proposes AgentSwing for Adaptive Context Management in Web Agents; Andrew Ng Discusses Future of Software Engineering Amid AI Agent Acceleration; Perplexity CEO Highlights Full Circle Pivot to 'Computer' for Founders"
+        },
+        {
+          "date": "2026-04-15",
+          "event": "Google Devs Share Five Architectural Patterns for Production-Grade AI Agents; Databricks Research Shows Multi-Step Agents Outperform Single-Turn RAG by 21%"
         }
       ],
       "created": "2026-02-25"
@@ -967,9 +996,8 @@
         "AI Infrastructure"
       ],
       "trajectory": "accelerating",
-      "signal_count": 52,
+      "signal_count": 53,
       "weekly_counts": [
-        1,
         1,
         1,
         1,
@@ -978,6 +1006,7 @@
         1,
         1,
         3,
+        1,
         1,
         1,
         1
@@ -1034,6 +1063,10 @@
         {
           "date": "2026-04-12",
           "event": "MIT Hosts Open Agentic Web Conference on Agent Infrastructure"
+        },
+        {
+          "date": "2026-04-15",
+          "event": "Hugging Face Introduces 'Kernels on the Hub' for Easy GPU Kernel Deployment"
         }
       ],
       "created": "2026-02-25"
@@ -1098,9 +1131,9 @@
         0,
         0,
         0,
+        1,
+        1,
         0,
-        1,
-        1,
         0,
         0
       ],
@@ -1175,10 +1208,9 @@
         "Open Source",
         "Risk Management"
       ],
-      "trajectory": "accelerating",
+      "trajectory": "stable",
       "signal_count": 47,
       "weekly_counts": [
-        2,
         1,
         1,
         2,
@@ -1189,7 +1221,8 @@
         1,
         1,
         1,
-        1
+        1,
+        0
       ],
       "key_events": [
         {
@@ -1372,11 +1405,11 @@
         0,
         0,
         0,
+        1,
+        1,
+        1,
+        1,
         0,
-        1,
-        1,
-        1,
-        1,
         0,
         0
       ],
@@ -1422,9 +1455,8 @@
         "DeepSeek"
       ],
       "trajectory": "accelerating",
-      "signal_count": 26,
+      "signal_count": 27,
       "weekly_counts": [
-        1,
         1,
         1,
         1,
@@ -1434,6 +1466,7 @@
         1,
         1,
         2,
+        1,
         1,
         1
       ],
@@ -1529,6 +1562,10 @@
         {
           "date": "2026-04-14",
           "event": "Alibaba Proposes AgentSwing for Adaptive Context Management in Web Agents"
+        },
+        {
+          "date": "2026-04-15",
+          "event": "New Open LLM Leaderboard Entries Showcase Fine-Tuned Qwen Models"
         }
       ],
       "created": "2026-02-25"
@@ -1543,9 +1580,8 @@
         "Startup Funding"
       ],
       "trajectory": "accelerating",
-      "signal_count": 52,
+      "signal_count": 54,
       "weekly_counts": [
-        1,
         1,
         1,
         1,
@@ -1556,7 +1592,8 @@
         3,
         1,
         1,
-        1
+        1,
+        2
       ],
       "key_events": [
         {
@@ -1726,6 +1763,10 @@
         {
           "date": "2026-04-14",
           "event": "DeepMind Proposes Elastic Looped Transformers for Efficient Visual Generation"
+        },
+        {
+          "date": "2026-04-15",
+          "event": "Microsoft Releases MAI-Image-2-Efficient for Faster, Cheaper Image Generation; ByteDance Researchers Propose OmniShow for Human-Object Interaction Video Generation"
         }
       ],
       "created": "2026-02-26"

@@ -386,6 +386,222 @@
           87
         ]
       }
+    ],
+    "2026-04-15": [
+      {
+        "title": "OpenAI Launches GPT-5.4-Cyber and Expands Trusted Access Program",
+        "signal_text": "据 OpenAI 官方账号宣布，公司推出了新的网络安全专用模型 GPT-5.4-Cyber，并扩展了其“可信网络访问”（Trusted Access for Cyber, TAC）计划。此举被视为对 Anthropic 此前发布的 Mythos 模型的直接回应，旨在为网络安全领域提供更强大的 AI 工具。",
+        "signal_strength": 0.88,
+        "sources": [
+          {
+            "name": "@thsottiaux (OpenAI)",
+            "url": "https://x.com/thsottiaux/status/2044165674881490947"
+          },
+          {
+            "name": "Wired",
+            "url": "https://www.wired.com/story/in-the-wake-of-anthropics-mythos-openai-has-a-new-cybersecurity-model-and-strategy/"
+          }
+        ],
+        "tags": [
+          "头部公司战略动作",
+          "内容安全与治理",
+          "新模型发布"
+        ],
+        "raw_item_indices": [
+          18,
+          111
+        ]
+      },
+      {
+        "title": "Microsoft Releases MAI-Image-2-Efficient for Faster, Cheaper Image Generation",
+        "signal_text": "微软发布了 MAI-Image-2-Efficient，这是其旗舰文本到图像模型 MAI-Image-2 的高效变体。据微软 CEO Satya Nadella 和 VentureBeat 报道，该模型渲染速度比其他顶级图像生成模型快 40%，成本降低 41%，旨在提供生产就绪的图像质量。",
+        "signal_strength": 0.82,
+        "sources": [
+          {
+            "name": "@satyanadella (Microsoft CEO)",
+            "url": "https://x.com/satyanadella/status/2044090233478885398"
+          },
+          {
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/technology/microsoft-launches-mai-image-2-efficient-a-cheaper-and-faster-ai-image-model"
+          },
+          {
+            "name": "@Azure",
+            "url": "https://x.com/Azure/status/2044128604963913951"
+          }
+        ],
+        "tags": [
+          "内容创作与理解",
+          "技术突破",
+          "头部公司战略动作"
+        ],
+        "raw_item_indices": [
+          32,
+          71,
+          93
+        ]
+      },
+      {
+        "title": "Hugging Face Introduces 'Kernels on the Hub' for Easy GPU Kernel Deployment",
+        "signal_text": "Hugging Face CEO Clement Delangue 宣布推出“Kernels on the Hub”功能，旨在使 GPU 内核的部署像推送模型一样简单。该功能提供针对特定 GPU、PyTorch 版本和操作系统预编译的内核，支持多版本共存，并与 torch.compile 兼容，据称比 PyTorch 基线快 1.7-2.5 倍。",
+        "signal_strength": 0.8,
+        "sources": [
+          {
+            "name": "@ClementDelangue (Hugging Face CEO)",
+            "url": "https://x.com/ClementDelangue/status/2044053580504584349"
+          }
+        ],
+        "tags": [
+          "开源生态",
+          "技术突破",
+          "AI基础设施"
+        ],
+        "raw_item_indices": [
+          59
+        ]
+      },
+      {
+        "title": "Google Devs Share Five Architectural Patterns for Production-Grade AI Agents",
+        "signal_text": "Google Developers 官方账号发布博客，分享了从 Google AI Bake-Off 中总结的五种构建生产级 AI Agent 的架构模式，包括多智能体系统和确定性执行等，强调构建可靠 Agent 的关键在于架构而非提示词。",
+        "signal_strength": 0.78,
+        "sources": [
+          {
+            "name": "@googledevs (Google Developers)",
+            "url": "https://x.com/googledevs/status/2044158757077242333"
+          }
+        ],
+        "tags": [
+          "Agent 与新交互范式",
+          "搜索与推荐",
+          "开源生态"
+        ],
+        "raw_item_indices": [
+          113
+        ]
+      },
+      {
+        "title": "ByteDance Researchers Propose OmniShow for Human-Object Interaction Video Generation",
+        "signal_text": "字节跳动研究团队提出 OmniShow，一个用于人机交互视频生成的端到端框架。该论文通过统一的注意力机制有效整合了文本、图像、姿态和边界框等多种模态条件，实现了可控的视频生成。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "arXiv (ByteDance)",
+            "url": "https://huggingface.co/papers/2604.11804"
+          },
+          {
+            "name": "@_akhaliq",
+            "url": "https://x.com/_akhaliq/status/2044083873131184639"
+          }
+        ],
+        "tags": [
+          "内容创作与理解",
+          "多模态融合",
+          "技术突破"
+        ],
+        "raw_item_indices": [
+          75,
+          135
+        ]
+      },
+      {
+        "title": "Anthropic Appoints Novartis CEO Vas Narasimhan to Its Board of Directors",
+        "signal_text": "Anthropic 宣布其长期利益信托基金已任命诺华公司 CEO Vas Narasimhan 加入公司董事会。Narasimhan 拥有超过二十年的医学和全球健康经验，此举被视为 Anthropic 加强其在生物医学和全球健康领域战略布局的信号。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "@AnthropicAI",
+            "url": "https://x.com/AnthropicAI/status/2044057406167232964"
+          }
+        ],
+        "tags": [
+          "头部公司战略动作",
+          "行业风险与监管",
+          "人才流动"
+        ],
+        "raw_item_indices": [
+          58
+        ]
+      },
+      {
+        "title": "Databricks Research Shows Multi-Step Agents Outperform Single-Turn RAG by 21%",
+        "signal_text": "据 VentureBeat 报道，Databricks 的研究表明，在处理需要结合结构化数据和非结构化内容的混合查询时，多步骤 AI Agent 的表现持续优于单轮 RAG 系统，即使面对更强大的基础模型，多步 Agent 仍能领先 21%。",
+        "signal_strength": 0.72,
+        "sources": [
+          {
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/data/databricks-research-shows-multi-step-agents-consistently-outperform-single"
+          }
+        ],
+        "tags": [
+          "搜索与推荐",
+          "Agent 与新交互范式",
+          "技术突破"
+        ],
+        "raw_item_indices": [
+          33
+        ]
+      },
+      {
+        "title": "New Open LLM Leaderboard Entries Showcase Fine-Tuned Qwen Models",
+        "signal_text": "Open LLM Leaderboard 出现多款基于 Qwen2.5 微调的新模型进入 Top 20，包括 dfurman/CalmeRys-78B-Orpo-v0.1（第3名）以及多款“abliterated”（去审查）版本的 Qwen 模型，显示开源社区在模型微调和性能优化上的活跃度。",
+        "signal_strength": 0.7,
+        "sources": [
+          {
+            "name": "Open LLM Leaderboard",
+            "url": "https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard"
+          }
+        ],
+        "tags": [
+          "开源生态",
+          "技术突破",
+          "中国AI模型竞争"
+        ],
+        "raw_item_indices": [
+          183,
+          184,
+          185,
+          186,
+          187
+        ]
+      },
+      {
+        "title": "Google Announces Gemini Robotics-ER 1.6 for Enhanced Robot Environmental Understanding",
+        "signal_text": "Google 首席科学家 Zoubin Ghahramani 宣布推出 Gemini Robotics-ER 1.6，这是其空间和视觉推理模型的重大升级，使机器人能够以前所未有的精度理解环境。该模型已通过 Gemini API 和 Google AI Studio 向开发者提供。",
+        "signal_strength": 0.7,
+        "sources": [
+          {
+            "name": "@ZoubinGhahrama1 (Google Chief Scientist)",
+            "url": "https://x.com/ZoubinGhahrama1/status/2044116228743045299"
+          }
+        ],
+        "tags": [
+          "技术突破",
+          "多模态融合",
+          "头部公司战略动作"
+        ],
+        "raw_item_indices": [
+          96
+        ]
+      },
+      {
+        "title": "Survey Finds 43% of AI-Generated Code Changes Require Debugging in Production",
+        "signal_text": "VentureBeat 报道的一项针对 200 名大型企业 SRE 和 DevOps 负责人的调查发现，43% 由 AI 生成的代码变更在投入生产后需要调试，突显了在快速采用 AI 辅助编码的同时，确保代码质量和可靠性的挑战。",
+        "signal_strength": 0.68,
+        "sources": [
+          {
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/technology/43-of-ai-generated-code-changes-need-debugging-in-production-survey-finds"
+          }
+        ],
+        "tags": [
+          "行业风险与监管",
+          "Agent 与新交互范式",
+          "技术突破"
+        ],
+        "raw_item_indices": [
+          36
+        ]
+      }
     ]
   },
   "archived_weeks": [
