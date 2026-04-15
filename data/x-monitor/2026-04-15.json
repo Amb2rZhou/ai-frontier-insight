@@ -1,11 +1,11 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-15T12:51:53.850549",
+  "scraped_at": "2026-04-15T15:27:15.995075",
   "date": "2026-04-15",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 67,
+  "tweet_count": 69,
   "account_count": 37,
   "tweets": [
     {
@@ -787,6 +787,28 @@
       "likes": 2184,
       "retweets": 234,
       "views": 151547
+    },
+    {
+      "id": "2044292247898992924",
+      "username": "gdb",
+      "text": "try the TurboTax app in ChatGPT:",
+      "timestamp": "2026-04-15T05:50:27+00:00",
+      "url": "https://x.com/gdb/status/2044292247898992924",
+      "images": [],
+      "likes": 150,
+      "retweets": 3,
+      "views": 32628
+    },
+    {
+      "id": "2044289261072220557",
+      "username": "Austen",
+      "text": "Two things I see almost everyone getting wrong in the “monthly plan” economics for AI companies. \n\n* Cost of tokens via API does not directly relate to the cost of _supplying_ tokens to the AI models. Someone on a $200/mo plan using tokens that would cost $5,000 does not mean",
+      "timestamp": "2026-04-15T05:38:35+00:00",
+      "url": "https://x.com/Austen/status/2044289261072220557",
+      "images": [],
+      "likes": 36,
+      "retweets": 1,
+      "views": 4302
     }
   ]
 }
