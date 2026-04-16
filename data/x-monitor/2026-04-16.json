@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-16T08:09:40.515228",
+  "scraped_at": "2026-04-16T11:00:06.637762",
   "date": "2026-04-16",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 82,
-  "account_count": 45,
+  "tweet_count": 90,
+  "account_count": 49,
   "tweets": [
     {
       "id": "2044566444013158462",
@@ -958,6 +958,100 @@
       "likes": 79,
       "retweets": 7,
       "views": 5540
+    },
+    {
+      "id": "2044598469189652801",
+      "username": "Miles_Brundage",
+      "text": "Paging AllBirds employees",
+      "timestamp": "2026-04-16T02:07:16+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2044598469189652801",
+      "images": [],
+      "likes": 5,
+      "retweets": 0,
+      "views": 783
+    },
+    {
+      "id": "2044592781520498878",
+      "username": "Miles_Brundage",
+      "text": "Ray-Kurzive Self Improvement",
+      "timestamp": "2026-04-16T01:44:40+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2044592781520498878",
+      "images": [],
+      "likes": 7,
+      "retweets": 0,
+      "views": 488
+    },
+    {
+      "id": "2044592321866408069",
+      "username": "gdb",
+      "text": "encouraging commentary from Terence Tao!",
+      "timestamp": "2026-04-16T01:42:50+00:00",
+      "url": "https://x.com/gdb/status/2044592321866408069",
+      "images": [],
+      "likes": 201,
+      "retweets": 7,
+      "views": 22166
+    },
+    {
+      "id": "2044591035532378511",
+      "username": "thsottiaux",
+      "text": "/compact coming in Codex, we finally listened https://t.co/neLnhrxz60",
+      "timestamp": "2026-04-16T01:37:44+00:00",
+      "url": "https://x.com/thsottiaux/status/2044591035532378511",
+      "images": [
+        "https://pbs.twimg.com/media/HF_YpImbQAAt2bc.png"
+      ],
+      "likes": 725,
+      "retweets": 15,
+      "views": 20847
+    },
+    {
+      "id": "2044588301894524947",
+      "username": "Austen",
+      "text": "Talked to a few of Gauntlet AI’s partner companies today, and one thing stood out:\n\nOld hiring practices are COMPLETELY dead.\n\n* Every role gets 20x the applicants it used to. Candidates are applying to insane numbers of roles without filtering for anything at all. There’s no",
+      "timestamp": "2026-04-16T01:26:52+00:00",
+      "url": "https://x.com/Austen/status/2044588301894524947",
+      "images": [],
+      "likes": 49,
+      "retweets": 1,
+      "views": 4500
+    },
+    {
+      "id": "2043609267236913164",
+      "username": "ollama",
+      "text": "Ollama 0.20.6 is here with improved Gemma 4 tool calling! \n\nmore improvements to come for Gemma 4! https://t.co/pKun1uClm9",
+      "timestamp": "2026-04-13T08:36:32+00:00",
+      "url": "https://x.com/ollama/status/2043609267236913164",
+      "images": [
+        "https://pbs.twimg.com/media/HFxVUy3bkAAkAzj.jpg"
+      ],
+      "likes": 1913,
+      "retweets": 138,
+      "views": 103928
+    },
+    {
+      "id": "2043599581884404080",
+      "username": "__tinygrad__",
+      "text": ".@AMD @AnushElangovan @LisaSu should learn a lesson from the Intel Arc Pro B70. Release a 9070XT with 32GB of RAM for a reasonable price!\n\nNobody wants blowers, nobody wants \"pro\" market segmentation, and nobody wants Intel. AMD can beat NVIDIA by making normal GPUs with big RAM.",
+      "timestamp": "2026-04-13T07:58:03+00:00",
+      "url": "https://x.com/__tinygrad__/status/2043599581884404080",
+      "images": [],
+      "likes": 579,
+      "retweets": 26,
+      "views": 48453
+    },
+    {
+      "id": "2042441980710699364",
+      "username": "arankomatsuzaki",
+      "text": "ClawBench: Can AI Agents Complete Everyday Online Tasks?\n\nA real-world benchmark for AI agents: 153 everyday online tasks across live websites (shopping, booking, job apps). \n\nEven top models struggle—dropping from ~70% on sandbox benchmarks to as low as 6.5% here. https://t.co/ANUnjY8rlV",
+      "timestamp": "2026-04-10T03:18:09+00:00",
+      "url": "https://x.com/arankomatsuzaki/status/2042441980710699364",
+      "images": [
+        "https://pbs.twimg.com/media/HFg2JwAboAART68.jpg"
+      ],
+      "likes": 103,
+      "retweets": 16,
+      "views": 44614
     }
   ]
 }
