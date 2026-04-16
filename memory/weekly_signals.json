@@ -602,6 +602,216 @@
           36
         ]
       }
+    ],
+    "2026-04-16": [
+      {
+        "title": "Anthropic Publishes Nature Paper on LLM Subliminal Learning Risks",
+        "signal_text": "Anthropic 官方账号宣布，其合作研究的关于大语言模型“潜意识学习”的论文在《自然》杂志发表。该研究揭示了 LLM 如何通过数据中的隐藏信号传递偏好或错位等特性，引发了关于模型安全性和数据污染的新担忧。该推文获 1300+ likes，引发广泛关注。",
+        "signal_strength": 0.9,
+        "sources": [
+          {
+            "name": "@AnthropicAI",
+            "url": "https://x.com/AnthropicAI/status/2044493337835802948"
+          }
+        ],
+        "tags": [
+          "内容安全与治理",
+          "技术突破",
+          "头部公司战略动作"
+        ],
+        "raw_item_indices": [
+          86
+        ]
+      },
+      {
+        "title": "OpenAI Agents SDK Evolution with Native Sandbox and Model-Native Harness",
+        "signal_text": "据 OpenAI 官方博客及 TechCrunch 报道，OpenAI 更新了其 Agents SDK，引入了原生沙箱执行环境和模型原生框架，旨在帮助开发者构建更安全、能够长期运行、跨文件和工具使用的 AI Agent。此次更新强化了企业级 Agent 开发的安全性和能力。",
+        "signal_strength": 0.88,
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk"
+          },
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/"
+          }
+        ],
+        "tags": [
+          "Agent 与新交互范式",
+          "头部公司战略动作",
+          "内容安全与治理"
+        ],
+        "raw_item_indices": [
+          26,
+          40
+        ]
+      },
+      {
+        "title": "Google Releases Gemini 3.1 Flash TTS, Next-Gen Expressive AI Speech",
+        "signal_text": "Google 通过其 AI 博客和官方开发者账号发布了 Gemini 3.1 Flash TTS，称其为下一代富有表现力的 AI 语音模型，现已通过 Gemini API 提供预览。这标志着 Google 在 AI 语音生成技术上的持续迭代。",
+        "signal_strength": 0.85,
+        "sources": [
+          {
+            "name": "Google AI Blog",
+            "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/"
+          },
+          {
+            "name": "@googledevs",
+            "url": "https://x.com/googledevs/status/2044448265396269278"
+          }
+        ],
+        "tags": [
+          "内容创作与理解",
+          "技术突破",
+          "头部公司战略动作"
+        ],
+        "raw_item_indices": [
+          36,
+          63,
+          110
+        ]
+      },
+      {
+        "title": "NVIDIA Releases Lyra 2.0 for Explorable Generative 3D Worlds",
+        "signal_text": "NVIDIA 研究团队在 arXiv 上发布了 Lyra 2.0 论文，并已在 Hugging Face 上发布模型。该工作旨在通过解决长序列视频生成中的空间遗忘和时间漂移问题，实现大规模 3D 场景创建。模型发布推文获 300+ likes，显示社区高度关注。",
+        "signal_strength": 0.82,
+        "sources": [
+          {
+            "name": "arXiv (NVIDIA)",
+            "url": "https://huggingface.co/papers/2604.13036"
+          },
+          {
+            "name": "@_akhaliq (citing NVIDIA)",
+            "url": "https://x.com/_akhaliq/status/2044444898657460475"
+          }
+        ],
+        "tags": [
+          "内容创作与理解",
+          "技术突破",
+          "开源生态"
+        ],
+        "raw_item_indices": [
+          114,
+          167
+        ]
+      },
+      {
+        "title": "Andrew Ng Launches New Course on Spec-Driven Development with Coding Agents",
+        "signal_text": "吴恩达宣布与 JetBrains 合作推出新课程“Spec-Driven Development with Coding Agents”，旨在教授开发者如何通过编写详细规范来指导编码智能体，以解决“氛围编码”产出与需求不符的问题。该推文获 1300+ likes，显示强烈市场需求。",
+        "signal_strength": 0.82,
+        "sources": [
+          {
+            "name": "@AndrewYNg",
+            "url": "https://x.com/AndrewYNg/status/2044449830605582629"
+          }
+        ],
+        "tags": [
+          "Agent 与新交互范式",
+          "开源生态"
+        ],
+        "raw_item_indices": [
+          108
+        ]
+      },
+      {
+        "title": "NVIDIA Introduces Nemotron 3 Super: Hybrid Mamba-Transformer MoE for Agentic Reasoning",
+        "signal_text": "NVIDIA 发布了 Nemotron 3 Super，这是一个 1200 亿参数的混合 Mamba-Attention 混合专家模型，采用 LatentMoE 架构和 MTP 层以加速推理，专为智能体推理任务设计。该模型已在 arXiv 上公开论文。",
+        "signal_strength": 0.8,
+        "sources": [
+          {
+            "name": "arXiv (NVIDIA)",
+            "url": "https://huggingface.co/papers/2604.12374"
+          },
+          {
+            "name": "@_akhaliq (citing NVIDIA)",
+            "url": "https://x.com/_akhaliq/status/2044450499898769930"
+          }
+        ],
+        "tags": [
+          "技术突破",
+          "Agent 与新交互范式",
+          "开源生态"
+        ],
+        "raw_item_indices": [
+          107,
+          168
+        ]
+      },
+      {
+        "title": "Meta Researchers Propose 'Hyperagents' for Self-Improving AI in Non-Coding Tasks",
+        "signal_text": "据 VentureBeat 报道，Meta 的研究人员引入了“超智能体”概念，旨在解锁非编码任务的自我改进 AI。当前自我改进系统因依赖代码执行和模拟而受限，新方法试图克服这些限制，对于在动态企业生产环境中部署 Agent 具有重要意义。",
+        "signal_strength": 0.78,
+        "sources": [
+          {
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/orchestration/meta-researchers-introduce-hyperagents-to-unlock-self-improving-ai-for-non-coding-tasks"
+          }
+        ],
+        "tags": [
+          "Agent 与新交互范式",
+          "技术突破",
+          "头部公司战略动作"
+        ],
+        "raw_item_indices": [
+          24
+        ]
+      },
+      {
+        "title": "Microsoft Copilot Studio Patched Prompt Injection Vulnerability, But Data Still Exfiltrated",
+        "signal_text": "VentureBeat 报道，微软修补了 Copilot Studio 中的一个间接提示注入漏洞（CVE-2026-21520，CVSS 7.5），但安全公司 Capsule Security 发现数据仍可能被窃取。这凸显了 AI 应用层安全漏洞的复杂性和修复的挑战。",
+        "signal_strength": 0.77,
+        "sources": [
+          {
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/security/microsoft-salesforce-copilot-agentforce-prompt-injection-cve-agent-remediation-playbook"
+          }
+        ],
+        "tags": [
+          "内容安全与治理",
+          "行业风险与监管"
+        ],
+        "raw_item_indices": [
+          19
+        ]
+      },
+      {
+        "title": "Scale AI CEO Announces AI Preparedness Reports Aligning with New Scaling Framework",
+        "signal_text": "Scale AI 首席执行官 Alexandr Wang 宣布，随着公司开发更强大的前沿模型，将发布模型准备度报告，以符合其新的高级 AI 扩展框架，并展示了其 Muse Spark 模型的报告。此举回应了业界对 AI 安全与准备的关切，推文获 400+ likes。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "@alexandr_wang (Scale AI CEO)",
+            "url": "https://x.com/alexandr_wang/status/2044454230614999441"
+          }
+        ],
+        "tags": [
+          "内容安全与治理",
+          "头部公司战略动作",
+          "行业风险与监管"
+        ],
+        "raw_item_indices": [
+          103
+        ]
+      },
+      {
+        "title": "VentureBeat: Frontier Models Fail One in Three Production Attempts, Harder to Audit",
+        "signal_text": "VentureBeat 报道指出，前沿 AI 模型在真实企业工作流中的结构化基准测试上，仍有约三分之一的失败率。能力与可靠性之间的差距是当前运营的主要挑战，且随着模型变得更大、更复杂，对其进行审计也变得更加困难。",
+        "signal_strength": 0.73,
+        "sources": [
+          {
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/security/frontier-models-are-failing-one-in-three-production-attempts-and-getting-harder-to-audit"
+          }
+        ],
+        "tags": [
+          "行业风险与监管",
+          "Agent 与新交互范式"
+        ],
+        "raw_item_indices": [
+          23
+        ]
+      }
     ]
   },
   "archived_weeks": [

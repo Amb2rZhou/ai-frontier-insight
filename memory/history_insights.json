@@ -1,66 +1,6 @@
 {
   "predictions": [
     {
-      "date": "2026-04-05T12:23:09.263038+08:00",
-      "prediction_text": "基础设施团队可以考虑采用vLLM等高性能开源方案，以低成本快速支持最新的开源模型。",
-      "category": "infrastructure",
-      "source_signal": "vLLM v0.19.0 Released with Full Gemma 4 Architecture Support"
-    },
-    {
-      "date": "2026-04-05T12:23:09.278567+08:00",
-      "prediction_text": "电商与内容平台的智能客服或运营Agent团队，可以基于此类框架快速原型化多角色协作场景。",
-      "category": "open_source",
-      "source_signal": "Open-Source Multi-Agent Framework 'open-multi-agent' Gains Traction"
-    },
-    {
-      "date": "2026-04-06T09:32:57.830296+08:00",
-      "prediction_text": "内容理解与生成模型的研发团队可以考虑引入类似框架，优化训练数据策略。",
-      "category": "research_breakthrough",
-      "source_signal": "Peking University Team Releases DataFlex for Dynamic LLM Training"
-    },
-    {
-      "date": "2026-04-06T09:32:57.844672+08:00",
-      "prediction_text": "视频内容创作与理解团队值得探索利用此类能力进行复杂叙事生成或交互式内容规划。",
-      "category": "research_breakthrough",
-      "source_signal": "Princeton Study Finds Video Models Exhibit Early Reasoning in Maze Solving"
-    },
-    {
-      "date": "2026-04-06T09:32:57.868514+08:00",
-      "prediction_text": "创作者工具与运营自动化团队可以探索基于此类框架构建多模态内容生成与编辑Agent。",
-      "category": "ecosystem_shift",
-      "source_signal": "OpenClaw Adds Native Video Generation with Multi-Provider Support"
-    },
-    {
-      "date": "2026-04-06T09:32:57.895006+08:00",
-      "prediction_text": "内容运营与审核团队可以考虑探索此类技术，自动化重复性后台操作流程。",
-      "category": "research_breakthrough",
-      "source_signal": "Salesforce Proposes GPA for GUI Process Automation from Demonstrations"
-    },
-    {
-      "date": "2026-04-06T09:32:57.916130+08:00",
-      "prediction_text": "视频搜索与推荐团队需要关注并投资于长上下文、时空推理等核心能力的评测与提升。",
-      "category": "research_breakthrough",
-      "source_signal": "Peking University Releases VideoZeroBench for Long- Video QA Evaluation"
-    },
-    {
-      "date": "2026-04-06T09:32:57.937137+08:00",
-      "prediction_text": "移动端产品团队值得探索集成此类模型，以提供低延迟、高隐私的AI功能。",
-      "category": "strategic_move",
-      "source_signal": "Google AI Edge App Ranks High on iOS Store Post-Gemma 4"
-    },
-    {
-      "date": "2026-04-06T09:32:57.958219+08:00",
-      "prediction_text": "内容安全与版权团队必须将AIGC版权识别与过滤机制的建设提升至最高优先级。",
-      "category": "content_security_governance",
-      "source_signal": "The Verge Exposes AI Music Platform Suno's Copyright Risks"
-    },
-    {
-      "date": "2026-04-06T09:32:57.977623+08:00",
-      "prediction_text": "产品与法务团队可以参考此先例，在服务条款中明确AI功能的用途与责任限制。",
-      "category": "strategic_move",
-      "source_signal": "TechCrunch Reports Microsoft Copilot Terms Label It 'For Entertainment Only'"
-    },
-    {
       "date": "2026-04-06T09:32:58.006735+08:00",
       "prediction_text": "基础设施与开发者服务团队可以考虑提供类似的开源集成方案，降低内部AI应用门槛。",
       "category": "open_source",
@@ -599,6 +539,66 @@
       "prediction_text": "平台内部研发与工具团队在引入AI编程助手时，必须同步建立强化的代码审查与测试流程。",
       "category": "ecosystem_shift",
       "source_signal": "Survey Finds 43% of AI-Generated Code Changes Require Debugging in Production"
+    },
+    {
+      "date": "2026-04-16T09:34:20.004950+08:00",
+      "prediction_text": "内容安全与模型训练团队必须将数据清洗与污染检测前置，并建立针对‘潜意识输出’的监控机制。",
+      "category": "research_breakthrough",
+      "source_signal": "Anthropic Publishes Nature Paper on LLM Subliminal Learning Risks"
+    },
+    {
+      "date": "2026-04-16T09:34:20.023492+08:00",
+      "prediction_text": "电商与客服Agent团队建议探索集成此类安全SDK，以构建可信的企业级自动化流程。",
+      "category": "strategic_move",
+      "source_signal": "OpenAI Agents SDK Evolution with Native Sandbox and Model-Native Harness"
+    },
+    {
+      "date": "2026-04-16T09:34:20.046374+08:00",
+      "prediction_text": "内容创作工具可以考虑集成此类TTS API，为播客、有声内容提供更具感染力的生成选项。",
+      "category": "model_release",
+      "source_signal": "Google Releases Gemini 3.1 Flash TTS, Next-Gen Expressive AI Speech"
+    },
+    {
+      "date": "2026-04-16T09:34:20.063371+08:00",
+      "prediction_text": "电商平台的3D商品展示与虚拟试穿场景，值得关注此类开源模型以降低内容生产成本。",
+      "category": "research_breakthrough",
+      "source_signal": "NVIDIA Releases Lyra 2.0 for Explorable Generative 3D Worlds"
+    },
+    {
+      "date": "2026-04-16T09:34:20.082603+08:00",
+      "prediction_text": "平台内部研发与工具团队在构建内部AI助手时，可以探索引入规范驱动的开发流程培训。",
+      "category": "ecosystem_shift",
+      "source_signal": "Andrew Ng Launches New Course on Spec-Driven Development with Coding Agents"
+    },
+    {
+      "date": "2026-04-16T09:34:20.101590+08:00",
+      "prediction_text": "推荐系统与搜索产品团队值得关注此类架构，以应对用户复杂、多轮交互的推理需求。",
+      "category": "model_release",
+      "source_signal": "NVIDIA Introduces Nemotron 3 Super: Hybrid Mamba-Transformer MoE for Agentic Reasoning"
+    },
+    {
+      "date": "2026-04-16T09:34:20.122878+08:00",
+      "prediction_text": "社区平台的运营与内容治理Agent，可以探索引入此类自我优化机制以动态适应规则变化。",
+      "category": "research_breakthrough",
+      "source_signal": "Meta Researchers Propose 'Hyperagents' for Self-Improving AI in Non-Coding Tasks"
+    },
+    {
+      "date": "2026-04-16T09:34:20.142223+08:00",
+      "prediction_text": "内容平台的客服/创作者助手Agent可以考虑引入类似的输入过滤方案，并建立渗透测试流程。",
+      "category": "industry_risk",
+      "source_signal": "Microsoft Copilot Studio Patched Prompt Injection Vulnerability, But Data Still Exfiltrated"
+    },
+    {
+      "date": "2026-04-16T09:34:20.163211+08:00",
+      "prediction_text": "平台在引入或发布大型模型时，可以考虑建立类似的内部评估框架与透明度报告机制。",
+      "category": "strategic_move",
+      "source_signal": "Scale AI CEO Announces AI Preparedness Reports Aligning with New Scaling Framework"
+    },
+    {
+      "date": "2026-04-16T09:34:20.175353+08:00",
+      "prediction_text": "电商与客服Agent团队在选型时，建议优先考虑在特定场景下经过充分压力测试的模型，而非盲目追求SOTA。",
+      "category": "industry_risk",
+      "source_signal": "VentureBeat: Frontier Models Fail One in Three Production Attempts, Harder to Audit"
     }
   ]
 }
