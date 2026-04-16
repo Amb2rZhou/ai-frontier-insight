@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-16T11:00:06.637762",
+  "scraped_at": "2026-04-16T15:03:35.579418",
   "date": "2026-04-16",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 90,
-  "account_count": 49,
+  "tweet_count": 99,
+  "account_count": 52,
   "tweets": [
     {
       "id": "2044566444013158462",
@@ -1052,6 +1052,112 @@
       "likes": 103,
       "retweets": 16,
       "views": 44614
+    },
+    {
+      "id": "2044662466945462762",
+      "username": "khoomeik",
+      "text": "been reading Anathem and i can't help but feel that @nealstephenson drew some inspiration from the sanskritic world https://t.co/QSBwrY2eEo",
+      "timestamp": "2026-04-16T06:21:34+00:00",
+      "url": "https://x.com/khoomeik/status/2044662466945462762",
+      "images": [
+        "https://pbs.twimg.com/media/HGAZmTebUAAfNA4.jpg",
+        "https://pbs.twimg.com/media/HGAZpXebEAAK2Lz.jpg"
+      ],
+      "likes": 12,
+      "retweets": 0,
+      "views": 569
+    },
+    {
+      "id": "2044643518891909289",
+      "username": "gdb",
+      "text": "always a real feeling of magic to ask codex to perform a task that requires finding information scattered across slack, google docs, notion, and various internal tools, and it just figures it out",
+      "timestamp": "2026-04-16T05:06:17+00:00",
+      "url": "https://x.com/gdb/status/2044643518891909289",
+      "images": [],
+      "likes": 588,
+      "retweets": 28,
+      "views": 22884
+    },
+    {
+      "id": "2044640263654822329",
+      "username": "Miles_Brundage",
+      "text": "I hear Bloomberg is pivoting to AI safety research and rebranding as Foomberg",
+      "timestamp": "2026-04-16T04:53:21+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2044640263654822329",
+      "images": [],
+      "likes": 18,
+      "retweets": 2,
+      "views": 3491
+    },
+    {
+      "id": "2044632867612110970",
+      "username": "docmilanfar",
+      "text": "the brilliant concluding paragraph of the Dunning-Kruger paper https://t.co/XqXOY1VJ3T",
+      "timestamp": "2026-04-16T04:23:57+00:00",
+      "url": "https://x.com/docmilanfar/status/2044632867612110970",
+      "images": [
+        "https://pbs.twimg.com/media/HF_-wfUa0AAA8xY.jpg"
+      ],
+      "likes": 100,
+      "retweets": 18,
+      "views": 3391
+    },
+    {
+      "id": "2044621545348481285",
+      "username": "levie",
+      "text": "Why will AI create more jobs in plenty of industries? It’s because we’re going to use AI to accelerate output in one area, and then eventually you run into a new bottleneck somewhere else in the process that still requires humans.\n\nThis example from the FT is an obvious one. More https://t.co/rIx2b4EN6M",
+      "timestamp": "2026-04-16T03:38:58+00:00",
+      "url": "https://x.com/levie/status/2044621545348481285",
+      "images": [
+        "https://pbs.twimg.com/media/HF_0dcTbYAAcD9a.jpg"
+      ],
+      "likes": 145,
+      "retweets": 23,
+      "views": 18588
+    },
+    {
+      "id": "2044620297878298839",
+      "username": "DeryaTR_",
+      "text": "Unbelievable AI video!",
+      "timestamp": "2026-04-16T03:34:00+00:00",
+      "url": "https://x.com/DeryaTR_/status/2044620297878298839",
+      "images": [],
+      "likes": 15,
+      "retweets": 0,
+      "views": 3536
+    },
+    {
+      "id": "2044611741842079970",
+      "username": "googledevs",
+      "text": "Gemma 4 is here to help you build more flexibly than ever. \n\nKey features include: \n\n📏 Model sizes for IoT, mobiles, laptops, workstations and accelerators \n🤝 Built for scalable agents \n💻 Multimodal edge processing \n🔐 Foundation of trust and safety \n\nStart building today → https://t.co/T6IQaSz0Nf",
+      "timestamp": "2026-04-16T03:00:00+00:00",
+      "url": "https://x.com/googledevs/status/2044611741842079970",
+      "images": [],
+      "likes": 68,
+      "retweets": 12,
+      "views": 4777
+    },
+    {
+      "id": "2044448743811129716",
+      "username": "JeffDean",
+      "text": "Delighted to see that Ricardo Baeza-Yates (@PolarBearby) is this year's winner of the @TheOfficialACM Luiz Barroso Award (an award named in honor of my longtime Google colleague).\n\nRicardo is widely regarded as one of the world’s foremost researchers in information retrieval, and",
+      "timestamp": "2026-04-15T16:12:19+00:00",
+      "url": "https://x.com/JeffDean/status/2044448743811129716",
+      "images": [],
+      "likes": 151,
+      "retweets": 16,
+      "views": 14634
+    },
+    {
+      "id": "2044440902177825203",
+      "username": "sedielem",
+      "text": "Who's at #ICLR2026 next week?\n\nI'm not (😢), which means someone else is going to have to organise a diffusion circle! I'm counting on you!\n\nLet me know, happy to amplify the announcement📢",
+      "timestamp": "2026-04-15T15:41:09+00:00",
+      "url": "https://x.com/sedielem/status/2044440902177825203",
+      "images": [],
+      "likes": 62,
+      "retweets": 6,
+      "views": 10820
     }
   ]
 }
