@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-17T16:16:20.497711",
+  "scraped_at": "2026-04-17T21:05:10.649205",
   "date": "2026-04-17",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 134,
-  "account_count": 67,
+  "tweet_count": 144,
+  "account_count": 71,
   "tweets": [
     {
       "id": "2044845459118727279",
@@ -1563,6 +1563,118 @@
       "likes": 206,
       "retweets": 9,
       "views": 35619
+    },
+    {
+      "id": "2045109509446938681",
+      "username": "__tinygrad__",
+      "text": "Export controls are good for us, tinygrad wins in a heterogeneous compute world. But blocking the export of NVIDIA chips is maybe the largest self-own in US history.\n\nThey had a chance to have everyone on a proprietary US tech stack for AI and flushed it away for nothing.",
+      "timestamp": "2026-04-17T11:57:58+00:00",
+      "url": "https://x.com/__tinygrad__/status/2045109509446938681",
+      "images": [],
+      "likes": 119,
+      "retweets": 7,
+      "views": 3445
+    },
+    {
+      "id": "2045095800334946366",
+      "username": "__tinygrad__",
+      "text": "They have discovered JITBEAM=4. This GPU (AMD 7900XTX) costs $620 on eBay and tinygrad entirely bypasses all AMD drivers and HIP. Just waiting for someone to write the tool calling stuff and tinygrad can be your go to engine for openclaw and opencode.",
+      "timestamp": "2026-04-17T11:03:29+00:00",
+      "url": "https://x.com/__tinygrad__/status/2045095800334946366",
+      "images": [],
+      "likes": 150,
+      "retweets": 5,
+      "views": 8238
+    },
+    {
+      "id": "2045076861726716291",
+      "username": "DeryaTR_",
+      "text": "Wake up at 5 am\nGet coffee\nLaunch Codex\nAsk Codex to check emails\nLaunch ChatGPT to brainstorm\nCreate 10 songs with Suno 5.5\nStart listening to them and turn up the volume\nStart vibe coding with Codex\nInstruct Codex computer agents\nGet another coffee\nLife is good😊\nBe grateful 🥹",
+      "timestamp": "2026-04-17T09:48:14+00:00",
+      "url": "https://x.com/DeryaTR_/status/2045076861726716291",
+      "images": [],
+      "likes": 145,
+      "retweets": 8,
+      "views": 4810
+    },
+    {
+      "id": "2045074272931189154",
+      "username": "__tinygrad__",
+      "text": "There's two types of people in the world, those who know about JITBEAM, and those who don't know about JITBEAM.",
+      "timestamp": "2026-04-17T09:37:56+00:00",
+      "url": "https://x.com/__tinygrad__/status/2045074272931189154",
+      "images": [],
+      "likes": 71,
+      "retweets": 2,
+      "views": 5923
+    },
+    {
+      "id": "2045063560716296450",
+      "username": "NandoDF",
+      "text": "The progress on some of these benchmarks has been insane! \n\n@AnthropicAI @DarioAmodei May I please ask you to request Claude to give you a list of the of the top 1000 areas of STEM, top 1000 magazine topics, top 500 professions, and for each list item pick a (not in training",
+      "timestamp": "2026-04-17T08:55:22+00:00",
+      "url": "https://x.com/NandoDF/status/2045063560716296450",
+      "images": [],
+      "likes": 45,
+      "retweets": 1,
+      "views": 8833
+    },
+    {
+      "id": "2044626325286084790",
+      "username": "sriramk",
+      "text": "Every person here's reaction to the Jensen + @dwarkesh_sp podcast can be extrapolated *directly* from whether they believe in the frontier labs achieving short timelines for AGI/ASI.\n\nIf you believe in the labs achieving RSI and then AGI/ASI (for some definition of all three) in",
+      "timestamp": "2026-04-16T03:57:57+00:00",
+      "url": "https://x.com/sriramk/status/2044626325286084790",
+      "images": [],
+      "likes": 547,
+      "retweets": 24,
+      "views": 63084
+    },
+    {
+      "id": "2044437193205395458",
+      "username": "arena",
+      "text": "Document Arena update: four new models are reshaping the top ranks - including two open models!\n\n- #1 Claude Opus 4.6 Thinking is new, keeping @AnthropicAI in the top 3\n- #8 Kimi-K2.5 Thinking by @Kimi_Moonshot now the best open model (Modified MIT)\n- #10 Gemma-4-31b by https://t.co/H75251ieC7",
+      "timestamp": "2026-04-15T15:26:25+00:00",
+      "url": "https://x.com/arena/status/2044437193205395458",
+      "images": [
+        "https://pbs.twimg.com/media/HF9Mkg-aoAAk0TT.jpg"
+      ],
+      "likes": 753,
+      "retweets": 70,
+      "views": 59777
+    },
+    {
+      "id": "2044161906936791179",
+      "username": "OpenAI",
+      "text": "We’re expanding Trusted Access for Cyber with additional tiers for authenticated cybersecurity defenders. \n\nCustomers in the highest tiers can request access to GPT-5.4-Cyber, a version of GPT-5.4 fine-tuned for cybersecurity use cases, enabling more advanced defensive workflows.",
+      "timestamp": "2026-04-14T21:12:31+00:00",
+      "url": "https://x.com/OpenAI/status/2044161906936791179",
+      "images": [],
+      "likes": 5113,
+      "retweets": 634,
+      "views": 1902122
+    },
+    {
+      "id": "2043882016824012905",
+      "username": "Austen",
+      "text": "“Google engineering appears to have the same AI adoption footprint as John Deere, the tractor company.”\n\nActually John Deere cares deeply about AI and might be closer to the cutting edge of AI than most Silicon Valley startups are.",
+      "timestamp": "2026-04-14T02:40:20+00:00",
+      "url": "https://x.com/Austen/status/2043882016824012905",
+      "images": [],
+      "likes": 183,
+      "retweets": 2,
+      "views": 24147
+    },
+    {
+      "id": "2043765855314706899",
+      "username": "GoogleAI",
+      "text": "Got a doodle for your next project laying around? Turn it into working software using @GoogleAIStudio and Nano Banana.\n\nWatch us vibe code a weather-responsive outfit selector app from a single, hand-drawn sketch: https://t.co/PT4XOeniu3",
+      "timestamp": "2026-04-13T18:58:45+00:00",
+      "url": "https://x.com/GoogleAI/status/2043765855314706899",
+      "images": [],
+      "likes": 214,
+      "retweets": 34,
+      "views": 42761
     }
   ]
 }
