@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-17T10:47:04.173318+08:00",
+  "last_updated": "2026-04-17T10:52:48.684415+08:00",
   "trends": [
     {
       "id": "ai_safety_pivot_and_accelerated_agi_time",
@@ -84,15 +84,15 @@
         "Nvidia"
       ],
       "trajectory": "accelerating",
-      "signal_count": 18,
+      "signal_count": 19,
       "weekly_counts": [
         1,
-        1,
         0,
         1,
         1,
         0,
         0,
+        1,
         1,
         1,
         1,
@@ -163,6 +163,10 @@
         {
           "date": "2026-04-17",
           "event": "Physical Intelligence Startup Unveils π0.7, a Step Toward General-Purpose Robot Brain"
+        },
+        {
+          "date": "2026-04-17",
+          "event": "Physical Intelligence unveils π0.7 robot brain with zero-shot task generalization"
         }
       ],
       "created": "2026-02-25"
@@ -181,9 +185,8 @@
         "Business Models"
       ],
       "trajectory": "accelerating",
-      "signal_count": 51,
+      "signal_count": 52,
       "weekly_counts": [
-        2,
         1,
         1,
         1,
@@ -194,6 +197,7 @@
         2,
         1,
         2,
+        1,
         1
       ],
       "key_events": [
@@ -264,6 +268,10 @@
         {
           "date": "2026-04-17",
           "event": "Google Releases Gemma 4 with Focus on Scalable Agents and Edge Processing"
+        },
+        {
+          "date": "2026-04-17",
+          "event": "Google releases Gemma 4 for scalable agents and edge processing"
         }
       ],
       "created": "2026-02-25"
@@ -373,9 +381,8 @@
         "Anthropic"
       ],
       "trajectory": "accelerating",
-      "signal_count": 116,
+      "signal_count": 120,
       "weekly_counts": [
-        2,
         1,
         2,
         1,
@@ -386,6 +393,7 @@
         3,
         2,
         2,
+        4,
         4
       ],
       "key_events": [
@@ -464,6 +472,10 @@
         {
           "date": "2026-04-17",
           "event": "OpenAI Majorly Updates Codex Desktop App, Transforming It into a Full AI Operator; Salesforce Launches Headless 360 to Turn Its Platform into AI Agent Infrastructure; Meta Shares Insights on Unified AI Agents for Hyperscale Infrastructure Optimization; Google Research Paper Introduces Auto-Diagnose for LLM-Based Integration Test Failure Analysis"
+        },
+        {
+          "date": "2026-04-17",
+          "event": "OpenAI massively upgrades Codex into full AI computer operator; Salesforce launches Headless 360 as AI agent infrastructure"
         }
       ],
       "created": "2026-02-25"
@@ -482,9 +494,8 @@
         "Foundation Models"
       ],
       "trajectory": "accelerating",
-      "signal_count": 91,
+      "signal_count": 92,
       "weekly_counts": [
-        2,
         0,
         0,
         3,
@@ -494,6 +505,7 @@
         2,
         1,
         2,
+        1,
         1,
         1
       ],
@@ -569,6 +581,10 @@
         {
           "date": "2026-04-17",
           "event": "OpenAI Debuts GPT-Rosalind, a Frontier Model for Life Sciences Research"
+        },
+        {
+          "date": "2026-04-17",
+          "event": "OpenAI debuts GPT-Rosalind, a frontier model for life sciences research"
         }
       ],
       "created": "2026-02-25"
@@ -814,9 +830,8 @@
         "Computer Use"
       ],
       "trajectory": "accelerating",
-      "signal_count": 154,
+      "signal_count": 157,
       "weekly_counts": [
-        3,
         2,
         2,
         1,
@@ -826,6 +841,7 @@
         4,
         3,
         2,
+        3,
         3,
         3
       ],
@@ -909,6 +925,10 @@
         {
           "date": "2026-04-17",
           "event": "Anthropic Releases Claude Opus 4.7, Retakes Lead in General-Purpose LLMs; OpenAI Majorly Updates Codex Desktop App, Transforming It into a Full AI Operator; Salesforce Launches Headless 360 to Turn Its Platform into AI Agent Infrastructure"
+        },
+        {
+          "date": "2026-04-17",
+          "event": "Anthropic releases Claude Opus 4.7 retaking SOTA in agentic coding; Google proposes Auto-Diagnose for debugging integration test failures"
         }
       ],
       "created": "2026-02-25"
@@ -1212,9 +1232,8 @@
         "Risk Management"
       ],
       "trajectory": "accelerating",
-      "signal_count": 48,
+      "signal_count": 49,
       "weekly_counts": [
-        2,
         0,
         1,
         0,
@@ -1225,7 +1244,8 @@
         1,
         0,
         1,
-        0
+        0,
+        1
       ],
       "key_events": [
         {
@@ -1391,6 +1411,10 @@
         {
           "date": "2026-04-16",
           "event": "Microsoft Copilot Studio Patched Prompt Injection Vulnerability, But Data Still Exfiltrated"
+        },
+        {
+          "date": "2026-04-17",
+          "event": "Study reveals safety vulnerabilities in computer-use agents from benign instructions"
         }
       ],
       "created": "2026-02-25"
@@ -1466,9 +1490,8 @@
         "AI Adoption"
       ],
       "trajectory": "accelerating",
-      "signal_count": 30,
+      "signal_count": 32,
       "weekly_counts": [
-        1,
         1,
         1,
         0,
@@ -1479,6 +1502,7 @@
         1,
         1,
         1,
+        2,
         2
       ],
       "key_events": [
@@ -1525,6 +1549,10 @@
         {
           "date": "2026-04-17",
           "event": "ByteDance Releases Seedance 2.0 for Advanced Audio-Video Generation; Tencent's HY-World 2.0: A Multi-Modal World Model for 3D Scene Generation"
+        },
+        {
+          "date": "2026-04-17",
+          "event": "ByteDance releases Seedance 2.0; Tencent releases HY-World 2.0"
         }
       ],
       "created": "2026-02-25"
@@ -1539,9 +1567,8 @@
         "Startup Funding"
       ],
       "trajectory": "accelerating",
-      "signal_count": 58,
+      "signal_count": 60,
       "weekly_counts": [
-        1,
         2,
         1,
         2,
@@ -1550,6 +1577,7 @@
         1,
         1,
         1,
+        2,
         2,
         2,
         2
@@ -1734,6 +1762,10 @@
         {
           "date": "2026-04-17",
           "event": "ByteDance Releases Seedance 2.0 for Advanced Audio-Video Generation; Tencent's HY-World 2.0: A Multi-Modal World Model for 3D Scene Generation"
+        },
+        {
+          "date": "2026-04-17",
+          "event": "ByteDance releases Seedance 2.0 for advanced audio-video generation; Tencent releases HY-World 2.0 for 3D scene generation"
         }
       ],
       "created": "2026-02-26"

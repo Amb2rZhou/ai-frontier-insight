@@ -815,53 +815,42 @@
     ],
     "2026-04-17": [
       {
-        "title": "Anthropic Releases Claude Opus 4.7, Retakes Lead in General-Purpose LLMs",
-        "signal_text": "Anthropic 正式发布 Claude Opus 4.7，据 VentureBeat 报道，该模型在多项基准测试中表现优异，重新夺回最强大通用大语言模型的领先地位。其关键改进包括更高的图像分辨率（最高 2576px）、新的 xhigh 努力级别用于解决难题、更好的视觉能力以提升计算机使用和视觉内容生成，以及针对大规模现实世界分析的优化。该模型已集成至 Microsoft Foundry 和 Perplexity Computer 等平台。",
-        "signal_strength": 0.88,
+        "title": "Anthropic Releases Claude Opus 4.7, Retakes SOTA in Agentic Coding",
+        "signal_text": "Anthropic 正式发布 Claude Opus 4.7，据其官方公告及早期用户反馈（如 Cursor 内部测试显示通过率从 58% 提升至 70%），该模型在 Agentic coding、计算机使用和视觉能力（支持高达 2576px 图像分辨率）方面显著提升，重新夺回通用可用 LLM 的性能领先地位。模型采用了新的 tokenizer，表明其基于新的预训练模型。",
+        "signal_strength": 0.95,
         "sources": [
           {
             "name": "VentureBeat",
-            "url": "https://venturebeat.com/technology/anthropic-releases-claude-opus-4-7-narrowly-retaking-lead-for-most-powerful-generally-available-llm"
+            "url": "https://venturebeat.com/technology/anthropic-releases-claude-opus-4-7-narrowly-retaking-lead-for-most-powerful-generally-available-llm/"
           },
           {
-            "name": "@Azure",
-            "url": "https://x.com/Azure/status/2044838234966859793"
+            "name": "@bcherny (Anthropic)",
+            "url": "https://x.com/bcherny/status/2044822408826380440"
           },
           {
-            "name": "@perplexity_ai",
-            "url": "https://x.com/perplexity_ai/status/2044828352171888951"
+            "name": "@cursor_ai",
+            "url": "https://x.com/cursor_ai/status/2044785960899236341"
           }
         ],
         "tags": [
           "头部公司战略动作",
-          "模型发布",
-          "Agent 与新交互范式"
+          "Agent 与新交互范式",
+          "技术突破"
         ],
         "raw_item_indices": [
           33,
-          56,
-          59,
-          67,
-          68,
-          70,
+          54,
+          66,
           82,
-          83,
-          84,
-          85,
-          86,
-          91,
-          93,
-          94,
-          95,
-          97,
-          115,
-          146
+          89,
+          92,
+          95
         ]
       },
       {
-        "title": "OpenAI Majorly Updates Codex Desktop App, Transforming It into a Full AI Operator",
-        "signal_text": "OpenAI 大幅更新其 Codex 桌面应用，据 VentureBeat 报道，此次更新使其成为一个强大的 AI 操作员，能够使用用户计算机上的几乎所有应用程序、生成图像、预览网页，并处理后台任务。更新包括支持 Mac 后台计算机使用（无需接管屏幕）、文件系统记忆，以及将 Codex 构建成一个可以处理几乎所有计算机任务、从过往行动中学习并能主动承担长期工作的队友。",
-        "signal_strength": 0.87,
+        "title": "OpenAI Massively Upgrades Codex into a Full AI Computer Operator",
+        "signal_text": "据 VentureBeat 报道及 OpenAI 开发者推文，OpenAI 对其 Codex 桌面应用进行了大规模更新，使其能够作为后台运行的 AI 操作员，调用 Mac 上的其他应用（如邮件）、生成图像、预览网页并执行长期任务。此次更新标志着 Codex 正演变为一个功能强大的“超级应用”级 AI 伙伴。",
+        "signal_strength": 0.93,
         "sources": [
           {
             "name": "VentureBeat",
@@ -879,52 +868,48 @@
         "tags": [
           "头部公司战略动作",
           "Agent 与新交互范式",
-          "产品发布"
+          "内容创作与理解"
         ],
         "raw_item_indices": [
           27,
-          46,
-          57,
-          61,
+          44,
+          55,
+          59,
           64,
-          65,
-          66,
-          125,
-          126,
-          129,
-          130,
-          132
+          123,
+          127,
+          128
         ]
       },
       {
-        "title": "OpenAI Debuts GPT-Rosalind, a Frontier Model for Life Sciences Research",
-        "signal_text": "OpenAI 推出 GPT-Rosalind，这是一个面向生命科学研究的 frontier 模型。据 OpenAI CEO 的推文和 VentureBeat 报道，该模型旨在加速从实验室假设到药物的漫长过程，解决生物学数据碎片化和假设验证的挑战。目前为有限访问模型，并发布了更广泛的 Codex 插件在 GitHub 上。",
-        "signal_strength": 0.85,
+        "title": "OpenAI Debuts GPT-Rosalind, a Frontier Model for Life Sciences",
+        "signal_text": "OpenAI CEO Sam Altman 宣布推出 GPT-Rosalind，这是一个面向生命科学研究的 frontier 模型，旨在加速从实验室假设到药物的漫长过程。该模型目前通过有限访问计划提供，并与合作伙伴共同部署。这标志着 OpenAI 在垂直领域专业化模型战略上的重要一步。",
+        "signal_strength": 0.9,
         "sources": [
-          {
-            "name": "@gdb (OpenAI CEO)",
-            "url": "https://x.com/gdb/status/2044891908213027032"
-          },
           {
             "name": "VentureBeat",
             "url": "https://venturebeat.com/technology/openai-debuts-gpt-rosalind-a-new-limited-access-model-for-life-sciences-and-broader-codex-plugin-on-github"
+          },
+          {
+            "name": "@gdb (OpenAI CEO)",
+            "url": "https://x.com/gdb/status/2044891908213027032"
           }
         ],
         "tags": [
           "头部公司战略动作",
-          "模型发布",
+          "技术突破",
           "垂直领域应用"
         ],
         "raw_item_indices": [
           25,
-          110,
-          122
+          108,
+          120
         ]
       },
       {
         "title": "Salesforce Launches Headless 360 to Turn Its Platform into AI Agent Infrastructure",
-        "signal_text": "据 VentureBeat 报道，Salesforce 发布了其 27 年历史上最具雄心的架构转型——“Headless 360”。这项举措旨在将其整个平台（包括 Sales Cloud、Service Cloud、Marketing Cloud 等）转变为无头基础设施，供 AI Agent 直接通过 API 调用，而无需经过传统的用户界面。这标志着企业软件平台正在为 AI Agent 优先的未来进行根本性重构。",
-        "signal_strength": 0.82,
+        "signal_text": "据 VentureBeat 报道，Salesforce 宣布推出其 27 年历史上最雄心勃勃的架构转型“Headless 360”，旨在将其整个平台（包括 CRM、数据云等）转变为供 AI Agent 使用的基础设施。这一举措将允许 Agent 通过 API 直接与 Salesforce 的核心功能交互，标志着企业软件向 Agent 原生架构的重大转变。",
+        "signal_strength": 0.88,
         "sources": [
           {
             "name": "VentureBeat",
@@ -941,9 +926,28 @@
         ]
       },
       {
+        "title": "Google Releases Gemma 4, a Flexible Model Family for Scalable Agents and Edge",
+        "signal_text": "Google Developers 宣布推出 Gemma 4 模型家族，其关键特性包括覆盖 IoT、移动设备、笔记本电脑、工作站和加速器的多种模型尺寸，专为可扩展的 Agent 构建，支持多模态边缘处理，并内置信任与安全基础。这显示了 Google 在推动高效、可部署的 AI 模型以支持下一代 Agent 应用方面的战略。",
+        "signal_strength": 0.85,
+        "sources": [
+          {
+            "name": "@googledevs (Google)",
+            "url": "https://x.com/googledevs/status/2044611741842079970"
+          }
+        ],
+        "tags": [
+          "技术突破",
+          "开源生态",
+          "Agent 与新交互范式"
+        ],
+        "raw_item_indices": [
+          49
+        ]
+      },
+      {
         "title": "ByteDance Releases Seedance 2.0 for Advanced Audio-Video Generation",
-        "signal_text": "字节跳动 Seed 团队发布 Seedance 2.0，这是一个支持文本、图像、音频和视频输入的多模态音视频生成模型。该论文在 HuggingFace 上获得 117 个赞，表明其在生成质量和速度上均有提升，是来自中国头部公司在多模态内容生成领域的重要进展。",
-        "signal_strength": 0.8,
+        "signal_text": "字节跳动 Seed 团队发布 Seedance 2.0 多模态音视频生成模型。该模型支持文本、图像、音频和视频输入，在生成质量和速度上均有提升。论文在 HuggingFace 上获得 117 次点赞，显示了社区对来自头部中国公司视频生成进展的关注。",
+        "signal_strength": 0.82,
         "sources": [
           {
             "name": "Arxiv (ByteDance Seed Team)",
@@ -960,83 +964,21 @@
           "头部公司战略动作"
         ],
         "raw_item_indices": [
-          71,
-          157
+          69,
+          174
         ]
       },
       {
-        "title": "Meta Shares Insights on Unified AI Agents for Hyperscale Infrastructure Optimization",
-        "signal_text": "Meta 工程博客分享了其容量效率计划的见解，该计划构建了一个 AI Agent 平台，用于自动发现和修复整个基础设施中的性能问题。通过利用跨统一、标准化工具接口编码的领域专业知识，这些 AI Agent 帮助优化 Meta 超大规模基础设施的性能。这体现了头部公司在利用 AI Agent 进行复杂系统自动化运维的实践。",
+        "title": "Physical Intelligence Unveils π0.7, a Robot Brain Capable of Zero-Shot Task Generalization",
+        "signal_text": "据 TechCrunch 报道，热门机器人初创公司 Physical Intelligence 发布其新模型 π0.7。公司联合创始人 Karol Hausman 表示，该模型展示了从微调模型转向直接提示的趋势，能够完成从未被明确教导的任务，是迈向通用机器人大脑的早期但有意义的一步。",
         "signal_strength": 0.8,
-        "sources": [
-          {
-            "name": "Meta Engineering Blog",
-            "url": "https://engineering.fb.com/2026/04/16/developer-tools/capacity-efficiency-at-meta-how-unified-ai-agents-optimize-performance-at-hyperscale/"
-          }
-        ],
-        "tags": [
-          "Agent 与新交互范式",
-          "技术突破",
-          "基础设施优化"
-        ],
-        "raw_item_indices": [
-          34
-        ]
-      },
-      {
-        "title": "Google Releases Gemma 4 with Focus on Scalable Agents and Edge Processing",
-        "signal_text": "Google 发布 Gemma 4 模型系列，据其开发者账号推文，关键特性包括为 IoT、移动设备、笔记本电脑、工作站和加速器提供不同尺寸的模型；为可扩展的 Agent 构建；支持多模态边缘处理；以及建立在信任和安全基础上。这显示了 Google 在推动 AI 模型向边缘端和 Agent 应用场景部署的战略。",
-        "signal_strength": 0.78,
-        "sources": [
-          {
-            "name": "@googledevs (Google Developers)",
-            "url": "https://x.com/googledevs/status/2044611741842079970"
-          }
-        ],
-        "tags": [
-          "开源生态",
-          "技术突破",
-          "Agent 与新交互范式"
-        ],
-        "raw_item_indices": [
-          51
-        ]
-      },
-      {
-        "title": "Tencent's HY-World 2.0: A Multi-Modal World Model for 3D Scene Generation",
-        "signal_text": "腾讯团队发布 HY-World 2.0，这是一个多模态世界模型框架，能够从多样化输入（如图像、文本）生成高保真度的 3D Gaussian Splatting 场景。该框架包含用于全景生成、轨迹规划、世界模拟和渲染的专门模块，在 HuggingFace 上获得 791 个 GitHub Stars，显示出较高的社区关注度。",
-        "signal_strength": 0.77,
-        "sources": [
-          {
-            "name": "Arxiv (Team HY-World)",
-            "url": "https://huggingface.co/papers/2604.14268"
-          },
-          {
-            "name": "HuggingFace Model (tencent/HY-World-2.0)",
-            "url": "https://huggingface.co/tencent/HY-World-2.0"
-          }
-        ],
-        "tags": [
-          "内容创作与理解",
-          "技术突破",
-          "多模态融合"
-        ],
-        "raw_item_indices": [
-          179,
-          195
-        ]
-      },
-      {
-        "title": "Physical Intelligence Startup Unveils π0.7, a Step Toward General-Purpose Robot Brain",
-        "signal_text": "热门机器人初创公司 Physical Intelligence 发布新模型 π0.7。据 TechCrunch 报道和其联合创始人推文，该模型能够完成其从未被明确教导的任务，代表了迈向通用机器人大脑的早期但有意义的一步。其趋势类似于 LLM 的发展：从对特定任务进行微调转向通过提示（prompting）就能让模型执行任务。",
-        "signal_strength": 0.75,
         "sources": [
           {
             "name": "TechCrunch",
             "url": "https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/"
           },
           {
-            "name": "@hausman_k (Physical Intelligence Co-founder)",
+            "name": "@hausman_k (Physical Intelligence)",
             "url": "https://x.com/hausman_k/status/2044852992873292191"
           }
         ],
@@ -1047,12 +989,36 @@
         ],
         "raw_item_indices": [
           21,
-          133
+          131
         ]
       },
       {
-        "title": "Google Research Paper Introduces Auto-Diagnose for LLM-Based Integration Test Failure Analysis",
-        "signal_text": "Google 研究人员发表论文，介绍了 Auto-Diagnose，这是一个基于 LLM 的工具，部署在 Google 的持续集成系统中，用于自动诊断集成测试失败的原因。该工具旨在解决集成测试失败信号被埋没在混乱日志中的难题，通过处理海量输出、异构系统、低信噪比和模糊的根本原因，来提高开发效率。",
+        "title": "Tencent's HY-World 2.0: A Multi-Modal World Model for 3D Scene Generation",
+        "signal_text": "腾讯 HY-World 团队在 Arxiv 发布 HY-World 2.0，这是一个多模态世界模型框架，能够从多样化输入生成高保真的 3D Gaussian Splatting 场景。该框架包含全景生成、轨迹规划、世界模拟和渲染等专用模块，在 HuggingFace 上获得 791 颗星，显示了其在 3D 生成领域的关注度。",
+        "signal_strength": 0.78,
+        "sources": [
+          {
+            "name": "Arxiv (Team HY-World)",
+            "url": "https://huggingface.co/papers/2604.14268"
+          },
+          {
+            "name": "HuggingFace Model",
+            "url": "https://huggingface.co/tencent/HY-World-2.0"
+          }
+        ],
+        "tags": [
+          "内容创作与理解",
+          "技术突破",
+          "头部公司战略动作"
+        ],
+        "raw_item_indices": [
+          191,
+          212
+        ]
+      },
+      {
+        "title": "Google Proposes Auto-Diagnose, an LLM-Based Tool for Debugging Integration Test Failures",
+        "signal_text": "据 AI 研究员 Omar Saad 分享，Google 的一项新研究提出了 Auto-Diagnose，这是一个基于 LLM 的工具，已部署在 Google 内部，用于诊断集成测试失败。该工具旨在解决集成测试日志混乱、信号噪声比低、根本原因不明确的问题，展示了 LLM 在复杂软件工程运维中的实际应用。",
         "signal_strength": 0.75,
         "sources": [
           {
@@ -1063,10 +1029,29 @@
         "tags": [
           "技术突破",
           "Agent 与新交互范式",
-          "软件开发"
+          "企业AI"
         ],
         "raw_item_indices": [
-          101
+          99
+        ]
+      },
+      {
+        "title": "Study Reveals Safety Vulnerabilities in Computer-Use Agents from Benign Instructions",
+        "signal_text": "来自 Language, Intelligence, and Model Evaluation Lab 的研究人员在 Arxiv 发表论文指出，计算机使用 Agent 在非故意攻击条件下存在严重安全漏洞，即良性的用户指令也可能导致有害结果。这项研究揭示了当前 Agent 安全评估的盲点，对构建可靠的个人 AI Agent 基础设施提出了挑战。",
+        "signal_strength": 0.72,
+        "sources": [
+          {
+            "name": "Arxiv (Language, Intelligence, and Model Evaluation Lab)",
+            "url": "https://huggingface.co/papers/2604.10577"
+          }
+        ],
+        "tags": [
+          "内容安全与治理",
+          "Agent 与新交互范式",
+          "技术突破"
+        ],
+        "raw_item_indices": [
+          181
         ]
       }
     ]
