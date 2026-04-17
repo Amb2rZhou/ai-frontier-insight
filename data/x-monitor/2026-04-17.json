@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-17T05:43:34.901299",
+  "scraped_at": "2026-04-17T10:42:41.157896",
   "date": "2026-04-17",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 99,
-  "account_count": 53,
+  "tweet_count": 119,
+  "account_count": 61,
   "tweets": [
     {
       "id": "2044845459118727279",
@@ -1166,6 +1166,232 @@
       "likes": 209,
       "retweets": 1,
       "views": 21228
+    },
+    {
+      "id": "2044968602579689516",
+      "username": "Austen",
+      "text": "Not always true but generally:\n\nWhen people are virtue signaling all day and get doxxed you tend to find a lot of weird baggage under the hood.\n\nWhen people are shitposting and vice signaling all day and get doxxed they tend to be pretty normal, well adjusted people.",
+      "timestamp": "2026-04-17T02:38:03+00:00",
+      "url": "https://x.com/Austen/status/2044968602579689516",
+      "images": [],
+      "likes": 4,
+      "retweets": 0,
+      "views": 311
+    },
+    {
+      "id": "2044963313612923383",
+      "username": "Miles_Brundage",
+      "text": "Kissy fight https://t.co/MvHSS1xpqg",
+      "timestamp": "2026-04-17T02:17:02+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2044963313612923383",
+      "images": [],
+      "likes": 4,
+      "retweets": 0,
+      "views": 310
+    },
+    {
+      "id": "2044958121731195185",
+      "username": "emollick",
+      "text": "I was told by Anthropic that they are looking at ways of fixing this, which is good (you can also see a reply from a Claude PM in the thread).",
+      "timestamp": "2026-04-17T01:56:24+00:00",
+      "url": "https://x.com/emollick/status/2044958121731195185",
+      "images": [],
+      "likes": 64,
+      "retweets": 0,
+      "views": 6517
+    },
+    {
+      "id": "2044952845019979994",
+      "username": "Austen",
+      "text": "If there’s one thing that annoys me the most it’s Anthropic and AI doomers constantly comparing AI to weapons of war.\n\nNo, computer chips and AI models are not equivalent to warheads or enriched uranium.\n\nCome on now.",
+      "timestamp": "2026-04-17T01:35:26+00:00",
+      "url": "https://x.com/Austen/status/2044952845019979994",
+      "images": [],
+      "likes": 35,
+      "retweets": 2,
+      "views": 2372
+    },
+    {
+      "id": "2044949109145305099",
+      "username": "mathemagic1an",
+      "text": "Common emerging pattern in agent UX is letting the agent render an iframe w/ JS and HTML. \n\nThis renders MCP-UI and similar approaches obsolete. \n\nClaude et al. are incredible at making presentations and explanatory animations",
+      "timestamp": "2026-04-17T01:20:35+00:00",
+      "url": "https://x.com/mathemagic1an/status/2044949109145305099",
+      "images": [],
+      "likes": 4,
+      "retweets": 1,
+      "views": 527
+    },
+    {
+      "id": "2044943514832871564",
+      "username": "thsottiaux",
+      "text": "Hi! To celebrate its 1-year anniversary, I have allowed Codex to reset its own rate limits across all plans. Enjoy all the new features. https://t.co/xIGXQwMzpa",
+      "timestamp": "2026-04-17T00:58:21+00:00",
+      "url": "https://x.com/thsottiaux/status/2044943514832871564",
+      "images": [],
+      "likes": 1731,
+      "retweets": 78,
+      "views": 51669
+    },
+    {
+      "id": "2044933435530035236",
+      "username": "NVIDIARobotics",
+      "text": "Building robots that work in the real world starts in simulation. 🦾\n\nExplore our end-to-end workshop to see how you can train and deploy a physical AI model on a real robot, using the SO‑101 arm with NVIDIA Isaac as a hands-on example.\n\nYou’ll learn how to:\n🛠️ Set up your robot https://t.co/Q4eUZJjusT",
+      "timestamp": "2026-04-17T00:18:18+00:00",
+      "url": "https://x.com/NVIDIARobotics/status/2044933435530035236",
+      "images": [],
+      "likes": 41,
+      "retweets": 7,
+      "views": 1741
+    },
+    {
+      "id": "2044925230016082390",
+      "username": "Austen",
+      "text": "Learn to get Claude to write the correct code",
+      "timestamp": "2026-04-16T23:45:42+00:00",
+      "url": "https://x.com/Austen/status/2044925230016082390",
+      "images": [],
+      "likes": 43,
+      "retweets": 2,
+      "views": 5697
+    },
+    {
+      "id": "2044925082104189097",
+      "username": "Miles_Brundage",
+      "text": "Claude voice mode seems v buggy",
+      "timestamp": "2026-04-16T23:45:07+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2044925082104189097",
+      "images": [],
+      "likes": 6,
+      "retweets": 0,
+      "views": 732
+    },
+    {
+      "id": "2044924576463733102",
+      "username": "Austen",
+      "text": "Genuinely thought this meant per month at first",
+      "timestamp": "2026-04-16T23:43:06+00:00",
+      "url": "https://x.com/Austen/status/2044924576463733102",
+      "images": [],
+      "likes": 25,
+      "retweets": 0,
+      "views": 6609
+    },
+    {
+      "id": "2044921348540264614",
+      "username": "sama",
+      "text": "I am happy everyone is switching to Codex, but Tibo if you start rate limiting me or making me use worse models...",
+      "timestamp": "2026-04-16T23:30:16+00:00",
+      "url": "https://x.com/sama/status/2044921348540264614",
+      "images": [],
+      "likes": 4262,
+      "retweets": 140,
+      "views": 520437
+    },
+    {
+      "id": "2044919054402752638",
+      "username": "openclaw",
+      "text": "OpenClaw 2026.4.15 🦞\n\n🤖 Anthropic Opus 4.7 support\n🗣️ Gemini TTS in bundled\n🧠 Slimmer context + bounded memory reads\n🔧 Codex transport self-heal, safer tool/media handling\n✨ Pile of update/channel fixes\n\nGood boring release. https://t.co/jiLmr1Bxep",
+      "timestamp": "2026-04-16T23:21:09+00:00",
+      "url": "https://x.com/openclaw/status/2044919054402752638",
+      "images": [],
+      "likes": 871,
+      "retweets": 77,
+      "views": 47980
+    },
+    {
+      "id": "2044918815591370826",
+      "username": "omarsar0",
+      "text": "We need more challenging benchmarks to test long-horizon coding capabilities. \n\nFrontierSWE looks like a nice new set of tasks to test out your best coding agents or harnesses.",
+      "timestamp": "2026-04-16T23:20:13+00:00",
+      "url": "https://x.com/omarsar0/status/2044918815591370826",
+      "images": [],
+      "likes": 18,
+      "retweets": 4,
+      "views": 3683
+    },
+    {
+      "id": "2044918215877575132",
+      "username": "stevenbjohnson",
+      "text": "Custom @NotebookLM cover art and \"creator's notes\" are great for sharing public notebooks, but designing your own covers is pretty fun for your private notebook collection as well. (I used Slide Decks to generate a range of potential images and then picked ones I liked.) https://t.co/wVcBcKBReW",
+      "timestamp": "2026-04-16T23:17:50+00:00",
+      "url": "https://x.com/stevenbjohnson/status/2044918215877575132",
+      "images": [
+        "https://pbs.twimg.com/media/HGEA_-Cb0AAG-p1.jpg"
+      ],
+      "likes": 8,
+      "retweets": 1,
+      "views": 1264
+    },
+    {
+      "id": "2044917632064008455",
+      "username": "dylan522p",
+      "text": "Intel is so fucking back\nLong road ahead but @LipBuTan1 is the man for the job\nHe is making many long term principled decisions\nDespite my long term optimism, I believe numbers won't be great in the short term because the PC market getting nuked from memory prices + MacBook Neo https://t.co/EkqU76qJ0y",
+      "timestamp": "2026-04-16T23:15:30+00:00",
+      "url": "https://x.com/dylan522p/status/2044917632064008455",
+      "images": [
+        "https://pbs.twimg.com/media/HGEBvqrbQAAP_n8.jpg"
+      ],
+      "likes": 646,
+      "retweets": 40,
+      "views": 54378
+    },
+    {
+      "id": "2044916306063835617",
+      "username": "DeryaTR_",
+      "text": "It’s a true privilege to be alive and experience the age of AI. 🫡 🙏",
+      "timestamp": "2026-04-16T23:10:14+00:00",
+      "url": "https://x.com/DeryaTR_/status/2044916306063835617",
+      "images": [],
+      "likes": 93,
+      "retweets": 7,
+      "views": 2673
+    },
+    {
+      "id": "2044894925355954529",
+      "username": "boazbaraktcs",
+      "text": "Scientific acceleration is one of the AI applications I am most excited about! Congratulations to the team!",
+      "timestamp": "2026-04-16T21:45:17+00:00",
+      "url": "https://x.com/boazbaraktcs/status/2044894925355954529",
+      "images": [],
+      "likes": 36,
+      "retweets": 1,
+      "views": 3072
+    },
+    {
+      "id": "2044894851779748271",
+      "username": "Miles_Brundage",
+      "text": "Seeing some Dwarkesh bashing spam on the feed (wouldn’t be the first time NVIDIA did such a thing)",
+      "timestamp": "2026-04-16T21:44:59+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2044894851779748271",
+      "images": [],
+      "likes": 35,
+      "retweets": 1,
+      "views": 2743
+    },
+    {
+      "id": "2044802045186846912",
+      "username": "mikeyk",
+      "text": "Claude Opus 4.7 is out! Handles ambiguous, multi-step work even better than 4.6. Cursor's internal bench cleared 70%, up from 58% on 4.6. Notion saw a 14% lift on their evals with a third of the tool errors 🔨",
+      "timestamp": "2026-04-16T15:36:12+00:00",
+      "url": "https://x.com/mikeyk/status/2044802045186846912",
+      "images": [],
+      "likes": 81,
+      "retweets": 2,
+      "views": 3966
+    },
+    {
+      "id": "2043921887018004499",
+      "username": "littmath",
+      "text": "Fun visualization of an object that appears in one of my papers in progress (generated with much help from Codex): https://t.co/ArD3lEeOSw",
+      "timestamp": "2026-04-14T05:18:46+00:00",
+      "url": "https://x.com/littmath/status/2043921887018004499",
+      "images": [
+        "https://pbs.twimg.com/media/HF13tfdasAEschm.jpg"
+      ],
+      "likes": 220,
+      "retweets": 8,
+      "views": 11161
     }
   ]
 }
