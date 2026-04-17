@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-18T01:40:10.493919",
+  "scraped_at": "2026-04-18T06:13:17.702905",
   "date": "2026-04-18",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 31,
-  "account_count": 20,
+  "tweet_count": 58,
+  "account_count": 30,
   "tweets": [
     {
       "id": "2045190152176242753",
@@ -362,6 +362,323 @@
       "likes": 798,
       "retweets": 84,
       "views": 133298
+    },
+    {
+      "id": "2045262953944096811",
+      "username": "iamtrask",
+      "text": "I’ve noticed the X algorithm is really starting to fight between two types of content. On the one hand, there’s content clearly meant to serve the algorithm, which the algorithm finds tasty but it’s also eating itself in a way. The popularity of this content also creates a",
+      "timestamp": "2026-04-17T22:07:42+00:00",
+      "url": "https://x.com/iamtrask/status/2045262953944096811",
+      "images": [],
+      "likes": 1,
+      "retweets": 0,
+      "views": 48
+    },
+    {
+      "id": "2045262619653943299",
+      "username": "nvidia",
+      "text": "We’re entering a new era of engineering. 👏\n\nTogether with @Cadence, NVIDIA is advancing agentic AI, physics-based simulation, and digital twins to help engineers design, test, and optimize systems at unprecedented speed and scale.",
+      "timestamp": "2026-04-17T22:06:22+00:00",
+      "url": "https://x.com/nvidia/status/2045262619653943299",
+      "images": [],
+      "likes": 15,
+      "retweets": 5,
+      "views": 2088
+    },
+    {
+      "id": "2045261358296404415",
+      "username": "Azure",
+      "text": "Still running Oracle on-prem? There's a faster w forward.\n\nMicrosoft's Scott Hanselman &amp; Kalyan Kaki show how to migrate Oracle databases to Oracle AI Database@Azure, plus unlock analytics in Fabric &amp; AI experiences with Microsoft Foundry &amp; Copilot Studio. https://t.co/SxVz5Zny4t https://t.co/9RyVwAf4mR",
+      "timestamp": "2026-04-17T22:01:21+00:00",
+      "url": "https://x.com/Azure/status/2045261358296404415",
+      "images": [],
+      "likes": 4,
+      "retweets": 0,
+      "views": 429
+    },
+    {
+      "id": "2045259906064781507",
+      "username": "DeryaTR_",
+      "text": "RIP Figma and every other design company!",
+      "timestamp": "2026-04-17T21:55:35+00:00",
+      "url": "https://x.com/DeryaTR_/status/2045259906064781507",
+      "images": [],
+      "likes": 21,
+      "retweets": 0,
+      "views": 1573
+    },
+    {
+      "id": "2045259719305027846",
+      "username": "minchoi",
+      "text": "It's over for... Adobe and Figma\n\nAnthropic just dropped Claude Design.\n\nNow you can talk to Claude and it turns your ideas into prototypes, slides, and one-pagers.\nhttps://t.co/nLbiEZag7M",
+      "timestamp": "2026-04-17T21:54:50+00:00",
+      "url": "https://x.com/minchoi/status/2045259719305027846",
+      "images": [],
+      "likes": 14,
+      "retweets": 1,
+      "views": 1671
+    },
+    {
+      "id": "2045253712130503118",
+      "username": "NVIDIAAI",
+      "text": "Here's your weekend project. Build a fully local, sandboxed AI assistant.  \n\nStep-by-step tutorial to build your always-on agent:   \n\n🦞 on openclaw  \n✅ with NVIDIA NemoClaw  \n✨ using NVIDIA DGX Spark  \n\nGet started: https://t.co/EoXBTKpPIh https://t.co/oBgBBCieZk",
+      "timestamp": "2026-04-17T21:30:58+00:00",
+      "url": "https://x.com/NVIDIAAI/status/2045253712130503118",
+      "images": [
+        "https://pbs.twimg.com/media/HGIzaNdXMAAqLyq.jpg"
+      ],
+      "likes": 15,
+      "retweets": 3,
+      "views": 972
+    },
+    {
+      "id": "2045250788864495874",
+      "username": "GoogleLabs",
+      "text": "We’ve watched you create the impossible with @FlowbyGoogle… today, the Flow family is growing. 🚀\n\nMeet @googleflowmusic (formerly ProducerAI) - a standalone site that helps you create, share, and remix original music. Using natural language prompts, you can turn your https://t.co/7eAK4laZTN",
+      "timestamp": "2026-04-17T21:19:21+00:00",
+      "url": "https://x.com/GoogleLabs/status/2045250788864495874",
+      "images": [
+        "https://pbs.twimg.com/media/HGIwrsQa0AAYN6I.jpg"
+      ],
+      "likes": 90,
+      "retweets": 12,
+      "views": 4498
+    },
+    {
+      "id": "2045248224659644654",
+      "username": "claudeai",
+      "text": "The Claude Code hackathon is back for Opus 4.7.\n\nJoin builders from around the world for a week with the Claude Code team in the room, with a prize pool of $100K in API credits.\n\nApply by Sunday: https://t.co/5MCkMtP5ti https://t.co/xmVhEQGtaL",
+      "timestamp": "2026-04-17T21:09:10+00:00",
+      "url": "https://x.com/claudeai/status/2045248224659644654",
+      "images": [],
+      "likes": 2107,
+      "retweets": 144,
+      "views": 130445
+    },
+    {
+      "id": "2045246009962291240",
+      "username": "googledevs",
+      "text": "🎙️ Build a smarter, voice-enabled Telegram bot! Our new tutorial shows you how to leverage Gemini 3.1 Flash-Lite and the Interactions API for async voice messaging, transcription, and translation. \n\nReady to get building? Dive into the how-to: https://t.co/amBnAL2v7Y https://t.co/nBUgImab3S",
+      "timestamp": "2026-04-17T21:00:22+00:00",
+      "url": "https://x.com/googledevs/status/2045246009962291240",
+      "images": [],
+      "likes": 30,
+      "retweets": 3,
+      "views": 2529
+    },
+    {
+      "id": "2045242031753093393",
+      "username": "OpenAINewsroom",
+      "text": "From The Prompt: \"Ultimately, we want to build tools for everyone – that’s core to our mission. And we want to ensure the most advanced technologies are considered accessible and useful across the board, not just geared around narrow technical or enterprise use cases.\"\n\nMore on",
+      "timestamp": "2026-04-17T20:44:33+00:00",
+      "url": "https://x.com/OpenAINewsroom/status/2045242031753093393",
+      "images": [],
+      "likes": 188,
+      "retweets": 10,
+      "views": 18526
+    },
+    {
+      "id": "2045241905227915498",
+      "username": "omarsar0",
+      "text": "// Self-Evolving Agent Protocol //\n\nOne of the more interesting papers I read this week.\n\n(bookmark it if you are an AI dev)\n\nThe paper introduces Autogenesis, a self-evolving agent protocol where agents identify their own capability gaps, generate candidate improvements, https://t.co/py6TlzDeuw",
+      "timestamp": "2026-04-17T20:44:03+00:00",
+      "url": "https://x.com/omarsar0/status/2045241905227915498",
+      "images": [
+        "https://pbs.twimg.com/media/HGIorGLaUAACjWa.jpg"
+      ],
+      "likes": 61,
+      "retweets": 12,
+      "views": 3542
+    },
+    {
+      "id": "2045235358187634938",
+      "username": "DeryaTR_",
+      "text": "Here is my first example from Grok 4.3 beta. Prompt: What if you could dream like humans? What would you wish to dream first?\n\nThe response was the best &amp; most poetic, beautiful of any model so far. It actually made me emotional🥹, but this is all vibes and subjective, of course:",
+      "timestamp": "2026-04-17T20:18:02+00:00",
+      "url": "https://x.com/DeryaTR_/status/2045235358187634938",
+      "images": [],
+      "likes": 36,
+      "retweets": 0,
+      "views": 3299
+    },
+    {
+      "id": "2045227305816281404",
+      "username": "gdb",
+      "text": "codex for proactively suggesting what it can do for you:",
+      "timestamp": "2026-04-17T19:46:02+00:00",
+      "url": "https://x.com/gdb/status/2045227305816281404",
+      "images": [],
+      "likes": 243,
+      "retweets": 10,
+      "views": 30225
+    },
+    {
+      "id": "2045224111413342433",
+      "username": "boazbaraktcs",
+      "text": "My workflow for using codex to sort out my email:\n1. Ask for summary emails from last 2 weeks that still need my attention.\n2. Tell it in one prompt what to do all emails. (\"Tell Joe blah\", \"forward Nancy's email to x\", etc..)\n3. Codex provides drafts and I approve all in one",
+      "timestamp": "2026-04-17T19:33:21+00:00",
+      "url": "https://x.com/boazbaraktcs/status/2045224111413342433",
+      "images": [],
+      "likes": 26,
+      "retweets": 0,
+      "views": 1848
+    },
+    {
+      "id": "2045223250284650960",
+      "username": "minchoi",
+      "text": "Here we go...  Grok 4.3 just dropped.\n\nNow it can create other file formats like Slides, Sheets, PDFs, Docs, etc. https://t.co/k8ad7Tyk0x",
+      "timestamp": "2026-04-17T19:29:55+00:00",
+      "url": "https://x.com/minchoi/status/2045223250284650960",
+      "images": [],
+      "likes": 127,
+      "retweets": 8,
+      "views": 10087
+    },
+    {
+      "id": "2045222254699511855",
+      "username": "claudeai",
+      "text": "Claude for Word is now available on Pro and Max plans to use alongside Opus 4.7: https://t.co/MJ89c4IuTt https://t.co/Yb3ZZQTsXb",
+      "timestamp": "2026-04-17T19:25:58+00:00",
+      "url": "https://x.com/claudeai/status/2045222254699511855",
+      "images": [
+        "https://pbs.twimg.com/media/HGIWPlZWEAAB61l.jpg"
+      ],
+      "likes": 5131,
+      "retweets": 322,
+      "views": 263316
+    },
+    {
+      "id": "2045218730477584701",
+      "username": "NandoDF",
+      "text": "Amazing. This was only a dream 5 years ago. Both @AnthropicAI and @OpenAI teams are doing remarkable AI research and innovation. Kudos to them 👏👏",
+      "timestamp": "2026-04-17T19:11:58+00:00",
+      "url": "https://x.com/NandoDF/status/2045218730477584701",
+      "images": [],
+      "likes": 23,
+      "retweets": 1,
+      "views": 3278
+    },
+    {
+      "id": "2045216638417485997",
+      "username": "NandoDF",
+      "text": "Remarkable progress in coding agents. I like the fact that code is verifiable, and hence great for building robust systems. This is something @notmisha championed to me a while back - he was ahead of his time https://t.co/lluKklRL2o",
+      "timestamp": "2026-04-17T19:03:39+00:00",
+      "url": "https://x.com/NandoDF/status/2045216638417485997",
+      "images": [],
+      "likes": 4,
+      "retweets": 1,
+      "views": 2198
+    },
+    {
+      "id": "2045215721655840879",
+      "username": "NVIDIARobotics",
+      "text": "Have an NVIDIA Jetson and still haven't explored Gemma 4? Everything you need is in one place. ✨\n\nThe Google Gemma 4 family is supported across the Jetson lineup, including next-gen Jetson Thor with full NVFP4 support for efficient, on-device AI.\n\nReady to get started? Check out https://t.co/nt4ZSaK6lf",
+      "timestamp": "2026-04-17T19:00:00+00:00",
+      "url": "https://x.com/NVIDIARobotics/status/2045215721655840879",
+      "images": [
+        "https://pbs.twimg.com/media/HGIQ3D_WwAAJ44X.jpg"
+      ],
+      "likes": 25,
+      "retweets": 2,
+      "views": 1750
+    },
+    {
+      "id": "2045214436689072136",
+      "username": "gdb",
+      "text": "Codex is open source, enabling anyone to build awesome applications on top of it:",
+      "timestamp": "2026-04-17T18:54:54+00:00",
+      "url": "https://x.com/gdb/status/2045214436689072136",
+      "images": [],
+      "likes": 706,
+      "retweets": 46,
+      "views": 60097
+    },
+    {
+      "id": "2045213230948090064",
+      "username": "NandoDF",
+      "text": "AI tutorial. Self-training can be made possible by inverting models (input becomes output) and alternating. For example, want to teach your vision model to count? Easy, take advantage of coding models and image editing to create a dataset for counting! \n\nStep 1. Use a coding https://t.co/YWJMHgSOWI",
+      "timestamp": "2026-04-17T18:50:07+00:00",
+      "url": "https://x.com/NandoDF/status/2045213230948090064",
+      "images": [
+        "https://pbs.twimg.com/media/HGIOl1FWsAACTyI.jpg",
+        "https://pbs.twimg.com/media/HGIOl08WYAArsTq.jpg",
+        "https://pbs.twimg.com/media/HGIOl09XsAAHUh6.jpg",
+        "https://pbs.twimg.com/media/HGIOl0-WUAAuADU.jpg"
+      ],
+      "likes": 18,
+      "retweets": 2,
+      "views": 1946
+    },
+    {
+      "id": "2045212151107711184",
+      "username": "minchoi",
+      "text": "Grok 4.3 (beta) gets it https://t.co/1HH8N1lsVu",
+      "timestamp": "2026-04-17T18:45:49+00:00",
+      "url": "https://x.com/minchoi/status/2045212151107711184",
+      "images": [
+        "https://pbs.twimg.com/media/HGINaEmWEAAt3kU.jpg"
+      ],
+      "likes": 52,
+      "retweets": 6,
+      "views": 7297
+    },
+    {
+      "id": "2045208278033142227",
+      "username": "gdb",
+      "text": "codex is for everyone. learn how to get the most out of it:",
+      "timestamp": "2026-04-17T18:30:26+00:00",
+      "url": "https://x.com/gdb/status/2045208278033142227",
+      "images": [],
+      "likes": 407,
+      "retweets": 21,
+      "views": 50662
+    },
+    {
+      "id": "2045206007588995435",
+      "username": "DeryaTR_",
+      "text": "Got access to Grok 4.3 beta. 😲 I'm very impressed with my initial testing! This model is super smart, definitely significantly more than 4.2 beta! I'll share some examples.",
+      "timestamp": "2026-04-17T18:21:24+00:00",
+      "url": "https://x.com/DeryaTR_/status/2045206007588995435",
+      "images": [],
+      "likes": 313,
+      "retweets": 8,
+      "views": 13240
+    },
+    {
+      "id": "2045204607971074116",
+      "username": "jackclarkSF",
+      "text": "I will be giving a lecture in Oxford on May 20th called \"Change is inevitable. Autonomy is not\". Excited for people to hear it, and I hope to publish it afterwards as well.",
+      "timestamp": "2026-04-17T18:15:51+00:00",
+      "url": "https://x.com/jackclarkSF/status/2045204607971074116",
+      "images": [],
+      "likes": 170,
+      "retweets": 12,
+      "views": 16549
+    },
+    {
+      "id": "2044941013723295799",
+      "username": "natolambert",
+      "text": "Great thread thread on \"is Opus 4.7 a new base model?\"",
+      "timestamp": "2026-04-17T00:48:25+00:00",
+      "url": "https://x.com/natolambert/status/2044941013723295799",
+      "images": [],
+      "likes": 177,
+      "retweets": 9,
+      "views": 30700
+    },
+    {
+      "id": "2044863531900686775",
+      "username": "emollick",
+      "text": "I have found that asking for a sestina regularly triggers Opus 4.7's safety guardrails.\n\nThe forbidden poetic form! https://t.co/5Jnfhx0Qff",
+      "timestamp": "2026-04-16T19:40:32+00:00",
+      "url": "https://x.com/emollick/status/2044863531900686775",
+      "images": [
+        "https://pbs.twimg.com/media/HGDQe8yXgAA1-QU.jpg",
+        "https://pbs.twimg.com/media/HGDQf22XgAAyMTp.jpg"
+      ],
+      "likes": 270,
+      "retweets": 13,
+      "views": 37912
     }
   ]
 }
