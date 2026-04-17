@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-17T10:42:41.157896",
+  "scraped_at": "2026-04-17T13:45:08.468346",
   "date": "2026-04-17",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 119,
-  "account_count": 61,
+  "tweet_count": 134,
+  "account_count": 67,
   "tweets": [
     {
       "id": "2044845459118727279",
@@ -1392,6 +1392,177 @@
       "likes": 220,
       "retweets": 8,
       "views": 11161
+    },
+    {
+      "id": "2045009455184814270",
+      "username": "Miles_Brundage",
+      "text": "Anthropic needs a higher bar for UX changes/general product polish (since ~November), OpenAI needs a higher bar for whole new products (since forever), and Google needs to integrate Gemini + Google Suite properly\n\nThank you for listening to my TED talk",
+      "timestamp": "2026-04-17T05:20:23+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2045009455184814270",
+      "images": [],
+      "likes": 18,
+      "retweets": 1,
+      "views": 423
+    },
+    {
+      "id": "2044998874566406314",
+      "username": "gdb",
+      "text": "it's the little details",
+      "timestamp": "2026-04-17T04:38:20+00:00",
+      "url": "https://x.com/gdb/status/2044998874566406314",
+      "images": [],
+      "likes": 229,
+      "retweets": 9,
+      "views": 19088
+    },
+    {
+      "id": "2044994317106987464",
+      "username": "jackclarkSF",
+      "text": "My toddler couldn't sleep so they snuggled next to me on the couch while I read an extremely dry and finicky Huawei paper on low-bit precision training. It was oddly beautiful to be pecking away at my newsletter while my kid occasionally made me take breaks to quack like a duck.",
+      "timestamp": "2026-04-17T04:20:14+00:00",
+      "url": "https://x.com/jackclarkSF/status/2044994317106987464",
+      "images": [],
+      "likes": 115,
+      "retweets": 2,
+      "views": 5198
+    },
+    {
+      "id": "2044994088739749996",
+      "username": "gdb",
+      "text": "imagegen in codex is easy to underestimate, but it's quite powerful:",
+      "timestamp": "2026-04-17T04:19:19+00:00",
+      "url": "https://x.com/gdb/status/2044994088739749996",
+      "images": [],
+      "likes": 167,
+      "retweets": 16,
+      "views": 18455
+    },
+    {
+      "id": "2044992134541881592",
+      "username": "NeurIPSConf",
+      "text": "NeurIPS encourages and benefits from a diversity of papers and ideas, which can be developed in many different ways. This year, Main Track submissions can select a Contribution Type, including General, Theory, Use-Inspired, Concept &amp; Feasibility, and Negative Results.   \n\nMore",
+      "timestamp": "2026-04-17T04:11:33+00:00",
+      "url": "https://x.com/NeurIPSConf/status/2044992134541881592",
+      "images": [],
+      "likes": 57,
+      "retweets": 7,
+      "views": 6454
+    },
+    {
+      "id": "2044989811409453456",
+      "username": "deliprao",
+      "text": "Wayback machine much more than a cached copy of the web. For instance, it allowed us to build highly accurate proxy for detecting and mitigating hallucinated URLs produced by AI agents and deep research. This would not be possible without @waybackmachine. https://t.co/19LkdPL63W",
+      "timestamp": "2026-04-17T04:02:19+00:00",
+      "url": "https://x.com/deliprao/status/2044989811409453456",
+      "images": [],
+      "likes": 5,
+      "retweets": 0,
+      "views": 485
+    },
+    {
+      "id": "2044989510984110190",
+      "username": "npew",
+      "text": "Computer Use with Codex is magical. Works in the background. Doesn't interrupt your flow.",
+      "timestamp": "2026-04-17T04:01:08+00:00",
+      "url": "https://x.com/npew/status/2044989510984110190",
+      "images": [],
+      "likes": 16,
+      "retweets": 1,
+      "views": 2265
+    },
+    {
+      "id": "2044989045827068010",
+      "username": "boazbaraktcs",
+      "text": "This is a cool benchmark and impressive performance by Opus 4.7!",
+      "timestamp": "2026-04-17T03:59:17+00:00",
+      "url": "https://x.com/boazbaraktcs/status/2044989045827068010",
+      "images": [],
+      "likes": 25,
+      "retweets": 0,
+      "views": 2561
+    },
+    {
+      "id": "2044976708500291591",
+      "username": "__tinygrad__",
+      "text": "This is the price of a 16GB DDR5 RDIMM stick. So when is this gonna be cheap again? I thought Sam Altman ran out of money to buy all the memory. https://t.co/lF05DWDN8t",
+      "timestamp": "2026-04-17T03:10:15+00:00",
+      "url": "https://x.com/__tinygrad__/status/2044976708500291591",
+      "images": [
+        "https://pbs.twimg.com/media/HGE3XV1a0AAFKfR.jpg"
+      ],
+      "likes": 181,
+      "retweets": 4,
+      "views": 8909
+    },
+    {
+      "id": "2044973855337267468",
+      "username": "minchoi",
+      "text": "Claude Opus 4.7 has achieved AGI https://t.co/hAtdkZComH",
+      "timestamp": "2026-04-17T02:58:55+00:00",
+      "url": "https://x.com/minchoi/status/2044973855337267468",
+      "images": [
+        "https://pbs.twimg.com/media/HGE03cJXcAAReyR.jpg"
+      ],
+      "likes": 281,
+      "retweets": 21,
+      "views": 20009
+    },
+    {
+      "id": "2044763625680765408",
+      "username": "GoogleDeepMind",
+      "text": "We teamed up with @BostonDynamics to power their robot Spot with Gemini Robotics embodied reasoning models.\n\nThis means it can better understand its surroundings, identify objects and follow simple commands - like tidying up a room. https://t.co/JGyCjehKSV",
+      "timestamp": "2026-04-16T13:03:32+00:00",
+      "url": "https://x.com/GoogleDeepMind/status/2044763625680765408",
+      "images": [],
+      "likes": 1325,
+      "retweets": 226,
+      "views": 101158
+    },
+    {
+      "id": "2044218240881283241",
+      "username": "Miles_Brundage",
+      "text": "Codex still isn't working since yesterday for me",
+      "timestamp": "2026-04-15T00:56:23+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2044218240881283241",
+      "images": [],
+      "likes": 8,
+      "retweets": 0,
+      "views": 2931
+    },
+    {
+      "id": "2043810051979157680",
+      "username": "emollick",
+      "text": "So the concern over Mythos and cybersecurity seems warranted.",
+      "timestamp": "2026-04-13T21:54:23+00:00",
+      "url": "https://x.com/emollick/status/2043810051979157680",
+      "images": [],
+      "likes": 872,
+      "retweets": 69,
+      "views": 136687
+    },
+    {
+      "id": "2043808256091386177",
+      "username": "iamtrask",
+      "text": "Something about this headline feels hilarious and off... like if Google DeepMind needed to break out their first/last name and... like.... well.... we all know \"Henry\" https://t.co/QMIkOIyAD1",
+      "timestamp": "2026-04-13T21:47:15+00:00",
+      "url": "https://x.com/iamtrask/status/2043808256091386177",
+      "images": [
+        "https://pbs.twimg.com/media/HF0QihpbQAA2e9-.png"
+      ],
+      "likes": 77,
+      "retweets": 1,
+      "views": 43313
+    },
+    {
+      "id": "2043747395520139334",
+      "username": "Miles_Brundage",
+      "text": "OpenAI leaders should stop caricaturing Anthropic.\n\nIt encourages tribalism at a time when safety cooperation is urgently needed\n\nDon’t know this person so am assuming she is genuine but Anthropic’s “story” is not “built on fear, restriction, and the idea that a small group of",
+      "timestamp": "2026-04-13T17:45:24+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2043747395520139334",
+      "images": [],
+      "likes": 206,
+      "retweets": 9,
+      "views": 35619
     }
   ]
 }
