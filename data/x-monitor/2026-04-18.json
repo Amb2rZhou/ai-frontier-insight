@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-18T06:13:17.702905",
+  "scraped_at": "2026-04-18T09:15:18.185416",
   "date": "2026-04-18",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 58,
-  "account_count": 30,
+  "tweet_count": 70,
+  "account_count": 36,
   "tweets": [
     {
       "id": "2045190152176242753",
@@ -679,6 +679,142 @@
       "likes": 270,
       "retweets": 13,
       "views": 37912
+    },
+    {
+      "id": "2045307606689063382",
+      "username": "Miles_Brundage",
+      "text": "Another day, another typo found in a major newspaper that an AI could have found in &lt;5 seconds, and still hasn't been fixed",
+      "timestamp": "2026-04-18T01:05:08+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2045307606689063382",
+      "images": [],
+      "likes": 2,
+      "retweets": 1,
+      "views": 176
+    },
+    {
+      "id": "2045306318097977548",
+      "username": "googledevs",
+      "text": "Forms aren't event pipelines, they’re state systems 🛑 → https://t.co/eIJfACFmqb \n\nNew insights from GDE Sonu Kapoor on why prioritizing state over event streams fixes:\n\n❌ Tracing nightmares\n❌ Manual UI flagging\n❌ Complex validation\n\nBuild cleaner #Angular apps with a",
+      "timestamp": "2026-04-18T01:00:00+00:00",
+      "url": "https://x.com/googledevs/status/2045306318097977548",
+      "images": [],
+      "likes": 6,
+      "retweets": 3,
+      "views": 524
+    },
+    {
+      "id": "2045303660264280561",
+      "username": "ollama",
+      "text": "Build your own assistant with @NVIDIAAI. \n\n❤️",
+      "timestamp": "2026-04-18T00:49:27+00:00",
+      "url": "https://x.com/ollama/status/2045303660264280561",
+      "images": [],
+      "likes": 32,
+      "retweets": 0,
+      "views": 2669
+    },
+    {
+      "id": "2045301949000462497",
+      "username": "DeryaTR_",
+      "text": "I asked Grok 4.3 beta to propose a bold, new unifying theory of biology that connects multiple domains by year 2040. Its response was extremely interesting and very creative. I pasted it below, and attached the screenshot that includes some math formulas in LaTeX.\n\nThe Recursive https://t.co/IUDv05kTg0",
+      "timestamp": "2026-04-18T00:42:39+00:00",
+      "url": "https://x.com/DeryaTR_/status/2045301949000462497",
+      "images": [
+        "https://pbs.twimg.com/media/HGJdy0qaEAAUmFd.png"
+      ],
+      "likes": 4,
+      "retweets": 2,
+      "views": 699
+    },
+    {
+      "id": "2045299702590259631",
+      "username": "thsottiaux",
+      "text": "We are barely getting started with Codex. \n\nGood engineering and clear product thinking has never been more important and I’m proud of the team for deeply thinking about the primitives that will stand the test of time. Things will continue to accelerate from here.",
+      "timestamp": "2026-04-18T00:33:43+00:00",
+      "url": "https://x.com/thsottiaux/status/2045299702590259631",
+      "images": [],
+      "likes": 704,
+      "retweets": 29,
+      "views": 11148
+    },
+    {
+      "id": "2045297699352924504",
+      "username": "xai",
+      "text": "Grok's Speech to Text API is now available.\n\nInstant, multi-speaker transcription across 25 languages - at the best price in the market.\n\nhttps://t.co/eGbB2bDtZf",
+      "timestamp": "2026-04-18T00:25:45+00:00",
+      "url": "https://x.com/xai/status/2045297699352924504",
+      "images": [],
+      "likes": 388,
+      "retweets": 67,
+      "views": 20466
+    },
+    {
+      "id": "2045295969281986697",
+      "username": "OpenAINewsroom",
+      "text": "In its inaugural AI Danger Index, TeenAegis gave OpenAI the lowest risk score among evaluated providers.\n\nProtecting young people requires continuous work – from age-appropriate protections, robust monitoring and reporting, and stronger safeguards to initiatives like our Child",
+      "timestamp": "2026-04-18T00:18:53+00:00",
+      "url": "https://x.com/OpenAINewsroom/status/2045295969281986697",
+      "images": [],
+      "likes": 79,
+      "retweets": 4,
+      "views": 4652
+    },
+    {
+      "id": "2045284214963138935",
+      "username": "EMostaque",
+      "text": "What folk don’t get is that the play of Anthropic et al is to get enterprises to use their models via their own wrapper hooked into systems of record \n\nThis is why they are moving from per seat pricing to “API” pricing \n\nBest models will only be available via their wrappers..",
+      "timestamp": "2026-04-17T23:32:11+00:00",
+      "url": "https://x.com/EMostaque/status/2045284214963138935",
+      "images": [],
+      "likes": 13,
+      "retweets": 0,
+      "views": 3665
+    },
+    {
+      "id": "2045283416636281065",
+      "username": "osanseviero",
+      "text": "The Gemma team is cooking...literally https://t.co/PmrdVTJ34a",
+      "timestamp": "2026-04-17T23:29:00+00:00",
+      "url": "https://x.com/osanseviero/status/2045283416636281065",
+      "images": [
+        "https://pbs.twimg.com/media/HGJOYemaEAAuQXe.jpg"
+      ],
+      "likes": 42,
+      "retweets": 0,
+      "views": 1305
+    },
+    {
+      "id": "2045283261962952793",
+      "username": "GaryMarcus",
+      "text": "Everyone’s quitting but everything’s going great. AGI will be here next week. Scout’s honor!",
+      "timestamp": "2026-04-17T23:28:23+00:00",
+      "url": "https://x.com/GaryMarcus/status/2045283261962952793",
+      "images": [],
+      "likes": 53,
+      "retweets": 7,
+      "views": 6700
+    },
+    {
+      "id": "2045279841482928271",
+      "username": "gdb",
+      "text": "Stargate is a step towards meeting the demand of the compute-powered economy",
+      "timestamp": "2026-04-17T23:14:48+00:00",
+      "url": "https://x.com/gdb/status/2045279841482928271",
+      "images": [],
+      "likes": 237,
+      "retweets": 14,
+      "views": 23709
+    },
+    {
+      "id": "2045278032718700993",
+      "username": "npew",
+      "text": "One of the best things about OpenAI culture. Very truth seeking.",
+      "timestamp": "2026-04-17T23:07:37+00:00",
+      "url": "https://x.com/npew/status/2045278032718700993",
+      "images": [],
+      "likes": 50,
+      "retweets": 4,
+      "views": 5545
     }
   ]
 }
