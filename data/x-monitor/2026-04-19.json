@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-19T00:20:10.800767",
+  "scraped_at": "2026-04-19T04:52:47.079068",
   "date": "2026-04-19",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 7,
-  "account_count": 7,
+  "tweet_count": 28,
+  "account_count": 23,
   "tweets": [
     {
       "id": "2045532897088794850",
@@ -86,6 +86,247 @@
       "likes": 848,
       "retweets": 63,
       "views": 84179
+    },
+    {
+      "id": "2045602029490631037",
+      "username": "omarsar0",
+      "text": "Nice paper from Google.\n\nAnd a great application of AI agents.\n\nWearables capture a staggering amount of physiological signals every day. CoDaS is an AI co-data-scientist that turns raw wearable sensor data into clinically relevant biomarkers through an iterative loop of https://t.co/ApC55qDh8k",
+      "timestamp": "2026-04-18T20:35:03+00:00",
+      "url": "https://x.com/omarsar0/status/2045602029490631037",
+      "images": [
+        "https://pbs.twimg.com/media/HGNwNHlboAA7pvM.jpg"
+      ],
+      "likes": 5,
+      "retweets": 1,
+      "views": 494
+    },
+    {
+      "id": "2045600872160223256",
+      "username": "alexgraveley",
+      "text": "Model companies eating every vertical. https://t.co/GqW5qx7P4H",
+      "timestamp": "2026-04-18T20:30:28+00:00",
+      "url": "https://x.com/alexgraveley/status/2045600872160223256",
+      "images": [
+        "https://pbs.twimg.com/media/HGNrw_4XIAAIbPc.jpg"
+      ],
+      "likes": 4,
+      "retweets": 0,
+      "views": 488
+    },
+    {
+      "id": "2045600518794358929",
+      "username": "iamtrask",
+      "text": "Doing advanced logic with LLMs now has a kindof... \"downhill\" feeling. I feel like I can position an LLM on top of a hill by feeding in the right context. And then I give it a prompt which is... kindof... a \"push\" in some kind of direction. And if I gave it the right context,",
+      "timestamp": "2026-04-18T20:29:03+00:00",
+      "url": "https://x.com/iamtrask/status/2045600518794358929",
+      "images": [],
+      "likes": 5,
+      "retweets": 0,
+      "views": 182
+    },
+    {
+      "id": "2045594591584530826",
+      "username": "gdb",
+      "text": "incredibly fun to build webapps and games with codex, entirely with natural language",
+      "timestamp": "2026-04-18T20:05:30+00:00",
+      "url": "https://x.com/gdb/status/2045594591584530826",
+      "images": [],
+      "likes": 211,
+      "retweets": 11,
+      "views": 20534
+    },
+    {
+      "id": "2045594468372672682",
+      "username": "aelluswamy",
+      "text": "Public taking robotaxi rides in Dallas.",
+      "timestamp": "2026-04-18T20:05:01+00:00",
+      "url": "https://x.com/aelluswamy/status/2045594468372672682",
+      "images": [],
+      "likes": 1419,
+      "retweets": 127,
+      "views": 28063
+    },
+    {
+      "id": "2045590980254970348",
+      "username": "alexgraveley",
+      "text": "Bullish on undistracted OpenAI",
+      "timestamp": "2026-04-18T19:51:09+00:00",
+      "url": "https://x.com/alexgraveley/status/2045590980254970348",
+      "images": [],
+      "likes": 14,
+      "retweets": 0,
+      "views": 4051
+    },
+    {
+      "id": "2045589823973364212",
+      "username": "alexandr_wang",
+      "text": "i really appreciate when people develop sophisticated views about our models and their relative strengths! it is certainly a labor of love",
+      "timestamp": "2026-04-18T19:46:33+00:00",
+      "url": "https://x.com/alexandr_wang/status/2045589823973364212",
+      "images": [],
+      "likes": 143,
+      "retweets": 10,
+      "views": 16189
+    },
+    {
+      "id": "2045582547996856682",
+      "username": "steipete",
+      "text": "🎚️CodexBar 0.21\n\nAbacus AI provider, Codex Pro $100 support, safer OpenAI web extras, fixed local cost scanning, z. ai 5h quotas, Antigravity/Cursor/Ollama fixes, faster refreshes, macOS 26 icon fix and more.\n\nThe big issue with too much CPU usage was an OpenAI web fetch and is",
+      "timestamp": "2026-04-18T19:17:39+00:00",
+      "url": "https://x.com/steipete/status/2045582547996856682",
+      "images": [],
+      "likes": 197,
+      "retweets": 7,
+      "views": 18015
+    },
+    {
+      "id": "2045573304518590567",
+      "username": "natolambert",
+      "text": "A big problem with this is that we don't really have a clear description of what mythos capabilities are. \n\nA model on each of the benchmarks in the launch blog post, sure. \n\nA model that you can swap right in for the same use-cases and notice no drop in perf? Doubt it.",
+      "timestamp": "2026-04-18T18:40:55+00:00",
+      "url": "https://x.com/natolambert/status/2045573304518590567",
+      "images": [],
+      "likes": 32,
+      "retweets": 0,
+      "views": 4497
+    },
+    {
+      "id": "2045567773179617513",
+      "username": "aelluswamy",
+      "text": "Expanding Robotaxi service!",
+      "timestamp": "2026-04-18T18:18:56+00:00",
+      "url": "https://x.com/aelluswamy/status/2045567773179617513",
+      "images": [],
+      "likes": 3023,
+      "retweets": 238,
+      "views": 61781
+    },
+    {
+      "id": "2045567275772822000",
+      "username": "PalmerLuckey",
+      "text": "This is a massive and growing problem for American national security.  Unbelievable amounts of sensitive and classified information is captured, scraped, and sent back to foreign nations.\n\nAnd users have no idea.  Nobody expects that their TV or monitor is a surveillance tool.",
+      "timestamp": "2026-04-18T18:16:58+00:00",
+      "url": "https://x.com/PalmerLuckey/status/2045567275772822000",
+      "images": [],
+      "likes": 7027,
+      "retweets": 831,
+      "views": 572419
+    },
+    {
+      "id": "2045561701010202826",
+      "username": "OpenAIDevs",
+      "text": "Agents that run code need a controlled workspace ready when work starts.\n\n@modal shares why scale matters for long-running agents built with the Agents SDK. https://t.co/7YdC5VR58Y",
+      "timestamp": "2026-04-18T17:54:48+00:00",
+      "url": "https://x.com/OpenAIDevs/status/2045561701010202826",
+      "images": [],
+      "likes": 160,
+      "retweets": 15,
+      "views": 16594
+    },
+    {
+      "id": "2045559572765507593",
+      "username": "zicokolter",
+      "text": "New and future models may be AGI and all, but will never surpass the humor of &lt;=GPT-2 models (this instance from a 200M param model for a homework assignment I was preparing). https://t.co/7KkNz3qj9k",
+      "timestamp": "2026-04-18T17:46:21+00:00",
+      "url": "https://x.com/zicokolter/status/2045559572765507593",
+      "images": [
+        "https://pbs.twimg.com/media/HGNJKhwXIAEw-YU.png"
+      ],
+      "likes": 24,
+      "retweets": 1,
+      "views": 1340
+    },
+    {
+      "id": "2045559050952183846",
+      "username": "NielsRogge",
+      "text": "My respect for François Chollet instantly dropped massively 👎👎👎\n\nEven if you prefer another framework, it’s really low to bash the other one",
+      "timestamp": "2026-04-18T17:44:17+00:00",
+      "url": "https://x.com/NielsRogge/status/2045559050952183846",
+      "images": [],
+      "likes": 291,
+      "retweets": 8,
+      "views": 30944
+    },
+    {
+      "id": "2045557384769413627",
+      "username": "natashajaques",
+      "text": "LLMs will supposedly solve climate change and cure cancer, but in fact they can't even do multi-turn reasoning tasks effectively (SOTA models are &lt; 10% on this benchmark). \n\nInterestingly, this work directly compares how much extra performance you get when you add an agentic",
+      "timestamp": "2026-04-18T17:37:39+00:00",
+      "url": "https://x.com/natashajaques/status/2045557384769413627",
+      "images": [],
+      "likes": 21,
+      "retweets": 5,
+      "views": 3429
+    },
+    {
+      "id": "2045556278882455855",
+      "username": "GaryMarcus",
+      "text": "Dario is not as different from Sam as people seem to think.",
+      "timestamp": "2026-04-18T17:33:16+00:00",
+      "url": "https://x.com/GaryMarcus/status/2045556278882455855",
+      "images": [],
+      "likes": 70,
+      "retweets": 4,
+      "views": 7254
+    },
+    {
+      "id": "2045556055556731249",
+      "username": "AmandaAskell",
+      "text": "I might pause tweeting about AI for a while and get back to my shower thought roots. People on here seem to have all the AI takes covered.",
+      "timestamp": "2026-04-18T17:32:22+00:00",
+      "url": "https://x.com/AmandaAskell/status/2045556055556731249",
+      "images": [],
+      "likes": 539,
+      "retweets": 14,
+      "views": 20492
+    },
+    {
+      "id": "2045556051249156554",
+      "username": "sriramk",
+      "text": "one of the under appreciated pieces from the @dwarkesh_sp podcast is the following debate: is this industry is about just the models or about multiple layers of the stack.\n\nI personally firmly believe every part of the stack plays a key role. As an example: see the value and",
+      "timestamp": "2026-04-18T17:32:21+00:00",
+      "url": "https://x.com/sriramk/status/2045556051249156554",
+      "images": [],
+      "likes": 140,
+      "retweets": 6,
+      "views": 12431
+    },
+    {
+      "id": "2045555829248602186",
+      "username": "DeryaTR_",
+      "text": "The frequency of using the word “insane” for new AI model &amp; product releases is also exponentially increasing! Remarkably, even some of us who breathe AI day &amp; night can’t grok this acceleration! Thus, the anticipation becomes ever more exhilarating as there is no end to this!",
+      "timestamp": "2026-04-18T17:31:28+00:00",
+      "url": "https://x.com/DeryaTR_/status/2045555829248602186",
+      "images": [],
+      "likes": 69,
+      "retweets": 3,
+      "views": 4595
+    },
+    {
+      "id": "2045544016226439286",
+      "username": "thsottiaux",
+      "text": "Watch Peter tell the story of OpenClaw. It is profoundly about us, humans, and our relationship to technology that is profoundly changing what we can do in this world.\n\n\"\"in the future we are not just going to have one agent\"\"\n\nhttps://t.co/zgi3DD2Sjv https://t.co/HqGx2GzoE5",
+      "timestamp": "2026-04-18T16:44:32+00:00",
+      "url": "https://x.com/thsottiaux/status/2045544016226439286",
+      "images": [
+        "https://pbs.twimg.com/media/HGM6b3MboAALZfC.jpg"
+      ],
+      "likes": 364,
+      "retweets": 20,
+      "views": 13302
+    },
+    {
+      "id": "2045542832241262602",
+      "username": "minchoi",
+      "text": "Anthropic shut down an entire company's Claude access overnight\n\n60+ employees. No explanation. Just an email.\n\nWant to appeal? Fill out a Google Form.\n\nIntegrations gone. Histories gone. Everything built on Claude... gone.\n\nNever let one vendor own your workflow. https://t.co/196QCCnB4D",
+      "timestamp": "2026-04-18T16:39:50+00:00",
+      "url": "https://x.com/minchoi/status/2045542832241262602",
+      "images": [
+        "https://pbs.twimg.com/media/HGM6NhHXIAEIMOO.jpg"
+      ],
+      "likes": 1237,
+      "retweets": 172,
+      "views": 273971
     }
   ]
 }
