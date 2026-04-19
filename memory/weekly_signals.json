@@ -1250,6 +1250,204 @@
           12
         ]
       }
+    ],
+    "2026-04-19": [
+      {
+        "title": "Yann LeCun Criticizes Dario Amodei's Views on AI Labor Market Impact",
+        "signal_text": "Meta 首席 AI 科学家 Yann LeCun 发推（获 6500+ likes）批评 Anthropic CEO Dario Amodei 关于 AI 对劳动力市场影响的言论，称其对此一无所知，并建议公众应听取专业经济学家的意见。这反映了顶尖 AI 科学家之间在 AI 社会影响上的公开分歧。",
+        "signal_strength": 0.85,
+        "sources": [
+          {
+            "name": "@ylecun (Yann LeCun, Meta Chief AI Scientist)",
+            "url": "https://x.com/ylecun/status/2045610129119117574"
+          }
+        ],
+        "tags": [
+          "头部公司战略动作",
+          "行业风险与监管",
+          "AI Talent Wars"
+        ],
+        "raw_item_indices": [
+          83
+        ]
+      },
+      {
+        "title": "Tesla Robotaxi Expands to Dallas and Houston",
+        "signal_text": "据 TechCrunch 报道，特斯拉将其 Robotaxi 服务扩展至达拉斯和休斯顿，标志着其自动驾驶出租车服务的实质性商业化落地。特斯拉官方社交媒体发布了相关视频，显示车辆在无人类监控的情况下行驶。",
+        "signal_strength": 0.8,
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/"
+          },
+          {
+            "name": "@aelluswamy (Tesla Autopilot Director)",
+            "url": "https://x.com/aelluswamy/status/2045594468372672682"
+          }
+        ],
+        "tags": [
+          "头部公司战略动作",
+          "Agent 与新交互范式",
+          "Embodied AI"
+        ],
+        "raw_item_indices": [
+          9,
+          56,
+          61
+        ]
+      },
+      {
+        "title": "Hugging Face Launches Platform for AI Agents to Call 1M+ Spaces",
+        "signal_text": "Hugging Face CEO Clement Delangue 宣布（获 170+ likes），Hugging Face 正成为 AI Agent 的平台，现在 Agent 可以调用超过 100 万个 HF Spaces 来执行任务，这极大地扩展了 Agent 的工具调用能力。",
+        "signal_strength": 0.8,
+        "sources": [
+          {
+            "name": "@ClementDelangue (Hugging Face CEO)",
+            "url": "https://x.com/ClementDelangue/status/2045640413256564818"
+          }
+        ],
+        "tags": [
+          "开源生态",
+          "Agent 与新交互范式",
+          "搜索与推荐"
+        ],
+        "raw_item_indices": [
+          76
+        ]
+      },
+      {
+        "title": "AI Chip Startup Cerebras Files for IPO with Major OpenAI Deal",
+        "signal_text": "据 TechCrunch 报道，AI 芯片初创公司 Cerebras 已提交 IPO 申请。该公司近期宣布与 AWS 达成协议，并在 OpenAI 获得了一份价值超过 100 亿美元的订单，显示出 AI 硬件需求的强劲和供应链的竞争格局。",
+        "signal_strength": 0.8,
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/"
+          }
+        ],
+        "tags": [
+          "AI Hardware Competition",
+          "头部公司战略动作",
+          "技术突破"
+        ],
+        "raw_item_indices": [
+          15
+        ]
+      },
+      {
+        "title": "Global DRAM Shortage May Persist for Years, Impacting AI Hardware",
+        "signal_text": "据 The Verge 援引 Nikkei Asia 报道，全球 DRAM 短缺可能持续数年，到 2027 年底预计仅能满足 60% 的需求。SK 集团董事长甚至表示短缺可能持续到 2030 年。这将直接影响 AI 服务器和硬件的生产成本与供应。",
+        "signal_strength": 0.8,
+        "sources": [
+          {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years"
+          }
+        ],
+        "tags": [
+          "AI Hardware Competition",
+          "行业风险与监管",
+          "技术突破"
+        ],
+        "raw_item_indices": [
+          10
+        ]
+      },
+      {
+        "title": "Anthropic Abruptly Terminates Enterprise Client's Claude Access",
+        "signal_text": "据用户 @minchoi 爆料（获 1200+ likes），Anthropic 在一夜之间无预警关闭了一家拥有 60 多名员工的公司的 Claude API 访问权限，导致其所有集成和历史记录丢失。此事凸显了企业过度依赖单一 AI 供应商的运营风险。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "@minchoi",
+            "url": "https://x.com/minchoi/status/2045542832241262602"
+          }
+        ],
+        "tags": [
+          "头部公司战略动作",
+          "行业风险与监管",
+          "内容安全与治理"
+        ],
+        "raw_item_indices": [
+          72
+        ]
+      },
+      {
+        "title": "Scale AI CEO Highlights Muse Spark's Strong Performance on Agentic Benchmark",
+        "signal_text": "Scale AI CEO Alexandr Wang 指出（获 350+ likes），其内部模型 Muse Spark 在 ClawEval（一个 Agentic 任务评测基准）上排名第三，超过了 GPT-5.4 和 Gemini 3.1 Pro，显示出在 Agentic 能力上的竞争力。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "@alexandr_wang (Scale AI CEO)",
+            "url": "https://x.com/alexandr_wang/status/2045348588734066794"
+          }
+        ],
+        "tags": [
+          "Agent 与新交互范式",
+          "头部公司战略动作",
+          "技术突破"
+        ],
+        "raw_item_indices": [
+          35
+        ]
+      },
+      {
+        "title": "ByteDance Researchers Propose LeapAlign for Efficient Flow Matching Fine-Tuning",
+        "signal_text": "字节跳动 Seed 团队在 Arxiv 发布论文《LeapAlign: Post-Training Flow Matching Models at Any Generation Step by Building Two-Step Trajectories》。该方法通过构建两步轨迹，降低了 flow matching 模型微调的计算成本，并实现了稳定的梯度传播。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "Arxiv (ByteDance Seed)",
+            "url": "https://huggingface.co/papers/2604.15311"
+          }
+        ],
+        "tags": [
+          "技术突破",
+          "内容创作与理解",
+          "推理效率提升"
+        ],
+        "raw_item_indices": [
+          121
+        ]
+      },
+      {
+        "title": "Apple Researchers Publish 'Attention to Mamba' Paper",
+        "signal_text": "据 @omarsar0 转发，Apple 研究人员发布了题为“Attention to Mamba”的新论文。这表明苹果正在积极探索 Mamba 等高效序列建模架构，可能为其设备端 AI 和下一代模型架构寻找更高效的替代方案。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "@omarsar0 (citing Apple paper)",
+            "url": "https://x.com/omarsar0/status/2045611795964907866"
+          }
+        ],
+        "tags": [
+          "技术突破",
+          "头部公司战略动作",
+          "推理效率提升"
+        ],
+        "raw_item_indices": [
+          82
+        ]
+      },
+      {
+        "title": "Anthropic's Relationship with US Government Shows Signs of Thawing",
+        "signal_text": "据 TechCrunch 报道，尽管近期被五角大楼指定为供应链风险，但 Anthropic 仍在与特朗普政府的高级成员进行对话，显示出双方关系可能正在解冻。这对 Anthropic 在美国政府市场的业务前景是一个积极信号。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/"
+          }
+        ],
+        "tags": [
+          "头部公司战略动作",
+          "行业风险与监管",
+          "内容安全与治理"
+        ],
+        "raw_item_indices": [
+          18
+        ]
+      }
     ]
   },
   "archived_weeks": [

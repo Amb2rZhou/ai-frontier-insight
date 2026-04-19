@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T09:35:37.761699+08:00",
+  "last_updated": "2026-04-19T09:34:51.481919+08:00",
   "trends": [
     {
       "id": "ai_safety_pivot_and_accelerated_agi_time",
@@ -15,9 +15,8 @@
         "Content Authentication"
       ],
       "trajectory": "accelerating",
-      "signal_count": 77,
+      "signal_count": 79,
       "weekly_counts": [
-        1,
         1,
         2,
         1,
@@ -28,6 +27,7 @@
         1,
         3,
         0,
+        2,
         2
       ],
       "key_events": [
@@ -74,6 +74,10 @@
         {
           "date": "2026-04-18",
           "event": "VentureBeat Survey: Most Enterprises Can't Stop Stage-3 AI Agent Threats; Anthropic's Cybersecurity Model May Ease Tensions with US Government"
+        },
+        {
+          "date": "2026-04-19",
+          "event": "Anthropic Abruptly Terminates Enterprise Client's Claude Access; Anthropic's Relationship with US Government Shows Signs of Thawing"
         }
       ],
       "created": "2026-02-25"
@@ -88,13 +92,13 @@
         "Nvidia"
       ],
       "trajectory": "accelerating",
-      "signal_count": 20,
+      "signal_count": 21,
       "weekly_counts": [
-        0,
         1,
         1,
         0,
         0,
+        1,
         1,
         1,
         1,
@@ -175,6 +179,10 @@
         {
           "date": "2026-04-18",
           "event": "NVIDIA Isaac GR00T N1.7 Early Access for Humanoid Robots"
+        },
+        {
+          "date": "2026-04-19",
+          "event": "Tesla Robotaxi Expands to Dallas and Houston"
         }
       ],
       "created": "2026-02-25"
@@ -294,9 +302,8 @@
         "Nvidia Competition"
       ],
       "trajectory": "accelerating",
-      "signal_count": 15,
+      "signal_count": 17,
       "weekly_counts": [
-        0,
         1,
         0,
         1,
@@ -307,7 +314,8 @@
         0,
         0,
         1,
-        0
+        0,
+        2
       ],
       "key_events": [
         {
@@ -373,6 +381,10 @@
         {
           "date": "2026-04-12",
           "event": "NVIDIA-Backed SiFive Hits $3.65B Valuation for Open RISC-V AI Chips"
+        },
+        {
+          "date": "2026-04-19",
+          "event": "AI Chip Startup Cerebras Files for IPO with Major OpenAI Deal; Global DRAM Shortage May Persist for Years, Impacting AI Hardware"
         }
       ],
       "created": "2026-02-25"
@@ -389,9 +401,8 @@
         "Anthropic"
       ],
       "trajectory": "accelerating",
-      "signal_count": 122,
+      "signal_count": 123,
       "weekly_counts": [
-        2,
         1,
         2,
         2,
@@ -402,7 +413,8 @@
         2,
         4,
         4,
-        2
+        2,
+        1
       ],
       "key_events": [
         {
@@ -488,6 +500,10 @@
         {
           "date": "2026-04-18",
           "event": "Anthropic Launches Claude Design, AI Tool for Visual Prototyping"
+        },
+        {
+          "date": "2026-04-19",
+          "event": "Scale AI CEO Highlights Muse Spark's Strong Performance on Agentic Benchmark"
         }
       ],
       "created": "2026-02-25"
@@ -506,9 +522,8 @@
         "Foundation Models"
       ],
       "trajectory": "accelerating",
-      "signal_count": 92,
+      "signal_count": 94,
       "weekly_counts": [
-        0,
         0,
         3,
         2,
@@ -519,7 +534,8 @@
         2,
         1,
         1,
-        1
+        1,
+        2
       ],
       "key_events": [
         {
@@ -597,6 +613,10 @@
         {
           "date": "2026-04-17",
           "event": "OpenAI debuts GPT-Rosalind, a frontier model for life sciences research"
+        },
+        {
+          "date": "2026-04-19",
+          "event": "ByteDance Researchers Propose LeapAlign for Efficient Flow Matching Fine-Tuning; Apple Researchers Publish 'Attention to Mamba' Paper"
         }
       ],
       "created": "2026-02-25"
@@ -611,12 +631,11 @@
         "xAI"
       ],
       "trajectory": "accelerating",
-      "signal_count": 31,
+      "signal_count": 32,
       "weekly_counts": [
         1,
         1,
         1,
-        1,
         2,
         0,
         1,
@@ -624,6 +643,7 @@
         2,
         1,
         0,
+        1,
         1
       ],
       "key_events": [
@@ -742,6 +762,10 @@
         {
           "date": "2026-04-18",
           "event": "OpenAI Sora Team Lead Bill Peebles and Exec Kevin Weil Depart"
+        },
+        {
+          "date": "2026-04-19",
+          "event": "Yann LeCun Criticizes Dario Amodei's Views on AI Labor Market Impact"
         }
       ],
       "created": "2026-02-25"
@@ -847,9 +871,8 @@
         "Computer Use"
       ],
       "trajectory": "accelerating",
-      "signal_count": 159,
+      "signal_count": 160,
       "weekly_counts": [
-        2,
         1,
         2,
         2,
@@ -860,7 +883,8 @@
         3,
         3,
         3,
-        2
+        2,
+        1
       ],
       "key_events": [
         {
@@ -950,6 +974,10 @@
         {
           "date": "2026-04-18",
           "event": "Ollama Releases v0.21.0 with Hermes Self-Learning Agent; Cursor in Talks to Raise $2B+ at $50B Valuation"
+        },
+        {
+          "date": "2026-04-19",
+          "event": "Hugging Face Launches Platform for AI Agents to Call 1M+ Spaces"
         }
       ],
       "created": "2026-02-25"
