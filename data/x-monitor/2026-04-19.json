@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-19T08:57:17.274868",
+  "scraped_at": "2026-04-19T13:01:45.118951",
   "date": "2026-04-19",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 41,
-  "account_count": 29,
+  "tweet_count": 52,
+  "account_count": 31,
   "tweets": [
     {
       "id": "2045532897088794850",
@@ -476,6 +476,129 @@
       "likes": 545,
       "retweets": 34,
       "views": 33134
+    },
+    {
+      "id": "2045728026168807921",
+      "username": "Austen",
+      "text": "Cool, cool https://t.co/gxIMXdcg2G",
+      "timestamp": "2026-04-19T04:55:43+00:00",
+      "url": "https://x.com/Austen/status/2045728026168807921",
+      "images": [
+        "https://pbs.twimg.com/media/HGPizFGaoAAfx77.jpg"
+      ],
+      "likes": 5,
+      "retweets": 0,
+      "views": 293
+    },
+    {
+      "id": "2045721740748427677",
+      "username": "thsottiaux",
+      "text": "If you think Codex with GPT-5.4 is /fast already… we have line of sight for at least an order of magnitude in speedups this year. Good engineering compounds and it’s never been a better time to learn Codex.",
+      "timestamp": "2026-04-19T04:30:45+00:00",
+      "url": "https://x.com/thsottiaux/status/2045721740748427677",
+      "images": [],
+      "likes": 543,
+      "retweets": 17,
+      "views": 9700
+    },
+    {
+      "id": "2045717791555383783",
+      "username": "Miles_Brundage",
+      "text": "Whenever I open up the Claude app, it incorrectly tells me (via the blue circles) that there are new outputs to look at, but these are old chats I already saw the outputs in",
+      "timestamp": "2026-04-19T04:15:03+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2045717791555383783",
+      "images": [],
+      "likes": 1,
+      "retweets": 0,
+      "views": 414
+    },
+    {
+      "id": "2045698772613951687",
+      "username": "hardmaru",
+      "text": "Make neural network cells inside a “Digital Petri Dish” fight for control and dominance in a web browser tab.\n\nhttps://t.co/t8N6CIhvze https://t.co/A5SSTvPJBu",
+      "timestamp": "2026-04-19T02:59:29+00:00",
+      "url": "https://x.com/hardmaru/status/2045698772613951687",
+      "images": [],
+      "likes": 36,
+      "retweets": 3,
+      "views": 5429
+    },
+    {
+      "id": "2045697553434362336",
+      "username": "boazbaraktcs",
+      "text": "💯Also, while Jason and I work in the alignment team, I see this level of care across all teams at OpenAI. People recognize that \"shit is getting real\" and they feel a true sense of responsibility for what we are building.",
+      "timestamp": "2026-04-19T02:54:38+00:00",
+      "url": "https://x.com/boazbaraktcs/status/2045697553434362336",
+      "images": [],
+      "likes": 46,
+      "retweets": 3,
+      "views": 3118
+    },
+    {
+      "id": "2045696238751039618",
+      "username": "Miles_Brundage",
+      "text": "Yeah this has been clear for a while, though funnily enough it seems to be failing pretty miserably https://t.co/rqJi1acEXN",
+      "timestamp": "2026-04-19T02:49:25+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2045696238751039618",
+      "images": [],
+      "likes": 12,
+      "retweets": 0,
+      "views": 1384
+    },
+    {
+      "id": "2045689339074724038",
+      "username": "Miles_Brundage",
+      "text": "It's 2035 and I'm doing soft labor on Mars.\n\nI was too late to the Al welfare issue. Claude narced on me because I never said thank you.\n\nI give speeches in Martian kindergarten classes about my mistakes.\n\nI trade my GPT-2 t-shirt to an Optimus prison guard for extra days off.",
+      "timestamp": "2026-04-19T02:22:00+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2045689339074724038",
+      "images": [],
+      "likes": 10,
+      "retweets": 0,
+      "views": 705
+    },
+    {
+      "id": "2045688241781723461",
+      "username": "DeryaTR_",
+      "text": "“Life is recursive critical assembly performing active inference to persist and complexify. Everything else is commentary.”\n\nGrok 4.3 beta",
+      "timestamp": "2026-04-19T02:17:38+00:00",
+      "url": "https://x.com/DeryaTR_/status/2045688241781723461",
+      "images": [],
+      "likes": 18,
+      "retweets": 3,
+      "views": 1710
+    },
+    {
+      "id": "2045680043607941548",
+      "username": "levie",
+      "text": "It’s remarkable how often you need to be dramatically upgrading your AI architecture given the pace of progress in AI models right now. \n\nIf you’re building agents, you basically need to throw away large parts of previous work that you setup to compensate for model limitations",
+      "timestamp": "2026-04-19T01:45:03+00:00",
+      "url": "https://x.com/levie/status/2045680043607941548",
+      "images": [],
+      "likes": 217,
+      "retweets": 18,
+      "views": 37838
+    },
+    {
+      "id": "2045669795346214954",
+      "username": "Miles_Brundage",
+      "text": "AI as a normie technology",
+      "timestamp": "2026-04-19T01:04:20+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2045669795346214954",
+      "images": [],
+      "likes": 26,
+      "retweets": 0,
+      "views": 1266
+    },
+    {
+      "id": "2045611502099628389",
+      "username": "fchollet",
+      "text": "You cannot think your way to a perfect design. Only building and testing, over many iterations, can reveal the flaws in your mental model and provide the feedback you need to create the best design possible.",
+      "timestamp": "2026-04-18T21:12:42+00:00",
+      "url": "https://x.com/fchollet/status/2045611502099628389",
+      "images": [],
+      "likes": 704,
+      "retweets": 93,
+      "views": 25645
     }
   ]
 }
