@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-19T17:35:06.985013",
+  "scraped_at": "2026-04-19T21:18:10.778794",
   "date": "2026-04-19",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 58,
-  "account_count": 31,
+  "tweet_count": 65,
+  "account_count": 34,
   "tweets": [
     {
       "id": "2045532897088794850",
@@ -665,6 +665,85 @@
       "likes": 670,
       "retweets": 90,
       "views": 90741
+    },
+    {
+      "id": "2045837372169027973",
+      "username": "hardmaru",
+      "text": "“Salaryman eating ramen” is like the Eastern equivalent of “Will Smith eating spaghetti” test\nhttps://t.co/OkCLCnREUW",
+      "timestamp": "2026-04-19T12:10:14+00:00",
+      "url": "https://x.com/hardmaru/status/2045837372169027973",
+      "images": [],
+      "likes": 60,
+      "retweets": 3,
+      "views": 8623
+    },
+    {
+      "id": "2045819438159528041",
+      "username": "iamtrask",
+      "text": "Hey - if you don’t use a local LLM as your daily driver, why? What are the remaining problems?",
+      "timestamp": "2026-04-19T10:58:58+00:00",
+      "url": "https://x.com/iamtrask/status/2045819438159528041",
+      "images": [],
+      "likes": 11,
+      "retweets": 1,
+      "views": 2821
+    },
+    {
+      "id": "2045807703478489493",
+      "username": "egrefen",
+      "text": "When looking at deep learning profiles, one of the most obvious tells between a mediocre and a great candidate is whether they prefer chocolate or vanilla ice cream.",
+      "timestamp": "2026-04-19T10:12:20+00:00",
+      "url": "https://x.com/egrefen/status/2045807703478489493",
+      "images": [],
+      "likes": 26,
+      "retweets": 2,
+      "views": 1467
+    },
+    {
+      "id": "2045147490316374414",
+      "username": "emollick",
+      "text": "I'll give Anthropic credit for moving quickly. Opus 4.7 Adaptive Thinking now triggers thinking much more often, including for the tasks it failed at yesterday. That also means it is doing a lot more web search.\n\nSo far, a large improvement in output quality on non-coding tasks.",
+      "timestamp": "2026-04-17T14:28:53+00:00",
+      "url": "https://x.com/emollick/status/2045147490316374414",
+      "images": [],
+      "likes": 975,
+      "retweets": 40,
+      "views": 132600
+    },
+    {
+      "id": "2044828303106937218",
+      "username": "embirico",
+      "text": "we've taken the community's feedback seriously and today, updates shipped to Windows first, then _Intel_ mac, and Apple Silicon is still in a few mins 😆",
+      "timestamp": "2026-04-16T17:20:33+00:00",
+      "url": "https://x.com/embirico/status/2044828303106937218",
+      "images": [],
+      "likes": 369,
+      "retweets": 9,
+      "views": 33708
+    },
+    {
+      "id": "2044828214867202519",
+      "username": "OpenAIDevs",
+      "text": "Codex now helps with more of your work, from coding to staying on top of everything around it.",
+      "timestamp": "2026-04-16T17:20:12+00:00",
+      "url": "https://x.com/OpenAIDevs/status/2044828214867202519",
+      "images": [],
+      "likes": 948,
+      "retweets": 50,
+      "views": 86159
+    },
+    {
+      "id": "2044116283973873862",
+      "username": "sarahookr",
+      "text": "Everyone in our uncharted data challenge gets free access to our release today. \n\nExpand Your World 🌎🌍🌏\n\nJoin us for next 3 weeks of the competition. 🔥 https://t.co/byyd8Tgchd",
+      "timestamp": "2026-04-14T18:11:14+00:00",
+      "url": "https://x.com/sarahookr/status/2044116283973873862",
+      "images": [
+        "https://pbs.twimg.com/media/HF4o4RPasAciFyh.jpg"
+      ],
+      "likes": 68,
+      "retweets": 7,
+      "views": 8525
     }
   ]
 }
