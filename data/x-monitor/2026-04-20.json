@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-20T00:22:33.853337",
+  "scraped_at": "2026-04-20T04:29:16.095623",
   "date": "2026-04-20",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 5,
-  "account_count": 5,
+  "tweet_count": 21,
+  "account_count": 16,
   "tweets": [
     {
       "id": "2045886906953781408",
@@ -64,6 +64,192 @@
       "likes": 202,
       "retweets": 13,
       "views": 29378
+    },
+    {
+      "id": "2045960476534993403",
+      "username": "Miles_Brundage",
+      "text": "Third-party auditing is indeed the right middle path in AI policy, between excessive deference to industry on one end and excessive concentration of power in government on the other https://t.co/Nv8CwF4YCZ",
+      "timestamp": "2026-04-19T20:19:24+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2045960476534993403",
+      "images": [],
+      "likes": 4,
+      "retweets": 2,
+      "views": 299
+    },
+    {
+      "id": "2045956901750399374",
+      "username": "omarsar0",
+      "text": "Great paper on self-improving agents. \n\nWhy? \n\nWe need to think more deeply about AI agent system design.\n\nThe protocol specifies a framework for proposing, assessing, and committing improvements with auditable lineage and rollback.\n\nVisual below (courtesy of my research agent). https://t.co/rOKR4HRbrF",
+      "timestamp": "2026-04-19T20:05:12+00:00",
+      "url": "https://x.com/omarsar0/status/2045956901750399374",
+      "images": [
+        "https://pbs.twimg.com/media/HGSyU8QXQAAUNdJ.jpg"
+      ],
+      "likes": 17,
+      "retweets": 3,
+      "views": 1855
+    },
+    {
+      "id": "2045953135110173020",
+      "username": "srush_nlp",
+      "text": "but what if we made an LLM from scratch?",
+      "timestamp": "2026-04-19T19:50:14+00:00",
+      "url": "https://x.com/srush_nlp/status/2045953135110173020",
+      "images": [],
+      "likes": 4,
+      "retweets": 0,
+      "views": 954
+    },
+    {
+      "id": "2045943414219276674",
+      "username": "emollick",
+      "text": "I am not convinced that we should be comfortable calling \"problem solving\" or \"judgement\" or whatever as skills that are impossible for AI to do well. Like any other skill, there are humans who are really good at it, but that doesn't mean that AIs don't do good judgement, etc.",
+      "timestamp": "2026-04-19T19:11:36+00:00",
+      "url": "https://x.com/emollick/status/2045943414219276674",
+      "images": [],
+      "likes": 76,
+      "retweets": 2,
+      "views": 11262
+    },
+    {
+      "id": "2045934984083415107",
+      "username": "OpenAINewsroom",
+      "text": "The OpenAI Academy is a learning platform that helps people - more than 3M so far - build practical AI skills through live events, training resources, expert content, and industry-specific communities.\n\nThis week, our teams hosted events from Warsaw, Poland to Abilene, Texas to https://t.co/Yrh7F2SBXt",
+      "timestamp": "2026-04-19T18:38:06+00:00",
+      "url": "https://x.com/OpenAINewsroom/status/2045934984083415107",
+      "images": [
+        "https://pbs.twimg.com/media/HGSWu2oW0AARVV6.jpg",
+        "https://pbs.twimg.com/media/HGSWv0VXYAAIvFe.jpg",
+        "https://pbs.twimg.com/media/HGSXGvOWYAAVZ05.jpg"
+      ],
+      "likes": 171,
+      "retweets": 11,
+      "views": 8716
+    },
+    {
+      "id": "2045929892588740613",
+      "username": "mathemagic1an",
+      "text": "Opus 4.6 crossed a threshold for general-purpose knowledge work agents where several problems are just \"solved\" - deep research, personal admin, etc.\n\nFeels similar to Claude 3.7 moment for code. Enabled agentic coding to gain widespread adoption\n\nThis gap will get filled",
+      "timestamp": "2026-04-19T18:17:52+00:00",
+      "url": "https://x.com/mathemagic1an/status/2045929892588740613",
+      "images": [],
+      "likes": 8,
+      "retweets": 0,
+      "views": 2439
+    },
+    {
+      "id": "2045916298450784680",
+      "username": "emollick",
+      "text": "An obvious way to release Mythos class models with uncertain autonomous ability is to make them only available on the website, like Gemini Deep Think or ChatGPT Pro.\n\nMinimal risk of being used for autonomous hacking, but accessible to people who have hard problems to solve.",
+      "timestamp": "2026-04-19T17:23:51+00:00",
+      "url": "https://x.com/emollick/status/2045916298450784680",
+      "images": [],
+      "likes": 263,
+      "retweets": 6,
+      "views": 15186
+    },
+    {
+      "id": "2045907457344516515",
+      "username": "minchoi",
+      "text": "Elon just mapped out AGI.\n\nGrok 4.4 → 1T params, early May\nGrok 4.5 → 1.5T params, late May\nGrok 5 → AGI\n\nThat's two model releases standing between us and AGI according to Elon 🤯 https://t.co/7Uly7IDyhV",
+      "timestamp": "2026-04-19T16:48:43+00:00",
+      "url": "https://x.com/minchoi/status/2045907457344516515",
+      "images": [
+        "https://pbs.twimg.com/media/HGSF-zObIAAQPWB.jpg"
+      ],
+      "likes": 244,
+      "retweets": 26,
+      "views": 24202
+    },
+    {
+      "id": "2045905450672275505",
+      "username": "deliprao",
+      "text": "One of my hard-earned, multiply-repeated life lessons is learning that someone “working a field all their life” is actually a handicap in many situations, increasingly with AI. Knowing which situations is the hardest lesson of all.",
+      "timestamp": "2026-04-19T16:40:45+00:00",
+      "url": "https://x.com/deliprao/status/2045905450672275505",
+      "images": [],
+      "likes": 3,
+      "retweets": 0,
+      "views": 689
+    },
+    {
+      "id": "2045902393494368469",
+      "username": "deliprao",
+      "text": "Beamer is a clear indication of a postdoc candidate",
+      "timestamp": "2026-04-19T16:28:36+00:00",
+      "url": "https://x.com/deliprao/status/2045902393494368469",
+      "images": [],
+      "likes": 21,
+      "retweets": 0,
+      "views": 4610
+    },
+    {
+      "id": "2044938017530577210",
+      "username": "OpenAI",
+      "text": "To go deeper on our new Life Sciences model series, research lead @joyjiao12 and product lead Yunyun Wang joined @AndrewMayne on the OpenAI Podcast to discuss how we’re building models for biology, drug discovery, and translational medicine.\n\nThey cover both the opportunity and https://t.co/orPLYI84RP",
+      "timestamp": "2026-04-17T00:36:31+00:00",
+      "url": "https://x.com/OpenAI/status/2044938017530577210",
+      "images": [],
+      "likes": 1017,
+      "retweets": 102,
+      "views": 266181
+    },
+    {
+      "id": "2044812776632397922",
+      "username": "AravSrinivas",
+      "text": "The computer is for you https://t.co/xYIJfN5FAS",
+      "timestamp": "2026-04-16T16:18:51+00:00",
+      "url": "https://x.com/AravSrinivas/status/2044812776632397922",
+      "images": [],
+      "likes": 657,
+      "retweets": 33,
+      "views": 39352
+    },
+    {
+      "id": "2044779844672852465",
+      "username": "ollama",
+      "text": "Qwen 3.6 is here, and open-source! Run it locally with improved agentic coding capabilities.\n\nTry it with Claude Code: \nollama launch claude --model qwen3.6 \n\nTry it with OpenClaw: \nollama launch openclaw --model qwen3.6\n\nRun it: \nollama run qwen3.6",
+      "timestamp": "2026-04-16T14:07:59+00:00",
+      "url": "https://x.com/ollama/status/2044779844672852465",
+      "images": [],
+      "likes": 2042,
+      "retweets": 208,
+      "views": 471635
+    },
+    {
+      "id": "2044506045364531619",
+      "username": "googledevs",
+      "text": "Gemini CLI’s new Subagents feature is a game-changer for terminal productivity. It turns your primary agent into a strategic manager that delegates sub-tasks to specialized experts.\n\n👉 Subagents keep the main window fast by handling high-volume tool calls in isolation\n👉 Run https://t.co/TfLwAkux0a",
+      "timestamp": "2026-04-15T20:00:00+00:00",
+      "url": "https://x.com/googledevs/status/2044506045364531619",
+      "images": [],
+      "likes": 766,
+      "retweets": 91,
+      "views": 54570
+    },
+    {
+      "id": "2044096836114493609",
+      "username": "arena",
+      "text": "New Eval mode: Battles in Direct\n\nWe sample two random anonymous models during Direct chats - enabling pairwise comparison beyond turn 1.\n\nWhy this matters:\n• Evaluates under longer context + multi-turn dependency\n• Captures failure modes: drift, consistency, recovery\n• Closer https://t.co/knpvTsxrKp",
+      "timestamp": "2026-04-14T16:53:57+00:00",
+      "url": "https://x.com/arena/status/2044096836114493609",
+      "images": [],
+      "likes": 89,
+      "retweets": 7,
+      "views": 10552
+    },
+    {
+      "id": "2043752712127611201",
+      "username": "OfficialLoganK",
+      "text": "Introducing Tab Tab Tab, our new prompt auto complete engine in @GoogleAIStudio's vibe coding experience. \n\nNow when you show up with your fuzzy ideas, you can rely on Gemini to fill in the blanks : ) https://t.co/VHTt6ztOXy",
+      "timestamp": "2026-04-13T18:06:32+00:00",
+      "url": "https://x.com/OfficialLoganK/status/2043752712127611201",
+      "images": [
+        "https://pbs.twimg.com/media/HFzeQkHasAIhTgm.jpg"
+      ],
+      "likes": 1295,
+      "retweets": 98,
+      "views": 61139
     }
   ]
 }
