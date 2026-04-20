@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T09:34:51.481919+08:00",
+  "last_updated": "2026-04-20T09:35:38.223968+08:00",
   "trends": [
     {
       "id": "ai_safety_pivot_and_accelerated_agi_time",
@@ -15,9 +15,8 @@
         "Content Authentication"
       ],
       "trajectory": "accelerating",
-      "signal_count": 79,
+      "signal_count": 80,
       "weekly_counts": [
-        1,
         2,
         1,
         2,
@@ -28,7 +27,8 @@
         3,
         0,
         2,
-        2
+        2,
+        1
       ],
       "key_events": [
         {
@@ -78,6 +78,10 @@
         {
           "date": "2026-04-19",
           "event": "Anthropic Abruptly Terminates Enterprise Client's Claude Access; Anthropic's Relationship with US Government Shows Signs of Thawing"
+        },
+        {
+          "date": "2026-04-20",
+          "event": "Evidence Mounts on AI-Written Books Flooding Publishing Industry"
         }
       ],
       "created": "2026-02-25"
@@ -92,12 +96,12 @@
         "Nvidia"
       ],
       "trajectory": "accelerating",
-      "signal_count": 21,
+      "signal_count": 22,
       "weekly_counts": [
         1,
+        0,
+        0,
         1,
-        0,
-        0,
         1,
         1,
         1,
@@ -183,6 +187,10 @@
         {
           "date": "2026-04-19",
           "event": "Tesla Robotaxi Expands to Dallas and Houston"
+        },
+        {
+          "date": "2026-04-20",
+          "event": "Humanoid Robots Beat Human Record in Beijing Half-Marathon"
         }
       ],
       "created": "2026-02-25"
@@ -401,9 +409,8 @@
         "Anthropic"
       ],
       "trajectory": "accelerating",
-      "signal_count": 123,
+      "signal_count": 125,
       "weekly_counts": [
-        1,
         2,
         2,
         3,
@@ -414,7 +421,8 @@
         4,
         4,
         2,
-        1
+        1,
+        2
       ],
       "key_events": [
         {
@@ -504,6 +512,10 @@
         {
           "date": "2026-04-19",
           "event": "Scale AI CEO Highlights Muse Spark's Strong Performance on Agentic Benchmark"
+        },
+        {
+          "date": "2026-04-20",
+          "event": "OpenAI Codex Becoming 'Universal App' for Developers; Box CEO Highlights Need for Rapid AI Architecture Upgrades"
         }
       ],
       "created": "2026-02-25"
@@ -522,9 +534,8 @@
         "Foundation Models"
       ],
       "trajectory": "accelerating",
-      "signal_count": 94,
+      "signal_count": 95,
       "weekly_counts": [
-        0,
         3,
         2,
         1,
@@ -535,7 +546,8 @@
         1,
         1,
         1,
-        2
+        2,
+        1
       ],
       "key_events": [
         {
@@ -617,6 +629,10 @@
         {
           "date": "2026-04-19",
           "event": "ByteDance Researchers Propose LeapAlign for Efficient Flow Matching Fine-Tuning; Apple Researchers Publish 'Attention to Mamba' Paper"
+        },
+        {
+          "date": "2026-04-20",
+          "event": "Schmidhuber Presents Keynote on Neural World Model Boom"
         }
       ],
       "created": "2026-02-25"
@@ -871,19 +887,19 @@
         "Computer Use"
       ],
       "trajectory": "accelerating",
-      "signal_count": 160,
+      "signal_count": 161,
       "weekly_counts": [
+        2,
+        2,
+        4,
+        4,
+        3,
+        2,
+        3,
+        3,
+        3,
+        2,
         1,
-        2,
-        2,
-        4,
-        4,
-        3,
-        2,
-        3,
-        3,
-        3,
-        2,
         1
       ],
       "key_events": [
@@ -978,6 +994,10 @@
         {
           "date": "2026-04-19",
           "event": "Hugging Face Launches Platform for AI Agents to Call 1M+ Spaces"
+        },
+        {
+          "date": "2026-04-20",
+          "event": "Hermes Agent Hits 100K GitHub Stars, Challenging OpenClaw"
         }
       ],
       "created": "2026-02-25"
@@ -1064,15 +1084,15 @@
         "AI Infrastructure"
       ],
       "trajectory": "accelerating",
-      "signal_count": 54,
+      "signal_count": 55,
       "weekly_counts": [
-        1,
         1,
         2,
         1,
         1,
         1,
         3,
+        1,
         1,
         1,
         1,
@@ -1139,6 +1159,10 @@
         {
           "date": "2026-04-17",
           "event": "Meta Shares Insights on Unified AI Agents for Hyperscale Infrastructure Optimization"
+        },
+        {
+          "date": "2026-04-20",
+          "event": "Port of Microsoft's TRELLIS.2 Image-to-3D Model to Apple Silicon"
         }
       ],
       "created": "2026-02-25"
@@ -1478,12 +1502,11 @@
         "Training"
       ],
       "trajectory": "stable",
-      "signal_count": 5,
+      "signal_count": 6,
       "weekly_counts": [
         0,
         0,
         0,
-        0,
         1,
         1,
         1,
@@ -1491,7 +1514,8 @@
         0,
         0,
         0,
-        0
+        0,
+        1
       ],
       "key_events": [
         {
@@ -1521,6 +1545,10 @@
         {
           "date": "2026-03-26",
           "event": "Anthropic Study Highlights Growing AI Skills Gap"
+        },
+        {
+          "date": "2026-04-20",
+          "event": "OpenAI Academy Reaches 3M Learners, Expands Global Events"
         }
       ],
       "created": "2026-02-25"
@@ -1539,9 +1567,8 @@
         "AI Adoption"
       ],
       "trajectory": "accelerating",
-      "signal_count": 32,
+      "signal_count": 33,
       "weekly_counts": [
-        1,
         1,
         0,
         1,
@@ -1552,7 +1579,8 @@
         1,
         1,
         2,
-        2
+        2,
+        1
       ],
       "key_events": [
         {
@@ -1602,6 +1630,10 @@
         {
           "date": "2026-04-17",
           "event": "ByteDance releases Seedance 2.0; Tencent releases HY-World 2.0"
+        },
+        {
+          "date": "2026-04-20",
+          "event": "Qwen3.6-35B-A3B Multimodal MoE Model Gains Traction on HuggingFace"
         }
       ],
       "created": "2026-02-25"
@@ -1616,9 +1648,8 @@
         "Startup Funding"
       ],
       "trajectory": "accelerating",
-      "signal_count": 63,
+      "signal_count": 65,
       "weekly_counts": [
-        1,
         2,
         2,
         3,
@@ -1629,7 +1660,8 @@
         2,
         2,
         2,
-        3
+        3,
+        2
       ],
       "key_events": [
         {
@@ -1819,6 +1851,10 @@
         {
           "date": "2026-04-18",
           "event": "Google Labs Launches Flow Music for AI Music Creation; xAI Launches Grok 4.3 Beta with Multi-Format File Creation"
+        },
+        {
+          "date": "2026-04-20",
+          "event": "Tencent Releases HY-World 2.0 Multi-Modal World Model for 3D Scene Generation"
         }
       ],
       "created": "2026-02-26"
