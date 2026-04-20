@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-20T15:02:02.269642",
+  "scraped_at": "2026-04-20T18:35:27.735222",
   "date": "2026-04-20",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 45,
-  "account_count": 31,
+  "tweet_count": 48,
+  "account_count": 32,
   "tweets": [
     {
       "id": "2045886906953781408",
@@ -526,6 +526,43 @@
       "likes": 28,
       "retweets": 1,
       "views": 2332
+    },
+    {
+      "id": "2046157560386908397",
+      "username": "EMostaque",
+      "text": "Roko’s Payrollisk",
+      "timestamp": "2026-04-20T09:22:32+00:00",
+      "url": "https://x.com/EMostaque/status/2046157560386908397",
+      "images": [],
+      "likes": 10,
+      "retweets": 0,
+      "views": 3135
+    },
+    {
+      "id": "2045708638317080798",
+      "username": "emollick",
+      "text": "This paper shows people are asking a lot of medical questions of AI already, but we have little evidence of how good or bad this is.\n\nMost of the published research uses old models &amp; compares to doctors. How do new models compare to the info people would have gotten without AI? https://t.co/Kj1erA6esf",
+      "timestamp": "2026-04-19T03:38:41+00:00",
+      "url": "https://x.com/emollick/status/2045708638317080798",
+      "images": [
+        "https://pbs.twimg.com/media/HGPQcaEWkAAsGbG.jpg"
+      ],
+      "likes": 242,
+      "retweets": 31,
+      "views": 23075
+    },
+    {
+      "id": "2044864822076969268",
+      "username": "emollick",
+      "text": "I think the adaptive thinking requirement in Claude Opus 4.7 is bad in the ways that all AI effort routers are bad, but magnified by the fact that there is no manual override like in ChatGPT.\n\nIt regularly decides that non-math/code stuff is \"low effort\" &amp; produces worse results. https://t.co/OEMM6TUpOL",
+      "timestamp": "2026-04-16T19:45:39+00:00",
+      "url": "https://x.com/emollick/status/2044864822076969268",
+      "images": [
+        "https://pbs.twimg.com/media/HGDRVkIWAAAy7oq.png"
+      ],
+      "likes": 1074,
+      "retweets": 61,
+      "views": 207663
     }
   ]
 }
