@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-21T16:20:44.877222",
+  "scraped_at": "2026-04-21T21:17:12.004263",
   "date": "2026-04-21",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 77,
-  "account_count": 50,
+  "tweet_count": 87,
+  "account_count": 55,
   "tweets": [
     {
       "id": "2046279894284525860",
@@ -887,6 +887,122 @@
       "likes": 204,
       "retweets": 33,
       "views": 20690
+    },
+    {
+      "id": "2046574676533543027",
+      "username": "googledevs",
+      "text": "Solve complex tasks faster by building with AI agents. By observing environments and using tools, these agents navigate the world to help you work smarter.\n\nLearn more about AI agents with GEAR → https://t.co/vqciOa9Tjr https://t.co/o9ctTxL947",
+      "timestamp": "2026-04-21T13:00:01+00:00",
+      "url": "https://x.com/googledevs/status/2046574676533543027",
+      "images": [],
+      "likes": 3,
+      "retweets": 1,
+      "views": 794
+    },
+    {
+      "id": "2046574669218607168",
+      "username": "DeryaTR_",
+      "text": "People are still failing to grasp the scale, speed, and depth of the transition AI will trigger, very soon!",
+      "timestamp": "2026-04-21T12:59:59+00:00",
+      "url": "https://x.com/DeryaTR_/status/2046574669218607168",
+      "images": [],
+      "likes": 30,
+      "retweets": 2,
+      "views": 1217
+    },
+    {
+      "id": "2046568298020508119",
+      "username": "GaryMarcus",
+      "text": "Please don’t trust your chatbot for medical advice. 🙏\n\nRemember how I used to say that large language models are “frequently wrong, never in doubt”, and how I warned three years ago on 60 Minutes that they were purveyors of “authoritative bullshit” that should not be trusted?",
+      "timestamp": "2026-04-21T12:34:40+00:00",
+      "url": "https://x.com/GaryMarcus/status/2046568298020508119",
+      "images": [],
+      "likes": 34,
+      "retweets": 6,
+      "views": 1698
+    },
+    {
+      "id": "2046560319196070016",
+      "username": "Thom_Wolf",
+      "text": "Love this work from Aksel and the post-training team at Hugging Face!\n\nTurns out the HF ecosystem (papers, datasets, models all accessible through CLI, skills and md files) is perfect for running SOTA ML agents: agents that can train any type of AI model to top performance.\n\nA",
+      "timestamp": "2026-04-21T12:02:58+00:00",
+      "url": "https://x.com/Thom_Wolf/status/2046560319196070016",
+      "images": [],
+      "likes": 22,
+      "retweets": 1,
+      "views": 2255
+    },
+    {
+      "id": "2046547887434203340",
+      "username": "HochreiterSepp",
+      "text": "RNNs like xLSTM with vertically chunked inference strategy for efficient memory: https://t.co/YX6UPapx6Q\nChunking enables a linear-time and constant-memory like TFLA for xLSTM https://t.co/1oZu9p3ydO\n\nTo chunk blocks via recurrent updates and speed up computation considerably.",
+      "timestamp": "2026-04-21T11:13:34+00:00",
+      "url": "https://x.com/HochreiterSepp/status/2046547887434203340",
+      "images": [],
+      "likes": 26,
+      "retweets": 3,
+      "views": 1265
+    },
+    {
+      "id": "2046531771265601880",
+      "username": "RisingSayak",
+      "text": "Will be at #ICLR2026 with @ariG23498 🤗\n\nCome, check out the posters below to discuss inference-time scaling, noise inversion, guidance-free sampling, etc.\n\n* NoiseRefine (23rd April,  3:15 PM – 5:45 PM)\n* StructBench (April 25, 3:15 PM – 5:45 PM)\n\nHappy to meet w/ folks, too! https://t.co/Vwqr2waXAR",
+      "timestamp": "2026-04-21T10:09:31+00:00",
+      "url": "https://x.com/RisingSayak/status/2046531771265601880",
+      "images": [
+        "https://pbs.twimg.com/media/HGa9wiCXcAMdyS1.jpg"
+      ],
+      "likes": 28,
+      "retweets": 1,
+      "views": 745
+    },
+    {
+      "id": "2046522150325039350",
+      "username": "ZoubinGhahrama1",
+      "text": "Experience AI is such a great initiative to help this generation of young people  understand and use AI. Fantastic to see @GoogleDeepMind and @Raspberry_Pi working closely together to reach tens of thousands of educators and millions of students!  https://t.co/wdq7AHfAKD",
+      "timestamp": "2026-04-21T09:31:17+00:00",
+      "url": "https://x.com/ZoubinGhahrama1/status/2046522150325039350",
+      "images": [],
+      "likes": 4,
+      "retweets": 1,
+      "views": 464
+    },
+    {
+      "id": "2046475902251639209",
+      "username": "ollama",
+      "text": "Scaling up Kimi K2.6 with more NVIDIA Blackwell GPUs! Will be adding more in the coming days. \n\nTry it with OpenClaw: \nollama launch openclaw --model kimi-k2.6:cloud  \n\nTry it with Hermes Agent: \nollama launch hermes --model kimi-k2.6:cloud  \n\nTry it with Claude Code: \nollama https://t.co/bvg2BmHyHY",
+      "timestamp": "2026-04-21T06:27:31+00:00",
+      "url": "https://x.com/ollama/status/2046475902251639209",
+      "images": [
+        "https://pbs.twimg.com/media/HGaKnCobUAAERSe.png"
+      ],
+      "likes": 348,
+      "retweets": 27,
+      "views": 15135
+    },
+    {
+      "id": "2046469356062974353",
+      "username": "__tinygrad__",
+      "text": "Check out our new agent friendly viz.cli profiler. We will beat the speed of millions of lines of heuristics with the power of search.\n\nYou write high level tinygrad code, search makes it fast (customized for your hardware!). The search engine makes sure it stays correct. https://t.co/nwndsZGxgf",
+      "timestamp": "2026-04-21T06:01:30+00:00",
+      "url": "https://x.com/__tinygrad__/status/2046469356062974353",
+      "images": [
+        "https://pbs.twimg.com/media/HGaD1ZrbsAAljDX.jpg"
+      ],
+      "likes": 135,
+      "retweets": 4,
+      "views": 6673
+    },
+    {
+      "id": "2046456870240764206",
+      "username": "Alibaba_Qwen",
+      "text": "Keep improving 🚀🚀 @arena",
+      "timestamp": "2026-04-21T05:11:53+00:00",
+      "url": "https://x.com/Alibaba_Qwen/status/2046456870240764206",
+      "images": [],
+      "likes": 307,
+      "retweets": 16,
+      "views": 20792
     }
   ]
 }
