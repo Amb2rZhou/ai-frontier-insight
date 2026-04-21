@@ -92,13 +92,15 @@
       "original_prediction": "六个月内至少一家主要AI公司将在模型发布时同时提供真实任务通过率指标",
       "source_week": "W16",
       "status": "观察中",
-      "evidence": "Scale AI CEO展示Muse Spark在ClawEval上的排名"
+      "confidence_change": "↑ 略升",
+      "evidence": "Scale AI CEO展示Muse Spark在ClawEval上的排名，方向符合但头部模型公司正式发布中尚未采用"
     },
     {
       "original_prediction": "Agent零信任架构将成为企业采购Agent服务的标准要求之一",
       "source_week": "W16",
       "status": "观察中",
-      "evidence": "VentureBeat调查显示多数企业无法阻止Stage-3 Agent威胁"
+      "confidence_change": "→ 持平",
+      "evidence": "VentureBeat调查显示多数企业无法阻止Stage-3 Agent威胁，威胁认知增强但甲方尚未形成统一采购要求"
     }
   ],
   "new_predictions": [
