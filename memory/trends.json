@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-20T09:35:38.223968+08:00",
+  "last_updated": "2026-04-21T09:36:31.053470+08:00",
   "trends": [
     {
       "id": "ai_safety_pivot_and_accelerated_agi_time",
@@ -15,9 +15,8 @@
         "Content Authentication"
       ],
       "trajectory": "accelerating",
-      "signal_count": 80,
+      "signal_count": 81,
       "weekly_counts": [
-        2,
         1,
         2,
         1,
@@ -28,6 +27,7 @@
         0,
         2,
         2,
+        1,
         1
       ],
       "key_events": [
@@ -82,6 +82,10 @@
         {
           "date": "2026-04-20",
           "event": "Evidence Mounts on AI-Written Books Flooding Publishing Industry"
+        },
+        {
+          "date": "2026-04-21",
+          "event": "NVIDIA Researchers Reveal Catastrophic Vulnerability of DNNs to Sign-Bit Flips"
         }
       ],
       "created": "2026-02-25"
@@ -209,9 +213,8 @@
         "Business Models"
       ],
       "trajectory": "accelerating",
-      "signal_count": 52,
+      "signal_count": 56,
       "weekly_counts": [
-        1,
         1,
         1,
         1,
@@ -222,7 +225,8 @@
         1,
         2,
         1,
-        1
+        1,
+        4
       ],
       "key_events": [
         {
@@ -296,6 +300,10 @@
         {
           "date": "2026-04-17",
           "event": "Google releases Gemma 4 for scalable agents and edge processing"
+        },
+        {
+          "date": "2026-04-21",
+          "event": "Hugging Face Announces New Open Coding SOTA Model; Moonshot AI Releases Kimi K2.6 Model on Hugging Face"
         }
       ],
       "created": "2026-02-25"
@@ -409,10 +417,9 @@
         "Anthropic"
       ],
       "trajectory": "accelerating",
-      "signal_count": 125,
+      "signal_count": 126,
       "weekly_counts": [
         2,
-        2,
         3,
         1,
         3,
@@ -422,7 +429,8 @@
         4,
         2,
         1,
-        2
+        2,
+        1
       ],
       "key_events": [
         {
@@ -516,6 +524,10 @@
         {
           "date": "2026-04-20",
           "event": "OpenAI Codex Becoming 'Universal App' for Developers; Box CEO Highlights Need for Rapid AI Architecture Upgrades"
+        },
+        {
+          "date": "2026-04-21",
+          "event": "GitHub Cofounder Discusses Rethinking Git for AI Agents Era"
         }
       ],
       "created": "2026-02-25"
@@ -534,9 +546,8 @@
         "Foundation Models"
       ],
       "trajectory": "accelerating",
-      "signal_count": 95,
+      "signal_count": 97,
       "weekly_counts": [
-        3,
         2,
         1,
         2,
@@ -547,7 +558,8 @@
         1,
         1,
         2,
-        1
+        1,
+        2
       ],
       "key_events": [
         {
@@ -633,6 +645,10 @@
         {
           "date": "2026-04-20",
           "event": "Schmidhuber Presents Keynote on Neural World Model Boom"
+        },
+        {
+          "date": "2026-04-21",
+          "event": "Unsloth AI Claims SOTA in Gemma 4 Quantization with GGUFs; Alibaba Researchers Address SNR-t Bias in Diffusion Models"
         }
       ],
       "created": "2026-02-25"
@@ -647,11 +663,10 @@
         "xAI"
       ],
       "trajectory": "accelerating",
-      "signal_count": 32,
+      "signal_count": 33,
       "weekly_counts": [
         1,
         1,
-        1,
         2,
         0,
         1,
@@ -659,6 +674,7 @@
         2,
         1,
         0,
+        1,
         1,
         1
       ],
@@ -782,6 +798,10 @@
         {
           "date": "2026-04-19",
           "event": "Yann LeCun Criticizes Dario Amodei's Views on AI Labor Market Impact"
+        },
+        {
+          "date": "2026-04-21",
+          "event": "Anthropic Secures $5B from Amazon with $100B AWS Spending Commitment"
         }
       ],
       "created": "2026-02-25"
@@ -887,9 +907,8 @@
         "Computer Use"
       ],
       "trajectory": "accelerating",
-      "signal_count": 161,
+      "signal_count": 163,
       "weekly_counts": [
-        2,
         2,
         4,
         4,
@@ -900,7 +919,8 @@
         3,
         2,
         1,
-        1
+        1,
+        2
       ],
       "key_events": [
         {
@@ -998,6 +1018,10 @@
         {
           "date": "2026-04-20",
           "event": "Hermes Agent Hits 100K GitHub Stars, Challenging OpenClaw"
+        },
+        {
+          "date": "2026-04-21",
+          "event": "Tencent and OpenClaw Collaborate on Agent Harness Performance; GitHub Cofounder Discusses Rethinking Git for AI Agents Era"
         }
       ],
       "created": "2026-02-25"
@@ -1084,14 +1108,14 @@
         "AI Infrastructure"
       ],
       "trajectory": "accelerating",
-      "signal_count": 55,
+      "signal_count": 56,
       "weekly_counts": [
-        1,
         2,
         1,
         1,
         1,
         3,
+        1,
         1,
         1,
         1,
@@ -1163,6 +1187,10 @@
         {
           "date": "2026-04-20",
           "event": "Port of Microsoft's TRELLIS.2 Image-to-3D Model to Apple Silicon"
+        },
+        {
+          "date": "2026-04-21",
+          "event": "Anthropic Secures $5B from Amazon with $100B AWS Spending Commitment"
         }
       ],
       "created": "2026-02-25"
@@ -1305,9 +1333,8 @@
         "Risk Management"
       ],
       "trajectory": "accelerating",
-      "signal_count": 49,
+      "signal_count": 50,
       "weekly_counts": [
-        0,
         1,
         0,
         1,
@@ -1318,6 +1345,7 @@
         0,
         1,
         0,
+        1,
         1
       ],
       "key_events": [
@@ -1488,6 +1516,10 @@
         {
           "date": "2026-04-17",
           "event": "Study reveals safety vulnerabilities in computer-use agents from benign instructions"
+        },
+        {
+          "date": "2026-04-21",
+          "event": "NVIDIA Researchers Reveal Catastrophic Vulnerability of DNNs to Sign-Bit Flips"
         }
       ],
       "created": "2026-02-25"
@@ -1567,9 +1599,8 @@
         "AI Adoption"
       ],
       "trajectory": "accelerating",
-      "signal_count": 33,
+      "signal_count": 37,
       "weekly_counts": [
-        1,
         0,
         1,
         1,
@@ -1580,7 +1611,8 @@
         1,
         2,
         2,
-        1
+        1,
+        4
       ],
       "key_events": [
         {
@@ -1634,6 +1666,10 @@
         {
           "date": "2026-04-20",
           "event": "Qwen3.6-35B-A3B Multimodal MoE Model Gains Traction on HuggingFace"
+        },
+        {
+          "date": "2026-04-21",
+          "event": "Alibaba Releases Qwen3.6-Max-Preview with Enhanced Agentic Coding; Moonshot AI Releases Kimi K2.6 Model on Hugging Face; Tencent and OpenClaw Collaborate on Agent Harness Performance"
         }
       ],
       "created": "2026-02-25"
@@ -1648,10 +1684,9 @@
         "Startup Funding"
       ],
       "trajectory": "accelerating",
-      "signal_count": 65,
+      "signal_count": 66,
       "weekly_counts": [
         2,
-        2,
         3,
         1,
         1,
@@ -1661,7 +1696,8 @@
         2,
         2,
         3,
-        2
+        2,
+        1
       ],
       "key_events": [
         {
@@ -1855,6 +1891,10 @@
         {
           "date": "2026-04-20",
           "event": "Tencent Releases HY-World 2.0 Multi-Modal World Model for 3D Scene Generation"
+        },
+        {
+          "date": "2026-04-21",
+          "event": "Alibaba Researchers Address SNR-t Bias in Diffusion Models"
         }
       ],
       "created": "2026-02-26"
@@ -1896,12 +1936,13 @@
         "Corporate Strategy"
       ],
       "trajectory": "accelerating",
-      "signal_count": 4,
+      "signal_count": 5,
       "weekly_counts": [
         1,
         1,
         1,
         0,
+        1,
         1
       ],
       "key_events": [
@@ -1920,6 +1961,10 @@
         {
           "date": "2026-04-11",
           "event": "a16z: AI Companies Raised More Capital in Q1 2026 Than All of 2025"
+        },
+        {
+          "date": "2026-04-21",
+          "event": "Anthropic Secures $5B from Amazon with $100B AWS Spending Commitment"
         }
       ],
       "created": "2026-02-28"
