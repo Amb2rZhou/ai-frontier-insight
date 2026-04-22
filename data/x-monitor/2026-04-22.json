@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-22T11:04:29.791154",
+  "scraped_at": "2026-04-22T14:40:13.429675",
   "date": "2026-04-22",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 83,
-  "account_count": 41,
+  "tweet_count": 100,
+  "account_count": 45,
   "tweets": [
     {
       "id": "2046661795327459677",
@@ -1005,6 +1005,211 @@
       "likes": 98,
       "retweets": 22,
       "views": 7712
+    },
+    {
+      "id": "2046839879569658258",
+      "username": "Austen",
+      "text": "Well, Reddit where credit is due… https://t.co/eiSczWq4r0",
+      "timestamp": "2026-04-22T06:33:50+00:00",
+      "url": "https://x.com/Austen/status/2046839879569658258",
+      "images": [
+        "https://pbs.twimg.com/media/HGfV9T_acAAcjLM.jpg",
+        "https://pbs.twimg.com/media/HGfV9TzbcAAiqoX.jpg"
+      ],
+      "likes": 3,
+      "retweets": 0,
+      "views": 167
+    },
+    {
+      "id": "2046836461790449963",
+      "username": "NielsRogge",
+      "text": "Hahaha I love how Tibo is burning Anthropic\n\nBelgian hero!! 🇧🇪",
+      "timestamp": "2026-04-22T06:20:15+00:00",
+      "url": "https://x.com/NielsRogge/status/2046836461790449963",
+      "images": [],
+      "likes": 0,
+      "retweets": 0,
+      "views": 104
+    },
+    {
+      "id": "2046822844240372114",
+      "username": "__tinygrad__",
+      "text": "Can be yours for $65k on a tinybox green v2 Blackwell. On your personal machine the KV cache is never stale and there's never a line or overloading. Order today!",
+      "timestamp": "2026-04-22T05:26:08+00:00",
+      "url": "https://x.com/__tinygrad__/status/2046822844240372114",
+      "images": [],
+      "likes": 58,
+      "retweets": 1,
+      "views": 4952
+    },
+    {
+      "id": "2046814708955836442",
+      "username": "Miles_Brundage",
+      "text": "You can lead a Miles to ChatGPT Images 2.0 but you can't make him have good prompt ideas / aesthetic judgment",
+      "timestamp": "2026-04-22T04:53:49+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2046814708955836442",
+      "images": [],
+      "likes": 11,
+      "retweets": 0,
+      "views": 639
+    },
+    {
+      "id": "2046813093955871018",
+      "username": "jeremyphoward",
+      "text": "AFAIK this is the first time it's been made official from an OpenAI staffer - the `/backend-api/codex/responses` endpoint that Pi and Opencode (IIUC) uses is officially supported! :D\n\nThis is really great news, and I'll be releasing open source projects to support it v soon.",
+      "timestamp": "2026-04-22T04:47:24+00:00",
+      "url": "https://x.com/jeremyphoward/status/2046813093955871018",
+      "images": [],
+      "likes": 105,
+      "retweets": 1,
+      "views": 9699
+    },
+    {
+      "id": "2046807838459125990",
+      "username": "openclaw",
+      "text": "OpenClaw 2026.4.21 🦞\n\n🖼️ OpenAI Image 2\n🔧 npm update repair for bundled plugins\n🐳 Docker E2E coverage for channel deps\n🩹 Low-risk fixes backported\n\nTiny release. Useful claws.\nhttps://t.co/Uo9aFpzB9L",
+      "timestamp": "2026-04-22T04:26:31+00:00",
+      "url": "https://x.com/openclaw/status/2046807838459125990",
+      "images": [],
+      "likes": 433,
+      "retweets": 47,
+      "views": 29242
+    },
+    {
+      "id": "2046805326784319663",
+      "username": "levie",
+      "text": "If you read this and don’t understand why it’s happening it’s an opportunity to reset your understanding of how the real world works. \n\nThe real world will need a ton of help actually getting agents going in the enterprise. Companies have legacy tech stacks they need to",
+      "timestamp": "2026-04-22T04:16:32+00:00",
+      "url": "https://x.com/levie/status/2046805326784319663",
+      "images": [],
+      "likes": 946,
+      "retweets": 80,
+      "views": 119294
+    },
+    {
+      "id": "2046803162590335240",
+      "username": "steipete",
+      "text": "OpenClaw 2026.4.21 is live.\n\nSmall release, important fix: npm updates now repair bundled plugin runtime deps, with Docker E2E coverage so Telegram/Discord/Slack do not break after upgrade.\n\nAlso backports OpenAI Image 2 support.\n\nnpm i -g openclaw@latest",
+      "timestamp": "2026-04-22T04:07:56+00:00",
+      "url": "https://x.com/steipete/status/2046803162590335240",
+      "images": [],
+      "likes": 444,
+      "retweets": 15,
+      "views": 23262
+    },
+    {
+      "id": "2046801370330656841",
+      "username": "minchoi",
+      "text": "A woman who could barely walk or stand on her own tried a Chinese exoskeleton at Canton Fair.\n\nShe took steady steps.\n\nHer friend burst into tears.\n\nRobotics is going to change lives. https://t.co/MF5gKM01ZB",
+      "timestamp": "2026-04-22T04:00:49+00:00",
+      "url": "https://x.com/minchoi/status/2046801370330656841",
+      "images": [],
+      "likes": 178,
+      "retweets": 20,
+      "views": 12847
+    },
+    {
+      "id": "2046800109380268047",
+      "username": "DeryaTR_",
+      "text": "A proclamation of ChatGPT Images 2.0 was discovered... from 1689! 😅 https://t.co/5P0pMgxyKB",
+      "timestamp": "2026-04-22T03:55:48+00:00",
+      "url": "https://x.com/DeryaTR_/status/2046800109380268047",
+      "images": [
+        "https://pbs.twimg.com/media/HGexmP0XoAAHmjC.jpg"
+      ],
+      "likes": 28,
+      "retweets": 4,
+      "views": 2400
+    },
+    {
+      "id": "2046799750750453865",
+      "username": "goodside",
+      "text": "ChatGPT Images 2.0 generates a crocheted doily with 11 petals—i.e. order 11 radial symmetry.\n\n(I was unable to find any 11-petal doilies via Google Image Search, and the reasoning trace included seven iterations before this result, so I’m confident it’s somewhat original.) https://t.co/Z4quwN0jlX",
+      "timestamp": "2026-04-22T03:54:22+00:00",
+      "url": "https://x.com/goodside/status/2046799750750453865",
+      "images": [
+        "https://pbs.twimg.com/media/HGexhpSWsAEkXOQ.jpg"
+      ],
+      "likes": 55,
+      "retweets": 3,
+      "views": 2828
+    },
+    {
+      "id": "2046789953145753946",
+      "username": "DeryaTR_",
+      "text": "ChatGPT Images 2.0 can also create amazing paintings! https://t.co/c7ZsMsycKN",
+      "timestamp": "2026-04-22T03:15:27+00:00",
+      "url": "https://x.com/DeryaTR_/status/2046789953145753946",
+      "images": [
+        "https://pbs.twimg.com/media/HGeokXUWoAEUAmr.jpg"
+      ],
+      "likes": 25,
+      "retweets": 0,
+      "views": 2814
+    },
+    {
+      "id": "2046787353906167992",
+      "username": "steipete",
+      "text": "Did some work to get our CI times down from 8 to two minutes via some... parallelization. Kudos to the @useblacksmith folks for sponsoring + letting us melt their servers. https://t.co/CkrAuTDsK1",
+      "timestamp": "2026-04-22T03:05:07+00:00",
+      "url": "https://x.com/steipete/status/2046787353906167992",
+      "images": [
+        "https://pbs.twimg.com/media/HGemAMRWIAATOEz.jpg"
+      ],
+      "likes": 224,
+      "retweets": 7,
+      "views": 18332
+    },
+    {
+      "id": "2046787082606317742",
+      "username": "Miles_Brundage",
+      "text": "The Twitter AI-generated-image detector thing seems to not be robust to cropping at all, I guess it just uses metadata\n\nOr, it uses more than metadata + Images 2.0 breaks it",
+      "timestamp": "2026-04-22T03:04:02+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2046787082606317742",
+      "images": [],
+      "likes": 1,
+      "retweets": 0,
+      "views": 659
+    },
+    {
+      "id": "2046753415410094474",
+      "username": "goodside",
+      "text": "\"Wall-mounted vinyl chess board with a game of Chess960 after 1.d4 d5 2.c3 e6 3.e3 c6\"\n\nChatGPT Images 2.0, Extended reasoning\n\n(Note the back ranks are shuffled per Chess960 rules.) https://t.co/lWJ3y4zSUZ",
+      "timestamp": "2026-04-22T00:50:15+00:00",
+      "url": "https://x.com/goodside/status/2046753415410094474",
+      "images": [
+        "https://pbs.twimg.com/media/HGeHDsIXYAAaD4q.jpg"
+      ],
+      "likes": 77,
+      "retweets": 5,
+      "views": 5985
+    },
+    {
+      "id": "2046740503127843219",
+      "username": "boazbaraktcs",
+      "text": "I have found Euphony so useful internally! Glad it's now open source!",
+      "timestamp": "2026-04-21T23:58:57+00:00",
+      "url": "https://x.com/boazbaraktcs/status/2046740503127843219",
+      "images": [],
+      "likes": 33,
+      "retweets": 2,
+      "views": 4813
+    },
+    {
+      "id": "2046665274535854146",
+      "username": "emollick",
+      "text": "I have been using GPT ImageGen-2 for the past weeks\n\nI didn't think that better image-generators would be a big deal but it turns out that there is a quality threshold I didn't expect, where you can now get text, slides, academic papers\n\nLook at what it does with my \"otter test\"! https://t.co/qWOlhmkq2F",
+      "timestamp": "2026-04-21T19:00:01+00:00",
+      "url": "https://x.com/emollick/status/2046665274535854146",
+      "images": [
+        "https://pbs.twimg.com/media/HGcin2zWMAAkHfd.jpg",
+        "https://pbs.twimg.com/media/HGcl50sXoAAK3UK.jpg",
+        "https://pbs.twimg.com/media/HGcl85_WIAArl8h.jpg",
+        "https://pbs.twimg.com/media/HGcmdzvW0AEMrQw.jpg"
+      ],
+      "likes": 1448,
+      "retweets": 99,
+      "views": 87484
     }
   ]
 }
