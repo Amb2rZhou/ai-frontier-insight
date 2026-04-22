@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-21T09:36:31.053470+08:00",
+  "last_updated": "2026-04-22T09:36:24.078055+08:00",
   "trends": [
     {
       "id": "ai_safety_pivot_and_accelerated_agi_time",
@@ -15,9 +15,8 @@
         "Content Authentication"
       ],
       "trajectory": "accelerating",
-      "signal_count": 81,
+      "signal_count": 83,
       "weekly_counts": [
-        1,
         2,
         1,
         2,
@@ -28,7 +27,8 @@
         2,
         2,
         1,
-        1
+        1,
+        2
       ],
       "key_events": [
         {
@@ -86,6 +86,10 @@
         {
           "date": "2026-04-21",
           "event": "NVIDIA Researchers Reveal Catastrophic Vulnerability of DNNs to Sign-Bit Flips"
+        },
+        {
+          "date": "2026-04-22",
+          "event": "Anthropic's Exclusive Cyber Tool 'Mythos' Reportedly Accessed by Unauthorized Group"
         }
       ],
       "created": "2026-02-25"
@@ -213,9 +217,8 @@
         "Business Models"
       ],
       "trajectory": "accelerating",
-      "signal_count": 56,
+      "signal_count": 57,
       "weekly_counts": [
-        1,
         1,
         1,
         3,
@@ -226,7 +229,8 @@
         2,
         1,
         1,
-        4
+        4,
+        1
       ],
       "key_events": [
         {
@@ -304,6 +308,10 @@
         {
           "date": "2026-04-21",
           "event": "Hugging Face Announces New Open Coding SOTA Model; Moonshot AI Releases Kimi K2.6 Model on Hugging Face"
+        },
+        {
+          "date": "2026-04-22",
+          "event": "Hugging Face CEO Warns of Renewed Lobbying Against Open-Source AI in US"
         }
       ],
       "created": "2026-02-25"
@@ -417,9 +425,8 @@
         "Anthropic"
       ],
       "trajectory": "accelerating",
-      "signal_count": 126,
+      "signal_count": 128,
       "weekly_counts": [
-        2,
         3,
         1,
         3,
@@ -430,7 +437,8 @@
         2,
         1,
         2,
-        1
+        1,
+        2
       ],
       "key_events": [
         {
@@ -528,6 +536,10 @@
         {
           "date": "2026-04-21",
           "event": "GitHub Cofounder Discusses Rethinking Git for AI Agents Era"
+        },
+        {
+          "date": "2026-04-22",
+          "event": "NVIDIA and Adobe Showcase Agentic Workflows for Enterprise Content Creation"
         }
       ],
       "created": "2026-02-25"
@@ -546,9 +558,8 @@
         "Foundation Models"
       ],
       "trajectory": "accelerating",
-      "signal_count": 97,
+      "signal_count": 99,
       "weekly_counts": [
-        2,
         1,
         2,
         2,
@@ -559,6 +570,7 @@
         1,
         2,
         1,
+        2,
         2
       ],
       "key_events": [
@@ -649,6 +661,10 @@
         {
           "date": "2026-04-21",
           "event": "Unsloth AI Claims SOTA in Gemma 4 Quantization with GGUFs; Alibaba Researchers Address SNR-t Bias in Diffusion Models"
+        },
+        {
+          "date": "2026-04-22",
+          "event": "MIT Researchers Release 'MathNet', a Large-Scale Multimodal Math Reasoning Benchmark"
         }
       ],
       "created": "2026-02-25"
@@ -663,10 +679,9 @@
         "xAI"
       ],
       "trajectory": "accelerating",
-      "signal_count": 33,
+      "signal_count": 34,
       "weekly_counts": [
         1,
-        1,
         2,
         0,
         1,
@@ -674,6 +689,7 @@
         2,
         1,
         0,
+        1,
         1,
         1,
         1
@@ -802,6 +818,10 @@
         {
           "date": "2026-04-21",
           "event": "Anthropic Secures $5B from Amazon with $100B AWS Spending Commitment"
+        },
+        {
+          "date": "2026-04-22",
+          "event": "SpaceX Announces Option to Acquire AI Coding Startup Cursor for $60B"
         }
       ],
       "created": "2026-02-25"
@@ -819,7 +839,7 @@
       "signal_count": 2,
       "weekly_counts": [
         1,
-        1,
+        0,
         0,
         0,
         0,
@@ -907,9 +927,8 @@
         "Computer Use"
       ],
       "trajectory": "accelerating",
-      "signal_count": 163,
+      "signal_count": 165,
       "weekly_counts": [
-        2,
         4,
         4,
         3,
@@ -920,6 +939,7 @@
         2,
         1,
         1,
+        2,
         2
       ],
       "key_events": [
@@ -1022,6 +1042,10 @@
         {
           "date": "2026-04-21",
           "event": "Tencent and OpenClaw Collaborate on Agent Harness Performance; GitHub Cofounder Discusses Rethinking Git for AI Agents Era"
+        },
+        {
+          "date": "2026-04-22",
+          "event": "Google Unveils 'Deep Research' and 'Deep Research Max' Autonomous Research Agents"
         }
       ],
       "created": "2026-02-25"
@@ -1333,9 +1357,8 @@
         "Risk Management"
       ],
       "trajectory": "accelerating",
-      "signal_count": 50,
+      "signal_count": 52,
       "weekly_counts": [
-        1,
         0,
         1,
         1,
@@ -1346,7 +1369,8 @@
         1,
         0,
         1,
-        1
+        1,
+        2
       ],
       "key_events": [
         {
@@ -1520,6 +1544,10 @@
         {
           "date": "2026-04-21",
           "event": "NVIDIA Researchers Reveal Catastrophic Vulnerability of DNNs to Sign-Bit Flips"
+        },
+        {
+          "date": "2026-04-22",
+          "event": "Vercel Security Breach Exposes OAuth Vulnerabilities in AI Tool Adoption"
         }
       ],
       "created": "2026-02-25"
@@ -1684,9 +1712,8 @@
         "Startup Funding"
       ],
       "trajectory": "accelerating",
-      "signal_count": 66,
+      "signal_count": 67,
       "weekly_counts": [
-        2,
         3,
         1,
         1,
@@ -1697,6 +1724,7 @@
         2,
         3,
         2,
+        1,
         1
       ],
       "key_events": [
@@ -1895,6 +1923,10 @@
         {
           "date": "2026-04-21",
           "event": "Alibaba Researchers Address SNR-t Bias in Diffusion Models"
+        },
+        {
+          "date": "2026-04-22",
+          "event": "OpenAI Releases ChatGPT Images 2.0 with Major Multimodal Capabilities"
         }
       ],
       "created": "2026-02-26"
