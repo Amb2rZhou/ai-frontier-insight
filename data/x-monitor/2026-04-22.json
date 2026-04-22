@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-22T14:40:13.429675",
+  "scraped_at": "2026-04-22T18:44:53.124186",
   "date": "2026-04-22",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 100,
-  "account_count": 45,
+  "tweet_count": 106,
+  "account_count": 47,
   "tweets": [
     {
       "id": "2046661795327459677",
@@ -1210,6 +1210,78 @@
       "likes": 1448,
       "retweets": 99,
       "views": 87484
+    },
+    {
+      "id": "2046899295329100159",
+      "username": "DeryaTR_",
+      "text": "Check out these incredible images from the mathematician Bartosz using ChatGPT Images 2.0, bringing math to life!😍",
+      "timestamp": "2026-04-22T10:29:56+00:00",
+      "url": "https://x.com/DeryaTR_/status/2046899295329100159",
+      "images": [],
+      "likes": 3,
+      "retweets": 0,
+      "views": 903
+    },
+    {
+      "id": "2046876069991428524",
+      "username": "MattNiessner",
+      "text": "📢Face Anything: 4D Face Reconstruction from Any Image Sequence\n\nTransformer model for 4D face reconstruction and dense tracking:\n- predict canonical facial coordinates per pixel\n- tracking as reconstruction in canonical space\n- geometry + correspondences in one forward pass\n\nKey https://t.co/k8sd5GrWTr",
+      "timestamp": "2026-04-22T08:57:38+00:00",
+      "url": "https://x.com/MattNiessner/status/2046876069991428524",
+      "images": [],
+      "likes": 70,
+      "retweets": 22,
+      "views": 2314
+    },
+    {
+      "id": "2046678531695104187",
+      "username": "thsottiaux",
+      "text": "New image model is now the default in Codex. It's incredible as a starting point for building websites or to generate assets for video games and codex can use it as any other tool in its toolkit.\n\nAsked Codex what it pictures my day looks like given we hit 4M active users today. https://t.co/DTIUQHGfne",
+      "timestamp": "2026-04-21T19:52:42+00:00",
+      "url": "https://x.com/thsottiaux/status/2046678531695104187",
+      "images": [
+        "https://pbs.twimg.com/media/HGdC2rLb0AA36hA.jpg"
+      ],
+      "likes": 3136,
+      "retweets": 99,
+      "views": 191325
+    },
+    {
+      "id": "2046601364940390561",
+      "username": "sarahookr",
+      "text": "If your a rising AI researcher or builder, join us for 6 months as an ambassador. ✨\n\nWe will support grants for community events, credits to build and cohort events. \n\nThe future belongs to the adaptive. https://t.co/W9zCxWnFfD",
+      "timestamp": "2026-04-21T14:46:04+00:00",
+      "url": "https://x.com/sarahookr/status/2046601364940390561",
+      "images": [
+        "https://pbs.twimg.com/media/HGb8COPbIAA__RN.jpg"
+      ],
+      "likes": 303,
+      "retweets": 33,
+      "views": 17295
+    },
+    {
+      "id": "2046206610410709314",
+      "username": "NielsRogge",
+      "text": "We've added support for SAM-3 Lite-Text in the Transformers library! 🔥\n\n&gt; replaces the heavy text encoder in SAM-3 with a compact MobileCLIP student\n&gt; trained via knowledge distillation\n&gt; maintains performance while reducing parameters by 88% https://t.co/VTUvdoDGvJ",
+      "timestamp": "2026-04-20T12:37:27+00:00",
+      "url": "https://x.com/NielsRogge/status/2046206610410709314",
+      "images": [
+        "https://pbs.twimg.com/media/HGWVObqX0AAgXmJ.jpg"
+      ],
+      "likes": 427,
+      "retweets": 37,
+      "views": 34267
+    },
+    {
+      "id": "2044841709075411047",
+      "username": "mervenoyann",
+      "text": "new open-source Bonsai models are out 🔥 \n\n&gt; ternary weights in 8B (1.75 GB), 4B (0.86 GB), and 1.7B (0.37 GB)\n&gt; comes in MLX, ONNX weights and WebGPU browser demo 😍\n&gt; a2.0 licensed 👏 https://t.co/jo5jbb79dW",
+      "timestamp": "2026-04-16T18:13:49+00:00",
+      "url": "https://x.com/mervenoyann/status/2044841709075411047",
+      "images": [],
+      "likes": 537,
+      "retweets": 45,
+      "views": 86707
     }
   ]
 }
