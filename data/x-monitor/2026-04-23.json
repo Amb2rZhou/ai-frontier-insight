@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-23T09:59:14.019982",
+  "scraped_at": "2026-04-23T12:44:55.934822",
   "date": "2026-04-23",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 82,
-  "account_count": 46,
+  "tweet_count": 93,
+  "account_count": 50,
   "tweets": [
     {
       "id": "2047118960941023552",
@@ -964,6 +964,141 @@
       "likes": 574,
       "retweets": 47,
       "views": 30492
+    },
+    {
+      "id": "2047173696989860167",
+      "username": "OpenAIDevs",
+      "text": "Everyone can just build things. https://t.co/1cDOaUdbv3",
+      "timestamp": "2026-04-23T04:40:18+00:00",
+      "url": "https://x.com/OpenAIDevs/status/2047173696989860167",
+      "images": [
+        "https://pbs.twimg.com/media/HGkEhhxbgAEMoVp.jpg"
+      ],
+      "likes": 57,
+      "retweets": 4,
+      "views": 480
+    },
+    {
+      "id": "2047173286119813469",
+      "username": "goodside",
+      "text": "ChatGPT Images 2.0 (Pro) generates an f(x)=x^3-3x^2+2x cake: https://t.co/AqozsZOLFK",
+      "timestamp": "2026-04-23T04:38:40+00:00",
+      "url": "https://x.com/goodside/status/2047173286119813469",
+      "images": [
+        "https://pbs.twimg.com/media/HGkFQNeXAAA26R2.jpg"
+      ],
+      "likes": 5,
+      "retweets": 1,
+      "views": 158
+    },
+    {
+      "id": "2047162905871949872",
+      "username": "saranormous",
+      "text": "Your child’s chosen life partner is an AI",
+      "timestamp": "2026-04-23T03:57:25+00:00",
+      "url": "https://x.com/saranormous/status/2047162905871949872",
+      "images": [],
+      "likes": 5,
+      "retweets": 0,
+      "views": 3541
+    },
+    {
+      "id": "2047158378028568699",
+      "username": "chelseabfinn",
+      "text": "Can LLMs generate new insights that build on prior research?\n\nGiantsBench is a new scientific discovery benchmark, that tests whether models can synthesize new insights given two parent papers.\n\nPaper + data + code: https://t.co/25q0F2jhpi https://t.co/Gjqf3azGBW",
+      "timestamp": "2026-04-23T03:39:26+00:00",
+      "url": "https://x.com/chelseabfinn/status/2047158378028568699",
+      "images": [
+        "https://pbs.twimg.com/media/HGj3UPnacAAQZEa.jpg"
+      ],
+      "likes": 47,
+      "retweets": 8,
+      "views": 2952
+    },
+    {
+      "id": "2047155228546638026",
+      "username": "chelseabfinn",
+      "text": "RL fine-tuning often prematurely collapses LLM entropy.\n\nPoly-EPO is a scalable set-RL algorithm that optimizes for a set of accurate solutions with diverse reasoning strategies.\n\nPaper: https://t.co/0HVe8YHr56",
+      "timestamp": "2026-04-23T03:26:55+00:00",
+      "url": "https://x.com/chelseabfinn/status/2047155228546638026",
+      "images": [],
+      "likes": 56,
+      "retweets": 13,
+      "views": 4168
+    },
+    {
+      "id": "2047151949607530787",
+      "username": "chelseabfinn",
+      "text": "FASTER makes top diffusion RL algos (eg IDQL, EXPO) computationally cheaper while retaining performance\n\nKey idea: a denoising critic that operates on noise, enabling best-of-N filtering before diffusing\n\nPaper + code: https://t.co/FNLNVQINPh",
+      "timestamp": "2026-04-23T03:13:53+00:00",
+      "url": "https://x.com/chelseabfinn/status/2047151949607530787",
+      "images": [],
+      "likes": 25,
+      "retweets": 4,
+      "views": 1831
+    },
+    {
+      "id": "2047147946538307782",
+      "username": "DeryaTR_",
+      "text": "AI painting of the day, created with GPT images 2.0. https://t.co/4CKNEgtQGc",
+      "timestamp": "2026-04-23T02:57:59+00:00",
+      "url": "https://x.com/DeryaTR_/status/2047147946538307782",
+      "images": [
+        "https://pbs.twimg.com/media/HGjuNTBWIAAG5KN.jpg"
+      ],
+      "likes": 41,
+      "retweets": 1,
+      "views": 581
+    },
+    {
+      "id": "2047147032016551937",
+      "username": "emollick",
+      "text": "Interesting, OpenAI just released a free healthcare version of ChatGPT-5.4 for clinicians that beat specialty-matched physicians with unlimited time + web access on a benchmark of real &amp; hard clinical tasks.\n\nCaveat: the benchmark was designed by OpenAI, though it is fully open. https://t.co/oTSPRZ9aPl",
+      "timestamp": "2026-04-23T02:54:21+00:00",
+      "url": "https://x.com/emollick/status/2047147032016551937",
+      "images": [
+        "https://pbs.twimg.com/media/HGjsH9pXcAAB_1x.jpg"
+      ],
+      "likes": 141,
+      "retweets": 14,
+      "views": 5939
+    },
+    {
+      "id": "2047145172337836139",
+      "username": "perplexity_ai",
+      "text": "Kimi K2.6, the new state-of-the-art open-weight model from Moonshot, is now available for Pro and Max subscribers. https://t.co/Cn2mRh8525",
+      "timestamp": "2026-04-23T02:46:57+00:00",
+      "url": "https://x.com/perplexity_ai/status/2047145172337836139",
+      "images": [
+        "https://pbs.twimg.com/media/HGjrr6jbsAAfl3T.jpg"
+      ],
+      "likes": 436,
+      "retweets": 21,
+      "views": 13464
+    },
+    {
+      "id": "2047145125604995280",
+      "username": "gdb",
+      "text": "Introducing ChatGPT for Clinicians: https://t.co/6kSGjGITA6",
+      "timestamp": "2026-04-23T02:46:46+00:00",
+      "url": "https://x.com/gdb/status/2047145125604995280",
+      "images": [
+        "https://pbs.twimg.com/media/HGjrj9uakAAAEU-.jpg"
+      ],
+      "likes": 760,
+      "retweets": 48,
+      "views": 44744
+    },
+    {
+      "id": "2047142231908491501",
+      "username": "docmilanfar",
+      "text": "language models are very good at exhibiting a mechanical equivalent of the Dunning-Kruger effect: they can be wrong, but they’re never in doubt",
+      "timestamp": "2026-04-23T02:35:16+00:00",
+      "url": "https://x.com/docmilanfar/status/2047142231908491501",
+      "images": [],
+      "likes": 33,
+      "retweets": 1,
+      "views": 1426
     }
   ]
 }
