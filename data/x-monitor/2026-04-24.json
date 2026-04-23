@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-24T01:51:06.144370",
+  "scraped_at": "2026-04-24T05:53:24.326408",
   "date": "2026-04-24",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 34,
-  "account_count": 24,
+  "tweet_count": 84,
+  "account_count": 42,
   "tweets": [
     {
       "id": "2047371234069877157",
@@ -409,6 +409,580 @@
       "likes": 151,
       "retweets": 15,
       "views": 10611
+    },
+    {
+      "id": "2047430629550141827",
+      "username": "OpenAINewsroom",
+      "text": "Nvidia: \"Over 10,000 NVIDIANs — across engineering, product, legal, marketing, finance, sales, HR, operations and developer programs — are already using GPT-5.5-powered Codex to achieve, in their words, 'mind-blowing' and 'life-changing' results.\"",
+      "timestamp": "2026-04-23T21:41:16+00:00",
+      "url": "https://x.com/OpenAINewsroom/status/2047430629550141827",
+      "images": [],
+      "likes": 69,
+      "retweets": 2,
+      "views": 1591
+    },
+    {
+      "id": "2047429644660429202",
+      "username": "_akhaliq",
+      "text": "Fine-Tuning Diffusion Models via Intermediate Distribution Shaping\n\npaper: https://t.co/XbWLf5uN3O https://t.co/C85LBFOOSc",
+      "timestamp": "2026-04-23T21:37:21+00:00",
+      "url": "https://x.com/_akhaliq/status/2047429644660429202",
+      "images": [
+        "https://pbs.twimg.com/media/HGnuVM-X0AEWoBW.png"
+      ],
+      "likes": 1,
+      "retweets": 0,
+      "views": 620
+    },
+    {
+      "id": "2047427294365466735",
+      "username": "ClementDelangue",
+      "text": "3,000 people are testing the ml-intern! https://t.co/KubvrjHCSY",
+      "timestamp": "2026-04-23T21:28:00+00:00",
+      "url": "https://x.com/ClementDelangue/status/2047427294365466735",
+      "images": [
+        "https://pbs.twimg.com/media/HGnsLx0W8AEysGq.jpg"
+      ],
+      "likes": 22,
+      "retweets": 3,
+      "views": 1659
+    },
+    {
+      "id": "2047423461543292975",
+      "username": "mmbronstein",
+      "text": "Excellent #ICLR2026 keynote by @wellingmax https://t.co/P3veQkHcUz",
+      "timestamp": "2026-04-23T21:12:47+00:00",
+      "url": "https://x.com/mmbronstein/status/2047423461543292975",
+      "images": [
+        "https://pbs.twimg.com/media/HGnoyKnXkAA9c3I.jpg"
+      ],
+      "likes": 12,
+      "retweets": 0,
+      "views": 323
+    },
+    {
+      "id": "2047421190881374441",
+      "username": "GaryMarcus",
+      "text": "Dubious predictions that have yet to be fulfilled have given dubious people like Sam Altman and Elon Musk extraordinary power over society. \n\n@carissaveliz's lecture @@TEDTalks (which I was lucky enough to see live, and which just came out on YouTube) will open your eyes on the",
+      "timestamp": "2026-04-23T21:03:45+00:00",
+      "url": "https://x.com/GaryMarcus/status/2047421190881374441",
+      "images": [],
+      "likes": 26,
+      "retweets": 6,
+      "views": 2525
+    },
+    {
+      "id": "2047420247204848111",
+      "username": "googledevs",
+      "text": "How should your AI agents interact with external tools? 🤖\n\nDiscover the trade-offs between CLI tools and MCP servers. Whether you need the speed of a direct command or the discovery power of a protocol layer, learn how to choose the right architecture for your agentic workflows. https://t.co/A7vEjfg60q",
+      "timestamp": "2026-04-23T21:00:00+00:00",
+      "url": "https://x.com/googledevs/status/2047420247204848111",
+      "images": [],
+      "likes": 14,
+      "retweets": 1,
+      "views": 1596
+    },
+    {
+      "id": "2047420123066044690",
+      "username": "ClementDelangue",
+      "text": "If you can’t stop small teams from using your API for distillation, then you’re definitely not stopping criminals, biohackers, or adversarial states from using AI through it. Those actors are much more sophisticated. The whole \"APIs are safer\" is a hoax!",
+      "timestamp": "2026-04-23T20:59:31+00:00",
+      "url": "https://x.com/ClementDelangue/status/2047420123066044690",
+      "images": [],
+      "likes": 45,
+      "retweets": 4,
+      "views": 1970
+    },
+    {
+      "id": "2047418616526537091",
+      "username": "emollick",
+      "text": "Among all the model release furor, important to note that people don’t need to switch providers or declare a winner every time a new model is released.\n\nEspecially as Opus 4.7 is a good model too! (Especially since adaptive thinking got better)",
+      "timestamp": "2026-04-23T20:53:32+00:00",
+      "url": "https://x.com/emollick/status/2047418616526537091",
+      "images": [],
+      "likes": 116,
+      "retweets": 0,
+      "views": 6142
+    },
+    {
+      "id": "2047417966703292640",
+      "username": "npew",
+      "text": "Crazy to me that GPT-5.5 is 2-12x cheaper than the original GPT-3 API pricing. What a wonder of science!",
+      "timestamp": "2026-04-23T20:50:57+00:00",
+      "url": "https://x.com/npew/status/2047417966703292640",
+      "images": [],
+      "likes": 75,
+      "retweets": 4,
+      "views": 5339
+    },
+    {
+      "id": "2047415524465000531",
+      "username": "shaneguML",
+      "text": "Congratulations to @countzerozzz (my manager in Gemini and long-term mentor) for getting the well deserved Test of Time award! DDPG inspired my whole PhD work. And ofc to great friends and mentors @tom_erez @yuvaltassa, and David Silver (whom I defended my thesis against).",
+      "timestamp": "2026-04-23T20:41:14+00:00",
+      "url": "https://x.com/shaneguML/status/2047415524465000531",
+      "images": [],
+      "likes": 6,
+      "retweets": 0,
+      "views": 1502
+    },
+    {
+      "id": "2047410340602720429",
+      "username": "lateinteraction",
+      "text": "If you're at ICLR, don't miss @LakshyAAAgrawal's Friday 10:30am oral presentation on GEPA.\n\nAnd catch him at the conference to hear all about the recent applications of GEPA (at Shopify, Dropbox, Databricks, ...) and extensions to it like the new optimize_anything API.",
+      "timestamp": "2026-04-23T20:20:38+00:00",
+      "url": "https://x.com/lateinteraction/status/2047410340602720429",
+      "images": [],
+      "likes": 26,
+      "retweets": 7,
+      "views": 2037
+    },
+    {
+      "id": "2047410242854453309",
+      "username": "DeryaTR_",
+      "text": "I am honored to have one of my test cases for GPT-5.5 Pro featured by @OpenAI 🙏 I will share more about this remarkable example that was truly mind-blowing for me! I don’t even think I pushed it to its full limits. This model is at a different level! https://t.co/5bsJITBMjM https://t.co/HxONXDdTzB",
+      "timestamp": "2026-04-23T20:20:15+00:00",
+      "url": "https://x.com/DeryaTR_/status/2047410242854453309",
+      "images": [
+        "https://pbs.twimg.com/media/HGncw_NWEAA8g8w.jpg"
+      ],
+      "likes": 105,
+      "retweets": 5,
+      "views": 3705
+    },
+    {
+      "id": "2047407732886532595",
+      "username": "emollick",
+      "text": "Here’s my view on GPT-5.5, which I have been testing for a couple of weeks.\n\nIt conducted not-bad social science research on its own, developed a novel RPG &amp; more. There is still jaggedness but GPT-5.5 Pro is (for today) the best model for hard problems. https://t.co/GNh8KXDc2l",
+      "timestamp": "2026-04-23T20:10:17+00:00",
+      "url": "https://x.com/emollick/status/2047407732886532595",
+      "images": [],
+      "likes": 286,
+      "retweets": 30,
+      "views": 18947
+    },
+    {
+      "id": "2047406426633466357",
+      "username": "Austen",
+      "text": "Artificial intelligence writes better code than every software engineer you’ve ever met RIGHT NOW",
+      "timestamp": "2026-04-23T20:05:05+00:00",
+      "url": "https://x.com/Austen/status/2047406426633466357",
+      "images": [],
+      "likes": 245,
+      "retweets": 11,
+      "views": 18278
+    },
+    {
+      "id": "2047404295792861335",
+      "username": "omarsar0",
+      "text": "we need a pytorch-like solution that allows us to build and optimize our own agent harnesses\n\nsomething coupled with autoharness capabilities\n\nwho is building it?\n\npi feels like the closest to it, but are there other projects that are trying to solve this?",
+      "timestamp": "2026-04-23T19:56:37+00:00",
+      "url": "https://x.com/omarsar0/status/2047404295792861335",
+      "images": [],
+      "likes": 19,
+      "retweets": 1,
+      "views": 2058
+    },
+    {
+      "id": "2047403831844081936",
+      "username": "dylan522p",
+      "text": "How close are models to building a perfect Slack clone with less than $50,000 of tokens? \nI feel like not that far... https://t.co/M5xN2oTGyR",
+      "timestamp": "2026-04-23T19:54:47+00:00",
+      "url": "https://x.com/dylan522p/status/2047403831844081936",
+      "images": [
+        "https://pbs.twimg.com/media/HGnWpztWIAAz0rj.jpg"
+      ],
+      "likes": 297,
+      "retweets": 8,
+      "views": 45602
+    },
+    {
+      "id": "2047403461742907536",
+      "username": "ClementDelangue",
+      "text": "5B tokens in ml-intern in 48h 😅😅😅",
+      "timestamp": "2026-04-23T19:53:18+00:00",
+      "url": "https://x.com/ClementDelangue/status/2047403461742907536",
+      "images": [],
+      "likes": 48,
+      "retweets": 2,
+      "views": 6948
+    },
+    {
+      "id": "2047400103518851129",
+      "username": "minchoi",
+      "text": "OpenAI just dropped GPT-5.5.\n\nA new class of AI for real work and agents.\n\nNow live in ChatGPT and Codex.\nhttps://t.co/QUQlWEEZKo",
+      "timestamp": "2026-04-23T19:39:58+00:00",
+      "url": "https://x.com/minchoi/status/2047400103518851129",
+      "images": [],
+      "likes": 62,
+      "retweets": 3,
+      "views": 8153
+    },
+    {
+      "id": "2047399819379941639",
+      "username": "omarsar0",
+      "text": "Build your own harness, folks. You won't regret it.\n\nThese days, you just have to fix things yourself.\n\nIt's doable, and it will set you up to easily deal with some of the madness that's happening in the space. \n\nhttps://t.co/aPoYoDWYd2",
+      "timestamp": "2026-04-23T19:38:50+00:00",
+      "url": "https://x.com/omarsar0/status/2047399819379941639",
+      "images": [],
+      "likes": 36,
+      "retweets": 8,
+      "views": 5198
+    },
+    {
+      "id": "2047399545030750242",
+      "username": "embirico",
+      "text": "Screenshot with some of the simplifications, targeted to people doing everyday work in Codex, vs only coding: https://t.co/PNAQPlBhsV",
+      "timestamp": "2026-04-23T19:37:45+00:00",
+      "url": "https://x.com/embirico/status/2047399545030750242",
+      "images": [
+        "https://pbs.twimg.com/media/HGnSmoKb0AAZkbA.jpg"
+      ],
+      "likes": 130,
+      "retweets": 3,
+      "views": 13817
+    },
+    {
+      "id": "2047398726856245623",
+      "username": "gdb",
+      "text": "we're rolling codex out to whole companies/enterprises. ping me gdb@openai.com if of interest!",
+      "timestamp": "2026-04-23T19:34:29+00:00",
+      "url": "https://x.com/gdb/status/2047398726856245623",
+      "images": [],
+      "likes": 515,
+      "retweets": 23,
+      "views": 49339
+    },
+    {
+      "id": "2047395826226671950",
+      "username": "NVIDIAAI",
+      "text": "Codex + GPT-5.5 is moving fast here at NVIDIA HQ.\n\nWe’ve even got our own Codex Lab for NVIDIANs to get started. https://t.co/zWnSnKfans",
+      "timestamp": "2026-04-23T19:22:58+00:00",
+      "url": "https://x.com/NVIDIAAI/status/2047395826226671950",
+      "images": [
+        "https://pbs.twimg.com/media/HGnPBuLbYAAuf5x.jpg"
+      ],
+      "likes": 84,
+      "retweets": 7,
+      "views": 4136
+    },
+    {
+      "id": "2047395562501411058",
+      "username": "sama",
+      "text": "We tried a new thing with NVIDIA to roll out Codex across a whole company and it was awesome to see it work.\n\nLet us know if you'd like to do it at your company! https://t.co/Xjn6ShrRuq",
+      "timestamp": "2026-04-23T19:21:55+00:00",
+      "url": "https://x.com/sama/status/2047395562501411058",
+      "images": [
+        "https://pbs.twimg.com/media/HGnO_TCbwAEBSHl.jpg"
+      ],
+      "likes": 4106,
+      "retweets": 186,
+      "views": 304026
+    },
+    {
+      "id": "2047393403873165822",
+      "username": "OpenAINewsroom",
+      "text": "Have you read \"The Prompt: Insights from OpenAI Global Affairs\"?\n\nThis week in their \"AI Politics are Local\" edition, they shared:\n- How 2026 candidates are talking about AI\n- Our blueprint for patient-first AI in healthcare\n\nRead it now: https://t.co/QnBx1Urdqs https://t.co/8cxmpKPJUd",
+      "timestamp": "2026-04-23T19:13:20+00:00",
+      "url": "https://x.com/OpenAINewsroom/status/2047393403873165822",
+      "images": [
+        "https://pbs.twimg.com/media/HGnNTV0W8AERzYt.jpg"
+      ],
+      "likes": 122,
+      "retweets": 7,
+      "views": 8227
+    },
+    {
+      "id": "2047387783111868707",
+      "username": "gdb",
+      "text": "Codex + 5.5 is incredible for the full spectrum of computer use. No longer just for coders, but for anyone who does computer work (including creating spreadsheets, slides, etc).",
+      "timestamp": "2026-04-23T18:51:00+00:00",
+      "url": "https://x.com/gdb/status/2047387783111868707",
+      "images": [],
+      "likes": 542,
+      "retweets": 33,
+      "views": 34009
+    },
+    {
+      "id": "2047387742951313910",
+      "username": "levie",
+      "text": "GPT-5.5 is live. We’ve been testing the model over the last couple of weeks at Box on our most complex knowledge work evals, and the model saw a 10 percentage point jump on accuracy of these enterprise content tasks vs. GPT-5.4. \n\nWe test the model on a variety of tasks that https://t.co/IzQOGT4ExM",
+      "timestamp": "2026-04-23T18:50:51+00:00",
+      "url": "https://x.com/levie/status/2047387742951313910",
+      "images": [
+        "https://pbs.twimg.com/media/HGnITS0a4AAKlS1.jpg"
+      ],
+      "likes": 161,
+      "retweets": 12,
+      "views": 22092
+    },
+    {
+      "id": "2047387675762802998",
+      "username": "polynoamial",
+      "text": "A hill that I will die on: with today's AI models, intelligence is a function of inference compute. Comparing models by a single number hasn't made sense since 2024. What matters is intelligence per token or per $.\n\nThis is especially true when using it in a product like Codex.",
+      "timestamp": "2026-04-23T18:50:35+00:00",
+      "url": "https://x.com/polynoamial/status/2047387675762802998",
+      "images": [],
+      "likes": 613,
+      "retweets": 38,
+      "views": 38458
+    },
+    {
+      "id": "2047386838541930973",
+      "username": "embirico",
+      "text": "Codex app is getting super powerful for coding, and any work on your computer.\n\nUpgrades\n- In app browser &amp; browser use—great for testing changes\n- Great Excel/Sheets/Powerpoint/Slides generation\n- Imagegen2 insane in the mix\n- Auto-review for long tasks &amp; automations",
+      "timestamp": "2026-04-23T18:47:15+00:00",
+      "url": "https://x.com/embirico/status/2047386838541930973",
+      "images": [],
+      "likes": 123,
+      "retweets": 7,
+      "views": 7829
+    },
+    {
+      "id": "2047386593410044113",
+      "username": "ChatGPTapp",
+      "text": "GPT-5.5, a new step-up in intelligence, is available in ChatGPT for all paid plans, rolling out now.",
+      "timestamp": "2026-04-23T18:46:17+00:00",
+      "url": "https://x.com/ChatGPTapp/status/2047386593410044113",
+      "images": [],
+      "likes": 1856,
+      "retweets": 106,
+      "views": 79558
+    },
+    {
+      "id": "2047386068194852963",
+      "username": "sama",
+      "text": "Really excellent work by the inference team to serve this model so efficiently!\n\nTo a significant degree, we have to become an AI inference company now.",
+      "timestamp": "2026-04-23T18:44:11+00:00",
+      "url": "https://x.com/sama/status/2047386068194852963",
+      "images": [],
+      "likes": 2603,
+      "retweets": 74,
+      "views": 100002
+    },
+    {
+      "id": "2047385074023485826",
+      "username": "emollick",
+      "text": "I had early access to GPT-5.5. It is very good, especially the Pro version. Full writeup very shortly.",
+      "timestamp": "2026-04-23T18:40:14+00:00",
+      "url": "https://x.com/emollick/status/2047385074023485826",
+      "images": [],
+      "likes": 489,
+      "retweets": 12,
+      "views": 13975
+    },
+    {
+      "id": "2047381612372115812",
+      "username": "gdb",
+      "text": "GPT-5.5 is a new class of intelligence.\n\nThis intelligence makes it intuitive to use; it completes challenging tasks with little micromanagement. Also very token efficient, and runs with low latency and at scale.\n\nA real step toward a new way of getting computer work done.",
+      "timestamp": "2026-04-23T18:26:29+00:00",
+      "url": "https://x.com/gdb/status/2047381612372115812",
+      "images": [],
+      "likes": 1369,
+      "retweets": 80,
+      "views": 64707
+    },
+    {
+      "id": "2047381454477238685",
+      "username": "OpenAINewsroom",
+      "text": "GPT-5.5 is now available on ChatGPT and Codex.",
+      "timestamp": "2026-04-23T18:25:51+00:00",
+      "url": "https://x.com/OpenAINewsroom/status/2047381454477238685",
+      "images": [],
+      "likes": 1015,
+      "retweets": 46,
+      "views": 38431
+    },
+    {
+      "id": "2047381399242743858",
+      "username": "thsottiaux",
+      "text": "It's an incredibly powerful model, but making silly little games with GPT-5.5 and then being able to chat about the mechanics and just iterate right there in Codex is super fun and a way the team enjoys a break. https://t.co/wGiJZTJxzk",
+      "timestamp": "2026-04-23T18:25:38+00:00",
+      "url": "https://x.com/thsottiaux/status/2047381399242743858",
+      "images": [],
+      "likes": 870,
+      "retweets": 32,
+      "views": 46213
+    },
+    {
+      "id": "2047381283848827006",
+      "username": "DeryaTR_",
+      "text": "I was also part of the GPT Pro Community early testing group for Codex 5.5. I can say that I'm so excited &amp; immersed in it that I couldn’t stop using it day &amp; night for vibe coding! It's a major upgrade over GPT-5.4 &amp; the frontend is just amazing now! I will share examples soon.",
+      "timestamp": "2026-04-23T18:25:11+00:00",
+      "url": "https://x.com/DeryaTR_/status/2047381283848827006",
+      "images": [],
+      "likes": 103,
+      "retweets": 4,
+      "views": 4613
+    },
+    {
+      "id": "2047381114088796198",
+      "username": "sarahookr",
+      "text": "Our goal is to continuously learn from the world. \n\nThis requires unlocking the 90% of data that is unstructured.\n\nToday we extend our adaptive data algorithms to work with unstructured data. ✨",
+      "timestamp": "2026-04-23T18:24:30+00:00",
+      "url": "https://x.com/sarahookr/status/2047381114088796198",
+      "images": [],
+      "likes": 29,
+      "retweets": 4,
+      "views": 2001
+    },
+    {
+      "id": "2047379615589777666",
+      "username": "sama",
+      "text": "1. We believe in iterative deployment; although GPT-5.5 is already a smart model, we expect rapid improvements. Iterative deployment is a big part of our safety strategy; we believe the world will be best equipped to win at the team sport of AI resilience this way.\n\n2. We believe",
+      "timestamp": "2026-04-23T18:18:33+00:00",
+      "url": "https://x.com/sama/status/2047379615589777666",
+      "images": [],
+      "likes": 5541,
+      "retweets": 364,
+      "views": 259981
+    },
+    {
+      "id": "2047378946489217238",
+      "username": "embirico",
+      "text": "Incredibly excited to get GPT-5.5 to everyone. Better at coding, at complex tasks, at spreadsheets &amp; docs, at browser use &amp; computer use.\n\nSimply a massive upgrade for Codex.\n\nGet the app at https://t.co/8hg4XzQdRE. With your ChatGPT plan, whether it's free, $20 plus or whatever",
+      "timestamp": "2026-04-23T18:15:53+00:00",
+      "url": "https://x.com/embirico/status/2047378946489217238",
+      "images": [],
+      "likes": 152,
+      "retweets": 10,
+      "views": 6463
+    },
+    {
+      "id": "2047378773457461376",
+      "username": "nvidia",
+      "text": "We're watching AI evolve in real time. GPT-5.5 isn't just a launch -  it's another proof point that the decade of intelligent systems is well underway. \n\nCongrats to the entire @OpenAI team on another impressive milestone. 🎉",
+      "timestamp": "2026-04-23T18:15:12+00:00",
+      "url": "https://x.com/nvidia/status/2047378773457461376",
+      "images": [],
+      "likes": 1077,
+      "retweets": 65,
+      "views": 49304
+    },
+    {
+      "id": "2047378547518373924",
+      "username": "omarsar0",
+      "text": "Things have been degrading super fast in Claude Code.\n\nI still use Claude Code, but my default is now Codex. I still prefer Opus models for coding, and so I will try again with the fixes. \n\nI appreciate the post-mortem, but I don't trust that all issues have been resolved. Claude",
+      "timestamp": "2026-04-23T18:14:18+00:00",
+      "url": "https://x.com/omarsar0/status/2047378547518373924",
+      "images": [],
+      "likes": 104,
+      "retweets": 8,
+      "views": 14309
+    },
+    {
+      "id": "2047378431260664058",
+      "username": "sama",
+      "text": "Also, a ton of new Codex features coming soon! Fun little bundle w/the new model.",
+      "timestamp": "2026-04-23T18:13:51+00:00",
+      "url": "https://x.com/sama/status/2047378431260664058",
+      "images": [],
+      "likes": 3579,
+      "retweets": 112,
+      "views": 111138
+    },
+    {
+      "id": "2047377969614872870",
+      "username": "thsottiaux",
+      "text": "Introducing GPT-5.5... together with a ton of new Codex features (more on those in the next hour).\n\nIncluded in all paid plans and coming to API soon. Update your Codex app or CLI to use it.\n\nhttps://t.co/lgvo3KErjt",
+      "timestamp": "2026-04-23T18:12:01+00:00",
+      "url": "https://x.com/thsottiaux/status/2047377969614872870",
+      "images": [],
+      "likes": 3300,
+      "retweets": 194,
+      "views": 103109
+    },
+    {
+      "id": "2047377730019422355",
+      "username": "NVIDIAAI",
+      "text": "Massive congrats to the team at @OpenAI 💚\n\nMoving the frontier forward isn’t easy, and GPT-5.5 does exactly that, with impressive performance across agentic coding, research tasks, and beyond.",
+      "timestamp": "2026-04-23T18:11:03+00:00",
+      "url": "https://x.com/NVIDIAAI/status/2047377730019422355",
+      "images": [],
+      "likes": 269,
+      "retweets": 19,
+      "views": 8914
+    },
+    {
+      "id": "2047377414339084401",
+      "username": "DeryaTR_",
+      "text": "I’d been part of OpenAI early tester group for GPT-5.5. I believe with GPT-5.5 Pro we reached another inflection point-comparable to the original release of o1-preview &amp; then with 5.0 Pro, I had felt. It’s that feeling of crossing a milestone threshold that pushes us to new era🔥",
+      "timestamp": "2026-04-23T18:09:48+00:00",
+      "url": "https://x.com/DeryaTR_/status/2047377414339084401",
+      "images": [],
+      "likes": 743,
+      "retweets": 41,
+      "views": 66704
+    },
+    {
+      "id": "2047377023656436013",
+      "username": "GoogleAI",
+      "text": "Last week, we launched Gemini 3.1 TTS, our latest and best text-to-speech model. This new model introduces [awe] audio tags, an intuitive way to guide vocal style, pace, and delivery.\n\nHere are some tips on the best ways to use audio tags in your prompts:\n\n1. All inline tags must https://t.co/YDbBLs5Dcp",
+      "timestamp": "2026-04-23T18:08:15+00:00",
+      "url": "https://x.com/GoogleAI/status/2047377023656436013",
+      "images": [],
+      "likes": 256,
+      "retweets": 32,
+      "views": 19546
+    },
+    {
+      "id": "2047081818671751171",
+      "username": "goodside",
+      "text": "Can’t emphasize this enough. I was locked out of Pro image gen due to a deployment bug (fixed just tonight), and it’s much better.\n\nThe old intuition says model choice and image quality are unrelated because it all funnels to a txt2img tool call, and that intuition is now wrong.",
+      "timestamp": "2026-04-22T22:35:13+00:00",
+      "url": "https://x.com/goodside/status/2047081818671751171",
+      "images": [],
+      "likes": 113,
+      "retweets": 5,
+      "views": 15913
+    },
+    {
+      "id": "2047028112626749645",
+      "username": "levie",
+      "text": "This is probably the biggest news yet in software going headless, and will bring knowledge work agents to the masses. The new ChatGPT agents have access to any of the tools and data you want to work with, with complete coding and tool use available to them. \n\nHere's an example of https://t.co/ZRimPR1DQo",
+      "timestamp": "2026-04-22T19:01:48+00:00",
+      "url": "https://x.com/levie/status/2047028112626749645",
+      "images": [],
+      "likes": 1160,
+      "retweets": 80,
+      "views": 380919
+    },
+    {
+      "id": "2046959757299487029",
+      "username": "UnslothAI",
+      "text": "Qwen3.6-27B can now run locally! 💜\n\nRun on 18GB RAM via Unsloth Dynamic GGUFs.\n\nQwen3.6-27B surpasses Qwen3.5-397B-A17B on all major coding benchmarks.\n\nGGUFs: https://t.co/ykKgwh2zI9\nGuide: https://t.co/ITLNq20WJp https://t.co/8ADXPDAyAk",
+      "timestamp": "2026-04-22T14:30:11+00:00",
+      "url": "https://x.com/UnslothAI/status/2046959757299487029",
+      "images": [
+        "https://pbs.twimg.com/media/HGhAMpAbIAAanxJ.jpg"
+      ],
+      "likes": 3298,
+      "retweets": 403,
+      "views": 506332
+    },
+    {
+      "id": "2046364656789532739",
+      "username": "thsottiaux",
+      "text": "🚨 Codex is partially down. Team is investigating.",
+      "timestamp": "2026-04-20T23:05:28+00:00",
+      "url": "https://x.com/thsottiaux/status/2046364656789532739",
+      "images": [],
+      "likes": 1518,
+      "retweets": 25,
+      "views": 295336
+    },
+    {
+      "id": "2046053467941163055",
+      "username": "emollick",
+      "text": "The second most important release of the LLM era (after GPT-3.5), featuring what was likely the most important chart.\n\nStill seems surprising to me that OpenAI told everyone about the biggest advance in AI technology since the LLM rather than keeping it to themselves until later. https://t.co/3zKGQsQ5jY",
+      "timestamp": "2026-04-20T02:28:55+00:00",
+      "url": "https://x.com/emollick/status/2046053467941163055",
+      "images": [
+        "https://pbs.twimg.com/media/HGUKasTaUAA-VIU.png"
+      ],
+      "likes": 960,
+      "retweets": 30,
+      "views": 188068
     }
   ]
 }
