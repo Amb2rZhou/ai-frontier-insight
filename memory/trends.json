@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22T09:36:24.078055+08:00",
+  "last_updated": "2026-04-23T09:35:22.631115+08:00",
   "trends": [
     {
       "id": "ai_safety_pivot_and_accelerated_agi_time",
@@ -15,9 +15,8 @@
         "Content Authentication"
       ],
       "trajectory": "accelerating",
-      "signal_count": 83,
+      "signal_count": 85,
       "weekly_counts": [
-        2,
         1,
         2,
         1,
@@ -28,6 +27,7 @@
         2,
         1,
         1,
+        2,
         2
       ],
       "key_events": [
@@ -90,6 +90,10 @@
         {
           "date": "2026-04-22",
           "event": "Anthropic's Exclusive Cyber Tool 'Mythos' Reportedly Accessed by Unauthorized Group"
+        },
+        {
+          "date": "2026-04-23",
+          "event": "OpenAI releases open-source on-device privacy filter model; Wired investigation reveals AI models' effectiveness in phishing and social engineering"
         }
       ],
       "created": "2026-02-25"
@@ -217,9 +221,8 @@
         "Business Models"
       ],
       "trajectory": "accelerating",
-      "signal_count": 57,
+      "signal_count": 58,
       "weekly_counts": [
-        1,
         1,
         3,
         1,
@@ -230,6 +233,7 @@
         1,
         1,
         4,
+        1,
         1
       ],
       "key_events": [
@@ -425,9 +429,8 @@
         "Anthropic"
       ],
       "trajectory": "accelerating",
-      "signal_count": 128,
+      "signal_count": 132,
       "weekly_counts": [
-        3,
         1,
         3,
         2,
@@ -438,7 +441,8 @@
         1,
         2,
         1,
-        2
+        2,
+        4
       ],
       "key_events": [
         {
@@ -540,6 +544,10 @@
         {
           "date": "2026-04-22",
           "event": "NVIDIA and Adobe Showcase Agentic Workflows for Enterprise Content Creation"
+        },
+        {
+          "date": "2026-04-23",
+          "event": "OpenAI launches Workspace Agents for enterprise automation; Google and AWS split AI agent stack between control and execution"
         }
       ],
       "created": "2026-02-25"
@@ -558,9 +566,8 @@
         "Foundation Models"
       ],
       "trajectory": "accelerating",
-      "signal_count": 99,
+      "signal_count": 100,
       "weekly_counts": [
-        1,
         2,
         2,
         1,
@@ -571,7 +578,8 @@
         2,
         1,
         2,
-        2
+        2,
+        1
       ],
       "key_events": [
         {
@@ -665,6 +673,10 @@
         {
           "date": "2026-04-22",
           "event": "MIT Researchers Release 'MathNet', a Large-Scale Multimodal Math Reasoning Benchmark"
+        },
+        {
+          "date": "2026-04-23",
+          "event": "Salesforce AI research addresses calibration issue in on-policy distillation"
         }
       ],
       "created": "2026-02-25"
@@ -927,10 +939,9 @@
         "Computer Use"
       ],
       "trajectory": "accelerating",
-      "signal_count": 165,
+      "signal_count": 168,
       "weekly_counts": [
         4,
-        4,
         3,
         2,
         3,
@@ -940,7 +951,8 @@
         1,
         1,
         2,
-        2
+        2,
+        3
       ],
       "key_events": [
         {
@@ -1046,6 +1058,10 @@
         {
           "date": "2026-04-22",
           "event": "Google Unveils 'Deep Research' and 'Deep Research Max' Autonomous Research Agents"
+        },
+        {
+          "date": "2026-04-23",
+          "event": "Stanford research finds 'AI swarm tax' - single agents often outperform multi-agent systems; Tencent releases PlayCoder framework for LLM-generated GUI code correction"
         }
       ],
       "created": "2026-02-25"
@@ -1627,9 +1643,8 @@
         "AI Adoption"
       ],
       "trajectory": "accelerating",
-      "signal_count": 37,
+      "signal_count": 38,
       "weekly_counts": [
-        0,
         1,
         1,
         1,
@@ -1640,7 +1655,8 @@
         2,
         2,
         1,
-        4
+        4,
+        1
       ],
       "key_events": [
         {
@@ -1712,9 +1728,8 @@
         "Startup Funding"
       ],
       "trajectory": "accelerating",
-      "signal_count": 67,
+      "signal_count": 70,
       "weekly_counts": [
-        3,
         1,
         1,
         1,
@@ -1725,7 +1740,8 @@
         3,
         2,
         1,
-        1
+        1,
+        3
       ],
       "key_events": [
         {
@@ -1927,6 +1943,10 @@
         {
           "date": "2026-04-22",
           "event": "OpenAI Releases ChatGPT Images 2.0 with Major Multimodal Capabilities"
+        },
+        {
+          "date": "2026-04-23",
+          "event": "Google releases CityRAG for spatially-grounded long-form video generation; Alibaba releases Tstars-Tryon 1.0 for commercial virtual try-on"
         }
       ],
       "created": "2026-02-26"

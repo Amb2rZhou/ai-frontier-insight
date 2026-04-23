@@ -648,6 +648,215 @@
           164
         ]
       }
+    ],
+    "2026-04-23": [
+      {
+        "title": "OpenAI Launches Workspace Agents for Enterprise Automation",
+        "signal_text": "据 VentureBeat 和 OpenAI 官方博客报道，OpenAI 正式推出 Workspace Agents，这是 Custom GPTs 的继任者，专为企业设计。这些基于云的 Codex 驱动代理可自动化复杂工作流，并直接集成到 Slack、Salesforce 等企业工具中，旨在帮助团队规模化工作。",
+        "signal_strength": 0.9,
+        "sources": [
+          {
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/orchestration/openai-unveils-workspace-agents-a-successor-to-custom-gpts-for-enterprises-that-can-plug-directly-into-slack-salesforce-and-more"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt"
+          }
+        ],
+        "tags": [
+          "Agent 与新交互范式",
+          "头部公司战略动作",
+          "企业应用"
+        ],
+        "raw_item_indices": [
+          2,
+          26,
+          44,
+          45
+        ]
+      },
+      {
+        "title": "OpenAI Releases Open-Source On-Device Privacy Filter Model",
+        "signal_text": "据 VentureBeat 报道，OpenAI 发布了一款名为 Privacy Filter 的开源、本地优先的隐私基础设施模型。该模型旨在检测和编辑文本中的个人身份信息（PII），在数据到达云端服务器之前进行本地化处理，已集成至 Hugging Face Transformers v5.6.0。",
+        "signal_strength": 0.85,
+        "sources": [
+          {
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/data/openai-launches-privacy-filter-an-open-source-on-device-data-sanitization-model-that-removes-personal-information-from-enterprise-datasets"
+          },
+          {
+            "name": "GitHub (huggingface/transformers)",
+            "url": "https://github.com/huggingface/transformers/releases/tag/v5.6.0"
+          }
+        ],
+        "tags": [
+          "内容安全与治理",
+          "开源生态",
+          "技术突破"
+        ],
+        "raw_item_indices": [
+          30,
+          79,
+          109
+        ]
+      },
+      {
+        "title": "Stanford Research Finds 'AI Swarm Tax', Single Agents Often Outperform Multi-Agent Systems",
+        "signal_text": "据 VentureBeat 报道，斯坦福大学（Stanford University）的新研究发现，在同等计算预算条件下，单智能体系统在复杂推理任务上的表现与多智能体架构相当或更优。这表明企业构建复杂的多智能体系统可能支付了不必要的“计算税”。",
+        "signal_strength": 0.8,
+        "sources": [
+          {
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/orchestration/are-you-paying-an-ai-swarm-tax-why-single-agents-often-beat-complex-systems"
+          }
+        ],
+        "tags": [
+          "Agent 与新交互范式",
+          "技术突破",
+          "研究洞察"
+        ],
+        "raw_item_indices": [
+          19
+        ]
+      },
+      {
+        "title": "Google and AWS Split AI Agent Stack Between Control and Execution",
+        "signal_text": "据 VentureBeat 报道，随着企业将 AI 智能体投入生产，管理和编排复杂多智能体系统的需求凸显。Google 和 Amazon Web Services 正在从控制层和执行层对 AI 智能体技术栈进行划分，预示着企业级智能体管理方案的演进。",
+        "signal_strength": 0.8,
+        "sources": [
+          {
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/orchestration/google-and-aws-split-the-ai-agent-stack-between-control-and-execution"
+          }
+        ],
+        "tags": [
+          "Agent 与新交互范式",
+          "头部公司战略动作",
+          "企业应用"
+        ],
+        "raw_item_indices": [
+          16
+        ]
+      },
+      {
+        "title": "Google Releases CityRAG for Spatially-Grounded Long-Form Video Generation",
+        "signal_text": "Google 研究团队在 arXiv 上发布论文“CityRAG”。该系统利用地理注册数据作为上下文，生成长时间、物理基础一致的长视频序列，支持在真实世界地理环境中的复杂导航，保持了环境一致性。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "arXiv (Google)",
+            "url": "https://huggingface.co/papers/2604.19741"
+          }
+        ],
+        "tags": [
+          "内容创作与理解",
+          "多模态融合",
+          "技术突破"
+        ],
+        "raw_item_indices": [
+          96
+        ]
+      },
+      {
+        "title": "Alibaba Releases Tstars-Tryon 1.0 for Commercial Virtual Try-On",
+        "signal_text": "阿里巴巴（alibaba-inc）研究团队在 arXiv 上发布“Tstars-Tryon 1.0”。这是一个商业规模的虚拟试穿系统，通过集成系统设计和多阶段训练，实现了高成功率、照片级真实效果和实时性能。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "arXiv (Alibaba)",
+            "url": "https://huggingface.co/papers/2604.19748"
+          }
+        ],
+        "tags": [
+          "内容创作与理解",
+          "电商",
+          "多模态生成"
+        ],
+        "raw_item_indices": [
+          82
+        ]
+      },
+      {
+        "title": "X (Twitter) Launches Grok-Curated AI-Powered Custom Feeds",
+        "signal_text": "据 The Verge 和 TechCrunch 报道，X（原 Twitter）推出由 AI 聊天机器人 Grok 驱动的时间线定制功能。Premium 订阅用户可以将特定主题固定到首页标签，Grok 将据此策划用户看到的帖子，这标志着 AI 在内容推荐和个性化信息流中的深入应用。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/tech/917113/x-ai-grok-timeline-curation"
+          },
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/04/22/hands-on-with-xs-new-ai-powered-custom-feeds/"
+          }
+        ],
+        "tags": [
+          "搜索与推荐",
+          "内容创作与理解",
+          "新产品形态"
+        ],
+        "raw_item_indices": [
+          8,
+          20
+        ]
+      },
+      {
+        "title": "Wired Investigation Reveals AI Models' Effectiveness in Phishing and Social Engineering",
+        "signal_text": "据 Wired 杂志调查报道，测试者让 5 个 AI 模型尝试进行网络钓鱼诈骗，其中一些模型表现“好得吓人”。文章指出，AI 的社交技能可能与网络能力同样危险，这突显了 AI 在内容安全和虚假信息识别方面带来的新挑战。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "Wired",
+            "url": "https://www.wired.com/story/ai-model-phishing-attack-cybersecurity/"
+          }
+        ],
+        "tags": [
+          "内容安全与治理",
+          "行业风险与监管",
+          "AI安全"
+        ],
+        "raw_item_indices": [
+          31
+        ]
+      },
+      {
+        "title": "Tencent Releases PlayCoder Framework for LLM-Generated GUI Code Correction",
+        "signal_text": "腾讯（Tencent）研究团队在 arXiv 上发布论文“PlayCoder”。针对大语言模型生成逻辑正确的 GUI 应用的难题，该工作提出了 PlayEval 基准和 PlayCoder 框架，利用多智能体方法改进代码生成。",
+        "signal_strength": 0.7,
+        "sources": [
+          {
+            "name": "arXiv (Tencent)",
+            "url": "https://huggingface.co/papers/2604.19742"
+          }
+        ],
+        "tags": [
+          "Agent 与新交互范式",
+          "内容创作与理解",
+          "开源生态"
+        ],
+        "raw_item_indices": [
+          87
+        ]
+      },
+      {
+        "title": "Salesforce AI Research Addresses Calibration Issue in On-Policy Distillation",
+        "signal_text": "Salesforce AI Research 团队在 arXiv 上发布论文“The Illusion of Certainty”。该研究指出，由于训练和部署上下文之间的信息不匹配，On-policy 知识蒸馏存在校准错误问题，并提出了一种校准感知的蒸馏方法来解决。",
+        "signal_strength": 0.7,
+        "sources": [
+          {
+            "name": "arXiv (Salesforce AI Research)",
+            "url": "https://huggingface.co/papers/2604.16830"
+          }
+        ],
+        "tags": [
+          "技术突破",
+          "内容安全与治理"
+        ],
+        "raw_item_indices": [
+          91
+        ]
+      }
     ]
   },
   "archived_weeks": [
