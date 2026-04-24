@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-24T09:25:17.840065",
+  "scraped_at": "2026-04-24T14:14:29.197116",
   "date": "2026-04-24",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 97,
-  "account_count": 48,
+  "tweet_count": 128,
+  "account_count": 53,
   "tweets": [
     {
       "id": "2047371234069877157",
@@ -1132,6 +1132,365 @@
       "likes": 55,
       "retweets": 3,
       "views": 4449
+    },
+    {
+      "id": "2047549053039493547",
+      "username": "thsottiaux",
+      "text": "Have you tried GPT-5.5?",
+      "timestamp": "2026-04-24T05:31:50+00:00",
+      "url": "https://x.com/thsottiaux/status/2047549053039493547",
+      "images": [],
+      "likes": 61,
+      "retweets": 1,
+      "views": 5704
+    },
+    {
+      "id": "2047545899044213193",
+      "username": "EMostaque",
+      "text": "Congrats to @deepseek_ai team!\n\nDoing the numbers I would estimate:\n\nPro &lt; $14m for the final training run \nFlash &lt; $4m\n\nRatio of active params x total training tokens vs v3\n\nTotal compute costs (data prep, tuning, testing) ~10x that\n\nCost of taste: priceless https://t.co/F9EtFeiwY9",
+      "timestamp": "2026-04-24T05:19:18+00:00",
+      "url": "https://x.com/EMostaque/status/2047545899044213193",
+      "images": [
+        "https://pbs.twimg.com/media/HGpYJIpXwAAWx0z.jpg"
+      ],
+      "likes": 34,
+      "retweets": 4,
+      "views": 2361
+    },
+    {
+      "id": "2047544164632674660",
+      "username": "docmilanfar",
+      "text": "it's remarkable that the practice, or core architecture of diffusion models require no knowledge of stoch diff eqns\n\nit's rare when a bridge between the math and practical, scalable engineering gets abstracted away so quickly &amp; cleanly - in this case thanks to Tweedie's formula",
+      "timestamp": "2026-04-24T05:12:25+00:00",
+      "url": "https://x.com/docmilanfar/status/2047544164632674660",
+      "images": [],
+      "likes": 35,
+      "retweets": 0,
+      "views": 1562
+    },
+    {
+      "id": "2047540230694350958",
+      "username": "levie",
+      "text": "Sorry to anyone who thought AI would mean we’d work less (at least for now). AI makes it easy to explore more than you did before, and so you start doing far more as a result.\n\nI regularly have seemingly small things that end up quickly consuming 3 hours because the agent made it",
+      "timestamp": "2026-04-24T04:56:47+00:00",
+      "url": "https://x.com/levie/status/2047540230694350958",
+      "images": [],
+      "likes": 199,
+      "retweets": 19,
+      "views": 17420
+    },
+    {
+      "id": "2047539579519938605",
+      "username": "EMostaque",
+      "text": "Necessity is the mother of kv-cache optimisation",
+      "timestamp": "2026-04-24T04:54:11+00:00",
+      "url": "https://x.com/EMostaque/status/2047539579519938605",
+      "images": [],
+      "likes": 22,
+      "retweets": 0,
+      "views": 2337
+    },
+    {
+      "id": "2047535182669082746",
+      "username": "ollama",
+      "text": "Let's go DeepSeek v4!!! 🚗🚀",
+      "timestamp": "2026-04-24T04:36:43+00:00",
+      "url": "https://x.com/ollama/status/2047535182669082746",
+      "images": [],
+      "likes": 162,
+      "retweets": 6,
+      "views": 9206
+    },
+    {
+      "id": "2047535160187330573",
+      "username": "ClementDelangue",
+      "text": "Number 1 trending after 43 mins! https://t.co/GLpscQ9SHr",
+      "timestamp": "2026-04-24T04:36:38+00:00",
+      "url": "https://x.com/ClementDelangue/status/2047535160187330573",
+      "images": [
+        "https://pbs.twimg.com/media/HGpOYIVWgAAYdfK.jpg"
+      ],
+      "likes": 125,
+      "retweets": 15,
+      "views": 6239
+    },
+    {
+      "id": "2047527489422102568",
+      "username": "ollama",
+      "text": "🐳Ollama is working to have DeepSeek-V4-Pro and Flash available on Ollama's cloud.",
+      "timestamp": "2026-04-24T04:06:09+00:00",
+      "url": "https://x.com/ollama/status/2047527489422102568",
+      "images": [],
+      "likes": 780,
+      "retweets": 42,
+      "views": 35666
+    },
+    {
+      "id": "2047527060713664754",
+      "username": "emollick",
+      "text": "Here's DeepSeek v4 Pro. Added to the playable gallery as well. https://t.co/wpQ8kj9AAT",
+      "timestamp": "2026-04-24T04:04:27+00:00",
+      "url": "https://x.com/emollick/status/2047527060713664754",
+      "images": [],
+      "likes": 92,
+      "retweets": 10,
+      "views": 12449
+    },
+    {
+      "id": "2047523977548189868",
+      "username": "UnslothAI",
+      "text": "DeepSeek releases DeepSeek-V4. 🐋\n\n- DeepSeek-V4-Pro: 1.6T params\n- DeepSeek-V4-Flash: 284B params\n\nDeepSeek-V4-Pro rivals Claude-Opus-4.6-Max, GPT-5.4-xHigh and Gemini-3.1-Pro-High.\n\nThey support 1M context length, thinking and set new records for Codeforces. https://t.co/Xtf6SC9SVD",
+      "timestamp": "2026-04-24T03:52:12+00:00",
+      "url": "https://x.com/UnslothAI/status/2047523977548189868",
+      "images": [
+        "https://pbs.twimg.com/media/HGpEAoya8AAWLhu.jpg"
+      ],
+      "likes": 450,
+      "retweets": 49,
+      "views": 23187
+    },
+    {
+      "id": "2047519396738830453",
+      "username": "ClementDelangue",
+      "text": "500+ likes in 28 mins. On their way to be the fastest model ever to get to #1 trending on HF! https://t.co/kxmwUEnwyY https://t.co/lvkbh2gXGi",
+      "timestamp": "2026-04-24T03:33:59+00:00",
+      "url": "https://x.com/ClementDelangue/status/2047519396738830453",
+      "images": [
+        "https://pbs.twimg.com/media/HGpACBJWQAAFUQ2.jpg"
+      ],
+      "likes": 167,
+      "retweets": 7,
+      "views": 12490
+    },
+    {
+      "id": "2047519187287846937",
+      "username": "emollick",
+      "text": "I hope the upgrade to DeepSeek v4 will make the bot comments on here more bearable.",
+      "timestamp": "2026-04-24T03:33:09+00:00",
+      "url": "https://x.com/emollick/status/2047519187287846937",
+      "images": [],
+      "likes": 177,
+      "retweets": 7,
+      "views": 8353
+    },
+    {
+      "id": "2047518239668801743",
+      "username": "minchoi",
+      "text": "Sony's AI robot just beat professional table tennis players.\n\n9 cameras. Reads the ball's spin by tracking the logo.\n\nThey handicapped it on purpose.\n\nIt still won. 💀 https://t.co/JsBXOSP4Xn",
+      "timestamp": "2026-04-24T03:29:24+00:00",
+      "url": "https://x.com/minchoi/status/2047518239668801743",
+      "images": [],
+      "likes": 59,
+      "retweets": 10,
+      "views": 8760
+    },
+    {
+      "id": "2047516272062058890",
+      "username": "emollick",
+      "text": "And now a new DeepSeek model, and appears to be fully open weights. Good benchmarks, but with open models, that isn't always as meaningful. Should be live soon to actually try.",
+      "timestamp": "2026-04-24T03:21:34+00:00",
+      "url": "https://x.com/emollick/status/2047516272062058890",
+      "images": [],
+      "likes": 112,
+      "retweets": 0,
+      "views": 7932
+    },
+    {
+      "id": "2047513517499335101",
+      "username": "lm_zheng",
+      "text": "DeepSeek V4 is out. The SGLang OSS and @radixark teams acted so fast with comprehensive inference optimizations. They even made e2e RL work on Day0! 🚀",
+      "timestamp": "2026-04-24T03:10:38+00:00",
+      "url": "https://x.com/lm_zheng/status/2047513517499335101",
+      "images": [],
+      "likes": 79,
+      "retweets": 7,
+      "views": 5004
+    },
+    {
+      "id": "2047511075793314065",
+      "username": "_akhaliq",
+      "text": "DeepSeek-V4 just dropped on Hugging Face\n\nhttps://t.co/hoGoBnfIMw https://t.co/pHb8MM8QzE",
+      "timestamp": "2026-04-24T03:00:56+00:00",
+      "url": "https://x.com/_akhaliq/status/2047511075793314065",
+      "images": [
+        "https://pbs.twimg.com/media/HGo4axyWcAEI1DD.png"
+      ],
+      "likes": 176,
+      "retweets": 23,
+      "views": 13310
+    },
+    {
+      "id": "2047509973605962121",
+      "username": "natolambert",
+      "text": "Whale sighting!!! https://t.co/obNQYX2XON",
+      "timestamp": "2026-04-24T02:56:33+00:00",
+      "url": "https://x.com/natolambert/status/2047509973605962121",
+      "images": [
+        "https://pbs.twimg.com/media/HGo3dpdaEAEzKRA.jpg"
+      ],
+      "likes": 206,
+      "retweets": 6,
+      "views": 9123
+    },
+    {
+      "id": "2047509732642963714",
+      "username": "_akhaliq",
+      "text": "Seeing Fast and Slow\n\nLearning the Flow of Time in Videos\n\npaper: https://t.co/LrIsGh3NLI https://t.co/p8Hb1LjU95",
+      "timestamp": "2026-04-24T02:55:35+00:00",
+      "url": "https://x.com/_akhaliq/status/2047509732642963714",
+      "images": [],
+      "likes": 29,
+      "retweets": 7,
+      "views": 3661
+    },
+    {
+      "id": "2047507845961138451",
+      "username": "DeryaTR_",
+      "text": "I asked GPT-5.5 Pro to write a profound poem about the life of a T cell, as I always do with every new model. 5.5 Pro wrote this beautiful epic poem with almost no jargon, the first model to do so to date! Anyone with no immunology knowledge can understand all of it, and it truly",
+      "timestamp": "2026-04-24T02:48:05+00:00",
+      "url": "https://x.com/DeryaTR_/status/2047507845961138451",
+      "images": [],
+      "likes": 18,
+      "retweets": 5,
+      "views": 2180
+    },
+    {
+      "id": "2047496928137548219",
+      "username": "_akhaliq",
+      "text": "over 1.2 million AI apps on Hugging Face\n\nthe biggest AI app store probably https://t.co/dmZZGAr9lK",
+      "timestamp": "2026-04-24T02:04:42+00:00",
+      "url": "https://x.com/_akhaliq/status/2047496928137548219",
+      "images": [
+        "https://pbs.twimg.com/media/HGorN-VXYAAweQ8.png"
+      ],
+      "likes": 23,
+      "retweets": 2,
+      "views": 4548
+    },
+    {
+      "id": "2047489934450159680",
+      "username": "DeryaTR_",
+      "text": "GPT-5.5 is now SOTA on ARC-AGI-2! Of course, I'm not surprised at all! It's a big jump even from 5.4!",
+      "timestamp": "2026-04-24T01:36:55+00:00",
+      "url": "https://x.com/DeryaTR_/status/2047489934450159680",
+      "images": [],
+      "likes": 86,
+      "retweets": 2,
+      "views": 4769
+    },
+    {
+      "id": "2047489407146709199",
+      "username": "Miles_Brundage",
+      "text": "Seems like Claudes are still better at creating diagrams than GPTs which is not nec. what you'd expect.\n\n5.5-extra-high-in-Codex makes clear errors like \"have a text label spilling over off to the side of a box\" that Claude rarely makes",
+      "timestamp": "2026-04-24T01:34:49+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2047489407146709199",
+      "images": [],
+      "likes": 10,
+      "retweets": 0,
+      "views": 1299
+    },
+    {
+      "id": "2047489218998628780",
+      "username": "gdb",
+      "text": "auto-review now live in codex — using a guardian agent to evaluate the safety of proposed actions, reducing human approvals to only when they're really needed.",
+      "timestamp": "2026-04-24T01:34:04+00:00",
+      "url": "https://x.com/gdb/status/2047489218998628780",
+      "images": [],
+      "likes": 489,
+      "retweets": 27,
+      "views": 40068
+    },
+    {
+      "id": "2047488044337631522",
+      "username": "Miles_Brundage",
+      "text": "Claude Design seems to hang silently like this a lot https://t.co/b6ZJi1swQv",
+      "timestamp": "2026-04-24T01:29:24+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2047488044337631522",
+      "images": [
+        "https://pbs.twimg.com/media/HGojd7AaUAAgp6J.png"
+      ],
+      "likes": 3,
+      "retweets": 0,
+      "views": 866
+    },
+    {
+      "id": "2047395581614600485",
+      "username": "DeryaTR_",
+      "text": "GPT-5.5 is truly a new class of intelligence, operating at an almost sage-like level! It is one of those rare moments when I found myself genuinely awestruck, especially by GPT-5.5 Pro. \n\nThis may not be reflected well by benchmarks. You just have to experience it to feel this.😳",
+      "timestamp": "2026-04-23T19:22:00+00:00",
+      "url": "https://x.com/DeryaTR_/status/2047395581614600485",
+      "images": [],
+      "likes": 183,
+      "retweets": 12,
+      "views": 9891
+    },
+    {
+      "id": "2047346918888755307",
+      "username": "openclaw",
+      "text": "`openclaw plugins enable tokenjuice` lets you use tokenjuice to reduce the tokens used for tool calls.\n\nhttps://t.co/loHAscBMTq",
+      "timestamp": "2026-04-23T16:08:37+00:00",
+      "url": "https://x.com/openclaw/status/2047346918888755307",
+      "images": [],
+      "likes": 40,
+      "retweets": 4,
+      "views": 13054
+    },
+    {
+      "id": "2046959570694840388",
+      "username": "OfficialLoganK",
+      "text": "@Miles_Brundage Deep think != Deep Research, the latter uses flash and pro",
+      "timestamp": "2026-04-22T14:29:26+00:00",
+      "url": "https://x.com/OfficialLoganK/status/2046959570694840388",
+      "images": [],
+      "likes": 176,
+      "retweets": 1,
+      "views": 22059
+    },
+    {
+      "id": "2046956692198289738",
+      "username": "NielsRogge",
+      "text": "A 27B model beating a 397B one and MiniMax-M2.5 on SWE-Bench 🤯\n\nReal or benchmaxxed? https://t.co/Dm28MT7xOn",
+      "timestamp": "2026-04-22T14:18:00+00:00",
+      "url": "https://x.com/NielsRogge/status/2046956692198289738",
+      "images": [
+        "https://pbs.twimg.com/media/HGhAFnpXkAAoQ7_.jpg"
+      ],
+      "likes": 579,
+      "retweets": 25,
+      "views": 87495
+    },
+    {
+      "id": "2046785693662507176",
+      "username": "__tinygrad__",
+      "text": "@ClementDelangue lol now we see the real target audience for Mythos",
+      "timestamp": "2026-04-22T02:58:31+00:00",
+      "url": "https://x.com/__tinygrad__/status/2046785693662507176",
+      "images": [],
+      "likes": 83,
+      "retweets": 1,
+      "views": 2896
+    },
+    {
+      "id": "2046766960055378375",
+      "username": "Miles_Brundage",
+      "text": "Also, the US has a *massive* compute advantage, so much so that even if the Mythos weights were stolen, the damage would be less than one might naively think.\n\nBut let's just have defense in depth - more compute, used securely. Better that way",
+      "timestamp": "2026-04-22T01:44:05+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2046766960055378375",
+      "images": [],
+      "likes": 9,
+      "retweets": 1,
+      "views": 1059
+    },
+    {
+      "id": "2046654184867696676",
+      "username": "Miles_Brundage",
+      "text": "These results seem way off? Was GDM running them right?\n\nE.g. they report 45.1% for Opus 4.6 BrowseComp whereas Ant says it's 83.6%\n\nhttps://t.co/cKg2eiMis9",
+      "timestamp": "2026-04-21T18:15:57+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2046654184867696676",
+      "images": [],
+      "likes": 69,
+      "retweets": 0,
+      "views": 21485
     }
   ]
 }
