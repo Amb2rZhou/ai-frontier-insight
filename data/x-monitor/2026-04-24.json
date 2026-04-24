@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-24T14:14:29.197116",
+  "scraped_at": "2026-04-24T23:34:43.701857",
   "date": "2026-04-24",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 128,
-  "account_count": 53,
+  "tweet_count": 159,
+  "account_count": 62,
   "tweets": [
     {
       "id": "2047371234069877157",
@@ -1491,6 +1491,364 @@
       "likes": 69,
       "retweets": 0,
       "views": 21485
+    },
+    {
+      "id": "2047698104443343327",
+      "username": "ClementDelangue",
+      "text": "lol these headlines 😅 Btw the meta thing is that he's flying to work with the llamacpp team to unlock the next generation of local AI so he might fly back with an even cooler setup! https://t.co/dSZRALGTPa",
+      "timestamp": "2026-04-24T15:24:07+00:00",
+      "url": "https://x.com/ClementDelangue/status/2047698104443343327",
+      "images": [
+        "https://pbs.twimg.com/media/HGrif6kXUAAtZIA.jpg"
+      ],
+      "likes": 23,
+      "retweets": 6,
+      "views": 666
+    },
+    {
+      "id": "2047693241521152108",
+      "username": "GoogleDeepMind",
+      "text": "For @DemisHassabis, the path to AGI started in 1988 with an Amiga 500 and a game of Othello. 🕹️\n\nHis epiphany that software could act on our behalf remains at the heart of our work today as we apply the same logic to solving scientific grand challenges.\n\nRead more on @FastCompany",
+      "timestamp": "2026-04-24T15:04:47+00:00",
+      "url": "https://x.com/GoogleDeepMind/status/2047693241521152108",
+      "images": [],
+      "likes": 132,
+      "retweets": 13,
+      "views": 6948
+    },
+    {
+      "id": "2047692410017222892",
+      "username": "code",
+      "text": "The fastest way to copy/paste in VS Code ⚡\n\nPlus a multi-line editing trick every developer should know. 👇 https://t.co/uwEPVKZSbW",
+      "timestamp": "2026-04-24T15:01:29+00:00",
+      "url": "https://x.com/code/status/2047692410017222892",
+      "images": [],
+      "likes": 94,
+      "retweets": 11,
+      "views": 7078
+    },
+    {
+      "id": "2047690823555256773",
+      "username": "SchmidhuberAI",
+      "text": "Using only box-forwarding speed as the reward, our Stackelberg PPO automatically evolves robots with arms for pushing and legs for moving. The key idea is a novel game-theoretic view of structure–control co-design, yielding more effective optimization and dramatically better https://t.co/SzYyEpZRx3",
+      "timestamp": "2026-04-24T14:55:11+00:00",
+      "url": "https://x.com/SchmidhuberAI/status/2047690823555256773",
+      "images": [],
+      "likes": 50,
+      "retweets": 4,
+      "views": 3316
+    },
+    {
+      "id": "2047690329415901305",
+      "username": "_akhaliq",
+      "text": "WorldMark\n\nA Unified Benchmark Suite for Interactive Video World Models\n\npaper: https://t.co/41TkUsfIYC https://t.co/OxO7Wf8z4U",
+      "timestamp": "2026-04-24T14:53:13+00:00",
+      "url": "https://x.com/_akhaliq/status/2047690329415901305",
+      "images": [],
+      "likes": 2,
+      "retweets": 0,
+      "views": 1615
+    },
+    {
+      "id": "2047688409712373972",
+      "username": "DeryaTR_",
+      "text": "We’ve already achieved AGI takeoff &amp; advances are accelerating exponentially! \n\nSoon, the world will witness the most consequential intelligence explosion and transition since the rise of modern human cognition tens of thousands of years ago. The age of AI is that profound.",
+      "timestamp": "2026-04-24T14:45:35+00:00",
+      "url": "https://x.com/DeryaTR_/status/2047688409712373972",
+      "images": [],
+      "likes": 69,
+      "retweets": 7,
+      "views": 3980
+    },
+    {
+      "id": "2047687787235700755",
+      "username": "ClementDelangue",
+      "text": "And the more distributed and open-source AI will be, the more jobs and wealth it will create!",
+      "timestamp": "2026-04-24T14:43:07+00:00",
+      "url": "https://x.com/ClementDelangue/status/2047687787235700755",
+      "images": [],
+      "likes": 52,
+      "retweets": 7,
+      "views": 8086
+    },
+    {
+      "id": "2047684789021384801",
+      "username": "ClementDelangue",
+      "text": "I'm always baffled how most investors seem to obsess over top revenue growth numbers these days and seem to take that as a universal prediction of future success in AI. \n\nMaybe we're finally starting to get back to more sanity with more nuanced thinking about moats, quality and",
+      "timestamp": "2026-04-24T14:31:12+00:00",
+      "url": "https://x.com/ClementDelangue/status/2047684789021384801",
+      "images": [],
+      "likes": 25,
+      "retweets": 2,
+      "views": 5727
+    },
+    {
+      "id": "2047682855606624459",
+      "username": "OpenAINewsroom",
+      "text": "What changes are you starting to notice in Codex? How are the new features working for you?",
+      "timestamp": "2026-04-24T14:23:31+00:00",
+      "url": "https://x.com/OpenAINewsroom/status/2047682855606624459",
+      "images": [],
+      "likes": 385,
+      "retweets": 12,
+      "views": 27506
+    },
+    {
+      "id": "2047680681237471720",
+      "username": "_akhaliq",
+      "text": "LLaTiSA \n\nTowards Difficulty-Stratified Time Series Reasoning from Visual Perception to Semantics\n\npaper: https://t.co/ODOruVboIu https://t.co/ZM5G3vY3IK",
+      "timestamp": "2026-04-24T14:14:53+00:00",
+      "url": "https://x.com/_akhaliq/status/2047680681237471720",
+      "images": [],
+      "likes": 9,
+      "retweets": 0,
+      "views": 2583
+    },
+    {
+      "id": "2047676884004261905",
+      "username": "SebastienBubeck",
+      "text": "Ramsey numbers are one the most basic objects in combinatorics, a beautiful illustration of structure within chaos. They have been heavily studied for almost a century now, so it came as a real surprise to us when an internal version of GPT-5.5 proved a new elementary result https://t.co/TrO1Y6n5MP",
+      "timestamp": "2026-04-24T13:59:47+00:00",
+      "url": "https://x.com/SebastienBubeck/status/2047676884004261905",
+      "images": [
+        "https://pbs.twimg.com/media/HGrNLIgawAAYJAA.jpg"
+      ],
+      "likes": 130,
+      "retweets": 19,
+      "views": 9590
+    },
+    {
+      "id": "2047670970526175310",
+      "username": "OpenAINewsroom",
+      "text": "We’re introducing a Bio Bug Bounty for GPT‑5.5 and accepting applications\n\nIn our ongoing work to strengthen our safeguards for advanced AI capabilities in biology, we’re inviting researchers with experience in AI red teaming, security, or biosecurity to try to find a universal",
+      "timestamp": "2026-04-24T13:36:17+00:00",
+      "url": "https://x.com/OpenAINewsroom/status/2047670970526175310",
+      "images": [],
+      "likes": 933,
+      "retweets": 73,
+      "views": 52199
+    },
+    {
+      "id": "2047664153439989823",
+      "username": "ClementDelangue",
+      "text": "sorry everyone, we're working on being able to allow more concurrent workloads!",
+      "timestamp": "2026-04-24T13:09:12+00:00",
+      "url": "https://x.com/ClementDelangue/status/2047664153439989823",
+      "images": [],
+      "likes": 22,
+      "retweets": 0,
+      "views": 3484
+    },
+    {
+      "id": "2047659030110253166",
+      "username": "mervenoyann",
+      "text": "read this deep dive from Ben on DSv4 release today ⬇️",
+      "timestamp": "2026-04-24T12:48:51+00:00",
+      "url": "https://x.com/mervenoyann/status/2047659030110253166",
+      "images": [],
+      "likes": 9,
+      "retweets": 0,
+      "views": 2020
+    },
+    {
+      "id": "2047658103433248911",
+      "username": "mmbronstein",
+      "text": "Temporal graph ML — today at 10:30 in P3 802",
+      "timestamp": "2026-04-24T12:45:10+00:00",
+      "url": "https://x.com/mmbronstein/status/2047658103433248911",
+      "images": [],
+      "likes": 9,
+      "retweets": 1,
+      "views": 1342
+    },
+    {
+      "id": "2047657662003741000",
+      "username": "mmbronstein",
+      "text": "Come to see the most eclectic #ICLR2026 paper in P4 5110 at 10:30",
+      "timestamp": "2026-04-24T12:43:24+00:00",
+      "url": "https://x.com/mmbronstein/status/2047657662003741000",
+      "images": [],
+      "likes": 15,
+      "retweets": 2,
+      "views": 2491
+    },
+    {
+      "id": "2047656611993239736",
+      "username": "DeryaTR_",
+      "text": "DeepSeek-V4 is out! It looks amazing as an open-source model, almost as good as opus 4.6/GPT-5.4 on coding &amp; other benchmarks. Also, deep respect to the DeepSeek team for making these models open-source &amp; publishing the methods! It makes the world a better place in the age of AI!",
+      "timestamp": "2026-04-24T12:39:14+00:00",
+      "url": "https://x.com/DeryaTR_/status/2047656611993239736",
+      "images": [],
+      "likes": 119,
+      "retweets": 10,
+      "views": 5388
+    },
+    {
+      "id": "2047647617681957207",
+      "username": "AIatMeta",
+      "text": "Today we’re announcing an agreement with Amazon Web Services to bring tens of millions of AWS Graviton cores to our compute portfolio.\n\nThis partnership marks an expansion of our diversified AI infrastructure and will help scale systems behind Meta AI and agentic experiences that https://t.co/C9Or3GOY6m",
+      "timestamp": "2026-04-24T12:03:30+00:00",
+      "url": "https://x.com/AIatMeta/status/2047647617681957207",
+      "images": [
+        "https://pbs.twimg.com/media/HGq0jZObIAA580g.jpg"
+      ],
+      "likes": 633,
+      "retweets": 50,
+      "views": 30607
+    },
+    {
+      "id": "2047647522173104145",
+      "username": "julien_c",
+      "text": "This is where we are right now. And i’m not gonna lie it feels pretty magical 🧚‍♀️\n\nQwen3.6 27B running inside of Pi coding agent via Llama.cpp on the MacBook Pro\n\nFor non-trivial tasks on the @huggingface  codebases, this feels very, very close to hitting the latest Opus in Claude https://t.co/lsIxLoUneU",
+      "timestamp": "2026-04-24T12:03:07+00:00",
+      "url": "https://x.com/julien_c/status/2047647522173104145",
+      "images": [
+        "https://pbs.twimg.com/media/HGq0jZlXUAARx6P.jpg"
+      ],
+      "likes": 1488,
+      "retweets": 130,
+      "views": 94779
+    },
+    {
+      "id": "2047623214583492797",
+      "username": "gneubig",
+      "text": "In this work, we examined the question: \"what makes a good clarifying question?\" in the context of software engineering.\n\nWe trained a model that was specifically tasked with asking clarifying questions, allowing for improved results with fewer questions.",
+      "timestamp": "2026-04-24T10:26:32+00:00",
+      "url": "https://x.com/gneubig/status/2047623214583492797",
+      "images": [],
+      "likes": 17,
+      "retweets": 3,
+      "views": 2465
+    },
+    {
+      "id": "2047620415552475261",
+      "username": "DeryaTR_",
+      "text": "Wake up at 6 am\nGet coffee\nGive GPT-5.5 Pro a hard prompt\nAnalyze 5 million biodata\nStart Codex GPT-5.5\nCheck on the bio software build\nStart a new codex session\nMake cool images with GPT Image 2.0\nNew session with Codex GPT-5.5 \nVibe-code an amazing bio website\nDrink more coffee",
+      "timestamp": "2026-04-24T10:15:24+00:00",
+      "url": "https://x.com/DeryaTR_/status/2047620415552475261",
+      "images": [],
+      "likes": 226,
+      "retweets": 5,
+      "views": 6600
+    },
+    {
+      "id": "2047598142485393578",
+      "username": "giffmana",
+      "text": "Pretty goated of my FAIR colleagues to manage releasing a human- centric model while at BigCo (anything centered around humans is extra difficult at BigCos).\n\nThe license is annoyingly custom one, but from my reading it's \"you can do anything as long as it's legal\" (imo pointless",
+      "timestamp": "2026-04-24T08:46:54+00:00",
+      "url": "https://x.com/giffmana/status/2047598142485393578",
+      "images": [],
+      "likes": 79,
+      "retweets": 8,
+      "views": 10044
+    },
+    {
+      "id": "2047591029381972301",
+      "username": "giffmana",
+      "text": "This detail is the most \"feel the agi\" thing of all: https://t.co/jLyEO9zQhg",
+      "timestamp": "2026-04-24T08:18:38+00:00",
+      "url": "https://x.com/giffmana/status/2047591029381972301",
+      "images": [
+        "https://pbs.twimg.com/media/HGqBMHhXQAEww5A.jpg"
+      ],
+      "likes": 336,
+      "retweets": 18,
+      "views": 26284
+    },
+    {
+      "id": "2047584068846457188",
+      "username": "julien_c",
+      "text": "It’s going to be a few very interesting weeks for open versus closed AI",
+      "timestamp": "2026-04-24T07:50:58+00:00",
+      "url": "https://x.com/julien_c/status/2047584068846457188",
+      "images": [],
+      "likes": 149,
+      "retweets": 8,
+      "views": 6168
+    },
+    {
+      "id": "2047574917323891087",
+      "username": "Austen",
+      "text": "This is like calling the internet competition a wrap in 1995.\n\nWe haven’t even begun.",
+      "timestamp": "2026-04-24T07:14:37+00:00",
+      "url": "https://x.com/Austen/status/2047574917323891087",
+      "images": [],
+      "likes": 198,
+      "retweets": 5,
+      "views": 11245
+    },
+    {
+      "id": "2047572895832915977",
+      "username": "huggingface",
+      "text": "🐳 is back!",
+      "timestamp": "2026-04-24T07:06:35+00:00",
+      "url": "https://x.com/huggingface/status/2047572895832915977",
+      "images": [],
+      "likes": 1151,
+      "retweets": 59,
+      "views": 40306
+    },
+    {
+      "id": "2047568003093471283",
+      "username": "mervenoyann",
+      "text": "DSv4 genuinely shines in 1M context window and peak efficiency to run many agents/users 😍\n\nshortly coming to transformers and we're making sure you get all the peak efficiency 🔥 @art_zucker https://t.co/LNJVPaFd3N",
+      "timestamp": "2026-04-24T06:47:08+00:00",
+      "url": "https://x.com/mervenoyann/status/2047568003093471283",
+      "images": [
+        "https://pbs.twimg.com/media/HGpsPo1WIAASdiP.jpg"
+      ],
+      "likes": 48,
+      "retweets": 5,
+      "views": 4090
+    },
+    {
+      "id": "2047561751538143281",
+      "username": "tydsh",
+      "text": "My solo paper is accepted in ICLR'26 in Brazil. It discovers the training dynamics of grokking behaviors (phase transition memorization -&gt; generalization) in basic settings, and derives provable scaling laws that enables such dynamics to happen.  \n\nUnfortunately I won't be able",
+      "timestamp": "2026-04-24T06:22:18+00:00",
+      "url": "https://x.com/tydsh/status/2047561751538143281",
+      "images": [],
+      "likes": 203,
+      "retweets": 11,
+      "views": 24503
+    },
+    {
+      "id": "2047529333506404423",
+      "username": "goodside",
+      "text": "The path to superintelligence is littered with abandoned bicycles for the mind.",
+      "timestamp": "2026-04-24T04:13:29+00:00",
+      "url": "https://x.com/goodside/status/2047529333506404423",
+      "images": [],
+      "likes": 43,
+      "retweets": 3,
+      "views": 3035
+    },
+    {
+      "id": "2047523193481547929",
+      "username": "emollick",
+      "text": "My first two TiKZ Sparks unicorns from DeepSeek v4. \n\n(Expert mode, from the DeepSeek site, which is supposed to be v4 Pro according to the release) https://t.co/gOwnG0D5cX",
+      "timestamp": "2026-04-24T03:49:05+00:00",
+      "url": "https://x.com/emollick/status/2047523193481547929",
+      "images": [
+        "https://pbs.twimg.com/media/HGpDTQRXIAA_7jG.png",
+        "https://pbs.twimg.com/media/HGpDUt9W8AAzkoY.png"
+      ],
+      "likes": 155,
+      "retweets": 4,
+      "views": 23713
+    },
+    {
+      "id": "2047264441411018823",
+      "username": "RisingSayak",
+      "text": "If you're in #ICLR2026 and are interested in chatting about intriguing properties of diffusion models, come check out our poster!\n\nP3-1710 (3:15 PM onwards). https://t.co/0dQveIK83R",
+      "timestamp": "2026-04-23T10:40:53+00:00",
+      "url": "https://x.com/RisingSayak/status/2047264441411018823",
+      "images": [
+        "https://pbs.twimg.com/media/HGlXyWAWcAA7mNZ.jpg"
+      ],
+      "likes": 60,
+      "retweets": 5,
+      "views": 8318
     }
   ]
 }
