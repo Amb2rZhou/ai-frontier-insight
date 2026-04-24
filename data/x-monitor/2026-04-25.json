@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-25T03:39:13.345462",
+  "scraped_at": "2026-04-25T06:13:36.391203",
   "date": "2026-04-25",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 32,
-  "account_count": 22,
+  "tweet_count": 46,
+  "account_count": 30,
   "tweets": [
     {
       "id": "2047759366875468082",
@@ -381,6 +381,165 @@
       "likes": 230,
       "retweets": 11,
       "views": 16744
+    },
+    {
+      "id": "2047798440587829296",
+      "username": "RisingSayak",
+      "text": "Had a gala time presenting our work on NoiseRefine. \n\nI guess being occupied with discussions for the entirety of the session tells a lot about that!\n\nThanks to the attendees for checking out the work and asking difficult questions 🤗\n\nWork 👉 https://t.co/11waRFjiPa https://t.co/MH5lpohLFx",
+      "timestamp": "2026-04-24T22:02:49+00:00",
+      "url": "https://x.com/RisingSayak/status/2047798440587829296",
+      "images": [
+        "https://pbs.twimg.com/media/HGs9bDPaQAAQiaL.jpg"
+      ],
+      "likes": 1,
+      "retweets": 0,
+      "views": 64
+    },
+    {
+      "id": "2047797210427859450",
+      "username": "steipete",
+      "text": "🛰️ discrawl 0.6.0 is out!\n\nBiggest new feature is that it can now *read* Discord DMs without any custom login tricks that might get you blocked. No writing since it's not nice to send humans slop. https://t.co/nxGZSlAYl0",
+      "timestamp": "2026-04-24T21:57:55+00:00",
+      "url": "https://x.com/steipete/status/2047797210427859450",
+      "images": [],
+      "likes": 39,
+      "retweets": 3,
+      "views": 3479
+    },
+    {
+      "id": "2047792328606097422",
+      "username": "omarsar0",
+      "text": "A nice paper worth checking out.\n\n(bookmark it)\n\nFor a long time, we have had machines that work astonishingly well before we had a real theory of why.\n\nThis paper argues that the scattered pieces are becoming something like a mechanics of learning, with solvable toy worlds,",
+      "timestamp": "2026-04-24T21:38:31+00:00",
+      "url": "https://x.com/omarsar0/status/2047792328606097422",
+      "images": [],
+      "likes": 10,
+      "retweets": 1,
+      "views": 1667
+    },
+    {
+      "id": "2047790185002217760",
+      "username": "NVIDIAAI",
+      "text": "Happy Friday! \n\nWe just put DeepSeek-V4-Pro up on https://t.co/es07MrTxSs. It’s the world’s largest open source model at 1.6T parameters, and you can run it for free running on NVIDIA Blackwell GPUs.\n\nTry the NVIDIA NIM API → https://t.co/zeWX4Y7Ipd https://t.co/lNFsziIts4",
+      "timestamp": "2026-04-24T21:30:00+00:00",
+      "url": "https://x.com/NVIDIAAI/status/2047790185002217760",
+      "images": [],
+      "likes": 58,
+      "retweets": 8,
+      "views": 2751
+    },
+    {
+      "id": "2047790035316158647",
+      "username": "Azure",
+      "text": "Agentic AI is changing how R&amp;D teams move from hypothesis to validated outcomes.\n\nMicrosoft Discovery brings together agentic orchestration, advanced reasoning, knowledge foundations, and high‑performance computing to modernize scientific discovery across biology, materials",
+      "timestamp": "2026-04-24T21:29:25+00:00",
+      "url": "https://x.com/Azure/status/2047790035316158647",
+      "images": [],
+      "likes": 14,
+      "retweets": 5,
+      "views": 1121
+    },
+    {
+      "id": "2047788775468908840",
+      "username": "AravSrinivas",
+      "text": "You would consume less computer credits (and be able to run more tasks as a result) if you switched to GPT-5.5 as your default orchestrator. This was the number one complaint about Computer (being credits/token hungry). GPT 5.5 is more token-efficient in subagent orchestration.",
+      "timestamp": "2026-04-24T21:24:24+00:00",
+      "url": "https://x.com/AravSrinivas/status/2047788775468908840",
+      "images": [],
+      "likes": 188,
+      "retweets": 8,
+      "views": 6459
+    },
+    {
+      "id": "2047787124846653895",
+      "username": "sama",
+      "text": "GPT-5.5 and GPT-5.5 Pro are now available in the API!",
+      "timestamp": "2026-04-24T21:17:51+00:00",
+      "url": "https://x.com/sama/status/2047787124846653895",
+      "images": [],
+      "likes": 2551,
+      "retweets": 126,
+      "views": 84815
+    },
+    {
+      "id": "2047779861729800529",
+      "username": "code",
+      "text": "@openaidevs GPT-5.5 is now available in GitHub Copilot! Give it a try in VS Code and let us know what you think!",
+      "timestamp": "2026-04-24T20:48:59+00:00",
+      "url": "https://x.com/code/status/2047779861729800529",
+      "images": [],
+      "likes": 40,
+      "retweets": 4,
+      "views": 3344
+    },
+    {
+      "id": "2047772632150675593",
+      "username": "OpenAIDevs",
+      "text": "At @perplexity_ai, GPT-5.5 in Codex helped build an internal tool in under an hour.\n\nIn Perplexity Computer workflows, GPT-5.5 used 56% fewer tokens on the same complex tasks, creating faster feedback loops for users. https://t.co/iEuZ9ttsRo",
+      "timestamp": "2026-04-24T20:20:15+00:00",
+      "url": "https://x.com/OpenAIDevs/status/2047772632150675593",
+      "images": [],
+      "likes": 259,
+      "retweets": 12,
+      "views": 18947
+    },
+    {
+      "id": "2047768736392777908",
+      "username": "OpenAINewsroom",
+      "text": "GPT-5.5 is delivering broad, noticeable gains. It's more capable, demonstrates greater endurance, and, importantly, is more efficient.",
+      "timestamp": "2026-04-24T20:04:47+00:00",
+      "url": "https://x.com/OpenAINewsroom/status/2047768736392777908",
+      "images": [],
+      "likes": 503,
+      "retweets": 21,
+      "views": 22641
+    },
+    {
+      "id": "2047768166126809512",
+      "username": "omarsar0",
+      "text": "Really impressed by how smooth switching most of my coding tasks to Codex (GPT-5.5) from Claude Code (Opus 4.7) has been.\n\nI thought it was going to be more difficult and that I would be \"fighting\" with the model a lot. \n\nIf there was ever a good time to try Codex, it would be",
+      "timestamp": "2026-04-24T20:02:31+00:00",
+      "url": "https://x.com/omarsar0/status/2047768166126809512",
+      "images": [],
+      "likes": 44,
+      "retweets": 4,
+      "views": 4036
+    },
+    {
+      "id": "2047483027719348520",
+      "username": "hardmaru",
+      "text": "We’ve been using Sakana Fugu internally for our own research and coding. Instead of relying on a single model, it dynamically orchestrates the best combination of open and closed models for any task. The future of AI is collective intelligence.\n\nExcited to open the beta release:",
+      "timestamp": "2026-04-24T01:09:28+00:00",
+      "url": "https://x.com/hardmaru/status/2047483027719348520",
+      "images": [],
+      "likes": 108,
+      "retweets": 11,
+      "views": 22563
+    },
+    {
+      "id": "2047481852550959234",
+      "username": "nickcammarata",
+      "text": "2015: worried AGI might escape an airgapped server if we didn't get the physics exactly right\n\n2026: forgot claude had a non-dangerously-skip-permissions mode bc it's had complete control for 8mo now, lost 15m bc i accidentally slightly restricted it",
+      "timestamp": "2026-04-24T01:04:48+00:00",
+      "url": "https://x.com/nickcammarata/status/2047481852550959234",
+      "images": [],
+      "likes": 860,
+      "retweets": 19,
+      "views": 29783
+    },
+    {
+      "id": "2047057866880668049",
+      "username": "googledevs",
+      "text": "Your dev workflow just got a home base. 🏡\n\nThe new Google Developer Program Builders Hub is officially live!\n\n✅ Connect your projects in one spot\n✅ Get personalized tool recommendations\n✅ Access curated learning paths\n\nSettle in here: https://t.co/eRO8QpsRyG https://t.co/l4gqL0RYkk",
+      "timestamp": "2026-04-22T21:00:02+00:00",
+      "url": "https://x.com/googledevs/status/2047057866880668049",
+      "images": [
+        "https://pbs.twimg.com/media/HGicRsMXgAA3-c7.jpg",
+        "https://pbs.twimg.com/media/HGicR9wWwAEDuF8.jpg"
+      ],
+      "likes": 211,
+      "retweets": 30,
+      "views": 14446
     }
   ]
 }
