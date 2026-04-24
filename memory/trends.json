@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-23T09:35:22.631115+08:00",
+  "last_updated": "2026-04-24T09:33:58.526565+08:00",
   "trends": [
     {
       "id": "ai_safety_pivot_and_accelerated_agi_time",
@@ -17,7 +17,6 @@
       "trajectory": "accelerating",
       "signal_count": 85,
       "weekly_counts": [
-        1,
         2,
         1,
         1,
@@ -28,7 +27,8 @@
         1,
         1,
         2,
-        2
+        2,
+        0
       ],
       "key_events": [
         {
@@ -110,7 +110,6 @@
       "trajectory": "accelerating",
       "signal_count": 22,
       "weekly_counts": [
-        1,
         0,
         0,
         1,
@@ -121,7 +120,8 @@
         1,
         1,
         1,
-        1
+        1,
+        0
       ],
       "key_events": [
         {
@@ -223,7 +223,6 @@
       "trajectory": "accelerating",
       "signal_count": 58,
       "weekly_counts": [
-        1,
         3,
         1,
         2,
@@ -234,7 +233,8 @@
         1,
         4,
         1,
-        1
+        1,
+        0
       ],
       "key_events": [
         {
@@ -332,7 +332,6 @@
       "trajectory": "accelerating",
       "signal_count": 17,
       "weekly_counts": [
-        1,
         0,
         1,
         1,
@@ -343,7 +342,8 @@
         0,
         1,
         0,
-        2
+        2,
+        0
       ],
       "key_events": [
         {
@@ -429,9 +429,8 @@
         "Anthropic"
       ],
       "trajectory": "accelerating",
-      "signal_count": 132,
+      "signal_count": 134,
       "weekly_counts": [
-        1,
         3,
         2,
         2,
@@ -442,7 +441,8 @@
         2,
         1,
         2,
-        4
+        4,
+        2
       ],
       "key_events": [
         {
@@ -548,6 +548,10 @@
         {
           "date": "2026-04-23",
           "event": "OpenAI launches Workspace Agents for enterprise automation; Google and AWS split AI agent stack between control and execution"
+        },
+        {
+          "date": "2026-04-24",
+          "event": "Anthropic Claude Expands to Personal App Ecosystem Connectors; Anthropic Confirms Claude Performance Degradation Due to Harness Changes"
         }
       ],
       "created": "2026-02-25"
@@ -566,10 +570,9 @@
         "Foundation Models"
       ],
       "trajectory": "accelerating",
-      "signal_count": 100,
+      "signal_count": 102,
       "weekly_counts": [
         2,
-        2,
         1,
         2,
         1,
@@ -579,7 +582,8 @@
         1,
         2,
         2,
-        1
+        1,
+        2
       ],
       "key_events": [
         {
@@ -677,6 +681,10 @@
         {
           "date": "2026-04-23",
           "event": "Salesforce AI research addresses calibration issue in on-policy distillation"
+        },
+        {
+          "date": "2026-04-24",
+          "event": "Chelsea Finn Lab: GiantsBench Benchmark for Scientific Discovery by LLMs; Meta AI Research: Scaling Test-Time Compute for Agentic Coding"
         }
       ],
       "created": "2026-02-25"
@@ -693,7 +701,6 @@
       "trajectory": "accelerating",
       "signal_count": 34,
       "weekly_counts": [
-        1,
         2,
         0,
         1,
@@ -704,7 +711,8 @@
         1,
         1,
         1,
-        1
+        1,
+        0
       ],
       "key_events": [
         {
@@ -892,13 +900,14 @@
         "Search",
         "AI Agents"
       ],
-      "trajectory": "accelerating",
+      "trajectory": "fading",
       "signal_count": 5,
       "weekly_counts": [
         1,
         1,
         2,
         1,
+        0,
         0
       ],
       "key_events": [
@@ -939,9 +948,8 @@
         "Computer Use"
       ],
       "trajectory": "accelerating",
-      "signal_count": 168,
+      "signal_count": 170,
       "weekly_counts": [
-        4,
         3,
         2,
         3,
@@ -952,7 +960,8 @@
         1,
         2,
         2,
-        3
+        3,
+        2
       ],
       "key_events": [
         {
@@ -1062,6 +1071,10 @@
         {
           "date": "2026-04-23",
           "event": "Stanford research finds 'AI swarm tax' - single agents often outperform multi-agent systems; Tencent releases PlayCoder framework for LLM-generated GUI code correction"
+        },
+        {
+          "date": "2026-04-24",
+          "event": "Meta AI Research: Scaling Test-Time Compute for Agentic Coding; Hugging Face 'ml-intern' Hits 5B Tokens in 48 Hours"
         }
       ],
       "created": "2026-02-25"
@@ -1075,8 +1088,8 @@
         "Startups",
         "Europe"
       ],
-      "trajectory": "stable",
-      "signal_count": 9,
+      "trajectory": "accelerating",
+      "signal_count": 10,
       "weekly_counts": [
         1,
         2,
@@ -1088,7 +1101,8 @@
         1,
         0,
         0,
-        0
+        0,
+        1
       ],
       "key_events": [
         {
@@ -1130,6 +1144,10 @@
         {
           "date": "2026-03-11",
           "event": "Unsloth AI Releases Comprehensive Repo with 250+ LLM Training Notebooks"
+        },
+        {
+          "date": "2026-04-24",
+          "event": "Unsloth Achieves 2-bit Qwen3.6-27B GGUF with Agentic QA Capability on 12GB RAM"
         }
       ],
       "created": "2026-02-25"
@@ -1148,9 +1166,8 @@
         "AI Infrastructure"
       ],
       "trajectory": "accelerating",
-      "signal_count": 56,
+      "signal_count": 58,
       "weekly_counts": [
-        2,
         1,
         1,
         1,
@@ -1161,7 +1178,8 @@
         1,
         1,
         1,
-        1
+        1,
+        2
       ],
       "key_events": [
         {
@@ -1231,6 +1249,10 @@
         {
           "date": "2026-04-21",
           "event": "Anthropic Secures $5B from Amazon with $100B AWS Spending Commitment"
+        },
+        {
+          "date": "2026-04-24",
+          "event": "Jeff Dean Highlights Decoupled DiLoCo for Fault-Tolerant Large-Scale Training; vLLM v0.20.0 Released with CUDA 13.0 Default"
         }
       ],
       "created": "2026-02-25"
@@ -1285,7 +1307,7 @@
         "Business Models",
         "OpenAI"
       ],
-      "trajectory": "stable",
+      "trajectory": "fading",
       "signal_count": 4,
       "weekly_counts": [
         0,
@@ -1293,9 +1315,9 @@
         0,
         0,
         0,
+        1,
+        1,
         0,
-        1,
-        1,
         0,
         0,
         0,
@@ -1334,13 +1356,14 @@
         "Emerging Risk",
         "Criminal Activity"
       ],
-      "trajectory": "accelerating",
+      "trajectory": "fading",
       "signal_count": 3,
       "weekly_counts": [
         1,
         1,
         0,
         1,
+        0,
         0
       ],
       "key_events": [
@@ -1375,7 +1398,6 @@
       "trajectory": "accelerating",
       "signal_count": 52,
       "weekly_counts": [
-        0,
         1,
         1,
         1,
@@ -1386,7 +1408,8 @@
         0,
         1,
         1,
-        2
+        2,
+        0
       ],
       "key_events": [
         {
@@ -1577,12 +1600,11 @@
         "Software Engineering",
         "Training"
       ],
-      "trajectory": "stable",
+      "trajectory": "fading",
       "signal_count": 6,
       "weekly_counts": [
         0,
         0,
-        0,
         1,
         1,
         1,
@@ -1591,7 +1613,8 @@
         0,
         0,
         0,
-        1
+        1,
+        0
       ],
       "key_events": [
         {
@@ -1643,9 +1666,8 @@
         "AI Adoption"
       ],
       "trajectory": "accelerating",
-      "signal_count": 38,
+      "signal_count": 40,
       "weekly_counts": [
-        1,
         1,
         1,
         2,
@@ -1656,7 +1678,8 @@
         2,
         1,
         4,
-        1
+        1,
+        2
       ],
       "key_events": [
         {
@@ -1714,6 +1737,10 @@
         {
           "date": "2026-04-21",
           "event": "Alibaba Releases Qwen3.6-Max-Preview with Enhanced Agentic Coding; Moonshot AI Releases Kimi K2.6 Model on Hugging Face; Tencent and OpenClaw Collaborate on Agent Harness Performance"
+        },
+        {
+          "date": "2026-04-24",
+          "event": "Perplexity AI Integrates Moonshot's Kimi K2.6 Open-Weight Model for Pro Users; Unsloth Achieves 2-bit Qwen3.6-27B GGUF"
         }
       ],
       "created": "2026-02-25"
@@ -1728,9 +1755,8 @@
         "Startup Funding"
       ],
       "trajectory": "accelerating",
-      "signal_count": 70,
+      "signal_count": 71,
       "weekly_counts": [
-        1,
         1,
         1,
         2,
@@ -1741,7 +1767,8 @@
         2,
         1,
         1,
-        3
+        3,
+        1
       ],
       "key_events": [
         {
@@ -1947,6 +1974,10 @@
         {
           "date": "2026-04-23",
           "event": "Google releases CityRAG for spatially-grounded long-form video generation; Alibaba releases Tstars-Tryon 1.0 for commercial virtual try-on"
+        },
+        {
+          "date": "2026-04-24",
+          "event": "LLaDA2.0-Uni: Unifying Multimodal Understanding and Generation with Diffusion LLM"
         }
       ],
       "created": "2026-02-26"
@@ -1960,11 +1991,12 @@
         "Labor Market",
         "Automation"
       ],
-      "trajectory": "accelerating",
+      "trajectory": "fading",
       "signal_count": 2,
       "weekly_counts": [
         1,
         1,
+        0,
         0
       ],
       "key_events": [
@@ -1987,7 +2019,7 @@
         "Market Leadership",
         "Corporate Strategy"
       ],
-      "trajectory": "accelerating",
+      "trajectory": "fading",
       "signal_count": 5,
       "weekly_counts": [
         1,
@@ -1995,7 +2027,8 @@
         1,
         0,
         1,
-        1
+        1,
+        0
       ],
       "key_events": [
         {
