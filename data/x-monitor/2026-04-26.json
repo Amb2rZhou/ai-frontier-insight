@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-26T02:43:42.372013",
+  "scraped_at": "2026-04-26T05:49:07.237156",
   "date": "2026-04-26",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 28,
-  "account_count": 20,
+  "tweet_count": 39,
+  "account_count": 25,
   "tweets": [
     {
       "id": "2048099722527748467",
@@ -345,6 +345,129 @@
       "likes": 245,
       "retweets": 5,
       "views": 33244
+    },
+    {
+      "id": "2048148781376717152",
+      "username": "tydsh",
+      "text": "History repeats itself 😀 The concept \"learning mechanics\" is not a new thing but actually has been explored for a very long time. \n\nIt is human nature to think deeper than a blind belief of the scaling laws. \n\nI have been working on rigorously modeling training dynamics of deep",
+      "timestamp": "2026-04-25T21:14:56+00:00",
+      "url": "https://x.com/tydsh/status/2048148781376717152",
+      "images": [],
+      "likes": 8,
+      "retweets": 0,
+      "views": 667
+    },
+    {
+      "id": "2048142251042152732",
+      "username": "chelseabfinn",
+      "text": "I'm giving three workshop talks tomorrow (Sunday) at ICLR!\n\n- self-improvement w/o reward bottleneck, incl meta-harness\n(10:30 am, RSI workshop)\n\n- emergent physical generalization, incl π0.7\n(11:40 am, multimodal workshop)\n\n- RL for robustness\n(1:45 pm, CAO workshop)",
+      "timestamp": "2026-04-25T20:48:59+00:00",
+      "url": "https://x.com/chelseabfinn/status/2048142251042152732",
+      "images": [],
+      "likes": 41,
+      "retweets": 2,
+      "views": 1383
+    },
+    {
+      "id": "2048141685193101755",
+      "username": "svlevine",
+      "text": "I'll give a talk about lifelong learning tmrw (Sun), 9:30 am (Brazil time) in the lifelong agents workshop, about how we can get robot foundation models to improve with RL: https://t.co/f2AXMDAjkq\n\nThen at 11:30 am, I'll talk about how generative models can drive self-improvement",
+      "timestamp": "2026-04-25T20:46:45+00:00",
+      "url": "https://x.com/svlevine/status/2048141685193101755",
+      "images": [],
+      "likes": 62,
+      "retweets": 2,
+      "views": 2721
+    },
+    {
+      "id": "2048136872975651245",
+      "username": "EMostaque",
+      "text": "Bet this happens with Navier Stokes and it’s going to be something not even related to PDEs that solves it",
+      "timestamp": "2026-04-25T20:27:37+00:00",
+      "url": "https://x.com/EMostaque/status/2048136872975651245",
+      "images": [],
+      "likes": 22,
+      "retweets": 1,
+      "views": 5943
+    },
+    {
+      "id": "2048136452064612566",
+      "username": "omarsar0",
+      "text": "Great paper on improving proactive agents.",
+      "timestamp": "2026-04-25T20:25:57+00:00",
+      "url": "https://x.com/omarsar0/status/2048136452064612566",
+      "images": [],
+      "likes": 15,
+      "retweets": 4,
+      "views": 2831
+    },
+    {
+      "id": "2048131266998919558",
+      "username": "giffmana",
+      "text": "The death of prompting has been greatly exaggerated:",
+      "timestamp": "2026-04-25T20:05:21+00:00",
+      "url": "https://x.com/giffmana/status/2048131266998919558",
+      "images": [],
+      "likes": 67,
+      "retweets": 2,
+      "views": 6434
+    },
+    {
+      "id": "2048126759648862571",
+      "username": "emollick",
+      "text": "This is a useful image for thinking about the curve we are on and what likely comes next in an intuitively understandable way.",
+      "timestamp": "2026-04-25T19:47:26+00:00",
+      "url": "https://x.com/emollick/status/2048126759648862571",
+      "images": [],
+      "likes": 184,
+      "retweets": 10,
+      "views": 15623
+    },
+    {
+      "id": "2048120886834630756",
+      "username": "DeryaTR_",
+      "text": "Collectible AI card of the day, created with ChatGPT Images 2.0: Einstein. https://t.co/EZNNeWzTe3",
+      "timestamp": "2026-04-25T19:24:06+00:00",
+      "url": "https://x.com/DeryaTR_/status/2048120886834630756",
+      "images": [
+        "https://pbs.twimg.com/media/HGxixWnbAAAixK_.jpg"
+      ],
+      "likes": 40,
+      "retweets": 1,
+      "views": 2936
+    },
+    {
+      "id": "2048113850126360738",
+      "username": "egrefen",
+      "text": "Cool work by Andres. Excited to see people what sort of experiments and agent capabilities people build around this!",
+      "timestamp": "2026-04-25T18:56:08+00:00",
+      "url": "https://x.com/egrefen/status/2048113850126360738",
+      "images": [],
+      "likes": 3,
+      "retweets": 2,
+      "views": 1225
+    },
+    {
+      "id": "2048111852631310713",
+      "username": "thsottiaux",
+      "text": "It’s the little things that matter, what are some small papercuts you have noticed in Codex? We’ll fix as many as possible in the next week.",
+      "timestamp": "2026-04-25T18:48:12+00:00",
+      "url": "https://x.com/thsottiaux/status/2048111852631310713",
+      "images": [],
+      "likes": 1194,
+      "retweets": 29,
+      "views": 80629
+    },
+    {
+      "id": "2047869764614439226",
+      "username": "thsottiaux",
+      "text": "Unfortunately looking at the demos today, the next few weeks of Codex will be eventful and require many clicks of the update button",
+      "timestamp": "2026-04-25T02:46:14+00:00",
+      "url": "https://x.com/thsottiaux/status/2047869764614439226",
+      "images": [],
+      "likes": 3221,
+      "retweets": 83,
+      "views": 176294
     }
   ]
 }
