@@ -1,0 +1,350 @@
+{
+  "source": "x-monitor",
+  "scraped_at": "2026-04-26T02:43:42.372013",
+  "date": "2026-04-26",
+  "list_urls": [
+    "https://x.com/i/lists/2026486577304842549"
+  ],
+  "tweet_count": 28,
+  "account_count": 20,
+  "tweets": [
+    {
+      "id": "2048099722527748467",
+      "username": "NVIDIAAI",
+      "text": "📸 New tutorial just dropped\n\nWatch to learn how to fine-tune Llama 3.1 with JAX on NVIDIA GPUs – whether single GPUs or multi-GPU and multi-node configurations. 👇\n\n https://t.co/j7Gd4p8Xqt",
+      "timestamp": "2026-04-25T18:00:00+00:00",
+      "url": "https://x.com/NVIDIAAI/status/2048099722527748467",
+      "images": [],
+      "likes": 16,
+      "retweets": 2,
+      "views": 2049
+    },
+    {
+      "id": "2048099628323905627",
+      "username": "thsottiaux",
+      "text": "You can just codex things",
+      "timestamp": "2026-04-25T17:59:37+00:00",
+      "url": "https://x.com/thsottiaux/status/2048099628323905627",
+      "images": [],
+      "likes": 550,
+      "retweets": 16,
+      "views": 14589
+    },
+    {
+      "id": "2048098941326283002",
+      "username": "paraga",
+      "text": "This kid shipped a PR today https://t.co/gAzY4TGJZ4",
+      "timestamp": "2026-04-25T17:56:54+00:00",
+      "url": "https://x.com/paraga/status/2048098941326283002",
+      "images": [
+        "https://pbs.twimg.com/media/HGxPIhpaMAAlFV7.jpg"
+      ],
+      "likes": 41,
+      "retweets": 1,
+      "views": 2417
+    },
+    {
+      "id": "2048097710742376850",
+      "username": "minchoi",
+      "text": "This is literally my media stack now\n\nChatGPT Images 2.0 → visuals\nSeedance 2.0 → animation\nSuno 5.5 → music\n\n100% AI https://t.co/o6bUPZcHrs",
+      "timestamp": "2026-04-25T17:52:00+00:00",
+      "url": "https://x.com/minchoi/status/2048097710742376850",
+      "images": [],
+      "likes": 61,
+      "retweets": 4,
+      "views": 5786
+    },
+    {
+      "id": "2048093477901124017",
+      "username": "giffmana",
+      "text": "Good Guy Microsoft was just trying to  make the software ecosystem more robust by adding dropout to GitHub.",
+      "timestamp": "2026-04-25T17:35:11+00:00",
+      "url": "https://x.com/giffmana/status/2048093477901124017",
+      "images": [],
+      "likes": 80,
+      "retweets": 0,
+      "views": 3371
+    },
+    {
+      "id": "2048085375139422366",
+      "username": "mitchellh",
+      "text": "A couple months in and Vouch in Ghostty is working extremely well. Our PR quality is up and the rate of PRs has not gone down at all. Getting a vouch is easy, and the minimal barrier to entry easily filters most. Look at this 5min interaction that saved hours of future anguish. https://t.co/ofcnMEq2Nl",
+      "timestamp": "2026-04-25T17:02:59+00:00",
+      "url": "https://x.com/mitchellh/status/2048085375139422366",
+      "images": [
+        "https://pbs.twimg.com/media/HGxCNpebMAEv22X.jpg"
+      ],
+      "likes": 236,
+      "retweets": 4,
+      "views": 19751
+    },
+    {
+      "id": "2048083630531211540",
+      "username": "omarsar0",
+      "text": "NEW paper from Microsoft.\n\nThis is an important read. (bookmark it)\n\nThe work introduces DELEGATE-52, a benchmark simulating long document-editing workflows across 52 professional domains like coding, crystallography, and music notation.\n\nAcross 19 tested models, even frontier https://t.co/Blh5wZqHiv",
+      "timestamp": "2026-04-25T16:56:03+00:00",
+      "url": "https://x.com/omarsar0/status/2048083630531211540",
+      "images": [
+        "https://pbs.twimg.com/media/HGxBNTQbwAAd4GJ.jpg"
+      ],
+      "likes": 40,
+      "retweets": 6,
+      "views": 2284
+    },
+    {
+      "id": "2048073222785061270",
+      "username": "DeryaTR_",
+      "text": "Here is a crazy use case for GPT-5.5: I uploaded an image I had generated with GPT Images 2.0 and asked GPT-5.5 Pro to create an interactive, beautiful website from it. After 20 minutes, it created this incredibly beautiful site! Used Codex to publish it: https://t.co/SyPte8hKSb",
+      "timestamp": "2026-04-25T16:14:42+00:00",
+      "url": "https://x.com/DeryaTR_/status/2048073222785061270",
+      "images": [],
+      "likes": 58,
+      "retweets": 13,
+      "views": 5636
+    },
+    {
+      "id": "2048069526000934986",
+      "username": "NVIDIAAI",
+      "text": "Traditional inference wasn’t built for agentic coding.\n\nAgentic tools make hundreds of API calls per coding session, often with recomputed context, creating bottlenecks that drive up cost per token.\n\nNVIDIA Dynamo rebuilds the stack for agents with: \n→ KV-aware routing \n→ https://t.co/YiMYcYrNAT",
+      "timestamp": "2026-04-25T16:00:00+00:00",
+      "url": "https://x.com/NVIDIAAI/status/2048069526000934986",
+      "images": [
+        "https://pbs.twimg.com/media/HGtbMDgXYAIevIB.jpg"
+      ],
+      "likes": 301,
+      "retweets": 27,
+      "views": 17156
+    },
+    {
+      "id": "2048067919289147674",
+      "username": "gdb",
+      "text": "GPT Image 2 is great for learning",
+      "timestamp": "2026-04-25T15:53:37+00:00",
+      "url": "https://x.com/gdb/status/2048067919289147674",
+      "images": [],
+      "likes": 420,
+      "retweets": 35,
+      "views": 37025
+    },
+    {
+      "id": "2048065651940471138",
+      "username": "ClementDelangue",
+      "text": "We built HF for AI builders collaboration, fun to see it's increasingly becoming the place for agent collaboration!\n\nThis morning I'm sending my ml-intern to participate in the @OpenAI Parameter Golf challenge which goal is to train the best language model that fits in a 16MB https://t.co/xV5ZIuiJT6",
+      "timestamp": "2026-04-25T15:44:37+00:00",
+      "url": "https://x.com/ClementDelangue/status/2048065651940471138",
+      "images": [
+        "https://pbs.twimg.com/media/HGwv8PObkAA5Edl.png"
+      ],
+      "likes": 100,
+      "retweets": 19,
+      "views": 9504
+    },
+    {
+      "id": "2048064095404880055",
+      "username": "NielsRogge",
+      "text": "Check out the official Open Automatic Speech Recognition (ASR) leaderboard on the hub!\n\nThese list the best speech-to-text (STT) models\n\nhttps://t.co/73IsPzmj01 https://t.co/YQUJDBByob",
+      "timestamp": "2026-04-25T15:38:26+00:00",
+      "url": "https://x.com/NielsRogge/status/2048064095404880055",
+      "images": [
+        "https://pbs.twimg.com/media/HGwvb9ZbYAED8pa.jpg"
+      ],
+      "likes": 13,
+      "retweets": 3,
+      "views": 1090
+    },
+    {
+      "id": "2048062777357750316",
+      "username": "deepseek_ai",
+      "text": "🔥DeepSeek-V4-Pro API is 75% OFF until May 5th, 2026, 15:59 (UTC Time)! Don't miss out on this massive discount.\n\n🛠️Integration Updates:\n🔹Claude Code: Set model to deepseek-v4-pro[1m]  to unlock 1M context!\n🔹OpenCode: Update to v1.14.24+\n🔹OpenClaw: Update to v2026.4.24+\n\nCheck https://t.co/rvf11eSsoJ",
+      "timestamp": "2026-04-25T15:33:11+00:00",
+      "url": "https://x.com/deepseek_ai/status/2048062777357750316",
+      "images": [
+        "https://pbs.twimg.com/media/HGwt-7VasAAPM7i.jpg"
+      ],
+      "likes": 4205,
+      "retweets": 444,
+      "views": 175964
+    },
+    {
+      "id": "2048062261584077149",
+      "username": "sama",
+      "text": "5.5 is so earnest\n\n\"little engine that could\" energy",
+      "timestamp": "2026-04-25T15:31:08+00:00",
+      "url": "https://x.com/sama/status/2048062261584077149",
+      "images": [],
+      "likes": 2235,
+      "retweets": 67,
+      "views": 112564
+    },
+    {
+      "id": "2048057833124470941",
+      "username": "mmbronstein",
+      "text": "Morning posters in P3 — GNNs without message passing, Proteina-Complexa, few-step Riemannian flow maps https://t.co/deMLfg7l6m",
+      "timestamp": "2026-04-25T15:13:33+00:00",
+      "url": "https://x.com/mmbronstein/status/2048057833124470941",
+      "images": [
+        "https://pbs.twimg.com/media/HGwpuc6aEAEfWI0.jpg",
+        "https://pbs.twimg.com/media/HGwpuy9aQAA3gi8.jpg",
+        "https://pbs.twimg.com/media/HGwpvTCa0AAvnK6.jpg"
+      ],
+      "likes": 32,
+      "retweets": 3,
+      "views": 1549
+    },
+    {
+      "id": "2048057593034113134",
+      "username": "gdb",
+      "text": "what are you building with codex?",
+      "timestamp": "2026-04-25T15:12:35+00:00",
+      "url": "https://x.com/gdb/status/2048057593034113134",
+      "images": [],
+      "likes": 638,
+      "retweets": 7,
+      "views": 83690
+    },
+    {
+      "id": "2048056060460626292",
+      "username": "gdb",
+      "text": "GPT-5.5 raises the ceiling of ambition for what you can do with AI:",
+      "timestamp": "2026-04-25T15:06:30+00:00",
+      "url": "https://x.com/gdb/status/2048056060460626292",
+      "images": [],
+      "likes": 342,
+      "retweets": 8,
+      "views": 29985
+    },
+    {
+      "id": "2048049886906442123",
+      "username": "DeryaTR_",
+      "text": "Starting a new educational AI image series with ChatGPT Images 2.0 because it generates such clear and well-organized infographics and, importantly, makes almost no errors. For me, it has significantly surpassed Nano Banana for this purpose. Just a remarkable step change! https://t.co/JrPEyvy0aG",
+      "timestamp": "2026-04-25T14:41:58+00:00",
+      "url": "https://x.com/DeryaTR_/status/2048049886906442123",
+      "images": [
+        "https://pbs.twimg.com/media/HGwift_aAAA0gSB.jpg"
+      ],
+      "likes": 89,
+      "retweets": 13,
+      "views": 3919
+    },
+    {
+      "id": "2048032908577841661",
+      "username": "DeryaTR_",
+      "text": "These are amazing math and physics explainer images created by ChatGPT Images-2.0! I created a bunch for biology, which I will share soon.",
+      "timestamp": "2026-04-25T13:34:30+00:00",
+      "url": "https://x.com/DeryaTR_/status/2048032908577841661",
+      "images": [],
+      "likes": 54,
+      "retweets": 6,
+      "views": 5173
+    },
+    {
+      "id": "2048025050662551763",
+      "username": "RisingSayak",
+      "text": "If you're in #ICLR2026 and are interested in chatting about how to get image generation &amp; editing models to do charts, plots, and math equations. rendering, etc., come check out our poster!\n\nP4-3105 (3:15 PM onwards).\n\nCc: @zhuole1025 https://t.co/bb4biqsFZG",
+      "timestamp": "2026-04-25T13:03:17+00:00",
+      "url": "https://x.com/RisingSayak/status/2048025050662551763",
+      "images": [
+        "https://pbs.twimg.com/media/HGwLZRQbUAAB09P.jpg"
+      ],
+      "likes": 30,
+      "retweets": 2,
+      "views": 1257
+    },
+    {
+      "id": "2048023818778685841",
+      "username": "DeryaTR_",
+      "text": "AI models are one step away from the Singularity 😊",
+      "timestamp": "2026-04-25T12:58:23+00:00",
+      "url": "https://x.com/DeryaTR_/status/2048023818778685841",
+      "images": [],
+      "likes": 219,
+      "retweets": 14,
+      "views": 13985
+    },
+    {
+      "id": "2047992836176425470",
+      "username": "steipete",
+      "text": "closing what's fixed was the pre-clean.\nintent-based clustering is the second strike.",
+      "timestamp": "2026-04-25T10:55:16+00:00",
+      "url": "https://x.com/steipete/status/2047992836176425470",
+      "images": [],
+      "likes": 116,
+      "retweets": 6,
+      "views": 27914
+    },
+    {
+      "id": "2047980768547246475",
+      "username": "NandoDF",
+      "text": "It is ghastly how the UK 🇬🇧  has failed at having its own LLM companies. By doing so it has become irrelevant in the AI race. How do we fix this? \n\n@nickclegg @UKParliament \n\nFrance has @MistralAI. Canada has @cohere. Every other LLM AI company is 🇺🇸/🇨🇳",
+      "timestamp": "2026-04-25T10:07:19+00:00",
+      "url": "https://x.com/NandoDF/status/2047980768547246475",
+      "images": [],
+      "likes": 35,
+      "retweets": 3,
+      "views": 15093
+    },
+    {
+      "id": "2047978882100334612",
+      "username": "steipete",
+      "text": "acpx 0.6.0 is out. (control codex/claude via agents)\n\nHighlights: Claude system-prompt controls, session pruning, embeddable turn handles, --no-terminal, persistent-session fixes, WSL cwd translation, queue hardening, and clearer error hints. https://t.co/JUyu0tZYuV",
+      "timestamp": "2026-04-25T09:59:49+00:00",
+      "url": "https://x.com/steipete/status/2047978882100334612",
+      "images": [],
+      "likes": 555,
+      "retweets": 37,
+      "views": 40203
+    },
+    {
+      "id": "2047424707310289058",
+      "username": "omarsar0",
+      "text": "GPT-5.5 in Codex is a delight to work with:\n\n- Super sharp with responses\n- It understands intent better than any model\n- Great \"personality\"\n- Gets lots of stuff done without pausing unnecessarily\n\nIt generated this beautiful artifact design.\n\nHuge win for OpenAI. https://t.co/LKGOLvGU5I",
+      "timestamp": "2026-04-23T21:17:44+00:00",
+      "url": "https://x.com/omarsar0/status/2047424707310289058",
+      "images": [],
+      "likes": 272,
+      "retweets": 17,
+      "views": 35605
+    },
+    {
+      "id": "2047397385719157070",
+      "username": "OpenAIDevs",
+      "text": "At @tryramp, engineers use GPT-5.5 in Codex to test full-stack changes end to end in QA and identify what needs to improve. https://t.co/tJKTLp8bQK",
+      "timestamp": "2026-04-23T19:29:10+00:00",
+      "url": "https://x.com/OpenAIDevs/status/2047397385719157070",
+      "images": [],
+      "likes": 358,
+      "retweets": 12,
+      "views": 33647
+    },
+    {
+      "id": "2047377870142546264",
+      "username": "PetarV_93",
+      "text": "oh, did i say chapter? i meant _chapters_\n\nWe've just released draft Chapter 6 (Grids) and Chapter 7 (Group Convolutions on Homogeneous Spaces) of the GDL Book\n\nAlice's journeys in geometric wonderland continue #️⃣🌍 https://t.co/KAOv52KGk3",
+      "timestamp": "2026-04-23T18:11:37+00:00",
+      "url": "https://x.com/PetarV_93/status/2047377870142546264",
+      "images": [
+        "https://pbs.twimg.com/media/HGm_UduWQAASq4X.jpg",
+        "https://pbs.twimg.com/media/HGm_UduWIAArYo9.jpg"
+      ],
+      "likes": 58,
+      "retweets": 10,
+      "views": 7042
+    },
+    {
+      "id": "2047073009312121000",
+      "username": "emollick",
+      "text": "Image models tend to get much more stuck on a particular direction than text models, requiring clearing the context window fairly often.\n\nPerfectSquashBench is my new measure of how image models anchor. The squash remains merely fine after many attempts. https://t.co/W58vdo0oss",
+      "timestamp": "2026-04-22T22:00:12+00:00",
+      "url": "https://x.com/emollick/status/2047073009312121000",
+      "images": [
+        "https://pbs.twimg.com/media/HGiqBs_XkAAIRVN.jpg",
+        "https://pbs.twimg.com/media/HGiqBtCWwAACIuF.jpg",
+        "https://pbs.twimg.com/media/HGiqBtBWcAAeJeb.jpg",
+        "https://pbs.twimg.com/media/HGiqBtCWgAAZZLx.jpg"
+      ],
+      "likes": 245,
+      "retweets": 5,
+      "views": 33244
+    }
+  ]
+}
