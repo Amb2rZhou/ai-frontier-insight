@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-27T15:28:25.593671",
+  "scraped_at": "2026-04-27T23:58:35.573231",
   "date": "2026-04-27",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 76,
-  "account_count": 36,
+  "tweet_count": 106,
+  "account_count": 49,
   "tweets": [
     {
       "id": "2048593283639894520",
@@ -883,6 +883,351 @@
       "likes": 1183,
       "retweets": 72,
       "views": 133175
+    },
+    {
+      "id": "2048791912149295182",
+      "username": "GaryMarcus",
+      "text": "If a major car company had AI fan boys and released a car with loose lug nuts and the wheels came off, after hyping it as the greatest thing ever, and a bunch of people died, those fan boys would say “y’all shoulda known”.",
+      "timestamp": "2026-04-27T15:50:31+00:00",
+      "url": "https://x.com/GaryMarcus/status/2048791912149295182",
+      "images": [],
+      "likes": 9,
+      "retweets": 1,
+      "views": 395
+    },
+    {
+      "id": "2048791878879891827",
+      "username": "NVIDIAAI",
+      "text": "Congratulations to @IneffableLabs on today’s launch out of stealth. Using NVIDIA’s AI stack, they’re pioneering a reinforcement‑learning superlearner that learns directly from experience, from simple skills to breakthrough science.\nThis work will push the boundaries of what’s https://t.co/ZQIo4qpYkp",
+      "timestamp": "2026-04-27T15:50:23+00:00",
+      "url": "https://x.com/NVIDIAAI/status/2048791878879891827",
+      "images": [
+        "https://pbs.twimg.com/media/HG7FW0gWoAAXK1B.jpg"
+      ],
+      "likes": 10,
+      "retweets": 3,
+      "views": 418
+    },
+    {
+      "id": "2048790350001533413",
+      "username": "EMostaque",
+      "text": "Looking forward to the work coming out of @IneffableLabs 🇬🇧 \n\nLargest EU/UK raise ever 😮 \n\nBeat the previous UK largest seed raise ($101m Stability AI!) by $999m 🚀 \n\nWe have seen amazing things on our self-learning models so bullish on this approach 🤓",
+      "timestamp": "2026-04-27T15:44:18+00:00",
+      "url": "https://x.com/EMostaque/status/2048790350001533413",
+      "images": [],
+      "likes": 5,
+      "retweets": 0,
+      "views": 1054
+    },
+    {
+      "id": "2048785779770404894",
+      "username": "omarsar0",
+      "text": "I consider this one of the most interesting research themes happening in AI today. Worth taking a look. \n\nAs I automate more with agents, I feel like there is all kinds of incredible opportunities to optimize multi-agent systems to do things like automated knowledge discovery or",
+      "timestamp": "2026-04-27T15:26:09+00:00",
+      "url": "https://x.com/omarsar0/status/2048785779770404894",
+      "images": [],
+      "likes": 2,
+      "retweets": 0,
+      "views": 1191
+    },
+    {
+      "id": "2048783073547079816",
+      "username": "omarsar0",
+      "text": "// Agentic World Modeling //\n\nMassive 40-author survey just dropped. Cleanest taxonomy of world models in agent research I've seen.\n\n(bookmark it)\n\nThe paper proposes a \"levels × laws\" framework.\n\nThree capability levels:\n\n&gt; L1 Predictors do one-step transitions\n\n&gt; L2 Simulators https://t.co/VD39pa3DzM",
+      "timestamp": "2026-04-27T15:15:23+00:00",
+      "url": "https://x.com/omarsar0/status/2048783073547079816",
+      "images": [
+        "https://pbs.twimg.com/media/HG69WNfboAAQ8Bi.jpg"
+      ],
+      "likes": 25,
+      "retweets": 3,
+      "views": 1989
+    },
+    {
+      "id": "2048778095935795338",
+      "username": "hardmaru",
+      "text": "For the past few years, humans have been doing “prompt engineering” to coax the best performance out of different LLMs. In this work, we explored what happens if we train an AI to do that job instead.\n\nBy training a Conductor model with RL, we found that it naturally learns to",
+      "timestamp": "2026-04-27T14:55:37+00:00",
+      "url": "https://x.com/hardmaru/status/2048778095935795338",
+      "images": [],
+      "likes": 64,
+      "retweets": 12,
+      "views": 7772
+    },
+    {
+      "id": "2048777802586149331",
+      "username": "gdb",
+      "text": "gpt-5.5 great for hard tasks like writing GPU kernels",
+      "timestamp": "2026-04-27T14:54:27+00:00",
+      "url": "https://x.com/gdb/status/2048777802586149331",
+      "images": [],
+      "likes": 394,
+      "retweets": 11,
+      "views": 28181
+    },
+    {
+      "id": "2048776645142872368",
+      "username": "OpenAINewsroom",
+      "text": "We can't wait to make our case in court where both the truth and the law are on our side. This lawsuit has always been a baseless and jealous bid to derail a competitor. We'll also finally have the chance to question Mr. Musk under oath before a jury of Californians about this",
+      "timestamp": "2026-04-27T14:49:51+00:00",
+      "url": "https://x.com/OpenAINewsroom/status/2048776645142872368",
+      "images": [],
+      "likes": 1469,
+      "retweets": 69,
+      "views": 156136
+    },
+    {
+      "id": "2048775641999286694",
+      "username": "SchmidhuberAI",
+      "text": "Who invented JEPA? Part II. Dr. LeCun responded, and I put my replies in Addendum 1 of the report https://t.co/uDlTGsRTbi ... The conclusion still stands: the 2022 JEPA family is actually the 1992 PMAX family.\n\nExcerpts:\n\nOn 6 April 2026, Dr. LeCun replied at LinkedIn (see https://t.co/CMm6BAjcL0",
+      "timestamp": "2026-04-27T14:45:52+00:00",
+      "url": "https://x.com/SchmidhuberAI/status/2048775641999286694",
+      "images": [
+        "https://pbs.twimg.com/media/HG6xECPaYAAVgBl.jpg"
+      ],
+      "likes": 81,
+      "retweets": 6,
+      "views": 10058
+    },
+    {
+      "id": "2048773054864511033",
+      "username": "boazbaraktcs",
+      "text": "Waymo drives better than humans, but humans still set the destination.\n\nSuperintelligence will be a great problem solver, but humans should and will still tell it which problems to solve.",
+      "timestamp": "2026-04-27T14:35:35+00:00",
+      "url": "https://x.com/boazbaraktcs/status/2048773054864511033",
+      "images": [],
+      "likes": 31,
+      "retweets": 1,
+      "views": 2235
+    },
+    {
+      "id": "2048770588244611186",
+      "username": "Yoshua_Bengio",
+      "text": "Safety and innovation are not mutually exclusive: for many companies, especially in high-trust industries, AI’s risks are also a hindrance to adoption. \nIn this op-ed in the @FT, I underscore that Europe needs to invest in safe, reliable AI to avoid hitting the adoption wall.",
+      "timestamp": "2026-04-27T14:25:47+00:00",
+      "url": "https://x.com/Yoshua_Bengio/status/2048770588244611186",
+      "images": [],
+      "likes": 26,
+      "retweets": 4,
+      "views": 2701
+    },
+    {
+      "id": "2048769813770543300",
+      "username": "mervenoyann",
+      "text": "learn how to use, fine-tune, optimize and deploy bleeding edge audio models 🙌🏼",
+      "timestamp": "2026-04-27T14:22:42+00:00",
+      "url": "https://x.com/mervenoyann/status/2048769813770543300",
+      "images": [],
+      "likes": 33,
+      "retweets": 3,
+      "views": 2746
+    },
+    {
+      "id": "2048759865007591615",
+      "username": "omarsar0",
+      "text": "Don't try to build a self-improving AI agent without evals.\n\nYou are just wasting time and compute.\n\nAn agent can't improve from traces it can't evaluate.\n\nThis is why it's exciting to see @FutureAGI_ going fully open source with their platform.\n\nIt combines the best of all the https://t.co/wtYUHxV3uS",
+      "timestamp": "2026-04-27T13:43:10+00:00",
+      "url": "https://x.com/omarsar0/status/2048759865007591615",
+      "images": [],
+      "likes": 37,
+      "retweets": 4,
+      "views": 3173
+    },
+    {
+      "id": "2048759102390899142",
+      "username": "JeffDean",
+      "text": "The video of my conversation with Amin Vahdat, @gilbert, and @djrosent at Cloud Next last week is now up. \n\nhttps://t.co/81ZpUuUDQE\n\nThanks for a great conversation!",
+      "timestamp": "2026-04-27T13:40:08+00:00",
+      "url": "https://x.com/JeffDean/status/2048759102390899142",
+      "images": [],
+      "likes": 77,
+      "retweets": 8,
+      "views": 16227
+    },
+    {
+      "id": "2048757233174122827",
+      "username": "GaryMarcus",
+      "text": "⚠️ AI agents are wildly premature technology that is being rolled out way too fast. The deepest lesson about the vibe coded AI agent disaster story that is running around is NOT about losing your data. ⚠️\n\n𝗜𝘁’𝘀 𝗮𝗯𝗼𝘂𝘁 𝗔𝗜 𝘀𝗮𝗳𝗲𝘁𝘆. \n\nThe user wasn’t (totally) naive. https://t.co/wKf4FruttZ",
+      "timestamp": "2026-04-27T13:32:43+00:00",
+      "url": "https://x.com/GaryMarcus/status/2048757233174122827",
+      "images": [
+        "https://pbs.twimg.com/media/HG6l2K5asAAuVi9.jpg",
+        "https://pbs.twimg.com/media/HG6l2K9awAAyB3W.jpg"
+      ],
+      "likes": 71,
+      "retweets": 15,
+      "views": 4034
+    },
+    {
+      "id": "2048756662845022655",
+      "username": "cHHillee",
+      "text": "Actually, on second thought, I would divide this into 3 categories. Fundamentally, for really long contexts, you're bottlenecked by global attention needing linear memory with context length. So the common remediations we see are:\n\n1. Make an attention layer only attend to a",
+      "timestamp": "2026-04-27T13:30:27+00:00",
+      "url": "https://x.com/cHHillee/status/2048756662845022655",
+      "images": [],
+      "likes": 193,
+      "retweets": 8,
+      "views": 14098
+    },
+    {
+      "id": "2048756358820827564",
+      "username": "soumithchintala",
+      "text": "This is kinda interesting.\n\nAnthro probably needs to scale up Account Support via Claude or via humans (traditional account managers). Would be funny if they chose humans.\n\nAlternatively, more and more companies can probably go multi-AI with open harnesses. \n\nSimilar problems to",
+      "timestamp": "2026-04-27T13:29:14+00:00",
+      "url": "https://x.com/soumithchintala/status/2048756358820827564",
+      "images": [],
+      "likes": 59,
+      "retweets": 5,
+      "views": 7953
+    },
+    {
+      "id": "2048755148361707946",
+      "username": "sama",
+      "text": "we have updated our partnership with microsoft.\n\nmicrosoft will remain our primary cloud partner, but we are now able to make our products and services available across all clouds.\n\nwill continue to provide them with models and products until 2032, and a revenue share through",
+      "timestamp": "2026-04-27T13:24:26+00:00",
+      "url": "https://x.com/sama/status/2048755148361707946",
+      "images": [],
+      "likes": 8164,
+      "retweets": 467,
+      "views": 674726
+    },
+    {
+      "id": "2048742983684784239",
+      "username": "GaryMarcus",
+      "text": "People keep blaming the users for the growing number of vibe-coded reasoners. Doing so is *half* right.\n\nUsers *are*screwing up - by letting vibe coded stuff access their files, without proper backups, without proper monitoring, without adequate sysadmin, etc.\n\nBut that’s",
+      "timestamp": "2026-04-27T12:36:05+00:00",
+      "url": "https://x.com/GaryMarcus/status/2048742983684784239",
+      "images": [],
+      "likes": 78,
+      "retweets": 8,
+      "views": 12226
+    },
+    {
+      "id": "2048739005525877072",
+      "username": "GaryMarcus",
+      "text": "“Vibe coded disasters piling up on Reddit”",
+      "timestamp": "2026-04-27T12:20:17+00:00",
+      "url": "https://x.com/GaryMarcus/status/2048739005525877072",
+      "images": [],
+      "likes": 237,
+      "retweets": 27,
+      "views": 14028
+    },
+    {
+      "id": "2048725654993092671",
+      "username": "RisingSayak",
+      "text": "You know what to do. \n\nKeep following the space.",
+      "timestamp": "2026-04-27T11:27:14+00:00",
+      "url": "https://x.com/RisingSayak/status/2048725654993092671",
+      "images": [],
+      "likes": 13,
+      "retweets": 0,
+      "views": 768
+    },
+    {
+      "id": "2048714939125109178",
+      "username": "GoogleDeepMind",
+      "text": "A decade ago in Korea, AlphaGo showed AI’s potential.\n\nTogether with the Korean government, we’re now looking at how this technology can help accelerate scientific discovery and create new opportunities for economic growth across the region. 🇰🇷\n\nFind out more → https://t.co/XBSYRzQkcS",
+      "timestamp": "2026-04-27T10:44:39+00:00",
+      "url": "https://x.com/GoogleDeepMind/status/2048714939125109178",
+      "images": [],
+      "likes": 501,
+      "retweets": 92,
+      "views": 51671
+    },
+    {
+      "id": "2048680605206856091",
+      "username": "mervenoyann",
+      "text": "I have just crossed 10K friends on @huggingface 🤗💗\n\nI try to make myself more and more useful for community and am always happy to be of service 🫡 https://t.co/cEjIGQxBtS",
+      "timestamp": "2026-04-27T08:28:13+00:00",
+      "url": "https://x.com/mervenoyann/status/2048680605206856091",
+      "images": [
+        "https://pbs.twimg.com/media/HG5f6jiW8AA52AP.png"
+      ],
+      "likes": 110,
+      "retweets": 1,
+      "views": 3815
+    },
+    {
+      "id": "2048544989769257024",
+      "username": "GaryMarcus",
+      "text": "Coders and software engineers ONLY:",
+      "timestamp": "2026-04-26T23:29:20+00:00",
+      "url": "https://x.com/GaryMarcus/status/2048544989769257024",
+      "images": [],
+      "likes": 67,
+      "retweets": 12,
+      "views": 14953
+    },
+    {
+      "id": "2048436628851707965",
+      "username": "shaneguML",
+      "text": "🌍 Excited to talk at the ICLR 2026 World Models Workshop on \"World of World Modeling\". A world model is more than an action-conditioned video model. I'll connect the trends from frontier labs with the older gems of academia, based on my journey in ML, RL, and GenAI. #ICLR2026 https://t.co/vh82zOqkYK",
+      "timestamp": "2026-04-26T16:18:45+00:00",
+      "url": "https://x.com/shaneguML/status/2048436628851707965",
+      "images": [
+        "https://pbs.twimg.com/media/HG2Bg6haAAAJ7GZ.jpg"
+      ],
+      "likes": 254,
+      "retweets": 12,
+      "views": 20788
+    },
+    {
+      "id": "2047982647264059734",
+      "username": "steipete",
+      "text": "Built clawsweeper, which runs 50 codex in parallel around the clock, scans issues/prs deep and closes what is already implemented or what makes no sense.\n\nClosed around 4000 issues today, a few thousand are in the pipeline. (rate limits are rough) https://t.co/AiNNDcvGke",
+      "timestamp": "2026-04-25T10:14:47+00:00",
+      "url": "https://x.com/steipete/status/2047982647264059734",
+      "images": [],
+      "likes": 9217,
+      "retweets": 569,
+      "views": 2063612
+    },
+    {
+      "id": "2047664425709027348",
+      "username": "mervenoyann",
+      "text": "it's only 48 hours:\n- Qwen3.6-27B\n- Tencent-Hy3-preview\n- DeepSeekv4\n\nwhat's next? 👀",
+      "timestamp": "2026-04-24T13:10:17+00:00",
+      "url": "https://x.com/mervenoyann/status/2047664425709027348",
+      "images": [],
+      "likes": 122,
+      "retweets": 8,
+      "views": 20498
+    },
+    {
+      "id": "2047549128750793203",
+      "username": "Miles_Brundage",
+      "text": "Reminder that there are still non-trivial amounts of hallucinations in AI outputs and if you think otherwise it's probably because you are applying it in domains you can't supervise well or just are tolerating a lot of errors",
+      "timestamp": "2026-04-24T05:32:08+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2047549128750793203",
+      "images": [],
+      "likes": 115,
+      "retweets": 8,
+      "views": 5726
+    },
+    {
+      "id": "2047066252523507916",
+      "username": "ollama",
+      "text": "Qwen 3.6 27B model is available on Ollama! \n\nUse it with all the integrations in Ollama or chat with the model. \n\nChat with the model: \nollama run qwen3.6:27b\n\nOpenClaw: \nollama launch openclaw --model qwen3.6:27b\n\nClaude Code: \nollama launch claude --model qwen3.6:27b\n\nMore",
+      "timestamp": "2026-04-22T21:33:21+00:00",
+      "url": "https://x.com/ollama/status/2047066252523507916",
+      "images": [],
+      "likes": 1206,
+      "retweets": 119,
+      "views": 156169
+    },
+    {
+      "id": "2046784620159762828",
+      "username": "arankomatsuzaki",
+      "text": "Simple Test-time Evaluation-driven Scaling (SIMPLETES)\n\n- Sped up LASSO by over 2x\n- Designed quantum circuit routing policies by 24.5%\n- Discovered new Erdős minimum overlap constructions that surpass the best-known results https://t.co/IfWmFDBpon",
+      "timestamp": "2026-04-22T02:54:15+00:00",
+      "url": "https://x.com/arankomatsuzaki/status/2046784620159762828",
+      "images": [
+        "https://pbs.twimg.com/media/HGeiwuaaYAAtGNy.jpg"
+      ],
+      "likes": 58,
+      "retweets": 11,
+      "views": 10758
     }
   ]
 }
