@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-27T10:54:15.814552+08:00",
+  "last_updated": "2026-04-27T11:11:30.712547+08:00",
   "trends": [
     {
       "id": "ai_safety_pivot_and_accelerated_agi_time",
@@ -15,9 +15,8 @@
         "Content Authentication"
       ],
       "trajectory": "accelerating",
-      "signal_count": 87,
+      "signal_count": 89,
       "weekly_counts": [
-        1,
         3,
         0,
         2,
@@ -28,7 +27,8 @@
         2,
         0,
         1,
-        1
+        1,
+        2
       ],
       "key_events": [
         {
@@ -98,6 +98,10 @@
         {
           "date": "2026-04-25",
           "event": "85% of Enterprises Run AI Agent Pilots But Only 5% Production-Ready; OpenAI Introduces Auto-Review Agent for Codex Reducing Human Approvals"
+        },
+        {
+          "date": "2026-04-27",
+          "event": "OpenAI Publishes 'Our Principles' Blog; OpenAI Benchmarks ChatGPT for Clinical Use"
         }
       ],
       "created": "2026-02-25"
@@ -112,7 +116,7 @@
         "Nvidia"
       ],
       "trajectory": "stable",
-      "signal_count": 23,
+      "signal_count": 24,
       "weekly_counts": [
         1,
         1,
@@ -121,11 +125,11 @@
         1,
         1,
         1,
-        1,
         0,
         0,
         1,
-        0
+        0,
+        1
       ],
       "key_events": [
         {
@@ -211,6 +215,10 @@
         {
           "date": "2026-04-26",
           "event": "Stanford's Chelsea Finn and Sergey Levine Discuss Robotics RL and Self-Improvement at ICLR 2026"
+        },
+        {
+          "date": "2026-04-27",
+          "event": "Stanford Chelsea Finn Talks Long-Term Memory for Autonomy at ICLR 2026"
         }
       ],
       "created": "2026-02-25"
@@ -229,9 +237,8 @@
         "Business Models"
       ],
       "trajectory": "accelerating",
-      "signal_count": 64,
+      "signal_count": 65,
       "weekly_counts": [
-        2,
         1,
         2,
         1,
@@ -242,7 +249,8 @@
         0,
         2,
         2,
-        2
+        2,
+        1
       ],
       "key_events": [
         {
@@ -336,6 +344,10 @@
         {
           "date": "2026-04-27",
           "event": "Moonshot releases K2.6 open-weight multimodal model on HuggingFace; Tencent releases Hy3-preview open-weight model"
+        },
+        {
+          "date": "2026-04-27",
+          "event": "DeepSeek API Price Cut; OpenAI Releases Privacy Filter Model on HuggingFace"
         }
       ],
       "created": "2026-02-25"
@@ -355,7 +367,6 @@
         1,
         1,
         1,
-        1,
         0,
         0,
         1,
@@ -363,6 +374,7 @@
         2,
         0,
         2,
+        0,
         0
       ],
       "key_events": [
@@ -453,9 +465,8 @@
         "Anthropic"
       ],
       "trajectory": "accelerating",
-      "signal_count": 140,
+      "signal_count": 144,
       "weekly_counts": [
-        4,
         4,
         2,
         1,
@@ -466,7 +477,8 @@
         2,
         3,
         2,
-        1
+        1,
+        4
       ],
       "key_events": [
         {
@@ -588,6 +600,10 @@
         {
           "date": "2026-04-27",
           "event": "Bilibili AI Agent search volume surges 500%+, launches AI creation competition"
+        },
+        {
+          "date": "2026-04-27",
+          "event": "OpenAI Scales Compute for Codex Traffic Surge; Alibaba Releases AgenticQwen MoE Model; Multi-Agent Framework 'harmonist' Gains Traction; Stanford Chelsea Finn Discusses Long-Term Memory at ICLR"
         }
       ],
       "created": "2026-02-25"
@@ -606,9 +622,8 @@
         "Scientific Discovery"
       ],
       "trajectory": "accelerating",
-      "signal_count": 109,
+      "signal_count": 111,
       "weekly_counts": [
-        1,
         1,
         1,
         2,
@@ -619,7 +634,8 @@
         2,
         2,
         3,
-        1
+        1,
+        2
       ],
       "key_events": [
         {
@@ -661,6 +677,10 @@
         {
           "date": "2026-04-27",
           "event": "Image generation pretraining proven effective for generalist vision learning"
+        },
+        {
+          "date": "2026-04-27",
+          "event": "Multi-Paper Revival of Continuous Methods for Language Diffusion Models; Stanford Chelsea Finn Discusses Long-Term Memory at ICLR"
         }
       ],
       "created": "2026-02-25"
@@ -678,7 +698,6 @@
       "signal_count": 35,
       "weekly_counts": [
         1,
-        1,
         2,
         1,
         0,
@@ -688,6 +707,7 @@
         1,
         0,
         1,
+        0,
         0
       ],
       "key_events": [
@@ -890,6 +910,7 @@
         0,
         0,
         0,
+        0,
         0
       ],
       "key_events": [
@@ -930,10 +951,9 @@
         "Computer Use"
       ],
       "trajectory": "accelerating",
-      "signal_count": 177,
+      "signal_count": 181,
       "weekly_counts": [
         3,
-        3,
         2,
         1,
         1,
@@ -943,7 +963,8 @@
         2,
         2,
         3,
-        2
+        2,
+        4
       ],
       "key_events": [
         {
@@ -1069,6 +1090,10 @@
         {
           "date": "2026-04-27",
           "event": "Edge Matrix Runtime 'wanman' enables autonomous multi-agent workflows on local devices; 'future-agi' platform for LLM observability gains traction"
+        },
+        {
+          "date": "2026-04-27",
+          "event": "Multi-Agent Framework 'harmonist' with 186 Agents Hits 696 Stars; 'future-agi' for LLM Agent Observability Reaches 555 Stars; Chelsea Finn Discusses Long-Term Memory for Agents"
         }
       ],
       "created": "2026-02-25"
@@ -1089,13 +1114,13 @@
         1,
         1,
         1,
-        1,
         0,
         0,
         0,
         1,
         1,
         1,
+        0,
         0
       ],
       "key_events": [
@@ -1168,9 +1193,8 @@
         "AI Infrastructure"
       ],
       "trajectory": "accelerating",
-      "signal_count": 63,
+      "signal_count": 65,
       "weekly_counts": [
-        3,
         1,
         1,
         1,
@@ -1181,7 +1205,8 @@
         2,
         2,
         2,
-        1
+        1,
+        2
       ],
       "key_events": [
         {
@@ -1267,6 +1292,10 @@
         {
           "date": "2026-04-27",
           "event": "'future-agi' open-source platform for LLM and AI agent observability"
+        },
+        {
+          "date": "2026-04-27",
+          "event": "DeepSeek API Price Cut: Input Cache Hits Reduced to 1/10; OpenAI Scales Compute for Codex Traffic Surge"
         }
       ],
       "created": "2026-02-25"
@@ -1326,9 +1355,9 @@
       "weekly_counts": [
         0,
         0,
+        1,
+        1,
         0,
-        1,
-        1,
         0,
         0,
         0,
@@ -1380,6 +1409,7 @@
         0,
         0,
         0,
+        0,
         0
       ],
       "key_events": [
@@ -1412,9 +1442,8 @@
         "Risk Management"
       ],
       "trajectory": "accelerating",
-      "signal_count": 57,
+      "signal_count": 58,
       "weekly_counts": [
-        1,
         1,
         0,
         1,
@@ -1425,7 +1454,8 @@
         0,
         1,
         1,
-        3
+        3,
+        1
       ],
       "key_events": [
         {
@@ -1611,6 +1641,10 @@
         {
           "date": "2026-04-27",
           "event": "University of Toronto proposes SIREN for LLM safety detection; Fudan University examines reward hacking"
+        },
+        {
+          "date": "2026-04-27",
+          "event": "OpenAI Releases Privacy Filter Model on HuggingFace for Content Safety"
         }
       ],
       "created": "2026-02-25"
@@ -1630,12 +1664,12 @@
         1,
         1,
         1,
-        1,
         0,
         0,
         0,
         0,
         1,
+        0,
         0,
         0,
         0
@@ -1690,9 +1724,8 @@
         "AI Adoption"
       ],
       "trajectory": "accelerating",
-      "signal_count": 46,
+      "signal_count": 47,
       "weekly_counts": [
-        1,
         1,
         1,
         2,
@@ -1703,7 +1736,8 @@
         2,
         2,
         1,
-        3
+        3,
+        1
       ],
       "key_events": [
         {
@@ -1777,6 +1811,10 @@
         {
           "date": "2026-04-27",
           "event": "Moonshot releases K2.6; Tencent releases Hy3-preview; Baidu releases ERNIE-Image-Turbo"
+        },
+        {
+          "date": "2026-04-27",
+          "event": "Alibaba Releases AgenticQwen-30B-A3B MoE Model Matching Qwen3-235B on Tool-Use Benchmarks"
         }
       ],
       "created": "2026-02-25"
@@ -1791,9 +1829,8 @@
         "Startup Funding"
       ],
       "trajectory": "accelerating",
-      "signal_count": 73,
+      "signal_count": 74,
       "weekly_counts": [
-        2,
         2,
         2,
         3,
@@ -1803,6 +1840,7 @@
         3,
         1,
         0,
+        1,
         1,
         1
       ],
@@ -2022,6 +2060,10 @@
         {
           "date": "2026-04-27",
           "event": "Baidu releases ERNIE-Image-Turbo for fast image generation"
+        },
+        {
+          "date": "2026-04-27",
+          "event": "Multi-Paper Revival of Continuous Methods for Language Diffusion Models"
         }
       ],
       "created": "2026-02-26"
@@ -2040,6 +2082,7 @@
       "weekly_counts": [
         1,
         1,
+        0,
         0,
         0,
         0,
@@ -2074,6 +2117,7 @@
         0,
         1,
         1,
+        0,
         0,
         0,
         0
@@ -2120,7 +2164,8 @@
       "weekly_counts": [
         1,
         3,
-        1
+        1,
+        0
       ],
       "key_events": [
         {
@@ -2157,14 +2202,19 @@
         "Research"
       ],
       "trajectory": "accelerating",
-      "signal_count": 1,
+      "signal_count": 2,
       "weekly_counts": [
+        1,
         1
       ],
       "key_events": [
         {
           "date": "2026-04-27",
           "event": "First detected"
+        },
+        {
+          "date": "2026-04-27",
+          "event": "OpenAI Releases Privacy Filter Model on HuggingFace for Content Safety"
         }
       ],
       "created": "2026-04-27"

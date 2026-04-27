@@ -158,7 +158,18 @@ def cmd_daily():
     md_content = export_daily_markdown(today, insights, trend_summary, output_dir=daily_dir)
     print(f"  - Markdown exported: {daily_dir}/{today}_daily.md")
 
-    # Step 10: Publish to Jekyll site
+    # Step 10: Update wiki knowledge base
+    print("\n[Wiki] Updating knowledge base...")
+    try:
+        from .wiki.updater import update_wiki
+        wiki_stats = update_wiki(today, insights)
+        print(f"  - {wiki_stats['pages_updated']} pages updated, "
+              f"{wiki_stats['entries_added']} entries added, "
+              f"{wiki_stats['pages_created']} new pages")
+    except Exception as e:
+        print(f"  - Wiki update failed (non-fatal): {e}")
+
+    # Step 11: Publish to Jekyll site
     print("\n[Publish] Creating Jekyll post...")
     site_posts = Path(__file__).resolve().parents[1] / "docs" / "_posts"
     site_posts.mkdir(parents=True, exist_ok=True)
@@ -171,7 +182,7 @@ def cmd_daily():
         post_path.write_text(post_content, encoding="utf-8")
         print(f"  - Jekyll post: {post_path}")
 
-    # Step 11: Clean up expired data
+    # Step 12: Clean up expired data
     cleanup_old_data()
 
     print(f"\n=== Daily pipeline complete: {len(insights)} insights saved ===")

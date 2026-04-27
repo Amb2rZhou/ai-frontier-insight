@@ -111,17 +111,7 @@ def cleanup_old_data(daily_sources_days: int = 30, x_monitor_days: int = 14):
                     os.remove(sources_path)
                     deleted_count += 1
 
-    # Clean x-monitor files
-    if os.path.isdir(X_MONITOR_DIR):
-        xmon_cutoff = (today - timedelta(days=x_monitor_days)).strftime("%Y-%m-%d")
-        for filename in os.listdir(X_MONITOR_DIR):
-            if not filename.endswith(".json"):
-                continue
-            # Filename is YYYY-MM-DD.json
-            file_date = filename[:10]
-            if len(file_date) == 10 and file_date < xmon_cutoff:
-                os.remove(os.path.join(X_MONITOR_DIR, filename))
-                deleted_count += 1
+    # x-monitor data: keep indefinitely (was 14-day auto-delete, disabled 2026-04-27)
 
     if deleted_count:
         print(f"  - Cleanup: removed {deleted_count} expired files")

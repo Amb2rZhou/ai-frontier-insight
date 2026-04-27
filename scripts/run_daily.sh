@@ -11,6 +11,7 @@
 set -euo pipefail
 
 DIR="$(cd "$(dirname "$0")/.." && pwd)"
+cd "$DIR"
 LOG_DIR="$DIR/logs"
 mkdir -p "$LOG_DIR"
 LOG="$LOG_DIR/daily-$(date +%Y-%m-%d).log"

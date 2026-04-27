@@ -10,7 +10,7 @@ from ..collectors.base import RawItem
 from ..memory.manager import load_trends, get_recent_signal_titles
 from ..utils.config import load_prompt, load_settings
 from ..utils.json_repair import parse_json_response
-from .ai_client import call_ai
+from .ai_client import call_ai, call_haiku
 
 
 def _title_similar(a: str, b: str, threshold: float = 0.6) -> bool:
@@ -166,17 +166,8 @@ def extract_signals(raw_items: List[RawItem]) -> Optional[List[Dict]]:
     # Sort by signal_strength descending
     signals.sort(key=lambda s: s.get("signal_strength", 0), reverse=True)
 
-    # Trim to final output count (10), backfill from filtered papers if short
+    # Trim to max output count
     final_count = settings.get("analysis", {}).get("daily_output_signals", 10)
-    if len(signals) < final_count and filtered_out:
-        shortfall = final_count - len(signals)
-        filtered_out.sort(key=lambda s: s.get("signal_strength", 0), reverse=True)
-        backfill = filtered_out[:shortfall]
-        for s in backfill:
-            s["signal_strength"] = min(s.get("signal_strength", 0), 0.65)
-            print(f"  Backfill: '{s.get('title', '')[:50]}' (capped at 0.65)")
-        signals.extend(backfill)
-        signals.sort(key=lambda s: s.get("signal_strength", 0), reverse=True)
     if len(signals) > final_count:
         signals = signals[:final_count]
 

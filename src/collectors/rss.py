@@ -117,10 +117,10 @@ class RSSCollector(BaseCollector):
                 for f in enabled_feeds
             }
 
-            for future in as_completed(futures):
+            for future in as_completed(futures, timeout=90):
                 feed_cfg = futures[future]
                 try:
-                    items = future.result()
+                    items = future.result(timeout=30)
                     if items:
                         stats["success"] += 1
                         for item in items:
@@ -130,6 +130,9 @@ class RSSCollector(BaseCollector):
                             items_by_source[src].append(item)
                     else:
                         stats["empty"] += 1
+                except TimeoutError:
+                    stats["failed"] += 1
+                    print(f"  Warning: {feed_cfg.get('name', '?')} timed out (30s)")
                 except Exception as e:
                     stats["failed"] += 1
                     print(f"  Warning: {feed_cfg.get('name', '?')} error: {e}")
