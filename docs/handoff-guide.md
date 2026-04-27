@@ -577,6 +577,6 @@ Sources: [X Dev Community 公告](https://devcommunity.x.com/t/x-api-pricing-upd
 - `GET /2/lists/:id/tweets` — 按 List 拉推文
 - `GET /2/users/by` — 批量把 username 转为 user ID（API 用 user ID）
 
-**List ID**：`2026486577304842549`
+**List ID**：`2026486577304842549`（X 账号 @amb2rzhou 名下，需确认设为 Public，其他账号的 API 才能读取）
 
-现有账号列表以 username 格式存储，API 那边可以自行转换。
+现有账号列表以 username 格式存储，API 那边可以自行转换。如果需要用新账号自建 List，可通过 `POST /2/lists` + `POST /2/lists/:id/members` 批量创建。
