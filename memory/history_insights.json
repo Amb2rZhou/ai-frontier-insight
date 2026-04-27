@@ -1,66 +1,6 @@
 {
   "predictions": [
     {
-      "date": "2026-04-17T10:51:50.327994+08:00",
-      "prediction_text": "内容与社区平台的创作者工具可以考虑集成此类模型，以构建更强大的自动化内容生产与编辑Agent。",
-      "category": "model_release",
-      "source_signal": "Anthropic Releases Claude Opus 4.7, Retakes SOTA in Agentic Coding"
-    },
-    {
-      "date": "2026-04-17T10:51:50.337152+08:00",
-      "prediction_text": "电商与内容平台的创作者工具值得探索本地化、具备应用操作能力的AI助手，以深度赋能工作流。",
-      "category": "strategic_move",
-      "source_signal": "OpenAI Massively Upgrades Codex into a Full AI Computer Operator"
-    },
-    {
-      "date": "2026-04-17T10:51:50.362320+08:00",
-      "prediction_text": "平台在规划AI战略时，值得关注在特定垂直领域（如时尚、美妆、家居）构建或引入专家模型的可能性。",
-      "category": "strategic_move",
-      "source_signal": "OpenAI Debuts GPT-Rosalind, a Frontier Model for Life Sciences"
-    },
-    {
-      "date": "2026-04-17T10:51:50.378254+08:00",
-      "prediction_text": "电商平台的后台系统与CRM值得探索类似的API化改造，为营销、客服等业务Agent提供标准化操作界面。",
-      "category": "ecosystem_shift",
-      "source_signal": "Salesforce Launches Headless 360 to Turn Its Platform into AI Agent Infrastructure"
-    },
-    {
-      "date": "2026-04-17T10:51:50.396285+08:00",
-      "prediction_text": "推荐系统与搜索产品团队值得关注边缘侧轻量模型，以探索更实时、更隐私安全的个性化交互体验。",
-      "category": "model_release",
-      "source_signal": "Google Releases Gemma 4, a Flexible Model Family for Scalable Agents and Edge"
-    },
-    {
-      "date": "2026-04-17T10:51:50.426988+08:00",
-      "prediction_text": "内容平台的创作工具可以考虑集成或研发类似模型，以大幅降低高质量短视频、Vlog的创作门槛。",
-      "category": "model_release",
-      "source_signal": "ByteDance Releases Seedance 2.0 for Advanced Audio-Video Generation"
-    },
-    {
-      "date": "2026-04-17T10:51:50.457911+08:00",
-      "prediction_text": "社区平台的运营与内容治理，可以关注如何将复杂规则抽象为提示，赋能更灵活的自动化管理Agent。",
-      "category": "research_breakthrough",
-      "source_signal": "Physical Intelligence Unveils π0.7, a Robot Brain Capable of Zero-Shot Task Generalization"
-    },
-    {
-      "date": "2026-04-17T10:51:50.487655+08:00",
-      "prediction_text": "电商平台的虚拟试穿、家居场景化购物等体验，建议探索集成此类世界模型以构建可探索的虚拟空间。",
-      "category": "research_breakthrough",
-      "source_signal": "Tencent's HY-World 2.0: A Multi-Modal World Model for 3D Scene Generation"
-    },
-    {
-      "date": "2026-04-17T10:51:50.511184+08:00",
-      "prediction_text": "内容安全与算法团队可以考虑引入类似工具，用于自动化诊断推荐偏差、内容异常等复杂系统性问题。",
-      "category": "research_breakthrough",
-      "source_signal": "Google Proposes Auto-Diagnose, an LLM-Based Tool for Debugging Integration Test Failures"
-    },
-    {
-      "date": "2026-04-17T10:51:50.550365+08:00",
-      "prediction_text": "内容平台的客服/创作者助手Agent可以考虑引入类似的输入过滤与行为约束机制，防范非恶意风险。",
-      "category": "research_breakthrough",
-      "source_signal": "Study Reveals Safety Vulnerabilities in Computer-Use Agents from Benign Instructions"
-    },
-    {
       "date": "2026-04-18T09:34:32.391696+08:00",
       "prediction_text": "内容平台的创作者工具可以考虑集成此类AI设计能力，赋能用户一站式产出图文、视频及交互原型。",
       "category": "strategic_move",
@@ -599,6 +539,66 @@
       "prediction_text": "内容平台的实时推理服务可评估Expert Upcycling，在推荐/搜索场景低成本升级模型。",
       "category": "infrastructure",
       "source_signal": "Amazon Proposes 'Expert Upcycling' to Improve MoE Model Efficiency"
+    },
+    {
+      "date": "2026-04-27T10:53:33.287711+08:00",
+      "prediction_text": "内容平台的图文理解管线可评估K2.6替代或补充商业模型，降低推理成本并保留数据主权。",
+      "category": "model_release",
+      "source_signal": "Moonshot (Kimi) Releases K2.6 Open-Weight Multimodal Model on HuggingFace"
+    },
+    {
+      "date": "2026-04-27T10:53:33.298333+08:00",
+      "prediction_text": "内容安全团队可集成该token分类模型至审核流水线，优先覆盖用户隐私泄露高发场景。",
+      "category": "open_source",
+      "source_signal": "OpenAI Releases Privacy Filter Model for Token Classification"
+    },
+    {
+      "date": "2026-04-27T10:53:33.317182+08:00",
+      "prediction_text": "社区平台的文本生成基础模型选择可纳入Hy3-preview，将其作为测试床评估中文效果与成本。",
+      "category": "strategic_move",
+      "source_signal": "Tencent Releases Hy3-preview Open-Weight Text Generation Model"
+    },
+    {
+      "date": "2026-04-27T10:53:33.333183+08:00",
+      "prediction_text": "社区平台可参考B站，以创作激励赛事驱动UGC+Agent生态，激活AI工具使用粘性。",
+      "category": "ecosystem_shift",
+      "source_signal": "Bilibili AI Agent Search Volume Surges Over 500%, Launches AI Creation Competition"
+    },
+    {
+      "date": "2026-04-27T10:53:33.347015+08:00",
+      "prediction_text": "创作者工具团队可测试ERNIE-Image-Turbo作为本地化配图生成方案，替代或互补Stable Diffusion管线。",
+      "category": "model_release",
+      "source_signal": "Baidu Releases ERNIE-Image-Turbo Space for Fast Image Generation"
+    },
+    {
+      "date": "2026-04-27T10:53:33.369739+08:00",
+      "prediction_text": "搜索产品可探索端侧Agent矩阵实现隐私敏感场景的本地化搜索与推荐处理。",
+      "category": "infrastructure",
+      "source_signal": "Edge Matrix Runtime 'wanman' Enables Autonomous Multi-Agent Workflows on Local Devices"
+    },
+    {
+      "date": "2026-04-27T10:53:33.381658+08:00",
+      "prediction_text": "内容审计团队可研究SIREN方法，将其嵌入推荐或生成模型的推理层实现实时安全过滤。",
+      "category": "research_breakthrough",
+      "source_signal": "University of Toronto Proposes SIREN: LLM Safety Detection via Internal Representations"
+    },
+    {
+      "date": "2026-04-27T10:53:33.393453+08:00",
+      "prediction_text": "AI平台基建可引入类似future-agi的开源套件，为内部Agent构建标准化的评估与追溯体系。",
+      "category": "infrastructure",
+      "source_signal": "Open-Source Platform 'future-agi' for LLM and AI Agent Observability Gains Traction"
+    },
+    {
+      "date": "2026-04-27T10:53:33.405513+08:00",
+      "prediction_text": "推荐系统与生成模型的RL对齐团队应引入reward hacking检测流程，避免优化目标被对抗性利用。",
+      "category": "research_breakthrough",
+      "source_signal": "Fudan University Research Systematically Examines Reward Hacking in Large Models"
+    },
+    {
+      "date": "2026-04-27T10:53:33.416760+08:00",
+      "prediction_text": "多模态理解团队可探索生成式预训练+指令微调范式，替换目前独立的分类式图文分析模型。",
+      "category": "research_breakthrough",
+      "source_signal": "Image Generation Pretraining Proven Effective for Generalist Vision Learning"
     }
   ]
 }
