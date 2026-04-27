@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-27T10:55:58.828920",
+  "scraped_at": "2026-04-27T15:28:25.593671",
   "date": "2026-04-27",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 66,
-  "account_count": 33,
+  "tweet_count": 76,
+  "account_count": 36,
   "tweets": [
     {
       "id": "2048593283639894520",
@@ -767,6 +767,122 @@
       "likes": 33,
       "retweets": 6,
       "views": 10430
+    },
+    {
+      "id": "2048660875007914176",
+      "username": "steipete",
+      "text": "Released wacrawl 0.2.0.\n\nNew: encrypted Git backup/restore for WhatsApp Desktop archives. `wacrawl backup push` writes age-encrypted shards to GitHub; `backup pull` decrypts, verifies, and restores locally. https://t.co/gzCQO6eSAe",
+      "timestamp": "2026-04-27T07:09:49+00:00",
+      "url": "https://x.com/steipete/status/2048660875007914176",
+      "images": [],
+      "likes": 35,
+      "retweets": 3,
+      "views": 3121
+    },
+    {
+      "id": "2048650652902109650",
+      "username": "ollama",
+      "text": "We are now enabling a queue for DeepSeek v4 Pro, expect longer time-to-first-token instead of degrading service. \n\nplease bear with us 🙏🙏🙏🙏🙏🙏 https://t.co/Ou1X2o65Nt",
+      "timestamp": "2026-04-27T06:29:12+00:00",
+      "url": "https://x.com/ollama/status/2048650652902109650",
+      "images": [
+        "https://pbs.twimg.com/media/HG5DSxPbIAACyP_.png"
+      ],
+      "likes": 135,
+      "retweets": 3,
+      "views": 5619
+    },
+    {
+      "id": "2048649068583223657",
+      "username": "giffmana",
+      "text": "Thinking this HERMES.md disaster happened in the harness is missing the whole point. https://t.co/dvrul85lJr",
+      "timestamp": "2026-04-27T06:22:54+00:00",
+      "url": "https://x.com/giffmana/status/2048649068583223657",
+      "images": [
+        "https://pbs.twimg.com/media/HG5DF4YaQAAWWhl.jpg"
+      ],
+      "likes": 29,
+      "retweets": 2,
+      "views": 3229
+    },
+    {
+      "id": "2048630704972443918",
+      "username": "steipete",
+      "text": "Been so CPU-constrained on OpenClaw work. Switched local tests running to @useblacksmith and IT IS SO GOOD. codex can literally spin up to 32vCPU instances and rip through our test suite. https://t.co/cks45534su",
+      "timestamp": "2026-04-27T05:09:56+00:00",
+      "url": "https://x.com/steipete/status/2048630704972443918",
+      "images": [],
+      "likes": 278,
+      "retweets": 12,
+      "views": 20294
+    },
+    {
+      "id": "2048626844694421842",
+      "username": "steipete",
+      "text": "Wanted a truly local storage for my tweets so built birdclaw. Imoorts your archive, backs it up on github, has jobs so you can import your x bookmarks daily (since they are not fully accessible via the api). \nhttps://t.co/4Nd1Ad0ZeY",
+      "timestamp": "2026-04-27T04:54:36+00:00",
+      "url": "https://x.com/steipete/status/2048626844694421842",
+      "images": [],
+      "likes": 594,
+      "retweets": 48,
+      "views": 31922
+    },
+    {
+      "id": "2048617100411850947",
+      "username": "minchoi",
+      "text": "100% Grok Imagine btw https://t.co/omv6gyymiY",
+      "timestamp": "2026-04-27T04:15:52+00:00",
+      "url": "https://x.com/minchoi/status/2048617100411850947",
+      "images": [],
+      "likes": 49,
+      "retweets": 8,
+      "views": 12038
+    },
+    {
+      "id": "2048613566807515200",
+      "username": "ollama",
+      "text": "❤️ @ying11231, @BanghuaZ and @lmsysorg @sgl_project @radixark  \n\nLet's go DeepSeek v4 Pro!",
+      "timestamp": "2026-04-27T04:01:50+00:00",
+      "url": "https://x.com/ollama/status/2048613566807515200",
+      "images": [],
+      "likes": 126,
+      "retweets": 8,
+      "views": 11559
+    },
+    {
+      "id": "2048606773318221935",
+      "username": "minchoi",
+      "text": "This Grok Imagine lipsync &amp; audio update is wild 🤯 https://t.co/sLJkSYPIVY",
+      "timestamp": "2026-04-27T03:34:50+00:00",
+      "url": "https://x.com/minchoi/status/2048606773318221935",
+      "images": [],
+      "likes": 33,
+      "retweets": 5,
+      "views": 17333
+    },
+    {
+      "id": "2048606646318801186",
+      "username": "emollick",
+      "text": "GPT-5.5 in Codex made a surprisingly solid table top RPG game masters guide &amp; player guide, which it \"playtested.\" It leans into the storytelling aspect, and still has some very LLM-y elements, but it is a novel setting.\n\nPDF: https://t.co/XCc82eRUao\nMore: https://t.co/6JUstzncVD https://t.co/x67UZRqo63",
+      "timestamp": "2026-04-27T03:34:20+00:00",
+      "url": "https://x.com/emollick/status/2048606646318801186",
+      "images": [
+        "https://pbs.twimg.com/media/HG4ch-VbcAApET-.jpg"
+      ],
+      "likes": 120,
+      "retweets": 9,
+      "views": 10047
+    },
+    {
+      "id": "2048194324391936364",
+      "username": "satyanadella",
+      "text": "Really fun to try this app while in Sydney this week, which uses our tools to help fans deep dive into cricket matches, players, and history. https://t.co/D1wgpu0ZIA",
+      "timestamp": "2026-04-26T00:15:55+00:00",
+      "url": "https://x.com/satyanadella/status/2048194324391936364",
+      "images": [],
+      "likes": 1183,
+      "retweets": 72,
+      "views": 133175
     }
   ]
 }
