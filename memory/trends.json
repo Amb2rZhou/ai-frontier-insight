@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-27T11:11:30.712547+08:00",
+  "last_updated": "2026-04-28T09:34:19.072311+08:00",
   "trends": [
     {
       "id": "ai_safety_pivot_and_accelerated_agi_time",
@@ -15,9 +15,8 @@
         "Content Authentication"
       ],
       "trajectory": "accelerating",
-      "signal_count": 89,
+      "signal_count": 92,
       "weekly_counts": [
-        3,
         0,
         2,
         2,
@@ -28,7 +27,8 @@
         0,
         1,
         1,
-        2
+        2,
+        3
       ],
       "key_events": [
         {
@@ -237,9 +237,8 @@
         "Business Models"
       ],
       "trajectory": "accelerating",
-      "signal_count": 65,
+      "signal_count": 67,
       "weekly_counts": [
-        1,
         2,
         1,
         1,
@@ -250,7 +249,8 @@
         2,
         2,
         2,
-        1
+        1,
+        2
       ],
       "key_events": [
         {
@@ -457,17 +457,18 @@
       "id": "enterprise_ai_agent_adoption_and_product",
       "name": "Enterprise AI Agent Adoption and Product Launches",
       "related_tags": [
-        "Personalization",
-        "AI Agents",
+        "Information Retrieval",
         "Consumer AI",
-        "Product Launch",
+        "AI Agents",
+        "Anthropic",
+        "Search",
+        "Personalization",
         "Enterprise AI",
-        "Anthropic"
+        "Product Launch"
       ],
       "trajectory": "accelerating",
-      "signal_count": 144,
+      "signal_count": 155,
       "weekly_counts": [
-        4,
         2,
         1,
         2,
@@ -478,93 +479,10 @@
         3,
         2,
         1,
+        4,
         4
       ],
       "key_events": [
-        {
-          "date": "2026-03-28",
-          "event": "OpenAI Codex Launches Plugin Support, Enabling New Workflow Automation"
-        },
-        {
-          "date": "2026-03-30",
-          "event": "OpenAI Codex launches security feature for vulnerability detection, enhancing enterprise security capabilities"
-        },
-        {
-          "date": "2026-03-31",
-          "event": "Claude Code Launches Auto Mode for Enterprise and API Users; OpenAI Codex Usage Data Shows Developers Delegate Long-Running Tasks Overnight"
-        },
-        {
-          "date": "2026-04-01",
-          "event": "Salesforce Announces AI-Heavy Slack Overhaul with 30+ New Features; Anthropic Claude Code Source Code Leak"
-        },
-        {
-          "date": "2026-04-02",
-          "event": "OpenAI Codex Resets Rate Limits Proactively Amid High Usage"
-        },
-        {
-          "date": "2026-04-03",
-          "event": "Multiple enterprise agent launches: Perplexity Computer for taxes, Claude Code Windows expansion, Box content agent, OpenAI Codex pay-as-you-go pricing"
-        },
-        {
-          "date": "2026-04-04",
-          "event": "Nvidia launches enterprise AI agent platform with major partners; Anthropic restricts third-party harnesses, sparking developer backlash; Cursor AI doubles Composer 2 usage, highlighting agent adoption growth"
-        },
-        {
-          "date": "2026-04-05",
-          "event": "Anthropic restricts third-party tool access for Claude Code subscribers; OpenAI Codex integrates Vercel plugin for streamlined deployment"
-        },
-        {
-          "date": "2026-04-06",
-          "event": "Salesforce Proposes GPA for GUI Process Automation from Demonstrations"
-        },
-        {
-          "date": "2026-04-07",
-          "event": "VentureBeat: NeuBird AI Launches Falcon and FalconClaw for Autonomous Software Issue Management"
-        },
-        {
-          "date": "2026-04-08",
-          "event": "Block Unveils Managerbot, a Proactive AI Agent for Square Sellers"
-        },
-        {
-          "date": "2026-04-09",
-          "event": "a16z Report: 29% of Fortune 500 Are Paying Customers of Leading AI Startups"
-        },
-        {
-          "date": "2026-04-10",
-          "event": "Cursor AI Agents Can Now Attach Demos and Screenshots to GitHub PRs; Anthropic Releases SDK Update with Beta 'Advisor Tool' for Managed Agents"
-        },
-        {
-          "date": "2026-04-11",
-          "event": "Anthropic Launches Claude Managed Agents Public Beta; Muse Spark API Coming Soon for Agent Integration"
-        },
-        {
-          "date": "2026-04-12",
-          "event": "AMD's GAIA AI Agent Platform Adds Chat-Based Custom Agent Building"
-        },
-        {
-          "date": "2026-04-14",
-          "event": "Alibaba Proposes AgentSwing for Adaptive Context Management in Web Agents; Andrew Ng Discusses Future of Software Engineering Amid AI Agent Acceleration; Perplexity CEO Highlights Full Circle Pivot to 'Computer' for Founders"
-        },
-        {
-          "date": "2026-04-15",
-          "event": "Google Devs Share Five Architectural Patterns for Production-Grade AI Agents; Databricks Research Shows Multi-Step Agents Outperform Single-Turn RAG by 21%"
-        },
-        {
-          "date": "2026-04-16",
-          "event": "OpenAI Agents SDK Evolution with Native Sandbox and Model-Native Harness; VentureBeat: Frontier Models Fail One in Three Production Attempts, Harder to Audit"
-        },
-        {
-          "date": "2026-04-17",
-          "event": "OpenAI Majorly Updates Codex Desktop App, Transforming It into a Full AI Operator; Salesforce Launches Headless 360 to Turn Its Platform into AI Agent Infrastructure; Meta Shares Insights on Unified AI Agents for Hyperscale Infrastructure Optimization; Google Research Paper Introduces Auto-Diagnose for LLM-Based Integration Test Failure Analysis"
-        },
-        {
-          "date": "2026-04-17",
-          "event": "OpenAI massively upgrades Codex into full AI computer operator; Salesforce launches Headless 360 as AI agent infrastructure"
-        },
-        {
-          "date": "2026-04-18",
-          "event": "Anthropic Launches Claude Design, AI Tool for Visual Prototyping"
-        },
         {
           "date": "2026-04-19",
           "event": "Scale AI CEO Highlights Muse Spark's Strong Performance on Agentic Benchmark"
@@ -694,10 +612,9 @@
         "OpenAI",
         "xAI"
       ],
-      "trajectory": "stable",
-      "signal_count": 35,
+      "trajectory": "accelerating",
+      "signal_count": 37,
       "weekly_counts": [
-        1,
         2,
         1,
         0,
@@ -708,7 +625,8 @@
         0,
         1,
         0,
-        0
+        0,
+        2
       ],
       "key_events": [
         {
@@ -892,52 +810,6 @@
       "created": "2026-02-25"
     },
     {
-      "id": "ai-powered_search_and_information_retrie",
-      "name": "AI-Powered Search and Information Retrieval Transformation",
-      "related_tags": [
-        "Information Retrieval",
-        "Enterprise AI",
-        "Search",
-        "AI Agents"
-      ],
-      "trajectory": "fading",
-      "signal_count": 5,
-      "weekly_counts": [
-        1,
-        1,
-        2,
-        1,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "key_events": [
-        {
-          "date": "2026-02-25",
-          "event": "First detected"
-        },
-        {
-          "date": "2026-02-25",
-          "event": "Nimble launches agentic search platform claiming 99% accuracy"
-        },
-        {
-          "date": "2026-02-25",
-          "event": "Nimble launches agentic search platform claiming 99% accuracy; Grok-4.20-Beta1 tops search arena"
-        },
-        {
-          "date": "2026-02-25",
-          "event": "Nimble launches agentic search platform claiming 99% accuracy; Grok 4.20 Beta tops search arena"
-        },
-        {
-          "date": "2026-02-28",
-          "event": "Perplexity launches 'Computer' unified AI agent system"
-        }
-      ],
-      "created": "2026-02-25"
-    },
-    {
       "id": "autonomous_ai_agent_development_ecosyste",
       "name": "Autonomous AI Agent Development Ecosystem Growth",
       "related_tags": [
@@ -1108,12 +980,11 @@
         "Europe"
       ],
       "trajectory": "stable",
-      "signal_count": 12,
+      "signal_count": 13,
       "weekly_counts": [
         1,
         1,
         1,
-        1,
         0,
         0,
         0,
@@ -1121,7 +992,8 @@
         1,
         1,
         0,
-        0
+        0,
+        1
       ],
       "key_events": [
         {
@@ -1193,7 +1065,7 @@
         "AI Infrastructure"
       ],
       "trajectory": "accelerating",
-      "signal_count": 65,
+      "signal_count": 67,
       "weekly_counts": [
         1,
         1,
@@ -1201,11 +1073,11 @@
         1,
         1,
         1,
-        1,
         2,
         2,
         2,
         1,
+        2,
         2
       ],
       "key_events": [
@@ -1436,15 +1308,18 @@
       "id": "ai_security_vulnerabilities_in_open-weig",
       "name": "AI Security Vulnerabilities in Open-Weight Models",
       "related_tags": [
-        "AI Security",
-        "Model Vulnerability",
+        "Risk Management",
+        "LLM Safety",
+        "Content Moderation",
+        "Privacy",
+        "Research",
         "Open Source",
-        "Risk Management"
+        "AI Security",
+        "AI Safety"
       ],
       "trajectory": "accelerating",
-      "signal_count": 58,
+      "signal_count": 62,
       "weekly_counts": [
-        1,
         0,
         1,
         0,
@@ -1455,165 +1330,10 @@
         1,
         1,
         3,
-        1
+        1,
+        2
       ],
       "key_events": [
-        {
-          "date": "2026-02-25",
-          "event": "First detected"
-        },
-        {
-          "date": "2026-02-25",
-          "event": "Systematic prefill attack vulnerability found in 50 open-weight LLMs"
-        },
-        {
-          "date": "2026-02-27",
-          "event": "Invisible Unicode character attack tricks AI agents, revealing new vulnerability class"
-        },
-        {
-          "date": "2026-02-27",
-          "event": "Invisible Unicode character attack tricks AI agents, revealing new vulnerability class"
-        },
-        {
-          "date": "2026-03-01",
-          "event": "AI-powered disinformation and cyber attacks amplify amid real-world conflict"
-        },
-        {
-          "date": "2026-03-02",
-          "event": "VibeGuard: Privacy tool for 'vibecoding' with AI assistants"
-        },
-        {
-          "date": "2026-03-02",
-          "event": "Arxiv: Controllable reasoning models can protect private information in AI agent traces"
-        },
-        {
-          "date": "2026-03-04",
-          "event": "Study reveals AI-generated code security crisis: only 10% is secure; Frontier models can evade detection by acting maliciously at low probabilities"
-        },
-        {
-          "date": "2026-03-05",
-          "event": "Arxiv: Inherited Goal Drift - Contextual pressure can undermine AI agent goals"
-        },
-        {
-          "date": "2026-03-07",
-          "event": "OpenAI releases Codex Security in research preview; Arxiv: Censored LLMs as natural testbed for secret knowledge elicitation"
-        },
-        {
-          "date": "2026-03-08",
-          "event": "Arxiv: Censored LLMs as a natural testbed for secret knowledge elicitation"
-        },
-        {
-          "date": "2026-03-08",
-          "event": "Arxiv: Censored LLMs as a natural testbed for secret knowledge elicitation"
-        },
-        {
-          "date": "2026-03-09",
-          "event": "New backdoor attack form in multimodal diffusion models - modality collapse"
-        },
-        {
-          "date": "2026-03-09",
-          "event": "Community highlights risks of AI agent commands bypassing permissions"
-        },
-        {
-          "date": "2026-03-09",
-          "event": "Arxiv: When One Modality Rules Them All - Backdoor modality collapse in multimodal diffusion models"
-        },
-        {
-          "date": "2026-03-10",
-          "event": "OpenAI acquires Promptfoo to strengthen AI security testing; Community highlights AI agent security risks via email hijacking"
-        },
-        {
-          "date": "2026-03-13",
-          "event": "AI Facial Recognition Error Leads to Wrongful Imprisonment, Highlighting Governance Risks"
-        },
-        {
-          "date": "2026-03-15",
-          "event": "Perplexity submits AI agent security framework to NIST; NVIDIA to host GTC panel on securing self-evolving AI agents; Research: Agent swarms less effective than agent organizations"
-        },
-        {
-          "date": "2026-03-16",
-          "event": "Research: Mitigating Memorization in Text-to-Image Diffusion via Prompt Augmentation"
-        },
-        {
-          "date": "2026-03-18",
-          "event": "Research: Visual distraction undermines moral reasoning in vision-language models, revealing new safety vulnerability"
-        },
-        {
-          "date": "2026-03-19",
-          "event": "Research: New Benchmark for Safety Evaluation of Unified Multimodal Models"
-        },
-        {
-          "date": "2026-03-20",
-          "event": "Meta's rogue AI agent incident exposes IAM gaps in enterprise security"
-        },
-        {
-          "date": "2026-03-21",
-          "event": "Research: Alignment Makes LLMs Normative, Not Descriptive"
-        },
-        {
-          "date": "2026-03-22",
-          "event": "Research: Alignment Makes LLMs Normative, Not Descriptive"
-        },
-        {
-          "date": "2026-03-23",
-          "event": "Research: Alignment Makes LLMs Normative, Not Descriptive; Community Concern Over AI Security in Open-Weight Models"
-        },
-        {
-          "date": "2026-03-24",
-          "event": "Research: Current Alignment Evaluation Methods May Be Flawed"
-        },
-        {
-          "date": "2026-03-25",
-          "event": "Major PyPI supply chain attack via litellm library"
-        },
-        {
-          "date": "2026-03-27",
-          "event": "Wikipedia cracks down on AI-generated article writing, highlighting content authenticity concerns"
-        },
-        {
-          "date": "2026-03-28",
-          "event": "Anthropic's Next-Gen Model 'Claude Mythos' Leaked, Poses Cybersecurity Risks"
-        },
-        {
-          "date": "2026-03-29",
-          "event": "Stanford Study Warns of Dangers in AI Personal Advice, highlighting new safety risks in AI advice systems"
-        },
-        {
-          "date": "2026-03-30",
-          "event": "Study warns of AI-generated content in workplace communication, revealing new social engineering risks"
-        },
-        {
-          "date": "2026-03-31",
-          "event": "UK AI Security Institute Research on Natural Emergent Misalignment from Reward Hacking"
-        },
-        {
-          "date": "2026-04-01",
-          "event": "Anthropic Claude Code Source Code Leak"
-        },
-        {
-          "date": "2026-04-02",
-          "event": "Google DeepMind Introduces AI Agent Traps Framework"
-        },
-        {
-          "date": "2026-04-04",
-          "event": "Meta pauses work with data vendor Mercor after security breach"
-        },
-        {
-          "date": "2026-04-06",
-          "event": "The Verge Exposes AI Music Platform Suno's Copyright Risks"
-        },
-        {
-          "date": "2026-04-10",
-          "event": "Hugging Face CEO Warns of Cybersecurity Risks in Lightly Maintained Open-Source Projects"
-        },
-        {
-          "date": "2026-04-11",
-          "event": "VentureBeat: AI Agent Zero-Trust Architectures Emerge"
-        },
-        {
-          "date": "2026-04-12",
-          "event": "OpenAI Discloses Security Incident Related to Third-Party Library"
-        },
         {
           "date": "2026-04-13",
           "event": "VentureBeat Warns On-Device AI Inference as CISO Blind Spot"
@@ -1641,6 +1361,14 @@
         {
           "date": "2026-04-27",
           "event": "University of Toronto proposes SIREN for LLM safety detection; Fudan University examines reward hacking"
+        },
+        {
+          "date": "2026-04-27",
+          "event": "OpenAI Releases Privacy Filter Model on HuggingFace for Content Safety"
+        },
+        {
+          "date": "2026-04-27",
+          "event": "First detected"
         },
         {
           "date": "2026-04-27",
@@ -1724,9 +1452,8 @@
         "AI Adoption"
       ],
       "trajectory": "accelerating",
-      "signal_count": 47,
+      "signal_count": 49,
       "weekly_counts": [
-        1,
         1,
         2,
         2,
@@ -1737,7 +1464,8 @@
         2,
         1,
         3,
-        1
+        1,
+        2
       ],
       "key_events": [
         {
@@ -2192,32 +1920,27 @@
       "created": "2026-04-25"
     },
     {
-      "id": "ai-powered_content_moderation_and_safety",
-      "name": "AI-Powered Content Moderation and Safety Detection Research",
+      "id": "ai_funding_mega-rounds_and_founder_spin-",
+      "name": "AI Funding Mega-rounds and Founder Spin-outs",
       "related_tags": [
-        "AI Safety",
-        "Content Moderation",
-        "LLM Safety",
-        "Privacy",
-        "Research"
+        "AI Funding",
+        "Reinforcement Learning",
+        "DeepMind",
+        "NVIDIA",
+        "Startups"
       ],
       "trajectory": "accelerating",
-      "signal_count": 2,
+      "signal_count": 1,
       "weekly_counts": [
-        1,
         1
       ],
       "key_events": [
         {
-          "date": "2026-04-27",
+          "date": "2026-04-28",
           "event": "First detected"
-        },
-        {
-          "date": "2026-04-27",
-          "event": "OpenAI Releases Privacy Filter Model on HuggingFace for Content Safety"
         }
       ],
-      "created": "2026-04-27"
+      "created": "2026-04-28"
     }
   ]
 }
