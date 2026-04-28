@@ -56,6 +56,18 @@ Figure out the week to cover. The weekly cycle is **last Tuesday → this Monday
 
 4. **Previous week's report** — `data/weekly/{prev-year}-W{prev-week}.md`. Read for cross-week continuity: what trend was analyzed, what predictions were made, what threads can be continued.
 
+**Pass 1.5 — Wiki context enrichment (在 Pass 1 之后、构思论点之前):**
+
+从 Pass 1 读取的信号中，识别本周高频出现的实体（公司、产品、技术趋势），然后读取对应的 wiki 页面作为补充上下文。Wiki 位于 `wiki/` 目录，按 `companies/`、`products/`、`technologies/`、`trends/` 分类。
+
+操作方法：
+1. 统计本周信号中出现频率最高的 5-8 个实体
+2. 读取对应的 wiki 页面（特别关注 `## Weekly Insights` 和 `## Key Developments` 部分）
+3. Wiki 提供的**跨周时间线**和**累积洞察**是日报数据无法替代的——它能帮你看到：一个信号在更长的趋势弧线中处于什么位置，某家公司的本周动作是否延续了一个持续数周的模式，以及前几周的"未解决问题"是否在本周加剧或被回应
+4. 同时读取 `wiki/index.md` 了解整体知识图谱结构和 Key Narrative Arc
+
+不需要全读——读 top 5-8 个最相关的页面就够。目标是让论点建立在更深的历史上下文之上，而不是只看本周的信号快照。
+
 **Pass 2 — On-demand only (DO NOT bulk-read):**
 
 5. **`data/x-monitor/{date}.json`** — Raw X/Twitter data (~110KB each). Only read when a specific signal needs deeper context.

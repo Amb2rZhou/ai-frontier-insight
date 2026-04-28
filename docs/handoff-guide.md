@@ -8,7 +8,7 @@
 
 ## 一、这是什么
 
-AI Frontier Insight Bot 是一个 **AI 前沿情报系统**，每天自动采集多源信息、用 LLM 提取关键信号、生成带洞察的日报，推送至企业微信群。
+AI Frontier Insight Bot 是一个 **AI 前沿情报系统**，每天自动采集多源信息、用 LLM 提取关键信号、生成带洞察的日报，推送至Hi群。
 
 **现状**：v1 稳定运行 2 个多月（2026-02-25 至今），日报从未中断。跑在我的 Mac 上，launchd 定时触发。
 
@@ -36,6 +36,25 @@ AI Frontier Insight Bot 是一个 **AI 前沿情报系统**，每天自动采集
 └──────────────┘
 ```
 
+### Twitter 数据采集现状（重要）
+
+Twitter 数据**不是通过 API 采集的**，而是用 Playwright 浏览器自动化爬取：
+
+1. `x-monitor/` 是一个独立子系统，用 Playwright 无头浏览器登录 X 网页版
+2. 定时打开预设的 X List 页面，滚动加载推文，解析 DOM 提取内容
+3. 产出 JSON 文件存到 `data/x-monitor/{date}.json`
+4. 主 pipeline 的 `src/collectors/twitter.py` **只是读取这些 JSON 文件**，本身不做网络请求
+
+**为什么这么做**：之前 X API 需要 Pro 层级（$5,000/月），成本不合理。
+
+**已知问题**：
+- 依赖本地浏览器环境，无法在无 GUI 的服务器上运行
+- X 网页改版会导致 DOM 选择器失效
+- 登录态过期需要手动重新登录
+- 偶尔漏抓数据（页面加载不完整）
+
+**v2 方案**：X API 已改为按量付费（~$66/月），应直接改用 API 采集，彻底替换 Playwright 方案。详见附录 D。
+
 ### 详细步骤
 
 | Step | 代码位置 | 做什么 |
@@ -47,8 +66,8 @@ AI Frontier Insight Bot 是一个 **AI 前沿情报系统**，每天自动采集
 | 5 | `src/memory/manager.py` | 更新趋势追踪（trends.json），保存本周信号 |
 | 6 | `src/wiki/updater.py` | 自动把今天的 insight 写入对应 wiki 页面的时间线 |
 | 7 | `src/formatters/daily_markdown.py` | 格式化日报 markdown |
-| 8 | `src/delivery/webhook.py` | 通过 RedCity webhook 发送到企业微信群 |
-| 9 | `scripts/run_daily.sh` | Git commit + push，供个人网站拉取展示 |
+| 8 | `src/delivery/webhook.py` | 通过 RedCity webhook 发送到Hi群 |
+| 9 | `scripts/run_daily.sh` | Git commit + push |
 
 ### 信号筛选逻辑
 
@@ -66,6 +85,31 @@ AI Frontier Insight Bot 是一个 **AI 前沿情报系统**，每天自动采集
 - **主力模型**：DeepSeek V3（便宜，日均花费 < ¥1）
 - **备用模型**：Anthropic Claude Haiku / Sonnet
 - 优先用 `DEEPSEEK_API_KEY`，没有则 fallback 到 `ANTHROPIC_API_KEY`
+
+### 分发流程（当前）
+
+Pipeline 本身**不直接推送消息**，而是绕了一层 GitHub 中转。原因：Twitter 数据依赖 Playwright 爬虫，云端 IP 容易触发 X 的反爬机制，所以整个 pipeline 只能跑在本地 Mac 上；而 Seal（公司内部工具）无法访问本地文件，只能从 GitHub 拉取——因此形成了「本地生成 → push 到 GitHub → Seal 拉取」的迂回链路。
+
+**v2 用 X API 后可以在云端跑 pipeline，就不再需要 GitHub 中转了。**
+
+具体流程：
+
+1. Pipeline 生成日报 markdown，`run_daily.sh` 自动 `git push` 到 GitHub 仓库
+2. **Seal**（公司内部工具）定时从 GitHub 仓库拉取当天新增的日报文件
+3. Seal 将内容写入指定的 **Redoc 空间**（内部文档平台）
+4. Seal 通过 webhook 向 **Hi 群**发送 Redoc 文档链接
+
+> 注：代码里的 `src/delivery/webhook.py` 和 `WEBHOOK_CHANNELS` 配置是早期直接推送方案的遗留，现已不使用。
+
+**后续分发建议**：
+
+v2 在云端跑 pipeline 后，不再需要 GitHub 中转。Seal 或其他 agent 可以直接读取本地产出的日报 markdown 文件，写入 Redoc 空间后通过 webhook 发链接到 Hi 群。整条链路变成：
+
+```
+云端 pipeline 生成日报 → Seal/agent 读取本地文件 → 写入 Redoc → webhook 发链接
+```
+
+也可以跳过 Redoc，直接用 webhook 推送日报全文（复用 `src/delivery/webhook.py`），取决于团队偏好。
 
 ---
 
@@ -147,8 +191,7 @@ ai-frontier-insight/
 │   └── data/pipeline/         # 每日推文快照
 │
 └── docs/
-    ├── handoff-guide.md       # 本文档
-    └── _posts/                # Jekyll 日报页面（个人网站用）
+    └── handoff-guide.md       # 本文档
 ```
 
 ---
@@ -192,7 +235,7 @@ LLM 每天做两件事：
 云端 Agent（内部服务器）
   ├── 数据采集：X API (付费) + RSS + ArXiv + GitHub + HuggingFace
   ├── LLM-Wiki：自动维护结构化知识库
-  ├── 定时推送：日报/周报 → 企业微信 RedCity webhook
+  ├── 定时推送：日报/周报 → Hi RedCity webhook
   ├── 交互响应：@bot 提问/追问/查脉络/待办
   └── Wiki 可视化：Quartz 部署的 web 界面
 ```
@@ -242,7 +285,7 @@ LLM 每天做两件事：
 ### Phase 3：Agent 交互层
 
 - [ ] 部署 OpenClaw 或类似框架作为群聊 Agent 基座
-- [ ] 对接企业微信消息回调 API
+- [ ] 对接Hi消息回调 API
 - [ ] 实现 @bot 交互（wiki 查询 + RAG 补充）
 
 ### Phase 4：Wiki 可视化
@@ -258,7 +301,6 @@ LLM 每天做两件事：
 | `~/Library/LaunchAgents/com.ai-frontier-insight.*` | macOS 本地定时 | cron/systemd |
 | `src/collectors/twitter.py` | 读本地 JSON 文件 | 新写 X API collector |
 | `scripts/run_daily.sh` 中的 git push | 绕 GitHub 中转 | 云端直推 webhook |
-| `docs/_posts/` Jekyll 页面 | 个人网站用 | 不需要 |
 
 ### 可直接复用的核心代码
 
