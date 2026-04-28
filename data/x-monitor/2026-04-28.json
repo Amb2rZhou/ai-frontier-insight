@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-28T08:05:48.637415",
+  "scraped_at": "2026-04-28T11:28:19.305686",
   "date": "2026-04-28",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 43,
-  "account_count": 30,
+  "tweet_count": 63,
+  "account_count": 37,
   "tweets": [
     {
       "id": "2048867597203222783",
@@ -513,6 +513,242 @@
       "likes": 2741,
       "retweets": 394,
       "views": 105306
+    },
+    {
+      "id": "2048966332876828859",
+      "username": "satyanadella",
+      "text": "Great example of what Foundry enables: durable, stateful agents that run across time boundaries, orchestrate tools and models, and close the loop with evaluation and improvement over long-running workflows. @jeffhollan https://t.co/v0yWTDIcn3",
+      "timestamp": "2026-04-28T03:23:36+00:00",
+      "url": "https://x.com/satyanadella/status/2048966332876828859",
+      "images": [],
+      "likes": 23,
+      "retweets": 3,
+      "views": 1255
+    },
+    {
+      "id": "2048962682246578326",
+      "username": "Austen",
+      "text": "I thought Instagram ads were supposed to be targeted wtf https://t.co/YtwZTxiuLp",
+      "timestamp": "2026-04-28T03:09:05+00:00",
+      "url": "https://x.com/Austen/status/2048962682246578326",
+      "images": [
+        "https://pbs.twimg.com/media/HG9gssna4AALOBA.jpg"
+      ],
+      "likes": 12,
+      "retweets": 0,
+      "views": 1325
+    },
+    {
+      "id": "2048961294896627980",
+      "username": "minchoi",
+      "text": "Memes will never be the same😂\n\nGrok Imagine https://t.co/MYvsu1QZDm",
+      "timestamp": "2026-04-28T03:03:35+00:00",
+      "url": "https://x.com/minchoi/status/2048961294896627980",
+      "images": [],
+      "likes": 18,
+      "retweets": 0,
+      "views": 1471
+    },
+    {
+      "id": "2048959629674373260",
+      "username": "nickcammarata",
+      "text": "feature request for every ai co: let the ai know I’m using voice dictation so it can be more assuming of typos. I’ll say polysemanticity sixty times and then it’ll read it as polycentricity once and the ai will get all confused unless i tell it assume dictation errors",
+      "timestamp": "2026-04-28T02:56:58+00:00",
+      "url": "https://x.com/nickcammarata/status/2048959629674373260",
+      "images": [],
+      "likes": 25,
+      "retweets": 0,
+      "views": 1014
+    },
+    {
+      "id": "2048958572562710550",
+      "username": "thsottiaux",
+      "text": "We will ship again this week. Codex has achieved escape velocity and will keep improving rapidly.",
+      "timestamp": "2026-04-28T02:52:46+00:00",
+      "url": "https://x.com/thsottiaux/status/2048958572562710550",
+      "images": [],
+      "likes": 1152,
+      "retweets": 48,
+      "views": 23668
+    },
+    {
+      "id": "2048957477106938075",
+      "username": "steipete",
+      "text": "Finally have great solutions for PR/Issue management, remote test execution, massive CI infra for testing. Streamlines a lot of the work.",
+      "timestamp": "2026-04-28T02:48:24+00:00",
+      "url": "https://x.com/steipete/status/2048957477106938075",
+      "images": [],
+      "likes": 132,
+      "retweets": 2,
+      "views": 10596
+    },
+    {
+      "id": "2048956542133936547",
+      "username": "natolambert",
+      "text": "Spinning up a quick AGI demo at @Zai_org https://t.co/timUb08iy2",
+      "timestamp": "2026-04-28T02:44:42+00:00",
+      "url": "https://x.com/natolambert/status/2048956542133936547",
+      "images": [
+        "https://pbs.twimg.com/media/HG9bHE7a4AAjMPd.jpg"
+      ],
+      "likes": 56,
+      "retweets": 0,
+      "views": 2241
+    },
+    {
+      "id": "2048945169622294612",
+      "username": "boazbaraktcs",
+      "text": "This is such a cool work!!",
+      "timestamp": "2026-04-28T01:59:30+00:00",
+      "url": "https://x.com/boazbaraktcs/status/2048945169622294612",
+      "images": [],
+      "likes": 12,
+      "retweets": 0,
+      "views": 1456
+    },
+    {
+      "id": "2048943201512481046",
+      "username": "shaneguML",
+      "text": "Very interesting model for lots of counterfactual experimentation. Thank you for sharing! @status_effects @DavidDuvenaud @AlecRad",
+      "timestamp": "2026-04-28T01:51:41+00:00",
+      "url": "https://x.com/shaneguML/status/2048943201512481046",
+      "images": [],
+      "likes": 13,
+      "retweets": 2,
+      "views": 3597
+    },
+    {
+      "id": "2048941267149803651",
+      "username": "Miles_Brundage",
+      "text": "Excited to share this new blog post on:\n\n- why memorization in language models is important\n- why it is typically underestimated\n- how a new algorithm helps understand it better\n- why this matters for AI auditing \nhttps://t.co/YZ1ytsRQDB",
+      "timestamp": "2026-04-28T01:44:00+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2048941267149803651",
+      "images": [],
+      "likes": 29,
+      "retweets": 6,
+      "views": 2876
+    },
+    {
+      "id": "2048940671487152366",
+      "username": "gdb",
+      "text": "productive happy hour with a number of openai engineering managers today https://t.co/blRPMUcGVH",
+      "timestamp": "2026-04-28T01:41:38+00:00",
+      "url": "https://x.com/gdb/status/2048940671487152366",
+      "images": [
+        "https://pbs.twimg.com/media/HG9MrapWEAAoKpX.jpg"
+      ],
+      "likes": 527,
+      "retweets": 13,
+      "views": 41249
+    },
+    {
+      "id": "2048935345937649905",
+      "username": "dylan522p",
+      "text": "Thank god these drones run on the American tech stack https://t.co/wtLT9rNjkr",
+      "timestamp": "2026-04-28T01:20:28+00:00",
+      "url": "https://x.com/dylan522p/status/2048935345937649905",
+      "images": [
+        "https://pbs.twimg.com/media/HG9Dwnwa0AALivN.jpg"
+      ],
+      "likes": 202,
+      "retweets": 3,
+      "views": 18726
+    },
+    {
+      "id": "2048931214233378951",
+      "username": "DeryaTR_",
+      "text": "Asked GPT-5.5 Images-2 to create a poster for 10 things you can do to live the healthiest life possible. This would be good to hang on the wall as a daily reminder with a checklist. Most people know these things, but very few follow them all, myself included. 😊 https://t.co/n641Y5Dctc",
+      "timestamp": "2026-04-28T01:04:03+00:00",
+      "url": "https://x.com/DeryaTR_/status/2048931214233378951",
+      "images": [
+        "https://pbs.twimg.com/media/HG9D5sYXYAA4lYn.jpg"
+      ],
+      "likes": 31,
+      "retweets": 4,
+      "views": 1928
+    },
+    {
+      "id": "2048926007491736013",
+      "username": "shaneguML",
+      "text": "Intelligence is prediction. Congratulations to Dave, @sequoia @lightspeedvp ! We look forward to Dave being a keynote speaker at our 1st workshop on RL from World Feedback at ICML in Korea. https://t.co/bCDgx9yt7F",
+      "timestamp": "2026-04-28T00:43:22+00:00",
+      "url": "https://x.com/shaneguML/status/2048926007491736013",
+      "images": [
+        "https://pbs.twimg.com/media/HG8_WHGbUAAWX1m.jpg"
+      ],
+      "likes": 36,
+      "retweets": 0,
+      "views": 4853
+    },
+    {
+      "id": "2048923001328988354",
+      "username": "emollick",
+      "text": "This is an incredibly cool experiment\n\nIt is also fascinating that the model knows information up to 1931,  but, at least in some science topics, seems very stuck in the early 1900s. For example, it defends the lumiferous aether hypothesis &amp; has a distrust of special relativity https://t.co/UvcUFuJb90",
+      "timestamp": "2026-04-28T00:31:25+00:00",
+      "url": "https://x.com/emollick/status/2048923001328988354",
+      "images": [
+        "https://pbs.twimg.com/media/HG88kdwb0AEkKvw.jpg"
+      ],
+      "likes": 128,
+      "retweets": 6,
+      "views": 16956
+    },
+    {
+      "id": "2048922200393302074",
+      "username": "Miles_Brundage",
+      "text": "The Princess and the Pea coded https://t.co/SqCfhTK4uv",
+      "timestamp": "2026-04-28T00:28:14+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2048922200393302074",
+      "images": [
+        "https://pbs.twimg.com/media/HG874ZbbgAAzN6i.jpg"
+      ],
+      "likes": 15,
+      "retweets": 0,
+      "views": 756
+    },
+    {
+      "id": "2048920280328700237",
+      "username": "gdb",
+      "text": "how is gpt-5.5 performing for you?",
+      "timestamp": "2026-04-28T00:20:36+00:00",
+      "url": "https://x.com/gdb/status/2048920280328700237",
+      "images": [],
+      "likes": 538,
+      "retweets": 7,
+      "views": 56674
+    },
+    {
+      "id": "2048916226634846566",
+      "username": "GaryMarcus",
+      "text": "In this informal poll, only a fifth of all coders and software engineers have gone over full time to vibe coding. Most use vibe coding; few use it exclusively. Most still do some hand coding.\n\nAmateurs without considerable coding experience should consider carefully.",
+      "timestamp": "2026-04-28T00:04:30+00:00",
+      "url": "https://x.com/GaryMarcus/status/2048916226634846566",
+      "images": [],
+      "likes": 36,
+      "retweets": 0,
+      "views": 5624
+    },
+    {
+      "id": "2048871454239052147",
+      "username": "GaryMarcus",
+      "text": "I don’t always agree with @ElonMusk. \n\nI often disagree. Sometimes loudly.\n\nBut he’s basically right here, as far I can see.",
+      "timestamp": "2026-04-27T21:06:35+00:00",
+      "url": "https://x.com/GaryMarcus/status/2048871454239052147",
+      "images": [],
+      "likes": 121,
+      "retweets": 10,
+      "views": 13492
+    },
+    {
+      "id": "2047442723314303442",
+      "username": "Miles_Brundage",
+      "text": "Tired: dropping a new model/product on the same day to steal [Anthropic's, OpenAI's, GDM's] thunder on launch day\n\nWired: making confusing government leadership changes to steal from [Anthropic's, OpenAI's, GDM's] thunder on launch day",
+      "timestamp": "2026-04-23T22:29:19+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2047442723314303442",
+      "images": [],
+      "likes": 39,
+      "retweets": 1,
+      "views": 3119
     }
   ]
 }
