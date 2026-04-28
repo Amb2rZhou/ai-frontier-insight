@@ -4,6 +4,7 @@ Uses Haiku for cost-efficient high-volume filtering.
 """
 
 import json
+import re
 from typing import Dict, List, Optional
 
 from ..collectors.base import RawItem
@@ -11,6 +12,13 @@ from ..memory.manager import load_trends, get_recent_signal_titles
 from ..utils.config import load_prompt, load_settings
 from ..utils.json_repair import parse_json_response
 from .ai_client import call_ai, call_haiku
+
+
+def _tokenize(text: str) -> set:
+    """Normalize and tokenize a title for dedup comparison."""
+    text = re.sub(r"[,:;'\"()\[\]{}]", " ", text.lower())
+    text = text.replace("-", " ")
+    return {w for w in text.split() if len(w) > 1}
 
 
 def _title_similar(a: str, b: str, threshold: float = 0.6) -> bool:
@@ -21,8 +29,8 @@ def _title_similar(a: str, b: str, threshold: float = 0.6) -> bool:
     2. If first 2 meaningful words match (subject + verb), lower threshold to 0.35
        e.g. "Anthropic Restricts ..." vs "Anthropic Restricts ..." = same event
     """
-    words_a = set(a.lower().split())
-    words_b = set(b.lower().split())
+    words_a = _tokenize(a)
+    words_b = _tokenize(b)
     if not words_a or not words_b:
         return False
     overlap = len(words_a & words_b)
@@ -33,8 +41,8 @@ def _title_similar(a: str, b: str, threshold: float = 0.6) -> bool:
         return True
 
     # Pass 2: if subject+verb match, use relaxed threshold
-    list_a = [w.strip(",:;'\"") for w in a.lower().split()]
-    list_b = [w.strip(",:;'\"") for w in b.lower().split()]
+    list_a = [w for w in re.sub(r"[,:;'\"()\[\]{}]", " ", a.lower()).replace("-", " ").split() if len(w) > 1]
+    list_b = [w for w in re.sub(r"[,:;'\"()\[\]{}]", " ", b.lower()).replace("-", " ").split() if len(w) > 1]
     if len(list_a) >= 2 and len(list_b) >= 2:
         if list_a[0] == list_b[0] and list_a[1] == list_b[1]:
             return ratio >= 0.35
@@ -117,20 +125,23 @@ def extract_signals(raw_items: List[RawItem]) -> Optional[List[Dict]]:
     signals = parsed.get("signals", [])
     print(f"  Extracted {len(signals)} signals")
 
-    # Dedup: remove signals whose title is too similar to recent signals
-    if recent_titles:
-        recent_lower = [t.lower().strip().lstrip("[update] ") for t in recent_titles]
-        before = len(signals)
-        deduped = []
-        for s in signals:
-            title = s.get("title", "").lower().strip().lstrip("[update] ")
-            if any(_title_similar(title, r) for r in recent_lower):
-                print(f"  Dedup: removed '{s.get('title', '')[:50]}' (similar to recent)")
-            else:
-                deduped.append(s)
-        signals = deduped
-        if before > len(signals):
-            print(f"  Dedup: {before} → {len(signals)} signals")
+    # Dedup: remove signals similar to recent signals OR to each other within this batch
+    recent_lower = [t.lower().strip().lstrip("[update] ") for t in recent_titles] if recent_titles else []
+    before = len(signals)
+    deduped = []
+    accepted_titles = []
+    for s in signals:
+        title = s.get("title", "").lower().strip().lstrip("[update] ")
+        if any(_title_similar(title, r) for r in recent_lower):
+            print(f"  Dedup: removed '{s.get('title', '')[:50]}' (similar to recent)")
+        elif any(_title_similar(title, a) for a in accepted_titles):
+            print(f"  Dedup: removed '{s.get('title', '')[:50]}' (duplicate within batch)")
+        else:
+            deduped.append(s)
+            accepted_titles.append(title)
+    signals = deduped
+    if before > len(signals):
+        print(f"  Dedup: {before} → {len(signals)} signals")
 
     # Post-filter: remove arxiv/paper signals with no identifiable institution
     _TOP_ORGS = [

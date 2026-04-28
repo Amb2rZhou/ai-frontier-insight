@@ -1,66 +1,6 @@
 {
   "predictions": [
     {
-      "date": "2026-04-20T09:34:43.269426+08:00",
-      "prediction_text": "内容平台的AR/VR与沉浸式内容创作工具，值得关注此类3D Gaussian Splatting生成技术。",
-      "category": "research_breakthrough",
-      "source_signal": "Tencent Releases HY-World 2.0 Multi-Modal World Model"
-    },
-    {
-      "date": "2026-04-20T09:34:43.286041+08:00",
-      "prediction_text": "平台的中台与工程团队，可以考虑将Codex类工具深度集成至内部研发与运维流程。",
-      "category": "ecosystem_shift",
-      "source_signal": "OpenAI Codex Becoming 'Universal App' for Developers"
-    },
-    {
-      "date": "2026-04-20T09:34:43.315461+08:00",
-      "prediction_text": "推荐系统与内容理解团队，可以探索基于此类开源模型构建可控、低成本的垂直多模态服务。",
-      "category": "open_source",
-      "source_signal": "Qwen3.6-35B-A3B Multimodal MoE Model Gains Traction on HuggingFace"
-    },
-    {
-      "date": "2026-04-20T09:34:43.338359+08:00",
-      "prediction_text": "电商平台的物流与仓储自动化，值得关注人形机器人技术以重构履约环节。",
-      "category": "strategic_move",
-      "source_signal": "Humanoid Robots Beat Human Record in Beijing Half-Marathon"
-    },
-    {
-      "date": "2026-04-20T09:34:43.360562+08:00",
-      "prediction_text": "搜索产品与推荐系统团队，建议探索利用世界模型框架提升对用户长期意图与序列行为的建模。",
-      "category": "research_breakthrough",
-      "source_signal": "Schmidhuber Presents Keynote on Neural World Model Boom"
-    },
-    {
-      "date": "2026-04-20T09:34:43.380314+08:00",
-      "prediction_text": "平台AI架构团队，值得关注构建模块化、可插拔的Agent框架以降低模型升级的迁移成本。",
-      "category": "infrastructure",
-      "source_signal": "Box CEO Highlights Need for Rapid AI Architecture Upgrades"
-    },
-    {
-      "date": "2026-04-20T09:34:43.400340+08:00",
-      "prediction_text": "创作者工具与客服助手团队，可以考虑集成或借鉴此类开源Agent以增强服务自主性与个性化。",
-      "category": "open_source",
-      "source_signal": "Hermes Agent Hits 100K GitHub Stars, Challenging OpenClaw"
-    },
-    {
-      "date": "2026-04-20T09:34:43.420579+08:00",
-      "prediction_text": "内容平台的端侧AI应用，建议探索利用Apple Silicon等生态实现低延迟、隐私安全的3D内容生成。",
-      "category": "infrastructure",
-      "source_signal": "Port of Microsoft's TRELLIS.2 Image-to-3D Model to Apple Silicon"
-    },
-    {
-      "date": "2026-04-20T09:34:43.439998+08:00",
-      "prediction_text": "内容安全与治理团队，必须加速部署多模态AI检测与来源追溯系统以维护平台可信度。",
-      "category": "industry_risk",
-      "source_signal": "Evidence Mounts on AI-Written Books Flooding Publishing Industry"
-    },
-    {
-      "date": "2026-04-20T09:34:43.463788+08:00",
-      "prediction_text": "社区平台的创作者生态运营，可以考虑推出垂直领域的AI技能课程以提升创作者生产力与粘性。",
-      "category": "ecosystem_shift",
-      "source_signal": "OpenAI Academy Reaches 3M Learners, Expands Global Events"
-    },
-    {
       "date": "2026-04-21T09:35:18.206088+08:00",
       "prediction_text": "平台AI战略需重新评估云服务商绑定深度，考虑在成本与自主性间寻找平衡点。",
       "category": "strategic_move",
@@ -599,6 +539,66 @@
       "prediction_text": "内容平台的AI创作助手可参考分层定价，降低创作者使用AI Agent的门槛。",
       "category": "strategic_move",
       "source_signal": "OpenAI Codex with $20 Plan Called 'Really Good Deal' by Sam Altman"
+    },
+    {
+      "date": "2026-04-28T10:56:49.509977+08:00",
+      "prediction_text": "建议内容平台评估多云推理策略，尤其是高并发的推荐和客服场景，优先选择成本最优组合。",
+      "category": "ecosystem_shift",
+      "source_signal": "Microsoft and OpenAI Gut Exclusive Cloud Deal, Freeing OpenAI for Multi-Cloud Strategy"
+    },
+    {
+      "date": "2026-04-28T10:56:49.517730+08:00",
+      "prediction_text": "社区平台的推荐系统值得探索RL从环境交互中学习用户兴趣的可行性，取代纯监督学习。",
+      "category": "research_breakthrough",
+      "source_signal": "David Silver Raises $1.1B for Ineffable Intelligence to Build RL Superlearner"
+    },
+    {
+      "date": "2026-04-28T10:56:49.529554+08:00",
+      "prediction_text": "社区平台的视频搜索产品可考虑引入对话式检索，提升长尾内容和短视频的匹配效率。",
+      "category": "strategic_move",
+      "source_signal": "Google Tests AI Chatbot Search for YouTube ('Ask YouTube')"
+    },
+    {
+      "date": "2026-04-28T10:56:49.538112+08:00",
+      "prediction_text": "内容平台的创作者工具可评估集成MiMo系列，降低端侧推理成本和延迟。",
+      "category": "open_source",
+      "source_signal": "Xiaomi MiMo-V2.5 Open Source Models Excel at Agentic 'Claw' Tasks"
+    },
+    {
+      "date": "2026-04-28T10:56:49.546347+08:00",
+      "prediction_text": "内容平台的端侧AI应用团队可评估Ubuntu AI路线图，提前布局端侧推理和开发者工具。",
+      "category": "infrastructure",
+      "source_signal": "Canonical Announces AI Features Roadmap for Ubuntu Linux"
+    },
+    {
+      "date": "2026-04-28T10:56:49.561620+08:00",
+      "prediction_text": "内容平台的搜索产品在微调embedding时需加入泛化性评估，避免检索精度骤降。",
+      "category": "research_breakthrough",
+      "source_signal": "Redis Research: RAG Fine-Tuning Can Cut Retrieval Accuracy by 40%"
+    },
+    {
+      "date": "2026-04-28T10:56:49.583618+08:00",
+      "prediction_text": "内容平台的AI伦理委员会可预先制定明确的军事/敏感场景使用边界，匹配社区价值观。",
+      "category": "ecosystem_shift",
+      "source_signal": "600+ Google Employees Protest Classified Military AI Use to Sundar Pichai"
+    },
+    {
+      "date": "2026-04-28T10:56:49.593909+08:00",
+      "prediction_text": "内容平台的内容安全团队可探索该框架，提升视频有害内容检测的细粒度与准确性。",
+      "category": "research_breakthrough",
+      "source_signal": "Carnegie Mellon University: Building a Precise Video Language with Human-AI Oversight"
+    },
+    {
+      "date": "2026-04-28T10:56:49.602682+08:00",
+      "prediction_text": "建议内容平台的AI基础研究团队引入类似AutoML框架，加速模型迭代与调优效率。",
+      "category": "research_breakthrough",
+      "source_signal": "New AI Framework Auto-Optimizes Training Data, Architectures and Algorithms, Outperforming Humans"
+    },
+    {
+      "date": "2026-04-28T10:56:49.610995+08:00",
+      "prediction_text": "内容平台的生产团队可评估DeepSeek V4作为低成本推理后端，降低部署复杂度。",
+      "category": "infrastructure",
+      "source_signal": "vLLM v0.20.0 Released with Initial DeepSeek V4 Support"
     }
   ]
 }

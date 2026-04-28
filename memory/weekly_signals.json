@@ -173,9 +173,9 @@
     ],
     "2026-04-28": [
       {
-        "title": "Microsoft and OpenAI Gut Exclusive Deal, OpenAI Gains Freedom to Sell on AWS and Google Cloud",
-        "signal_text": "据 VentureBeat 和 TechCrunch 报道，微软与 OpenAI 宣布大幅修改合作关系，微软保留主要云合作伙伴地位并获更多收入分成，但 OpenAI 现在可以自由在 AWS 和 Google Cloud 上提供产品和服务。Sam Altman 在 X 上确认此消息，获得 8164 likes 和超 67 万 views，标志着商业 AI 时代最显著的合作关系重组。",
-        "signal_strength": 0.88,
+        "title": "Microsoft and OpenAI Gut Exclusive Cloud Deal, Freeing OpenAI for Multi-Cloud Strategy",
+        "signal_text": "据VentureBeat和TechCrunch报道，微软与OpenAI宣布大幅修改其独家合作协议，OpenAI将被允许在AWS、Google Cloud等竞争对手的云平台上销售其产品和服务，而微软将继续作为其首要云合作伙伴并获得收入分成。此举标志着两家公司商业关系的历史性转折，是OpenAI在IPO前夕关键的战略松绑。OpenAI CEO Sam Altman在X上确认了该消息，该推文获得8164+ likes，引发行业高度关注。",
+        "signal_strength": 0.92,
         "sources": [
           {
             "name": "VentureBeat",
@@ -186,98 +186,59 @@
             "url": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/"
           },
           {
-            "name": "Sam Altman (Twitter)",
+            "name": "Twitter / Sam Altman",
             "url": "https://x.com/sama/status/2048755148361707946"
           }
         ],
         "tags": [
+          "头部公司战略动作",
+          "商业化路径",
           "OpenAI",
-          "Microsoft",
-          "Cloud Competition",
-          "AI Strategy"
+          "微软"
         ],
         "raw_item_indices": [
-          9,
+          11,
           28,
-          78
+          71
         ]
       },
       {
-        "title": "DeepMind Co-Founder David Silver Raises $1.1B for RL-Based AI Without Human Data",
-        "signal_text": "前 DeepMind 研究员 David Silver 创办的 Ineffable Intelligence 宣布获得 11 亿美元融资，估值 51 亿美元，为欧洲/英国最大种子轮。公司将利用 NVIDIA AI 堆栈，开发基于强化学习的 'superlearner'，直接从经验中学习而无需人类标注数据。据 TechCrunch 报道，NVIDIA AI 官方账号和多位知名 AI 研究者（如 Yoshua Bengio）均对此表示祝贺。",
-        "signal_strength": 0.85,
+        "title": "David Silver Raises $1.1B for Ineffable Intelligence to Build RL Superlearner",
+        "signal_text": "据TechCrunch独家报道，前DeepMind研究员David Silver（AlphaGo、AlphaZero核心发明人）创立的新公司Ineffable Intelligence已筹集11亿美元资金，估值51亿美元，为欧洲/英国史上最大规模的AI种子轮。公司目标是构建一个不依赖人类数据的强化学习超学习器。NVIDIA AI官方账号祝贺的同时确认双方已开展合作，使用NVIDIA AI堆栈。英伟达创始人兼CEO黄仁勋关联人士也表达了关注。",
+        "signal_strength": 0.9,
         "sources": [
           {
             "name": "TechCrunch",
             "url": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/"
           },
           {
-            "name": "NVIDIA AI (Twitter)",
+            "name": "Twitter / NVIDIA AI",
             "url": "https://x.com/NVIDIAAI/status/2048791878879891827"
           },
           {
-            "name": "NVIDIA AI (Twitter)",
-            "url": "https://x.com/NVIDIAAI/status/2048815054376821016"
+            "name": "Twitter / Nando de Freitas",
+            "url": "https://x.com/NandoDF/status/2048806439892746628"
           }
         ],
         "tags": [
-          "AI Funding",
-          "Reinforcement Learning",
-          "DeepMind",
-          "NVIDIA"
+          "技术突破",
+          "头部公司战略动作",
+          "RL",
+          "融资动态",
+          "DeepMind系"
         ],
         "raw_item_indices": [
           30,
-          62,
-          63,
-          99,
-          104
-        ]
-      },
-      {
-        "title": "DeepSeek-V4 Support Lands in vLLM v0.20.0 with 752 Commits from 320 Contributors",
-        "signal_text": "vLLM 团队发布 v0.20.0 版本，包含对 DeepSeek V4 的初始支持（PR #40860），以及 DSML token-leakage 修复、DSA + MTP IMA 修复、shared expert silu clamp 限制等关键改进。该版本由 320 位贡献者提交了 752 个 commit，是社区协作的重要里程碑。",
-        "signal_strength": 0.72,
-        "sources": [
-          {
-            "name": "vLLM GitHub Release",
-            "url": "https://github.com/vllm-project/vllm/releases/tag/v0.20.0"
-          }
-        ],
-        "tags": [
-          "Inference Optimization",
-          "Open Source",
-          "DeepSeek",
-          "vLLM"
-        ],
-        "raw_item_indices": [
-          139
-        ]
-      },
-      {
-        "title": "vLLM v0.20.0: Major Release with DeepSeek V4 Support and 320 Contributors",
-        "signal_text": "vLLM v0.20.0 发布，包含 DeepSeek V4 初步支持、DSML token-leakage 修复等关键改进，752 commits 来自 320 贡献者（123 位新贡献者）。该版本对推理效率和模型部署有重要影响。",
-        "signal_strength": 0.72,
-        "sources": [
-          {
-            "name": "vLLM GitHub Release",
-            "url": "https://github.com/vllm-project/vllm/releases/tag/v0.20.0"
-          }
-        ],
-        "tags": [
-          "Inference",
-          "DeepSeek",
-          "Open Source",
-          "vLLM"
-        ],
-        "raw_item_indices": [
-          139
+          55,
+          56,
+          92,
+          97
         ]
       },
       {
         "title": "Google Tests AI Chatbot Search for YouTube ('Ask YouTube')",
-        "signal_text": "据 The Verge 报道，Google 正在测试 YouTube 的 AI 对话式搜索体验，称为 'Ask YouTube'。该功能融合长视频、YouTube Shorts 和文本结果，呈现更自然的聊天式搜索界面。这是 Google 将 AI Mode 扩展到视频搜索领域的明确信号。",
-        "signal_strength": 0.7,
+        "signal_text": "据The Verge报道，Google正在YouTube上测试一种类似AI Mode的对话式搜索体验“Ask YouTube”，搜索结果融合长视频、YouTube Shorts及文本摘要。该实验被视为Google将AI搜索能力延伸至其最大视频平台的关键一步，对内容发现和推荐生态具有深远影响。",
+        "signal_strength": 0.82,
         "sources": [
           {
             "name": "The Verge",
@@ -285,39 +246,65 @@
           }
         ],
         "tags": [
+          "搜索与推荐",
+          "产品发布",
           "Google",
-          "Search",
-          "AI Video",
-          "YouTube"
+          "视频内容"
         ],
         "raw_item_indices": [
-          3
+          6
         ]
       },
       {
-        "title": "OpenAI Achieves FedRAMP Moderate Authorization for ChatGPT Enterprise and API",
-        "signal_text": "OpenAI 官方博客宣布获得 FedRAMP Moderate 授权，使 ChatGPT Enterprise 和 OpenAI API 可用于美国联邦机构。这标志着 AI 在政府合规和安全领域的重大突破，将对公共部门 AI 采用产生深远影响。",
-        "signal_strength": 0.68,
+        "title": "Xiaomi MiMo-V2.5 Open Source Models Excel at Agentic 'Claw' Tasks",
+        "signal_text": "据VentureBeat报道，小米发布的开源MiMo-V2.5及V2.5-Pro模型在agentic 'claw'基准测试中表现出极高的性价比和效率。该系列模型已在Hugging Face上架。这标志着硬件厂商小米在大模型开源赛道上的持续发力，其高效率低成本路线对开发者生态具有吸引力。",
+        "signal_strength": 0.78,
         "sources": [
           {
-            "name": "OpenAI Blog",
-            "url": "https://openai.com/index/openai-available-at-fedramp-moderate"
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/technology/open-source-xiaomi-mimo-v2-5-and-v2-5-pro-are-among-the-most-efficient-and-affordable-at-agentic-claw-tasks"
+          },
+          {
+            "name": "Hugging Face",
+            "url": "https://huggingface.co/xiaomi"
           }
         ],
         "tags": [
-          "OpenAI",
-          "Government AI",
-          "Compliance",
-          "Security"
+          "开源生态",
+          "模型发布",
+          "Agent",
+          "小米",
+          "效率"
         ],
         "raw_item_indices": [
-          39
+          14,
+          81
         ]
       },
       {
-        "title": "RAG Precision Tuning Can Quietly Cut Retrieval Accuracy by 40% (Redis Research)",
-        "signal_text": "Redis 发布研究报告指出，企业团队在 fine-tune RAG embedding 模型以提升 precision 时，可能无意中降低 retrieval 质量达 40%。研究表明 'training for compositional sensitivity reduces dense retrieval generalization'，对 agentic pipeline 构成潜在风险。该发现对搜索增强和推荐系统有重要启示。",
-        "signal_strength": 0.65,
+        "title": "Canonical Announces AI Features Roadmap for Ubuntu Linux",
+        "signal_text": "据The Verge报道，Ubuntu开发商Canonical的工程副总裁Jon Seager发布博客，详细阐述未来一年为Linux发行版集成AI功能的计划。此举将推动AI能力从云端下沉到操作系统底层，对端侧部署和开发者工具体系产生广泛影响。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/tech/919411/canonical-ubuntu-linux-ai-features"
+          }
+        ],
+        "tags": [
+          "端侧部署",
+          "开发者生态",
+          "基础设施",
+          "Canonical"
+        ],
+        "raw_item_indices": [
+          17
+        ]
+      },
+      {
+        "title": "Redis Research: RAG Fine-Tuning Can Cut Retrieval Accuracy by 40%",
+        "signal_text": "据VentureBeat报道，Redis最新研究发现，企业团队为提升精度而微调RAG嵌入模型时，可能无意中将检索质量降低多达40%，从而危及agentic pipeline的可靠性。该研究对当前企业广泛使用的RAG+Agent架构实践提出了重要警示。",
+        "signal_strength": 0.74,
         "sources": [
           {
             "name": "VentureBeat",
@@ -325,39 +312,19 @@
           }
         ],
         "tags": [
+          "搜索与推荐",
           "RAG",
-          "Search",
-          "Retrieval",
-          "Enterprise AI"
+          "技术风险",
+          "企业级AI"
         ],
         "raw_item_indices": [
           42
         ]
       },
       {
-        "title": "LLM Safety From Within: SIREN Uses Internal Representations for Harmful Content Detection (U of Toronto)",
-        "signal_text": "多伦多大学 CSSLab 发布论文 SIREN，提出一种轻量级 guard model，利用 LLM 内部层特征提升有害内容检测效率和性能。该工作来自知名机构，对内容安全审核自动化和 AI 安全治理有直接应用价值。",
-        "signal_strength": 0.65,
-        "sources": [
-          {
-            "name": "University of Toronto CSSLab (Arxiv)",
-            "url": "https://huggingface.co/papers/2604.18519"
-          }
-        ],
-        "tags": [
-          "Content Safety",
-          "AI Safety",
-          "Harmful Content Detection",
-          "LLM"
-        ],
-        "raw_item_indices": [
-          149
-        ]
-      },
-      {
-        "title": "Google Employees Sign Letter Demanding No Classified Military AI Use",
-        "signal_text": "据 The Verge 报道，超过 600 名 Google 员工（包括 20+ 位 principal/director 级别、多名 DeepMind 研究人员）联名致信 CEO Sundar Pichai，要求禁止五角大楼在机密场景中使用 Google AI 模型。这反映了 AI 领域军事化应用的持续争议。",
-        "signal_strength": 0.6,
+        "title": "600+ Google Employees Protest Classified Military AI Use to Sundar Pichai",
+        "signal_text": "据The Verge援引华盛顿邮报报道，超过600名Google员工（包括20多位DeepMind负责人/总监级员工）签署联名信，要求CEO Sundar Pichai阻止五角大楼将Google AI用于机密军事目的。这一内部反弹反映了头部AI公司内部伦理与商业利益的持续冲突。",
+        "signal_strength": 0.73,
         "sources": [
           {
             "name": "The Verge",
@@ -365,33 +332,77 @@
           }
         ],
         "tags": [
+          "行业风险与监管",
+          "AI伦理",
           "Google",
-          "AI Ethics",
-          "Military AI",
-          "Governance"
+          "军事应用"
         ],
         "raw_item_indices": [
           27
         ]
       },
       {
-        "title": "OpenAI Codex with $20 Plan Called 'Really Good Deal' by Sam Altman",
-        "signal_text": "Sam Altman 在 X 上表示 OpenAI Codex 的 20 美元计划是 'really good deal'，获 535 likes 和 16687 views。这暗示 OpenAI 正在探索更低价位的代码 Agent 产品层次，可能对 Agent 开发工具的定价模式和市场竞争产生示范效应。",
-        "signal_strength": 0.55,
+        "title": "Carnegie Mellon University: Building a Precise Video Language with Human-AI Oversight",
+        "signal_text": "来自卡内基梅隆大学（CMU）的研究提出一种通过结构化视觉规范和人类-AI监督框架来增强视频语言模型的方法，可显著改善视频标注的准确性并实现细粒度描述。对平台视频内容理解与生成具有应用价值。论文及代码已发布。",
+        "signal_strength": 0.7,
         "sources": [
           {
-            "name": "Sam Altman (Twitter)",
-            "url": "https://x.com/sama/status/2048913887614115857"
+            "name": "Twitter / AK",
+            "url": "https://x.com/_akhaliq/status/2048806665571500422"
+          },
+          {
+            "name": "HuggingFace Papers",
+            "url": "https://huggingface.co/papers/2604.21718"
           }
         ],
         "tags": [
-          "OpenAI",
-          "Codex",
-          "Agent Pricing",
-          "Product Strategy"
+          "内容创作与理解",
+          "多模态",
+          "视频理解",
+          "CMU"
         ],
         "raw_item_indices": [
-          114
+          96,
+          157
+        ]
+      },
+      {
+        "title": "New AI Framework Auto-Optimizes Training Data, Architectures and Algorithms, Outperforming Humans",
+        "signal_text": "据VentureBeat报道，来自SII-GAIR的研究人员推出一个新框架，可自动优化训练数据、模型架构和学习算法的完整循环，并在多个任务上超越人类基线。这对降低AI研究和开发中大量手动工程调试成本具有潜在意义。",
+        "signal_strength": 0.66,
+        "sources": [
+          {
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/orchestration/new-ai-framework-autonomously-optimizes-training-data-architectures-and-algorithms-outperforming-human-baselines"
+          }
+        ],
+        "tags": [
+          "技术突破",
+          "AutoML",
+          "训练效率"
+        ],
+        "raw_item_indices": [
+          36
+        ]
+      },
+      {
+        "title": "vLLM v0.20.0 Released with Initial DeepSeek V4 Support",
+        "signal_text": "vLLM发布v0.20.0版本，包含752个commit和320位贡献者，新增对DeepSeek V4的初始支持。这是主流推理框架对DeepSeek最新旗舰模型的关键适配，对生产部署生态有重要影响。",
+        "signal_strength": 0.65,
+        "sources": [
+          {
+            "name": "GitHub Release",
+            "url": "https://github.com/vllm-project/vllm/releases/tag/v0.20.0"
+          }
+        ],
+        "tags": [
+          "开源生态",
+          "推理框架",
+          "DeepSeek",
+          "基础设施"
+        ],
+        "raw_item_indices": [
+          132
         ]
       }
     ]
