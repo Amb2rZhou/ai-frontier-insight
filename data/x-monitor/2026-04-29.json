@@ -1,0 +1,385 @@
+{
+  "source": "x-monitor",
+  "scraped_at": "2026-04-29T03:28:24.820221",
+  "date": "2026-04-29",
+  "list_urls": [
+    "https://x.com/i/lists/2026486577304842549"
+  ],
+  "tweet_count": 31,
+  "account_count": 22,
+  "tweets": [
+    {
+      "id": "2049202338209079574",
+      "username": "GaryMarcus",
+      "text": "Thoughtful book on LLMs and linguistics — by someone who actually knows linguistics.",
+      "timestamp": "2026-04-28T19:01:24+00:00",
+      "url": "https://x.com/GaryMarcus/status/2049202338209079574",
+      "images": [],
+      "likes": 9,
+      "retweets": 2,
+      "views": 1612
+    },
+    {
+      "id": "2049201909391913072",
+      "username": "arankomatsuzaki",
+      "text": "This feels like confusing a serving-runtime problem for a chip-startup opportunity.\n\nAgents do change inference patterns: loops, tool calls, branching, long context, KV reuse, burstiness. But most of that is an inference systems problem: scheduling, routing, KV-cache management,",
+      "timestamp": "2026-04-28T18:59:42+00:00",
+      "url": "https://x.com/arankomatsuzaki/status/2049201909391913072",
+      "images": [],
+      "likes": 9,
+      "retweets": 2,
+      "views": 1655
+    },
+    {
+      "id": "2049193423681241130",
+      "username": "NeurIPSConf",
+      "text": "The Paper Assistant Tool Pilot Program is now live. To submit your manuscript (1) upload your PDF and all other *required* fields in the submission form, (2) check this box, (3) check submit. You should receive an automated comment on your paper informing your manuscript has been https://t.co/cCpdntMBlt",
+      "timestamp": "2026-04-28T18:25:59+00:00",
+      "url": "https://x.com/NeurIPSConf/status/2049193423681241130",
+      "images": [
+        "https://pbs.twimg.com/media/HHAyjydWEAAonao.jpg"
+      ],
+      "likes": 19,
+      "retweets": 4,
+      "views": 3058
+    },
+    {
+      "id": "2049192155802128510",
+      "username": "SebastienBubeck",
+      "text": "We are entering the most transformational era for mathematics, perhaps ever. What will the transition look like? We don't have all the answers, but we're actively thinking about it. One possibility which @ErnestRyu articulates really well: it might make math more fun than ever!",
+      "timestamp": "2026-04-28T18:20:56+00:00",
+      "url": "https://x.com/SebastienBubeck/status/2049192155802128510",
+      "images": [],
+      "likes": 82,
+      "retweets": 5,
+      "views": 7291
+    },
+    {
+      "id": "2049189942081798233",
+      "username": "ClementDelangue",
+      "text": "Added native metric logging + @TrackioApp integration to ml intern so that you can follow every training run it kicks off in real time. \n\nTry it by asking \"train a tiny model on a tiny dataset, find something super small/super fast that will work well\" to your ml intern: https://t.co/ryQKImaoul",
+      "timestamp": "2026-04-28T18:12:08+00:00",
+      "url": "https://x.com/ClementDelangue/status/2049189942081798233",
+      "images": [
+        "https://pbs.twimg.com/media/HHAvRKxaMAEhUwi.jpg"
+      ],
+      "likes": 13,
+      "retweets": 0,
+      "views": 1538
+    },
+    {
+      "id": "2049188184135782899",
+      "username": "emollick",
+      "text": "A big problem with all AI at work punditry right now is that it all rests on data from the pre-agentic era (which is basically just now ending) and we have very little information about what has been happening since the Claude Code moment. So everything now requires some caveat.",
+      "timestamp": "2026-04-28T18:05:09+00:00",
+      "url": "https://x.com/emollick/status/2049188184135782899",
+      "images": [],
+      "likes": 105,
+      "retweets": 4,
+      "views": 6570
+    },
+    {
+      "id": "2049186412067508323",
+      "username": "mervenoyann",
+      "text": "any-to-any model based on Nemotron 3 Nano 🔥",
+      "timestamp": "2026-04-28T17:58:07+00:00",
+      "url": "https://x.com/mervenoyann/status/2049186412067508323",
+      "images": [],
+      "likes": 8,
+      "retweets": 3,
+      "views": 1373
+    },
+    {
+      "id": "2049185241881784608",
+      "username": "omarsar0",
+      "text": "Advanced memory systems unlock agents unlike anything we've ever seen. \n\nThis Large Memory Model (LMM) enables proactive memory and allows agents to automatically surface vital context, without explicit prompting.\n\nThe LMM is purpose-built to give apps persistent human memory",
+      "timestamp": "2026-04-28T17:53:28+00:00",
+      "url": "https://x.com/omarsar0/status/2049185241881784608",
+      "images": [],
+      "likes": 15,
+      "retweets": 0,
+      "views": 2607
+    },
+    {
+      "id": "2049181477384892596",
+      "username": "nvidia",
+      "text": "We are proud to have helped NASA optimize this code and watch it power a pivotal mission like Artemis.\n\nWe can't wait to see the new engineering this enables for the broader U.S. aerospace community.",
+      "timestamp": "2026-04-28T17:38:30+00:00",
+      "url": "https://x.com/nvidia/status/2049181477384892596",
+      "images": [],
+      "likes": 256,
+      "retweets": 20,
+      "views": 22848
+    },
+    {
+      "id": "2049177688402022730",
+      "username": "arankomatsuzaki",
+      "text": "Follow-up on non-English token-inefficiency with more model-language pairs:\n\n- Chinese is cheaper than English on major Chinese models\n- Gemini and Qwen provide least non-English tax\n- Anthropic has the highest tax by far; Kimi is next\n- Hindi is the worst-covered language here, https://t.co/DEM84FmHoV",
+      "timestamp": "2026-04-28T17:23:27+00:00",
+      "url": "https://x.com/arankomatsuzaki/status/2049177688402022730",
+      "images": [
+        "https://pbs.twimg.com/media/HHAhAo2b0AAmoFY.jpg"
+      ],
+      "likes": 88,
+      "retweets": 13,
+      "views": 11722
+    },
+    {
+      "id": "2049174849780936747",
+      "username": "mustafasuleyman",
+      "text": "Little thought experiment to put AI chip improvements in perspective:\n \nImagine that every person on Earth uses a calculator to perform one calculation per second. Everyone works 24 hours a day without rest. Every second, we all hit equals on the calculator for a long digit",
+      "timestamp": "2026-04-28T17:12:10+00:00",
+      "url": "https://x.com/mustafasuleyman/status/2049174849780936747",
+      "images": [],
+      "likes": 117,
+      "retweets": 11,
+      "views": 10136
+    },
+    {
+      "id": "2049174843954790549",
+      "username": "_akhaliq",
+      "text": "Meta presents Tuna-2\n\nPixel Embeddings Beat Vision Encoders for Multimodal Understanding and Generation\n\npaper: https://t.co/OonewX4iAg https://t.co/n1sR30JULW",
+      "timestamp": "2026-04-28T17:12:09+00:00",
+      "url": "https://x.com/_akhaliq/status/2049174843954790549",
+      "images": [
+        "https://pbs.twimg.com/media/HHAhnZ8XsAABDRJ.jpg"
+      ],
+      "likes": 84,
+      "retweets": 9,
+      "views": 11016
+    },
+    {
+      "id": "2049173043407147265",
+      "username": "_akhaliq",
+      "text": "SenseNova U1 is out on Hugging Face\n\nhttps://t.co/22fCKWGQzx https://t.co/5wHtVUtVZK",
+      "timestamp": "2026-04-28T17:04:59+00:00",
+      "url": "https://x.com/_akhaliq/status/2049173043407147265",
+      "images": [
+        "https://pbs.twimg.com/media/HHAf-3La4AAd1b1.jpg"
+      ],
+      "likes": 8,
+      "retweets": 1,
+      "views": 2218
+    },
+    {
+      "id": "2049171788123275498",
+      "username": "googledevs",
+      "text": "Turn your lunch break into a career milestone ✨\n\nLearn about the fundamentals of generative AI, understand the ML landscape, and earn a badge through the Introduction to Generative AI course → https://t.co/kk4NnvPGWs https://t.co/D3gayS6Wku",
+      "timestamp": "2026-04-28T17:00:00+00:00",
+      "url": "https://x.com/googledevs/status/2049171788123275498",
+      "images": [
+        "https://pbs.twimg.com/media/HG-GfRLWsAAcfi8.png"
+      ],
+      "likes": 50,
+      "retweets": 11,
+      "views": 3332
+    },
+    {
+      "id": "2049168093406978114",
+      "username": "ClementDelangue",
+      "text": "Just received new reach minis for the Miami office! This is the first robot that goes out to people with agentic software meaning anyone can build any apps with their agents so excited to see what people will build with it!\n\nThis batch was a bit late (sorry it’s hard to build and https://t.co/U9srGUxaZK",
+      "timestamp": "2026-04-28T16:45:19+00:00",
+      "url": "https://x.com/ClementDelangue/status/2049168093406978114",
+      "images": [
+        "https://pbs.twimg.com/media/HHAbg4AbwAESS-T.jpg"
+      ],
+      "likes": 88,
+      "retweets": 5,
+      "views": 6577
+    },
+    {
+      "id": "2049163935182733396",
+      "username": "levie",
+      "text": "Agentic coding is a huge boon for software developers that want to get far more done, great for IT people to build vastly more custom systems internally, great for domain experts that want to automate workflows or wire systems together, and absolutely fantastic for anyone curious",
+      "timestamp": "2026-04-28T16:28:48+00:00",
+      "url": "https://x.com/levie/status/2049163935182733396",
+      "images": [],
+      "likes": 247,
+      "retweets": 12,
+      "views": 30144
+    },
+    {
+      "id": "2049163410424647808",
+      "username": "OpenAINewsroom",
+      "text": "We agree. The real leading indicators are clear: breakout Codex growth ✅, enterprise offerings on every cloud ✅, the only consumer app that matters ✅, a compute strategy built to accelerate ✅, and the best researchers in the world ✅.",
+      "timestamp": "2026-04-28T16:26:43+00:00",
+      "url": "https://x.com/OpenAINewsroom/status/2049163410424647808",
+      "images": [],
+      "likes": 723,
+      "retweets": 39,
+      "views": 109056
+    },
+    {
+      "id": "2049161390150365344",
+      "username": "UnslothAI",
+      "text": "NVIDIA releases Nemotron-3-Nano-Omni, a new 30B open multimodal MoE model.\n\nNemotron-3-Nano-Omni-30B-A3B is the strongest omni model for its size and supports audio, video, image and text.\n\nRun on ~25GB RAM.\n\nGGUF: https://t.co/t4COCqVrLS\nGuide: https://t.co/GWTr8165pM https://t.co/jKGrDCEEYj",
+      "timestamp": "2026-04-28T16:18:41+00:00",
+      "url": "https://x.com/UnslothAI/status/2049161390150365344",
+      "images": [
+        "https://pbs.twimg.com/media/HHATcu6aYAAyZ5k.jpg"
+      ],
+      "likes": 425,
+      "retweets": 57,
+      "views": 20709
+    },
+    {
+      "id": "2049159869446389988",
+      "username": "_akhaliq",
+      "text": "Apple presents Stochastic KV Routing\n\nEnabling Adaptive Depth-Wise Cache Sharing\n\npaper: https://t.co/ltDZpEUbyg https://t.co/I4B56D9g0m",
+      "timestamp": "2026-04-28T16:12:39+00:00",
+      "url": "https://x.com/_akhaliq/status/2049159869446389988",
+      "images": [
+        "https://pbs.twimg.com/media/HHAT_Aka8AAJe4e.jpg"
+      ],
+      "likes": 54,
+      "retweets": 10,
+      "views": 3911
+    },
+    {
+      "id": "2049159764261925005",
+      "username": "mitchellh",
+      "text": "Awesome to see! Let's replace the Alacritty core with libghostty-rs. If there are any shortcomings in the libghostty API I'll address them immediately. \n\nI know some view Ghostty as competitive to Warp at a GUI level, but the goal was always to empower other terminal apps via",
+      "timestamp": "2026-04-28T16:12:14+00:00",
+      "url": "https://x.com/mitchellh/status/2049159764261925005",
+      "images": [],
+      "likes": 972,
+      "retweets": 31,
+      "views": 67153
+    },
+    {
+      "id": "2049159462200414577",
+      "username": "_akhaliq",
+      "text": "From Skills to Talent\n\nOrganising Heterogeneous Agents as a Real-World Company\n\npaper: https://t.co/AdEEgAvXsx https://t.co/BkhAe2R1tM",
+      "timestamp": "2026-04-28T16:11:01+00:00",
+      "url": "https://x.com/_akhaliq/status/2049159462200414577",
+      "images": [],
+      "likes": 12,
+      "retweets": 1,
+      "views": 3543
+    },
+    {
+      "id": "2049159212039594193",
+      "username": "Azure",
+      "text": "How do we draw agentic borders? In the latest episode of The Shift podcast, explore why it’s not just about what agents can do, it’s about defining exactly where they should stop to keep your enterprise secure and scalable.\n\nWatch and subscribe: https://t.co/DPgHLyIph8 https://t.co/ZokqgZvB6M",
+      "timestamp": "2026-04-28T16:10:02+00:00",
+      "url": "https://x.com/Azure/status/2049159212039594193",
+      "images": [
+        "https://pbs.twimg.com/media/HHATcR6WAAAYSra.jpg"
+      ],
+      "likes": 14,
+      "retweets": 5,
+      "views": 2178
+    },
+    {
+      "id": "2049158566884331758",
+      "username": "roydanroy",
+      "text": "Deadlines for ICML workshops are approaching!",
+      "timestamp": "2026-04-28T16:07:28+00:00",
+      "url": "https://x.com/roydanroy/status/2049158566884331758",
+      "images": [],
+      "likes": 1,
+      "retweets": 0,
+      "views": 1416
+    },
+    {
+      "id": "2049158135777005828",
+      "username": "_akhaliq",
+      "text": "Microsoft presents World-R1\n\nReinforcing 3D Constraints for Text-to-Video Generation\n\npaper: https://t.co/07BWqkSdwd https://t.co/WuRwRZfAmO",
+      "timestamp": "2026-04-28T16:05:45+00:00",
+      "url": "https://x.com/_akhaliq/status/2049158135777005828",
+      "images": [],
+      "likes": 42,
+      "retweets": 9,
+      "views": 10159
+    },
+    {
+      "id": "2049156446840148395",
+      "username": "omarsar0",
+      "text": "A few notes on how to get started with building LLM Knowledge Bases.\n\n@karpathy popularized it but most people don't know where to start.\n\nEveryone should be creating LLM Wikis.\n\nLive session tomorrow.\n\nShared a repo example and a Skill coming soon.\n\nhttps://t.co/8FYjW8lVaa https://t.co/8BKp9xwyaf",
+      "timestamp": "2026-04-28T15:59:03+00:00",
+      "url": "https://x.com/omarsar0/status/2049156446840148395",
+      "images": [
+        "https://pbs.twimg.com/media/HHAQ7e_a8AEKbQu.jpg"
+      ],
+      "likes": 86,
+      "retweets": 13,
+      "views": 5959
+    },
+    {
+      "id": "2049156171463110746",
+      "username": "GaryMarcus",
+      "text": "Talking AI with @MarioNawfal momentarily\n\n (9am PT; link info will be at his pinned tweet, or view on YouTube). https://t.co/n7fNmV3qmg",
+      "timestamp": "2026-04-28T15:57:57+00:00",
+      "url": "https://x.com/GaryMarcus/status/2049156171463110746",
+      "images": [
+        "https://pbs.twimg.com/media/HHAQreSbMAASHvF.jpg"
+      ],
+      "likes": 11,
+      "retweets": 3,
+      "views": 2244
+    },
+    {
+      "id": "2049152389454938268",
+      "username": "ChrSzegedy",
+      "text": "It's surprising how many people assume that software progress reduces the need for hardware.\n\nIn reality, every gain in software efficiency or capability increases the value of hardware.",
+      "timestamp": "2026-04-28T15:42:55+00:00",
+      "url": "https://x.com/ChrSzegedy/status/2049152389454938268",
+      "images": [],
+      "likes": 22,
+      "retweets": 2,
+      "views": 2170
+    },
+    {
+      "id": "2049147513995751624",
+      "username": "DeryaTR_",
+      "text": "AI art of the day, created with GPT-5.5 image 2.0 https://t.co/EBYB8dUHMN",
+      "timestamp": "2026-04-28T15:23:33+00:00",
+      "url": "https://x.com/DeryaTR_/status/2049147513995751624",
+      "images": [
+        "https://pbs.twimg.com/media/HHAIunqWwAE02g_.jpg"
+      ],
+      "likes": 32,
+      "retweets": 0,
+      "views": 2607
+    },
+    {
+      "id": "2049146324008968512",
+      "username": "a16z",
+      "text": "Workday is arguably the most important and least loved product in enterprise software.\n\nMore than 10,000 organizations run it, tens of millions of employees live inside it, it's approaching $10 billion in annual revenue, and it's incredibly sticky.\n\nHCM is the last large https://t.co/bNrWI0uhN2",
+      "timestamp": "2026-04-28T15:18:49+00:00",
+      "url": "https://x.com/a16z/status/2049146324008968512",
+      "images": [
+        "https://pbs.twimg.com/media/HHAHuL_bUAAafWa.jpg"
+      ],
+      "likes": 279,
+      "retweets": 23,
+      "views": 120498
+    },
+    {
+      "id": "2049139562929143917",
+      "username": "ClementDelangue",
+      "text": "300,000 AI builders have already added their hardware to HF to instantly see what model they can run locally. \n\nTo do so, go to https://t.co/dqD1bcXisv and add your hardware specs.\n\nYou can even show off publicly by adding it to your HF profile!\n\nLet's go local AI! https://t.co/5sRmAQGHsC",
+      "timestamp": "2026-04-28T14:51:57+00:00",
+      "url": "https://x.com/ClementDelangue/status/2049139562929143917",
+      "images": [
+        "https://pbs.twimg.com/media/HHABQH-bQAAFWpW.jpg"
+      ],
+      "likes": 243,
+      "retweets": 34,
+      "views": 14120
+    },
+    {
+      "id": "2048811367998616040",
+      "username": "NielsRogge",
+      "text": "New blog post: running AI agents to automate reaching out to @HuggingPapers authors at scale 🔥\n\nCovers: \n&gt; learnings on LLM workflows in production \n&gt; parallel patterns to improve reliability \n&gt; observability with @langfuse\n&gt; LLM evals\n&gt; and a lot more! https://t.co/7YI0fG4Q2t",
+      "timestamp": "2026-04-27T17:07:49+00:00",
+      "url": "https://x.com/NielsRogge/status/2048811367998616040",
+      "images": [
+        "https://pbs.twimg.com/media/HG7Wq_zX0AARajX.jpg"
+      ],
+      "likes": 87,
+      "retweets": 11,
+      "views": 8684
+    }
+  ]
+}
