@@ -18,28 +18,12 @@
         "params_b": 77.965
       },
       {
-        "name": "dfurman/CalmeRys-78B-Orpo-v0.1",
-        "score": 51.23,
-        "architecture": "Qwen2ForCausalLM",
-        "type": "💬 chat models (RLHF, DPO, IFT, ...)",
-        "precision": "bfloat16",
-        "params_b": 77.965
-      },
-      {
         "name": "MaziyarPanahi/calme-2.4-rys-78b",
         "score": 50.77,
         "architecture": "Qwen2ForCausalLM",
         "type": "💬 chat models (RLHF, DPO, IFT, ...)",
         "precision": "bfloat16",
         "params_b": 77.965
-      },
-      {
-        "name": "huihui-ai/Qwen2.5-72B-Instruct-abliterated",
-        "score": 48.11,
-        "architecture": "Qwen2ForCausalLM",
-        "type": "🔶 fine-tuned on domain-specific datasets",
-        "precision": "bfloat16",
-        "params_b": 72.706
       },
       {
         "name": "Qwen/Qwen2.5-72B-Instruct",
@@ -58,22 +42,6 @@
         "params_b": 72.7
       },
       {
-        "name": "newsbang/Homer-v1.0-Qwen2.5-72B",
-        "score": 47.46,
-        "architecture": "Qwen2ForCausalLM",
-        "type": "🔶 fine-tuned on domain-specific datasets",
-        "precision": "bfloat16",
-        "params_b": 72.706
-      },
-      {
-        "name": "ehristoforu/qwen2.5-test-32b-it",
-        "score": 47.37,
-        "architecture": "Qwen2ForCausalLM",
-        "type": "💬 chat models (RLHF, DPO, IFT, ...)",
-        "precision": "bfloat16",
-        "params_b": 32.764
-      },
-      {
         "name": "Saxo/Linkbricks-Horizon-AI-Avengers-V1-32B",
         "score": 47.34,
         "architecture": "Qwen2ForCausalLM",
@@ -88,14 +56,6 @@
         "type": "💬 chat models (RLHF, DPO, IFT, ...)",
         "precision": "bfloat16",
         "params_b": 72.7
-      },
-      {
-        "name": "fluently-lm/FluentlyLM-Prinum",
-        "score": 47.22,
-        "architecture": "Qwen2ForCausalLM",
-        "type": "💬 chat models (RLHF, DPO, IFT, ...)",
-        "precision": "bfloat16",
-        "params_b": 32.764
       },
       {
         "name": "JungZoona/T3Q-Qwen2.5-14B-Instruct-1M-e3",
@@ -114,22 +74,6 @@
         "params_b": 14.77
       },
       {
-        "name": "zetasepic/Qwen2.5-32B-Instruct-abliterated-v2",
-        "score": 46.89,
-        "architecture": "Qwen2ForCausalLM",
-        "type": "🔶 fine-tuned on domain-specific datasets",
-        "precision": "bfloat16",
-        "params_b": 32.764
-      },
-      {
-        "name": "rubenroy/Gilgamesh-72B",
-        "score": 46.79,
-        "architecture": "Qwen2ForCausalLM",
-        "type": "🔶 fine-tuned on domain-specific datasets",
-        "precision": "float16",
-        "params_b": 72.706
-      },
-      {
         "name": "Sakalti/ultiima-72B",
         "score": 46.77,
         "architecture": "Qwen2ForCausalLM",
@@ -146,23 +90,79 @@
         "params_b": 32.764
       },
       {
-        "name": "maldv/Awqward2.5-32B-Instruct",
-        "score": 46.75,
+        "name": "Qwen/Qwen2.5-32B-Instruct",
+        "score": 46.6,
+        "architecture": "Qwen2ForCausalLM",
+        "type": "💬 chat models (RLHF, DPO, IFT, ...)",
+        "precision": "bfloat16",
+        "params_b": 32.764
+      },
+      {
+        "name": "Saxo/Linkbricks-Horizon-AI-Avengers-V3-32B",
+        "score": 46.37,
+        "architecture": "Qwen2ForCausalLM",
+        "type": "🔶 fine-tuned on domain-specific datasets",
+        "precision": "bfloat16",
+        "params_b": 32.764
+      },
+      {
+        "name": "Saxo/Linkbricks-Horizon-AI-Avengers-V6-32B",
+        "score": 46.23,
+        "architecture": "Qwen2ForCausalLM",
+        "type": "🔶 fine-tuned on domain-specific datasets",
+        "precision": "bfloat16",
+        "params_b": 32.76
+      },
+      {
+        "name": "OpenBuddy/openbuddy-llama3.3-70b-v24.1-131k",
+        "score": 45.74,
+        "architecture": "LlamaForCausalLM",
+        "type": "💬 chat models (RLHF, DPO, IFT, ...)",
+        "precision": "bfloat16",
+        "params_b": 70.554
+      },
+      {
+        "name": "Saxo/Linkbricks-Horizon-AI-Avengers-V5-32B",
+        "score": 45.67,
+        "architecture": "Qwen2ForCausalLM",
+        "type": "🔶 fine-tuned on domain-specific datasets",
+        "precision": "bfloat16",
+        "params_b": 32.764
+      },
+      {
+        "name": "CombinHorizon/huihui-ai-abliterated-Qwen2.5-32B-Inst-BaseMerge-TIES",
+        "score": 45.66,
         "architecture": "Qwen2ForCausalLM",
         "type": "🤝 base merges and moerges",
         "precision": "bfloat16",
         "params_b": 32.764
       },
       {
-        "name": "raphgg/test-2.5-72B",
-        "score": 46.74,
+        "name": "Saxo/Linkbricks-Horizon-AI-Avengers-V4-32B",
+        "score": 45.61,
         "architecture": "Qwen2ForCausalLM",
         "type": "🔶 fine-tuned on domain-specific datasets",
         "precision": "bfloat16",
+        "params_b": 32.764
+      },
+      {
+        "name": "Sakalti/ultiima-32B",
+        "score": 45.4,
+        "architecture": "Qwen2ForCausalLM",
+        "type": "🤝 base merges and moerges",
+        "precision": "float16",
+        "params_b": 32.764
+      },
+      {
+        "name": "Sakalti/ultiima-72B-v1.5",
+        "score": 44.9,
+        "architecture": "Qwen2ForCausalLM",
+        "type": "🔶 fine-tuned on domain-specific datasets",
+        "precision": "float16",
         "params_b": 72.706
       }
     ],
-    "updated": "2026-04-28T10:55:31.549312+08:00"
+    "updated": "2026-04-29T09:31:32.498966+08:00"
   },
   "swebench_verified": {
     "top_models": [
@@ -242,7 +242,7 @@
         "date": "2025-11-03"
       }
     ],
-    "updated": "2026-04-28T10:55:31.549312+08:00"
+    "updated": "2026-04-29T09:31:32.498966+08:00"
   },
   "arc_agi_2": {
     "top_models": [

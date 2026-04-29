@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-28T10:57:18.139360+08:00",
+  "last_updated": "2026-04-29T09:34:19.853292+08:00",
   "trends": [
     {
       "id": "ai_safety_pivot_and_accelerated_agi_time",
@@ -14,10 +14,9 @@
         "Creative Industries",
         "Content Authentication"
       ],
-      "trajectory": "accelerating",
+      "trajectory": "decelerating",
       "signal_count": 92,
       "weekly_counts": [
-        2,
         2,
         1,
         1,
@@ -28,6 +27,7 @@
         1,
         2,
         3,
+        0,
         0
       ],
       "key_events": [
@@ -115,7 +115,7 @@
         "Funding",
         "Nvidia"
       ],
-      "trajectory": "stable",
+      "trajectory": "decelerating",
       "signal_count": 24,
       "weekly_counts": [
         1,
@@ -123,12 +123,12 @@
         1,
         1,
         1,
-        1,
         0,
         0,
         1,
         0,
         1,
+        0,
         0
       ],
       "key_events": [
@@ -237,9 +237,8 @@
         "Business Models"
       ],
       "trajectory": "accelerating",
-      "signal_count": 70,
+      "signal_count": 73,
       "weekly_counts": [
-        1,
         1,
         4,
         1,
@@ -250,6 +249,7 @@
         2,
         1,
         2,
+        3,
         3
       ],
       "key_events": [
@@ -352,6 +352,10 @@
         {
           "date": "2026-04-28",
           "event": "Xiaomi MiMo-V2.5 Open Source Models Excel at Agentic 'Claw' Tasks; vLLM v0.20.0 Released with Initial DeepSeek V4 Support"
+        },
+        {
+          "date": "2026-04-29",
+          "event": "NVIDIA Releases Nemotron 3 Nano Omni: Open-Source 30B Multimodal MoE; Tencent releases Hunyuan 3 (Hy3-preview) open-source model; Poolside Releases Laguna XS.2 Open Model for Local Agentic Coding"
         }
       ],
       "created": "2026-02-25"
@@ -365,11 +369,10 @@
         "Startups",
         "Nvidia Competition"
       ],
-      "trajectory": "accelerating",
+      "trajectory": "decelerating",
       "signal_count": 19,
       "weekly_counts": [
         1,
-        1,
         0,
         0,
         1,
@@ -377,6 +380,7 @@
         2,
         0,
         2,
+        0,
         0,
         0,
         0
@@ -461,19 +465,18 @@
       "id": "enterprise_ai_agent_adoption_and_product",
       "name": "Enterprise AI Agent Adoption and Product Launches",
       "related_tags": [
-        "Information Retrieval",
         "Consumer AI",
+        "Partnership",
+        "Information Retrieval",
+        "OpenAI",
         "AI Agents",
-        "Anthropic",
-        "Search",
-        "Personalization",
+        "Microsoft",
         "Enterprise AI",
         "Product Launch"
       ],
       "trajectory": "accelerating",
-      "signal_count": 155,
+      "signal_count": 158,
       "weekly_counts": [
-        1,
         2,
         1,
         2,
@@ -484,17 +487,10 @@
         1,
         4,
         4,
-        0
+        0,
+        1
       ],
       "key_events": [
-        {
-          "date": "2026-04-19",
-          "event": "Scale AI CEO Highlights Muse Spark's Strong Performance on Agentic Benchmark"
-        },
-        {
-          "date": "2026-04-20",
-          "event": "OpenAI Codex Becoming 'Universal App' for Developers; Box CEO Highlights Need for Rapid AI Architecture Upgrades"
-        },
         {
           "date": "2026-04-21",
           "event": "GitHub Cofounder Discusses Rethinking Git for AI Agents Era"
@@ -526,6 +522,14 @@
         {
           "date": "2026-04-27",
           "event": "OpenAI Scales Compute for Codex Traffic Surge; Alibaba Releases AgenticQwen MoE Model; Multi-Agent Framework 'harmonist' Gains Traction; Stanford Chelsea Finn Discusses Long-Term Memory at ICLR"
+        },
+        {
+          "date": "2026-04-28",
+          "event": "First detected"
+        },
+        {
+          "date": "2026-04-29",
+          "event": "Amazon Launches AI-Powered Audio Q&A Experience on Product Pages"
         }
       ],
       "created": "2026-02-25"
@@ -544,9 +548,8 @@
         "Scientific Discovery"
       ],
       "trajectory": "accelerating",
-      "signal_count": 112,
+      "signal_count": 115,
       "weekly_counts": [
-        1,
         2,
         1,
         2,
@@ -557,7 +560,8 @@
         3,
         1,
         2,
-        1
+        1,
+        3
       ],
       "key_events": [
         {
@@ -607,6 +611,10 @@
         {
           "date": "2026-04-28",
           "event": "New AI Framework Auto-Optimizes Training Data, Architectures and Algorithms, Outperforming Humans"
+        },
+        {
+          "date": "2026-04-29",
+          "event": "Microsoft Research Proposes World-R1: Reinforcing 3D Constraints for Text-to-Video Generation; Stanford NLP Proposes SLIDERS: Structured Reasoning for Scalable QA over Long Document Sets; Apple MLR Presents Stochastic KV Routing for Adaptive Depth-Wise Cache Sharing"
         }
       ],
       "created": "2026-02-25"
@@ -615,15 +623,18 @@
       "id": "ai_talent_wars_and_legal_battles",
       "name": "AI Talent Wars and Legal Battles",
       "related_tags": [
+        "Corporate Governance",
+        "Google",
         "Legal",
-        "Corporate Rivalry",
+        "Employee Activism",
+        "AI Ethics",
         "OpenAI",
-        "xAI"
+        "xAI",
+        "Military"
       ],
-      "trajectory": "accelerating",
-      "signal_count": 37,
+      "trajectory": "decelerating",
+      "signal_count": 38,
       "weekly_counts": [
-        1,
         0,
         1,
         1,
@@ -634,105 +645,10 @@
         0,
         0,
         2,
+        0,
         0
       ],
       "key_events": [
-        {
-          "date": "2026-02-25",
-          "event": "First detected"
-        },
-        {
-          "date": "2026-02-25",
-          "event": "OpenAI defeats xAI's trade secrets lawsuit"
-        },
-        {
-          "date": "2026-02-25",
-          "event": "OpenAI defeats xAI's trade secrets lawsuit, legal battle continues"
-        },
-        {
-          "date": "2026-02-27",
-          "event": "OpenAI expands London research hub to compete directly with DeepMind for UK AI talent"
-        },
-        {
-          "date": "2026-03-01",
-          "event": "OpenAI secures Pentagon deal after Anthropic rejection, highlighting competitive dynamics"
-        },
-        {
-          "date": "2026-03-02",
-          "event": "McGill University establishes AI Centre of Excellence in India"
-        },
-        {
-          "date": "2026-03-02",
-          "event": "McGill University establishes AI Centre of Excellence in India"
-        },
-        {
-          "date": "2026-03-05",
-          "event": "Anthropic CEO accuses OpenAI of lying about military deal, escalating corporate rivalry"
-        },
-        {
-          "date": "2026-03-08",
-          "event": "OpenAI Robotics Head resigns over Pentagon deal"
-        },
-        {
-          "date": "2026-03-09",
-          "event": "OpenAI faces $10M lawsuit over AI-generated legal advice hallucination"
-        },
-        {
-          "date": "2026-03-09",
-          "event": "Gary Marcus critiques AI leadership, highlighting growing public backlash"
-        },
-        {
-          "date": "2026-03-10",
-          "event": "OpenAI acquires Promptfoo to strengthen AI security testing"
-        },
-        {
-          "date": "2026-03-11",
-          "event": "Anthropic Expands to Australia & New Zealand, Opens Sydney Office"
-        },
-        {
-          "date": "2026-03-13",
-          "event": "a16z Podcast: Palantir CEO Alex Karp on Zero-Sum AI Race and National Defense"
-        },
-        {
-          "date": "2026-03-14",
-          "event": "Anthropic-Pentagon Battle Highlights AI Military Use and Corporate Resistance"
-        },
-        {
-          "date": "2026-03-16",
-          "event": "OpenAI Codex Team Culture Emphasizes Radical Improvement"
-        },
-        {
-          "date": "2026-03-18",
-          "event": "Google DeepMind launches AGI cognitive framework hackathon with $200K prizes, intensifying talent competition"
-        },
-        {
-          "date": "2026-03-20",
-          "event": "OpenAI acquires code agent startup Astral to boost Codex team"
-        },
-        {
-          "date": "2026-03-24",
-          "event": "Meta Hires AI Agent Startup Dreamer Team"
-        },
-        {
-          "date": "2026-03-25",
-          "event": "Wojciech Zaremba joins OpenAI Foundation to lead AI resilience"
-        },
-        {
-          "date": "2026-03-28",
-          "event": "NeurIPS Reverses Policy After Backlash from Chinese Researchers Over Geopolitical Lines"
-        },
-        {
-          "date": "2026-04-01",
-          "event": "OpenAI Completes $122B Funding Round at $852B Valuation"
-        },
-        {
-          "date": "2026-04-03",
-          "event": "OpenAI acquires tech podcast TBPN to shape AI narrative"
-        },
-        {
-          "date": "2026-04-04",
-          "event": "OpenAI executive shuffle: COO Brad Lightcap to lead 'Special Projects'; Anthropic restricts third-party harnesses, sparking developer backlash"
-        },
         {
           "date": "2026-04-07",
           "event": "OpenAI Alums Raise $100M Venture Fund 'Zero Shot'"
@@ -768,6 +684,10 @@
         {
           "date": "2026-04-25",
           "event": "Cohere Merges with Aleph Alpha to Form Transatlantic AI Powerhouse"
+        },
+        {
+          "date": "2026-04-28",
+          "event": "First detected"
         }
       ],
       "created": "2026-02-25"
@@ -831,9 +751,8 @@
         "Computer Use"
       ],
       "trajectory": "accelerating",
-      "signal_count": 181,
+      "signal_count": 183,
       "weekly_counts": [
-        2,
         1,
         1,
         2,
@@ -844,7 +763,8 @@
         3,
         2,
         4,
-        0
+        0,
+        2
       ],
       "key_events": [
         {
@@ -974,6 +894,10 @@
         {
           "date": "2026-04-27",
           "event": "Multi-Agent Framework 'harmonist' with 186 Agents Hits 696 Stars; 'future-agi' for LLM Agent Observability Reaches 555 Stars; Chelsea Finn Discusses Long-Term Memory for Agents"
+        },
+        {
+          "date": "2026-04-29",
+          "event": "Meta Proposes 'From Skills to Talent' Framework for Organizing Heterogeneous AI Agents as a Company; Mistral AI Launches Workflows: Temporal-Powered Agent Orchestration Engine"
         }
       ],
       "created": "2026-02-25"
@@ -987,11 +911,10 @@
         "Startups",
         "Europe"
       ],
-      "trajectory": "stable",
+      "trajectory": "decelerating",
       "signal_count": 13,
       "weekly_counts": [
         1,
-        1,
         0,
         0,
         0,
@@ -1001,6 +924,7 @@
         0,
         0,
         1,
+        0,
         0
       ],
       "key_events": [
@@ -1073,20 +997,20 @@
         "AI Infrastructure"
       ],
       "trajectory": "accelerating",
-      "signal_count": 69,
+      "signal_count": 70,
       "weekly_counts": [
         1,
         1,
         1,
         1,
-        1,
         2,
         2,
         2,
         1,
         2,
         2,
-        2
+        2,
+        1
       ],
       "key_events": [
         {
@@ -1180,6 +1104,10 @@
         {
           "date": "2026-04-28",
           "event": "vLLM v0.20.0 Released with Initial DeepSeek V4 Support; Canonical Announces AI Features Roadmap for Ubuntu Linux"
+        },
+        {
+          "date": "2026-04-29",
+          "event": "Apple MLR Presents Stochastic KV Routing for Adaptive Depth-Wise Cache Sharing"
         }
       ],
       "created": "2026-02-25"
@@ -1331,9 +1259,8 @@
         "AI Safety"
       ],
       "trajectory": "accelerating",
-      "signal_count": 63,
+      "signal_count": 64,
       "weekly_counts": [
-        1,
         0,
         1,
         1,
@@ -1344,6 +1271,7 @@
         3,
         1,
         2,
+        1,
         1
       ],
       "key_events": [
@@ -1390,6 +1318,10 @@
         {
           "date": "2026-04-28",
           "event": "Redis Research: RAG Fine-Tuning Can Cut Retrieval Accuracy by 40%"
+        },
+        {
+          "date": "2026-04-29",
+          "event": "Anthropic Launches 'Claude for Creative Work' and Experiences Agent System Prompt Bug"
         }
       ],
       "created": "2026-02-25"
@@ -1469,9 +1401,8 @@
         "AI Adoption"
       ],
       "trajectory": "accelerating",
-      "signal_count": 50,
+      "signal_count": 51,
       "weekly_counts": [
-        2,
         2,
         1,
         4,
@@ -1482,6 +1413,7 @@
         3,
         1,
         2,
+        1,
         1
       ],
       "key_events": [
@@ -1564,6 +1496,10 @@
         {
           "date": "2026-04-28",
           "event": "Xiaomi MiMo-V2.5 Open Source Models Excel at Agentic 'Claw' Tasks"
+        },
+        {
+          "date": "2026-04-29",
+          "event": "Tencent releases Hunyuan 3 (Hy3-preview) open-source large model"
         }
       ],
       "created": "2026-02-25"
@@ -1578,9 +1514,8 @@
         "Startup Funding"
       ],
       "trajectory": "accelerating",
-      "signal_count": 75,
+      "signal_count": 76,
       "weekly_counts": [
-        2,
         3,
         2,
         1,
@@ -1588,6 +1523,7 @@
         3,
         1,
         0,
+        1,
         1,
         1,
         1,
@@ -1817,6 +1753,10 @@
         {
           "date": "2026-04-28",
           "event": "Carnegie Mellon University: Building a Precise Video Language with Human-AI Oversight"
+        },
+        {
+          "date": "2026-04-29",
+          "event": "Microsoft Research Proposes World-R1: Reinforcing 3D Constraints for Text-to-Video Generation"
         }
       ],
       "created": "2026-02-26"
@@ -1880,6 +1820,7 @@
         0,
         0,
         0,
+        0,
         0
       ],
       "key_events": [
@@ -1927,12 +1868,13 @@
         "Consumer Hardware",
         "Productivity"
       ],
-      "trajectory": "accelerating",
+      "trajectory": "decelerating",
       "signal_count": 7,
       "weekly_counts": [
         1,
         3,
         1,
+        0,
         0,
         0
       ],
@@ -1959,52 +1901,6 @@
         }
       ],
       "created": "2026-04-25"
-    },
-    {
-      "id": "ai_corporate_strategy_and_partnership_re",
-      "name": "AI Corporate Strategy and Partnership Reshuffling",
-      "related_tags": [
-        "Corporate Strategy",
-        "OpenAI",
-        "Microsoft",
-        "Cloud",
-        "Partnership"
-      ],
-      "trajectory": "accelerating",
-      "signal_count": 1,
-      "weekly_counts": [
-        1
-      ],
-      "key_events": [
-        {
-          "date": "2026-04-28",
-          "event": "First detected"
-        }
-      ],
-      "created": "2026-04-28"
-    },
-    {
-      "id": "ai_ethics_and_military_use_employee_acti",
-      "name": "AI Ethics and Military Use Employee Activism",
-      "related_tags": [
-        "AI Ethics",
-        "Military",
-        "Google",
-        "Employee Activism",
-        "Corporate Governance"
-      ],
-      "trajectory": "accelerating",
-      "signal_count": 1,
-      "weekly_counts": [
-        1
-      ],
-      "key_events": [
-        {
-          "date": "2026-04-28",
-          "event": "First detected"
-        }
-      ],
-      "created": "2026-04-28"
     }
   ]
 }
