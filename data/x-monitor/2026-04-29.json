@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-29T09:05:41.239763",
+  "scraped_at": "2026-04-29T13:54:36.640987",
   "date": "2026-04-29",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 61,
-  "account_count": 36,
+  "tweet_count": 79,
+  "account_count": 44,
   "tweets": [
     {
       "id": "2049202338209079574",
@@ -734,6 +734,210 @@
       "likes": 96,
       "retweets": 10,
       "views": 7092
+    },
+    {
+      "id": "2049362299392241784",
+      "username": "thsottiaux",
+      "text": "With some small tweaks, Codex can work for days on hard tasks. We will release some changes to make this easier to use for everyone. \n\nWhat’s the hardest task you’ve seen GPT-5.5 succeed at?",
+      "timestamp": "2026-04-29T05:37:02+00:00",
+      "url": "https://x.com/thsottiaux/status/2049362299392241784",
+      "images": [],
+      "likes": 311,
+      "retweets": 8,
+      "views": 5696
+    },
+    {
+      "id": "2049356949523730699",
+      "username": "steipete",
+      "text": "codex now runs on each commit we land, reviews it - and if a booboo is found, a new codex spins up and (if still relevant) makes a PR for the fix. \n\nThen a review agent spins up. If an issue is found, another agent will fix the issues. (up to 5 loops) https://t.co/k6o7tNcDyf",
+      "timestamp": "2026-04-29T05:15:46+00:00",
+      "url": "https://x.com/steipete/status/2049356949523730699",
+      "images": [],
+      "likes": 94,
+      "retweets": 4,
+      "views": 6403
+    },
+    {
+      "id": "2049352224547975422",
+      "username": "GaryMarcus",
+      "text": "OpenAI may no longer be a nonprofit but it continues to be—and may always be—a “never made a profit”",
+      "timestamp": "2026-04-29T04:57:00+00:00",
+      "url": "https://x.com/GaryMarcus/status/2049352224547975422",
+      "images": [],
+      "likes": 47,
+      "retweets": 2,
+      "views": 2312
+    },
+    {
+      "id": "2049342208575422937",
+      "username": "shaneguML",
+      "text": "How do you measure a good AI agent? Benchmarks? Human evals? \"Tokenmaxxing\"?\n\nThe real metric: intelligence of output / intelligence of input.\n\nGreat agents maximize that ratio — turning horrible lazy prompts into solid work.",
+      "timestamp": "2026-04-29T04:17:12+00:00",
+      "url": "https://x.com/shaneguML/status/2049342208575422937",
+      "images": [],
+      "likes": 14,
+      "retweets": 1,
+      "views": 1159
+    },
+    {
+      "id": "2049334918141080029",
+      "username": "embirico",
+      "text": "love this screenshot",
+      "timestamp": "2026-04-29T03:48:13+00:00",
+      "url": "https://x.com/embirico/status/2049334918141080029",
+      "images": [],
+      "likes": 35,
+      "retweets": 0,
+      "views": 3034
+    },
+    {
+      "id": "2049333853777764495",
+      "username": "levie",
+      "text": "Will keep saying this, but software jobs aren’t going away. Agents are the single biggest form of leverage for anyone technical in history. Probably has never been a better time to be technical in terms of being able to accomplish something solo, in a team, or company.\n\nWe think",
+      "timestamp": "2026-04-29T03:44:00+00:00",
+      "url": "https://x.com/levie/status/2049333853777764495",
+      "images": [],
+      "likes": 219,
+      "retweets": 31,
+      "views": 35349
+    },
+    {
+      "id": "2049332831512641872",
+      "username": "sarahookr",
+      "text": "Not specific to opus, but consistent with other recent scaling efforts in model size (gpt 4.5 last year) \n\nRates of return for compute are much better placed in post training, alignment, data targeting, gradient free learning. \n\nIt is the slow death of brute force scaling alone.",
+      "timestamp": "2026-04-29T03:39:56+00:00",
+      "url": "https://x.com/sarahookr/status/2049332831512641872",
+      "images": [],
+      "likes": 30,
+      "retweets": 2,
+      "views": 4005
+    },
+    {
+      "id": "2049331057980576076",
+      "username": "Miles_Brundage",
+      "text": "A vintage language model? You mean like BERT? https://t.co/1ds3YifRgH",
+      "timestamp": "2026-04-29T03:32:53+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2049331057980576076",
+      "images": [
+        "https://pbs.twimg.com/media/HHCvtm9a8AAsegc.jpg"
+      ],
+      "likes": 25,
+      "retweets": 0,
+      "views": 1109
+    },
+    {
+      "id": "2049321182089081059",
+      "username": "GaryMarcus",
+      "text": "the ability of this man to sell things he doesn’t believe in is truly extraordinary",
+      "timestamp": "2026-04-29T02:53:39+00:00",
+      "url": "https://x.com/GaryMarcus/status/2049321182089081059",
+      "images": [],
+      "likes": 122,
+      "retweets": 19,
+      "views": 9290
+    },
+    {
+      "id": "2049320621553881539",
+      "username": "OpenAINewsroom",
+      "text": "Strong local schools are vital to helping people thrive in the Intelligence Age. We're proud to support students, teachers, and workforce AI training in Port Washington–Saukville with @VantageDC and @Oracle as we launch our community engagement program.",
+      "timestamp": "2026-04-29T02:51:25+00:00",
+      "url": "https://x.com/OpenAINewsroom/status/2049320621553881539",
+      "images": [],
+      "likes": 85,
+      "retweets": 0,
+      "views": 10391
+    },
+    {
+      "id": "2049315404271469054",
+      "username": "gdb",
+      "text": "a great codex tutorial:",
+      "timestamp": "2026-04-29T02:30:41+00:00",
+      "url": "https://x.com/gdb/status/2049315404271469054",
+      "images": [],
+      "likes": 1140,
+      "retweets": 78,
+      "views": 139409
+    },
+    {
+      "id": "2049312932014813344",
+      "username": "deepseek_ai",
+      "text": "The DeepSeek-V4-Pro discount has been extended until May 31, 2026, 15:59 UTC! https://t.co/kd0taLhZhH",
+      "timestamp": "2026-04-29T02:20:52+00:00",
+      "url": "https://x.com/deepseek_ai/status/2049312932014813344",
+      "images": [
+        "https://pbs.twimg.com/media/HHCeB16bIAAGQeE.jpg"
+      ],
+      "likes": 2838,
+      "retweets": 256,
+      "views": 147075
+    },
+    {
+      "id": "2049307950427308099",
+      "username": "Miles_Brundage",
+      "text": "Clearly we're undergoing Codexponential improvement and Claudomated AI R+D, but are we also in the midst of Bard Takeoff?",
+      "timestamp": "2026-04-29T02:01:04+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2049307950427308099",
+      "images": [],
+      "likes": 13,
+      "retweets": 0,
+      "views": 1296
+    },
+    {
+      "id": "2049307030490673585",
+      "username": "Miles_Brundage",
+      "text": "No good email goes unpunished by more emails",
+      "timestamp": "2026-04-29T01:57:25+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2049307030490673585",
+      "images": [],
+      "likes": 17,
+      "retweets": 0,
+      "views": 841
+    },
+    {
+      "id": "2049299889381626029",
+      "username": "code",
+      "text": "Install Agent Plugins in VS Code to add skills, commands, MCP servers, hooks, and more ⚡ https://t.co/6xpFnM4YwA",
+      "timestamp": "2026-04-29T01:29:02+00:00",
+      "url": "https://x.com/code/status/2049299889381626029",
+      "images": [],
+      "likes": 176,
+      "retweets": 27,
+      "views": 12539
+    },
+    {
+      "id": "2049296290282893769",
+      "username": "DeryaTR_",
+      "text": "I declare Tibo my favorite person of the month! Codex has achieved escape velocity and we are going to seek out things we could only dream of!",
+      "timestamp": "2026-04-29T01:14:44+00:00",
+      "url": "https://x.com/DeryaTR_/status/2049296290282893769",
+      "images": [],
+      "likes": 122,
+      "retweets": 0,
+      "views": 5842
+    },
+    {
+      "id": "2048824255702262135",
+      "username": "sriramk",
+      "text": "Now commonly hearing \"We want to the Semianalysis for X\". Testament to what @dylan522p has built.",
+      "timestamp": "2026-04-27T17:59:02+00:00",
+      "url": "https://x.com/sriramk/status/2048824255702262135",
+      "images": [],
+      "likes": 199,
+      "retweets": 5,
+      "views": 36586
+    },
+    {
+      "id": "2048614703149248888",
+      "username": "PalmerLuckey",
+      "text": "Gemini 2025: https://t.co/Rjc7vNhcD3",
+      "timestamp": "2026-04-27T04:06:21+00:00",
+      "url": "https://x.com/PalmerLuckey/status/2048614703149248888",
+      "images": [
+        "https://pbs.twimg.com/media/HG4j_b6a0AAWE3c.png"
+      ],
+      "likes": 5837,
+      "retweets": 141,
+      "views": 299429
     }
   ]
 }
