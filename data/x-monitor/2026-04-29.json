@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-29T13:54:36.640987",
+  "scraped_at": "2026-04-29T17:31:16.686928",
   "date": "2026-04-29",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 79,
-  "account_count": 44,
+  "tweet_count": 84,
+  "account_count": 46,
   "tweets": [
     {
       "id": "2049202338209079574",
@@ -938,6 +938,63 @@
       "likes": 5837,
       "retweets": 141,
       "views": 299429
+    },
+    {
+      "id": "2049404418051719458",
+      "username": "NielsRogge",
+      "text": "First time I see Anthropic supporting local/open-source models lol https://t.co/TNdCygMfKK",
+      "timestamp": "2026-04-29T08:24:24+00:00",
+      "url": "https://x.com/NielsRogge/status/2049404418051719458",
+      "images": [
+        "https://pbs.twimg.com/media/HHDydBKWwAAuoTt.jpg"
+      ],
+      "likes": 2,
+      "retweets": 1,
+      "views": 258
+    },
+    {
+      "id": "2049384048829845550",
+      "username": "Miles_Brundage",
+      "text": "Have had more of this error since the latest Codex update, though dunno if a coincidence: \n\n\"Codex ran out of room in the model's context window. Start a new thread or clear earlier history before retrying.\"",
+      "timestamp": "2026-04-29T07:03:27+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2049384048829845550",
+      "images": [],
+      "likes": 5,
+      "retweets": 0,
+      "views": 638
+    },
+    {
+      "id": "2049378528467050820",
+      "username": "giffmana",
+      "text": "GNOME devs trying to use codex be like 😐",
+      "timestamp": "2026-04-29T06:41:31+00:00",
+      "url": "https://x.com/giffmana/status/2049378528467050820",
+      "images": [],
+      "likes": 82,
+      "retweets": 3,
+      "views": 4623
+    },
+    {
+      "id": "2049377016957350116",
+      "username": "DeryaTR_",
+      "text": "Fantastic use for the GPT Image 2 and Seedance 2.0 collaboration!",
+      "timestamp": "2026-04-29T06:35:31+00:00",
+      "url": "https://x.com/DeryaTR_/status/2049377016957350116",
+      "images": [],
+      "likes": 17,
+      "retweets": 0,
+      "views": 3251
+    },
+    {
+      "id": "2049182118069358967",
+      "username": "OpenAI",
+      "text": "Earlier this month, an Erdős problem that had been open for 60 years was solved with help from GPT-5.4 Pro.\n\nWhat happens now that AI is getting good at math?\n\nOpenAI researchers @SebastienBubeck and @ErnestRyu join host @AndrewMayne to explain what changed and what it could mean https://t.co/wqYLv1Ju2T",
+      "timestamp": "2026-04-28T17:41:03+00:00",
+      "url": "https://x.com/OpenAI/status/2049182118069358967",
+      "images": [],
+      "likes": 2070,
+      "retweets": 197,
+      "views": 298006
     }
   ]
 }
