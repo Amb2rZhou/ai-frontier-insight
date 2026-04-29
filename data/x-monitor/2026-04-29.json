@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-29T07:33:56.450636",
+  "scraped_at": "2026-04-29T09:05:41.239763",
   "date": "2026-04-29",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 56,
-  "account_count": 33,
+  "tweet_count": 61,
+  "account_count": 36,
   "tweets": [
     {
       "id": "2049202338209079574",
@@ -673,6 +673,67 @@
       "likes": 2012,
       "retweets": 179,
       "views": 208963
+    },
+    {
+      "id": "2049292585924002109",
+      "username": "googledevs",
+      "text": "Build, evaluate, and deploy production-ready agents using the Agents CLI in Agent Platform.\n\nIt works with the coding agent of your choice (Claude Code, Gemini CLI, Codex, Cursor).\n\nWatch @Saboo_Shubham_ build a multi-agent PR Roaster team in minutes. \n\nLearn more ➡️ https://t.co/EkG3nkaWmn",
+      "timestamp": "2026-04-29T01:00:01+00:00",
+      "url": "https://x.com/googledevs/status/2049292585924002109",
+      "images": [
+        "https://pbs.twimg.com/media/HHCAbbtXwAAeUqz.jpg"
+      ],
+      "likes": 3,
+      "retweets": 2,
+      "views": 241
+    },
+    {
+      "id": "2049290741013262522",
+      "username": "steipete",
+      "text": "I'm now spinning up a codex instance on every commit landing on main, looking for booboos (regressions, security issues)\n\nIt's live for 10 min and already found one of mine. https://t.co/P0xgFTSpkS https://t.co/xQcehMY7V5",
+      "timestamp": "2026-04-29T00:52:41+00:00",
+      "url": "https://x.com/steipete/status/2049290741013262522",
+      "images": [
+        "https://pbs.twimg.com/media/HHCK-JZXUAAGJNB.jpg"
+      ],
+      "likes": 25,
+      "retweets": 0,
+      "views": 2404
+    },
+    {
+      "id": "2049282089518784640",
+      "username": "Thom_Wolf",
+      "text": "GitHub central place might become challenged in a world where (1) we access/get code and libraries through agents/chats and (2) our codebases are increasingly custom tailored and build from scratch\n\nAgents explore the web better than us and can get/store code from many places",
+      "timestamp": "2026-04-29T00:18:18+00:00",
+      "url": "https://x.com/Thom_Wolf/status/2049282089518784640",
+      "images": [],
+      "likes": 4,
+      "retweets": 1,
+      "views": 1077
+    },
+    {
+      "id": "2049278134537818598",
+      "username": "NVIDIAAI",
+      "text": "Some more amazing models launched today! \n\nCongrats to @poolsideai on the release of Laguna XS.2 and Laguna M.1",
+      "timestamp": "2026-04-29T00:02:35+00:00",
+      "url": "https://x.com/NVIDIAAI/status/2049278134537818598",
+      "images": [],
+      "likes": 40,
+      "retweets": 3,
+      "views": 2931
+    },
+    {
+      "id": "2049277317680443613",
+      "username": "LiamFedus",
+      "text": "As we ramped up our first lab at Periodic, we were surprised by how quickly we became intelligence-bottlenecked.\n\nThe challenge shifted from conducting more experiments to understanding what we had actually made.\n\n@agarwl_’s talk gives a glimpse into the research + infra behind https://t.co/oTEBMTt6DR",
+      "timestamp": "2026-04-28T23:59:20+00:00",
+      "url": "https://x.com/LiamFedus/status/2049277317680443613",
+      "images": [
+        "https://pbs.twimg.com/media/HHB7uUBaUAABwoO.jpg"
+      ],
+      "likes": 96,
+      "retweets": 10,
+      "views": 7092
     }
   ]
 }
