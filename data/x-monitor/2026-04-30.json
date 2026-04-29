@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-30T02:38:23.381950",
+  "scraped_at": "2026-04-30T06:13:15.502792",
   "date": "2026-04-30",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 33,
-  "account_count": 26,
+  "tweet_count": 56,
+  "account_count": 34,
   "tweets": [
     {
       "id": "2049557758312370326",
@@ -398,6 +398,272 @@
       "likes": 182,
       "retweets": 5,
       "views": 6031
+    },
+    {
+      "id": "2049609612425392494",
+      "username": "gdb",
+      "text": "I’ve been very pleasantly surprised by how useful GPT Image 2 is for app building:",
+      "timestamp": "2026-04-29T21:59:46+00:00",
+      "url": "https://x.com/gdb/status/2049609612425392494",
+      "images": [],
+      "likes": 64,
+      "retweets": 1,
+      "views": 3715
+    },
+    {
+      "id": "2049609076351381580",
+      "username": "gdb",
+      "text": "build your own agents with codex app-server",
+      "timestamp": "2026-04-29T21:57:38+00:00",
+      "url": "https://x.com/gdb/status/2049609076351381580",
+      "images": [],
+      "likes": 55,
+      "retweets": 3,
+      "views": 4486
+    },
+    {
+      "id": "2049606408656613823",
+      "username": "DeryaTR_",
+      "text": "It is a good idea to have AI agent clinic benchmarks; however, you can completely skip the conclusions of the paper on whether AI works or not, all you need to see are all the completely obsolete models they tested. This is a major problem in scientific benchmark papers. https://t.co/78VZDcI9sO",
+      "timestamp": "2026-04-29T21:47:02+00:00",
+      "url": "https://x.com/DeryaTR_/status/2049606408656613823",
+      "images": [
+        "https://pbs.twimg.com/media/HHGqKoiW8AAZVn_.jpg"
+      ],
+      "likes": 11,
+      "retweets": 1,
+      "views": 1561
+    },
+    {
+      "id": "2049605820351230158",
+      "username": "OpenAIDevs",
+      "text": "With the Figma plugin, Codex can now turn implementation plans into visual FigJam boards.",
+      "timestamp": "2026-04-29T21:44:42+00:00",
+      "url": "https://x.com/OpenAIDevs/status/2049605820351230158",
+      "images": [],
+      "likes": 89,
+      "retweets": 1,
+      "views": 6795
+    },
+    {
+      "id": "2049605470546022826",
+      "username": "emollick",
+      "text": "Gemini now can create documents, and it is a nice start, but not up to the frontier yet, as you can see from my \"LBO of Hogwarts\" test.\n\nPowerPoints are substantially worse than NotebookLM, spreadsheets are primitive, still no thinking trace, it doesn't think hard enough, either. https://t.co/ZNIdO6lsJ6",
+      "timestamp": "2026-04-29T21:43:18+00:00",
+      "url": "https://x.com/emollick/status/2049605470546022826",
+      "images": [
+        "https://pbs.twimg.com/media/HHGgfIDaYAAEjfO.jpg",
+        "https://pbs.twimg.com/media/HHGghxha0AAWYIe.jpg",
+        "https://pbs.twimg.com/media/HHGgkS1WIAAk9Jj.jpg",
+        "https://pbs.twimg.com/media/HHGi-9HWUAA1fPG.jpg"
+      ],
+      "likes": 58,
+      "retweets": 2,
+      "views": 3863
+    },
+    {
+      "id": "2049604718532468922",
+      "username": "minchoi",
+      "text": "Gemini can now generate actual files.\n\nPDFs, Word docs, Excel sheets, Slides, CSVs, LaTeX and Markdown... directly from chat.\n\nNo copy/paste.\n\nWild. https://t.co/eD4JIvRBjV",
+      "timestamp": "2026-04-29T21:40:19+00:00",
+      "url": "https://x.com/minchoi/status/2049604718532468922",
+      "images": [],
+      "likes": 17,
+      "retweets": 0,
+      "views": 2489
+    },
+    {
+      "id": "2049595890395152728",
+      "username": "OpenAIDevs",
+      "text": "⚙️ We made agent loops faster with WebSockets in the Responses API\n\nAs Codex got faster, the bottleneck moved from inference to inefficient API calls\n\nWebSockets keep response state warm across tool calls, helping workflows run up to 40% faster end to end\n\nhttps://t.co/nFeUEdRdKt",
+      "timestamp": "2026-04-29T21:05:14+00:00",
+      "url": "https://x.com/OpenAIDevs/status/2049595890395152728",
+      "images": [],
+      "likes": 319,
+      "retweets": 18,
+      "views": 12196
+    },
+    {
+      "id": "2049594975235490059",
+      "username": "ClementDelangue",
+      "text": "The first agent-native robot!\n\nYesterday, we assembled the new version of Reachy mini and this morning I created my first app in under an hour with ml intern (our Hugging Face agent).\n\nTry it in your Reachy mini (or in simulation): https://t.co/8TFWrorpE4 https://t.co/t1JrbHnwUY",
+      "timestamp": "2026-04-29T21:01:36+00:00",
+      "url": "https://x.com/ClementDelangue/status/2049594975235490059",
+      "images": [],
+      "likes": 26,
+      "retweets": 6,
+      "views": 2991
+    },
+    {
+      "id": "2049594574020940069",
+      "username": "googledevs",
+      "text": "Build for impact. Win from a $200,000 prize pool. 🏆✨\n\nJoin the Gemma 4 Good Challenge to create solutions for health, education, global resilience, digital equity, and AI safety. With a $200,000 prize pool and multiple technical tracks, discover how to scale impact using Gemma https://t.co/fwhdxz5uvb",
+      "timestamp": "2026-04-29T21:00:00+00:00",
+      "url": "https://x.com/googledevs/status/2049594574020940069",
+      "images": [],
+      "likes": 88,
+      "retweets": 18,
+      "views": 3647
+    },
+    {
+      "id": "2049590640313241811",
+      "username": "ClementDelangue",
+      "text": "Recreated the app with ml intern to compare. Went faster than in cowork, some things are better (ex direct integration in the desktop reachy mini app), some things are worse (had to debut the install) https://t.co/6m1uPV9iOC",
+      "timestamp": "2026-04-29T20:44:22+00:00",
+      "url": "https://x.com/ClementDelangue/status/2049590640313241811",
+      "images": [],
+      "likes": 5,
+      "retweets": 0,
+      "views": 2166
+    },
+    {
+      "id": "2049588175555977422",
+      "username": "fidjissimo",
+      "text": "Exactly what needs to be done. Biological data is the missing link. It may not be sexy or make for shiny announcements but building biological infrastructure is where the impact is. Huge props to CZI. \n\nhttps://t.co/QJVhzwtVTw",
+      "timestamp": "2026-04-29T20:34:35+00:00",
+      "url": "https://x.com/fidjissimo/status/2049588175555977422",
+      "images": [],
+      "likes": 67,
+      "retweets": 7,
+      "views": 3335
+    },
+    {
+      "id": "2049584181676740793",
+      "username": "a16z",
+      "text": ".@pmarca on the 5 key traits of a real innovator:\n\n1. \"Just flat-out open to new ideas... And the nature of trait openness means you're not just open to new ideas in one category, you're open to many different kinds of new ideas.\"\n\n2. \"You need somebody who's really willing to https://t.co/VXSu6LE7Bs",
+      "timestamp": "2026-04-29T20:18:43+00:00",
+      "url": "https://x.com/a16z/status/2049584181676740793",
+      "images": [],
+      "likes": 233,
+      "retweets": 18,
+      "views": 20163
+    },
+    {
+      "id": "2049581597582823912",
+      "username": "paraga",
+      "text": "i’ve been dying to see this eval and @sarahmsachs just tweeted it out!",
+      "timestamp": "2026-04-29T20:08:26+00:00",
+      "url": "https://x.com/paraga/status/2049581597582823912",
+      "images": [],
+      "likes": 35,
+      "retweets": 1,
+      "views": 8188
+    },
+    {
+      "id": "2049579474505601221",
+      "username": "NVIDIARobotics",
+      "text": "NVIDIA Nemotron 3 Nano Omni, a new multimodal reasoning model, is now live on Jetson AI Lab and unifies vision, audio, and language into a single reasoning loop. 🙌\n\nPower your NemoClaws by running this model with Ollama, vLLM and other inference frameworks on NVIDIA Jetson https://t.co/fRlHlnNSrC",
+      "timestamp": "2026-04-29T20:00:00+00:00",
+      "url": "https://x.com/NVIDIARobotics/status/2049579474505601221",
+      "images": [],
+      "likes": 37,
+      "retweets": 3,
+      "views": 1726
+    },
+    {
+      "id": "2049576143653929153",
+      "username": "AnthropicAI",
+      "text": "In new Anthropic Fellows research, we discuss “introspection adapters\": a tool that allows language models to self-report behaviors they've learned during training—including potential misalignment.",
+      "timestamp": "2026-04-29T19:46:46+00:00",
+      "url": "https://x.com/AnthropicAI/status/2049576143653929153",
+      "images": [],
+      "likes": 571,
+      "retweets": 59,
+      "views": 69013
+    },
+    {
+      "id": "2049569548886593849",
+      "username": "DeryaTR_",
+      "text": "AI art of the day created with GPT-5.5 image-2 https://t.co/i2fTJNw61t",
+      "timestamp": "2026-04-29T19:20:34+00:00",
+      "url": "https://x.com/DeryaTR_/status/2049569548886593849",
+      "images": [
+        "https://pbs.twimg.com/media/HHGIoTzaoAAc6Oe.jpg"
+      ],
+      "likes": 23,
+      "retweets": 0,
+      "views": 2713
+    },
+    {
+      "id": "2049565638402957721",
+      "username": "GaryMarcus",
+      "text": "Despite constant chants of “exponential progress”, trust issues continue to plague generative AI.",
+      "timestamp": "2026-04-29T19:05:01+00:00",
+      "url": "https://x.com/GaryMarcus/status/2049565638402957721",
+      "images": [],
+      "likes": 73,
+      "retweets": 6,
+      "views": 6717
+    },
+    {
+      "id": "2049564752863461533",
+      "username": "Thom_Wolf",
+      "text": "Super happy to have this one out. A clean organized up-to-date view of all the science resources (chemistry, biology, physics, materials, math) people have been sharing on the Hugging Face hub: datasets, blogs, models and more",
+      "timestamp": "2026-04-29T19:01:30+00:00",
+      "url": "https://x.com/Thom_Wolf/status/2049564752863461533",
+      "images": [],
+      "likes": 26,
+      "retweets": 2,
+      "views": 5063
+    },
+    {
+      "id": "2049564480351441404",
+      "username": "mathemagic1an",
+      "text": "@OpenAIDevs @embirico looks like there is a font size mismatch on the file preview in Codex - file content text is huge https://t.co/niJdXUhhzZ",
+      "timestamp": "2026-04-29T19:00:25+00:00",
+      "url": "https://x.com/mathemagic1an/status/2049564480351441404",
+      "images": [
+        "https://pbs.twimg.com/media/HHGD75rbEAAjWvt.jpg"
+      ],
+      "likes": 0,
+      "retweets": 0,
+      "views": 510
+    },
+    {
+      "id": "2049561731836367210",
+      "username": "DeryaTR_",
+      "text": "An important benchmark is now open source. As AI models accelerate their advances, continuously developing better benchmarks on variety of fields, becomes more critical.",
+      "timestamp": "2026-04-29T18:49:30+00:00",
+      "url": "https://x.com/DeryaTR_/status/2049561731836367210",
+      "images": [],
+      "likes": 25,
+      "retweets": 6,
+      "views": 4966
+    },
+    {
+      "id": "2049559140503339338",
+      "username": "GaryMarcus",
+      "text": "Legal scholars: OpenAI wants to claim that the suit would cause no legal precedent. Is that true, or BS? \n\nIt’s not a US Supreme Court decision, obviously, but outcome can still be cited in other suits, no? Am I missing something?",
+      "timestamp": "2026-04-29T18:39:12+00:00",
+      "url": "https://x.com/GaryMarcus/status/2049559140503339338",
+      "images": [],
+      "likes": 19,
+      "retweets": 2,
+      "views": 7777
+    },
+    {
+      "id": "2049556204930695278",
+      "username": "code",
+      "text": "🚀 Better prompts. Smarter agents. More control.\n\nThe latest @code release introduces the Chat Customizations Evaluation extension, designed to help analyze and refine your prompts, agents, instructions, and skills. https://t.co/7X5XLWjFGD",
+      "timestamp": "2026-04-29T18:27:32+00:00",
+      "url": "https://x.com/code/status/2049556204930695278",
+      "images": [],
+      "likes": 461,
+      "retweets": 56,
+      "views": 37373
+    },
+    {
+      "id": "2049462758211772663",
+      "username": "Alibaba_Qwen",
+      "text": "🚀 Introducing FlashQLA: high-performance linear attention kernels built on TileLang.\n\n⚡ 2–3× forward speedup. 2× backward speedup.\n💻 Purpose-built for agentic AI on your personal devices.\n\n💡Key insights:\n1. Gate-driven automatic intra-card CP.\n2. Hardware-friendly algebraic https://t.co/4Vhyyw5RuB",
+      "timestamp": "2026-04-29T12:16:13+00:00",
+      "url": "https://x.com/Alibaba_Qwen/status/2049462758211772663",
+      "images": [
+        "https://pbs.twimg.com/media/HHElcUQbwAAUYBL.jpg"
+      ],
+      "likes": 737,
+      "retweets": 74,
+      "views": 42384
     }
   ]
 }
