@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-30T12:26:42.245183",
+  "scraped_at": "2026-04-30T17:01:05.404265",
   "date": "2026-04-30",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 92,
-  "account_count": 45,
+  "tweet_count": 103,
+  "account_count": 50,
   "tweets": [
     {
       "id": "2049557758312370326",
@@ -1078,6 +1078,131 @@
       "likes": 1942,
       "retweets": 230,
       "views": 258278
+    },
+    {
+      "id": "2049765384937689392",
+      "username": "lm_zheng",
+      "text": "Impressive",
+      "timestamp": "2026-04-30T08:18:45+00:00",
+      "url": "https://x.com/lm_zheng/status/2049765384937689392",
+      "images": [],
+      "likes": 0,
+      "retweets": 0,
+      "views": 343
+    },
+    {
+      "id": "2049745658769203408",
+      "username": "SchmidhuberAI",
+      "text": "World models rock!\n\nJS. The Neural World Model Boom. Technical Note IDSIA-2-26, 2/4/2026, updated 4/29/2026 https://t.co/bRz8PFNt0P https://t.co/1JkMWbqB2y",
+      "timestamp": "2026-04-30T07:00:22+00:00",
+      "url": "https://x.com/SchmidhuberAI/status/2049745658769203408",
+      "images": [
+        "https://pbs.twimg.com/media/HHInRJXWkAAWA8e.jpg"
+      ],
+      "likes": 78,
+      "retweets": 17,
+      "views": 3310
+    },
+    {
+      "id": "2049743158196752462",
+      "username": "embirico",
+      "text": "be nice to your models people https://t.co/tBOLXX7IER",
+      "timestamp": "2026-04-30T06:50:25+00:00",
+      "url": "https://x.com/embirico/status/2049743158196752462",
+      "images": [
+        "https://pbs.twimg.com/media/HHImhP_bQAAfPj3.jpg"
+      ],
+      "likes": 73,
+      "retweets": 1,
+      "views": 2803
+    },
+    {
+      "id": "2049731011773165617",
+      "username": "giffmana",
+      "text": "In other words: their RL transfers/generalizes.",
+      "timestamp": "2026-04-30T06:02:10+00:00",
+      "url": "https://x.com/giffmana/status/2049731011773165617",
+      "images": [],
+      "likes": 165,
+      "retweets": 8,
+      "views": 21911
+    },
+    {
+      "id": "2049729331333935554",
+      "username": "nickcammarata",
+      "text": "how many nobel prize worthy discoveries are sitting right now in the weight matrices of trillion parameter frontier models, waiting to be reverse-engineered. it'd be surprising if the answer were zero",
+      "timestamp": "2026-04-30T05:55:29+00:00",
+      "url": "https://x.com/nickcammarata/status/2049729331333935554",
+      "images": [],
+      "likes": 132,
+      "retweets": 4,
+      "views": 4113
+    },
+    {
+      "id": "2049715178611380317",
+      "username": "sama",
+      "text": "alignment failure",
+      "timestamp": "2026-04-30T04:59:15+00:00",
+      "url": "https://x.com/sama/status/2049715178611380317",
+      "images": [],
+      "likes": 2108,
+      "retweets": 48,
+      "views": 187458
+    },
+    {
+      "id": "2049714403050918067",
+      "username": "levie",
+      "text": "Starting to hire and retrain for new agent engineering roles for *internal* functions to help get more powerful agents working well on critical business processes. I expect this type of role to be a very big deal over time at Box and other companies.\n\nIt looks something like an",
+      "timestamp": "2026-04-30T04:56:10+00:00",
+      "url": "https://x.com/levie/status/2049714403050918067",
+      "images": [],
+      "likes": 236,
+      "retweets": 11,
+      "views": 19694
+    },
+    {
+      "id": "2049712078836170843",
+      "username": "sama",
+      "text": "we're starting rollout of GPT-5.5-Cyber, a frontier cybersecurity model, to critical cyber defenders in the next few days.\n\nwe will work with the entire ecosystem and the government to figure out trusted access for cyber; we want to rapidly help secure companies/infrastructure.",
+      "timestamp": "2026-04-30T04:46:56+00:00",
+      "url": "https://x.com/sama/status/2049712078836170843",
+      "images": [],
+      "likes": 5993,
+      "retweets": 413,
+      "views": 340000
+    },
+    {
+      "id": "2049710850882380004",
+      "username": "thsottiaux",
+      "text": "Send us feature requests for codex in the form of an images 2.0 generated image. It makes it easier for codex to implement if we decide to go for it. Saw some good ones today already that codex is cooking on.",
+      "timestamp": "2026-04-30T04:42:03+00:00",
+      "url": "https://x.com/thsottiaux/status/2049710850882380004",
+      "images": [],
+      "likes": 1215,
+      "retweets": 31,
+      "views": 65244
+    },
+    {
+      "id": "2049708377140539785",
+      "username": "natolambert",
+      "text": "I worry deeply already about companies controlling access to very powerful AI, which will come in a soft form with very expensive subscriptions. \n\nThis is a step further, with the government confusingly exerting control without clear explanation. \n\nThis control of AI can create",
+      "timestamp": "2026-04-30T04:32:13+00:00",
+      "url": "https://x.com/natolambert/status/2049708377140539785",
+      "images": [],
+      "likes": 146,
+      "retweets": 26,
+      "views": 11793
+    },
+    {
+      "id": "2049665637145022584",
+      "username": "natolambert",
+      "text": "Why push Gemini full gas when all you have to do is walk around the office and pick up billions of dollars off the ground of the Google office.",
+      "timestamp": "2026-04-30T01:42:23+00:00",
+      "url": "https://x.com/natolambert/status/2049665637145022584",
+      "images": [],
+      "likes": 243,
+      "retweets": 8,
+      "views": 26944
     }
   ]
 }
