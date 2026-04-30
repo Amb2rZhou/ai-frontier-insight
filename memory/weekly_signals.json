@@ -636,6 +636,205 @@
           187
         ]
       }
+    ],
+    "2026-04-30": [
+      {
+        "title": "Stanford Proposes RecursiveMAS: Scaling Multi-Agent Systems via Recursive Computation",
+        "signal_text": "Stanford 大学团队提出 RecursiveMAS，将递归扩展原则从单模型推广到多智能体系统，通过迭代潜在空间计算实现协作推理。该框架对构建高效、可扩展的 AI Agent 团队有重要意义，可用于自动化社区运营和内容审核流程。来源：Stanford 大学，论文获 124 upvotes。",
+        "signal_strength": 0.9,
+        "sources": [
+          {
+            "name": "Arxiv (Stanford University)",
+            "url": "https://huggingface.co/papers/2604.25917"
+          }
+        ],
+        "tags": [
+          "Agent 与新交互范式",
+          "技术突破",
+          "内容创作与理解"
+        ],
+        "raw_item_indices": [
+          156
+        ]
+      },
+      {
+        "title": "Meta Proposes Sapiens2: High-Resolution Transformer for Human-Centric Vision",
+        "signal_text": "Meta FAIR 发布 Sapiens2，一个面向人体视觉的高分辨率 Transformer 模型族，通过组合预训练目标和大规模人体数据实现 SOTA 性能。该技术可用于内容平台中的人物图像/视频理解、风格迁移和 AI 辅助编辑。来源：Meta AI，Rawal Khirodkar 等作者。",
+        "signal_strength": 0.88,
+        "sources": [
+          {
+            "name": "Arxiv (Meta AI)",
+            "url": "https://huggingface.co/papers/2604.21681"
+          }
+        ],
+        "tags": [
+          "内容创作与理解",
+          "多模态",
+          "技术突破"
+        ],
+        "raw_item_indices": [
+          170
+        ]
+      },
+      {
+        "title": "Anthropic 'Introspection Adapters' Allow LLMs to Self-Report Learned Behaviors for Safety",
+        "signal_text": "Anthropic 在最新研究中提出“内省适配器”技术，允许语言模型在训练后自我报告其习得的行为，包括潜在的 misalignment。该研究为 AI 内容安全治理提供了可验证的内部监控手段，对理解黑盒模型行为具有突破性意义。来源：Anthropic 官方发布，获 570+ likes。",
+        "signal_strength": 0.85,
+        "sources": [
+          {
+            "name": "Anthropic Official Twitter",
+            "url": "https://x.com/AnthropicAI/status/2049576143653929153"
+          }
+        ],
+        "tags": [
+          "内容安全与治理",
+          "AI Safety",
+          "模型可解释性"
+        ],
+        "raw_item_indices": [
+          108
+        ]
+      },
+      {
+        "title": "Alibaba Qwen Releases FlashQLA: High-Performance Linear Attention for Device-Side Agentic AI",
+        "signal_text": "阿里通义千问团队发布 FlashQLA，一种基于 TileLang 的高性能线性注意力算子，针对个人设备上的 agentic AI 推理加速，前向传播加速 2-3 倍，反向传播加速 2 倍。该技术可显著降低端侧运行 Agent 的延迟，提升搜索/推荐场景中的实时响应能力。来源：阿里通义千问官方推特，获 800+ likes。",
+        "signal_strength": 0.85,
+        "sources": [
+          {
+            "name": "Alibaba_Qwen Official Twitter",
+            "url": "https://x.com/Alibaba_Qwen/status/2049462666734026923"
+          },
+          {
+            "name": "Alibaba_Qwen Twitter (duplicate)",
+            "url": "https://x.com/Alibaba_Qwen/status/2049462758211772663"
+          }
+        ],
+        "tags": [
+          "技术突破",
+          "推理效率提升",
+          "端侧部署",
+          "Agent 与新交互范式"
+        ],
+        "raw_item_indices": [
+          92,
+          116
+        ]
+      },
+      {
+        "title": "Mistral AI Releases Mistral Medium 3.5: Open Vision Reasoning Model Rivals Models 6x Its Size",
+        "signal_text": "Mistral AI 发布 Mistral Medium 3.5（128B MoE），这是一个开放的视觉推理模型，性能与 6 倍于其规模的模型相当，可在约 64GB RAM 上本地运行。该模型为多模态内容理解和 UGC 场景的 AI 辅助创作提供了低成本、高性能的端到端方案。来源：Mistral AI，经社区广泛转发（获 300+ likes）。",
+        "signal_strength": 0.82,
+        "sources": [
+          {
+            "name": "UnslothAI Twitter (Mistral release reference)",
+            "url": "https://x.com/UnslothAI/status/2049511248623256017"
+          }
+        ],
+        "tags": [
+          "内容创作与理解",
+          "开源生态",
+          "技术突破",
+          "多模态"
+        ],
+        "raw_item_indices": [
+          81
+        ]
+      },
+      {
+        "title": "Co-Director: Google's Hierarchical Multi-Agent Framework for Generative Video Storytelling",
+        "signal_text": "Google 提出 Co-Director，一个层级式多智能体框架，将视频故事生成形式化为全局优化问题，使用多臂老虎机和多模态自我优化保持语义一致性。这对 UGC 视频创作和 AI 辅助编辑工具有重要参考价值。来源：Google，Yale Song 等作者。",
+        "signal_strength": 0.82,
+        "sources": [
+          {
+            "name": "Arxiv (Google)",
+            "url": "https://huggingface.co/papers/2604.24842"
+          }
+        ],
+        "tags": [
+          "内容创作与理解",
+          "多模态生成",
+          "Agent 与新交互范式"
+        ],
+        "raw_item_indices": [
+          173
+        ]
+      },
+      {
+        "title": "OpenAI Devs Announces WebSocket-Based Agent Loops in Responses API: Up to 40% Faster",
+        "signal_text": "OpenAI 宣布在 Responses API 中引入 WebSocket 支持，通过保持 agent 循环中的状态活跃，将工具调用工作流的端到端速度提升高达 40%。这一基础设施级优化对构建交互式 AI 助手和内容创作 Agent 至关重要。来源：OpenAI Devs 官方，获 300+ likes。",
+        "signal_strength": 0.8,
+        "sources": [
+          {
+            "name": "OpenAIDevs Official Twitter",
+            "url": "https://x.com/OpenAIDevs/status/2049595890395152728"
+          }
+        ],
+        "tags": [
+          "Agent 与新交互范式",
+          "技术突破",
+          "推理效率提升"
+        ],
+        "raw_item_indices": [
+          100
+        ]
+      },
+      {
+        "title": "Enterprise RAG Faces 'Scale Wall': Hybrid Retrieval Intent Triples in Q1 2026",
+        "signal_text": "据 VB Pulse Q1 2026 数据，企业级 RAG 系统遭遇规模瓶颈，市场转向修复现有检索层而非新增。混合检索意图环比增长 3 倍。该趋势提示内容平台在构建大规模搜索增强系统时需关注检索层的健壮性而非盲目增加组件。来源：VentureBeat 基于 VB Pulse 调研数据的报道。",
+        "signal_strength": 0.78,
+        "sources": [
+          {
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/data/the-retrieval-rebuild-why-hybrid-retrieval-intent-tripled-as-enterprise-rag-programs-hit-the-scale-wall"
+          }
+        ],
+        "tags": [
+          "搜索与推荐",
+          "RAG",
+          "技术突破"
+        ],
+        "raw_item_indices": [
+          27
+        ]
+      },
+      {
+        "title": "OpenAI Scales Stargate: Building Compute Infrastructure for the Intelligence Age",
+        "signal_text": "OpenAI 宣布扩展 Stargate 项目，增加新数据中心容量以应对 AGI 的算力需求。这是头部公司加速算力基础设施建设的重大信号，表明模型训练和推理侧的算力军备竞赛仍在加剧。来源：OpenAI 官方博客。",
+        "signal_strength": 0.76,
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age"
+          }
+        ],
+        "tags": [
+          "头部公司战略动作",
+          "技术突破",
+          "基础设施"
+        ],
+        "raw_item_indices": [
+          36
+        ]
+      },
+      {
+        "title": "IBM Launches Bob: Multi-Model Routing with Human Checkpoints for Secure AI Coding",
+        "signal_text": "IBM 推出 AI 编码代理平台 Bob，支持多模型路由和人工检查点，将 AI coding 转换为安全的生产级系统。该方案解决了企业级 AI 应用中的编排和安全故障问题，对内容平台中 AI 辅助创作工具的企业化部署有参考价值。来源：VentureBeat 报道。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/orchestration/ibm-launches-bob-with-multi-model-routing-and-human-checkpoints-to-turn-ai-coding-into-a-secure-production-system"
+          }
+        ],
+        "tags": [
+          "Agent 与新交互范式",
+          "内容创作与理解",
+          "头部公司战略动作"
+        ],
+        "raw_item_indices": [
+          29
+        ]
+      }
     ]
   },
   "archived_weeks": [
