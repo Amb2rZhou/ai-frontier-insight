@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-04-30T09:14:49.021959",
+  "scraped_at": "2026-04-30T12:26:42.245183",
   "date": "2026-04-30",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 73,
-  "account_count": 40,
+  "tweet_count": 92,
+  "account_count": 45,
   "tweets": [
     {
       "id": "2049557758312370326",
@@ -857,6 +857,227 @@
       "likes": 354,
       "retweets": 12,
       "views": 30021
+    },
+    {
+      "id": "2049705883760759285",
+      "username": "minchoi",
+      "text": "It's happening...\n\nHumanoid robots are coming to a home near you😬 https://t.co/rQ2ZTCHtt9",
+      "timestamp": "2026-04-30T04:22:19+00:00",
+      "url": "https://x.com/minchoi/status/2049705883760759285",
+      "images": [
+        "https://pbs.twimg.com/media/HHIEfvwXwAApYBl.png"
+      ],
+      "likes": 1,
+      "retweets": 0,
+      "views": 253
+    },
+    {
+      "id": "2049703066543554653",
+      "username": "demishassabis",
+      "text": "Not bad at all… 😀🚀",
+      "timestamp": "2026-04-30T04:11:07+00:00",
+      "url": "https://x.com/demishassabis/status/2049703066543554653",
+      "images": [],
+      "likes": 96,
+      "retweets": 4,
+      "views": 3463
+    },
+    {
+      "id": "2049700750087868805",
+      "username": "emollick",
+      "text": "I think the Gemini chatbot has all the pieces to be a useful tool, but struggles to put it all together. It still doesn't seem to know what files it can create or how its tools work together.\n\nIt also seems to get \"discouraged\" a lot, giving up rather than finding new solutions. https://t.co/Y0S6YKlho3",
+      "timestamp": "2026-04-30T04:01:55+00:00",
+      "url": "https://x.com/emollick/status/2049700750087868805",
+      "images": [
+        "https://pbs.twimg.com/media/HHH9fltW0AAhK7n.jpg",
+        "https://pbs.twimg.com/media/HHH_cDJWQAA7_1r.jpg",
+        "https://pbs.twimg.com/media/HHH_eFJWoAADURv.jpg"
+      ],
+      "likes": 27,
+      "retweets": 0,
+      "views": 1905
+    },
+    {
+      "id": "2049698521134375187",
+      "username": "natolambert",
+      "text": "Demis is the only acceptable answer of which CEO do you trust most with AGI \n\n(doubly so until Anthropic/OpenAI go public, Google being public is a great check)",
+      "timestamp": "2026-04-30T03:53:03+00:00",
+      "url": "https://x.com/natolambert/status/2049698521134375187",
+      "images": [],
+      "likes": 47,
+      "retweets": 0,
+      "views": 1973
+    },
+    {
+      "id": "2049697125504893275",
+      "username": "levie",
+      "text": "Radiologist growth is a perfect example of what happens when automation comes into supply-constrained professions. We have more radiologists, getting paid more, when even more technology is available, than ever. \n\nWe myopically think that demand for a skill is static and",
+      "timestamp": "2026-04-30T03:47:30+00:00",
+      "url": "https://x.com/levie/status/2049697125504893275",
+      "images": [],
+      "likes": 63,
+      "retweets": 10,
+      "views": 6918
+    },
+    {
+      "id": "2049696160642990549",
+      "username": "embirico",
+      "text": "instructions=$(mktemp /tmp/gpt-5.5-instructions.XXXXXX) &amp;&amp; \\\njq -r '.models[] | select(.slug==\"gpt-5.5\") | .base_instructions' \\\n~/.codex/models_cache.json | \\\ngrep -vi 'goblins' &gt; \"$instructions\" &amp;&amp; \\\ncodex -m gpt-5.5 -c \"model_instructions_file=\\\"$instructions\\\"\"",
+      "timestamp": "2026-04-30T03:43:40+00:00",
+      "url": "https://x.com/embirico/status/2049696160642990549",
+      "images": [],
+      "likes": 17,
+      "retweets": 1,
+      "views": 945
+    },
+    {
+      "id": "2049695437678854153",
+      "username": "gdb",
+      "text": "a tale of some fun ML debugging",
+      "timestamp": "2026-04-30T03:40:48+00:00",
+      "url": "https://x.com/gdb/status/2049695437678854153",
+      "images": [],
+      "likes": 137,
+      "retweets": 0,
+      "views": 10417
+    },
+    {
+      "id": "2049691926778073241",
+      "username": "minchoi",
+      "text": "Google Cloud is now so hot it can't keep up.\n\nRevenue just crossed $20.0B\n\nAI products grew nearly 800% YoY.\n\nAnd Sundar basically said revenue would've been even higher if they had enough compute. https://t.co/scFYtO9rPq",
+      "timestamp": "2026-04-30T03:26:51+00:00",
+      "url": "https://x.com/minchoi/status/2049691926778073241",
+      "images": [
+        "https://pbs.twimg.com/media/HHH31vvWkAAvZjk.jpg"
+      ],
+      "likes": 28,
+      "retweets": 4,
+      "views": 3482
+    },
+    {
+      "id": "2049691551040000243",
+      "username": "OpenAIDevs",
+      "text": "Goblinmaxxing in Codex",
+      "timestamp": "2026-04-30T03:25:21+00:00",
+      "url": "https://x.com/OpenAIDevs/status/2049691551040000243",
+      "images": [],
+      "likes": 141,
+      "retweets": 8,
+      "views": 9745
+    },
+    {
+      "id": "2049690406586044835",
+      "username": "emollick",
+      "text": "Mythos seems to be a very capable model based on available information, but it is not a cybersecurity model - it is an advanced general purpose model that happens to be good at cyber because it is good at a bunch of things. Anthropic stated that they were worried about",
+      "timestamp": "2026-04-30T03:20:48+00:00",
+      "url": "https://x.com/emollick/status/2049690406586044835",
+      "images": [],
+      "likes": 77,
+      "retweets": 4,
+      "views": 7184
+    },
+    {
+      "id": "2049689602034741392",
+      "username": "gdb",
+      "text": "DevDay 2026",
+      "timestamp": "2026-04-30T03:17:37+00:00",
+      "url": "https://x.com/gdb/status/2049689602034741392",
+      "images": [],
+      "likes": 113,
+      "retweets": 3,
+      "views": 10632
+    },
+    {
+      "id": "2049680954579718397",
+      "username": "deliprao",
+      "text": "It’s a finite, zero-sum game with perfect and complete information. His policy function(s) and state space representation are probably interesting.",
+      "timestamp": "2026-04-30T02:43:15+00:00",
+      "url": "https://x.com/deliprao/status/2049680954579718397",
+      "images": [],
+      "likes": 7,
+      "retweets": 0,
+      "views": 866
+    },
+    {
+      "id": "2049674809710428561",
+      "username": "GaryMarcus",
+      "text": "“shitting away money at scale”. \n\n@mcuban nails what I have been trying to say:",
+      "timestamp": "2026-04-30T02:18:50+00:00",
+      "url": "https://x.com/GaryMarcus/status/2049674809710428561",
+      "images": [],
+      "likes": 36,
+      "retweets": 5,
+      "views": 3491
+    },
+    {
+      "id": "2049668133397443069",
+      "username": "GaryMarcus",
+      "text": "“If you want to know whether the AI bubble is bursting, there’s only one publicly traded company that will tell you: Oracle…”\n\n“Oracle has the lowest credit rating. It also has the greatest debt load, even before the infrastructure buildout came into play…”\n\n“OpenAI…  is by",
+      "timestamp": "2026-04-30T01:52:18+00:00",
+      "url": "https://x.com/GaryMarcus/status/2049668133397443069",
+      "images": [],
+      "likes": 129,
+      "retweets": 34,
+      "views": 7054
+    },
+    {
+      "id": "2049667695122247956",
+      "username": "Miles_Brundage",
+      "text": "An AI analyzing my Doordash expenses: https://t.co/GXYXGLtSjz",
+      "timestamp": "2026-04-30T01:50:34+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2049667695122247956",
+      "images": [],
+      "likes": 8,
+      "retweets": 1,
+      "views": 1495
+    },
+    {
+      "id": "2049661559950180556",
+      "username": "gdb",
+      "text": "GPT-5.5 party on 5/5:",
+      "timestamp": "2026-04-30T01:26:11+00:00",
+      "url": "https://x.com/gdb/status/2049661559950180556",
+      "images": [],
+      "likes": 451,
+      "retweets": 13,
+      "views": 31342
+    },
+    {
+      "id": "2049658827922960747",
+      "username": "DeryaTR_",
+      "text": "Asked GPT-5.5 Pro to create infographic for all currently known hallmarks of cancer, via Image-2, as well as those that may potentially be added. If we can fully define the complete landscape of cancer hallmarks, we can also systematically solve each of them &amp; treat all cancers. https://t.co/QqLClITSur",
+      "timestamp": "2026-04-30T01:15:20+00:00",
+      "url": "https://x.com/DeryaTR_/status/2049658827922960747",
+      "images": [
+        "https://pbs.twimg.com/media/HHHZqmaXMAAAaCb.jpg"
+      ],
+      "likes": 33,
+      "retweets": 7,
+      "views": 2319
+    },
+    {
+      "id": "2049216818150015255",
+      "username": "mervenoyann",
+      "text": "nvidia cooked 😍 nemotron-3-nano-omni all modalities LLM 🔥 \n\n• 30B-A3B MoE hybrid Mamba-Transformer\n• 9x throughput vs other open omni models\n• native audio (1200s), long video, 100+ page docs in single turn\n• agentic CUA built in\n• BF16 / FP8 / NVFP4 https://t.co/ecxIboV5Kw",
+      "timestamp": "2026-04-28T19:58:56+00:00",
+      "url": "https://x.com/mervenoyann/status/2049216818150015255",
+      "images": [
+        "https://pbs.twimg.com/media/HHBH1LLbAAAiazC.jpg"
+      ],
+      "likes": 98,
+      "retweets": 13,
+      "views": 4928
+    },
+    {
+      "id": "2049128071874179091",
+      "username": "MistralAI",
+      "text": "🆕 Today, we're releasing the public preview of Workflows, the orchestration layer for enterprise AI.\n\n🌎 Enterprise teams have capable models. What they don't have is a way to run them reliably in production. That's the gap Workflows fills. It takes AI-powered business processes https://t.co/ETMYDI9Isg",
+      "timestamp": "2026-04-28T14:06:17+00:00",
+      "url": "https://x.com/MistralAI/status/2049128071874179091",
+      "images": [],
+      "likes": 1942,
+      "retweets": 230,
+      "views": 258278
     }
   ]
 }
