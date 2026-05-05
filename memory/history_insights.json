@@ -1,66 +1,6 @@
 {
   "predictions": [
     {
-      "date": "2026-04-24T09:33:29.576761+08:00",
-      "prediction_text": "平台可以考虑打造基于用户生活数据的AI推荐Agent，将消费决策嵌入日常对话流。",
-      "category": "strategic_move",
-      "source_signal": "Anthropic Claude Expands to Personal App Ecosystem Connectors"
-    },
-    {
-      "date": "2026-04-24T09:33:29.590796+08:00",
-      "prediction_text": "建议平台建立AI服务版本灰度发布与回滚机制，避免模型更新冲击用户体验。",
-      "category": "ecosystem_shift",
-      "source_signal": "Anthropic Confirms Claude Performance Degradation Due to Harness Changes"
-    },
-    {
-      "date": "2026-04-24T09:33:29.606422+08:00",
-      "prediction_text": "社区/电商平台可以探索在用户端侧运行轻量Agent，实现离线推荐或隐私化交互。",
-      "category": "infrastructure",
-      "source_signal": "Unsloth Achieves 2-bit Qwen3.6-27B GGUF with Agentic QA Capability on 12GB RAM"
-    },
-    {
-      "date": "2026-04-24T09:33:29.621015+08:00",
-      "prediction_text": "平台的创作者工具可以考虑引入此类框架，实现长视频/多步骤内容自动化生成。",
-      "category": "research_breakthrough",
-      "source_signal": "Meta AI Research: Scaling Test-Time Compute for Agentic Coding"
-    },
-    {
-      "date": "2026-04-24T09:33:29.636297+08:00",
-      "prediction_text": "内容平台值得关注此类模型在图文混排、动态封面生成等场景的落地潜力。",
-      "category": "research_breakthrough",
-      "source_signal": "LLaDA2.0-Uni: Unifying Multimodal Understanding and Generation with Diffusion LLM"
-    },
-    {
-      "date": "2026-04-24T09:33:29.653936+08:00",
-      "prediction_text": "建议自研模型的基础设施团队关注此类技术，提升训练集群的可靠性与利用率。",
-      "category": "infrastructure",
-      "source_signal": "Jeff Dean Highlights Decoupled DiLoCo for Fault-Tolerant Large-Scale Training"
-    },
-    {
-      "date": "2026-04-24T09:33:29.679316+08:00",
-      "prediction_text": "知识类社区可以尝试构建‘论文洞察融合’Agent，辅助用户进行行业趋势交叉分析。",
-      "category": "open_source",
-      "source_signal": "Chelsea Finn Lab: GiantsBench Benchmark for Scientific Discovery by LLMs"
-    },
-    {
-      "date": "2026-04-24T09:33:29.705679+08:00",
-      "prediction_text": "平台的搜索/推荐系统可以考虑建立模型‘热插拔’架构，灵活接入不同开源模型。",
-      "category": "model_release",
-      "source_signal": "Perplexity AI Integrates Moonshot's Kimi K2.6 Open-Weight Model for Pro Users"
-    },
-    {
-      "date": "2026-04-24T09:33:29.713052+08:00",
-      "prediction_text": "平台AI工程团队可以评估升级vLLM版本，以降低推理成本并支持更大模型部署。",
-      "category": "infrastructure",
-      "source_signal": "vLLM v0.20.0 Released with CUDA 13.0 Default and Major Updates"
-    },
-    {
-      "date": "2026-04-24T09:33:29.722813+08:00",
-      "prediction_text": "对于AI原生的开发者社区，可以考虑设计‘低成本’Agent模板，降低计算消耗门槛。",
-      "category": "ecosystem_shift",
-      "source_signal": "Hugging Face 'ml-intern' Hits 5B Tokens in 48 Hours with 3000 Testers"
-    },
-    {
       "date": "2026-04-25T09:34:10.373878+08:00",
       "prediction_text": "社区/电商平台可基于此开源模型构建垂类SFT管道，降低对闭源API依赖与推理成本。",
       "category": "model_release",
@@ -599,6 +539,66 @@
       "prediction_text": "推荐系统或搜索产品在规划端侧推理时，需同步评估硬件供应周期，避免算法就位但芯片断供。",
       "category": "ecosystem_shift",
       "source_signal": "Apple Mac Mini Shortage Reflects Unforeseen AI-Driven Demand, Tim Cook Confirms"
+    },
+    {
+      "date": "2026-05-05T22:23:36.486604+08:00",
+      "prediction_text": "社区推荐与内容审核团队可考虑基于 DeepSeek V4 + vLLM 搭建私有化推理集群，降低单次推理成本至 API 的 1/5。",
+      "category": "infrastructure",
+      "source_signal": "DeepSeek V4 Pro/Flash Models Released with vLLM Optimization Patches"
+    },
+    {
+      "date": "2026-05-05T22:23:36.505035+08:00",
+      "prediction_text": "搜索产品与创作者工具可探索在端侧部署 Qwen3.6-A3B 或 Nemotron-30B 量化版，实现实时视频场景理解和隐私保护。",
+      "category": "model_release",
+      "source_signal": "NVIDIA & Qwen Release New Multimodal Models for On-Device and MoE Deployment"
+    },
+    {
+      "date": "2026-05-05T22:23:36.531833+08:00",
+      "prediction_text": "内容安全团队建议构建多层审核管线：通用模型 + 规则引擎 + 红队持续压力测试，避免单一模型被操纵。",
+      "category": "research_breakthrough",
+      "source_signal": "Mindgard Researchers 'Gaslight' Claude to Elicit Forbidden Instructions"
+    },
+    {
+      "date": "2026-05-05T22:23:36.539967+08:00",
+      "prediction_text": "内容平台可探索将链式思维 RLHF 集成到创作者工具，实现用户输入如“复古胶片感”即可自动调色并输出多版本。",
+      "category": "research_breakthrough",
+      "source_signal": "ByteDance Seed & Princeton Release Advances in RL for Image Editing and Game-Playing VLMs"
+    },
+    {
+      "date": "2026-05-05T22:23:36.547587+08:00",
+      "prediction_text": "内容平台可提前搭建内部模型审计流程，记录训练数据来源、对齐过程与安全测试结果，以备监管质询。",
+      "category": "ecosystem_shift",
+      "source_signal": "Google, Microsoft, xAI Agree to Share Early AI Models with U.S. Government"
+    },
+    {
+      "date": "2026-05-05T22:23:36.555995+08:00",
+      "prediction_text": "内容平台在选择第三方安全模型时，可评估供应商内部治理结构，避免因合作伙伴内部冲突导致模型迭代中断。",
+      "category": "strategic_move",
+      "source_signal": "Google DeepMind Workers Vote to Unionize Over Military AI Deals"
+    },
+    {
+      "date": "2026-05-05T22:23:36.563683+08:00",
+      "prediction_text": "内容安全团队可以作为离线后处理管道直接集成该模型，用于用户私信、评论中的 PII 识别与脱敏。",
+      "category": "open_source",
+      "source_signal": "OpenAI Releases Privacy Filter Model for Token Classification"
+    },
+    {
+      "date": "2026-05-05T22:23:36.576320+08:00",
+      "prediction_text": "内容平台的 Agent 框架选型建议保持多供应商策略，同时投资开源 Agent 方案（如 LangChain）以降低对单一平台的依赖。",
+      "category": "ecosystem_shift",
+      "source_signal": "OpenAI Turns Sold-Out GPT-5.5 Party into Codex Rate Limit Giveaway for 8,000 Developers"
+    },
+    {
+      "date": "2026-05-05T22:23:36.583718+08:00",
+      "prediction_text": "内容平台可参考该 pivot：将有限资源投入垂直场景模型微调，而非从零训练基础模型，同时利用云服务弹性算力。",
+      "category": "strategic_move",
+      "source_signal": "Krutrim (India's First GenAI Unicorn) Pivots to Cloud Services"
+    },
+    {
+      "date": "2026-05-05T22:23:36.597750+08:00",
+      "prediction_text": "创作者工具可考虑将 SenseNova-U1 作为底层引擎，实现从用户上传图片到自动生成配文、封面视频的端到端流程。",
+      "category": "model_release",
+      "source_signal": "SenseNova-U1-8B-MoT: Any-to-Any Multimodal Model from SenseTime"
     }
   ]
 }
