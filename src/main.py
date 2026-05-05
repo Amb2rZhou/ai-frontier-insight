@@ -12,6 +12,7 @@ import json
 import sys
 from datetime import datetime, timedelta
 from pathlib import Path
+from typing import Optional
 from zoneinfo import ZoneInfo
 
 from .analysis.insight_generator import (
@@ -28,69 +29,94 @@ from .utils.config import get_timezone, load_settings
 from .utils.draft import load_draft, save_draft, update_draft_status
 
 
+def _parse_backfill_date() -> Optional[str]:
+    """Parse --date YYYY-MM-DD from sys.argv (backfill mode). Returns None if absent."""
+    if "--date" in sys.argv:
+        idx = sys.argv.index("--date")
+        if idx + 1 < len(sys.argv):
+            return sys.argv[idx + 1]
+    return None
+
+
 def _get_today() -> str:
-    """Get today's date string in configured timezone."""
+    """Get today's date string in configured timezone (or backfill date if --date given)."""
+    backfill = _parse_backfill_date()
+    if backfill:
+        return backfill
     tz = ZoneInfo(get_timezone())
     return datetime.now(tz).strftime("%Y-%m-%d")
 
 
-def _collect_all() -> list:
-    """Run all enabled collectors and return combined RawItem list."""
+def _collect_all(target_date: Optional[str] = None) -> list:
+    """Run all enabled collectors and return combined RawItem list.
+
+    If target_date is set (backfill mode), only run date-aware collectors:
+    Arxiv (HF Daily Papers ?date=) and GitHub Releases (filtered by published_at).
+    Skips RSS / Twitter / GitHub Trending / HF Trending / Benchmarks because they
+    only return current state and would pollute past-date archives.
+    """
+    backfill = target_date is not None
     all_items = []
 
-    # RSS
-    print("\n[1/5] Collecting RSS feeds...")
-    rss = RSSCollector(
-        cutoff=datetime.now() - timedelta(hours=24),
-        max_per_source=5,
-    )
-    all_items.extend(rss.collect())
+    if backfill:
+        print(f"\n[Backfill mode for {target_date}] "
+              f"Skipping RSS / Twitter / GH Trending / HF Trending / Benchmarks "
+              f"(real-time-only sources)")
+    else:
+        # RSS
+        print("\n[1/5] Collecting RSS feeds...")
+        rss = RSSCollector(
+            cutoff=datetime.now() - timedelta(hours=24),
+            max_per_source=5,
+        )
+        all_items.extend(rss.collect())
 
-    # Twitter (import dynamically — user is writing this separately)
-    print("\n[2/5] Collecting Twitter...")
-    try:
-        from .collectors.twitter import TwitterCollector
-        twitter = TwitterCollector()
-        all_items.extend(twitter.collect())
-    except ImportError:
-        print("  Twitter collector not available yet, skipping")
-    except Exception as e:
-        print(f"  Twitter collector error: {e}")
+        # Twitter (import dynamically — user is writing this separately)
+        print("\n[2/5] Collecting Twitter...")
+        try:
+            from .collectors.twitter import TwitterCollector
+            twitter = TwitterCollector()
+            all_items.extend(twitter.collect())
+        except ImportError:
+            print("  Twitter collector not available yet, skipping")
+        except Exception as e:
+            print(f"  Twitter collector error: {e}")
 
-    # GitHub Trending + Releases
+    # GitHub (Releases is date-aware via published_at; Trending is skipped in backfill)
     print("\n[3/5] Collecting GitHub...")
     try:
         from .collectors.github_trending import GitHubTrendingCollector
-        gh = GitHubTrendingCollector()
+        gh = GitHubTrendingCollector(target_date=target_date)
         all_items.extend(gh.collect())
     except Exception as e:
         print(f"  GitHub collector error: {e}")
 
-    # Arxiv
+    # Arxiv (HF Daily Papers supports ?date=YYYY-MM-DD)
     print("\n[4/5] Collecting Arxiv...")
     try:
         from .collectors.arxiv import ArxivCollector
-        arxiv = ArxivCollector()
+        arxiv = ArxivCollector(target_date=target_date)
         all_items.extend(arxiv.collect())
     except Exception as e:
         print(f"  Arxiv collector error: {e}")
 
-    # HuggingFace
-    print("\n[5/5] Collecting HuggingFace...")
-    try:
-        from .collectors.huggingface import HuggingFaceCollector
-        hf = HuggingFaceCollector()
-        all_items.extend(hf.collect())
-    except Exception as e:
-        print(f"  HuggingFace collector error: {e}")
+    if not backfill:
+        # HuggingFace
+        print("\n[5/5] Collecting HuggingFace...")
+        try:
+            from .collectors.huggingface import HuggingFaceCollector
+            hf = HuggingFaceCollector()
+            all_items.extend(hf.collect())
+        except Exception as e:
+            print(f"  HuggingFace collector error: {e}")
 
-    # Benchmarks (5 leaderboards)
-    try:
-        from .collectors.benchmarks import BenchmarkCollector
-        bench = BenchmarkCollector()
-        all_items.extend(bench.collect())
-    except Exception as e:
-        print(f"  Benchmark collector error: {e}")
+        # Benchmarks (5 leaderboards)
+        try:
+            from .collectors.benchmarks import BenchmarkCollector
+            bench = BenchmarkCollector()
+            all_items.extend(bench.collect())
+        except Exception as e:
+            print(f"  Benchmark collector error: {e}")
 
     print(f"\n=== Total collected: {len(all_items)} items ===")
     return all_items
@@ -99,7 +125,11 @@ def _collect_all() -> list:
 def cmd_daily():
     """Full daily pipeline: collect → extract signals → generate insights → save."""
     today = _get_today()
-    print(f"=== Daily Brief Pipeline: {today} ===")
+    backfill_date = _parse_backfill_date()
+    if backfill_date:
+        print(f"=== Daily Brief Pipeline (BACKFILL): {today} ===")
+    else:
+        print(f"=== Daily Brief Pipeline: {today} ===")
 
     # Check if already generated
     existing = load_draft(today, "daily")
@@ -108,7 +138,7 @@ def cmd_daily():
         return
 
     # Step 1: Collect
-    raw_items = _collect_all()
+    raw_items = _collect_all(target_date=backfill_date)
     if not raw_items:
         print("No items collected, aborting")
         sys.exit(1)

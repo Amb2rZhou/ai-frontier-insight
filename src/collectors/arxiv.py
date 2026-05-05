@@ -11,7 +11,7 @@ import json
 import subprocess
 from datetime import datetime, timedelta
 from typing import List, Optional
-from zoneinfo import ZoneInfo
+from zoneinfo import ZoneInfo  # noqa: F401  (used in non-backfill path)
 
 from .base import BaseCollector, RawItem
 from ..utils.config import load_sources, get_timezone
@@ -98,6 +98,10 @@ class ArxivCollector(BaseCollector):
 
     source_type = "arxiv"
 
+    def __init__(self, target_date: Optional[str] = None):
+        # If target_date set (backfill mode), fetch papers for that date only.
+        self.target_date = target_date
+
     def collect(self) -> List[RawItem]:
         sources = load_sources()
         arxiv_config = sources.get("arxiv", {})
@@ -109,28 +113,41 @@ class ArxivCollector(BaseCollector):
         max_results = arxiv_config.get("max_results", 25)
         print(f"  Papers: fetching HuggingFace Daily Papers...")
 
-        # Fetch today and yesterday (papers may appear with delay)
-        tz = ZoneInfo(get_timezone())
-        today = datetime.now(tz)
-        yesterday = today - timedelta(days=1)
-
         all_papers = []
         seen_ids = set()
 
-        for date in [today, yesterday]:
-            date_str = date.strftime("%Y-%m-%d")
-            papers = _fetch_hf_daily_papers(date_str)
+        if self.target_date:
+            # Backfill: fetch the target day + day before (papers can appear with delay)
+            target = datetime.strptime(self.target_date, "%Y-%m-%d")
+            day_before = target - timedelta(days=1)
+            date_strs = [self.target_date, day_before.strftime("%Y-%m-%d")]
+            print(f"  Papers: backfill mode, fetching {date_strs}")
+            for date_str in date_strs:
+                papers = _fetch_hf_daily_papers(date_str)
+                for p in papers:
+                    if p["arxiv_id"] not in seen_ids:
+                        seen_ids.add(p["arxiv_id"])
+                        all_papers.append(p)
+        else:
+            # Normal: today + yesterday + latest (papers may appear with delay)
+            tz = ZoneInfo(get_timezone())
+            today = datetime.now(tz)
+            yesterday = today - timedelta(days=1)
+
+            for date in [today, yesterday]:
+                date_str = date.strftime("%Y-%m-%d")
+                papers = _fetch_hf_daily_papers(date_str)
+                for p in papers:
+                    if p["arxiv_id"] not in seen_ids:
+                        seen_ids.add(p["arxiv_id"])
+                        all_papers.append(p)
+
+            # Also fetch without date param (gets latest)
+            papers = _fetch_hf_daily_papers()
             for p in papers:
                 if p["arxiv_id"] not in seen_ids:
                     seen_ids.add(p["arxiv_id"])
                     all_papers.append(p)
-
-        # Also fetch without date param (gets latest)
-        papers = _fetch_hf_daily_papers()
-        for p in papers:
-            if p["arxiv_id"] not in seen_ids:
-                seen_ids.add(p["arxiv_id"])
-                all_papers.append(p)
 
         # Re-sort by upvotes and limit
         all_papers.sort(key=lambda p: p["upvotes"], reverse=True)

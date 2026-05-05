@@ -83,9 +83,12 @@ class GitHubTrendingCollector(BaseCollector):
 
     source_type = "github"
 
-    def __init__(self, days_back: int = 7, min_stars: int = 30):
+    def __init__(self, days_back: int = 7, min_stars: int = 30,
+                 target_date: str = None):
         self.days_back = days_back
         self.min_stars = min_stars
+        # Backfill mode: only collect releases published in [target-48h, target+24h]
+        self.target_date = target_date
 
     def collect(self) -> List[RawItem]:
         sources = load_sources()
@@ -97,10 +100,14 @@ class GitHubTrendingCollector(BaseCollector):
 
         items = []
 
-        # Part 1: Trending repos by topic
-        items.extend(self._collect_trending(gh_config))
+        if self.target_date:
+            # Backfill: skip Trending (can't reconstruct past trending state)
+            print(f"  GitHub: backfill mode for {self.target_date}, skipping Trending search")
+        else:
+            # Part 1: Trending repos by topic
+            items.extend(self._collect_trending(gh_config))
 
-        # Part 2: New releases on watched repos
+        # Part 2: New releases on watched repos (date-aware via published_at)
         items.extend(self._collect_releases(gh_config))
 
         print(f"  GitHub total: {len(items)} items")
@@ -182,14 +189,27 @@ class GitHubTrendingCollector(BaseCollector):
 
         print(f"  GitHub Releases: checking {len(watch_repos)} repos...")
 
-        # Only get releases from last 48 hours
-        since = (datetime.utcnow() - timedelta(hours=48)).isoformat() + "Z"
+        # Window: last 48 hours (live mode) or [target-48h, target+24h] (backfill mode)
+        until = None
+        if self.target_date:
+            target = datetime.strptime(self.target_date, "%Y-%m-%d")
+            since = (target - timedelta(hours=48)).isoformat() + "Z"
+            until = (target + timedelta(hours=24)).isoformat() + "Z"
+            # Need a wider scan since releases may have been published after target
+            max_releases_per_repo = 15
+        else:
+            since = (datetime.utcnow() - timedelta(hours=48)).isoformat() + "Z"
+            max_releases_per_repo = 3
         items = []
 
         for repo in watch_repos:
             try:
-                releases = _fetch_releases(repo, since_date=since, max_releases=3)
+                releases = _fetch_releases(repo, since_date=since,
+                                            max_releases=max_releases_per_repo)
                 for release in releases:
+                    # Backfill: also drop releases published after target+24h
+                    if until and release.get("published_at", "") > until:
+                        continue
                     tag = release.get("tag_name", "")
                     name = release.get("name", "") or tag
                     body = release.get("body", "") or ""
