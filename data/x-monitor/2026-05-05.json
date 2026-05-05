@@ -1,0 +1,226 @@
+{
+  "source": "x-monitor",
+  "scraped_at": "2026-05-05T22:21:46.419326",
+  "date": "2026-05-05",
+  "list_urls": [
+    "https://x.com/i/lists/2026486577304842549"
+  ],
+  "tweet_count": 18,
+  "account_count": 16,
+  "tweets": [
+    {
+      "id": "2051667016403329345",
+      "username": "chrmanning",
+      "text": "Cameo role….",
+      "timestamp": "2026-05-05T14:15:09+00:00",
+      "url": "https://x.com/chrmanning/status/2051667016403329345",
+      "images": [],
+      "likes": 1,
+      "retweets": 0,
+      "views": 318
+    },
+    {
+      "id": "2051662165007114457",
+      "username": "__tinygrad__",
+      "text": "A reminder that we have two tinyboxes you can buy today. Bring the power of AI into your home or office. https://t.co/QKy3x8Yh9J",
+      "timestamp": "2026-05-05T13:55:52+00:00",
+      "url": "https://x.com/__tinygrad__/status/2051662165007114457",
+      "images": [
+        "https://pbs.twimg.com/media/HHj3njaboAEQxE4.jpg"
+      ],
+      "likes": 39,
+      "retweets": 1,
+      "views": 2536
+    },
+    {
+      "id": "2051661635564233191",
+      "username": "OpenAIDevs",
+      "text": "It’s 5/5.\n\nWhat are you building with GPT-5.5?",
+      "timestamp": "2026-05-05T13:53:46+00:00",
+      "url": "https://x.com/OpenAIDevs/status/2051661635564233191",
+      "images": [],
+      "likes": 374,
+      "retweets": 5,
+      "views": 10180
+    },
+    {
+      "id": "2051659937005306106",
+      "username": "UnslothAI",
+      "text": "You can now run open LLMs in Claude Code, Codex and OpenClaw via Unsloth.\n\nUse Gemma 4 and Qwen3.6 GGUFs for local agentic coding on 24GB RAM.\n\nRun with self-healing tool calls, code execution, web search via the Unsloth API endpoint and llama.cpp.\n\nGuide: https://t.co/VienFDSwcg https://t.co/LAy2QNtU76",
+      "timestamp": "2026-05-05T13:47:01+00:00",
+      "url": "https://x.com/UnslothAI/status/2051659937005306106",
+      "images": [
+        "https://pbs.twimg.com/media/HHj1wPHaEAAeqDp.jpg"
+      ],
+      "likes": 54,
+      "retweets": 9,
+      "views": 1642
+    },
+    {
+      "id": "2051648107767558266",
+      "username": "googledevs",
+      "text": "Building the next generation of AI benchmarks? 📊\n\nWe’re officially at the midpoint of the application window for the @Kaggle Benchmarks Resource Grant Program!\n\nSelected projects receive complimentary compute quota, infrastructure support, and technical guidance to scale",
+      "timestamp": "2026-05-05T13:00:01+00:00",
+      "url": "https://x.com/googledevs/status/2051648107767558266",
+      "images": [],
+      "likes": 35,
+      "retweets": 5,
+      "views": 4553
+    },
+    {
+      "id": "2051645303355265335",
+      "username": "ClementDelangue",
+      "text": "By sharing datasets on @huggingface, you help agents being able to analyze them, giving everyone the ability to  make sense of complex data. \n\nFor example, this is some of the insights I uncovered from @jamiequint's fascinating data: https://t.co/vTu7ZWAftn\n\nWhat other https://t.co/fqcvbjbLBY",
+      "timestamp": "2026-05-05T12:48:52+00:00",
+      "url": "https://x.com/ClementDelangue/status/2051645303355265335",
+      "images": [
+        "https://pbs.twimg.com/media/HHjodoVXAAAecTg.jpg"
+      ],
+      "likes": 30,
+      "retweets": 4,
+      "views": 3836
+    },
+    {
+      "id": "2051641875359003011",
+      "username": "lateinteraction",
+      "text": "Wow, it's already May 5th. Don't miss the early-bird registration TODAY for the first ACM conference on AI systems @CAISconf.\n\nCAIS will have a packed program of really exciting keynotes, paper presentations, workshops, and demos.\n\nSee you in San Jose in late May! https://t.co/om1dFlx9cU",
+      "timestamp": "2026-05-05T12:35:15+00:00",
+      "url": "https://x.com/lateinteraction/status/2051641875359003011",
+      "images": [
+        "https://pbs.twimg.com/media/HHjj-1gXMAAnT7l.jpg"
+      ],
+      "likes": 65,
+      "retweets": 5,
+      "views": 2894
+    },
+    {
+      "id": "2051608589618258402",
+      "username": "giffmana",
+      "text": "Oh wow i had no idea classic compilers, even \"modern rewrites\" like llvm, are _that_ undeterministic! What a mess.",
+      "timestamp": "2026-05-05T10:22:59+00:00",
+      "url": "https://x.com/giffmana/status/2051608589618258402",
+      "images": [],
+      "likes": 79,
+      "retweets": 0,
+      "views": 9512
+    },
+    {
+      "id": "2051608142358753593",
+      "username": "mervenoyann",
+      "text": "I forked openclaw to build a small local rescue agent that debugs whenever the agent is down\n\nin just half an hour my fork was behind 15 commits\n\ninsane pace",
+      "timestamp": "2026-05-05T10:21:12+00:00",
+      "url": "https://x.com/mervenoyann/status/2051608142358753593",
+      "images": [],
+      "likes": 13,
+      "retweets": 0,
+      "views": 1352
+    },
+    {
+      "id": "2051579838780072173",
+      "username": "steipete",
+      "text": "🤖 Kept hitting @github rate limits across my agents. Shipped two things:\n\n– RepoBar got a JUICE METER\n– gitcrawl is now also a drop-in gh cache → symlink it as gh, reads served from local SQLite\n\nhttps://t.co/mtKoH8ybWR\nhttps://t.co/PtF5r3LGVL https://t.co/s9Swh7vyjU",
+      "timestamp": "2026-05-05T08:28:44+00:00",
+      "url": "https://x.com/steipete/status/2051579838780072173",
+      "images": [
+        "https://pbs.twimg.com/media/HHhbuXgWoAIl6y1.jpg"
+      ],
+      "likes": 181,
+      "retweets": 11,
+      "views": 22495
+    },
+    {
+      "id": "2051575048348074450",
+      "username": "steipete",
+      "text": "gog 0.16 is out.\n\nGoogle Workspace CLI for humans and agents.\n\nLossless raw API output, sanitized Gmail reads, safer command profiles, Drive inventory, Docs tabs, Sheets tables, Gmail filter export, and official Docker images. https://t.co/o15a6lNZoE",
+      "timestamp": "2026-05-05T08:09:42+00:00",
+      "url": "https://x.com/steipete/status/2051575048348074450",
+      "images": [],
+      "likes": 510,
+      "retweets": 36,
+      "views": 43307
+    },
+    {
+      "id": "2051557150040711425",
+      "username": "steipete",
+      "text": "We can now reproduce issues directly in empheral crabboxes with WebVNC (Linux/Windows/macOS).\n\nAgents set up the exact state to test + fix and post videos on the PR.\n\nWorking hard to level up our QA. https://t.co/SEj2XRpaD1 https://t.co/o4sfuHuY31",
+      "timestamp": "2026-05-05T06:58:35+00:00",
+      "url": "https://x.com/steipete/status/2051557150040711425",
+      "images": [
+        "https://pbs.twimg.com/media/HHiYG8cXwAIsxMU.jpg"
+      ],
+      "likes": 276,
+      "retweets": 10,
+      "views": 23891
+    },
+    {
+      "id": "2051530202941960551",
+      "username": "emollick",
+      "text": "A reminder that telling the AI that it is an expert in a field is no longer helpful in making the AI better at that field.",
+      "timestamp": "2026-05-05T05:11:30+00:00",
+      "url": "https://x.com/emollick/status/2051530202941960551",
+      "images": [],
+      "likes": 347,
+      "retweets": 34,
+      "views": 25902
+    },
+    {
+      "id": "2051523404470112407",
+      "username": "NeurIPSConf",
+      "text": "We are delighted to officially partner with the Machine Learning Reproducibility Challenge (MLRC) https://t.co/HChLXLIxDJ . In particular, we will experiment with integrating MLRC 2026 as an official track of NeurIPS 2026. MLRC 2026 accepted reproducibility papers will be",
+      "timestamp": "2026-05-05T04:44:29+00:00",
+      "url": "https://x.com/NeurIPSConf/status/2051523404470112407",
+      "images": [],
+      "likes": 88,
+      "retweets": 12,
+      "views": 11128
+    },
+    {
+      "id": "2051523057399861248",
+      "username": "DeryaTR_",
+      "text": "Recursive self-improvement is one of the final AI abilities left to reach superintelligence (ASI). This aligns with my prediction that we will achieve this by 2028, but I would give it a 90% chance at this time.",
+      "timestamp": "2026-05-05T04:43:06+00:00",
+      "url": "https://x.com/DeryaTR_/status/2051523057399861248",
+      "images": [],
+      "likes": 159,
+      "retweets": 14,
+      "views": 8506
+    },
+    {
+      "id": "2051510110095048834",
+      "username": "minchoi",
+      "text": "Everyone asked for the prompt.\n\nIt's literally this simple:\n\nPROMT: \"create an ancient schematic of [landmark] in its native language\" https://t.co/awNHzVxCyI",
+      "timestamp": "2026-05-05T03:51:40+00:00",
+      "url": "https://x.com/minchoi/status/2051510110095048834",
+      "images": [
+        "https://pbs.twimg.com/media/HHhtgwLWoAIdF_N.jpg"
+      ],
+      "likes": 101,
+      "retweets": 10,
+      "views": 13359
+    },
+    {
+      "id": "2051507590421709108",
+      "username": "GaryMarcus",
+      "text": "OpenAI: The Movie\nAct I: ChatGPT sets records!\nAct II: Sam gets fired, rehired\nAct III: Greg’s diary blows it all up, in court.",
+      "timestamp": "2026-05-05T03:41:39+00:00",
+      "url": "https://x.com/GaryMarcus/status/2051507590421709108",
+      "images": [],
+      "likes": 144,
+      "retweets": 7,
+      "views": 7322
+    },
+    {
+      "id": "2051500352953000161",
+      "username": "Miles_Brundage",
+      "text": "Codex? The 12B parameter model OpenAI wrote a paper about? https://t.co/YXLALo6jmo",
+      "timestamp": "2026-05-05T03:12:53+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2051500352953000161",
+      "images": [
+        "https://pbs.twimg.com/media/HHhkp-GaoAAMWlQ.jpg"
+      ],
+      "likes": 100,
+      "retweets": 0,
+      "views": 6121
+    }
+  ]
+}
