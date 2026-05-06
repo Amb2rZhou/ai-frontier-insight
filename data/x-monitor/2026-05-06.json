@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-05-06T09:14:03.732512",
+  "scraped_at": "2026-05-06T11:32:57.193950",
   "date": "2026-05-06",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 417,
-  "account_count": 88,
+  "tweet_count": 427,
+  "account_count": 89,
   "tweets": [
     {
       "id": "2051737696364814443",
@@ -4786,6 +4786,118 @@
       "likes": 18,
       "retweets": 0,
       "views": 3492
+    },
+    {
+      "id": "2051866743723741283",
+      "username": "minchoi",
+      "text": "You can literally prompt a game, grow an audience, and earn money from plays now.\n\nAI gaming just got a creator economy. https://t.co/OPhgadBbCo",
+      "timestamp": "2026-05-06T03:28:48+00:00",
+      "url": "https://x.com/minchoi/status/2051866743723741283",
+      "images": [],
+      "likes": 5,
+      "retweets": 0,
+      "views": 189
+    },
+    {
+      "id": "2051866486658994636",
+      "username": "gdb",
+      "text": "ChatGPT for Excel and Google Sheets:",
+      "timestamp": "2026-05-06T03:27:46+00:00",
+      "url": "https://x.com/gdb/status/2051866486658994636",
+      "images": [],
+      "likes": 24,
+      "retweets": 2,
+      "views": 1039
+    },
+    {
+      "id": "2051852940554481901",
+      "username": "steipete",
+      "text": "Shipping 🛡️openclaw/fs-safe: a reusable filesystem safety primitive extracted from OpenClaw.\n\nIf your Node app accepts paths from agents, plugins, uploads, configs, or users, stop treating string normalization as a filesystem boundary. Use a root handle. https://t.co/PXTXYFOIAQ",
+      "timestamp": "2026-05-06T02:33:57+00:00",
+      "url": "https://x.com/steipete/status/2051852940554481901",
+      "images": [],
+      "likes": 54,
+      "retweets": 4,
+      "views": 6026
+    },
+    {
+      "id": "2051847180340863424",
+      "username": "DeryaTR_",
+      "text": "It’s the GPT-5.5 AI party time! 🥳🎉🚀 @OpenAI https://t.co/rueBQ0brt6",
+      "timestamp": "2026-05-06T02:11:03+00:00",
+      "url": "https://x.com/DeryaTR_/status/2051847180340863424",
+      "images": [
+        "https://pbs.twimg.com/media/HHmgIOXa4AAL0Tn.jpg"
+      ],
+      "likes": 153,
+      "retweets": 4,
+      "views": 2553
+    },
+    {
+      "id": "2051844281586131221",
+      "username": "JeffDean",
+      "text": "Great to see my friend @andykonwinski as one of the keynote dishes at the first @CAISconf later this month!",
+      "timestamp": "2026-05-06T01:59:32+00:00",
+      "url": "https://x.com/JeffDean/status/2051844281586131221",
+      "images": [],
+      "likes": 25,
+      "retweets": 4,
+      "views": 6711
+    },
+    {
+      "id": "2051833048711184550",
+      "username": "GaryMarcus",
+      "text": "👇 This is an incredible admission by Jensen Huang.\n\nEffectively he is saying that AI, for all the hype (some from himself) wasn’t really useful until late 2025.\n\nLet that sink in.\n\nThis means practically everything everyone said before was more or less bullshit. \n\nAnd it raises",
+      "timestamp": "2026-05-06T01:14:54+00:00",
+      "url": "https://x.com/GaryMarcus/status/2051833048711184550",
+      "images": [],
+      "likes": 111,
+      "retweets": 18,
+      "views": 11534
+    },
+    {
+      "id": "2050800739203608655",
+      "username": "goodside",
+      "text": "AI will take some jobs, but it will create countless new jobs too—exciting jobs we can’t even imagine yet.\n\nA year later those will also be done by AI, but there will be new jobs—exciting jobs we can’t even imagine yet.\n\nSix months later those too will be done by AI, but",
+      "timestamp": "2026-05-03T04:52:52+00:00",
+      "url": "https://x.com/goodside/status/2050800739203608655",
+      "images": [],
+      "likes": 609,
+      "retweets": 53,
+      "views": 165161
+    },
+    {
+      "id": "2050328852107612559",
+      "username": "fchollet",
+      "text": "The latest crop of models remains below 1% on ARC-AGI-3 -- for now.\n\nWhere will the scores be by the end of the year?",
+      "timestamp": "2026-05-01T21:37:46+00:00",
+      "url": "https://x.com/fchollet/status/2050328852107612559",
+      "images": [],
+      "likes": 307,
+      "retweets": 24,
+      "views": 44420
+    },
+    {
+      "id": "2049941863877206223",
+      "username": "embirico",
+      "text": "BTW /goal just shipped to the CLI. When it reaches the app, it'll be for everyone.\n\nhttps://t.co/IOGFve27LX",
+      "timestamp": "2026-04-30T20:00:01+00:00",
+      "url": "https://x.com/embirico/status/2049941863877206223",
+      "images": [],
+      "likes": 43,
+      "retweets": 0,
+      "views": 3348
+    },
+    {
+      "id": "2049941414000357442",
+      "username": "embirico",
+      "text": "+1. There's also some product building strategy in here: we're setting things up so that all the capabilities snowball into a single implementation. e.g. if software engineers get subagents or `/goal`, so does every other user.",
+      "timestamp": "2026-04-30T19:58:13+00:00",
+      "url": "https://x.com/embirico/status/2049941414000357442",
+      "images": [],
+      "likes": 167,
+      "retweets": 4,
+      "views": 12670
     }
   ]
 }
