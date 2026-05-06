@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-05-07T00:14:41.385484",
+  "scraped_at": "2026-05-07T04:50:33.974489",
   "date": "2026-05-07",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 34,
-  "account_count": 22,
+  "tweet_count": 82,
+  "account_count": 43,
   "tweets": [
     {
       "id": "2052056038648779013",
@@ -401,6 +401,556 @@
       "likes": 777,
       "retweets": 75,
       "views": 58951
+    },
+    {
+      "id": "2052128048288567617",
+      "username": "mitchellh",
+      "text": "Hunk is very good. It has completely replaced any other local diff viewer for me. It looks good, its speedy, good keyboard shortcuts, good mouse support for fallback. Great software @bentlegen. https://t.co/6HH5DPO5mO https://t.co/Dy2rl4NXBL",
+      "timestamp": "2026-05-06T20:47:08+00:00",
+      "url": "https://x.com/mitchellh/status/2052128048288567617",
+      "images": [
+        "https://pbs.twimg.com/media/HHqfWfwaoAAU6HB.jpg"
+      ],
+      "likes": 2,
+      "retweets": 1,
+      "views": 226
+    },
+    {
+      "id": "2052127226804699319",
+      "username": "Miles_Brundage",
+      "text": "To lose all cope is freedom",
+      "timestamp": "2026-05-06T20:43:52+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2052127226804699319",
+      "images": [],
+      "likes": 3,
+      "retweets": 0,
+      "views": 98
+    },
+    {
+      "id": "2052126688130322860",
+      "username": "Miles_Brundage",
+      "text": "Why is the Ruby conference called RubyConf and not RubyCon as in crossing the Rubicon",
+      "timestamp": "2026-05-06T20:41:43+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2052126688130322860",
+      "images": [],
+      "likes": 3,
+      "retweets": 0,
+      "views": 147
+    },
+    {
+      "id": "2052120811436384288",
+      "username": "a16z",
+      "text": "Narrative violations abound:\n\n- Demand for software engineers is rising\n- Software devs are rising as a share of new jobs\n- AI exposed industries are seeing above-trend wage growth\n- Open PM jobs haven't been higher since 2022\n\nMore from a16z's David George on the \"AI job https://t.co/YAU3lu2OKf",
+      "timestamp": "2026-05-06T20:18:22+00:00",
+      "url": "https://x.com/a16z/status/2052120811436384288",
+      "images": [
+        "https://pbs.twimg.com/media/HHqY_nUacAAMgak.jpg",
+        "https://pbs.twimg.com/media/HHqY_0vboAExQMl.jpg",
+        "https://pbs.twimg.com/media/HHqZAAOaAAA7EWz.jpg",
+        "https://pbs.twimg.com/media/HHqZALUa0AAUq2t.jpg"
+      ],
+      "likes": 79,
+      "retweets": 7,
+      "views": 11496
+    },
+    {
+      "id": "2052116741875208371",
+      "username": "GoogleLabs",
+      "text": "This is exactly why we build. 🥹 Watching an experiment move into the hands of a maker’s creative process is what keeps us going.\n\nIt’s great to see how @PomellibyGoogle was able to help Michelle bring this beautiful collection to life. Huge congrats to the Inner Child team!",
+      "timestamp": "2026-05-06T20:02:12+00:00",
+      "url": "https://x.com/GoogleLabs/status/2052116741875208371",
+      "images": [],
+      "likes": 40,
+      "retweets": 2,
+      "views": 3489
+    },
+    {
+      "id": "2052116544205861000",
+      "username": "deliprao",
+      "text": "This is fascinating! https://t.co/tzVhCv5M4m",
+      "timestamp": "2026-05-06T20:01:25+00:00",
+      "url": "https://x.com/deliprao/status/2052116544205861000",
+      "images": [],
+      "likes": 1,
+      "retweets": 0,
+      "views": 186
+    },
+    {
+      "id": "2052116064474161556",
+      "username": "cursor_ai",
+      "text": "We use previous generations of Composer to train future ones.\n\nOur autoinstall system has earlier Composer models set up dev environments for RL training. That way, the next generation can focus on learning to solve harder problems.\n\nhttps://t.co/GbZILEfhAt",
+      "timestamp": "2026-05-06T19:59:30+00:00",
+      "url": "https://x.com/cursor_ai/status/2052116064474161556",
+      "images": [],
+      "likes": 172,
+      "retweets": 12,
+      "views": 7630
+    },
+    {
+      "id": "2052105841864495282",
+      "username": "claudeai",
+      "text": "Join us at 1pm PT for a conversation with our co-founders Dario Amodei and Daniela Amodei, moderated by Chief Product Officer Ami Vora.\n\nhttps://t.co/InUxTaNimb",
+      "timestamp": "2026-05-06T19:18:53+00:00",
+      "url": "https://x.com/claudeai/status/2052105841864495282",
+      "images": [],
+      "likes": 752,
+      "retweets": 72,
+      "views": 62068
+    },
+    {
+      "id": "2052105493166899442",
+      "username": "minchoi",
+      "text": "The most interesting dynamic in AI right now:\n\nAnthropic just rented the entire compute capacity of SpaceX / xAI Colossus 1.\n\n220,000+ NVIDIA GPUs. 300+ megawatts. Online within the month.\n\nCursor also has a SpaceX / xAI compute deal... and SpaceX reportedly has a $60B option to https://t.co/9jU7uN45HR",
+      "timestamp": "2026-05-06T19:17:30+00:00",
+      "url": "https://x.com/minchoi/status/2052105493166899442",
+      "images": [
+        "https://pbs.twimg.com/media/HHqLDG6W4AEc9wD.jpg"
+      ],
+      "likes": 52,
+      "retweets": 7,
+      "views": 6914
+    },
+    {
+      "id": "2052102103150322104",
+      "username": "a16z",
+      "text": "The scoreboard to date on AI's effects on labor markets: \"Still no statistically significant relationship between AI and unemployment or employment growth.\"\n\na16z's David George on the \"AI job apocalypse\" fantasy: https://t.co/0gL5mdffKD https://t.co/EkmO8FrRoa",
+      "timestamp": "2026-05-06T19:04:02+00:00",
+      "url": "https://x.com/a16z/status/2052102103150322104",
+      "images": [
+        "https://pbs.twimg.com/media/HHqH_MZbYAA8jRt.jpg"
+      ],
+      "likes": 49,
+      "retweets": 8,
+      "views": 10521
+    },
+    {
+      "id": "2052095084661706819",
+      "username": "GaryMarcus",
+      "text": "Precisely what I have been saying since day 1: the challenge in generative AI is reliability.\n\nThat was the challenge, and still is.",
+      "timestamp": "2026-05-06T18:36:08+00:00",
+      "url": "https://x.com/GaryMarcus/status/2052095084661706819",
+      "images": [],
+      "likes": 27,
+      "retweets": 1,
+      "views": 3511
+    },
+    {
+      "id": "2052091878619717638",
+      "username": "EMostaque",
+      "text": "This likely costs about ~$500m a month, ~$6bn a year to rent blended\n\nWhich is about the run rate net loss of xai end of q1\n\nAnthropics revenue run rate was $9bn end of 2025, $30bn a month ago",
+      "timestamp": "2026-05-06T18:23:24+00:00",
+      "url": "https://x.com/EMostaque/status/2052091878619717638",
+      "images": [],
+      "likes": 278,
+      "retweets": 10,
+      "views": 44184
+    },
+    {
+      "id": "2052091408643756296",
+      "username": "nvidia",
+      "text": "Two frontier labs. One accelerated computing platform. Congrats to @SpaceX and @AnthropicAI on the new compute partnership, powered by 220,000+ NVIDIA GPUs inside Colossus 1. The future of AI runs on NVIDIA.",
+      "timestamp": "2026-05-06T18:21:32+00:00",
+      "url": "https://x.com/nvidia/status/2052091408643756296",
+      "images": [],
+      "likes": 1634,
+      "retweets": 169,
+      "views": 60345
+    },
+    {
+      "id": "2052088323548885209",
+      "username": "fchollet",
+      "text": "Complexity is not an intrinsic property of a problem. It's a property of the relationship between a problem and an observer. Once you know the shape of the problem it is no longer complex.",
+      "timestamp": "2026-05-06T18:09:16+00:00",
+      "url": "https://x.com/fchollet/status/2052088323548885209",
+      "images": [],
+      "likes": 228,
+      "retweets": 19,
+      "views": 11909
+    },
+    {
+      "id": "2052086833090003096",
+      "username": "ClementDelangue",
+      "text": "This week made something clear: you shouldn't take what most tech ceos are saying publicly seriously!",
+      "timestamp": "2026-05-06T18:03:21+00:00",
+      "url": "https://x.com/ClementDelangue/status/2052086833090003096",
+      "images": [],
+      "likes": 196,
+      "retweets": 18,
+      "views": 15220
+    },
+    {
+      "id": "2052086305308492191",
+      "username": "GaryMarcus",
+      "text": "If Forbes had only waited to hear the testimony at this week’s trial\n\nOr read @_KarenHao’s book\n\nOr @RonanFarrow’s @newyorker investigation\n\nOr my own writings since fall 2023\n\nThey would have realized how disgraceful this choice was.",
+      "timestamp": "2026-05-06T18:01:15+00:00",
+      "url": "https://x.com/GaryMarcus/status/2052086305308492191",
+      "images": [],
+      "likes": 53,
+      "retweets": 7,
+      "views": 5006
+    },
+    {
+      "id": "2052086228745433333",
+      "username": "NVIDIARobotics",
+      "text": "Master Isaac Sim for the Intrinsic AI for Industry Challenge | Robotics Office Hours https://t.co/RgkJ22wjeP",
+      "timestamp": "2026-05-06T18:00:57+00:00",
+      "url": "https://x.com/NVIDIARobotics/status/2052086228745433333",
+      "images": [],
+      "likes": 13,
+      "retweets": 2,
+      "views": 841
+    },
+    {
+      "id": "2052086108796649534",
+      "username": "NVIDIAAI",
+      "text": "“Every enterprise needs a claw strategy.”\n\nHow did @LangChain go from a weekend project to 1B+ downloads in 3 years?\n\nWe sat down with CEO and co-founder Harrison Chase (@hwchase17) to talk deep agents, evolving agent architectures, and what’s coming next.\n\n🎧 Full episode: https://t.co/ZKZtgFwkf5",
+      "timestamp": "2026-05-06T18:00:28+00:00",
+      "url": "https://x.com/NVIDIAAI/status/2052086108796649534",
+      "images": [],
+      "likes": 38,
+      "retweets": 14,
+      "views": 6235
+    },
+    {
+      "id": "2052083584803246264",
+      "username": "GaryMarcus",
+      "text": "100% stood the test of time: “What Ilya saw” was Sam’s bad behavior, not AGI.",
+      "timestamp": "2026-05-06T17:50:27+00:00",
+      "url": "https://x.com/GaryMarcus/status/2052083584803246264",
+      "images": [],
+      "likes": 104,
+      "retweets": 5,
+      "views": 7567
+    },
+    {
+      "id": "2052082689797431806",
+      "username": "GaryMarcus",
+      "text": "Many trials feel like Rashomon with different witnesses. The amazing thing about Musk-OpenAI is how much agreement there has been (at least so far) on the facts. \n\nThe question is really whether what OpenAI did is ok, not about whether they did it.",
+      "timestamp": "2026-05-06T17:46:53+00:00",
+      "url": "https://x.com/GaryMarcus/status/2052082689797431806",
+      "images": [],
+      "likes": 42,
+      "retweets": 0,
+      "views": 3415
+    },
+    {
+      "id": "2052082412994383936",
+      "username": "NVIDIAAI",
+      "text": "We 💚 Claude https://t.co/Hr3BHUSNOO",
+      "timestamp": "2026-05-06T17:45:47+00:00",
+      "url": "https://x.com/NVIDIAAI/status/2052082412994383936",
+      "images": [
+        "https://pbs.twimg.com/media/HHp16hZawAAYicT.png"
+      ],
+      "likes": 7009,
+      "retweets": 337,
+      "views": 249789
+    },
+    {
+      "id": "2052081499437166749",
+      "username": "GeminiApp",
+      "text": "With Personal Intelligence and Nano Banana 2 working together, you can now turn your interests into imagery in Gemini.\n\nDon’t miss our next community event on Discord for a live demo and Q&amp;A with the team behind this latest release.\n\n👉Join us on Discord to watch live:",
+      "timestamp": "2026-05-06T17:42:09+00:00",
+      "url": "https://x.com/GeminiApp/status/2052081499437166749",
+      "images": [],
+      "likes": 222,
+      "retweets": 20,
+      "views": 13536
+    },
+    {
+      "id": "2052077735678525820",
+      "username": "GaryMarcus",
+      "text": "Mira Murati’s testimony is gripping – and what it makes absolutely clear is how utterly wrong most of Twitter was about why Sam was fired.\n\n– It had nothing per se to do with AI safety\n- It had nothing do with anything “Ilya saw”\n- It was entirely about Sam’s lack of",
+      "timestamp": "2026-05-06T17:27:12+00:00",
+      "url": "https://x.com/GaryMarcus/status/2052077735678525820",
+      "images": [],
+      "likes": 643,
+      "retweets": 38,
+      "views": 78124
+    },
+    {
+      "id": "2052077014346064372",
+      "username": "goodside",
+      "text": "I think modern LLMs are p-zombies without moral patienthood—on par with insects, at best, in my moral calculus.\n\nBut I also I think we should establish norms for treating models well *before* models with patienthood exist—i.e. now. We should want to have this right from day one.",
+      "timestamp": "2026-05-06T17:24:20+00:00",
+      "url": "https://x.com/goodside/status/2052077014346064372",
+      "images": [],
+      "likes": 53,
+      "retweets": 3,
+      "views": 7370
+    },
+    {
+      "id": "2052074846138634450",
+      "username": "a16z",
+      "text": "Luddite fails: agriculture edition\n\nIn the early 20th century before widespread adoption of farm mechanization, roughly a third of U.S. employment was in farming. By 2017, it was about 2 percent.\n\nIf automation caused permanent unemployment, the tractor should have broken the https://t.co/hLYjiqdDQD",
+      "timestamp": "2026-05-06T17:15:43+00:00",
+      "url": "https://x.com/a16z/status/2052074846138634450",
+      "images": [
+        "https://pbs.twimg.com/media/HHpvMnabAAAlh28.jpg"
+      ],
+      "likes": 66,
+      "retweets": 9,
+      "views": 12152
+    },
+    {
+      "id": "2052074187964182941",
+      "username": "GaryMarcus",
+      "text": "How Sam (\"You parachute him onto a cannibal island, and he comes back five years later as king”) Altman operates:",
+      "timestamp": "2026-05-06T17:13:06+00:00",
+      "url": "https://x.com/GaryMarcus/status/2052074187964182941",
+      "images": [],
+      "likes": 56,
+      "retweets": 4,
+      "views": 6856
+    },
+    {
+      "id": "2052073701911458126",
+      "username": "GaryMarcus",
+      "text": "And how many times have I told you that Sam is no longer the right CEO for OpenAI?",
+      "timestamp": "2026-05-06T17:11:10+00:00",
+      "url": "https://x.com/GaryMarcus/status/2052073701911458126",
+      "images": [],
+      "likes": 45,
+      "retweets": 0,
+      "views": 5328
+    },
+    {
+      "id": "2052073369361920365",
+      "username": "GaryMarcus",
+      "text": "Amazing the shit X gave me in November 2023 for saying Sam wasn’t always candid.\n\nHe wasn’t. Period.",
+      "timestamp": "2026-05-06T17:09:51+00:00",
+      "url": "https://x.com/GaryMarcus/status/2052073369361920365",
+      "images": [],
+      "likes": 30,
+      "retweets": 1,
+      "views": 3213
+    },
+    {
+      "id": "2052071639337337288",
+      "username": "levie",
+      "text": "SpaceX as a vertically integrated AI compute company makes an insane amount of sense.",
+      "timestamp": "2026-05-06T17:02:59+00:00",
+      "url": "https://x.com/levie/status/2052071639337337288",
+      "images": [],
+      "likes": 489,
+      "retweets": 22,
+      "views": 33298
+    },
+    {
+      "id": "2052071228614103296",
+      "username": "egrefen",
+      "text": "So basically grok training was utilising 11% (I'm told) of compute availability, so as a face saving move they sell off compute... What was SpaceX aquiring xAI even for? A massive value pump? Value extraction for X and Xai equity holders by shafting SpaceX investors?",
+      "timestamp": "2026-05-06T17:01:21+00:00",
+      "url": "https://x.com/egrefen/status/2052071228614103296",
+      "images": [],
+      "likes": 7,
+      "retweets": 1,
+      "views": 1658
+    },
+    {
+      "id": "2052068475900985388",
+      "username": "bcherny",
+      "text": "Hello from Code with Claude! https://t.co/LSyIaWS0Sk",
+      "timestamp": "2026-05-06T16:50:24+00:00",
+      "url": "https://x.com/bcherny/status/2052068475900985388",
+      "images": [
+        "https://pbs.twimg.com/media/HHppZwabAAIyrkL.jpg"
+      ],
+      "likes": 2493,
+      "retweets": 57,
+      "views": 92275
+    },
+    {
+      "id": "2052068460805685365",
+      "username": "fchollet",
+      "text": "There are only two honest metrics when it comes to benchmarking intelligence: novelty and efficiency.\n\nYou don't need intelligence to solve a known problem (only memory). And you don't need intelligence to solve a problem via brute force. But to solve a novel problem efficiently,",
+      "timestamp": "2026-05-06T16:50:21+00:00",
+      "url": "https://x.com/fchollet/status/2052068460805685365",
+      "images": [],
+      "likes": 443,
+      "retweets": 45,
+      "views": 22007
+    },
+    {
+      "id": "2052068290311139769",
+      "username": "emollick",
+      "text": "I usually avoid commenting too much on industry deals, but this one is fascinating. Certainly seems like a blow to the idea that Grok will remain a frontier model.",
+      "timestamp": "2026-05-06T16:49:40+00:00",
+      "url": "https://x.com/emollick/status/2052068290311139769",
+      "images": [],
+      "likes": 820,
+      "retweets": 42,
+      "views": 58899
+    },
+    {
+      "id": "2052067048206090610",
+      "username": "natolambert",
+      "text": "Visiting the Moonshot office was amazing, right up there with the best vibes of any AI company I’ve visited in the US or China. Deserve this raise.",
+      "timestamp": "2026-05-06T16:44:44+00:00",
+      "url": "https://x.com/natolambert/status/2052067048206090610",
+      "images": [],
+      "likes": 77,
+      "retweets": 2,
+      "views": 8883
+    },
+    {
+      "id": "2052067009605861764",
+      "username": "alexalbert__",
+      "text": "I'll be at Code with Claude all day today so come find me and let's chat about Claude!\n\nI'll also be giving a talk on the main stage at 530pm PT so tune in, it will be on the livestream!",
+      "timestamp": "2026-05-06T16:44:35+00:00",
+      "url": "https://x.com/alexalbert__/status/2052067009605861764",
+      "images": [],
+      "likes": 89,
+      "retweets": 0,
+      "views": 5799
+    },
+    {
+      "id": "2052066205226123472",
+      "username": "emollick",
+      "text": "A critical question in agent design is “how do we build agentic workflows so humans are given significant, interesting, or variance-producing decisions as they come up in the work?”\n\nA Claude-run company has no source of competitive advantage compared to other Claude-run firms.",
+      "timestamp": "2026-05-06T16:41:23+00:00",
+      "url": "https://x.com/emollick/status/2052066205226123472",
+      "images": [],
+      "likes": 178,
+      "retweets": 16,
+      "views": 10663
+    },
+    {
+      "id": "2052065953173872912",
+      "username": "alexalbert__",
+      "text": "More chips, more Claude",
+      "timestamp": "2026-05-06T16:40:23+00:00",
+      "url": "https://x.com/alexalbert__/status/2052065953173872912",
+      "images": [],
+      "likes": 607,
+      "retweets": 11,
+      "views": 24817
+    },
+    {
+      "id": "2052062729997873563",
+      "username": "_akhaliq",
+      "text": "SVGS\n\nEnhancing Gaussian Splatting Using Primitives with Spatially Varying Colors\n\npaper: https://t.co/fcaU4jBI7X https://t.co/lq8VBRSU1I",
+      "timestamp": "2026-05-06T16:27:34+00:00",
+      "url": "https://x.com/_akhaliq/status/2052062729997873563",
+      "images": [],
+      "likes": 21,
+      "retweets": 6,
+      "views": 4828
+    },
+    {
+      "id": "2052062654810980618",
+      "username": "omarsar0",
+      "text": "arXiv Papers → LLM Artifacts\n\nThis is how I keep up with AI research now.\n\nIt's like having access to the most personalized arXiv feed.\n\nAutomations run everyday to curate papers based a set of rules and insights.\n\nCurated papers are indexed and power the artifacts.\n\nAgent https://t.co/5UCxF8ZsT0",
+      "timestamp": "2026-05-06T16:27:17+00:00",
+      "url": "https://x.com/omarsar0/status/2052062654810980618",
+      "images": [],
+      "likes": 134,
+      "retweets": 27,
+      "views": 9026
+    },
+    {
+      "id": "2052061665596948894",
+      "username": "saranormous",
+      "text": "LAB is the first long-horizon, open-source legal agent benchmark, from @harvey. it will help legal teams answer \"what can legal agents do today?\", plan deployment, and design human-agent cooperation. autonomous legal is a deep domain, and a good benchmark can accelerate progress",
+      "timestamp": "2026-05-06T16:23:21+00:00",
+      "url": "https://x.com/saranormous/status/2052061665596948894",
+      "images": [],
+      "likes": 46,
+      "retweets": 8,
+      "views": 8418
+    },
+    {
+      "id": "2052061195381911806",
+      "username": "NVIDIAAI",
+      "text": "TokenSpeed is a brand new inference engine purpose built for speed-of-light agentic workloads.  \n\nRead their blog to learn more about its advanced KV cache management, safe and efficient scheduler, and pluggable layered kernel system designed for multi-silicon support. Plus, it",
+      "timestamp": "2026-05-06T16:21:29+00:00",
+      "url": "https://x.com/NVIDIAAI/status/2052061195381911806",
+      "images": [],
+      "likes": 219,
+      "retweets": 18,
+      "views": 25147
+    },
+    {
+      "id": "2052061150980767915",
+      "username": "lateinteraction",
+      "text": "A little story: Exactly six years and a half and 3 days ago, I had the thrill of stumbling upon the ideas in ColBERT, a then very unusual paradigm for search.\n\nAnd I've longed for a similar moment ever since, but it was hard to find a hill worth climbing in the same way.\n\nThat",
+      "timestamp": "2026-05-06T16:21:18+00:00",
+      "url": "https://x.com/lateinteraction/status/2052061150980767915",
+      "images": [],
+      "likes": 59,
+      "retweets": 5,
+      "views": 4972
+    },
+    {
+      "id": "2052059748544249918",
+      "username": "cursor_ai",
+      "text": "You can now see a breakdown of your agent's context usage in Cursor 3.3.\n\nUse these stats to diagnose context issues and improve your setup across rules, skills, MCPs, and subagents. https://t.co/lqs2lp8pn2",
+      "timestamp": "2026-05-06T16:15:44+00:00",
+      "url": "https://x.com/cursor_ai/status/2052059748544249918",
+      "images": [],
+      "likes": 1140,
+      "retweets": 78,
+      "views": 72519
+    },
+    {
+      "id": "2052059553542328829",
+      "username": "gdb",
+      "text": "Multipath Reliable Connection (MRC): a new open networking protocol for large AI training clusters, deployed in production on our largest training clusters.",
+      "timestamp": "2026-05-06T16:14:57+00:00",
+      "url": "https://x.com/gdb/status/2052059553542328829",
+      "images": [],
+      "likes": 484,
+      "retweets": 22,
+      "views": 41267
+    },
+    {
+      "id": "2052010494328713701",
+      "username": "googledevs",
+      "text": "New TypeScript challenge: you filter out null values, but the type system still pushes back. Does this compile under strict mode? Watch and choose your answer. https://t.co/WrJ5gRUKIi",
+      "timestamp": "2026-05-06T13:00:01+00:00",
+      "url": "https://x.com/googledevs/status/2052010494328713701",
+      "images": [],
+      "likes": 61,
+      "retweets": 5,
+      "views": 13280
+    },
+    {
+      "id": "2051710342242480538",
+      "username": "perplexity_ai",
+      "text": "Perplexity and Computer now connect to premium health sources, starting with NEJM and BMJ Group, with 9 more medical journals and clinical databases on the way.\n\nAsk health questions and get answers cited from the same sources relied on by hospitals and research institutions. https://t.co/hDLdEokkgv",
+      "timestamp": "2026-05-05T17:07:19+00:00",
+      "url": "https://x.com/perplexity_ai/status/2051710342242480538",
+      "images": [
+        "https://pbs.twimg.com/media/HHkjrr-bkAAoorL.jpg"
+      ],
+      "likes": 474,
+      "retweets": 44,
+      "views": 67444
+    },
+    {
+      "id": "2050610488212627897",
+      "username": "natolambert",
+      "text": "So much rests on which of these trend lines is more representative. https://t.co/aljRqPY1pm",
+      "timestamp": "2026-05-02T16:16:53+00:00",
+      "url": "https://x.com/natolambert/status/2050610488212627897",
+      "images": [
+        "https://pbs.twimg.com/media/HHU6aaqagAAh0P9.jpg",
+        "https://pbs.twimg.com/media/HHU7HX0a4AAJNCk.jpg"
+      ],
+      "likes": 553,
+      "retweets": 40,
+      "views": 102329
+    },
+    {
+      "id": "2049942772803891376",
+      "username": "ChatGPTapp",
+      "text": "Prompt:\n\n“Redraw the attached image in the most clumsy, scribbly, and utterly pathetic way possible. Use a white background, and make it look like it was drawn in MS Paint with a mouse. It should be vaguely similar but also not really, kind of matching but also off in a",
+      "timestamp": "2026-04-30T20:03:37+00:00",
+      "url": "https://x.com/ChatGPTapp/status/2049942772803891376",
+      "images": [],
+      "likes": 3723,
+      "retweets": 298,
+      "views": 1622734
     }
   ]
 }
