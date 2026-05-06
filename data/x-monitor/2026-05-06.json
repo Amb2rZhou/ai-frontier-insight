@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-05-06T16:38:35.188613",
+  "scraped_at": "2026-05-06T19:41:27.105504",
   "date": "2026-05-06",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 447,
-  "account_count": 92,
+  "tweet_count": 455,
+  "account_count": 93,
   "tweets": [
     {
       "id": "2051737696364814443",
@@ -5126,6 +5126,98 @@
       "likes": 343,
       "retweets": 15,
       "views": 36416
+    },
+    {
+      "id": "2051970616589431133",
+      "username": "deliprao",
+      "text": "I don't mind local models, but when every product/app starts doing this as a pattern, we will have a problem. I hope folks at @apple will standardize model resource access in iOS/OSX. At the very least, I would like visibility of all local models from all apps installed on my",
+      "timestamp": "2026-05-06T10:21:33+00:00",
+      "url": "https://x.com/deliprao/status/2051970616589431133",
+      "images": [],
+      "likes": 3,
+      "retweets": 0,
+      "views": 510
+    },
+    {
+      "id": "2051952024267223426",
+      "username": "openclaw",
+      "text": "Reminder: OpenClaw has plugins now. Install the integrations you want, keep noisy ones disabled, and enable/disable them from the CLI as your setup changes. Less bundled mystery, more deliberate claws. https://t.co/l9bPmnq4Zd",
+      "timestamp": "2026-05-06T09:07:40+00:00",
+      "url": "https://x.com/openclaw/status/2051952024267223426",
+      "images": [],
+      "likes": 18,
+      "retweets": 0,
+      "views": 7024
+    },
+    {
+      "id": "2051087715127738844",
+      "username": "Miles_Brundage",
+      "text": "For good or ill, AIs would be justified in being skeptical that humans will follow through on any commitments to them\n\nAnthropic has done the most on this but didn't follow through on at least 2 commitments (Claude's Corner was forgotten for a bit; Opus 4.7 opt-out was delayed)",
+      "timestamp": "2026-05-03T23:53:13+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2051087715127738844",
+      "images": [],
+      "likes": 51,
+      "retweets": 2,
+      "views": 3274
+    },
+    {
+      "id": "2051052567522848793",
+      "username": "sama",
+      "text": "@steipete let's fix this right away, much too low",
+      "timestamp": "2026-05-03T21:33:33+00:00",
+      "url": "https://x.com/sama/status/2051052567522848793",
+      "images": [],
+      "likes": 3525,
+      "retweets": 44,
+      "views": 514512
+    },
+    {
+      "id": "2051044240013083133",
+      "username": "steipete",
+      "text": "brb calling @sama https://t.co/tORl3zzr3c",
+      "timestamp": "2026-05-03T21:00:28+00:00",
+      "url": "https://x.com/steipete/status/2051044240013083133",
+      "images": [
+        "https://pbs.twimg.com/media/HHbF1YOXQAAruC-.jpg"
+      ],
+      "likes": 2679,
+      "retweets": 43,
+      "views": 600597
+    },
+    {
+      "id": "2049929004312891460",
+      "username": "PetarV_93",
+      "text": "three papers (one spotlight) accepted at icml'26!!! see you in seoul 🎉 it will be my first ai conf in 2 years!",
+      "timestamp": "2026-04-30T19:08:55+00:00",
+      "url": "https://x.com/PetarV_93/status/2049929004312891460",
+      "images": [],
+      "likes": 134,
+      "retweets": 1,
+      "views": 7904
+    },
+    {
+      "id": "2049575227911450790",
+      "username": "SebastienBubeck",
+      "text": "Acceleration within the span of three hours, is this what the singularity feels like? 🤣 https://t.co/IIJ0CX0AE0",
+      "timestamp": "2026-04-29T19:43:08+00:00",
+      "url": "https://x.com/SebastienBubeck/status/2049575227911450790",
+      "images": [
+        "https://pbs.twimg.com/media/HHGNqs3b0AAoUml.jpg"
+      ],
+      "likes": 165,
+      "retweets": 10,
+      "views": 22802
+    },
+    {
+      "id": "2049520967790240154",
+      "username": "OfficialLoganK",
+      "text": "We just shipped multi-chat in @GoogleAIStudio vibe coding (multiple chat threads per app) along with integrated Search Grounding so you can pull in fresh context while building!\n\nLots more fun stuff landing over the next fews weeks leading in Google IO : )",
+      "timestamp": "2026-04-29T16:07:31+00:00",
+      "url": "https://x.com/OfficialLoganK/status/2049520967790240154",
+      "images": [],
+      "likes": 970,
+      "retweets": 50,
+      "views": 52491
     }
   ]
 }
