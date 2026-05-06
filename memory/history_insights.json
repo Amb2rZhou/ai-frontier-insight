@@ -1,66 +1,6 @@
 {
   "predictions": [
     {
-      "date": "2026-04-27T10:53:33.298333+08:00",
-      "prediction_text": "内容安全团队可集成该token分类模型至审核流水线，优先覆盖用户隐私泄露高发场景。",
-      "category": "open_source",
-      "source_signal": "OpenAI Releases Privacy Filter Model for Token Classification"
-    },
-    {
-      "date": "2026-04-27T10:53:33.317182+08:00",
-      "prediction_text": "社区平台的文本生成基础模型选择可纳入Hy3-preview，将其作为测试床评估中文效果与成本。",
-      "category": "strategic_move",
-      "source_signal": "Tencent Releases Hy3-preview Open-Weight Text Generation Model"
-    },
-    {
-      "date": "2026-04-27T10:53:33.333183+08:00",
-      "prediction_text": "社区平台可参考B站，以创作激励赛事驱动UGC+Agent生态，激活AI工具使用粘性。",
-      "category": "ecosystem_shift",
-      "source_signal": "Bilibili AI Agent Search Volume Surges Over 500%, Launches AI Creation Competition"
-    },
-    {
-      "date": "2026-04-27T10:53:33.347015+08:00",
-      "prediction_text": "创作者工具团队可测试ERNIE-Image-Turbo作为本地化配图生成方案，替代或互补Stable Diffusion管线。",
-      "category": "model_release",
-      "source_signal": "Baidu Releases ERNIE-Image-Turbo Space for Fast Image Generation"
-    },
-    {
-      "date": "2026-04-27T10:53:33.369739+08:00",
-      "prediction_text": "搜索产品可探索端侧Agent矩阵实现隐私敏感场景的本地化搜索与推荐处理。",
-      "category": "infrastructure",
-      "source_signal": "Edge Matrix Runtime 'wanman' Enables Autonomous Multi-Agent Workflows on Local Devices"
-    },
-    {
-      "date": "2026-04-27T10:53:33.381658+08:00",
-      "prediction_text": "内容审计团队可研究SIREN方法，将其嵌入推荐或生成模型的推理层实现实时安全过滤。",
-      "category": "research_breakthrough",
-      "source_signal": "University of Toronto Proposes SIREN: LLM Safety Detection via Internal Representations"
-    },
-    {
-      "date": "2026-04-27T10:53:33.393453+08:00",
-      "prediction_text": "AI平台基建可引入类似future-agi的开源套件，为内部Agent构建标准化的评估与追溯体系。",
-      "category": "infrastructure",
-      "source_signal": "Open-Source Platform 'future-agi' for LLM and AI Agent Observability Gains Traction"
-    },
-    {
-      "date": "2026-04-27T10:53:33.405513+08:00",
-      "prediction_text": "推荐系统与生成模型的RL对齐团队应引入reward hacking检测流程，避免优化目标被对抗性利用。",
-      "category": "research_breakthrough",
-      "source_signal": "Fudan University Research Systematically Examines Reward Hacking in Large Models"
-    },
-    {
-      "date": "2026-04-27T10:53:33.416760+08:00",
-      "prediction_text": "多模态理解团队可探索生成式预训练+指令微调范式，替换目前独立的分类式图文分析模型。",
-      "category": "research_breakthrough",
-      "source_signal": "Image Generation Pretraining Proven Effective for Generalist Vision Learning"
-    },
-    {
-      "date": "2026-04-27T11:10:49.271751+08:00",
-      "prediction_text": "内容平台的Agent编排系统可评估此模型作为默认推理引擎，替换大参数模型以降低推理成本。",
-      "category": "model_release",
-      "source_signal": "Alibaba Releases AgenticQwen-30B-A3B MoE Model Matching Qwen3-235B on Tool-Use Benchmarks"
-    },
-    {
       "date": "2026-04-27T11:10:49.274703+08:00",
       "prediction_text": "社区平台的AI创作助手可参考Codex的交互范式，将编程Agent转化为内容编辑Agent。",
       "category": "strategic_move",
@@ -599,6 +539,66 @@
       "prediction_text": "内容平台可考虑将 3D 编辑嵌入创作者工具，支持用户通过自然语言指令修改 3D 对象局部结构，丰富社区内容形态。",
       "category": "research_breakthrough",
       "source_signal": "Prox-E: Training-Free Fine-Grained 3D Shape Editing via Primitives"
+    },
+    {
+      "date": "2026-05-06T09:34:43.893362+08:00",
+      "prediction_text": "内容平台的推荐/搜索系统可探索记忆可追溯设计，如让 Agent 感知用户历史浏览偏好以提升长尾内容召回。",
+      "category": "model_release",
+      "source_signal": "OpenAI Launches GPT-5.5 Instant with Memory Observability and Spreadsheet Integration"
+    },
+    {
+      "date": "2026-05-06T09:34:43.904117+08:00",
+      "prediction_text": "电商平台的智能客服选型可参考 Agent 工具调用排行榜，优先选择指令遵循与多步工具编排强的模型。",
+      "category": "model_release",
+      "source_signal": "xAI Releases Grok 4.3: Topping Leaderboards in Agentic Tool Calling and Enterprise Domains"
+    },
+    {
+      "date": "2026-05-06T09:34:43.912336+08:00",
+      "prediction_text": "社区平台的 Agent 安全团队可以评估将 MSM 技术引入创作者助手和内容审核 Agent 训练管道。",
+      "category": "research_breakthrough",
+      "source_signal": "Anthropic Model Spec Midtraining (MSM): A Practical Solution to Alignment Faking in AI Agents"
+    },
+    {
+      "date": "2026-05-06T09:34:43.925659+08:00",
+      "prediction_text": "内容平台的搜索团队可以探索 Gemini Embedding 2 或开源等效方案的 MRL 特性，降低向量数据库存储与查询开销。",
+      "category": "infrastructure",
+      "source_signal": "Google Launches Multimodal File Search in Gemini API with Matryoshka Embedding Efficiency"
+    },
+    {
+      "date": "2026-05-06T09:34:43.933496+08:00",
+      "prediction_text": "内容安全团队可以参照此模式，为自建/微调模型设置“公开发布前红队审查”的强制性 checkpoints。",
+      "category": "strategic_move",
+      "source_signal": "Eight AI Companies Including Google, Microsoft, and OpenAI Agree to Voluntary Model Sharing with Gov"
+    },
+    {
+      "date": "2026-05-06T09:34:43.941135+08:00",
+      "prediction_text": "内容平台在构建 Agent 生态时，应要求所有第三方技能/插件通过静态分析+运行时沙箱验证签名后上架。",
+      "category": "ecosystem_shift",
+      "source_signal": "AI Agent Skills Security: Research Reveals Supply-Chain Attack Vector via Open-Source Repos"
+    },
+    {
+      "date": "2026-05-06T09:34:43.951363+08:00",
+      "prediction_text": "内容平台的创作者工具团队可用此 SDK 快速 prototypr 创作辅助 Agent，如草稿润色、标签生成等。",
+      "category": "ecosystem_shift",
+      "source_signal": "OpenAI Releases Updated Agents SDK in TypeScript with Sandbox Harness"
+    },
+    {
+      "date": "2026-05-06T09:34:43.959136+08:00",
+      "prediction_text": "社区平台可考虑在移动端嵌入 Nemotron Nano 的推论 API，实现离线商品识别或场景打标保护用户隐私。",
+      "category": "open_source",
+      "source_signal": "NVIDIA Releases Nemotron 3 Nano Omni: Efficient Open Multimodal Model for Edge Deployment"
+    },
+    {
+      "date": "2026-05-06T09:34:43.966885+08:00",
+      "prediction_text": "内容平台的实时助手（如直播导购、即时客服）可关注 Vera Rubin 生态，提前评估高吞吐场景的成本收益。",
+      "category": "infrastructure",
+      "source_signal": "NVIDIA Unveils Vera Rubin Platform Architecture for Agentic Workloads at Scale"
+    },
+    {
+      "date": "2026-05-06T09:34:43.974284+08:00",
+      "prediction_text": "推荐/搜索团队可以评估 IKBO 思路，在 PyTorch 推理栈中引入 similar 的 in-kernel 广播，减少访存瓶颈。",
+      "category": "research_breakthrough",
+      "source_signal": "Meta's In-Kernel Broadcast Optimization (IKBO) for Large-Scale Recommendation System Inference"
     }
   ]
 }

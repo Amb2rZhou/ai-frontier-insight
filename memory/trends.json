@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05T23:19:07.174784+08:00",
+  "last_updated": "2026-05-06T09:35:07.045501+08:00",
   "trends": [
     {
       "id": "ai_safety_pivot_and_accelerated_agi_time",
@@ -15,9 +15,8 @@
         "Regulation"
       ],
       "trajectory": "accelerating",
-      "signal_count": 99,
+      "signal_count": 101,
       "weekly_counts": [
-        2,
         0,
         1,
         1,
@@ -28,7 +27,8 @@
         1,
         2,
         3,
-        0
+        0,
+        2
       ],
       "key_events": [
         {
@@ -70,6 +70,10 @@
         {
           "date": "2026-05-05",
           "event": "First detected"
+        },
+        {
+          "date": "2026-05-06",
+          "event": "Anthropic Model Spec Midtraining (MSM): A Practical Solution to Alignment Faking in AI Agents; Eight AI Companies Agree to Voluntary Model Sharing with Gov"
         }
       ],
       "created": "2026-02-25"
@@ -88,9 +92,8 @@
         "Business Models"
       ],
       "trajectory": "accelerating",
-      "signal_count": 80,
+      "signal_count": 82,
       "weekly_counts": [
-        1,
         0,
         2,
         2,
@@ -101,6 +104,7 @@
         3,
         1,
         4,
+        2,
         2
       ],
       "key_events": [
@@ -219,6 +223,10 @@
         {
           "date": "2026-05-05",
           "event": "NVIDIA releases Nemotron 3 Nano Omni: open-source 30B multimodal MoE model"
+        },
+        {
+          "date": "2026-05-06",
+          "event": "NVIDIA Releases Nemotron 3 Nano Omni: Efficient Open Multimodal Model for Edge Deployment; OpenAI Releases Updated Agents SDK in TypeScript"
         }
       ],
       "created": "2026-02-25"
@@ -310,9 +318,8 @@
         "Product Launch"
       ],
       "trajectory": "accelerating",
-      "signal_count": 165,
+      "signal_count": 167,
       "weekly_counts": [
-        2,
         1,
         4,
         4,
@@ -323,7 +330,8 @@
         2,
         1,
         1,
-        1
+        1,
+        2
       ],
       "key_events": [
         {
@@ -385,6 +393,10 @@
         {
           "date": "2026-05-05",
           "event": "Ollama v0.23.0 supports Claude Desktop as launch target for local AI agent workflows"
+        },
+        {
+          "date": "2026-05-06",
+          "event": "OpenAI Launches GPT-5.5 Instant with Memory Observability and Spreadsheet Integration; xAI Releases Grok 4.3 topping agentic tool calling leaderboards"
         }
       ],
       "created": "2026-02-25"
@@ -403,9 +415,8 @@
         "Scientific Discovery"
       ],
       "trajectory": "accelerating",
-      "signal_count": 125,
+      "signal_count": 127,
       "weekly_counts": [
-        2,
         3,
         1,
         2,
@@ -416,7 +427,8 @@
         1,
         2,
         1,
-        4
+        4,
+        2
       ],
       "key_events": [
         {
@@ -490,6 +502,10 @@
         {
           "date": "2026-05-05",
           "event": "RoundPipe efficient LLM fine-tuning on consumer GPUs"
+        },
+        {
+          "date": "2026-05-06",
+          "event": "Google Launches Multimodal File Search in Gemini API with Matryoshka Embedding Efficiency; Meta's IKBO for Large-Scale Recommendation System Inference"
         }
       ],
       "created": "2026-02-25"
@@ -507,10 +523,9 @@
         "xAI",
         "Google"
       ],
-      "trajectory": "decelerating",
+      "trajectory": "fading",
       "signal_count": 40,
       "weekly_counts": [
-        1,
         1,
         1,
         0,
@@ -521,6 +536,7 @@
         0,
         0,
         1,
+        0,
         0
       ],
       "key_events": [
@@ -626,9 +642,8 @@
         "Agent Framework"
       ],
       "trajectory": "accelerating",
-      "signal_count": 198,
+      "signal_count": 199,
       "weekly_counts": [
-        4,
         0,
         2,
         4,
@@ -639,7 +654,8 @@
         1,
         3,
         1,
-        4
+        4,
+        1
       ],
       "key_events": [
         {
@@ -681,6 +697,10 @@
         {
           "date": "2026-05-05",
           "event": "First detected"
+        },
+        {
+          "date": "2026-05-06",
+          "event": "OpenAI Releases Updated Agents SDK in TypeScript with Sandbox Harness"
         }
       ],
       "created": "2026-02-25"
@@ -695,9 +715,8 @@
         "Europe"
       ],
       "trajectory": "accelerating",
-      "signal_count": 16,
+      "signal_count": 17,
       "weekly_counts": [
-        0,
         1,
         1,
         1,
@@ -706,6 +725,7 @@
         1,
         0,
         0,
+        1,
         1,
         1,
         1
@@ -788,9 +808,8 @@
         "AI Infrastructure"
       ],
       "trajectory": "accelerating",
-      "signal_count": 74,
+      "signal_count": 75,
       "weekly_counts": [
-        2,
         2,
         1,
         2,
@@ -801,6 +820,7 @@
         1,
         1,
         0,
+        1,
         1
       ],
       "key_events": [
@@ -978,6 +998,7 @@
         0,
         0,
         0,
+        0,
         0
       ],
       "key_events": [
@@ -1014,9 +1035,8 @@
         "AI Safety"
       ],
       "trajectory": "accelerating",
-      "signal_count": 68,
+      "signal_count": 69,
       "weekly_counts": [
-        0,
         1,
         1,
         3,
@@ -1027,7 +1047,8 @@
         1,
         1,
         2,
-        0
+        0,
+        1
       ],
       "key_events": [
         {
@@ -1089,6 +1110,10 @@
         {
           "date": "2026-05-05",
           "event": "Mindgard Researchers 'Gaslight' Claude to Elicit Forbidden Instructions; OpenAI Releases Privacy Filter Model for Token Classification"
+        },
+        {
+          "date": "2026-05-06",
+          "event": "AI Agent Skills Security: Research Reveals Supply-Chain Attack Vector via Open-Source Repos"
         }
       ],
       "created": "2026-02-25"
@@ -1105,12 +1130,12 @@
       "trajectory": "fading",
       "signal_count": 6,
       "weekly_counts": [
-        1,
         0,
         0,
         0,
         0,
         1,
+        0,
         0,
         0,
         0,
@@ -1171,7 +1196,6 @@
       "signal_count": 60,
       "weekly_counts": [
         2,
-        2,
         1,
         3,
         1,
@@ -1181,7 +1205,8 @@
         1,
         3,
         0,
-        1
+        1,
+        0
       ],
       "key_events": [
         {
@@ -1239,7 +1264,6 @@
       "trajectory": "accelerating",
       "signal_count": 85,
       "weekly_counts": [
-        1,
         0,
         1,
         1,
@@ -1250,7 +1274,8 @@
         1,
         2,
         3,
-        2
+        2,
+        0
       ],
       "key_events": [
         {
@@ -1520,6 +1545,7 @@
         0,
         0,
         0,
+        0,
         0
       ],
       "key_events": [
@@ -1551,10 +1577,10 @@
       "signal_count": 7,
       "weekly_counts": [
         1,
-        1,
         0,
         1,
         1,
+        0,
         0,
         0,
         0,
@@ -1608,12 +1634,13 @@
         "Consumer Hardware",
         "Productivity"
       ],
-      "trajectory": "decelerating",
+      "trajectory": "fading",
       "signal_count": 7,
       "weekly_counts": [
         1,
         3,
         1,
+        0,
         0,
         0,
         0,
