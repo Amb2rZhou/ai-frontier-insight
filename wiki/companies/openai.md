@@ -2,7 +2,7 @@
 title: OpenAI
 type: company
 created: 2026-02-25
-updated: 2026-05-05
+updated: 2026-05-07
 ---
 
 # OpenAI
@@ -11,6 +11,11 @@ The leading commercial AI lab, maker of [[gpt|GPT]] models, ChatGPT, [[codex|Cod
 
 ## Timeline
 
+- **2026-05-07**: OpenAI's New Multipath Reliable Connection (MRC) Protocol for Large-[[scale-ai|Scale AI]] Training
+- **2026-05-06**: OpenAI Releases Updated Agents SDK in TypeScript with Sandbox Harness
+- **2026-05-06**: Eight AI Companies Including [[google-deepmind|Google]], [[microsoft|Microsoft]], and OpenAI Agree to Voluntary Model Sharing with Gov
+- **2026-05-06**: [[xai|xAI]] Releases [[grok|Grok]] 4.3: Topping Leaderboards in [[agent-frameworks|Agentic]] Tool Calling and Enterprise Domains
+- **2026-05-06**: OpenAI Launches [[gpt|GPT-5]].5 Instant with Memory Observability and Spreadsheet Integration
 - **2026-05-05**: OpenAI Turns Sold-Out [[gpt|GPT-5]].5 Party into [[codex|Codex]] Rate Limit Giveaway for 8,000 Developers
 - **2026-05-05**: OpenAI Releases Privacy Filter Model for Token Classification
 - **2026-05-01**: Vulnerabilities in AI Coding Agents Exploit Credentials, Not Models: [[claude|Claude Code]], [[copilot|Copilot]], [[codex|Codex]] All Hacked

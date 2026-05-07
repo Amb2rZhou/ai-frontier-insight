@@ -2,7 +2,7 @@
 title: Grok
 type: product
 created: 2026-02-25
-updated: 2026-04-23
+updated: 2026-05-07
 ---
 
 # Grok
@@ -11,6 +11,8 @@ updated: 2026-04-23
 
 ## Timeline
 
+- **2026-05-07**: [[xai|xAI]] Launches Image Generation Quality Mode on API: 300M+ Images Generated
+- **2026-05-06**: [[xai|xAI]] Releases Grok 4.3: Topping Leaderboards in [[agent-frameworks|Agentic]] Tool Calling and Enterprise Domains
 - **2026-04-23**: X (Twitter) Launches Grok-Curated AI-Powered Custom Feeds · [The Verge](https://www.theverge.com/tech/917113/x-ai-grok-timeline-curation) · [TechCrunch](https://techcrunch.com/2026/04/22/hands-on-with-xs-new-ai-powered-custom-feeds/)
 - **2026-04-18**: [[xai|xAI]] Launches Grok 4.3 Beta with Multi-Format File Creation · [@minchoi Twitter](https://x.com/minchoi/status/2045223250284650960) · [@DeryaTR_ Twitter](https://x.com/DeryaTR_/status/2045206007588995435)
 - **2026-04-18**: [[xai|xAI]] Releases Grok Speech-to-Text API with Multi-Speaker Support · [@xai Twitter](https://x.com/xai/status/2045297699352924504)

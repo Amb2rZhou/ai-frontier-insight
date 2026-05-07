@@ -2,7 +2,7 @@
 title: Scale AI
 type: company
 created: 2026-03-21
-updated: 2026-04-19
+updated: 2026-05-07
 ---
 
 # Scale AI
@@ -11,6 +11,7 @@ AI data and evaluation company. Creator of benchmarks and the [[muse-spark|Muse 
 
 ## Timeline
 
+- **2026-05-07**: [[openai|OpenAI]]'s New Multipath Reliable Connection (MRC) Protocol for Large-Scale AI Training
 - **2026-04-19**: Scale AI CEO Highlights [[muse-spark|Muse Spark]]'s Strong Performance on [[agent-frameworks|Agentic]] Benchmark · [@alexandr_wang (Scale AI CEO)](https://x.com/alexandr_wang/status/2045348588734066794)
 - **2026-04-16**: Scale AI CEO Announces AI Preparedness Reports Aligning with New Scaling Framework · [@alexandr_wang (Scale AI CEO)](https://x.com/alexandr_wang/status/2044454230614999441)
 - **2026-04-11**: [[muse-spark|Muse Spark]] API Coming Soon for Agent Integration · [Twitter (@alexandr_wang)](https://x.com/alexandr_wang/status/2042614906059387211)

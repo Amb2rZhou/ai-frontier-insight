@@ -2,7 +2,7 @@
 title: AI Safety
 type: trend
 created: 2026-02-25
-updated: 2026-04-30
+updated: 2026-05-06
 ---
 
 # AI Safety
@@ -13,6 +13,9 @@ The evolving landscape of AI safety research, policy, and corporate commitments 
 
 ## Timeline
 
+- **2026-05-06**: [[agent-frameworks|AI Agent]] Skills Security: Research Reveals Supply-Chain Attack Vector via Open-Source Repos
+- **2026-05-06**: Eight AI Companies Including [[google-deepmind|Google]], [[microsoft|Microsoft]], and [[openai|OpenAI]] Agree to Voluntary Model Sharing with Gov
+- **2026-05-06**: [[anthropic|Anthropic]] Model Spec Midtraining (MSM): A Practical Solution to Alignment Faking in AI Agents
 - **2026-04-30**: [[anthropic|Anthropic]] 'Introspection Adapters' Allow LLMs to Self-Report Learned Behaviors for Safety
 - **2026-04-23**: [[openai|OpenAI]] Releases Open-Source On-Device Privacy Filter Model · [VentureBeat](https://venturebeat.com/data/openai-launches-privacy-filter-an-open-source-on-device-data-sanitization-model-that-removes-personal-information-from-enterprise-datasets) · [GitHub (huggingface/transformers)](https://github.com/huggingface/transformers/releases/tag/v5.6.0)
 - **2026-04-23**: Wired Investigation Reveals AI Models' Effectiveness in Phishing and Social Engineering · [Wired](https://www.wired.com/story/ai-model-phishing-attack-cybersecurity/)

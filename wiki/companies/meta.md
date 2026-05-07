@@ -2,7 +2,7 @@
 title: Meta
 type: company
 created: 2026-02-26
-updated: 2026-04-30
+updated: 2026-05-07
 ---
 
 # Meta
@@ -11,6 +11,9 @@ Parent company of Facebook, Instagram, and WhatsApp. Major AI investor through F
 
 ## Timeline
 
+- **2026-05-07**: Unsloth & [[nvidia|NVIDIA]] Collaboration Achieves 25% Faster LLM Training on Consumer GPUs
+- **2026-05-07**: Meta Superintelligence Lab Publishes ProgramBench: Can AI Rebuild Real-World Programs from Scratch?
+- **2026-05-06**: Meta's In-Kernel Broadcast Optimization (IKBO) for Large-Scale Recommendation System Inference
 - **2026-04-30**: Meta Proposes Sapiens2: High-Resolution Transformer for Human-Centric Vision
 - **2026-04-29**: Meta Proposes 'From Skills to Talent' Framework for Organizing Heterogeneous AI Agents as a Company
 - **2026-04-26**: [[google-deepmind|Google]] [[gemma|Gemma]] Team Hosts Global 'Gemmaverse' Events for Developer Ecosystem · [Google Gemma 团队成员 @osanseviero](https://x.com/osanseviero/status/2047857010721665046)

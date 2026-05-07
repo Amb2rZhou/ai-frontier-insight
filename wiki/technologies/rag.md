@@ -2,7 +2,7 @@
 title: RAG
 type: technology
 created: 2026-02-25
-updated: 2026-04-30
+updated: 2026-05-07
 ---
 
 # RAG
@@ -11,6 +11,7 @@ Retrieval-Augmented Generation and related techniques for grounding AI model out
 
 ## Timeline
 
+- **2026-05-07**: [[tencent|Tencent]] Hunyuan Releases OpenSearch-VL: Open-Source Multimodal Search [[agent-frameworks|Agent Framework]]
 - **2026-04-30**: Enterprise RAG Faces 'Scale Wall': Hybrid Retrieval Intent Triples in Q1 2026
 - **2026-04-29**: Stanford NLP Proposes SLIDERS: Structured Reasoning for Scalable QA over Long Document Sets
 - **2026-04-28**: Redis Research: RAG Fine-Tuning Can Cut Retrieval Accuracy by 40% · [VentureBeat](https://venturebeat.com/data/rag-precision-tuning-can-quietly-cut-retrieval-accuracy-by-40-putting-agentic-pipelines-at-risk)

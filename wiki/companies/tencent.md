@@ -2,7 +2,7 @@
 title: Tencent
 type: company
 created: 2026-03-28
-updated: 2026-04-29
+updated: 2026-05-07
 ---
 
 # Tencent
@@ -11,6 +11,7 @@ Chinese technology conglomerate active in AI through Hunyuan models, [[embodied-
 
 ## Timeline
 
+- **2026-05-07**: Tencent Hunyuan Releases OpenSearch-VL: Open-Source Multimodal Search [[agent-frameworks|Agent Framework]]
 - **2026-04-29**: Tencent 腾讯发布 Hunyuan 3 (Hy3-preview) 开源大模型
 - **2026-04-23**: Tencent Releases PlayCoder Framework for LLM-Generated GUI Code Correction · [arXiv (Tencent)](https://huggingface.co/papers/2604.19742)
 - **2026-04-21**: Tencent and [[openclaw|OpenClaw]] Collaborate on Agent Harness Performance · [steipete Twitter](https://x.com/steipete/status/2046259696722465113)

@@ -2,7 +2,7 @@
 title: GPT
 type: product
 created: 2026-02-25
-updated: 2026-05-05
+updated: 2026-05-06
 ---
 
 # GPT
@@ -11,6 +11,7 @@ updated: 2026-05-05
 
 ## Timeline
 
+- **2026-05-06**: [[openai|OpenAI]] Launches GPT-5.5 Instant with Memory Observability and Spreadsheet Integration
 - **2026-05-05**: [[openai|OpenAI]] Turns Sold-Out GPT-5.5 Party into [[codex|Codex]] Rate Limit Giveaway for 8,000 Developers
 - **2026-05-01**: [[openai|OpenAI]] Rolls Out GPT-5.5-Cyber: Frontier Cybersecurity Model for Critical Defenders
 - **2026-04-27**: [[codex|Codex]] Traffic Surge Prompts [[openai|OpenAI]] to Scale Compute, CEO Signals Strong Demand · [Twitter @thsottiaux](https://x.com/thsottiaux/status/2048448130870313431) · [Twitter @sama](https://x.com/sama/status/2048426122854228141)

@@ -2,7 +2,7 @@
 title: OpenClaw
 type: product
 created: 2026-02-25
-updated: 2026-04-26
+updated: 2026-05-06
 ---
 
 # OpenClaw
@@ -11,6 +11,7 @@ Popular [[open-source-models|open-source]] AI [[agent-frameworks|agent framework
 
 ## Timeline
 
+- **2026-05-06**: [[agent-frameworks|AI Agent]] Skills Security: Research Reveals Supply-Chain Attack Vector via Open-Source Repos
 - **2026-04-26**: DeepSeek-V4-Pro API Offers 75% Off Until May 5th, Integrates with [[claude|Claude Code]] & OpenCode · [DeepSeek 官方推特](https://x.com/deepseek_ai/status/2048062777357750316) · [36氪](https://36kr.com/newsflashes/3782954220608512?f=rss)
 - **2026-04-21**: [[tencent|Tencent]] and OpenClaw Collaborate on Agent Harness Performance · [steipete Twitter](https://x.com/steipete/status/2046259696722465113)
 - **2026-04-20**: Hermes Agent Hits 100K GitHub Stars, Challenging OpenClaw · [Twitter (@minchoi)](https://x.com/minchoi/status/2045987569876316263)

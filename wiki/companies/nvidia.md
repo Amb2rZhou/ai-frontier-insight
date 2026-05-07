@@ -2,7 +2,7 @@
 title: NVIDIA
 type: company
 created: 2026-02-25
-updated: 2026-05-02
+updated: 2026-05-07
 ---
 
 # NVIDIA
@@ -11,6 +11,12 @@ Dominant [[ai-hardware|AI hardware]] company, increasingly expanding into AI sof
 
 ## Timeline
 
+- **2026-05-07**: Adobe Builds CX Enterprise Agent on NVIDIA NemoClaw: Enterprise Agent Strategy
+- **2026-05-07**: Unsloth & NVIDIA Collaboration Achieves 25% Faster LLM Training on Consumer GPUs
+- **2026-05-07**: NVIDIA Releases TokenSpeed: Speed-of-Light Inference Engine for [[agent-frameworks|Agentic]] Workloads
+- **2026-05-07**: [[anthropic|Anthropic]] Rents Entire [[xai|xAI]] Colossus 1 Compute (220K+ NVIDIA GPUs): New Frontier Alliance
+- **2026-05-06**: NVIDIA Unveils Vera Rubin Platform Architecture for [[agent-frameworks|Agentic]] Workloads at Scale
+- **2026-05-06**: NVIDIA Releases Nemotron 3 Nano Omni: Efficient Open Multimodal Model for Edge Deployment
 - **2026-05-05**: NVIDIA & [[qwen|Qwen]] Release New Multimodal Models for On-Device and MoE Deployment
 - **2026-05-02**: NVIDIA Nemotron 3 Nano Omni: Efficient Open Multimodal Model
 - **2026-04-29**: Poolside Releases Laguna XS.2 Open Model for Local [[agent-frameworks|Agentic]] Coding

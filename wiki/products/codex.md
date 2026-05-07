@@ -2,7 +2,7 @@
 title: Codex
 type: product
 created: 2026-02-25
-updated: 2026-05-05
+updated: 2026-05-07
 ---
 
 # Codex
@@ -11,6 +11,7 @@ updated: 2026-05-05
 
 ## Timeline
 
+- **2026-05-07**: [[meta|Meta]] Superintelligence Lab Publishes ProgramBench: Can AI Rebuild Real-World Programs from Scratch?
 - **2026-05-05**: [[openai|OpenAI]] Turns Sold-Out [[gpt|GPT-5]].5 Party into Codex Rate Limit Giveaway for 8,000 Developers
 - **2026-05-01**: Open-Source Open-Design Tool Emerges as [[claude|Claude]] Design Alternative (8.4k Stars)
 - **2026-05-01**: Vulnerabilities in AI Coding Agents Exploit Credentials, Not Models: [[claude|Claude Code]], [[copilot|Copilot]], Codex All Hacked

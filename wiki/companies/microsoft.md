@@ -2,7 +2,7 @@
 title: Microsoft
 type: company
 created: 2026-02-27
-updated: 2026-05-02
+updated: 2026-05-06
 ---
 
 # Microsoft
@@ -11,6 +11,7 @@ Technology giant with major AI investments through Azure, [[copilot|Copilot]], a
 
 ## Timeline
 
+- **2026-05-06**: Eight AI Companies Including [[google-deepmind|Google]], Microsoft, and [[openai|OpenAI]] Agree to Voluntary Model Sharing with Gov
 - **2026-05-05**: [[google-deepmind|Google]], Microsoft, [[xai|xAI]] Agree to Share Early AI Models with U.S. Government
 - **2026-05-02**: Microsoft: Synthetic Computers for Long-Horizon Agent Training
 - **2026-05-01**: Writer Launches [[agent-frameworks|Agent Framework]] That Acts Without Human Prompts, Taking on Enterprise Giants

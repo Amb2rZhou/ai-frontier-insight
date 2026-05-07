@@ -2,7 +2,7 @@
 title: Anthropic
 type: company
 created: 2026-02-25
-updated: 2026-05-04
+updated: 2026-05-07
 ---
 
 # Anthropic
@@ -11,6 +11,9 @@ updated: 2026-05-04
 
 ## Timeline
 
+- **2026-05-07**: Anthropic Rents Entire [[xai|xAI]] Colossus 1 Compute (220K+ [[nvidia|NVIDIA]] GPUs): New Frontier Alliance
+- **2026-05-06**: Anthropic Model Spec Midtraining (MSM): A Practical Solution to Alignment Faking in AI Agents
+- **2026-05-06**: [[xai|xAI]] Releases [[grok|Grok]] 4.3: Topping Leaderboards in [[agent-frameworks|Agentic]] Tool Calling and Enterprise Domains
 - **2026-05-04**: Anthropic SDK v0.98.0 Improves Managed Agents APIs
 - **2026-05-03**: [[ollama|Ollama]] v0.23.0 Supports [[claude|Claude]] Desktop as Launch Target, Expanding Local [[agent-frameworks|AI Agent]] Workflows
 - **2026-05-01**: Open-Source Open-Design Tool Emerges as [[claude|Claude]] Design Alternative (8.4k Stars)

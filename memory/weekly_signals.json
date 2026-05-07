@@ -897,6 +897,233 @@
           64
         ]
       }
+    ],
+    "2026-05-07": [
+      {
+        "title": "Anthropic Rents Entire xAI Colossus 1 Compute (220K+ NVIDIA GPUs): New Frontier Alliance",
+        "signal_text": "据多位消息源（@minchoi、@nvidia、@garymarcus）确认，Anthropic 已租用 SpaceX/xAI 的 Colossus 1 数据中心全部算力——22万+ NVIDIA GPU、300+ 兆瓦。该交易由 NVIDIA 官方发文祝贺，获 1634 个 likes。此举可能重塑头部 AI 公司的算力格局：xAI 转型为'neocloud'供应商，Anthropic 获得大规模训练/推理资源。对小红书而言，头部模型的算力供应链变化将影响模型上游成本与可用性。",
+        "signal_strength": 0.9,
+        "sources": [
+          {
+            "name": "NVIDIA 官方 Twitter",
+            "url": "https://x.com/nvidia/status/2052091408643756296"
+          },
+          {
+            "name": "Twitter 分析师 @minchoi",
+            "url": "https://x.com/minchoi/status/2052105493166899442"
+          },
+          {
+            "name": "Twitter 分析师 @EMostaque",
+            "url": "https://x.com/EMostaque/status/2052091878619717638"
+          }
+        ],
+        "tags": [
+          "头部公司战略动作",
+          "基础设施",
+          "算力竞争"
+        ],
+        "raw_item_indices": [
+          67,
+          70,
+          71,
+          87,
+          108
+        ]
+      },
+      {
+        "title": "NVIDIA Releases TokenSpeed: Speed-of-Light Inference Engine for Agentic Workloads",
+        "signal_text": "NVIDIA 发布 TokenSpeed，一款专为 agentic workload 设计的高速推理引擎，具备先进 KV cache 管理、安全高效调度器和可插拔分层内核系统，支持多 silicon。GitHub 已获 475 stars。该引擎针对 LLM 推理效率极致优化，对降低小红书推荐/搜索场景的推理成本、提升端侧部署性能有直接价值。来源为 NVIDIA AI 官方推文（获 219 likes）和 GitHub 项目。",
+        "signal_strength": 0.85,
+        "sources": [
+          {
+            "name": "NVIDIA AI 官方 Twitter",
+            "url": "https://x.com/NVIDIAAI/status/2052061195381911806"
+          },
+          {
+            "name": "GitHub - lightseekorg/tokenspeed",
+            "url": "https://github.com/lightseekorg/tokenspeed"
+          }
+        ],
+        "tags": [
+          "技术突破",
+          "推理效率",
+          "Agent",
+          "基础设施"
+        ],
+        "raw_item_indices": [
+          99,
+          141
+        ]
+      },
+      {
+        "title": "Meta Superintelligence Lab Publishes ProgramBench: Can AI Rebuild Real-World Programs from Scratch?",
+        "signal_text": "Meta Superintelligence Lab 发布 ProgramBench，测试 SOTA AI 模型能否在不联网的情况下从零复现 ffmpeg、SQLite、ripgrep 等真实可执行程序。论文显示模型倾向于生成大型单一文件而非模块化代码，影响代码可维护性。该研究直接关乎 AI 辅助编程（如 Codex）的能力边界与质量评估，对小红书 AI 创作工具的产品化有参考价值。论文由 Meta Superintelligence Lab 发布，获 Hacker News 39 分讨论。",
+        "signal_strength": 0.8,
+        "sources": [
+          {
+            "name": "Meta Superintelligence Lab (Arxiv)",
+            "url": "https://arxiv.org/abs/2605.03546"
+          },
+          {
+            "name": "Hacker News",
+            "url": "https://news.ycombinator.com/item?id=48045174"
+          }
+        ],
+        "tags": [
+          "Agent",
+          "AI辅助创作",
+          "代码生成",
+          "内容创作与理解"
+        ],
+        "raw_item_indices": [
+          13,
+          14,
+          48
+        ]
+      },
+      {
+        "title": "OpenAI's New Multipath Reliable Connection (MRC) Protocol for Large-Scale AI Training",
+        "signal_text": "OpenAI 技术负责人 gdb 宣布部署新开源网络协议 MRC（Multipath Reliable Connection），用于大规模 AI 训练集群。该协议已在 OpenAI 最大规模训练集群上生产部署，获 484 个 likes。这反映了超大规模 AI 基础设施层面的持续创新，关系到训练成本与稳定性，对行业头部玩家的底层技术优势有指向性意义。",
+        "signal_strength": 0.78,
+        "sources": [
+          {
+            "name": "OpenAI 技术负责人 (gdb) 官方 Twitter",
+            "url": "https://x.com/gdb/status/2052059553542328829"
+          }
+        ],
+        "tags": [
+          "技术突破",
+          "基础设施",
+          "头部公司战略动作"
+        ],
+        "raw_item_indices": [
+          102,
+          36
+        ]
+      },
+      {
+        "title": "Unsloth & NVIDIA Collaboration Achieves 25% Faster LLM Training on Consumer GPUs",
+        "signal_text": "Unsloth 与 NVIDIA 合作，通过三项优化（packed-sequence metadata caching、double-buffered checkpoint reloads、faster MoE routing）使 LLM 训练在消费级 GPU 上提速约 25%。相关博客和教程获 607 个 likes，GitHub 趋势热度高。该成果可降低中小团队及个人开发者训练模型的硬件门槛，对小红书在内部模型微调、用户侧 AI 工具部署有直接实用价值。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "Unsloth 官方 Twitter + 博客",
+            "url": "https://unsloth.ai/blog/nvidia-collab"
+          },
+          {
+            "name": "Hacker News",
+            "url": "https://news.ycombinator.com/item?id=48046397"
+          }
+        ],
+        "tags": [
+          "技术突破",
+          "训练效率",
+          "开源生态",
+          "端侧部署"
+        ],
+        "raw_item_indices": [
+          1,
+          126
+        ]
+      },
+      {
+        "title": "Google Shuts Down Project Mariner: Experimental Web Agent Feature Discontinued",
+        "signal_text": "Google 于 5 月 4 日关闭了实验性 Web Agent 功能 Project Mariner，该功能旨在在浏览器中自动执行任务。据 The Verge 报道，Mariner 的登陆页面已显示关闭通知。此事件标志着 Google 在面向消费者的通用 Web Agent 产品上暂缓步伐，但可能将资源重定向到更垂直或面向开发者的 Agent 产品。对评估 Agent 路线的产品稳健性有参考意义。",
+        "signal_strength": 0.72,
+        "sources": [
+          {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/tech/925559/google-project-mariner-shut-down"
+          }
+        ],
+        "tags": [
+          "Agent",
+          "头部公司战略动作",
+          "产品迭代"
+        ],
+        "raw_item_indices": [
+          27
+        ]
+      },
+      {
+        "title": "Obliq-Bench: Ambitious IR Benchmark for Long-Context Search Evaluation",
+        "signal_text": "Diane 发布 OBLIQ-Bench，被称为'最具雄心的 IR benchmark'，旨在测试搜索系统在超长上下文（200k+ tokens）下的表现。信息检索社区专家 @lateinteraction 表示该 benchmark 是证明当前长上下文 LLM 在 200k tokens 后失效的最佳任务。这对小红书搜索增强团队评估 LLM 在长文档检索中的效果有重要参考价值。",
+        "signal_strength": 0.7,
+        "sources": [
+          {
+            "name": "Twitter (IR 研究员 @lateinteraction)",
+            "url": "https://x.com/lateinteraction/status/2052055143038713875"
+          }
+        ],
+        "tags": [
+          "搜索与推荐",
+          "长上下文",
+          "评估基准"
+        ],
+        "raw_item_indices": [
+          35,
+          100,
+          124
+        ]
+      },
+      {
+        "title": "Tencent Hunyuan Releases OpenSearch-VL: Open-Source Multimodal Search Agent Framework",
+        "signal_text": "腾讯混元（Tencent Hunyuan）发布 OpenSearch-VL，一个开源的多模态搜索 Agent 训练框架，基于强化学习，包含专用数据策展、多样化工具调用能力和 RAG 循环，旨在训练前沿多模态搜索 Agent。该框架代码已开源。对小红书的搜索推荐团队探索多模态搜索 Agent 有直接参考价值，尤其是结合图文内容的搜索增强。",
+        "signal_strength": 0.7,
+        "sources": [
+          {
+            "name": "Arxiv (Tencent Hunyuan)",
+            "url": "https://huggingface.co/papers/2605.05185"
+          }
+        ],
+        "tags": [
+          "搜索与推荐",
+          "多模态",
+          "开源生态",
+          "Agent"
+        ],
+        "raw_item_indices": [
+          173
+        ]
+      },
+      {
+        "title": "Adobe Builds CX Enterprise Agent on NVIDIA NemoClaw: Enterprise Agent Strategy",
+        "signal_text": "Adobe 宣布在 NVIDIA 的 OpenShell runtime 上构建 Adobe CX Enterprise Coworker，品牌可使用 Adobe 的客户体验智能在 NVIDIA NemoClaw 平台上部署企业级 Agent。这标志着头部 SaaS 公司加速将 Agent 嵌入现有企业工作流（客户体验 CX），对小红书思考 Agent 在社区运营、内容分发等企业场景的落地有路径参考。",
+        "signal_strength": 0.68,
+        "sources": [
+          {
+            "name": "NVIDIA 官方 Twitter",
+            "url": "https://x.com/nvidia/status/2052067248857084091"
+          }
+        ],
+        "tags": [
+          "Agent",
+          "头部公司战略动作",
+          "企业服务"
+        ],
+        "raw_item_indices": [
+          125
+        ]
+      },
+      {
+        "title": "xAI Launches Image Generation Quality Mode on API: 300M+ Images Generated",
+        "signal_text": "xAI 官方宣布在 API 上推出 Image Generation Quality Mode，该模型已累计生成超 3 亿张图像，具有更高真实感、更强文本渲染和更好的创意控制能力。该功能面向商业专业人士，获 194 个 likes。这展示了 Grok 在多模态生成能力上的持续投入，对小红书在内容创作工具（如图文生成、封面图生成）的产品化有竞争参考。",
+        "signal_strength": 0.66,
+        "sources": [
+          {
+            "name": "xAI 官方 Twitter",
+            "url": "https://x.com/xai/status/2052193877675983031"
+          }
+        ],
+        "tags": [
+          "内容创作与理解",
+          "多模态生成",
+          "头部公司战略动作"
+        ],
+        "raw_item_indices": [
+          105
+        ]
+      }
     ]
   },
   "archived_weeks": [

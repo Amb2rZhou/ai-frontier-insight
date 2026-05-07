@@ -2,7 +2,7 @@
 title: Agent Frameworks
 type: technology
 created: 2026-02-25
-updated: 2026-05-03
+updated: 2026-05-07
 ---
 
 # Agent Frameworks
@@ -11,6 +11,13 @@ The rapidly evolving ecosystem of tools, SDKs, and platforms for building autono
 
 ## Timeline
 
+- **2026-05-07**: [[tencent|Tencent]] Hunyuan Releases OpenSearch-VL: Open-Source Multimodal Search Agent Framework
+- **2026-05-07**: [[nvidia|NVIDIA]] Releases TokenSpeed: Speed-of-Light Inference Engine for Agentic Workloads
+- **2026-05-06**: [[nvidia|NVIDIA]] Unveils Vera Rubin Platform Architecture for Agentic Workloads at Scale
+- **2026-05-06**: [[openai|OpenAI]] Releases Updated Agents SDK in TypeScript with Sandbox Harness
+- **2026-05-06**: AI Agent Skills Security: Research Reveals Supply-Chain Attack Vector via Open-Source Repos
+- **2026-05-06**: [[anthropic|Anthropic]] Model Spec Midtraining (MSM): A Practical Solution to Alignment Faking in AI Agents
+- **2026-05-06**: [[xai|xAI]] Releases [[grok|Grok]] 4.3: Topping Leaderboards in Agentic Tool Calling and Enterprise Domains
 - **2026-05-05**: [[openai|OpenAI]] Turns Sold-Out [[gpt|GPT-5]].5 Party into [[codex|Codex]] Rate Limit Giveaway for 8,000 Developers
 - **2026-05-03**: OpenHands 1.7.0 Adds KVM Acceleration for Sandbox, Boosting Code Agent Performance
 - **2026-05-03**: [[ollama|Ollama]] v0.23.0 Supports [[claude|Claude]] Desktop as Launch Target, Expanding Local AI Agent Workflows

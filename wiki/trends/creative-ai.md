@@ -2,7 +2,7 @@
 title: Creative AI
 type: trend
 created: 2026-03-08
-updated: 2026-05-02
+updated: 2026-05-07
 ---
 
 # Creative AI
@@ -13,6 +13,7 @@ AI-powered tools for image, video, audio, and 3D content generation.
 
 ## Timeline
 
+- **2026-05-07**: [[xai|xAI]] Launches Image Generation Quality Mode on API: 300M+ Images Generated
 - **2026-05-02**: InteractWeb-Bench: Interactive Benchmark for Multimodal Website Generation
 - **2026-05-02**: [[nvidia|NVIDIA]] Nemotron 3 Nano Omni: Efficient Open Multimodal Model
 - **2026-04-30**: Co-Director: [[google-deepmind|Google]]'s Hierarchical Multi-[[agent-frameworks|Agent Framework]] for Generative Video Storytelling

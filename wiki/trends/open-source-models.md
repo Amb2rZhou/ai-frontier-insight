@@ -2,7 +2,7 @@
 title: Open Source Models
 type: trend
 created: 2026-02-25
-updated: 2026-05-03
+updated: 2026-05-07
 ---
 
 # Open Source Models
@@ -13,6 +13,11 @@ The rapid proliferation of open-source and open-weight foundation models challen
 
 ## Timeline
 
+- **2026-05-07**: [[tencent|Tencent]] Hunyuan Releases OpenSearch-VL: Open-Source Multimodal Search [[agent-frameworks|Agent Framework]]
+- **2026-05-07**: Unsloth & [[nvidia|NVIDIA]] Collaboration Achieves 25% Faster LLM Training on Consumer GPUs
+- **2026-05-06**: [[nvidia|NVIDIA]] Releases Nemotron 3 Nano Omni: Efficient Open Multimodal Model for Edge Deployment
+- **2026-05-06**: [[openai|OpenAI]] Releases Updated Agents SDK in TypeScript with Sandbox Harness
+- **2026-05-06**: [[agent-frameworks|AI Agent]] Skills Security: Research Reveals Supply-Chain Attack Vector via Open-Source Repos
 - **2026-05-03**: OpenHands 1.7.0 Adds KVM Acceleration for Sandbox, Boosting Code Agent Performance
 - **2026-05-03**: [[ollama|Ollama]] v0.23.0 Supports [[claude|Claude]] Desktop as Launch Target, Expanding Local [[agent-frameworks|AI Agent]] Workflows
 - **2026-04-30**: Mistral AI Releases Mistral Medium 3.5: Open Vision Reasoning Model Rivals Models 6x Its Size

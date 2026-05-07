@@ -2,7 +2,7 @@
 title: xAI
 type: company
 created: 2026-02-25
-updated: 2026-05-05
+updated: 2026-05-07
 ---
 
 # xAI
@@ -11,6 +11,10 @@ Elon Musk's AI company, maker of [[grok|Grok]] models. Known for aggressive infr
 
 ## Timeline
 
+- **2026-05-07**: xAI Launches Image Generation Quality Mode on API: 300M+ Images Generated
+- **2026-05-07**: [[anthropic|Anthropic]] Rents Entire xAI Colossus 1 Compute (220K+ [[nvidia|NVIDIA]] GPUs): New Frontier Alliance
+- **2026-05-06**: Eight AI Companies Including [[google-deepmind|Google]], [[microsoft|Microsoft]], and [[openai|OpenAI]] Agree to Voluntary Model Sharing with Gov
+- **2026-05-06**: xAI Releases [[grok|Grok]] 4.3: Topping Leaderboards in [[agent-frameworks|Agentic]] Tool Calling and Enterprise Domains
 - **2026-05-05**: [[google-deepmind|Google]], [[microsoft|Microsoft]], xAI Agree to Share Early AI Models with U.S. Government
 - **2026-04-22**: SpaceX Announces Option to Acquire AI Coding Startup [[cursor-ai|Cursor]] for $60B · [TechCrunch](https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/) · [The Verge](https://www.theverge.com/science/916427/spacex-cursor-potential-deal-acquisition) · [Reuters (via Hacker News)](https://twitter.com/spacex/status/2046713419978453374)
 - **2026-04-18**: xAI Launches [[grok|Grok]] 4.3 Beta with Multi-Format File Creation · [@minchoi Twitter](https://x.com/minchoi/status/2045223250284650960) · [@DeryaTR_ Twitter](https://x.com/DeryaTR_/status/2045206007588995435)

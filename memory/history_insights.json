@@ -1,66 +1,6 @@
 {
   "predictions": [
     {
-      "date": "2026-04-27T11:10:49.274703+08:00",
-      "prediction_text": "社区平台的AI创作助手可参考Codex的交互范式，将编程Agent转化为内容编辑Agent。",
-      "category": "strategic_move",
-      "source_signal": "Codex Traffic Surge Prompts OpenAI to Scale Compute, CEO Signals Strong Demand"
-    },
-    {
-      "date": "2026-04-27T11:10:49.287018+08:00",
-      "prediction_text": "内容平台的Agent或推荐管线可重新评估DeepSeek作为成本敏感场景的底层模型选项。",
-      "category": "strategic_move",
-      "source_signal": "DeepSeek API Price Cut: Input Cache Hits Reduced to 1/10 of Original Price"
-    },
-    {
-      "date": "2026-04-27T11:10:49.298706+08:00",
-      "prediction_text": "内容安全团队可集成该模型至客户端，实现隐私泄露的即时过滤并减少对后端审核的依赖。",
-      "category": "open_source",
-      "source_signal": "OpenAI Releases Privacy Filter Model on HuggingFace for Content Safety"
-    },
-    {
-      "date": "2026-04-27T11:10:49.311012+08:00",
-      "prediction_text": "多模态生成团队可跟踪连续扩散模型进展，评估其替换离散范式以降低图像/视频生成成本。",
-      "category": "research_breakthrough",
-      "source_signal": "Multi-Paper Revival of Continuous Methods for Language Diffusion Models"
-    },
-    {
-      "date": "2026-04-27T11:10:49.321047+08:00",
-      "prediction_text": "推荐系统可探索长期记忆增强的信号缓存层，让Agent保留用户偏好并在会话间复用。",
-      "category": "research_breakthrough",
-      "source_signal": "Stanford Chelsea Finn Talks Long-Term Memory for Autonomy at ICLR 2026 Workshop"
-    },
-    {
-      "date": "2026-04-27T11:10:49.329672+08:00",
-      "prediction_text": "内容生产与审核团队可评估此框架作为多Agent协作的底层编排工具，降低运维复杂度。",
-      "category": "infrastructure",
-      "source_signal": "Open Source Multi-Agent Framework 'harmonist' with 186 Agents and Zero Runtime Dependencies Reaches 696 Stars"
-    },
-    {
-      "date": "2026-04-27T11:10:49.336321+08:00",
-      "prediction_text": "社区平台的AI伦理委员会可参考其五项原则，输出适配自身社区生态的透明AI准则。",
-      "category": "strategic_move",
-      "source_signal": "OpenAI Publishes 'Our Principles' Blog: Democratization, Empowerment, Universal Prosperity"
-    },
-    {
-      "date": "2026-04-27T11:10:49.343327+08:00",
-      "prediction_text": "内部Agent平台可集成tracing与评估管线，确保多Agent系统在审核与推荐中的可追溯性。",
-      "category": "infrastructure",
-      "source_signal": "CNCF-Style Open Source Project 'future-agi' for LLM Agent Evaluation and Observability Reaches 555 Stars"
-    },
-    {
-      "date": "2026-04-27T11:10:49.350215+08:00",
-      "prediction_text": "内容平台可与专业领域合作，用类似临床基准评估内容生成质量，提升垂类可信度。",
-      "category": "research_breakthrough",
-      "source_signal": "OpenAI Benchmarks ChatGPT for Clinical Use: New Dataset on HuggingFace"
-    },
-    {
-      "date": "2026-04-28T09:33:53.018016+08:00",
-      "prediction_text": "内容平台的AI Agent推理层可考虑多云部署，降低对单一云厂商的依赖。",
-      "category": "ecosystem_shift",
-      "source_signal": "Microsoft and OpenAI Gut Exclusive Deal, OpenAI Gains Freedom to Sell on AWS and Google Cloud"
-    },
-    {
       "date": "2026-04-28T09:33:53.034303+08:00",
       "prediction_text": "内容平台的推荐系统可评估RL从环境交互中学习用户偏好的可行性。",
       "category": "research_breakthrough",
@@ -599,6 +539,66 @@
       "prediction_text": "推荐/搜索团队可以评估 IKBO 思路，在 PyTorch 推理栈中引入 similar 的 in-kernel 广播，减少访存瓶颈。",
       "category": "research_breakthrough",
       "source_signal": "Meta's In-Kernel Broadcast Optimization (IKBO) for Large-Scale Recommendation System Inference"
+    },
+    {
+      "date": "2026-05-07T16:58:52.500258+08:00",
+      "prediction_text": "建议关注头部模型API定价波动。内容平台可提前锁定长期算力合约，对冲上游成本风险。",
+      "category": "strategic_move",
+      "source_signal": "Anthropic Rents Entire xAI Colossus 1 Compute (220K+ NVIDIA GPUs): New Frontier Alliance"
+    },
+    {
+      "date": "2026-05-07T16:58:52.522245+08:00",
+      "prediction_text": "电商平台可评估将推荐系统的排序/重排模型替换为TokenSpeed部署，降低延迟与TCO。",
+      "category": "infrastructure",
+      "source_signal": "NVIDIA Releases TokenSpeed: Speed-of-Light Inference Engine for Agentic Workloads"
+    },
+    {
+      "date": "2026-05-07T16:58:52.530420+08:00",
+      "prediction_text": "内容平台的创作者工具团队可评估ProgramBench评估自家AI代码助手，优先解决模块化维护问题。",
+      "category": "research_breakthrough",
+      "source_signal": "Meta Superintelligence Lab Publishes ProgramBench: Can AI Rebuild Real-World Programs from Scratch?"
+    },
+    {
+      "date": "2026-05-07T16:58:52.538286+08:00",
+      "prediction_text": "建议关注MRC开源进展，社区平台自建训练集群可评估引入该协议以提升稳定性。",
+      "category": "infrastructure",
+      "source_signal": "OpenAI's New Multipath Reliable Connection (MRC) Protocol for Large-Scale AI Training"
+    },
+    {
+      "date": "2026-05-07T16:58:52.545790+08:00",
+      "prediction_text": "推荐/搜索团队可利用此技术快速迭代垂直场景的轻量排序模型，缩短实验周期。",
+      "category": "open_source",
+      "source_signal": "Unsloth & NVIDIA Collaboration Achieves 25% Faster LLM Training on Consumer GPUs"
+    },
+    {
+      "date": "2026-05-07T16:58:52.553402+08:00",
+      "prediction_text": "建议社区平台优先聚焦垂直Agent场景（如购物助手、活动策划），而非押注通用浏览器Agent。",
+      "category": "strategic_move",
+      "source_signal": "Google Shuts Down Project Mariner: Experimental Web Agent Feature Discontinued"
+    },
+    {
+      "date": "2026-05-07T16:58:52.563664+08:00",
+      "prediction_text": "搜索增强团队在构建长文档RAG时，应优先设计多段检索+摘要策略，而非直接依赖模型长上下文能力。",
+      "category": "research_breakthrough",
+      "source_signal": "Obliq-Bench: Ambitious IR Benchmark for Long-Context Search Evaluation"
+    },
+    {
+      "date": "2026-05-07T16:58:52.572599+08:00",
+      "prediction_text": "搜索团队可直接在OpenSearch-VL基础上定制图文搜索Agent，加速多模态搜索从实验到落地。",
+      "category": "open_source",
+      "source_signal": "Tencent Hunyuan Releases OpenSearch-VL: Open-Source Multimodal Search Agent Framework"
+    },
+    {
+      "date": "2026-05-07T16:58:52.580168+08:00",
+      "prediction_text": "内容平台的社区运营团队可探索将Agent嵌入创作者入驻流程、活动运营等闭环场景。",
+      "category": "strategic_move",
+      "source_signal": "Adobe Builds CX Enterprise Agent on NVIDIA NemoClaw: Enterprise Agent Strategy"
+    },
+    {
+      "date": "2026-05-07T16:58:52.587640+08:00",
+      "prediction_text": "内容创作者工具团队可评估Grok API作为封面图/商品海报生成的后备供应商，丰富生成风格。",
+      "category": "ecosystem_shift",
+      "source_signal": "xAI Launches Image Generation Quality Mode on API: 300M+ Images Generated"
     }
   ]
 }

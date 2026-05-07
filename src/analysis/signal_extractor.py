@@ -111,15 +111,25 @@ def extract_signals(raw_items: List[RawItem]) -> Optional[List[Dict]]:
     print(f"  Prompt size: {len(prompt)} chars")
 
     # Use Haiku for cost efficiency (high volume filtering)
-    response = call_ai(prompt, "signal_extraction", use_sonnet=False, max_tokens=8192)
-    if not response:
-        print("  Signal extraction failed: no AI response")
-        return None
+    # Retry up to 3 times on JSON parse failure — DeepSeek occasionally emits malformed JSON
+    # (mid-string structural breaks that the char-level fix attempts can't repair)
+    parsed = None
+    last_error_pos = None
+    for attempt in range(1, 4):
+        response = call_ai(prompt, "signal_extraction", use_sonnet=False, max_tokens=8192)
+        if not response:
+            print(f"  Signal extraction attempt {attempt}/3 failed: no AI response")
+            continue
 
-    # Parse JSON response
-    parsed = parse_json_response(response)
+        parsed = parse_json_response(response)
+        if parsed:
+            if attempt > 1:
+                print(f"  Signal extraction succeeded on attempt {attempt}/3")
+            break
+        print(f"  Signal extraction attempt {attempt}/3 failed: bad JSON, retrying...")
+
     if not parsed:
-        print("  Signal extraction failed: could not parse JSON response")
+        print("  Signal extraction failed after 3 attempts")
         return None
 
     signals = parsed.get("signals", [])
