@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-05-07T04:50:33.974489",
+  "scraped_at": "2026-05-07T09:22:48.618336",
   "date": "2026-05-07",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 82,
-  "account_count": 43,
+  "tweet_count": 109,
+  "account_count": 56,
   "tweets": [
     {
       "id": "2052056038648779013",
@@ -951,6 +951,323 @@
       "likes": 3723,
       "retweets": 298,
       "views": 1622734
+    },
+    {
+      "id": "2052196473736200318",
+      "username": "alexandr_wang",
+      "text": "congrats to the @scale_AI team!",
+      "timestamp": "2026-05-07T01:19:01+00:00",
+      "url": "https://x.com/alexandr_wang/status/2052196473736200318",
+      "images": [],
+      "likes": 8,
+      "retweets": 0,
+      "views": 277
+    },
+    {
+      "id": "2052193877675983031",
+      "username": "xai",
+      "text": "Image Generation Quality Mode is now available on the xAI API. \n\nThis model has already powered the generation of over 300 million images on Grok. \n\nIt brings higher realism, stronger text rendering, and better creative control for business professionals.\n\nhttps://t.co/se5D7T5RJW",
+      "timestamp": "2026-05-07T01:08:43+00:00",
+      "url": "https://x.com/xai/status/2052193877675983031",
+      "images": [],
+      "likes": 194,
+      "retweets": 30,
+      "views": 16393
+    },
+    {
+      "id": "2052191685166190815",
+      "username": "googledevs",
+      "text": "These butterflies are moving at 720 BPM. 🦋\n\nThe #GoogleIO livestream schedule drop just hit and the track list is looking epic. Check out the lineup here → https://t.co/hghnt3f41I https://t.co/YwlbGFjp4z",
+      "timestamp": "2026-05-07T01:00:00+00:00",
+      "url": "https://x.com/googledevs/status/2052191685166190815",
+      "images": [],
+      "likes": 12,
+      "retweets": 4,
+      "views": 1145
+    },
+    {
+      "id": "2052190385884020856",
+      "username": "emollick",
+      "text": "Every so often I think about how, in 2022, for $24B we could had \"prototype vaccines ready for each of the 26 known viral families that cause human disease\" so they can be deployed in 100 days if there was ever a need.\n\nThis effort was not funded. https://t.co/TJBuqp69Nn https://t.co/iQrrfWOm1H",
+      "timestamp": "2026-05-07T00:54:50+00:00",
+      "url": "https://x.com/emollick/status/2052190385884020856",
+      "images": [
+        "https://pbs.twimg.com/media/HHrYR9OXkAQ-oyA.jpg"
+      ],
+      "likes": 36,
+      "retweets": 5,
+      "views": 2284
+    },
+    {
+      "id": "2052190129591079387",
+      "username": "GaryMarcus",
+      "text": "Hot take on Elon’s surprise decision to rent 30 megawatts of compute to Anthropic:\n\n1. It’s a tacit concession that xAI is not all that close to AGI (despite what he suggested last year).\n\n2. It’s more evidence that pure scaling doesn’t get you to AGI.\n\n3. If xAI turns out to be",
+      "timestamp": "2026-05-07T00:53:49+00:00",
+      "url": "https://x.com/GaryMarcus/status/2052190129591079387",
+      "images": [],
+      "likes": 38,
+      "retweets": 7,
+      "views": 3205
+    },
+    {
+      "id": "2052189332191215682",
+      "username": "npew",
+      "text": "Inspiring to see what students are building with ChatGPT.",
+      "timestamp": "2026-05-07T00:50:39+00:00",
+      "url": "https://x.com/npew/status/2052189332191215682",
+      "images": [],
+      "likes": 4,
+      "retweets": 0,
+      "views": 414
+    },
+    {
+      "id": "2052165521085432039",
+      "username": "SebastienBubeck",
+      "text": "get ready for the Great Divergence!",
+      "timestamp": "2026-05-06T23:16:02+00:00",
+      "url": "https://x.com/SebastienBubeck/status/2052165521085432039",
+      "images": [],
+      "likes": 41,
+      "retweets": 0,
+      "views": 5429
+    },
+    {
+      "id": "2052162508287570169",
+      "username": "thsottiaux",
+      "text": "We are seeing strong traction and working to improve Codex for scientists across mathematics, physics, chemistry, biology and more. \n\nWhat do you wish it were capable of that it cannot do today?",
+      "timestamp": "2026-05-06T23:04:03+00:00",
+      "url": "https://x.com/thsottiaux/status/2052162508287570169",
+      "images": [],
+      "likes": 903,
+      "retweets": 28,
+      "views": 35785
+    },
+    {
+      "id": "2052156784778043659",
+      "username": "gdb",
+      "text": "codex is for everyone",
+      "timestamp": "2026-05-06T22:41:19+00:00",
+      "url": "https://x.com/gdb/status/2052156784778043659",
+      "images": [],
+      "likes": 299,
+      "retweets": 10,
+      "views": 22659
+    },
+    {
+      "id": "2052153894017630616",
+      "username": "paraga",
+      "text": "We need more long-horizon real-world work benchmarks like this. \n\nExcited to help add the web to the environment/tools in this benchmark!",
+      "timestamp": "2026-05-06T22:29:50+00:00",
+      "url": "https://x.com/paraga/status/2052153894017630616",
+      "images": [],
+      "likes": 48,
+      "retweets": 5,
+      "views": 7074
+    },
+    {
+      "id": "2052149977691123815",
+      "username": "jackclarkSF",
+      "text": "Very nice post pushing back on my \"RSI 60% by EOY 2028\" claim. I particularly like how @sudoraohacker surfaces some hard benchmarks that give him a more bearish view on RSI (though he still thinks possible in ~10 years). https://t.co/fLEiHDUHQg",
+      "timestamp": "2026-05-06T22:14:16+00:00",
+      "url": "https://x.com/jackclarkSF/status/2052149977691123815",
+      "images": [
+        "https://pbs.twimg.com/media/HHqzV2hbwAAL9c0.jpg",
+        "https://pbs.twimg.com/media/HHqzV2haYAAeFSp.jpg",
+        "https://pbs.twimg.com/media/HHqzV2iaUAA89hZ.jpg"
+      ],
+      "likes": 129,
+      "retweets": 13,
+      "views": 19993
+    },
+    {
+      "id": "2052149175513735263",
+      "username": "DeryaTR_",
+      "text": "AI will save countless lives; no other advance in human history will even come close! Pancreatic cancer is curable with early detection but is one of the most deadly cancers when it’s too late.",
+      "timestamp": "2026-05-06T22:11:05+00:00",
+      "url": "https://x.com/DeryaTR_/status/2052149175513735263",
+      "images": [],
+      "likes": 63,
+      "retweets": 13,
+      "views": 4819
+    },
+    {
+      "id": "2052146469768180008",
+      "username": "a16z",
+      "text": "A tidal wade of vibecoded apps is hitting the app store\n\nhttps://t.co/0gL5mdffKD https://t.co/W94iVAsFAl",
+      "timestamp": "2026-05-06T22:00:20+00:00",
+      "url": "https://x.com/a16z/status/2052146469768180008",
+      "images": [
+        "https://pbs.twimg.com/media/HHqwVpIbUAA1v3D.jpg"
+      ],
+      "likes": 90,
+      "retweets": 6,
+      "views": 17365
+    },
+    {
+      "id": "2052145762650431840",
+      "username": "ArtificialAnlys",
+      "text": "Artificial Analysis is partnering with Harvey on their new Legal Agent Benchmark!\n\nHarvey’s Legal Agent Benchmark (LAB) is an agent-native take on how AI should be contributing to legal work in 2026 - made up 1200 agentic tasks across 24 practice areas. It’s highly aligned with",
+      "timestamp": "2026-05-06T21:57:31+00:00",
+      "url": "https://x.com/ArtificialAnlys/status/2052145762650431840",
+      "images": [],
+      "likes": 43,
+      "retweets": 2,
+      "views": 4858
+    },
+    {
+      "id": "2052144503595716790",
+      "username": "steipete",
+      "text": "closed source, open source, nothing can stop codex. https://t.co/Zua5EeYkOw",
+      "timestamp": "2026-05-06T21:52:31+00:00",
+      "url": "https://x.com/steipete/status/2052144503595716790",
+      "images": [
+        "https://pbs.twimg.com/media/HHqugHpWAAIT7M9.jpg"
+      ],
+      "likes": 371,
+      "retweets": 15,
+      "views": 25456
+    },
+    {
+      "id": "2052140766571487242",
+      "username": "minchoi",
+      "text": "SpaceX / xAI orbital datacenters will be wild... https://t.co/VUW41HE9tK",
+      "timestamp": "2026-05-06T21:37:40+00:00",
+      "url": "https://x.com/minchoi/status/2052140766571487242",
+      "images": [
+        "https://pbs.twimg.com/media/HHqrFmFXYAgNMb9.jpg"
+      ],
+      "likes": 85,
+      "retweets": 10,
+      "views": 7264
+    },
+    {
+      "id": "2052139954042806773",
+      "username": "OfficialLoganK",
+      "text": "Hot take, the models are not going to converge in the way that most folks talk about",
+      "timestamp": "2026-05-06T21:34:26+00:00",
+      "url": "https://x.com/OfficialLoganK/status/2052139954042806773",
+      "images": [],
+      "likes": 872,
+      "retweets": 37,
+      "views": 66449
+    },
+    {
+      "id": "2052138007994716180",
+      "username": "a16z",
+      "text": "The majority of new jobs created since 1940 didn’t even exist in 1940.\n\nThere is no fixed \"lump of labor\". Again and again, new technologies create new jobs.\n\na16z's David George dismantles the \"AI job apocalypse\" myth: https://t.co/0gL5mdffKD https://t.co/Lnz3YZEClv",
+      "timestamp": "2026-05-06T21:26:42+00:00",
+      "url": "https://x.com/a16z/status/2052138007994716180",
+      "images": [
+        "https://pbs.twimg.com/media/HHqopJxaIAANrtt.jpg"
+      ],
+      "likes": 368,
+      "retweets": 59,
+      "views": 47204
+    },
+    {
+      "id": "2052134241132036103",
+      "username": "TLOgg",
+      "text": "Knowing how insanely cut-throat EVE is it makes me worried about alignment.😀\n\nGenuinely cool though, EVE is such a fascinating simulation I'm sure Deepmind will get a ton of interesting data out of it. Video games can be such great experiments for machine learning.",
+      "timestamp": "2026-05-06T21:11:44+00:00",
+      "url": "https://x.com/TLOgg/status/2052134241132036103",
+      "images": [],
+      "likes": 2,
+      "retweets": 0,
+      "views": 688
+    },
+    {
+      "id": "2052132969121202353",
+      "username": "Azure",
+      "text": "Europe’s demand for cloud and AI continues to grow. Azure is expanding its datacenter footprint across Europe to support scale, performance, and compliance.\n \nLearn more: https://t.co/NW8aQMRpRG",
+      "timestamp": "2026-05-06T21:06:41+00:00",
+      "url": "https://x.com/Azure/status/2052132969121202353",
+      "images": [],
+      "likes": 18,
+      "retweets": 3,
+      "views": 2548
+    },
+    {
+      "id": "2052132331364790655",
+      "username": "lateinteraction",
+      "text": "who’s doing this, i think obliq-bench is essentially the best and most natural task i know of for showing that no long-context LLM works past 200k tokens",
+      "timestamp": "2026-05-06T21:04:09+00:00",
+      "url": "https://x.com/lateinteraction/status/2052132331364790655",
+      "images": [],
+      "likes": 45,
+      "retweets": 1,
+      "views": 3699
+    },
+    {
+      "id": "2052067248857084091",
+      "username": "nvidia",
+      "text": ".@Adobe is building Adobe CX Enterprise Coworker on NemoClaw.\n\nAnil Chakravarthy, President of CX Orchestration Business at Adobe, explains how brands can deploy Adobe’s customer experience intelligence within NVIDIA's OpenShell runtime  — keeping enterprise agents governed, https://t.co/EruhPLHySN",
+      "timestamp": "2026-05-06T16:45:32+00:00",
+      "url": "https://x.com/nvidia/status/2052067248857084091",
+      "images": [],
+      "likes": 104,
+      "retweets": 11,
+      "views": 15548
+    },
+    {
+      "id": "2052020656527532276",
+      "username": "UnslothAI",
+      "text": "We collaborated with NVIDIA to teach you how we made LLM training ~25% faster! 🚀\n\nLearn how 3 optimizations help your home GPU train models faster:\n1. Packed-sequence metadata caching\n2. Double-buffered checkpoint reloads\n3. Faster MoE routing\n\nGuide: https://t.co/nwvVfNC8XE https://t.co/j4NCke2F5o",
+      "timestamp": "2026-05-06T13:40:23+00:00",
+      "url": "https://x.com/UnslothAI/status/2052020656527532276",
+      "images": [
+        "https://pbs.twimg.com/media/HHo96bAaUAEA762.jpg"
+      ],
+      "likes": 607,
+      "retweets": 100,
+      "views": 30726
+    },
+    {
+      "id": "2051385505665941678",
+      "username": "Miles_Brundage",
+      "text": "The headline is a bit misleading here since the proposed EO would explore options rather than immediately go towards pre-deployment government approval.\n\nHowever, clearly the vibes have shifted a lot. https://t.co/ob0nIfSfOs",
+      "timestamp": "2026-05-04T19:36:32+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2051385505665941678",
+      "images": [],
+      "likes": 34,
+      "retweets": 5,
+      "views": 4278
+    },
+    {
+      "id": "2051318954132426787",
+      "username": "minchoi",
+      "text": "Anthropic is reportedly eyeing Fractile.\n\nA UK chip startup claiming 100x faster AI inference and 10x lower cost.\n\nAnthropic is going after inference. 👀 https://t.co/YY0gIldWYv",
+      "timestamp": "2026-05-04T15:12:04+00:00",
+      "url": "https://x.com/minchoi/status/2051318954132426787",
+      "images": [
+        "https://pbs.twimg.com/media/HHe_Ym7WwAAEY4X.jpg"
+      ],
+      "likes": 167,
+      "retweets": 16,
+      "views": 15321
+    },
+    {
+      "id": "2051011229674508485",
+      "username": "steipete",
+      "text": "Codex... what is this... are these signs of CHARACTER? https://t.co/mFZhLbkAW2",
+      "timestamp": "2026-05-03T18:49:17+00:00",
+      "url": "https://x.com/steipete/status/2051011229674508485",
+      "images": [
+        "https://pbs.twimg.com/media/HHany_xXoAA_d_x.png"
+      ],
+      "likes": 694,
+      "retweets": 7,
+      "views": 100623
+    },
+    {
+      "id": "2049666172208210378",
+      "username": "natolambert",
+      "text": "PhD students are normally known by their 1 biggest papers. It’ll be “oh you’re the X guy”.",
+      "timestamp": "2026-04-30T01:44:31+00:00",
+      "url": "https://x.com/natolambert/status/2049666172208210378",
+      "images": [],
+      "likes": 563,
+      "retweets": 22,
+      "views": 122074
     }
   ]
 }
