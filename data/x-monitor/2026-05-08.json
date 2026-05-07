@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-05-08T01:27:20.442989",
+  "scraped_at": "2026-05-08T05:31:18.703669",
   "date": "2026-05-08",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 30,
-  "account_count": 23,
+  "tweet_count": 68,
+  "account_count": 41,
   "tweets": [
     {
       "id": "2052435443875193030",
@@ -354,6 +354,436 @@
       "likes": 5796,
       "retweets": 661,
       "views": 956266
+    },
+    {
+      "id": "2052499815477764184",
+      "username": "GaryMarcus",
+      "text": "“they hadn’t figured out how OpenAI would pay for it” may turn out to be the epitaph for an entire era. 🪦\n\nscoop from @anissagardizy8 @theinformation, and credit her with the great line “OpenAI has made a habit of announcing landmark partnerships without ironing out the details”",
+      "timestamp": "2026-05-07T21:24:24+00:00",
+      "url": "https://x.com/GaryMarcus/status/2052499815477764184",
+      "images": [],
+      "likes": 7,
+      "retweets": 1,
+      "views": 518
+    },
+    {
+      "id": "2052497181702250503",
+      "username": "AravSrinivas",
+      "text": "Monitor the Situation \nhttps://t.co/TLkTfvJLLR",
+      "timestamp": "2026-05-07T21:13:56+00:00",
+      "url": "https://x.com/AravSrinivas/status/2052497181702250503",
+      "images": [],
+      "likes": 25,
+      "retweets": 3,
+      "views": 1670
+    },
+    {
+      "id": "2052495856813981753",
+      "username": "NVIDIAAI",
+      "text": "Perplexity runs on NVIDIA. \n\nNice breakdown from the team on how they’re using the CUTLASS Python stack to optimize their models for inference 👇",
+      "timestamp": "2026-05-07T21:08:40+00:00",
+      "url": "https://x.com/NVIDIAAI/status/2052495856813981753",
+      "images": [],
+      "likes": 28,
+      "retweets": 4,
+      "views": 2290
+    },
+    {
+      "id": "2052495301504590171",
+      "username": "iamtrask",
+      "text": "Future historians might say that cybersecurity was unsolvable *until* tools like Mythos came around and plugged all the holes.",
+      "timestamp": "2026-05-07T21:06:28+00:00",
+      "url": "https://x.com/iamtrask/status/2052495301504590171",
+      "images": [],
+      "likes": 2,
+      "retweets": 0,
+      "views": 275
+    },
+    {
+      "id": "2052494961564893317",
+      "username": "sleepinyourhat",
+      "text": "🧫 Petri, our open-source interactive behavioral-evals tool for alignment testing, is now a freestanding project living with Meridian!\n\nTry it out, and consider contributing!",
+      "timestamp": "2026-05-07T21:05:07+00:00",
+      "url": "https://x.com/sleepinyourhat/status/2052494961564893317",
+      "images": [],
+      "likes": 4,
+      "retweets": 2,
+      "views": 574
+    },
+    {
+      "id": "2052494460966019137",
+      "username": "AnthropicAI",
+      "text": "We’re donating Petri, our open-source alignment tool, to @meridianlabs_ai, so its development can continue independently.\n\nWorking with Meridian Labs, we’ve also released a major update that improves the adaptability, realism, and depth of Petri’s tests.\n\nhttps://t.co/CyicsIScJi",
+      "timestamp": "2026-05-07T21:03:07+00:00",
+      "url": "https://x.com/AnthropicAI/status/2052494460966019137",
+      "images": [],
+      "likes": 283,
+      "retweets": 25,
+      "views": 18347
+    },
+    {
+      "id": "2052493204319252725",
+      "username": "googledevs",
+      "text": "Learn how to use Google Cloud with cutting-edge agentic technologies to simulate city-scale events 🌟 → https://t.co/CoaGfHSkvg \n\nDiscover a multi-agent sandbox for planning and simulating a marathon by combining the Agent Development Kit with Gemini Enterprise Agent Platform, https://t.co/EPsybS2QKI",
+      "timestamp": "2026-05-07T20:58:08+00:00",
+      "url": "https://x.com/googledevs/status/2052493204319252725",
+      "images": [],
+      "likes": 11,
+      "retweets": 2,
+      "views": 1406
+    },
+    {
+      "id": "2052487847945589118",
+      "username": "DeryaTR_",
+      "text": "Wow! I didn’t realize you can do this with Codex! So cool!",
+      "timestamp": "2026-05-07T20:36:50+00:00",
+      "url": "https://x.com/DeryaTR_/status/2052487847945589118",
+      "images": [],
+      "likes": 33,
+      "retweets": 1,
+      "views": 3661
+    },
+    {
+      "id": "2052486691894780305",
+      "username": "nvidia",
+      "text": "AI will help build the energy it needs.\n\nAt the #SCSPAIExpo, NVIDIA's Ian Buck spoke to two decades of NVIDIA supercomputing with the national labs, and a Genesis Mission ready to deliver.\n\n\"NVIDIA is 100% committed and invested in Genesis.\" — Ian Buck\n\nRead the full recap:",
+      "timestamp": "2026-05-07T20:32:15+00:00",
+      "url": "https://x.com/nvidia/status/2052486691894780305",
+      "images": [],
+      "likes": 47,
+      "retweets": 10,
+      "views": 12214
+    },
+    {
+      "id": "2052486085226184742",
+      "username": "steipete",
+      "text": "Had the honor of mentoring some of the folks in the ChatGPT Future Class of 2026 this year.\n\nShoutout to @arhan_menta @nayelr_ @rushilkukreja who built Wi-Find, a system that detects disaster survivors through walls and debris using AI. https://t.co/fbEq6XzHwm https://t.co/FGZLGSHgE2",
+      "timestamp": "2026-05-07T20:29:50+00:00",
+      "url": "https://x.com/steipete/status/2052486085226184742",
+      "images": [
+        "https://pbs.twimg.com/media/HHvkV3gX0AM6QG-.jpg"
+      ],
+      "likes": 51,
+      "retweets": 1,
+      "views": 5547
+    },
+    {
+      "id": "2052485051812909530",
+      "username": "sama",
+      "text": "way cooler to help software developers pokemon-evolve into superheroes than to try to replace them\n\nit is insane what one really good person can do now https://t.co/iEqSQHgg5B",
+      "timestamp": "2026-05-07T20:25:44+00:00",
+      "url": "https://x.com/sama/status/2052485051812909530",
+      "images": [
+        "https://pbs.twimg.com/media/HHvkNeGbgAAXW_6.jpg"
+      ],
+      "likes": 1535,
+      "retweets": 86,
+      "views": 78056
+    },
+    {
+      "id": "2052484599926960552",
+      "username": "jeremyphoward",
+      "text": "The only correct answer when a VC asks: \"What's your moat?\"",
+      "timestamp": "2026-05-07T20:23:56+00:00",
+      "url": "https://x.com/jeremyphoward/status/2052484599926960552",
+      "images": [],
+      "likes": 46,
+      "retweets": 5,
+      "views": 3237
+    },
+    {
+      "id": "2052481136971125158",
+      "username": "OpenAIDevs",
+      "text": "Codex can now take on more of your browser dev work.\n\nWith the new Chrome plugin in the Codex app, it can test web apps, gather context across tabs, use web DevTools efficiently in parallel, and keep results organized without taking over your browser. https://t.co/T6LwuPCUr5",
+      "timestamp": "2026-05-07T20:10:10+00:00",
+      "url": "https://x.com/OpenAIDevs/status/2052481136971125158",
+      "images": [],
+      "likes": 653,
+      "retweets": 43,
+      "views": 42260
+    },
+    {
+      "id": "2052480998668206262",
+      "username": "gdb",
+      "text": "have been excited for realtime voice-to-voice translation as an AI application since we started OpenAI. extremely cool to see it now available in the API for anyone to build with:",
+      "timestamp": "2026-05-07T20:09:37+00:00",
+      "url": "https://x.com/gdb/status/2052480998668206262",
+      "images": [],
+      "likes": 276,
+      "retweets": 13,
+      "views": 26960
+    },
+    {
+      "id": "2052480436014575874",
+      "username": "Azure",
+      "text": "Microsoft Build: Two days of real systems and real workflows for building and scaling in the AI era.\n\nJune 2–3, 2026 / San Francisco. Registration is now open: https://t.co/Xg3IS7Vgnr https://t.co/6A7gujiNfa",
+      "timestamp": "2026-05-07T20:07:23+00:00",
+      "url": "https://x.com/Azure/status/2052480436014575874",
+      "images": [],
+      "likes": 6,
+      "retweets": 1,
+      "views": 1599
+    },
+    {
+      "id": "2052478103297917178",
+      "username": "boazbaraktcs",
+      "text": "The final straw",
+      "timestamp": "2026-05-07T19:58:07+00:00",
+      "url": "https://x.com/boazbaraktcs/status/2052478103297917178",
+      "images": [],
+      "likes": 15,
+      "retweets": 1,
+      "views": 1675
+    },
+    {
+      "id": "2052478028589281641",
+      "username": "DeryaTR_",
+      "text": "Jevons’s paradox is the most important conceptual paradox everyone should understand well in the age of AI. While many jobs will be disrupted, many more new opportunities will appear due to this paradox. https://t.co/IYMHBoR0lW",
+      "timestamp": "2026-05-07T19:57:49+00:00",
+      "url": "https://x.com/DeryaTR_/status/2052478028589281641",
+      "images": [
+        "https://pbs.twimg.com/media/HHvd49ybcAAkxqQ.jpg"
+      ],
+      "likes": 27,
+      "retweets": 7,
+      "views": 2426
+    },
+    {
+      "id": "2052476981648789540",
+      "username": "mathemagic1an",
+      "text": "Love this line of research\n\nLook at animations to discover low-dimensional manifolds in activation space representing high-level concepts\n\nDeep learning is not the black box your ML professor  you 10 years ago",
+      "timestamp": "2026-05-07T19:53:40+00:00",
+      "url": "https://x.com/mathemagic1an/status/2052476981648789540",
+      "images": [],
+      "likes": 1,
+      "retweets": 0,
+      "views": 419
+    },
+    {
+      "id": "2052469546288881784",
+      "username": "NVIDIARobotics",
+      "text": "No weekend plans? \n\nCome build at the SF Physical AI Hackathon 👀",
+      "timestamp": "2026-05-07T19:24:07+00:00",
+      "url": "https://x.com/NVIDIARobotics/status/2052469546288881784",
+      "images": [],
+      "likes": 13,
+      "retweets": 1,
+      "views": 1509
+    },
+    {
+      "id": "2052469406232658001",
+      "username": "AravSrinivas",
+      "text": "1. We’re deprecating the legacy Perplexity Mac App to a new one that will have Personal Computer front and center \n\n2. Personal Computer is a version of Perplexity Computer purpose built to control local apps and files on the Mac\n\n3. Personal Computer is now available to both Pro",
+      "timestamp": "2026-05-07T19:23:34+00:00",
+      "url": "https://x.com/AravSrinivas/status/2052469406232658001",
+      "images": [],
+      "likes": 205,
+      "retweets": 5,
+      "views": 24943
+    },
+    {
+      "id": "2052469248975671524",
+      "username": "NVIDIAAI",
+      "text": "Great new benchmark from @harvey.\n\nWe need more benchmarks that measure agent performance on real workflows and long-horizon tasks. Excited to collaborate with Harvey for the legal domain.",
+      "timestamp": "2026-05-07T19:22:56+00:00",
+      "url": "https://x.com/NVIDIAAI/status/2052469248975671524",
+      "images": [],
+      "likes": 29,
+      "retweets": 6,
+      "views": 4252
+    },
+    {
+      "id": "2052466175540629965",
+      "username": "AnthropicAI",
+      "text": "Our security bug bounty program is now public on HackerOne. \n\nWe've run the program privately within the security research community, and their findings have strengthened our products. Now anyone can report vulnerabilities and get rewarded. \n\nRead more: https://t.co/li1QvSTCMs",
+      "timestamp": "2026-05-07T19:10:43+00:00",
+      "url": "https://x.com/AnthropicAI/status/2052466175540629965",
+      "images": [],
+      "likes": 1344,
+      "retweets": 125,
+      "views": 100000
+    },
+    {
+      "id": "2052464165730898009",
+      "username": "Miles_Brundage",
+      "text": "World models have progressed an insane amount over the past few years + will continue to do so\n\nAlso it's easy to overestimate things based on clips, e.g. in only 2 cases is the \"player\" not moving in a straight line which presumably helps avoid glitching https://t.co/FGhRBgzs3n",
+      "timestamp": "2026-05-07T19:02:44+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2052464165730898009",
+      "images": [],
+      "likes": 16,
+      "retweets": 1,
+      "views": 1884
+    },
+    {
+      "id": "2052459769555046454",
+      "username": "GaryMarcus",
+      "text": "Fascinating: People who get advice from chatbots often take that advice – but rarely end up feeling any better.",
+      "timestamp": "2026-05-07T18:45:16+00:00",
+      "url": "https://x.com/GaryMarcus/status/2052459769555046454",
+      "images": [],
+      "likes": 30,
+      "retweets": 3,
+      "views": 4420
+    },
+    {
+      "id": "2052455007656554813",
+      "username": "GaryMarcus",
+      "text": "Many, many OpenAI employees quit over safety concerns, including @DKokotajlo, William Saunders, @sjgadler,  etc as well @Janleike. \n\nThe founders of Anthropic such as @DarioAmodei and @jackclarkSF may have left for similar reasons.\n\nDoes anybody have a full list?",
+      "timestamp": "2026-05-07T18:26:21+00:00",
+      "url": "https://x.com/GaryMarcus/status/2052455007656554813",
+      "images": [],
+      "likes": 41,
+      "retweets": 2,
+      "views": 6191
+    },
+    {
+      "id": "2052449977725534363",
+      "username": "ClementDelangue",
+      "text": "who’s adding this to reachy mini?",
+      "timestamp": "2026-05-07T18:06:22+00:00",
+      "url": "https://x.com/ClementDelangue/status/2052449977725534363",
+      "images": [],
+      "likes": 29,
+      "retweets": 4,
+      "views": 4452
+    },
+    {
+      "id": "2052449685600649515",
+      "username": "Azure",
+      "text": "Three audio models. One release. GPT-realtime-translate, GPT-realtime-whisper, and GPT-realtime-2 are rolling out in Microsoft Foundry starting today, expanding what's possible for voice applications on Azure.\n\nLearn what's new and how to get started:https://t.co/yjgnuGR9hV https://t.co/MoLM8sO2Wx",
+      "timestamp": "2026-05-07T18:05:12+00:00",
+      "url": "https://x.com/Azure/status/2052449685600649515",
+      "images": [],
+      "likes": 59,
+      "retweets": 11,
+      "views": 4290
+    },
+    {
+      "id": "2052449215322964411",
+      "username": "OpenAINewsroom",
+      "text": "We’re rolling out Trusted Contact in ChatGPT, a new optional safety feature that helps eligible users connect with someone they trust during moments of emotional crisis.\n\nhttps://t.co/YQYgn3VA6r",
+      "timestamp": "2026-05-07T18:03:20+00:00",
+      "url": "https://x.com/OpenAINewsroom/status/2052449215322964411",
+      "images": [],
+      "likes": 741,
+      "retweets": 41,
+      "views": 65578
+    },
+    {
+      "id": "2052448850796011931",
+      "username": "gdb",
+      "text": "You can now just build amazing voice agents, with the GPT-Realtime-2 reasoning model in our API:",
+      "timestamp": "2026-05-07T18:01:53+00:00",
+      "url": "https://x.com/gdb/status/2052448850796011931",
+      "images": [],
+      "likes": 452,
+      "retweets": 22,
+      "views": 34735
+    },
+    {
+      "id": "2052448468774609012",
+      "username": "DeryaTR_",
+      "text": "GPT-Realtime-2 is really real-time voice now! This is via API only for now, but I am sure ChatGPT integration of voice with GPT-5-class reasoning is coming soon. It was long overdue!",
+      "timestamp": "2026-05-07T18:00:22+00:00",
+      "url": "https://x.com/DeryaTR_/status/2052448468774609012",
+      "images": [],
+      "likes": 35,
+      "retweets": 5,
+      "views": 4130
+    },
+    {
+      "id": "2052448448004473084",
+      "username": "Miles_Brundage",
+      "text": "Me when I ask myself how much progress I’m making on my tabs/bookmarks https://t.co/rquPx95Dq6",
+      "timestamp": "2026-05-07T18:00:17+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2052448448004473084",
+      "images": [
+        "https://pbs.twimg.com/media/HHvC_JTaoAAQMvq.jpg"
+      ],
+      "likes": 49,
+      "retweets": 0,
+      "views": 1542
+    },
+    {
+      "id": "2052446127639679041",
+      "username": "zicokolter",
+      "text": "I really enjoyed chatting with @mattturck, was a great discussion.",
+      "timestamp": "2026-05-07T17:51:04+00:00",
+      "url": "https://x.com/zicokolter/status/2052446127639679041",
+      "images": [],
+      "likes": 7,
+      "retweets": 1,
+      "views": 2826
+    },
+    {
+      "id": "2052446013949149649",
+      "username": "NVIDIARobotics",
+      "text": ".@huggingface's agentic robotics app store for Reachy Mini is a big step toward more accessible physical AI. 🙌\n\nExcited to see NVIDIA Isaac GR00T N integrated with Hugging Face LeRobot, helping developers post-train, evaluate, and deploy robot foundation models with open",
+      "timestamp": "2026-05-07T17:50:36+00:00",
+      "url": "https://x.com/NVIDIARobotics/status/2052446013949149649",
+      "images": [],
+      "likes": 90,
+      "retweets": 8,
+      "views": 8305
+    },
+    {
+      "id": "2052445574969102612",
+      "username": "janleike",
+      "text": "I'm really excited about this as a new tool in our interpretability tool kit",
+      "timestamp": "2026-05-07T17:48:52+00:00",
+      "url": "https://x.com/janleike/status/2052445574969102612",
+      "images": [],
+      "likes": 96,
+      "retweets": 4,
+      "views": 9310
+    },
+    {
+      "id": "2052443991174480013",
+      "username": "mcgillu",
+      "text": "Meet the McCall MacBain Scholars (@mmscholarships)  at McGill 🎓 Selected for their academic strength, community engagement and entrepreneurial spirit, this year’s cohort of 30 scholars will pursue fields shaping Canada’s future.\n\nRead more: https://t.co/IEzzHBcTz1 https://t.co/Z65xLO56Ah",
+      "timestamp": "2026-05-07T17:42:34+00:00",
+      "url": "https://x.com/mcgillu/status/2052443991174480013",
+      "images": [
+        "https://pbs.twimg.com/media/HHu-hTMWYAUI4-g.jpg"
+      ],
+      "likes": 2,
+      "retweets": 1,
+      "views": 530
+    },
+    {
+      "id": "2052442621377740905",
+      "username": "emollick",
+      "text": "OpenAI for Excel is quite useful (as is Claude for Excel), so it is surprising, that, unlike Claude, there is no OpenAI for PowerPoint, especially because it is where OpenAI has a big advantage: Imagegen-2 can make very good slides/images directly, where Claude has no image maker",
+      "timestamp": "2026-05-07T17:37:08+00:00",
+      "url": "https://x.com/emollick/status/2052442621377740905",
+      "images": [],
+      "likes": 220,
+      "retweets": 4,
+      "views": 15180
+    },
+    {
+      "id": "2052440142955303003",
+      "username": "Miles_Brundage",
+      "text": "Really don't understand the situation/endgame here https://t.co/A2KfcCw2SM",
+      "timestamp": "2026-05-07T17:27:17+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2052440142955303003",
+      "images": [],
+      "likes": 20,
+      "retweets": 3,
+      "views": 3793
+    },
+    {
+      "id": "2052156422549610777",
+      "username": "Miles_Brundage",
+      "text": "Claude Coat https://t.co/qv67Se8iAj",
+      "timestamp": "2026-05-06T22:39:53+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2052156422549610777",
+      "images": [
+        "https://pbs.twimg.com/media/HHq5ZAyb0AAkfbB.jpg"
+      ],
+      "likes": 2774,
+      "retweets": 114,
+      "views": 166484
     }
   ]
 }
