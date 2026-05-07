@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-05-07T16:28:55.754754",
+  "scraped_at": "2026-05-07T21:22:04.759319",
   "date": "2026-05-07",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 122,
-  "account_count": 58,
+  "tweet_count": 135,
+  "account_count": 65,
   "tweets": [
     {
       "id": "2052056038648779013",
@@ -1419,6 +1419,155 @@
       "likes": 2141,
       "retweets": 134,
       "views": 346019
+    },
+    {
+      "id": "2052373899870961965",
+      "username": "boazbaraktcs",
+      "text": "Humbled by the company I keep as a Catalyst Professor https://t.co/ukDPSeCyGA",
+      "timestamp": "2026-05-07T13:04:03+00:00",
+      "url": "https://x.com/boazbaraktcs/status/2052373899870961965",
+      "images": [],
+      "likes": 1,
+      "retweets": 0,
+      "views": 300
+    },
+    {
+      "id": "2052369344928301200",
+      "username": "mitchellh",
+      "text": "“&lt;previous thing&gt; is dead. It was built for an outdated era. The new world is agentic and we’re going to revolutionize it.”\n\nEvery pre-AI company. Proceeds to ship text box. Every time.",
+      "timestamp": "2026-05-07T12:45:57+00:00",
+      "url": "https://x.com/mitchellh/status/2052369344928301200",
+      "images": [],
+      "likes": 170,
+      "retweets": 4,
+      "views": 9400
+    },
+    {
+      "id": "2052343039486820607",
+      "username": "RisingSayak",
+      "text": "The next virtual talk/QnA for the HF ML Club India w/ @sarahookr is scheduled for 20th May 2026, 10 AM Indian Time onwards.\n\nYou will want to check out https://t.co/NPUyEWChT9 for all the details. \n\nNo registrations are needed; you just have to find the Calendar link from the https://t.co/OSQgvWquAp",
+      "timestamp": "2026-05-07T11:01:25+00:00",
+      "url": "https://x.com/RisingSayak/status/2052343039486820607",
+      "images": [
+        "https://pbs.twimg.com/media/HHtiV8WakAArTAB.jpg"
+      ],
+      "likes": 11,
+      "retweets": 2,
+      "views": 542
+    },
+    {
+      "id": "2052343013284741536",
+      "username": "NielsRogge",
+      "text": "I recently started watching @theo's videos\n\nThey are extremely clear and well-organized. Great breakdown of the recent SpaceX/Anthropic thing\n\nHighly recommend \n\nhttps://t.co/T3AKYKtvSK",
+      "timestamp": "2026-05-07T11:01:19+00:00",
+      "url": "https://x.com/NielsRogge/status/2052343013284741536",
+      "images": [],
+      "likes": 4,
+      "retweets": 0,
+      "views": 612
+    },
+    {
+      "id": "2052325656277500145",
+      "username": "NielsRogge",
+      "text": "From calling Anthropic \"misanthropic\" and \"evil\" to this https://t.co/XkeC6AZCWv",
+      "timestamp": "2026-05-07T09:52:21+00:00",
+      "url": "https://x.com/NielsRogge/status/2052325656277500145",
+      "images": [
+        "https://pbs.twimg.com/media/HHtTOe3WwAUL2Lc.jpg"
+      ],
+      "likes": 23,
+      "retweets": 0,
+      "views": 16889
+    },
+    {
+      "id": "2052303499669459254",
+      "username": "mmbronstein",
+      "text": "Multiple postdoc positions in geometric ML and generative modeling are available at Oxford in collaboration with Aithyra and Imperial @bose_joey \n\nhttps://t.co/JXt5O4509w",
+      "timestamp": "2026-05-07T08:24:18+00:00",
+      "url": "https://x.com/mmbronstein/status/2052303499669459254",
+      "images": [],
+      "likes": 52,
+      "retweets": 18,
+      "views": 3499
+    },
+    {
+      "id": "2052176187439349969",
+      "username": "lexfridman",
+      "text": "Here's my conversation all about @FFmpeg, the legendary open-source software powering most video on the Internet. In the episode, I talk with Jean-Baptiste Kempf and Kieran Kunhya. JB is lead developer of VLC and Kieran is FFmpeg contributor, codec engineer, and the person behind https://t.co/5rTBdku2np",
+      "timestamp": "2026-05-06T23:58:25+00:00",
+      "url": "https://x.com/lexfridman/status/2052176187439349969",
+      "images": [],
+      "likes": 2930,
+      "retweets": 325,
+      "views": 243697
+    },
+    {
+      "id": "2052106110375473580",
+      "username": "mathemagic1an",
+      "text": "I was told by roboticists that grip was fundamentally difficult and would be the barrier to adoption\n\nIs this no longer true? what changed?",
+      "timestamp": "2026-05-06T19:19:57+00:00",
+      "url": "https://x.com/mathemagic1an/status/2052106110375473580",
+      "images": [],
+      "likes": 6,
+      "retweets": 1,
+      "views": 1479
+    },
+    {
+      "id": "2051801703209742734",
+      "username": "emollick",
+      "text": "All benchmarks are flawed, but GPQA has been fairly consistent &amp; highly correlated with other measured benchmars. I think it's a good way to see how far we've come that the free model from OpenAI, GPT 5.5 Instant, is at a level that even paid models did not reach until late 2025 https://t.co/Qy30SW0d7b",
+      "timestamp": "2026-05-05T23:10:21+00:00",
+      "url": "https://x.com/emollick/status/2051801703209742734",
+      "images": [
+        "https://pbs.twimg.com/media/HHl2xmAakAALSOj.jpg"
+      ],
+      "likes": 293,
+      "retweets": 22,
+      "views": 26090
+    },
+    {
+      "id": "2051698665652412919",
+      "username": "OfficialLoganK",
+      "text": "Today we are rolling out edit mode in AI Studio Vibe Coding ✏️, select components to quickly edit them, annotate right on the UI with a pen, and select image assets to change them with Nano Banana + upload content! https://t.co/Ct9H98o3iT",
+      "timestamp": "2026-05-05T16:20:55+00:00",
+      "url": "https://x.com/OfficialLoganK/status/2051698665652412919",
+      "images": [],
+      "likes": 945,
+      "retweets": 79,
+      "views": 117505
+    },
+    {
+      "id": "2050050486523560053",
+      "username": "AmandaAskell",
+      "text": "To be clear, the kind of *work* I do is far from boring and I want people to engage with it because I think it's both difficult and important. The work is definitely top tier in terms of interestingness.",
+      "timestamp": "2026-05-01T03:11:38+00:00",
+      "url": "https://x.com/AmandaAskell/status/2050050486523560053",
+      "images": [],
+      "likes": 242,
+      "retweets": 4,
+      "views": 16998
+    },
+    {
+      "id": "2049702194698682776",
+      "username": "shaneguML",
+      "text": "Big congrats to @pulkitology @haarnoja for the launch, and happy to be a small angel in their journey. Pulkit and I were roommates in 2018 and we both felt dexterity is the most understudied generalist capability. Great demo. Bullish on ASI for dexterity.",
+      "timestamp": "2026-04-30T04:07:39+00:00",
+      "url": "https://x.com/shaneguML/status/2049702194698682776",
+      "images": [],
+      "likes": 70,
+      "retweets": 3,
+      "views": 11866
+    },
+    {
+      "id": "2049627043919487405",
+      "username": "OpenAIDevs",
+      "text": "You can just build web apps",
+      "timestamp": "2026-04-29T23:09:02+00:00",
+      "url": "https://x.com/OpenAIDevs/status/2049627043919487405",
+      "images": [],
+      "likes": 972,
+      "retweets": 39,
+      "views": 130289
     }
   ]
 }
