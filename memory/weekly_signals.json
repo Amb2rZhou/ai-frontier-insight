@@ -1124,6 +1124,220 @@
           105
         ]
       }
+    ],
+    "2026-05-08": [
+      {
+        "title": "OpenAI Releases GPT-Realtime-2 and New Voice Intelligence Models in API",
+        "signal_text": "OpenAI 官方发布 GPT-Realtime-2，一个能够在 API 中进行推理、翻译和转录的实时语音模型，并部署在 Azure Foundry。据 OpenAI 总裁 Greg Brockman 推文（获 452+ likes），这一新模型支持用户构建更自然的语音交互体验，可用于客服、教育等场景。",
+        "signal_strength": 0.85,
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api"
+          },
+          {
+            "name": "Twitter @gdb",
+            "url": "https://x.com/gdb/status/2052448850796011931"
+          }
+        ],
+        "tags": [
+          "OpenAI",
+          "多模态",
+          "搜索与推荐",
+          "内容创作与理解"
+        ],
+        "raw_item_indices": [
+          6,
+          30,
+          90,
+          105,
+          106,
+          116
+        ]
+      },
+      {
+        "title": "Anthropic Introduces 'Dreaming': AI Agents That Learn from Mistakes on Claude Managed Agents",
+        "signal_text": "据 VentureBeat 报道，Anthropic 在第二届 Code with Claude 开发者大会上为 Claude Managed Agents 平台推出名为 'Dreaming' 的新系统，允许 AI 代理从自身错误中学习并自我改进。此举旨在减少对人工干预的依赖，提升 Agent 在复杂任务中的自主性和可靠性。",
+        "signal_strength": 0.8,
+        "sources": [
+          {
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/technology/anthropic-introduces-dreaming-a-system-that-lets-ai-agents-learn-from-their-own-mistakes"
+          }
+        ],
+        "tags": [
+          "AI Agent",
+          "Anthropic",
+          "内容创作与理解",
+          "Agent 与新交互范式"
+        ],
+        "raw_item_indices": [
+          0
+        ]
+      },
+      {
+        "title": "OpenAI Codex Gains Chrome Plugin for Background Multi-Tab Web Testing",
+        "signal_text": "OpenAI Devs 官方宣布，Codex 现可安装 Chrome 插件，能够在后台并行驱动多个 Chrome 标签页，用于测试 Web 应用、跨 Tab 收集上下文信息、使用 DevTools 等。该功能不占用用户浏览器，支持多 Agent/子 Agent 协同操作，提升了开发效率。",
+        "signal_strength": 0.8,
+        "sources": [
+          {
+            "name": "Twitter @OpenAIDevs",
+            "url": "https://x.com/OpenAIDevs/status/2052481136971125158"
+          }
+        ],
+        "tags": [
+          "Agent 与新交互范式",
+          "OpenAI",
+          "内容创作与理解"
+        ],
+        "raw_item_indices": [
+          89,
+          117,
+          118,
+          127
+        ]
+      },
+      {
+        "title": "NVIDIA Research Unveils Guess-Verify-Refine: Hardware-Aware Sparse Attention for Faster Inference on Blackwell",
+        "signal_text": "NVIDIA Research 提出了 Guess-Verify-Refine 算法，一种硬件感知的稀疏注意力机制，专为 TensorRT LLM 和 Blackwell 架构设计。通过跨解码步骤重用时间模式，该算法在 Top-K 注意力计算上实现了 1.88 倍速度提升，有助于降低推理延迟。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "Twitter @NVIDIAAI",
+            "url": "https://x.com/NVIDIAAI/status/2052433280595550361"
+          }
+        ],
+        "tags": [
+          "技术突破",
+          "NVIDIA Research",
+          "推理效率提升",
+          "搜索与推荐"
+        ],
+        "raw_item_indices": [
+          52
+        ]
+      },
+      {
+        "title": "Perplexity Announces 'Personal Computer' Version for Mac, Deprecating Legacy App",
+        "signal_text": "Perplexity CEO Arav Srinivas 宣布，Perplexity 将弃用旧的 Mac 应用，并推出全新的 'Personal Computer' 版本。该版本专注于控制本地应用和文件，面向 Pro 及企业用户，标志着 AI 搜索产品向桌面 Agent 形态的进一步演进。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "Twitter @AravSrinivas",
+            "url": "https://x.com/AravSrinivas/status/2052469406232658001"
+          }
+        ],
+        "tags": [
+          "搜索与推荐",
+          "Agent 与新交互范式",
+          "头部公司战略动作"
+        ],
+        "raw_item_indices": [
+          96
+        ]
+      },
+      {
+        "title": "Google DeepMind Launches AlphaEvolve: Gemini-Powered Coding Agent for Multi-Domain Research",
+        "signal_text": "Google DeepMind 官方发布了基于 Gemini 的编程智能体 AlphaEvolve，旨在加速量子计算、生物技术、物流等多个领域的研究。据官方推文（获 535+ likes），该智能体在过去一年已持续展示成果，并成功应用于 Google 自身的 AI 系统优化。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "Twitter @GoogleDeepMind",
+            "url": "https://x.com/GoogleDeepMind/status/2052403306257940967"
+          }
+        ],
+        "tags": [
+          "技术突破",
+          "Google DeepMind",
+          "Agent 与新交互范式",
+          "内容创作与理解"
+        ],
+        "raw_item_indices": [
+          65
+        ]
+      },
+      {
+        "title": "Sakana AI Trains 7B Model as RL Conductor to Orchestrate GPT-5, Claude Sonnet 4, Gemini 2.5 Pro",
+        "signal_text": "据 VentureBeat 报道，Sakana AI 的研究人员介绍了 RL Conductor，一个经过强化学习训练的 7B 模型。该模型能智能地编排调用 GPT-5、Claude Sonnet 4 和 Gemini 2.5 Pro 等更强的模型，在非稳态查询分布下保持性能，代表了模型协作和路由的新范式。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/orchestration/how-sakana-trained-a-7b-model-to-orchestrate-gpt-5-claude-sonnet-4-and-gemini-2-5-pro"
+          }
+        ],
+        "tags": [
+          "技术突破",
+          "Agent 与新交互范式",
+          "搜索与推荐"
+        ],
+        "raw_item_indices": [
+          12
+        ]
+      },
+      {
+        "title": "Anthropic Donates Petri Open-Source Alignment Testing Tool to Meridian Labs",
+        "signal_text": "Anthropic 官方宣布将其开源的交互式行为评估工具 Petri 捐赠给 Meridian Labs 以独立发展，并同步发布重大更新，增强测试的适应性、真实感和深度。该工具用于对 AI 模型进行对齐测试和安全评估。",
+        "signal_strength": 0.7,
+        "sources": [
+          {
+            "name": "Twitter @AnthropicAI",
+            "url": "https://x.com/AnthropicAI/status/2052494460966019137"
+          }
+        ],
+        "tags": [
+          "内容安全与治理",
+          "Anthropic",
+          "开源生态"
+        ],
+        "raw_item_indices": [
+          81,
+          82
+        ]
+      },
+      {
+        "title": "Zyphra Releases ZAYA1-8B: Efficient Open Reasoning Model Trained on AMD MI300 GPUs",
+        "signal_text": "Zyphra 发布了 ZAYA1-8B，一个高效的开源推理模型，在 AMD Instinct MI300 GPU 上完成训练。据 VentureBeat 报道，该模型旨在以更小的参数量实现强大的推理性能，为在替代硬件平台（AMD）上训练和部署高效模型提供了新的开源实践案例。",
+        "signal_strength": 0.65,
+        "sources": [
+          {
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/technology/meet-zaya1-8b-a-super-efficient-open-reasoning-model-trained-on-amd-instinct-mi300-gpus"
+          },
+          {
+            "name": "HuggingFace",
+            "url": "https://huggingface.co/Zyphra/ZAYA1-8B"
+          }
+        ],
+        "tags": [
+          "开源生态",
+          "技术突破",
+          "推理效率提升"
+        ],
+        "raw_item_indices": [
+          23,
+          174
+        ]
+      },
+      {
+        "title": "Anthropic Launches Public Security Bug Bounty Program on HackerOne",
+        "signal_text": "Anthropic 官方宣布将其安全漏洞赏金计划正式公开上线 HackerOne 平台。此前该计划仅在安全研究社区内私下运行，现已开放给所有人，以鼓励更广泛的安全社区参与发现和报告漏洞，增强其产品安全性。该推文获得 1344+ likes，引发广泛关注。",
+        "signal_strength": 0.65,
+        "sources": [
+          {
+            "name": "Twitter @AnthropicAI",
+            "url": "https://x.com/AnthropicAI/status/2052466175540629965"
+          }
+        ],
+        "tags": [
+          "内容安全与治理",
+          "Anthropic",
+          "行业风险与监管"
+        ],
+        "raw_item_indices": [
+          98
+        ]
+      }
     ]
   },
   "archived_weeks": [
