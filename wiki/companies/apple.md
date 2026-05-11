@@ -2,7 +2,7 @@
 title: Apple
 type: company
 created: 2026-02-27
-updated: 2026-05-01
+updated: 2026-05-10
 ---
 
 # Apple
@@ -11,6 +11,9 @@ Consumer technology giant with growing on-device AI capabilities and research co
 
 ## Timeline
 
+- **2026-05-10**: Apple Siri Revamp May Be Overtaken by [[claude|Claude Code]] and [[codex|Codex]] as AI Assistants Evolve
+- **2026-05-10**: Apple Proposes Real-Time Tool-Call Supervision to Prevent Agent Errors Before Execution
+- **2026-05-09**: Apple Researchers Propose TIDE to Address LLM Token Collapse via Embedding Memory
 - **2026-05-01**: Apple Mac Mini Shortage Reflects Unforeseen AI-Driven Demand, Tim Cook Confirms
 - **2026-04-29**: Apple MLR Presents Stochastic KV Routing for Adaptive Depth-Wise Cache Sharing
 - **2026-04-20**: Port of [[microsoft|Microsoft]]'s TRELLIS.2 Image-to-3D Model to Apple Silicon · [Hacker News (Show HN)](https://github.com/shivampkumar/trellis-mac)

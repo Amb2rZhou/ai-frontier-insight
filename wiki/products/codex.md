@@ -2,7 +2,7 @@
 title: Codex
 type: product
 created: 2026-02-25
-updated: 2026-05-07
+updated: 2026-05-10
 ---
 
 # Codex
@@ -11,6 +11,10 @@ updated: 2026-05-07
 
 ## Timeline
 
+- **2026-05-10**: [[apple|Apple]] Siri Revamp May Be Overtaken by [[claude|Claude Code]] and Codex as AI Assistants Evolve
+- **2026-05-10**: Codex Learns to Consider Social Signals During PR Review, Enhancing Code Review Quality
+- **2026-05-10**: Codex Agents Now Automate QA Video Proof Generation for GitHub Issues
+- **2026-05-09**: [[openai|OpenAI]] Reports 46 Million Daily Codex Installs; Agent Usage Exploding
 - **2026-05-07**: [[meta|Meta]] Superintelligence Lab Publishes ProgramBench: Can AI Rebuild Real-World Programs from Scratch?
 - **2026-05-05**: [[openai|OpenAI]] Turns Sold-Out [[gpt|GPT-5]].5 Party into Codex Rate Limit Giveaway for 8,000 Developers
 - **2026-05-01**: Open-Source Open-Design Tool Emerges as [[claude|Claude]] Design Alternative (8.4k Stars)

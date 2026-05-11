@@ -2,7 +2,7 @@
 title: Tencent
 type: company
 created: 2026-03-28
-updated: 2026-05-07
+updated: 2026-05-09
 ---
 
 # Tencent
@@ -11,6 +11,7 @@ Chinese technology conglomerate active in AI through Hunyuan models, [[embodied-
 
 ## Timeline
 
+- **2026-05-09**: Tencent Proposes MiA-Signature for Efficient Long-Context Understanding
 - **2026-05-07**: Tencent Hunyuan Releases OpenSearch-VL: Open-Source Multimodal Search [[agent-frameworks|Agent Framework]]
 - **2026-04-29**: Tencent 腾讯发布 Hunyuan 3 (Hy3-preview) 开源大模型
 - **2026-04-23**: Tencent Releases PlayCoder Framework for LLM-Generated GUI Code Correction · [arXiv (Tencent)](https://huggingface.co/papers/2604.19742)

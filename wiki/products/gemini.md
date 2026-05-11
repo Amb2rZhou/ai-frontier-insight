@@ -2,7 +2,7 @@
 title: Gemini
 type: product
 created: 2026-02-25
-updated: 2026-05-06
+updated: 2026-05-09
 ---
 
 # Gemini
@@ -11,6 +11,7 @@ updated: 2026-05-06
 
 ## Timeline
 
+- **2026-05-09**: [[google-deepmind|Google]] I/O 2026 Livestream Schedule Released – AI Focus Expected
 - **2026-05-06**: [[google-deepmind|Google]] Launches Multimodal File Search in Gemini API with Matryoshka Embedding Efficiency
 - **2026-04-19**: [[scale-ai|Scale AI]] CEO Highlights [[muse-spark|Muse Spark]]'s Strong Performance on [[agent-frameworks|Agentic]] Benchmark · [@alexandr_wang (Scale AI CEO)](https://x.com/alexandr_wang/status/2045348588734066794)
 - **2026-04-16**: [[google-deepmind|Google]] Releases Gemini 3.1 Flash TTS, Next-Gen Expressive AI Speech · [Google AI Blog](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/) · [@googledevs](https://x.com/googledevs/status/2044448265396269278)

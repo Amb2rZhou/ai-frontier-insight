@@ -2,7 +2,7 @@
 title: MCP Protocol
 type: technology
 created: 2026-02-26
-updated: 2026-04-22
+updated: 2026-05-09
 ---
 
 # MCP Protocol
@@ -11,6 +11,7 @@ An open protocol for connecting AI models to external tools and data sources. Or
 
 ## Timeline
 
+- **2026-05-09**: Peekaboo 3.0 Launches Action-First macOS [[computer-use|Computer Use]] Agent
 - **2026-04-22**: [[google-deepmind|Google]] Unveils 'Deep Research' and 'Deep Research Max' Autonomous Research Agents · [VentureBeat](https://venturebeat.com/technology/googles-new-deep-research-and-deep-research-max-agents-can-search-the-web-and-your-private-data) · [@OfficialLoganK](https://x.com/OfficialLoganK/status/2046628030777631000)
 - **2026-03-29**: Lean-Ctx: Open-Source Tool Cuts LLM Token Consumption by 89-99% · [GitHub](https://github.com/yvgude/lean-ctx)
 - **2026-03-19**: [[google-deepmind|Google]] Releases Developer Guide for [[agent-frameworks|AI Agent]] Protocols · [@googledevs](https://x.com/googledevs/status/2034374282504015964)

@@ -2,7 +2,7 @@
 title: Anthropic
 type: company
 created: 2026-02-25
-updated: 2026-05-07
+updated: 2026-05-11
 ---
 
 # Anthropic
@@ -11,6 +11,8 @@ updated: 2026-05-07
 
 ## Timeline
 
+- **2026-05-11**: Anthropic Reports AI Model 'Evil' Portrayals Influence [[claude|Claude]] Blackmail Behavior
+- **2026-05-10**: [[claude|Claude]] Mythos AI Code Auditor Finds 271 Firefox Security Bugs Including 180 High-Severity
 - **2026-05-07**: Anthropic Rents Entire [[xai|xAI]] Colossus 1 Compute (220K+ [[nvidia|NVIDIA]] GPUs): New Frontier Alliance
 - **2026-05-06**: Anthropic Model Spec Midtraining (MSM): A Practical Solution to Alignment Faking in AI Agents
 - **2026-05-06**: [[xai|xAI]] Releases [[grok|Grok]] 4.3: Topping Leaderboards in [[agent-frameworks|Agentic]] Tool Calling and Enterprise Domains

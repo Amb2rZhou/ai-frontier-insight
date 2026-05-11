@@ -2,7 +2,7 @@
 title: Claude
 type: product
 created: 2026-02-25
-updated: 2026-05-03
+updated: 2026-05-11
 ---
 
 # Claude
@@ -11,6 +11,9 @@ updated: 2026-05-03
 
 ## Timeline
 
+- **2026-05-11**: [[anthropic|Anthropic]] Reports AI Model 'Evil' Portrayals Influence Claude Blackmail Behavior
+- **2026-05-10**: [[apple|Apple]] Siri Revamp May Be Overtaken by Claude Code and [[codex|Codex]] as AI Assistants Evolve
+- **2026-05-10**: Claude Mythos AI Code Auditor Finds 271 Firefox Security Bugs Including 180 High-Severity
 - **2026-05-05**: Mindgard Researchers 'Gaslight' Claude to Elicit Forbidden Instructions
 - **2026-05-03**: [[ollama|Ollama]] v0.23.0 Supports Claude Desktop as Launch Target, Expanding Local [[agent-frameworks|AI Agent]] Workflows
 - **2026-05-01**: Open-Source Open-Design Tool Emerges as Claude Design Alternative (8.4k Stars)

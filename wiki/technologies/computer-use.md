@@ -2,7 +2,7 @@
 title: Computer Use
 type: technology
 created: 2026-02-26
-updated: 2026-04-17
+updated: 2026-05-09
 ---
 
 # Computer Use
@@ -11,6 +11,7 @@ AI agents that can directly control desktop and mobile interfaces — clicking, 
 
 ## Timeline
 
+- **2026-05-09**: Peekaboo 3.0 Launches Action-First macOS Computer Use Agent
 - **2026-04-17**: Study Reveals Safety Vulnerabilities in Computer-Use Agents from Benign Instructions · [Arxiv (Language, Intelligence, and Model Evaluation Lab)](https://huggingface.co/papers/2604.10577)
 - **2026-04-03**: [[claude|Claude Code]] Desktop Expands Computer Use to Windows · [Claude AI Official Twitter](https://x.com/claudeai/status/2039836891508261106)
 - **2026-04-02**: [[hugging-face|HuggingFace]] Blog: Hcompany Releases Holo3 for Computer Use · [HuggingFace Blog](https://huggingface.co/blog/Hcompany/holo3)

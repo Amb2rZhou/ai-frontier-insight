@@ -2,7 +2,7 @@
 title: Google DeepMind
 type: company
 created: 2026-02-25
-updated: 2026-05-07
+updated: 2026-05-11
 ---
 
 # Google DeepMind
@@ -11,6 +11,8 @@ Google's unified AI research division, maker of [[gemini|Gemini]] and [[gemma|Ge
 
 ## Timeline
 
+- **2026-05-11**: Google Finance AI-Powered Experience Expands to Europe
+- **2026-05-09**: Google I/O 2026 Livestream Schedule Released – AI Focus Expected
 - **2026-05-07**: Google Shuts Down Project Mariner: Experimental Web Agent Feature Discontinued
 - **2026-05-06**: Eight AI Companies Including Google, [[microsoft|Microsoft]], and [[openai|OpenAI]] Agree to Voluntary Model Sharing with Gov
 - **2026-05-06**: Google Launches Multimodal File Search in [[gemini|Gemini]] API with Matryoshka Embedding Efficiency

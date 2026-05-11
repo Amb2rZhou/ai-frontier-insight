@@ -2,7 +2,7 @@
 title: Agent Frameworks
 type: technology
 created: 2026-02-25
-updated: 2026-05-07
+updated: 2026-05-11
 ---
 
 # Agent Frameworks
@@ -11,6 +11,14 @@ The rapidly evolving ecosystem of tools, SDKs, and platforms for building autono
 
 ## Timeline
 
+- **2026-05-11**: Open-Source Agent Platform Agyn.io Launches with Enterprise Governance
+- **2026-05-11**: OpenSquilla: Token-Efficient AI Agent with Higher Intelligence Density
+- **2026-05-11**: Scalable Patterns for Agentic AI Workflows: System Engineering Matters
+- **2026-05-11**: Prompt-Driven AI Tool Poisoning Flaw Exposes Enterprise Supply Chain Risk
+- **2026-05-11**: Agent Tool Poisoning Emerges as Major Enterprise Security Threat
+- **2026-05-10**: [[codex|Codex]] Agents Now Automate QA Video Proof Generation for GitHub Issues
+- **2026-05-09**: Enterprise Token Budgeting Emerges as Key Trend for AI Agent Deployment
+- **2026-05-09**: Peekaboo 3.0 Launches Action-First macOS [[computer-use|Computer Use]] Agent
 - **2026-05-07**: [[tencent|Tencent]] Hunyuan Releases OpenSearch-VL: Open-Source Multimodal Search Agent Framework
 - **2026-05-07**: [[nvidia|NVIDIA]] Releases TokenSpeed: Speed-of-Light Inference Engine for Agentic Workloads
 - **2026-05-06**: [[nvidia|NVIDIA]] Unveils Vera Rubin Platform Architecture for Agentic Workloads at Scale

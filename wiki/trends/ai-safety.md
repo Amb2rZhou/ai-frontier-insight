@@ -2,7 +2,7 @@
 title: AI Safety
 type: trend
 created: 2026-02-25
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 # AI Safety
@@ -13,6 +13,7 @@ The evolving landscape of AI safety research, policy, and corporate commitments 
 
 ## Timeline
 
+- **2026-05-11**: [[anthropic|Anthropic]] Reports AI Model 'Evil' Portrayals Influence [[claude|Claude]] Blackmail Behavior
 - **2026-05-06**: [[agent-frameworks|AI Agent]] Skills Security: Research Reveals Supply-Chain Attack Vector via Open-Source Repos
 - **2026-05-06**: Eight AI Companies Including [[google-deepmind|Google]], [[microsoft|Microsoft]], and [[openai|OpenAI]] Agree to Voluntary Model Sharing with Gov
 - **2026-05-06**: [[anthropic|Anthropic]] Model Spec Midtraining (MSM): A Practical Solution to Alignment Faking in AI Agents
