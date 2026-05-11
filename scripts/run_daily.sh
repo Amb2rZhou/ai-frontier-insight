@@ -44,7 +44,7 @@ log "已加载 .env"
 
 # Step 1: 采集 + 分析
 log "Step 1: 采集 + 分析..."
-if /usr/bin/python3 -m src.main daily >> "$LOG" 2>&1; then
+if /opt/anaconda3/bin/python3 -m src.main daily >> "$LOG" 2>&1; then
     log "采集分析完成"
 else
     log "[!] 采集分析失败"
@@ -54,7 +54,7 @@ fi
 
 # Step 2: 发送草稿到测试频道供审核
 log "Step 2: 发送草稿到测试频道..."
-if /usr/bin/python3 -m src.main send-daily --alert-only >> "$LOG" 2>&1; then
+if /opt/anaconda3/bin/python3 -m src.main send-daily --alert-only >> "$LOG" 2>&1; then
     log "测试频道发送完成，等待审核"
 else
     log "[!] 测试频道发送失败"

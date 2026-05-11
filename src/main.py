@@ -10,7 +10,7 @@ Commands:
 
 import json
 import sys
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Optional
 from zoneinfo import ZoneInfo
@@ -38,6 +38,19 @@ def _parse_backfill_date() -> Optional[str]:
     return None
 
 
+def _parse_anchor() -> Optional[datetime]:
+    """Parse --anchor 'YYYY-MM-DD HH:MM' from sys.argv. Interpreted in config TZ.
+    Used to lock the 24h window to a specific point in time."""
+    if "--anchor" not in sys.argv:
+        return None
+    idx = sys.argv.index("--anchor")
+    if idx + 1 >= len(sys.argv):
+        return None
+    raw = sys.argv[idx + 1]
+    tz = ZoneInfo(get_timezone())
+    return datetime.strptime(raw, "%Y-%m-%d %H:%M").replace(tzinfo=tz)
+
+
 def _get_today() -> str:
     """Get today's date string in configured timezone (or backfill date if --date given)."""
     backfill = _parse_backfill_date()
@@ -60,13 +73,36 @@ def _collect_all(target_date: Optional[str] = None) -> list:
 
     if backfill:
         print(f"\n[Backfill mode for {target_date}] "
-              f"Skipping RSS / Twitter / GH Trending / HF Trending / Benchmarks "
-              f"(real-time-only sources)")
+              f"Skipping RSS / GH Trending / HF Trending / Benchmarks "
+              f"(real-time-only sources); Twitter included from archived x-monitor data")
+
+        # Twitter (回填模式：读 target_date 对应的 x-monitor 归档)
+        print("\n[Backfill] Collecting Twitter from archived data...")
+        try:
+            from .collectors.twitter import TwitterCollector
+            twitter = TwitterCollector(target_date=target_date)
+            all_items.extend(twitter.collect())
+        except ImportError:
+            print("  Twitter collector not available, skipping")
+        except Exception as e:
+            print(f"  Twitter collector error: {e}")
     else:
+        # 计算 24h 时间窗口（默认 now，可被 --anchor 覆盖）
+        anchor_dt = _parse_anchor()
+        if anchor_dt:
+            print(f"\n[Anchored mode] 24h window ends at {anchor_dt.isoformat()}")
+            # 转 UTC 给 Twitter（其 timestamp 是 UTC）
+            cutoff_utc = (anchor_dt - timedelta(hours=24)).astimezone(timezone.utc)
+            # RSS feed item 用 naive datetime（本地时区），传 naive
+            cutoff_naive = anchor_dt.replace(tzinfo=None) - timedelta(hours=24)
+        else:
+            cutoff_utc = None
+            cutoff_naive = datetime.now() - timedelta(hours=24)
+
         # RSS
         print("\n[1/5] Collecting RSS feeds...")
         rss = RSSCollector(
-            cutoff=datetime.now() - timedelta(hours=24),
+            cutoff=cutoff_naive,
             max_per_source=5,
         )
         all_items.extend(rss.collect())
@@ -75,7 +111,7 @@ def _collect_all(target_date: Optional[str] = None) -> list:
         print("\n[2/5] Collecting Twitter...")
         try:
             from .collectors.twitter import TwitterCollector
-            twitter = TwitterCollector()
+            twitter = TwitterCollector(cutoff_override=cutoff_utc)
             all_items.extend(twitter.collect())
         except ImportError:
             print("  Twitter collector not available yet, skipping")
