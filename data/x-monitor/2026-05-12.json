@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-05-12T14:29:42.794089",
+  "scraped_at": "2026-05-12T19:03:04.892836",
   "date": "2026-05-12",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 58,
-  "account_count": 33,
+  "tweet_count": 66,
+  "account_count": 37,
   "tweets": [
     {
       "id": "2054082531432210765",
@@ -660,6 +660,94 @@
       "likes": 277,
       "retweets": 23,
       "views": 26803
+    },
+    {
+      "id": "2054133174024728854",
+      "username": "NielsRogge",
+      "text": "The fact that this demo by @rown is almost exactly the same as GPT-4o from 2 years ago suggests that Mira Murati and others just wanted to leave OpenAI, but build the same things in a more open way\n\nThey probably didn't like some things about Sam Altman",
+      "timestamp": "2026-05-12T09:34:47+00:00",
+      "url": "https://x.com/NielsRogge/status/2054133174024728854",
+      "images": [],
+      "likes": 2,
+      "retweets": 0,
+      "views": 659
+    },
+    {
+      "id": "2054105193185186267",
+      "username": "roydanroy",
+      "text": "For what it's worth, whenever our agents make a mistake in a benchmark, there's a good chance the benchmark is wrong, and it's always worth a close look. Will be curious to see how this shakes things up. Of course, an \"AI assisted review\" of an AI benchmark sounds a little bit",
+      "timestamp": "2026-05-12T07:43:36+00:00",
+      "url": "https://x.com/roydanroy/status/2054105193185186267",
+      "images": [],
+      "likes": 7,
+      "retweets": 0,
+      "views": 1504
+    },
+    {
+      "id": "2054094861595234541",
+      "username": "NielsRogge",
+      "text": "GPT-5, what do you mean GPT-5?\n\nWe’re literally at GPT-5.5 already, that’s 5 generations later",
+      "timestamp": "2026-05-12T07:02:32+00:00",
+      "url": "https://x.com/NielsRogge/status/2054094861595234541",
+      "images": [],
+      "likes": 4,
+      "retweets": 0,
+      "views": 1141
+    },
+    {
+      "id": "2054094826375655441",
+      "username": "steipete",
+      "text": "Crabbox 0.12.0 is live\n\n🪟 Azure Windows desktop + WSL2\n🏠 Proxmox + Tensorlake providers\n🧰 preflight, failure bundles, phase timing\n🚑 keep failed boxes around for SSH debugging\n\nRemote test boxes got much less slippery.\nhttps://t.co/3mkEjb01c4",
+      "timestamp": "2026-05-12T07:02:24+00:00",
+      "url": "https://x.com/steipete/status/2054094826375655441",
+      "images": [],
+      "likes": 86,
+      "retweets": 2,
+      "views": 11995
+    },
+    {
+      "id": "2054092636659625990",
+      "username": "gdb",
+      "text": "AI for helping you build apps powered by AI:",
+      "timestamp": "2026-05-12T06:53:42+00:00",
+      "url": "https://x.com/gdb/status/2054092636659625990",
+      "images": [],
+      "likes": 295,
+      "retweets": 16,
+      "views": 26193
+    },
+    {
+      "id": "2053995568519913499",
+      "username": "GaryMarcus",
+      "text": "So basically Anthropic’s estimated valuation went up half a trillion dollars in a couple weeks (then back down a bit) on hype.\n\nSmall wonder that companies like OpenAI, Anthropic and Tesla keep hyping their wares. It makes them rich, and they are never held accountable.\n\nThe real",
+      "timestamp": "2026-05-12T00:27:59+00:00",
+      "url": "https://x.com/GaryMarcus/status/2053995568519913499",
+      "images": [],
+      "likes": 177,
+      "retweets": 19,
+      "views": 12051
+    },
+    {
+      "id": "2053940452789981426",
+      "username": "johnschulman2",
+      "text": "Sharing our work on full-duplex multimodal models -- real-time interaction that's natural and intuitive without compromising on intelligence.\n\nWe started Thinky in part to differentially advance capabilities for human-AI collaboration, which are underemphasized relative to",
+      "timestamp": "2026-05-11T20:48:58+00:00",
+      "url": "https://x.com/johnschulman2/status/2053940452789981426",
+      "images": [],
+      "likes": 785,
+      "retweets": 71,
+      "views": 57592
+    },
+    {
+      "id": "2053940215505645938",
+      "username": "soumithchintala",
+      "text": "Thinky's secret plan:\n\n1: Increase Human&lt;-&gt;AI bandwidth\n2: Raise ceiling of human+AI intelligence\n3: Help humans continue as main-characters in the new world\n\nWe are at Step 1.\nInteraction Models are great real-time collaborative tools for humans.\nHere's a preview:",
+      "timestamp": "2026-05-11T20:48:02+00:00",
+      "url": "https://x.com/soumithchintala/status/2053940215505645938",
+      "images": [],
+      "likes": 1214,
+      "retweets": 80,
+      "views": 82179
     }
   ]
 }
