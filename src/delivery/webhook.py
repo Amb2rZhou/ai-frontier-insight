@@ -1,10 +1,10 @@
-"""RedCity webhook delivery — supports multiple named channels.
+"""Webhook delivery — supports multiple named channels.
 
 Channel config via WEBHOOK_CHANNELS env var (JSON):
-  {"测试": "key1", "夏月": "key2"}
+  {"name_a": "key_a", "name_b": "key_b"}
 
 Channels are tagged with roles in settings.yaml:
-  delivery.webhook.alert_channels: ["测试"]
+  delivery.webhook.alert_channels: ["name_a"]
   (defaults to first channel only)
 """
 
@@ -125,12 +125,12 @@ def _send_one(url: str, content: str, mention_all: bool) -> bool:
 
 def send_webhook(content: str, mention_all: bool = True,
                  alert_only: bool = False) -> bool:
-    """Send markdown content to RedCity webhook channels.
+    """Send markdown content to webhook channels.
 
     Args:
         content: Markdown string to send
         mention_all: Whether to @all in this message
-        alert_only: If True, only send to alert channels (e.g. 测试)
+        alert_only: If True, only send to alert channels
 
     Returns:
         True if at least one channel succeeded
@@ -141,10 +141,10 @@ def send_webhook(content: str, mention_all: bool = True,
 
     settings = load_settings()
     webhook_cfg = settings.get("delivery", {}).get("webhook", {})
-    url_base = webhook_cfg.get(
-        "url_base",
-        "https://redcity-open.xiaohongshu.com/api/robot/webhook/send",
-    )
+    url_base = webhook_cfg.get("url_base") or os.environ.get("WEBHOOK_URL_BASE")
+    if not url_base:
+        print("  Error: webhook url_base not configured (set WEBHOOK_URL_BASE or delivery.webhook.url_base)")
+        return False
 
     # Filter to alert-only channels if requested
     if alert_only:

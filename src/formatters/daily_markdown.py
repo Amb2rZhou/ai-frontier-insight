@@ -1,10 +1,10 @@
 """Daily Brief markdown formatter.
 
 两种输出格式：
-  1. RedCity webhook（分消息、8KB 限制、font 标签）
+  1. Webhook（分消息、8KB 限制、font 标签）
   2. 标准 Markdown 文件（供 Redoc / OpenClaw 读取）
 
-颜色方案（RedCity 仅支持 3 种）：
+颜色方案（webhook 仅支持 3 种）：
   - 黑色（默认）→ Insight
   - info（绿色）→ Implication
   - comment（灰色）→ 辅助信息
@@ -174,7 +174,7 @@ def format_daily_brief(date: str, insights: List[Dict],
 # ─── 标准 Markdown 导出（供 Redoc / OpenClaw） ────────────────
 
 def _render_signal_md(i: int, item: Dict) -> str:
-    """Render a signal as clean markdown (no RedCity font tags)."""
+    """Render a signal as clean markdown (no webhook font tags)."""
     parts = []
     title = item.get("title", "Untitled")
     signal_text = item.get("signal_text", "")

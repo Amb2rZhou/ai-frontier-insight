@@ -29,12 +29,8 @@ analysis:
 
 delivery:
   webhook:
-    url_base: "https://redcity-open.xiaohongshu.com/api/robot/webhook/send"
-    # Channel keys from WEBHOOK_CHANNELS env var (JSON: {"channel_name":"key", ...})
-    alert_channels: ["insight bot（测试版）"]   # 运营错误信息只发这些频道
-  redoc:
-    enabled: true
-    # API details from REDOC_API_KEY / REDOC_BASE_URL GitHub Secrets
+    # url_base and channel keys configured via env vars (WEBHOOK_URL_BASE, WEBHOOK_CHANNELS)
+    alert_channels: []   # 运营错误信息只发这些频道
 
 memory:
   retention_weeks: 12            # Keep 12 weeks of history
