@@ -2,7 +2,7 @@
 title: Creative AI
 type: trend
 created: 2026-03-08
-updated: 2026-05-07
+updated: 2026-05-12
 ---
 
 # Creative AI
@@ -13,6 +13,8 @@ AI-powered tools for image, video, audio, and 3D content generation.
 
 ## Timeline
 
+- **2026-05-12**: [[google-deepmind|Google]]'s [[agent-frameworks|Agentic]] Autoregressive Diffusion (A2RD) for Long Video Consistency
+- **2026-05-12**: [[apple|Apple]]'s Normalizing Trajectory Models: New Diffusion Framework with Exact Likelihood Training
 - **2026-05-07**: [[xai|xAI]] Launches Image Generation Quality Mode on API: 300M+ Images Generated
 - **2026-05-02**: InteractWeb-Bench: Interactive Benchmark for Multimodal Website Generation
 - **2026-05-02**: [[nvidia|NVIDIA]] Nemotron 3 Nano Omni: Efficient Open Multimodal Model

@@ -2,7 +2,7 @@
 title: OpenAI
 type: company
 created: 2026-02-25
-updated: 2026-05-10
+updated: 2026-05-12
 ---
 
 # OpenAI
@@ -11,6 +11,11 @@ The leading commercial AI lab, maker of [[gpt|GPT]] models, ChatGPT, [[codex|Cod
 
 ## Timeline
 
+- **2026-05-12**: OpenAI and [[alibaba|Alibaba]] [[qwen|Qwen]] Launch Ambassador Programs for Developer Community
+- **2026-05-12**: Ilya Sutskever Testifies at Musk v. Altman Trial; Reveals $7B Stake and Defense of OpenAI
+- **2026-05-12**: OpenAI Saves $97B in [[microsoft|Microsoft]] Deal, Shifts to External Financing
+- **2026-05-12**: Mira Murati's Thinking Machines Previews Real-Time Voice-Video AI Beyond Turn-Based Chat
+- **2026-05-12**: OpenAI Launches Daybreak Security AI Initiative to Rival [[claude|Claude]] Mythos
 - **2026-05-10**: [[nvidia|NVIDIA]] Commits $40B+ in AI Equity Deals This Year, Dominating Supply Chain Lock-In
 - **2026-05-09**: OpenAI Reports 46 Million Daily [[codex|Codex]] Installs; Agent Usage Exploding
 - **2026-05-07**: OpenAI's New Multipath Reliable Connection (MRC) Protocol for Large-[[scale-ai|Scale AI]] Training

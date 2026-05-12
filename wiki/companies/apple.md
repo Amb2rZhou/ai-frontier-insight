@@ -2,7 +2,7 @@
 title: Apple
 type: company
 created: 2026-02-27
-updated: 2026-05-10
+updated: 2026-05-12
 ---
 
 # Apple
@@ -11,6 +11,7 @@ Consumer technology giant with growing on-device AI capabilities and research co
 
 ## Timeline
 
+- **2026-05-12**: Apple's Normalizing Trajectory Models: New Diffusion Framework with Exact Likelihood Training
 - **2026-05-10**: Apple Siri Revamp May Be Overtaken by [[claude|Claude Code]] and [[codex|Codex]] as AI Assistants Evolve
 - **2026-05-10**: Apple Proposes Real-Time Tool-Call Supervision to Prevent Agent Errors Before Execution
 - **2026-05-09**: Apple Researchers Propose TIDE to Address LLM Token Collapse via Embedding Memory

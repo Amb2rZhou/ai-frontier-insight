@@ -2,7 +2,7 @@
 title: xAI
 type: company
 created: 2026-02-25
-updated: 2026-05-07
+updated: 2026-05-12
 ---
 
 # xAI
@@ -11,6 +11,7 @@ Elon Musk's AI company, maker of [[grok|Grok]] models. Known for aggressive infr
 
 ## Timeline
 
+- **2026-05-12**: Ilya Sutskever Testifies at Musk v. Altman Trial; Reveals $7B Stake and Defense of [[openai|OpenAI]]
 - **2026-05-07**: xAI Launches Image Generation Quality Mode on API: 300M+ Images Generated
 - **2026-05-07**: [[anthropic|Anthropic]] Rents Entire xAI Colossus 1 Compute (220K+ [[nvidia|NVIDIA]] GPUs): New Frontier Alliance
 - **2026-05-06**: Eight AI Companies Including [[google-deepmind|Google]], [[microsoft|Microsoft]], and [[openai|OpenAI]] Agree to Voluntary Model Sharing with Gov

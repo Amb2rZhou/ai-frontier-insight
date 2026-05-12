@@ -2,7 +2,7 @@
 title: Codex
 type: product
 created: 2026-02-25
-updated: 2026-05-10
+updated: 2026-05-12
 ---
 
 # Codex
@@ -11,6 +11,7 @@ updated: 2026-05-10
 
 ## Timeline
 
+- **2026-05-12**: [[openai|OpenAI]] Launches Daybreak Security AI Initiative to Rival [[claude|Claude]] Mythos
 - **2026-05-10**: [[apple|Apple]] Siri Revamp May Be Overtaken by [[claude|Claude Code]] and Codex as AI Assistants Evolve
 - **2026-05-10**: Codex Learns to Consider Social Signals During PR Review, Enhancing Code Review Quality
 - **2026-05-10**: Codex Agents Now Automate QA Video Proof Generation for GitHub Issues

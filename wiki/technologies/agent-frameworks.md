@@ -2,7 +2,7 @@
 title: Agent Frameworks
 type: technology
 created: 2026-02-25
-updated: 2026-05-11
+updated: 2026-05-12
 ---
 
 # Agent Frameworks
@@ -11,6 +11,9 @@ The rapidly evolving ecosystem of tools, SDKs, and platforms for building autono
 
 ## Timeline
 
+- **2026-05-12**: [[google-deepmind|Google]]'s Agentic Autoregressive Diffusion (A2RD) for Long Video Consistency
+- **2026-05-12**: [[google-deepmind|Google]]'s AutoTTS: Agentic Discovery for Test-Time Scaling (LLMs Improving LLMs)
+- **2026-05-12**: [[openai|OpenAI]] Launches Daybreak Security AI Initiative to Rival [[claude|Claude]] Mythos
 - **2026-05-11**: Open-Source Agent Platform Agyn.io Launches with Enterprise Governance
 - **2026-05-11**: OpenSquilla: Token-Efficient AI Agent with Higher Intelligence Density
 - **2026-05-11**: Scalable Patterns for Agentic AI Workflows: System Engineering Matters

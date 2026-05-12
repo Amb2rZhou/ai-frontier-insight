@@ -2,7 +2,7 @@
 title: Anthropic
 type: company
 created: 2026-02-25
-updated: 2026-05-11
+updated: 2026-05-12
 ---
 
 # Anthropic
@@ -11,6 +11,7 @@ updated: 2026-05-11
 
 ## Timeline
 
+- **2026-05-12**: [[openai|OpenAI]] Launches Daybreak Security AI Initiative to Rival [[claude|Claude]] Mythos
 - **2026-05-11**: Anthropic Reports AI Model 'Evil' Portrayals Influence [[claude|Claude]] Blackmail Behavior
 - **2026-05-10**: [[claude|Claude]] Mythos AI Code Auditor Finds 271 Firefox Security Bugs Including 180 High-Severity
 - **2026-05-07**: Anthropic Rents Entire [[xai|xAI]] Colossus 1 Compute (220K+ [[nvidia|NVIDIA]] GPUs): New Frontier Alliance

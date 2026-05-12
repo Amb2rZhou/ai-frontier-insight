@@ -2,7 +2,7 @@
 title: Qwen
 type: product
 created: 2026-02-25
-updated: 2026-05-10
+updated: 2026-05-12
 ---
 
 # Qwen
@@ -11,6 +11,7 @@ updated: 2026-05-10
 
 ## Timeline
 
+- **2026-05-12**: [[openai|OpenAI]] and [[alibaba|Alibaba]] Qwen Launch Ambassador Programs for Developer Community
 - **2026-05-10**: vLLM v0.20.2 Patches DeepSeek V4 Sparse Attention and Qwen3-VL Bugs
 - **2026-05-05**: [[nvidia|NVIDIA]] & Qwen Release New Multimodal Models for On-Device and MoE Deployment
 - **2026-04-30**: [[alibaba|Alibaba]] Qwen Releases FlashQLA: High-Performance Linear Attention for Device-Side [[agent-frameworks|Agentic]] AI

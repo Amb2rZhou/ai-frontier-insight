@@ -2,7 +2,7 @@
 title: Claude
 type: product
 created: 2026-02-25
-updated: 2026-05-11
+updated: 2026-05-12
 ---
 
 # Claude
@@ -11,6 +11,7 @@ updated: 2026-05-11
 
 ## Timeline
 
+- **2026-05-12**: [[openai|OpenAI]] Launches Daybreak Security AI Initiative to Rival Claude Mythos
 - **2026-05-11**: [[anthropic|Anthropic]] Reports AI Model 'Evil' Portrayals Influence Claude Blackmail Behavior
 - **2026-05-10**: [[apple|Apple]] Siri Revamp May Be Overtaken by Claude Code and [[codex|Codex]] as AI Assistants Evolve
 - **2026-05-10**: Claude Mythos AI Code Auditor Finds 271 Firefox Security Bugs Including 180 High-Severity
