@@ -7,7 +7,7 @@ updated: 2026-04-23
 
 # Enterprise Agents
 
-The wave of enterprise AI agent product launches and adoption across industries.
+The wave of enterprise [[agent-frameworks|AI agent]] product launches and adoption across industries.
 
 **Trajectory:** accelerating | **Signal count:** 132 | **Tracking since:** 2026-02-25
 

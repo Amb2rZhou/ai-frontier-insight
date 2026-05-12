@@ -43,7 +43,7 @@ The rapidly evolving ecosystem of tools, SDKs, and platforms for building autono
 - **2026-04-29**: Mistral AI Launches Workflows: Temporal-Powered Agent Orchestration Engine
 - **2026-04-29**: Poolside Releases Laguna XS.2 Open Model for Local Agentic Coding
 - **2026-04-29**: [[meta|Meta]] Proposes 'From Skills to Talent' Framework for Organizing Heterogeneous AI Agents as a Company
-- **2026-04-28**: Xiaomi MiMo-V2.5 Open Source Models Excel at Agentic 'Claw' Tasks · [VentureBeat](https://venturebeat.com/technology/open-source-xiaomi-mimo-v2-5-and-v2-5-pro-are-among-the-most-efficient-and-affordable-at-agentic-claw-tasks) · [Hugging Face](https://huggingface.co/xiaomi)
+- **2026-04-28**: Xiaomi MiMo-V2.5 [[open-source-models|Open Source Models]] Excel at Agentic 'Claw' Tasks · [VentureBeat](https://venturebeat.com/technology/open-source-xiaomi-mimo-v2-5-and-v2-5-pro-are-among-the-most-efficient-and-affordable-at-agentic-claw-tasks) · [Hugging Face](https://huggingface.co/xiaomi)
 - **2026-04-28**: Redis Research: RAG Fine-Tuning Can Cut [[rag|Retrieval]] Accuracy by 40% · [VentureBeat](https://venturebeat.com/data/rag-precision-tuning-can-quietly-cut-retrieval-accuracy-by-40-putting-agentic-pipelines-at-risk)
 - **2026-04-27**: [[alibaba|Alibaba]] Releases AgenticQwen-30B-A3B MoE Model Matching Qwen3-235B on Tool-Use Benchmarks · [Twitter @omarsar0](https://x.com/omarsar0/status/2048504655932760565)
 - **2026-04-27**: DeepSeek API Price Cut: Input Cache Hits Reduced to 1/10 of Original Price · [Twitter DeepSeek官方](https://x.com/deepseek_ai/status/2048440764368347611)
@@ -138,7 +138,7 @@ The rapidly evolving ecosystem of tools, SDKs, and platforms for building autono
 - **2026-04-03**: [[alibaba|Alibaba]] [[qwen|Qwen]] Launches Qwen3.6-Plus, Targeting Real-World Agent Capabilities · [Alibaba Qwen Official Twitter](https://x.com/Alibaba_Qwen/status/2039693436622872864) · [Alibaba Qwen Official Twitter (Partnership)](https://x.com/Alibaba_Qwen/status/2039751581575659833)
 - **2026-04-03**: [[perplexity|Perplexity]] AI's 'Computer' Agent Can Now Assist with Tax Preparation · [Perplexity AI Official Twitter](https://x.com/perplexity_ai/status/2039740898830073889)
 - **2026-04-03**: [[claude|Claude Code]] Desktop Expands [[computer-use|Computer Use]] to Windows · [Claude AI Official Twitter](https://x.com/claudeai/status/2039836891508261106)
-- **2026-04-03**: [[meta|Meta]] Details Ranking Engineer Agent's AI Infrastructure Optimization · [Meta Engineering Blog](https://engineering.fb.com/2026/04/02/developer-tools/kernelevolve-how-metas-ranking-engineer-agent-optimizes-ai-infrastructure/)
+- **2026-04-03**: [[meta|Meta]] Details Ranking Engineer Agent's [[ai-infrastructure|AI Infrastructure]] Optimization · [Meta Engineering Blog](https://engineering.fb.com/2026/04/02/developer-tools/kernelevolve-how-metas-ranking-engineer-agent-optimizes-ai-infrastructure/)
 - **2026-04-03**: Box Launches Enterprise Content Agent with Security Controls · [Box CEO Aaron Levie Twitter](https://x.com/levie/status/2039722279014432932)
 - **2026-04-03**: [[openai|OpenAI]] [[gpt|ChatGPT]] Voice Mode Now Available in CarPlay · [OpenAI Official Twitter](https://x.com/OpenAI/status/2039748699350532097)
 - **2026-04-02**: [[google-deepmind|Google DeepMind]] Introduces AI Agent Traps Framework · [@omarsar0 (citing Google DeepMind paper)](https://x.com/omarsar0/status/2039383554510217707)

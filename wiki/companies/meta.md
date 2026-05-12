@@ -18,7 +18,7 @@ Parent company of Facebook, Instagram, and WhatsApp. Major AI investor through F
 - **2026-04-29**: Meta Proposes 'From Skills to Talent' Framework for Organizing Heterogeneous AI Agents as a Company
 - **2026-04-26**: [[google-deepmind|Google]] [[gemma|Gemma]] Team Hosts Global 'Gemmaverse' Events for Developer Ecosystem · [Google Gemma 团队成员 @osanseviero](https://x.com/osanseviero/status/2047857010721665046)
 - **2026-04-26**: Meta AI Research Evolves LLM Ecosystems for Dynamic Orchestration at ICLR 2026 · [Meta FAIR 研究员 @hardmaru](https://x.com/hardmaru/status/2048192503552335923)
-- **2026-04-25**: Meta Partners with AWS for Massive Graviton-Based AI Infrastructure · [Meta AI (X/Twitter)](https://x.com/AIatMeta/status/2047647617681957207)
+- **2026-04-25**: Meta Partners with AWS for Massive Graviton-Based [[ai-infrastructure|AI Infrastructure]] · [Meta AI (X/Twitter)](https://x.com/AIatMeta/status/2047647617681957207)
 - **2026-04-25**: [[google-deepmind|Google]] NPU Unlocking with LiteRT Delivers On-Device AI Performance Leap · [Google Developers (X/Twitter)](https://x.com/googledevs/status/2047722234786025665)
 - **2026-04-24**: Meta AI Research: Scaling Test-Time Compute for [[agent-frameworks|Agentic]] Coding · [Arxiv - AI at Meta](https://huggingface.co/papers/2604.16529)
 - **2026-04-22**: Meta Records Employee Keystrokes for AI Training, Raising Privacy Concerns · [TechCrunch](https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/) · [@GaryMarcus](https://x.com/GaryMarcus/status/2046704494751121766)

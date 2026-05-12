@@ -7,7 +7,7 @@ updated: 2026-05-09
 
 # MCP Protocol
 
-An open protocol for connecting AI models to external tools and data sources. Originally developed by Anthropic, now becoming an industry standard for agent-tool interoperability.
+An open protocol for connecting AI models to external tools and data sources. Originally developed by [[anthropic|Anthropic]], now becoming an industry standard for agent-tool interoperability.
 
 ## Timeline
 

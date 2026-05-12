@@ -5,16 +5,16 @@ created: 2026-02-25
 updated: 2026-04-23
 ---
 
-# Autonomous AI Agent Development Ecosystem Growth
+# Autonomous [[agent-frameworks|AI Agent]] Development Ecosystem Growth
 
-The broader ecosystem of autonomous AI agent development tools, frameworks, and communities.
+The broader ecosystem of autonomous [[agent-frameworks|AI agent]] development tools, frameworks, and communities.
 
 **Trajectory:** accelerating | **Signal count:** 168 | **Tracking since:** 2026-02-25
 
 ## Timeline
 
 - **2026-04-23**: Stanford research finds 'AI swarm tax' - single agents often outperform [[multi-agent-systems|multi-agent systems]]; [[tencent|Tencent]] releases PlayCoder framework for LLM-generated GUI code correction
-- **2026-04-22**: Google Unveils 'Deep Research' and 'Deep Research Max' Autonomous Research Agents
+- **2026-04-22**: [[google-deepmind|Google]] Unveils 'Deep Research' and 'Deep Research Max' Autonomous Research Agents
 - **2026-04-21**: Tencent and [[openclaw|OpenClaw]] Collaborate on Agent Harness Performance; GitHub Cofounder Discusses Rethinking Git for AI Agents Era
 - **2026-04-20**: Hermes Agent Hits 100K GitHub Stars, Challenging OpenClaw
 - **2026-04-19**: [[hugging-face|Hugging Face]] Launches Platform for AI Agents to Call 1M+ Spaces
@@ -56,12 +56,12 @@ The broader ecosystem of autonomous AI agent development tools, frameworks, and 
 [[ollama|Ollama]] v0.21.0 with Hermes self-learning agent (Apr 18). [[meta|Meta]] "Hyperagents" for self-improving AI (Apr 16). SkillClaw for collective skill evolution (Apr 13). Auto-Deep-Researcher runs experiments 24/7 (Apr 13).
 
 ### Rethinking Fundamentals
-GitHub cofounder discussed rethinking Git for AI agents era (Apr 21). Google Deep Research and Deep Research Max launched (Apr 22).
+GitHub cofounder discussed rethinking Git for AI agents era (Apr 21). [[google-deepmind|Google]] Deep Research and Deep Research Max launched (Apr 22).
 
 ## Weekly Insights
 - **W12 (Model Race to Habitat War)**: [[openclaw|OpenClaw]] got engineering support from [[nvidia|NVIDIA]] and [[microsoft|Microsoft]], crossed into physical robotics and drones — the agent ecosystem expanded from software into the physical world, while paid installation services emerged in China showing non-technical adoption.
 - **W14 (Agent Moved into the OS)**: Chollet released ARC-AGI-3 benchmark focused on "approaching human action efficiency" rather than problem-solving ability — evaluation frameworks themselves shifted from measuring whether agents can answer to measuring whether they can act efficiently, reflecting the fundamental redefinition of what agents are for.
-- **W16 (No One Is Verifying)**: Reddit user replaced entire team with 19 Claude agents on Railway — individual non-engineers now build complete business systems using agents, skipping traditional development, QA, and verification processes entirely. MIT positioned current agent infra as "DNS era" where identity, authentication, and trust protocols still need to be built from scratch.
+- **W16 (No One Is Verifying)**: Reddit user replaced entire team with 19 [[claude|Claude]] agents on Railway — individual non-engineers now build complete business systems using agents, skipping traditional development, QA, and verification processes entirely. MIT positioned current agent infra as "DNS era" where identity, authentication, and trust protocols still need to be built from scratch.
 - **W17 (Context War)**: [[ollama|Ollama]] introduced Hermes self-learning agent, and [[codex|Codex]] gained persistent memory — agents are no longer stateless tools but context-accumulating companions. Model companies are building their own user-context moats through continuous interaction, independent of incumbent data.
 
 ## Related

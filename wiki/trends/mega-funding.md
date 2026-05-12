@@ -30,7 +30,7 @@ AI companies raised more in Q1 2026 than all of 2025 (a16z, Apr 11). Kleiner Per
 29% of Fortune 500 are paying AI startup customers. Block stock rose 20%+ after AI-driven 40% workforce cut (Feb 28). Cerebras filed for IPO with major [[openai|OpenAI]] deal (Apr 19).
 
 ## Weekly Insights
-- **W10 (Controllability Replaces Capability)**: [[openai|OpenAI]] raised $110B and ChatGPT reached 900M weekly users — but the same week demonstrated that massive scale doesn't insulate from political risk when [[anthropic|Anthropic]]'s consumer brand surge ([[claude|Claude]] #1 on App Store) showed governance stance can drive rapid market share shifts.
+- **W10 (Controllability Replaces Capability)**: [[openai|OpenAI]] raised $110B and [[gpt|ChatGPT]] reached 900M weekly users — but the same week demonstrated that massive scale doesn't insulate from political risk when [[anthropic|Anthropic]]'s consumer brand surge ([[claude|Claude]] #1 on App Store) showed governance stance can drive rapid market share shifts.
 - **W15 (The Math Doesn't Work)**: [[openai|OpenAI]] completed $122B at $852B valuation, but the fundraise must be evaluated against the revelation that agent economics break subscription pricing — monthly revenue of $2B (annualized $24B) sounds large, but if agent infrastructure costs grow faster than revenue, more capital just means larger losses.
 - **W16 (No One Is Verifying)**: Q1 2026 AI funding exceeded all of 2025 (a16z data), and 29% of Fortune 500 became paying AI startup customers — capital pressure drove deployment speed that far outpaced verification capability, creating a structural mismatch between investment pace and reliability measurement.
 

@@ -13,7 +13,7 @@ The competitive dynamics of Chinese AI companies and their growing global impact
 
 ## Timeline
 
-- **2026-04-21**: [[alibaba|Alibaba]] Releases [[qwen|Qwen3.6]]-Max-Preview with Enhanced Agentic Coding; Moonshot AI Releases Kimi K2.6 Model on [[hugging-face|Hugging Face]]; [[tencent|Tencent]] and [[openclaw|OpenClaw]] Collaborate on Agent Harness Performance
+- **2026-04-21**: [[alibaba|Alibaba]] Releases [[qwen|Qwen3.6]]-Max-Preview with Enhanced [[agent-frameworks|Agentic]] Coding; Moonshot AI Releases Kimi K2.6 Model on [[hugging-face|Hugging Face]]; [[tencent|Tencent]] and [[openclaw|OpenClaw]] Collaborate on Agent Harness Performance
 - **2026-04-20**: Qwen3.6-35B-A3B Multimodal MoE Model Gains Traction on HuggingFace
 - **2026-04-17**: [[bytedance|ByteDance]] Releases Seedance 2.0 for Advanced Audio-Video Generation; Tencent's HY-World 2.0: A Multi-Modal World Model for 3D Scene Generation
 - **2026-04-17**: ByteDance releases Seedance 2.0; Tencent releases HY-World 2.0
@@ -30,10 +30,10 @@ The competitive dynamics of Chinese AI companies and their growing global impact
 ## Key Developments
 
 ### Model Releases
-Alibaba Qwen3.6-Plus topped OpenRouter charts (Apr 9). Z.ai GLM-5.1 claimed SOTA on coding (Apr 8). MiniMax M2.7 230B open model with SOTA performance (Apr 13). Moonshot Kimi K2.6 (Apr 21). ByteDance Seedance 2.0 (Apr 17). Tencent HY-World 2.0 (Apr 17).
+[[alibaba|Alibaba]] Qwen3.6-Plus topped OpenRouter charts (Apr 9). Z.ai GLM-5.1 claimed SOTA on coding (Apr 8). MiniMax M2.7 230B open model with SOTA performance (Apr 13). Moonshot Kimi K2.6 (Apr 21). [[bytedance|ByteDance]] Seedance 2.0 (Apr 17). [[tencent|Tencent]] HY-World 2.0 (Apr 17).
 
 ### Research
-Peking University DataFlex for dynamic LLM training (Apr 6). Alibaba AgentSwing for adaptive context management (Apr 14). ByteDance LeapAlign for efficient fine-tuning (Apr 19).
+Peking University DataFlex for dynamic LLM training (Apr 6). [[alibaba|Alibaba]] AgentSwing for adaptive context management (Apr 14). [[bytedance|ByteDance]] LeapAlign for efficient fine-tuning (Apr 19).
 
 ### Global Impact
 [[qwen|Qwen]] models widely fine-tuned globally. [[cursor-ai|Cursor]] based Composer 2 on Moonshot's Kimi K2.5. Chinese open-source models increasingly competitive with Western closed models.

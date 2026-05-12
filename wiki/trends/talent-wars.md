@@ -26,14 +26,14 @@ Competition for AI talent, major acquisitions, legal battles, and corporate rest
 - **2026-04-01**: OpenAI Completes $122B Funding Round at $852B Valuation
 - **2026-03-28**: NeurIPS Reverses Policy After Backlash from Chinese Researchers Over Geopolitical Lines
 - **2026-03-25**: Wojciech Zaremba joins OpenAI Foundation to lead AI resilience
-- **2026-03-24**: [[meta|Meta]] Hires AI Agent Startup Dreamer Team
+- **2026-03-24**: [[meta|Meta]] Hires [[agent-frameworks|AI Agent]] Startup Dreamer Team
 - **2026-03-20**: OpenAI acquires code agent startup Astral to boost [[codex|Codex]] team
 - **2026-03-18**: [[google-deepmind|Google DeepMind]] launches AGI cognitive framework hackathon with $200K prizes, intensifying talent competition
 - **2026-03-16**: OpenAI Codex Team Culture Emphasizes Radical Improvement
 - **2026-03-14**: Anthropic-Pentagon Battle Highlights AI Military Use and Corporate Resistance
 - **2026-03-13**: a16z Podcast: Palantir CEO Alex Karp on Zero-Sum AI Race and National Defense
 - **2026-03-11**: Anthropic Expands to Australia & New Zealand, Opens Sydney Office
-- **2026-03-10**: OpenAI acquires Promptfoo to strengthen AI security testing
+- **2026-03-10**: OpenAI acquires Promptfoo to strengthen [[ai-security|AI security]] testing
 - **2026-03-09**: OpenAI faces $10M lawsuit over AI-generated legal advice hallucination
 - **2026-03-09**: Gary Marcus critiques AI leadership, highlighting growing public backlash
 - **2026-03-08**: OpenAI Robotics Head resigns over Pentagon deal
@@ -60,7 +60,7 @@ Competition for AI talent, major acquisitions, legal battles, and corporate rest
 [[openai|OpenAI]] expanded London hub (Feb 27). Robotics Head resigned over Pentagon deal (Mar 8). COO Brad Lightcap moved to Special Projects (Apr 4). [[sora|Sora]] leads departed (Apr 18). [[anthropic|Anthropic]] expanded to Australia/NZ (Mar 11).
 
 ## Weekly Insights
-- **W10 (Controllability Replaces Capability)**: Pentagon recruited AI talent from [[anthropic|Anthropic]] and Uber, while 300+ Google employees and 60+ [[openai|OpenAI]] employees signed public letters supporting Anthropic's stance — revealing that AI talent has political preferences that can be activated, making corporate governance positions a talent retention factor.
+- **W10 (Controllability Replaces Capability)**: Pentagon recruited AI talent from [[anthropic|Anthropic]] and Uber, while 300+ [[google-deepmind|Google]] employees and 60+ [[openai|OpenAI]] employees signed public letters supporting Anthropic's stance — revealing that AI talent has political preferences that can be activated, making corporate governance positions a talent retention factor.
 
 ## Related
 
