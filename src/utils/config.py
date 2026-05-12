@@ -25,6 +25,32 @@ def load_sources() -> dict:
         return yaml.safe_load(f)
 
 
+def _render_entity_dict_for_prompt() -> str:
+    """Render the wiki entity slug dictionary as a markdown bullet list for prompt injection."""
+    try:
+        from ..wiki.linker import get_entity_map
+    except Exception:
+        return "(entity dict unavailable)"
+    em = get_entity_map()
+    # group by category (companies / products / technologies / trends)
+    by_cat: dict[str, list[tuple[str, str]]] = {}
+    seen_pages: set[str] = set()
+    for keyword, page in em.items():
+        if page in seen_pages:
+            continue
+        seen_pages.add(page)
+        cat = page.split("/")[0]
+        slug = page.split("/")[-1]
+        by_cat.setdefault(cat, []).append((slug, keyword))
+    lines: list[str] = []
+    for cat in ("companies", "products", "technologies", "trends"):
+        if cat not in by_cat:
+            continue
+        slugs = sorted({s for s, _ in by_cat[cat]})
+        lines.append(f"- **{cat}**: " + ", ".join(slugs))
+    return "\n".join(lines) if lines else "(no entities)"
+
+
 def load_prompt(name: str, **kwargs) -> str:
     """Load a prompt template and format with kwargs.
 
@@ -34,10 +60,27 @@ def load_prompt(name: str, **kwargs) -> str:
 
     Returns:
         Formatted prompt string
+
+    Auto-injection:
+        If the template contains the literal placeholder ``{wiki_linking_rules}``
+        (without being supplied via kwargs), the shared
+        ``wiki_linking_addendum.txt`` is rendered (with ``{entity_dict}``
+        substituted by the live wiki entity slug dictionary) and substituted in.
     """
     path = os.path.join(PROMPTS_DIR, f"{name}.txt")
     with open(path, "r", encoding="utf-8") as f:
         template = f.read()
+
+    if "{wiki_linking_rules}" in template and "wiki_linking_rules" not in kwargs:
+        addendum_path = os.path.join(PROMPTS_DIR, "wiki_linking_addendum.txt")
+        if os.path.exists(addendum_path):
+            with open(addendum_path, "r", encoding="utf-8") as af:
+                addendum = af.read()
+            addendum = addendum.replace("{entity_dict}", _render_entity_dict_for_prompt())
+            kwargs["wiki_linking_rules"] = addendum
+        else:
+            kwargs["wiki_linking_rules"] = ""
+
     if kwargs:
         return template.format(**kwargs)
     return template

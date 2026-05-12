@@ -63,10 +63,23 @@ fi
 # Webhook 正式频道发送已停用，改为 Red Lobi 拉取 GitHub markdown
 # 保留 send-daily 命令用于手动发送（如需临时恢复）
 
-# Step 3: 提交 draft 和 memory 到 git
-log "Step 3: 提交到 Git..."
+# Step 3: Wiki 同步 — linker 兜底 + 检测 weekly 是否需要生成 wiki page
+log "Step 3: Wiki 同步..."
+if /opt/anaconda3/bin/python3 -m src.wiki.weekly_sync --all >> "$LOG" 2>&1; then
+    log "weekly_sync 完成"
+else
+    log "[!] weekly_sync 异常（非致命）"
+fi
+if /opt/anaconda3/bin/python3 -m src.wiki.linker wiki/companies wiki/products wiki/technologies wiki/trends wiki/weekly-summaries --in-place >> "$LOG" 2>&1; then
+    log "wiki linker 完成"
+else
+    log "[!] wiki linker 异常（非致命）"
+fi
+
+# Step 4: 提交 draft 和 memory 到 git
+log "Step 4: 提交到 Git..."
 cd "$DIR"
-/usr/bin/git add config/drafts/ memory/ data/daily/ data/weekly/ docs/_posts/ 2>/dev/null || true
+/usr/bin/git add config/drafts/ memory/ data/daily/ data/weekly/ docs/_posts/ wiki/ 2>/dev/null || true
 if ! /usr/bin/git diff --cached --quiet 2>/dev/null; then
     /usr/bin/git commit -m "daily: $(date +%Y-%m-%d) brief"
     /usr/bin/git push

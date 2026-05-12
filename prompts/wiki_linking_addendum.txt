@@ -1,0 +1,16 @@
+
+
+---
+
+## Wiki Linking Rules (for markdown fields)
+
+输出 markdown 正文（context / why_this_matters / what_changes / what_comes_next / self_correction
+等长文字段）时，对于下列已知 entity 的提及，请直接用 `[[slug|原文]]` 形式包裹（slug 必须严格匹配下表）。
+不在下表的实体（如 Adobe / Mistral / ServiceNow）用 plain text，不要瞎编 slug。
+JSON 结构、key 名、code block、URL **不要** 加 wiki-link。
+
+**已知 entity slug**（仅取一次出现的实体即可，避免文本过密）：
+
+{entity_dict}
+
+后处理脚本会兜底补漏。优先保证：(a) slug 拼写正确；(b) 不在 JSON 结构 key 上加；(c) code block 内不加。
