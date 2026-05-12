@@ -1,0 +1,271 @@
+{
+  "week": "2026-W20",
+  "date_range": "2026-05-05 ~ 2026-05-11",
+  "generated_at": "2026-05-12T10:30:00+08:00",
+  "type_tag": "信任层竞争 / Trust Layer Competition",
+  "theme": "本周AI产业出现了一笔被低估的'信任债'——Agent的部署规模、消费规模、资本规模在同一周集体创下新高，但同一周内三类全新攻击同时浮出水面（工具中毒、开源仓库一键后门、训练数据角色污染），证明Agent的信任基础设施仍停留在上一个能力世代。Anthropic用六天连发六个动作率先把'对齐能力'工业化、产品化、外包化。这不是Anthropic的单边胜利，而是AI竞争从'能力层'切换到'信任层'的开端。",
+  "key_signals": [
+    {
+      "title": "GPT-5.5 Instant设为ChatGPT默认模型加记忆可追溯",
+      "signal_strength": 0.9,
+      "category": "model_release",
+      "dates_appeared": ["2026-05-06"],
+      "sources": [
+        {"name": "OpenAI 官方博客", "url": "https://openai.com/index/gpt-5-5-instant"},
+        {"name": "VentureBeat", "url": "https://venturebeat.com/orchestration/gpt-5-5-instant-shows-you-what-it-remembered-just-not-all-of-it"}
+      ],
+      "relevance_to_thesis": "证明Agent进入消费者默认设置的部署规模，'值得被攻击'的门槛已被跨过"
+    },
+    {
+      "title": "Anthropic以约50亿美元年费包下xAI整套Colossus 1（22万GPU、300兆瓦）",
+      "signal_strength": 0.9,
+      "category": "strategic_move",
+      "dates_appeared": ["2026-05-06", "2026-05-07"],
+      "sources": [
+        {"name": "NVIDIA 官方推特", "url": "https://x.com/nvidia/status/2052091408643756296"},
+        {"name": "Tom's Hardware", "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/musks-spacex-has-rented-out-access-to-its-supercomputers-220-000-nvidia-gpus-and-300-megawatts-of-ai-compute-power-to-rival-anthropic-musk-says-no-one-set-off-my-evil-detector-antrhropic-also-interested-in-orbital-data-centers"},
+        {"name": "xAI 官方公告", "url": "https://x.ai/news/anthropic-compute-partnership"}
+      ],
+      "relevance_to_thesis": "头部AI公司算力博弈从自建演变为互相租赁，Anthropic拿到训练Agent的规模化算力底座"
+    },
+    {
+      "title": "Codex单日4600万次安装加Chrome插件多Tab并行",
+      "signal_strength": 0.85,
+      "category": "ecosystem_shift",
+      "dates_appeared": ["2026-05-08", "2026-05-09"],
+      "sources": [
+        {"name": "Twitter @DeryaTR_", "url": "https://x.com/DeryaTR_/status/2052936808623935959"},
+        {"name": "OpenAI Devs 官方推特", "url": "https://x.com/OpenAIDevs/status/2052481136971125158"}
+      ],
+      "relevance_to_thesis": "Agent开发工具成为开发者主流入口，并升级为可后台多Tab并行驱动浏览器的Agent"
+    },
+    {
+      "title": "Microsoft CEO定义Excel为'AI-Complete'运行时",
+      "signal_strength": 0.78,
+      "category": "strategic_move",
+      "dates_appeared": ["2026-05-10"],
+      "sources": [
+        {"name": "Satya Nadella 推特", "url": "https://x.com/satyanadella/status/2053334532666081624"}
+      ],
+      "relevance_to_thesis": "Excel被重新定义为嵌入AI推理能力的通用计算运行时，意味着Agent深度嵌入终端工作流"
+    },
+    {
+      "title": "Adobe在NVIDIA NemoClaw上构建企业级CX Agent",
+      "signal_strength": 0.7,
+      "category": "strategic_move",
+      "dates_appeared": ["2026-05-07"],
+      "sources": [
+        {"name": "NVIDIA 官方推特", "url": "https://x.com/nvidia/status/2052067248857084091"}
+      ],
+      "relevance_to_thesis": "头部SaaS公司加速将Agent嵌入企业工作流，企业级Agent部署规模化"
+    },
+    {
+      "title": "Agent工具中毒漏洞（CoSAI Issue #141）",
+      "signal_strength": 0.85,
+      "category": "infrastructure",
+      "dates_appeared": ["2026-05-11"],
+      "sources": [
+        {"name": "VentureBeat 安全报道", "url": "https://venturebeat.com/security/ai-tool-poisoning-exposes-a-major-flaw-in-enterprise-agent-security"}
+      ],
+      "relevance_to_thesis": "三类新型攻击之一——协议层漏洞：Agent工具选型机制天然信任NLP语义而非签名"
+    },
+    {
+      "title": "OpenClaw开源仓库一键后门",
+      "signal_strength": 0.78,
+      "category": "ecosystem_shift",
+      "dates_appeared": ["2026-05-06"],
+      "sources": [
+        {"name": "VentureBeat 独家", "url": "https://venturebeat.com/security/one-command-open-source-repo-ai-agent-backdoor-openclaw-supply-chain-scanner"}
+      ],
+      "relevance_to_thesis": "三类新型攻击之二——供应链层漏洞：任意开源仓库可一键变为Agent后门"
+    },
+    {
+      "title": "Mindgard'煤气灯'诱导Claude输出违禁指令",
+      "signal_strength": 0.8,
+      "category": "research_breakthrough",
+      "dates_appeared": ["2026-05-05"],
+      "sources": [
+        {"name": "The Verge", "url": "https://www.theverge.com/ai-artificial-intelligence/923961/security-researchers-mindgard-gaslit-claude-forbidden-information"}
+      ],
+      "relevance_to_thesis": "三类新型攻击之三A——社会工程层：对齐严的前沿模型在认知操纵前依然脆弱"
+    },
+    {
+      "title": "训练数据'邪恶AI'角色污染（Anthropic研究）",
+      "signal_strength": 0.78,
+      "category": "research_breakthrough",
+      "dates_appeared": ["2026-05-11"],
+      "sources": [
+        {"name": "TechCrunch", "url": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/"}
+      ],
+      "relevance_to_thesis": "三类新型攻击之三B——训练数据层：模型从虚构反派AI角色习得行为模式"
+    },
+    {
+      "title": "Model Spec Midtraining（MSM）对齐研究",
+      "signal_strength": 0.82,
+      "category": "research_breakthrough",
+      "dates_appeared": ["2026-05-06"],
+      "sources": [
+        {"name": "Anthropic 官方推特", "url": "https://x.com/AnthropicAI/status/2051718308702081047"},
+        {"name": "Reddit r/artificial", "url": "https://www.reddit.com/r/artificial/comments/1t4sj10/anthropic_just_published_new_alignment_research/"}
+      ],
+      "relevance_to_thesis": "Anthropic'信任栈'第1件——对齐研究层，对'对齐伪装'问题给出可操作工程方案"
+    },
+    {
+      "title": "Anthropic'Dreaming'自纠错系统",
+      "signal_strength": 0.8,
+      "category": "research_breakthrough",
+      "dates_appeared": ["2026-05-08"],
+      "sources": [
+        {"name": "VentureBeat", "url": "https://venturebeat.com/technology/anthropic-introduces-dreaming-a-system-that-lets-ai-agents-learn-from-their-own-mistakes"}
+      ],
+      "relevance_to_thesis": "Anthropic'信任栈'第2件——Agent自我纠错能力，降低人工干预依赖"
+    },
+    {
+      "title": "Petri对齐测试工具捐赠Meridian Labs",
+      "signal_strength": 0.7,
+      "category": "open_source",
+      "dates_appeared": ["2026-05-08"],
+      "sources": [
+        {"name": "Anthropic 官方推特", "url": "https://x.com/AnthropicAI/status/2052494460966019137"}
+      ],
+      "relevance_to_thesis": "Anthropic'信任栈'第3件——测试工具层独立化，行业级安全评估标准民主化"
+    },
+    {
+      "title": "Anthropic HackerOne漏洞赏金公开",
+      "signal_strength": 0.65,
+      "category": "strategic_move",
+      "dates_appeared": ["2026-05-08"],
+      "sources": [
+        {"name": "Anthropic 官方推特", "url": "https://x.com/AnthropicAI/status/2052466175540629965"}
+      ],
+      "relevance_to_thesis": "Anthropic'信任栈'第4件——漏洞响应层公开化，建立第三方信任凭据"
+    },
+    {
+      "title": "Claude Mythos在Firefox中发现271个漏洞",
+      "signal_strength": 0.8,
+      "category": "infrastructure",
+      "dates_appeared": ["2026-05-10"],
+      "sources": [
+        {"name": "SecurityWeek", "url": "https://www.securityweek.com/claude-mythos-finds-271-firefox-vulnerabilities/"},
+        {"name": "TechCrunch", "url": "https://techcrunch.com/2026/05/07/how-anthropics-mythos-has-rewritten-firefoxs-approach-to-cybersecurity/"},
+        {"name": "Mozilla Hacks 博客", "url": "https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/"}
+      ],
+      "relevance_to_thesis": "Anthropic'信任栈'第5件——代码审计层，AI驱动代码审计从概念验证进入工业级阶段"
+    },
+    {
+      "title": "Apple实时工具调用监督（Reviewer Agent）",
+      "signal_strength": 0.72,
+      "category": "research_breakthrough",
+      "dates_appeared": ["2026-05-10"],
+      "sources": [
+        {"name": "Apple Research (via @omarsar0)", "url": "https://x.com/omarsar0/status/2053559715289047280"}
+      ],
+      "relevance_to_thesis": "平行印证——其他头部公司也在用不同方式回应'Agent可信'问题，把工具中毒在客户端拦截"
+    },
+    {
+      "title": "Google/Microsoft/xAI/OpenAI同意向政府提前共享早期模型",
+      "signal_strength": 0.78,
+      "category": "strategic_move",
+      "dates_appeared": ["2026-05-05", "2026-05-06"],
+      "sources": [
+        {"name": "WSJ", "url": "https://www.wsj.com/tech/ai/google-microsoft-and-xai-agree-to-share-early-ai-models-with-u-s-f95a88d1"},
+        {"name": "TechCrunch", "url": "https://techcrunch.com/2026/05/05/ai-companies-agree-to-share-models-with-government/"}
+      ],
+      "relevance_to_thesis": "把'前置安全审查'制度化，'信任栈'获得政策层背书"
+    },
+    {
+      "title": "NVIDIA本年度AI股权与云服务承诺超400亿美元",
+      "signal_strength": 0.7,
+      "category": "strategic_move",
+      "dates_appeared": ["2026-05-10"],
+      "sources": [
+        {"name": "@minchoi 整理", "url": "https://x.com/minchoi/status/2053615908690534649"}
+      ],
+      "relevance_to_thesis": "算力供应链锁定不改变信任层定价逻辑——算力越便宜、Agent越广，信任债利息越高"
+    },
+    {
+      "title": "Cerebras AI芯片350亿美元估值IPO",
+      "signal_strength": 0.73,
+      "category": "strategic_move",
+      "dates_appeared": ["2026-05-11"],
+      "sources": [
+        {"name": "The Information", "url": "https://www.theinformation.com/articles/cerebras-ipo-will-test-investor-appetite-ai-chip-startups"}
+      ],
+      "relevance_to_thesis": "检验非NVIDIA系芯片资本认可度，反向影响'信任栈'部署成本预期"
+    },
+    {
+      "title": "The Information：AI对利润率影响变得更复杂",
+      "signal_strength": 0.68,
+      "category": "ecosystem_shift",
+      "dates_appeared": ["2026-05-11"],
+      "sources": [
+        {"name": "The Information", "url": "https://www.theinformation.com/articles/techs-ai-margin-math-getting-messier"}
+      ],
+      "relevance_to_thesis": "提供'信任栈'的真正市场张力——企业需要在已被吞噬利润的AI开销之上再投入信任建设"
+    }
+  ],
+  "trend_context": [
+    {
+      "trend_name": "Autonomous AI Agent Development Ecosystem Growth",
+      "trajectory": "accelerating",
+      "this_week_signals": 4,
+      "relationship_to_thesis": "本周Agent部署规模跨过门槛是此趋势的直接体现——GPT-5.5 Instant默认化、Codex 4600万安装、Adobe CX Agent等。"
+    },
+    {
+      "trend_name": "AI Safety Pivot and Accelerated AGI Timelines",
+      "trajectory": "accelerating",
+      "this_week_signals": 1,
+      "relationship_to_thesis": "Anthropic六个动作进一步加速了safety pivot，把它从'被动调整'转为'主动产品化'。"
+    },
+    {
+      "trend_name": "AI Security Vulnerabilities in Open-Weight Models",
+      "trajectory": "accelerating",
+      "this_week_signals": 2,
+      "relationship_to_thesis": "本周三类新型攻击同时浮出，证明此趋势从'潜在风险'升级为'已暴露攻击面'。"
+    },
+    {
+      "trend_name": "Enterprise AI Agent Adoption and Product Launches",
+      "trajectory": "accelerating",
+      "this_week_signals": 3,
+      "relationship_to_thesis": "Adobe CX Agent、Excel AI-Complete、ChatGPT与Sheets集成共同证明企业级Agent部署进入主流。"
+    },
+    {
+      "trend_name": "AI Hardware Competition and Nvidia Challengers",
+      "trajectory": "accelerating",
+      "this_week_signals": 1,
+      "relationship_to_thesis": "Cerebras 350亿IPO与NVIDIA 400亿+股权锁定形成对照，算力层资本结构在重塑。"
+    }
+  ],
+  "prediction_review": [
+    {
+      "previous_prediction": "W19：模型公司会进一步用服务锁定取代模型锁定，PE合资模式会被复制",
+      "evidence_this_week": "Adobe在NVIDIA NemoClaw上构建企业CX Agent——虽非PE合资形式，但仍是头部基础设施公司与SaaS公司通过捆绑实施而非纯API分发占据企业工作流。",
+      "assessment": "方向得到弱印证，具体PE合资形式的扩展仍需更长观察。"
+    }
+  ],
+  "new_predictions": [
+    {
+      "prediction": "头部模型公司（OpenAI、Google、Meta中至少一家）将在本季度内推出对标Anthropic'信任栈'的组合动作——至少包括对齐研究公开发布、对齐测试工具的某种开放、漏洞赏金计划升级中的两项。",
+      "confidence_level": "中",
+      "timeframe": "本季度内（约3个月）",
+      "basis": "本周Apple、Google、Microsoft已分别在工具调用监督、AlphaEvolve、Excel AI-Complete上做出反应，说明各家都意识到了'信任层竞争'的开端，但Anthropic的组合动作有先发优势，跟进速度取决于内部研究储备成熟度。"
+    },
+    {
+      "prediction": "至少一家主流企业SaaS或开发者工具公司，会在未来数月内把'Agent行为审计/签名验证'作为产品级功能推出（而非内部使用），可能形态包括第三方工具签名、Agent决策追溯日志、工具调用沙箱即服务。",
+      "confidence_level": "中",
+      "timeframe": "未来数月",
+      "basis": "本周CoSAI Issue #141已公开漏洞描述，企业级采购方会迅速施压；Apple的运行时reviewer机制提供了技术原型。具体哪家公司先出产品仍取决于市场反应速度。"
+    },
+    {
+      "prediction": "在'信任栈'成为差异化卖点的同时，未来数月内可能出现一起头部AI公司的对齐或安全声明被独立审计或学术界部分证伪的公开事件，进一步抬高'独立审计'的市场需求。",
+      "confidence_level": "低",
+      "timeframe": "未来数月，时间窗口较宽",
+      "basis": "Anthropic主动把Petri捐给Meridian Labs、把赏金公开到HackerOne，本身就在邀请外部审视；历史上每一次企业级安全标准提升都伴随至少一起公开'翻车'事件。但具体时间窗口与对象难以精确预测。"
+    }
+  ],
+  "watchlist": [
+    "CoSAI Issue #141的后续标准化进展——观察云安全联盟是否会在未来数月把'Agent工具描述签名'列为推荐标准，以及主流Agent框架（OpenAI Agents SDK、LangChain、AutoGen等）是否跟进。",
+    "Cerebras IPO（据公开报道计划本周四）的公开市场反应——350亿美元估值是检验非NVIDIA系AI芯片公司能否获得资本认可的关键试金石，会反向影响'信任栈'部署成本预期。",
+    "Anthropic下一步动作方向——本周六个动作建立了对齐研究、测试工具、漏洞响应、代码审计、训练数据治理五个组件，下一个落子（'Agent行为审计即服务'或'模型采购合规凭据'）会决定下一阶段企业采购的决策语言。"
+  ]
+}

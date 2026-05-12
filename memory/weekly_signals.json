@@ -615,6 +615,217 @@
           130
         ]
       }
+    ],
+    "2026-05-12": [
+      {
+        "title": "OpenAI Launches Daybreak Security AI Initiative to Rival Claude Mythos",
+        "signal_text": "据The Verge报道，OpenAI发布了Daybreak安全AI计划，利用Codex Security AI Agent对组织代码进行威胁建模、验证攻击路径并自动修复漏洞，定位为对Anthropic Claude Mythos的直接回应。该计划标志着AI安全从被动检测向主动防御的范式转变。",
+        "signal_strength": 0.85,
+        "sources": [
+          {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai"
+          },
+          {
+            "name": "OpenAI",
+            "url": "https://x.com/OpenAI/status/2053824997777457651"
+          }
+        ],
+        "tags": [
+          "内容安全",
+          "AI Agent",
+          "头部公司战略"
+        ],
+        "raw_item_indices": [
+          9,
+          89
+        ]
+      },
+      {
+        "title": "Mira Murati's Thinking Machines Previews Real-Time Voice-Video AI Beyond Turn-Based Chat",
+        "signal_text": "据VentureBeat和The Verge报道，前OpenAI CTO Mira Murati创立的Thinking Machines展示了新一代‘交互模型’（interaction models），实现近乎实时的AI语音与视频对话，突破传统轮次式聊天范式，目标让用户以更自然的方式与AI协作。",
+        "signal_strength": 0.85,
+        "sources": [
+          {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model"
+          },
+          {
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/technology/thinking-machines-shows-off-preview-of-near-realtime-ai-voice-and-video-conversation-with-new-interaction-models"
+          }
+        ],
+        "tags": [
+          "Agent与新交互范式",
+          "多模态",
+          "头部公司战略"
+        ],
+        "raw_item_indices": [
+          13,
+          14
+        ]
+      },
+      {
+        "title": "OpenAI Saves $97B in Microsoft Deal, Shifts to External Financing",
+        "signal_text": "据The Information报道，OpenAI CFO Sarah Friar披露，与微软的最新协议使OpenAI在2030年前节省约970亿美元，此前协议要求支付20%收入给微软。此举为OpenAI引入外部投资扫清障碍，通过降低财务负担加速AGI研发。",
+        "signal_strength": 0.82,
+        "sources": [
+          {
+            "name": "The Information",
+            "url": "https://www.theinformation.com/articles/openai-save-97-billion-2030-latest-microsoft-deal"
+          }
+        ],
+        "tags": [
+          "头部公司战略",
+          "商业化",
+          "AI市场格局"
+        ],
+        "raw_item_indices": [
+          1
+        ]
+      },
+      {
+        "title": "Ilya Sutskever Testifies at Musk v. Altman Trial; Reveals $7B Stake and Defense of OpenAI",
+        "signal_text": "据Wired和The Information报道，OpenAI前首席科学家Ilya Sutskever在Elon Musk诉OpenAI案中作证，称其持股价值约70亿美元，并为自己参与Altman解雇事件辩护，表示‘不想看到OpenAI被毁灭’（I didn't want it to be destroyed），提供了事件关键内幕。",
+        "signal_strength": 0.78,
+        "sources": [
+          {
+            "name": "Wired",
+            "url": "https://www.wired.com/story/ilya-sutskever-testifies-musk-v-altman-trial/"
+          },
+          {
+            "name": "The Information",
+            "url": "https://www.theinformation.com/briefings/ilya-sutskever-says-openai-stake-worth-7-billion"
+          }
+        ],
+        "tags": [
+          "头部公司战略",
+          "AI人才战争",
+          "行业风险"
+        ],
+        "raw_item_indices": [
+          5,
+          24
+        ]
+      },
+      {
+        "title": "Google's AutoTTS: Agentic Discovery for Test-Time Scaling (LLMs Improving LLMs)",
+        "signal_text": "Google发表的论文AutoTTS（获54 upvotes）提出自动化测试时缩放策略发现框架，将推理轨迹和探针信号的控制器合成作为方法，在多个推理任务上实现更优的精度-成本权衡。该工作属于‘LLMs Improving LLMs’范式，对内容生成和Agent推理的成本优化有参考价值。",
+        "signal_strength": 0.72,
+        "sources": [
+          {
+            "name": "Google Research",
+            "url": "https://huggingface.co/papers/2605.08083"
+          }
+        ],
+        "tags": [
+          "技术突破",
+          "推理效率提升",
+          "Agent"
+        ],
+        "raw_item_indices": [
+          116
+        ]
+      },
+      {
+        "title": "CMU Professor Proposes Recursive Agent Optimization for Agent Delegation Training",
+        "signal_text": "CMU教授Graham Neubig介绍其团队工作Recursive Agent Optimization（获104 likes、11938 views），提出训练可委派任务给其他Agent的框架，使用稳健的训练目标和方法。对Agent协作和自动化任务执行有重要价值。",
+        "signal_strength": 0.72,
+        "sources": [
+          {
+            "name": "CMU教授Graham Neubig",
+            "url": "https://x.com/gneubig/status/2053827787278954802"
+          }
+        ],
+        "tags": [
+          "Agent与新交互范式",
+          "技术突破"
+        ],
+        "raw_item_indices": [
+          86
+        ]
+      },
+      {
+        "title": "Tencent's Listwise Policy Optimization: Group-based RLVR for LLM Alignment",
+        "signal_text": "腾讯混元团队发表论文Listwise Policy Optimization（获57 upvotes），揭示基于可验证奖励的强化学习中，群体策略梯度方法共享共同几何结构，并据此开发显式处理响应单纯形上目标投影的优化框架。对AI内容生成的质量控制和个性化推荐有潜在应用。",
+        "signal_strength": 0.71,
+        "sources": [
+          {
+            "name": "Tencent Hunyuan",
+            "url": "https://huggingface.co/papers/2605.06139"
+          }
+        ],
+        "tags": [
+          "搜索与推荐",
+          "技术突破",
+          "内容创作"
+        ],
+        "raw_item_indices": [
+          115
+        ]
+      },
+      {
+        "title": "OpenAI and Alibaba Qwen Launch Ambassador Programs for Developer Community",
+        "signal_text": "据@Alibaba_Qwen推文（获792 likes）及OpenAI官方推文（获4980 likes），阿里Qwen团队宣布招募全球大使计划，OpenAI也推出OpenAI部署公司（ODC），联合19家投资机构和企业咨询公司帮助企业部署AI。两者均显示头部AI公司正加速开发者生态与商业化渠道建设。",
+        "signal_strength": 0.7,
+        "sources": [
+          {
+            "name": "Alibaba Qwen on Twitter",
+            "url": "https://x.com/Alibaba_Qwen/status/2053835267061301316"
+          },
+          {
+            "name": "OpenAI on Twitter",
+            "url": "https://x.com/OpenAI/status/2053824997777457651"
+          }
+        ],
+        "tags": [
+          "开源生态",
+          "头部公司战略",
+          "商业化"
+        ],
+        "raw_item_indices": [
+          82,
+          89
+        ]
+      },
+      {
+        "title": "Apple's Normalizing Trajectory Models: New Diffusion Framework with Exact Likelihood Training",
+        "signal_text": "Apple发表论文Normalizing Trajectory Models，提出将扩散生成模型的每个逆向步骤建模为可表达的条件归一化流，支持精确似然训练。该研究对内容生成（图像/视频）的质量提升和可控性改进有重要价值。获10 upvotes，来自Apple。",
+        "signal_strength": 0.7,
+        "sources": [
+          {
+            "name": "Apple",
+            "url": "https://huggingface.co/papers/2605.08078"
+          }
+        ],
+        "tags": [
+          "内容创作与理解",
+          "多模态生成",
+          "技术突破"
+        ],
+        "raw_item_indices": [
+          130
+        ]
+      },
+      {
+        "title": "Google's Agentic Autoregressive Diffusion (A2RD) for Long Video Consistency",
+        "signal_text": "Google发表的论文A2RD（获12 upvotes）提出Agentic Auto-Regressive Diffusion架构，通过带记忆追踪、自适应生成和分层自改进的闭环过程，解决长视频合成中的一致性问题。对UGC视频生成工具的内容质量和连续性提升有参考价值。",
+        "signal_strength": 0.7,
+        "sources": [
+          {
+            "name": "Google Research",
+            "url": "https://huggingface.co/papers/2605.06924"
+          }
+        ],
+        "tags": [
+          "内容创作与理解",
+          "多模态生成",
+          "技术突破"
+        ],
+        "raw_item_indices": [
+          129
+        ]
+      }
     ]
   },
   "archived_weeks": [

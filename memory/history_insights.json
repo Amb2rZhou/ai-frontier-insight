@@ -1,66 +1,6 @@
 {
   "predictions": [
     {
-      "date": "2026-05-05T22:23:36.505035+08:00",
-      "prediction_text": "搜索产品与创作者工具可探索在端侧部署 Qwen3.6-A3B 或 Nemotron-30B 量化版，实现实时视频场景理解和隐私保护。",
-      "category": "model_release",
-      "source_signal": "NVIDIA & Qwen Release New Multimodal Models for On-Device and MoE Deployment"
-    },
-    {
-      "date": "2026-05-05T22:23:36.531833+08:00",
-      "prediction_text": "内容安全团队建议构建多层审核管线：通用模型 + 规则引擎 + 红队持续压力测试，避免单一模型被操纵。",
-      "category": "research_breakthrough",
-      "source_signal": "Mindgard Researchers 'Gaslight' Claude to Elicit Forbidden Instructions"
-    },
-    {
-      "date": "2026-05-05T22:23:36.539967+08:00",
-      "prediction_text": "内容平台可探索将链式思维 RLHF 集成到创作者工具，实现用户输入如“复古胶片感”即可自动调色并输出多版本。",
-      "category": "research_breakthrough",
-      "source_signal": "ByteDance Seed & Princeton Release Advances in RL for Image Editing and Game-Playing VLMs"
-    },
-    {
-      "date": "2026-05-05T22:23:36.547587+08:00",
-      "prediction_text": "内容平台可提前搭建内部模型审计流程，记录训练数据来源、对齐过程与安全测试结果，以备监管质询。",
-      "category": "ecosystem_shift",
-      "source_signal": "Google, Microsoft, xAI Agree to Share Early AI Models with U.S. Government"
-    },
-    {
-      "date": "2026-05-05T22:23:36.555995+08:00",
-      "prediction_text": "内容平台在选择第三方安全模型时，可评估供应商内部治理结构，避免因合作伙伴内部冲突导致模型迭代中断。",
-      "category": "strategic_move",
-      "source_signal": "Google DeepMind Workers Vote to Unionize Over Military AI Deals"
-    },
-    {
-      "date": "2026-05-05T22:23:36.563683+08:00",
-      "prediction_text": "内容安全团队可以作为离线后处理管道直接集成该模型，用于用户私信、评论中的 PII 识别与脱敏。",
-      "category": "open_source",
-      "source_signal": "OpenAI Releases Privacy Filter Model for Token Classification"
-    },
-    {
-      "date": "2026-05-05T22:23:36.576320+08:00",
-      "prediction_text": "内容平台的 Agent 框架选型建议保持多供应商策略，同时投资开源 Agent 方案（如 LangChain）以降低对单一平台的依赖。",
-      "category": "ecosystem_shift",
-      "source_signal": "OpenAI Turns Sold-Out GPT-5.5 Party into Codex Rate Limit Giveaway for 8,000 Developers"
-    },
-    {
-      "date": "2026-05-05T22:23:36.583718+08:00",
-      "prediction_text": "内容平台可参考该 pivot：将有限资源投入垂直场景模型微调，而非从零训练基础模型，同时利用云服务弹性算力。",
-      "category": "strategic_move",
-      "source_signal": "Krutrim (India's First GenAI Unicorn) Pivots to Cloud Services"
-    },
-    {
-      "date": "2026-05-05T22:23:36.597750+08:00",
-      "prediction_text": "创作者工具可考虑将 SenseNova-U1 作为底层引擎，实现从用户上传图片到自动生成配文、封面视频的端到端流程。",
-      "category": "model_release",
-      "source_signal": "SenseNova-U1-8B-MoT: Any-to-Any Multimodal Model from SenseTime"
-    },
-    {
-      "date": "2026-05-05T23:16:12.466543+08:00",
-      "prediction_text": "社区平台可探索在端侧部署此模型，支持实时视频帧理解、音频转文字，降低云端推理成本与延迟。",
-      "category": "model_release",
-      "source_signal": "NVIDIA Nemotron 3 Nano Omni: Efficient Open Multimodal Model"
-    },
-    {
       "date": "2026-05-05T23:16:12.477347+08:00",
       "prediction_text": "创作者工具可探索将Chain-of-Thought验证器集成到图片编辑工作流，实现“我要胶片感”等模糊指令的精确执行。",
       "category": "research_breakthrough",
@@ -599,6 +539,66 @@
       "prediction_text": "社区平台构建Agent编排基础设施时，建议借鉴Agyn的治理模块设计，优先实现权限审计与行为可追溯。",
       "category": "open_source",
       "source_signal": "Open-Source Agent Platform Agyn.io Launches with Enterprise Governance"
+    },
+    {
+      "date": "2026-05-12T10:32:53.628881+08:00",
+      "prediction_text": "内容平台可考虑将安全Agent嵌入创作流水线，在内容发布前自动识别并拦截潜在违规变体。",
+      "category": "infrastructure",
+      "source_signal": "OpenAI Launches Daybreak Security AI Initiative to Rival Claude Mythos"
+    },
+    {
+      "date": "2026-05-12T10:32:53.638166+08:00",
+      "prediction_text": "社区平台可以探索将实时多模态交互集成至直播、评论、创作指导等高频场景，提升用户黏性。",
+      "category": "strategic_move",
+      "source_signal": "Mira Murati's Thinking Machines Previews Real-Time Voice-Video AI Beyond Turn-Based Chat"
+    },
+    {
+      "date": "2026-05-12T10:32:53.653086+08:00",
+      "prediction_text": "内容/电商平台AI团队应提前储备与顶级模型API对接的能力，降低技术代差风险。",
+      "category": "ecosystem_shift",
+      "source_signal": "OpenAI Saves $97B in Microsoft Deal, Shifts to External Financing"
+    },
+    {
+      "date": "2026-05-12T10:32:53.659695+08:00",
+      "prediction_text": "自建AI战略的平台应分散核心模型依赖，避免因单一模型团队变动导致产品线中断。",
+      "category": "industry_risk",
+      "source_signal": "Ilya Sutskever Testifies at Musk v. Altman Trial; Reveals $7B Stake and Defense of OpenAI"
+    },
+    {
+      "date": "2026-05-12T10:32:53.664675+08:00",
+      "prediction_text": "推荐/搜索系统的Agent推理层可引入动态算力分配策略，在精度与成本间自动寻找最优平衡。",
+      "category": "research_breakthrough",
+      "source_signal": "Google's AutoTTS: Agentic Discovery for Test-Time Scaling (LLMs Improving LLMs)"
+    },
+    {
+      "date": "2026-05-12T10:32:53.668803+08:00",
+      "prediction_text": "创作者工具可以考虑让主Agent自动委派子任务给专业Agent（如修图/文案），提升创作效率。",
+      "category": "research_breakthrough",
+      "source_signal": "CMU Professor Proposes Recursive Agent Optimization for Agent Delegation Training"
+    },
+    {
+      "date": "2026-05-12T10:32:53.672147+08:00",
+      "prediction_text": "推荐系统的内容排序模块可探索用Listwise策略替代Pointwise，提升用户长期满意度。",
+      "category": "research_breakthrough",
+      "source_signal": "Tencent's Listwise Policy Optimization: Group-based RLVR for LLM Alignment"
+    },
+    {
+      "date": "2026-05-12T10:32:53.675907+08:00",
+      "prediction_text": "社区平台可考虑与多模型大使合作，降低对单一模型厂商的API依赖，增强谈判筹码。",
+      "category": "strategic_move",
+      "source_signal": "OpenAI and Alibaba Qwen Launch Ambassador Programs for Developer Community"
+    },
+    {
+      "date": "2026-05-12T10:32:53.678865+08:00",
+      "prediction_text": "内容平台或可基于精确似然分数自动过滤低质量生成内容，提升UGC创作用户体验。",
+      "category": "research_breakthrough",
+      "source_signal": "Apple's Normalizing Trajectory Models: New Diffusion Framework with Exact Likelihood Training"
+    },
+    {
+      "date": "2026-05-12T10:32:53.681605+08:00",
+      "prediction_text": "短视频/直播平台可评估集成此类架构，自动生成连续性更强的用户视频模板或转场片段。",
+      "category": "research_breakthrough",
+      "source_signal": "Google's Agentic Autoregressive Diffusion (A2RD) for Long Video Consistency"
     }
   ]
 }
