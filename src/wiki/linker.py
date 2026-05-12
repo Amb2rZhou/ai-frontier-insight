@@ -65,11 +65,17 @@ _GLOBAL_PROTECT_PATTERNS = [
 ]
 
 # Paragraph-level protections (preserve, but expose pre-existing wiki-link slugs to linker)
+#
+# Order matters: protect INLINECODE/MDLINK/URL **before** WIKILINK so that wiki-links
+# nested inside inline code (e.g. `` `[[boss-profile]]` ``) get absorbed by the
+# outer pattern. Otherwise the WIKILINK pattern claims them first, replaces with a
+# placeholder, and the INLINECODE pattern then swallows the placeholder — leaving
+# unrecoverable `\x00P0\x00` debris after restore.
 _PARA_PROTECT_PATTERNS = [
-    (re.compile(r"\[\[[^\[\]]+\]\]"), "WIKILINK"),
     (re.compile(r"`[^`\n]+`"), "INLINECODE"),
     (re.compile(r"\[[^\[\]]+\]\([^)]+\)"), "MDLINK"),
     (re.compile(r"https?://\S+"), "URL"),
+    (re.compile(r"\[\[[^\[\]]+\]\]"), "WIKILINK"),
 ]
 
 _WIKILINK_SLUG_RE = re.compile(r"\[\[([^\[\]|#]+)(?:[|#][^\[\]]*)?\]\]")
