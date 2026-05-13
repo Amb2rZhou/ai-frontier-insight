@@ -2,7 +2,7 @@
 title: Open Source Models
 type: trend
 created: 2026-02-25
-updated: 2026-05-12
+updated: 2026-05-13
 ---
 
 # Open Source Models
@@ -13,6 +13,7 @@ The rapid proliferation of open-source and open-weight foundation models challen
 
 ## Timeline
 
+- **2026-05-13**: TabPFN-3: Pretrained Tabular Foundation Model Released
 - **2026-05-12**: [[openai|OpenAI]] and [[alibaba|Alibaba]] [[qwen|Qwen]] Launch Ambassador Programs for Developer Community
 - **2026-05-07**: [[tencent|Tencent]] Hunyuan Releases OpenSearch-VL: Open-Source Multimodal Search [[agent-frameworks|Agent Framework]]
 - **2026-05-07**: Unsloth & [[nvidia|NVIDIA]] Collaboration Achieves 25% Faster LLM Training on Consumer GPUs

@@ -2,7 +2,7 @@
 title: Google DeepMind
 type: company
 created: 2026-02-25
-updated: 2026-05-12
+updated: 2026-05-13
 ---
 
 # Google DeepMind
@@ -11,6 +11,9 @@ Google's unified AI research division, maker of [[gemini|Gemini]] and [[gemma|Ge
 
 ## Timeline
 
+- **2026-05-13**: Perceptron Mk1: 80-90% Cheaper Video Analysis AI Model
+- **2026-05-13**: Google RubricEM: [[meta|Meta]]-RL for Deep Research Agents
+- **2026-05-13**: Google [[gemini|Gemini]] Intelligent Mouse Pointer Agent Prototype
 - **2026-05-12**: Google's [[agent-frameworks|Agentic]] Autoregressive Diffusion (A2RD) for Long Video Consistency
 - **2026-05-12**: Google's AutoTTS: [[agent-frameworks|Agentic]] Discovery for Test-Time Scaling (LLMs Improving LLMs)
 - **2026-05-11**: Google Finance AI-Powered Experience Expands to Europe

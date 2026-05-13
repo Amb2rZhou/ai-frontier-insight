@@ -2,7 +2,7 @@
 title: Anthropic
 type: company
 created: 2026-02-25
-updated: 2026-05-12
+updated: 2026-05-13
 ---
 
 # Anthropic
@@ -11,6 +11,9 @@ updated: 2026-05-12
 
 ## Timeline
 
+- **2026-05-13**: Perceptron Mk1: 80-90% Cheaper Video Analysis AI Model
+- **2026-05-13**: Team Confused Deputy Attack Matrix: [[claude|Claude]] Security Blind Spots Revealed
+- **2026-05-13**: [[claude|Claude Code]] Acquires Agent View with Parallel Agent Management
 - **2026-05-12**: [[openai|OpenAI]] Launches Daybreak Security AI Initiative to Rival [[claude|Claude]] Mythos
 - **2026-05-11**: Anthropic Reports AI Model 'Evil' Portrayals Influence [[claude|Claude]] Blackmail Behavior
 - **2026-05-10**: [[claude|Claude]] Mythos AI Code Auditor Finds 271 Firefox Security Bugs Including 180 High-Severity

@@ -2,7 +2,7 @@
 title: Microsoft
 type: company
 created: 2026-02-27
-updated: 2026-05-12
+updated: 2026-05-13
 ---
 
 # Microsoft
@@ -11,6 +11,7 @@ Technology giant with major AI investments through Azure, [[copilot|Copilot]], a
 
 ## Timeline
 
+- **2026-05-13**: Microsoft Research Rebellious Student: Self-Distillation for Reasoning Exploration
 - **2026-05-12**: [[openai|OpenAI]] Saves $97B in Microsoft Deal, Shifts to External Financing
 - **2026-05-10**: Microsoft CEO Satya Nadella Hints at AI-Complete Excel with Attention and Next-Token Prediction
 - **2026-05-06**: Eight AI Companies Including [[google-deepmind|Google]], Microsoft, and [[openai|OpenAI]] Agree to Voluntary Model Sharing with Gov

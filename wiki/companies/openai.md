@@ -2,7 +2,7 @@
 title: OpenAI
 type: company
 created: 2026-02-25
-updated: 2026-05-12
+updated: 2026-05-13
 ---
 
 # OpenAI
@@ -11,6 +11,8 @@ The leading commercial AI lab, maker of [[gpt|GPT]] models, ChatGPT, [[codex|Cod
 
 ## Timeline
 
+- **2026-05-13**: Perceptron Mk1: 80-90% Cheaper Video Analysis AI Model
+- **2026-05-13**: OpenAI [[codex|Codex]] [[computer-use|Computer Use]] Agent: Cross-App Background Operation
 - **2026-05-12**: OpenAI and [[alibaba|Alibaba]] [[qwen|Qwen]] Launch Ambassador Programs for Developer Community
 - **2026-05-12**: Ilya Sutskever Testifies at Musk v. Altman Trial; Reveals $7B Stake and Defense of OpenAI
 - **2026-05-12**: OpenAI Saves $97B in [[microsoft|Microsoft]] Deal, Shifts to External Financing

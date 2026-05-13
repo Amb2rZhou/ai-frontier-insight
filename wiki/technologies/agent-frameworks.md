@@ -2,7 +2,7 @@
 title: Agent Frameworks
 type: technology
 created: 2026-02-25
-updated: 2026-05-12
+updated: 2026-05-13
 ---
 
 # Agent Frameworks
@@ -11,6 +11,11 @@ The rapidly evolving ecosystem of tools, SDKs, and platforms for building autono
 
 ## Timeline
 
+- **2026-05-13**: Team Confused Deputy Attack Matrix: [[claude|Claude]] Security Blind Spots Revealed
+- **2026-05-13**: [[claude|Claude Code]] Acquires Agent View with Parallel Agent Management
+- **2026-05-13**: [[openai|OpenAI]] [[codex|Codex]] [[computer-use|Computer Use]] Agent: Cross-App Background Operation
+- **2026-05-13**: [[google-deepmind|Google]] RubricEM: [[meta|Meta]]-RL for Deep Research Agents
+- **2026-05-13**: [[google-deepmind|Google]] [[gemini|Gemini]] Intelligent Mouse Pointer Agent Prototype
 - **2026-05-12**: [[google-deepmind|Google]]'s Agentic Autoregressive Diffusion (A2RD) for Long Video Consistency
 - **2026-05-12**: [[google-deepmind|Google]]'s AutoTTS: Agentic Discovery for Test-Time Scaling (LLMs Improving LLMs)
 - **2026-05-12**: [[openai|OpenAI]] Launches Daybreak Security AI Initiative to Rival [[claude|Claude]] Mythos

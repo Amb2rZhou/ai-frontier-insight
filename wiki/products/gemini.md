@@ -2,7 +2,7 @@
 title: Gemini
 type: product
 created: 2026-02-25
-updated: 2026-05-09
+updated: 2026-05-13
 ---
 
 # Gemini
@@ -11,6 +11,7 @@ updated: 2026-05-09
 
 ## Timeline
 
+- **2026-05-13**: [[google-deepmind|Google]] Gemini Intelligent Mouse Pointer Agent Prototype
 - **2026-05-09**: [[google-deepmind|Google]] I/O 2026 Livestream Schedule Released – AI Focus Expected
 - **2026-05-06**: [[google-deepmind|Google]] Launches Multimodal File Search in Gemini API with Matryoshka Embedding Efficiency
 - **2026-04-19**: [[scale-ai|Scale AI]] CEO Highlights [[muse-spark|Muse Spark]]'s Strong Performance on [[agent-frameworks|Agentic]] Benchmark · [@alexandr_wang (Scale AI CEO)](https://x.com/alexandr_wang/status/2045348588734066794)

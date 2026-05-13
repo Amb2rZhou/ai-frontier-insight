@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-12T10:33:13.393585+08:00",
+  "last_updated": "2026-05-13T12:03:39.033959+08:00",
   "trends": [
     {
       "id": "ai_safety_pivot_and_accelerated_agi_time",
@@ -277,9 +277,8 @@
         "Nvidia Competition"
       ],
       "trajectory": "accelerating",
-      "signal_count": 50,
+      "signal_count": 51,
       "weekly_counts": [
-        0,
         0,
         0,
         0,
@@ -290,7 +289,8 @@
         0,
         0,
         1,
-        0
+        0,
+        1
       ],
       "key_events": [
         {
@@ -358,9 +358,8 @@
         "Microsoft"
       ],
       "trajectory": "accelerating",
-      "signal_count": 184,
+      "signal_count": 185,
       "weekly_counts": [
-        0,
         2,
         1,
         1,
@@ -371,7 +370,8 @@
         2,
         2,
         3,
-        0
+        0,
+        1
       ],
       "key_events": [
         {
@@ -431,9 +431,8 @@
         "Scientific Discovery"
       ],
       "trajectory": "accelerating",
-      "signal_count": 139,
+      "signal_count": 142,
       "weekly_counts": [
-        2,
         0,
         1,
         2,
@@ -444,7 +443,8 @@
         2,
         3,
         1,
-        4
+        4,
+        3
       ],
       "key_events": [
         {
@@ -542,6 +542,10 @@
         {
           "date": "2026-05-12",
           "event": "Google's AutoTTS: Agentic Discovery for Test-Time Scaling; CMU Proposes Recursive Agent Optimization; Tencent's Listwise Policy Optimization for LLM Alignment; Apple's Normalizing Trajectory Models for Diffusion"
+        },
+        {
+          "date": "2026-05-13",
+          "event": "Microsoft Research Rebellious Student: Self-Distillation for Reasoning Exploration; Nous Research Lighthouse Attention: Subquadratic Wrapper for Long-Context Pretraining; TabPFN-3: Pretrained Tabular Foundation Model Released"
         }
       ],
       "created": "2026-02-25"
@@ -682,10 +686,9 @@
         "Agent Framework"
       ],
       "trajectory": "accelerating",
-      "signal_count": 213,
+      "signal_count": 217,
       "weekly_counts": [
         1,
-        1,
         3,
         1,
         4,
@@ -695,7 +698,8 @@
         2,
         1,
         4,
-        2
+        2,
+        4
       ],
       "key_events": [
         {
@@ -765,6 +769,10 @@
         {
           "date": "2026-05-12",
           "event": "CMU Professor Proposes Recursive Agent Optimization for Agent Delegation Training"
+        },
+        {
+          "date": "2026-05-13",
+          "event": "Google Gemini Intelligent Mouse Pointer Agent Prototype; Google RubricEM: Meta-RL for Deep Research Agents; OpenAI Codex Computer Use Agent: Cross-App Background Operation; Claude Code Acquires Agent View with Parallel Agent Management"
         }
       ],
       "created": "2026-02-25"
@@ -779,20 +787,20 @@
         "Europe"
       ],
       "trajectory": "accelerating",
-      "signal_count": 24,
+      "signal_count": 25,
       "weekly_counts": [
         0,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        2,
+        1,
+        1,
         0,
-        1,
-        1,
-        1,
-        1,
-        2,
-        1,
-        2,
-        1,
-        1,
-        0
+        1
       ],
       "key_events": [
         {
@@ -874,6 +882,10 @@
         {
           "date": "2026-05-11",
           "event": "OpenSquilla: Token-Efficient AI Agent with Higher Intelligence Density"
+        },
+        {
+          "date": "2026-05-13",
+          "event": "Perceptron Mk1: 80-90% Cheaper Video Analysis AI Model"
         }
       ],
       "created": "2026-02-25"
@@ -892,9 +904,8 @@
         "Performance"
       ],
       "trajectory": "accelerating",
-      "signal_count": 89,
+      "signal_count": 90,
       "weekly_counts": [
-        1,
         1,
         1,
         0,
@@ -905,7 +916,8 @@
         2,
         2,
         1,
-        0
+        0,
+        1
       ],
       "key_events": [
         {
@@ -951,6 +963,10 @@
         {
           "date": "2026-05-11",
           "event": "Scalable: AI Margin Math Gets Messier for Major Tech Companies"
+        },
+        {
+          "date": "2026-05-13",
+          "event": "xAI Colossus 2 Expands Gas Turbine Power Despite Lawsuit"
         }
       ],
       "created": "2026-02-25"
@@ -1055,11 +1071,10 @@
         "LLM Safety"
       ],
       "trajectory": "accelerating",
-      "signal_count": 75,
+      "signal_count": 76,
       "weekly_counts": [
         1,
         1,
-        1,
         2,
         0,
         1,
@@ -1068,6 +1083,7 @@
         0,
         1,
         2,
+        1,
         1
       ],
       "key_events": [
@@ -1114,6 +1130,10 @@
         {
           "date": "2026-05-12",
           "event": "OpenAI Launches Daybreak Security AI Initiative to Rival Claude Mythos"
+        },
+        {
+          "date": "2026-05-13",
+          "event": "Team Confused Deputy Attack Matrix: Claude Security Blind Spots Revealed"
         }
       ],
       "created": "2026-02-25"
@@ -1382,17 +1402,17 @@
       "id": "mega-funding_rounds_and_market_consolida",
       "name": "Mega-Funding Rounds and Market Consolidation",
       "related_tags": [
-        "Startups",
+        "Partnership",
         "NVIDIA",
-        "AI Funding",
+        "Startups",
+        "Reinforcement Learning",
         "DeepMind",
-        "Funding",
-        "Market Leadership",
         "Corporate Strategy",
-        "Reinforcement Learning"
+        "Market Leadership",
+        "Funding"
       ],
       "trajectory": "fading",
-      "signal_count": 9,
+      "signal_count": 11,
       "weekly_counts": [
         0,
         0,
@@ -1443,6 +1463,10 @@
         {
           "date": "2026-05-12",
           "event": "OpenAI Saves $97B in Microsoft Deal, Shifts to External Financing"
+        },
+        {
+          "date": "2026-05-12",
+          "event": "First detected"
         }
       ],
       "created": "2026-02-28"
@@ -1528,13 +1552,14 @@
       "created": "2026-05-12"
     },
     {
-      "id": "ai_corporate_financing_and_strategic_dea",
-      "name": "AI Corporate Financing and Strategic Deal Restructuring",
+      "id": "agent_security_and_prompt_injection_vuln",
+      "name": "Agent Security and Prompt Injection Vulnerabilities",
       "related_tags": [
-        "Corporate Strategy",
-        "Funding",
-        "Partnership",
-        "Market Dynamics"
+        "Agent Security",
+        "Prompt Injection",
+        "Security",
+        "Enterprise Risk",
+        "LLM Safety"
       ],
       "trajectory": "accelerating",
       "signal_count": 1,
@@ -1543,11 +1568,11 @@
       ],
       "key_events": [
         {
-          "date": "2026-05-12",
+          "date": "2026-05-13",
           "event": "First detected"
         }
       ],
-      "created": "2026-05-12"
+      "created": "2026-05-13"
     }
   ]
 }

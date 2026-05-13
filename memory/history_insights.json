@@ -1,66 +1,6 @@
 {
   "predictions": [
     {
-      "date": "2026-05-05T23:16:12.477347+08:00",
-      "prediction_text": "创作者工具可探索将Chain-of-Thought验证器集成到图片编辑工作流，实现“我要胶片感”等模糊指令的精确执行。",
-      "category": "research_breakthrough",
-      "source_signal": "ByteDance Seed: RLHF-Based Image Editing via Verifier"
-    },
-    {
-      "date": "2026-05-05T23:16:12.485871+08:00",
-      "prediction_text": "内容平台的自动化运营(如自动策划活动、跨部门审批流程)可引入类似仿真训练，提升Agent执行可靠性。",
-      "category": "research_breakthrough",
-      "source_signal": "Microsoft: Synthetic Computers for Long-Horizon Agent Training"
-    },
-    {
-      "date": "2026-05-05T23:16:12.500477+08:00",
-      "prediction_text": "创作者平台可考虑以“实验轨迹+失败笔记”为新型内容单元，重塑知识分享与协作模式。",
-      "category": "research_breakthrough",
-      "source_signal": "Stanford: Agent-Native Research Artifacts for AI Science"
-    },
-    {
-      "date": "2026-05-05T23:16:12.508251+08:00",
-      "prediction_text": "电商平台的自动客服Agent可评估采用Stream Events V3协议，保障复杂多轮对话的实时性和稳定性。",
-      "category": "infrastructure",
-      "source_signal": "LangGraph v1.2 Pre-release: Stream Events V3 & Node Error Handling"
-    },
-    {
-      "date": "2026-05-05T23:16:12.515799+08:00",
-      "prediction_text": "内容创作者的工具链可集成类似能力，支持用户用自然语言和草图直接生成品牌落地页或社区活动页面。",
-      "category": "research_breakthrough",
-      "source_signal": "InteractWeb-Bench: Interactive Benchmark for Multimodal Website Generation"
-    },
-    {
-      "date": "2026-05-05T23:16:12.526521+08:00",
-      "prediction_text": "视频社区可探索将物理先验嵌入生成管线，减少“物体悬浮、液体倒流”等失真现象，提升内容可信度。",
-      "category": "research_breakthrough",
-      "source_signal": "PhyCo: Physics-Controlled Generative Motion via Video Diffusion"
-    },
-    {
-      "date": "2026-05-05T23:16:12.533762+08:00",
-      "prediction_text": "电商平台的AI导购Agent可集成HITL中间件，关键决策（如退款、发放优惠券）回传人工审批。",
-      "category": "infrastructure",
-      "source_signal": "LangChain 1.3.0a1: Stream Events V3 Protocol & HITL Middleware"
-    },
-    {
-      "date": "2026-05-05T23:16:12.540795+08:00",
-      "prediction_text": "社区平台的小团队可考虑利用RoundPipe在办公网环境下微调专属内容理解模型，无需依赖大算力集群。",
-      "category": "infrastructure",
-      "source_signal": "RoundPipe: Efficient LLM Fine-Tuning on Consumer GPUs"
-    },
-    {
-      "date": "2026-05-05T23:16:12.548063+08:00",
-      "prediction_text": "搜索产品的搜索结果摘要可尝试集成长度价值模型，实现动态截断，摘要信息密度和可读性双升。",
-      "category": "research_breakthrough",
-      "source_signal": "LenVM: Scalable Token-Level Length Modeling for LLM"
-    },
-    {
-      "date": "2026-05-05T23:17:14.149666+08:00",
-      "prediction_text": "社区/电商平台的个性化Agent可考虑本地推理+云端精调的混合架构，降低延迟与隐私成本。",
-      "category": "ecosystem_shift",
-      "source_signal": "Ollama v0.23.0 Supports Claude Desktop as Launch Target, Expanding Local AI Agent Workflows"
-    },
-    {
       "date": "2026-05-05T23:17:14.162635+08:00",
       "prediction_text": "内容/电商平台的工程技术团队可探索用此类Agent自动化CI/CD、代码审查与Bug修复。",
       "category": "open_source",
@@ -599,6 +539,66 @@
       "prediction_text": "短视频/直播平台可评估集成此类架构，自动生成连续性更强的用户视频模板或转场片段。",
       "category": "research_breakthrough",
       "source_signal": "Google's Agentic Autoregressive Diffusion (A2RD) for Long Video Consistency"
+    },
+    {
+      "date": "2026-05-13T12:03:28.857148+08:00",
+      "prediction_text": "社区/电商平台可考虑在图片编辑、商品标注等场景集成指向式语音Agent，提升创作与购物体验。",
+      "category": "strategic_move",
+      "source_signal": "Google Gemini Intelligent Mouse Pointer Agent Prototype"
+    },
+    {
+      "date": "2026-05-13T12:03:28.863024+08:00",
+      "prediction_text": "搜索产品可探索用类似框架优化复杂查询（如攻略对比、产品测评）的多步推理与结果整合。",
+      "category": "research_breakthrough",
+      "source_signal": "Google RubricEM: Meta-RL for Deep Research Agents"
+    },
+    {
+      "date": "2026-05-13T12:03:28.867718+08:00",
+      "prediction_text": "内容平台可考虑让Agent自动在后台完成素材收集、排版、发布等跨工具操作，释放创作者精力。",
+      "category": "strategic_move",
+      "source_signal": "OpenAI Codex Computer Use Agent: Cross-App Background Operation"
+    },
+    {
+      "date": "2026-05-13T12:03:28.871993+08:00",
+      "prediction_text": "推荐系统可借鉴此思路，在模型蒸馏时保留一定随机探索，提升排序多样性与冷启效果。",
+      "category": "research_breakthrough",
+      "source_signal": "Microsoft Research Rebellious Student: Self-Distillation for Reasoning Exploration"
+    },
+    {
+      "date": "2026-05-13T12:03:28.876465+08:00",
+      "prediction_text": "创作者工具可考虑推出‘Agent编排面板’，让用户并行管理文案、修图、数据分析子Agent。",
+      "category": "strategic_move",
+      "source_signal": "Claude Code Acquires Agent View with Parallel Agent Management"
+    },
+    {
+      "date": "2026-05-13T12:03:28.879645+08:00",
+      "prediction_text": "电商/社区平台可探索用TabPFN-3替代部分CTR/CVR模型特征工程，实现毫秒级用户画像预测。",
+      "category": "model_release",
+      "source_signal": "TabPFN-3: Pretrained Tabular Foundation Model Released"
+    },
+    {
+      "date": "2026-05-13T12:03:28.882725+08:00",
+      "prediction_text": "内容安全团队值得关注Agent工具调用链的权限隔离与审计机制，防止第三方扩展劫持OAuth令牌。",
+      "category": "infrastructure",
+      "source_signal": "Team Confused Deputy Attack Matrix: Claude Security Blind Spots Revealed"
+    },
+    {
+      "date": "2026-05-13T12:03:28.885551+08:00",
+      "prediction_text": "推荐系统团队可探索将此方法用于用户行为序列的端到端建模，降低长序列训练成本。",
+      "category": "research_breakthrough",
+      "source_signal": "Nous Research Lighthouse Attention: Subquadratic Wrapper for Long-Context Pretraining"
+    },
+    {
+      "date": "2026-05-13T12:03:28.888085+08:00",
+      "prediction_text": "内容安全团队可考虑用低成本视频模型替换传统方案，在直播审核、视频标签场景大幅降低预算。",
+      "category": "infrastructure",
+      "source_signal": "Perceptron Mk1: 80-90% Cheaper Video Analysis AI Model"
+    },
+    {
+      "date": "2026-05-13T12:03:28.890626+08:00",
+      "prediction_text": "视频/直播平台自建推理集群时，建议同步规划绿色能源方案，避免后续政策与舆论风险。",
+      "category": "infrastructure",
+      "source_signal": "xAI Colossus 2 Expands Gas Turbine Power Despite Lawsuit"
     }
   ]
 }
