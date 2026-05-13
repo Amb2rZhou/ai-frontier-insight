@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-05-14T01:44:09.616280",
+  "scraped_at": "2026-05-14T05:20:44.409948",
   "date": "2026-05-14",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 52,
-  "account_count": 35,
+  "tweet_count": 87,
+  "account_count": 50,
   "tweets": [
     {
       "id": "2054617810253615147",
@@ -593,6 +593,407 @@
       "likes": 279,
       "retweets": 58,
       "views": 34490
+    },
+    {
+      "id": "2054670916559556976",
+      "username": "DeryaTR_",
+      "text": "I totally agree with this. It is incredibly important to develop the self-improving AI as super-intelligence, because the benefits so overwhelmingly outweigh the risks: \n\n“Every day there is tremendous suffering on Earth. A substantial amount is due to the diseases that plague",
+      "timestamp": "2026-05-13T21:11:35+00:00",
+      "url": "https://x.com/DeryaTR_/status/2054670916559556976",
+      "images": [],
+      "likes": 2,
+      "retweets": 1,
+      "views": 607
+    },
+    {
+      "id": "2054664454806048919",
+      "username": "littmath",
+      "text": "stochastic parrots: “it doesn’t think” “verification is the bottleneck” “solve math, solve everything else,” “they’re just stochastic parrots”",
+      "timestamp": "2026-05-13T20:45:54+00:00",
+      "url": "https://x.com/littmath/status/2054664454806048919",
+      "images": [],
+      "likes": 44,
+      "retweets": 4,
+      "views": 1555
+    },
+    {
+      "id": "2054655702933618901",
+      "username": "NielsRogge",
+      "text": "Something amazing is happening in my country 🔥🔥\n\nFor the first time, we are FAST in adopting new technology, in this case, Tesla's Full-Self Driving (FSD)\n\nHuge respect for @AnnickDeRidder for acting quickly on this and pushing it forward 🇧🇪🇧🇪",
+      "timestamp": "2026-05-13T20:11:07+00:00",
+      "url": "https://x.com/NielsRogge/status/2054655702933618901",
+      "images": [],
+      "likes": 1,
+      "retweets": 0,
+      "views": 374
+    },
+    {
+      "id": "2054651648488726648",
+      "username": "emollick",
+      "text": "Stop turning prompting into magic spells (and yes, this includes random slash commands with obscure outcomes).\n\nLet this one area of working with AI not be weird. Just ask for stuff, in well-specified formats, like a manager, not a sorcerer with a bunch of incantations.",
+      "timestamp": "2026-05-13T19:55:01+00:00",
+      "url": "https://x.com/emollick/status/2054651648488726648",
+      "images": [],
+      "likes": 188,
+      "retweets": 7,
+      "views": 13545
+    },
+    {
+      "id": "2054650181908607018",
+      "username": "thsottiaux",
+      "text": "We are continuing to invest in making agents work better on Windows. \n\nHighly recommend reading David's engineering post on our unique approach to windows sandboxing for Codex: https://t.co/V3WsYjMJbg",
+      "timestamp": "2026-05-13T19:49:11+00:00",
+      "url": "https://x.com/thsottiaux/status/2054650181908607018",
+      "images": [],
+      "likes": 408,
+      "retweets": 13,
+      "views": 13023
+    },
+    {
+      "id": "2054648442677268750",
+      "username": "srush_nlp",
+      "text": "I’ll be giving an online talk about Composer 2 and beyond tomorrow. Come say hi.\n\nhttps://t.co/7DsiGDRhP2",
+      "timestamp": "2026-05-13T19:42:16+00:00",
+      "url": "https://x.com/srush_nlp/status/2054648442677268750",
+      "images": [],
+      "likes": 11,
+      "retweets": 1,
+      "views": 632
+    },
+    {
+      "id": "2054647734418756012",
+      "username": "steipete",
+      "text": "Streaming an Android phone to my Mac in a data center via Tailscale + https://t.co/iT7Eq2zYG7 and my claw controls it via https://t.co/2cXk37Lxt7.\n\nNow my claw can order me an Uber. https://t.co/q3xXgy2bTY",
+      "timestamp": "2026-05-13T19:39:28+00:00",
+      "url": "https://x.com/steipete/status/2054647734418756012",
+      "images": [
+        "https://pbs.twimg.com/media/HIOTL9YXQAAgKEU.jpg"
+      ],
+      "likes": 502,
+      "retweets": 34,
+      "views": 34809
+    },
+    {
+      "id": "2054640140065374514",
+      "username": "Miles_Brundage",
+      "text": "This is a very big and welcome development! \n\nThe latter would be the first frontier AI audit requirement, and follows on the heels of earlier signals re: OpenAI warming up to the idea in \"Industrial Policy for the Intelligence Age\" https://t.co/PqjMpemPNn",
+      "timestamp": "2026-05-13T19:09:17+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2054640140065374514",
+      "images": [],
+      "likes": 52,
+      "retweets": 10,
+      "views": 10028
+    },
+    {
+      "id": "2054637805129625629",
+      "username": "Azure",
+      "text": "One Marketplace. Real impact.\n\nCesar Sangueado of UiPath shares how both UiPath and their business win when transacting through Marketplace. https://t.co/RBAwXsatoV",
+      "timestamp": "2026-05-13T19:00:00+00:00",
+      "url": "https://x.com/Azure/status/2054637805129625629",
+      "images": [],
+      "likes": 9,
+      "retweets": 1,
+      "views": 2276
+    },
+    {
+      "id": "2054633912731865538",
+      "username": "PyTorch",
+      "text": "PyTorch 2.12 introduces major updates across compilation, export, distributed training, and accelerator support.\n\nHighlights include up to 100x faster batched linalg.eigh on CUDA, the new torch.accelerator.Graph API, Microscaling quantization support in torch .export.save, and https://t.co/wzX0d2uqb1",
+      "timestamp": "2026-05-13T18:44:32+00:00",
+      "url": "https://x.com/PyTorch/status/2054633912731865538",
+      "images": [
+        "https://pbs.twimg.com/media/HIOGSEYWkAACM63.jpg"
+      ],
+      "likes": 61,
+      "retweets": 11,
+      "views": 5343
+    },
+    {
+      "id": "2054633685790621845",
+      "username": "DeryaTR_",
+      "text": "Huge super generous deal from OpenAI for companies wanting to try Codex, which I also agree is the best AI coding model now!",
+      "timestamp": "2026-05-13T18:43:38+00:00",
+      "url": "https://x.com/DeryaTR_/status/2054633685790621845",
+      "images": [],
+      "likes": 68,
+      "retweets": 2,
+      "views": 6791
+    },
+    {
+      "id": "2054632560559259950",
+      "username": "soumithchintala",
+      "text": "more demos on Interaction Models collaboratively doing system design, reading papers, fact-checking with live generative UI",
+      "timestamp": "2026-05-13T18:39:10+00:00",
+      "url": "https://x.com/soumithchintala/status/2054632560559259950",
+      "images": [],
+      "likes": 96,
+      "retweets": 5,
+      "views": 11703
+    },
+    {
+      "id": "2054627102922797323",
+      "username": "sama",
+      "text": "i get some anxiety not using the smartest-available model/settings.\n\nbut sometimes i dont mind if it's really slow.\n\ni wonder if we should focus more on a price/speed tradeoff relative to a price/intelligence tradeoff.",
+      "timestamp": "2026-05-13T18:17:29+00:00",
+      "url": "https://x.com/sama/status/2054627102922797323",
+      "images": [],
+      "likes": 3165,
+      "retweets": 96,
+      "views": 215679
+    },
+    {
+      "id": "2054626745668546843",
+      "username": "minchoi",
+      "text": "This guy was locked out of ~5 BTC for 11 years.\n\nLast ditch effort: dumped his old college computer into Claude.\n\nClaude found the old wallet file and cracked it.\n\nInsane. https://t.co/68dGYESkZB",
+      "timestamp": "2026-05-13T18:16:03+00:00",
+      "url": "https://x.com/minchoi/status/2054626745668546843",
+      "images": [
+        "https://pbs.twimg.com/media/HIOAC3jXMAAsFDE.jpg"
+      ],
+      "likes": 244,
+      "retweets": 26,
+      "views": 48625
+    },
+    {
+      "id": "2054624709699092804",
+      "username": "saranormous",
+      "text": "The starting premise @Conviction was that AI (general models at scale) were a broad shift in computing. This has come to pass\n\nBut the way AI benefits many users more powerfully is going to be more distributed product/research work, in partnership with humans who do the work",
+      "timestamp": "2026-05-13T18:07:58+00:00",
+      "url": "https://x.com/saranormous/status/2054624709699092804",
+      "images": [],
+      "likes": 81,
+      "retweets": 7,
+      "views": 17350
+    },
+    {
+      "id": "2054621814949552219",
+      "username": "gneubig",
+      "text": "Excited by the new Conference AI and Agentic Systems in a couple weeks! Great speakers including Percy, Thariq from Claude Code, and Andy from the Laude Institute, and a reasonable size (several hundred people). \n\nDefinitely feeling the early ICLR/COLM vibes from this one 😃",
+      "timestamp": "2026-05-13T17:56:28+00:00",
+      "url": "https://x.com/gneubig/status/2054621814949552219",
+      "images": [],
+      "likes": 21,
+      "retweets": 3,
+      "views": 1967
+    },
+    {
+      "id": "2054620621255192719",
+      "username": "OpenAI",
+      "text": "Another reason to switch to Codex.",
+      "timestamp": "2026-05-13T17:51:43+00:00",
+      "url": "https://x.com/OpenAI/status/2054620621255192719",
+      "images": [],
+      "likes": 1336,
+      "retweets": 56,
+      "views": 162362
+    },
+    {
+      "id": "2054619058650411174",
+      "username": "AravSrinivas",
+      "text": "Perplexity is building one of the most secure scalable agent runtime sandboxes in the market right now. A blog post on how we:\n\n1. Handle proxy API keys for agents securely \n2. Run safety detection for all content accessed by agents \n3. Encrypt data passed via connectors to",
+      "timestamp": "2026-05-13T17:45:31+00:00",
+      "url": "https://x.com/AravSrinivas/status/2054619058650411174",
+      "images": [],
+      "likes": 193,
+      "retweets": 16,
+      "views": 17673
+    },
+    {
+      "id": "2054189891932557764",
+      "username": "_akhaliq",
+      "text": "TMAS\n\nScaling Test-Time Compute via Multi-Agent Synergy https://t.co/SVQfgTSiTK",
+      "timestamp": "2026-05-12T13:20:09+00:00",
+      "url": "https://x.com/_akhaliq/status/2054189891932557764",
+      "images": [
+        "https://pbs.twimg.com/media/HIHyq9EW0AEaP0Y.jpg"
+      ],
+      "likes": 22,
+      "retweets": 3,
+      "views": 5898
+    },
+    {
+      "id": "2053999533550399634",
+      "username": "emollick",
+      "text": "I think frontier model writing is good! It often has a sense of style &amp; tone, variations in sentence structure &amp; length, some great phrasing, etc\n\nBut it also has some weak spots (fiction!) &amp; clear tics. Mostly there is just far too much of it online which makes it all so cliche",
+      "timestamp": "2026-05-12T00:43:44+00:00",
+      "url": "https://x.com/emollick/status/2053999533550399634",
+      "images": [],
+      "likes": 121,
+      "retweets": 4,
+      "views": 23867
+    },
+    {
+      "id": "2052066205226123472",
+      "username": "emollick",
+      "text": "A critical question in agent design is “how do we build agentic workflows so humans are given significant, interesting, or variance-producing decisions as they come up in the work?”\n\nA Claude-run company has no source of competitive advantage compared to other Claude-run firms.",
+      "timestamp": "2026-05-06T16:41:23+00:00",
+      "url": "https://x.com/emollick/status/2052066205226123472",
+      "images": [],
+      "likes": 428,
+      "retweets": 31,
+      "views": 27317
+    },
+    {
+      "id": "2052020656527532276",
+      "username": "UnslothAI",
+      "text": "We collaborated with NVIDIA to teach you how we made LLM training ~25% faster! 🚀\n\nLearn how 3 optimizations help your home GPU train models faster:\n1. Packed-sequence metadata caching\n2. Double-buffered checkpoint reloads\n3. Faster MoE routing\n\nGuide: https://t.co/nwvVfNC8XE https://t.co/j4NCke2F5o",
+      "timestamp": "2026-05-06T13:40:23+00:00",
+      "url": "https://x.com/UnslothAI/status/2052020656527532276",
+      "images": [
+        "https://pbs.twimg.com/media/HHo96bAaUAEA762.jpg"
+      ],
+      "likes": 934,
+      "retweets": 157,
+      "views": 57283
+    },
+    {
+      "id": "2052010494328713701",
+      "username": "googledevs",
+      "text": "New TypeScript challenge: you filter out null values, but the type system still pushes back. Does this compile under strict mode? Watch and choose your answer. https://t.co/WrJ5gRUKIi",
+      "timestamp": "2026-05-06T13:00:01+00:00",
+      "url": "https://x.com/googledevs/status/2052010494328713701",
+      "images": [],
+      "likes": 87,
+      "retweets": 10,
+      "views": 18108
+    },
+    {
+      "id": "2051962214844866956",
+      "username": "ChrSzegedy",
+      "text": "Some things never change: Gary just doesn't fit in distribution.",
+      "timestamp": "2026-05-06T09:48:10+00:00",
+      "url": "https://x.com/ChrSzegedy/status/2051962214844866956",
+      "images": [],
+      "likes": 44,
+      "retweets": 2,
+      "views": 16218
+    },
+    {
+      "id": "2051905175355351440",
+      "username": "steipete",
+      "text": "Merci! imsg 0.6 + 0.7 are live\n\n🔵 Private API bridge landed\n📡 Watch/history reliability fixes\n💬 Better chat + account diagnostics\n🛠️ Long fallback messages decode correctly\n\nPrivate APIs, public receipts.\nhttps://t.co/kbJOIDo17p",
+      "timestamp": "2026-05-06T06:01:31+00:00",
+      "url": "https://x.com/steipete/status/2051905175355351440",
+      "images": [],
+      "likes": 175,
+      "retweets": 9,
+      "views": 46817
+    },
+    {
+      "id": "2051900143339704730",
+      "username": "steipete",
+      "text": "Me and codex were busy.\n\n🔊 https://t.co/FBNMbWOuFZ — Sonos\n🗃️ https://t.co/YDdZyN2vwP — WhatsApp\n🪶 https://t.co/eykEElx1Ez — X archive\n🧰 https://t.co/txvYVtvhPg — GitHub archive\n🛰️ https://t.co/2u2ACJEKKi — Discord archive\n🎧 https://t.co/nrv2rzKfH4 — Spotify\n💬",
+      "timestamp": "2026-05-06T05:41:31+00:00",
+      "url": "https://x.com/steipete/status/2051900143339704730",
+      "images": [],
+      "likes": 6296,
+      "retweets": 385,
+      "views": 522096
+    },
+    {
+      "id": "2051896508803653648",
+      "username": "Everlyn_ai",
+      "text": "Why does this feel like a personality test?\n\n- generated on Everlyn in 7.1 seconds https://t.co/phGLHt4YJd",
+      "timestamp": "2026-05-06T05:27:04+00:00",
+      "url": "https://x.com/Everlyn_ai/status/2051896508803653648",
+      "images": [],
+      "likes": 17,
+      "retweets": 3,
+      "views": 2948
+    },
+    {
+      "id": "2051889046763549094",
+      "username": "DeryaTR_",
+      "text": "My favorite @OpenAI podcasters @AndrewMayne and @romainhuet at the GPT-5.5 party! In a way, we were celebrating the amazing impact AI is/will be making on humanity. They are also documenting this. I wish more people could see this potential. But more about that soon, stay tuned😊 https://t.co/5Af1V3Noyx",
+      "timestamp": "2026-05-06T04:57:25+00:00",
+      "url": "https://x.com/DeryaTR_/status/2051889046763549094",
+      "images": [
+        "https://pbs.twimg.com/media/HHnGNP-bwAAPxQx.jpg"
+      ],
+      "likes": 177,
+      "retweets": 10,
+      "views": 7283
+    },
+    {
+      "id": "2051882417292525950",
+      "username": "steipete",
+      "text": "CodexBar 0.24 is live\n\n🤖 New Windsurf, Codebuff + DeepSeek providers\n👥 Copilot multi-account switching\n🧹 Opt-in local storage breakdowns\n🔋 Hung Codex RPC + redraw battery drain fixed\n\nTiny menu bar, ridiculous changelog.\nhttps://t.co/wHwYvCIoxK",
+      "timestamp": "2026-05-06T04:31:05+00:00",
+      "url": "https://x.com/steipete/status/2051882417292525950",
+      "images": [],
+      "likes": 279,
+      "retweets": 17,
+      "views": 30613
+    },
+    {
+      "id": "2051875927332987273",
+      "username": "ChrSzegedy",
+      "text": "Great new benchmark for LLM memoization 🤣",
+      "timestamp": "2026-05-06T04:05:17+00:00",
+      "url": "https://x.com/ChrSzegedy/status/2051875927332987273",
+      "images": [],
+      "likes": 68,
+      "retweets": 2,
+      "views": 14238
+    },
+    {
+      "id": "2051866743723741283",
+      "username": "minchoi",
+      "text": "You can literally prompt a game, grow an audience, and earn money from plays now.\n\nAI gaming just got a creator economy. https://t.co/OPhgadBbCo",
+      "timestamp": "2026-05-06T03:28:48+00:00",
+      "url": "https://x.com/minchoi/status/2051866743723741283",
+      "images": [],
+      "likes": 240,
+      "retweets": 26,
+      "views": 37273
+    },
+    {
+      "id": "2051866486658994636",
+      "username": "gdb",
+      "text": "ChatGPT for Excel and Google Sheets:",
+      "timestamp": "2026-05-06T03:27:46+00:00",
+      "url": "https://x.com/gdb/status/2051866486658994636",
+      "images": [],
+      "likes": 1588,
+      "retweets": 79,
+      "views": 187216
+    },
+    {
+      "id": "2051852940554481901",
+      "username": "steipete",
+      "text": "Shipping 🛡️openclaw/fs-safe: a reusable filesystem safety primitive extracted from OpenClaw.\n\nIf your Node app accepts paths from agents, plugins, uploads, configs, or users, stop treating string normalization as a filesystem boundary. Use a root handle. https://t.co/PXTXYFOIAQ",
+      "timestamp": "2026-05-06T02:33:57+00:00",
+      "url": "https://x.com/steipete/status/2051852940554481901",
+      "images": [],
+      "likes": 326,
+      "retweets": 22,
+      "views": 35047
+    },
+    {
+      "id": "2051847180340863424",
+      "username": "DeryaTR_",
+      "text": "It’s the GPT-5.5 AI party time! 🥳🎉🚀 @OpenAI https://t.co/rueBQ0brt6",
+      "timestamp": "2026-05-06T02:11:03+00:00",
+      "url": "https://x.com/DeryaTR_/status/2051847180340863424",
+      "images": [
+        "https://pbs.twimg.com/media/HHmgIOXa4AAL0Tn.jpg"
+      ],
+      "likes": 440,
+      "retweets": 16,
+      "views": 13037
+    },
+    {
+      "id": "2051838697528836156",
+      "username": "DeryaTR_",
+      "text": "Met a really cool person at an AI party😊 @openai @sama https://t.co/ODouAKRYLm",
+      "timestamp": "2026-05-06T01:37:21+00:00",
+      "url": "https://x.com/DeryaTR_/status/2051838697528836156",
+      "images": [
+        "https://pbs.twimg.com/media/HHmYaa1bMAAMvg0.jpg"
+      ],
+      "likes": 1960,
+      "retweets": 36,
+      "views": 82677
     }
   ]
 }
