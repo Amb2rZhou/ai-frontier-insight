@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-05-15T03:28:29.056027",
+  "scraped_at": "2026-05-15T06:30:05.672449",
   "date": "2026-05-15",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 72,
-  "account_count": 40,
+  "tweet_count": 97,
+  "account_count": 50,
   "tweets": [
     {
       "id": "2054958398014115936",
@@ -833,6 +833,298 @@
       "likes": 75,
       "retweets": 12,
       "views": 19380
+    },
+    {
+      "id": "2055045533488562478",
+      "username": "code",
+      "text": "Working with multiple models in Chat?\n\nThe model picker in VS Code is now organized by provider, making it easier to browse, search, and switch between models.\n\nYou'll also see provider names next to your recent models for quicker recognition.\n\n💡 Tip: Use /models for quick https://t.co/bA4sv3Bm4G",
+      "timestamp": "2026-05-14T22:00:10+00:00",
+      "url": "https://x.com/code/status/2055045533488562478",
+      "images": [],
+      "likes": 31,
+      "retweets": 4,
+      "views": 2459
+    },
+    {
+      "id": "2055045242425135497",
+      "username": "saranormous",
+      "text": "Congrats on IPO day to @andrewdfeldman, @ericvishria and my many friends on the cerebras team/cap table. amazing story of resilience, technical innovation, luck and some very long term bets",
+      "timestamp": "2026-05-14T21:59:01+00:00",
+      "url": "https://x.com/saranormous/status/2055045242425135497",
+      "images": [],
+      "likes": 35,
+      "retweets": 0,
+      "views": 1644
+    },
+    {
+      "id": "2055039647924007222",
+      "username": "mitchellh",
+      "text": "It isn't unexpected that the focus of the Bun Rust rewrite is on the anti-Zig side more than anything, since the internet loves to hate. What is unexpected and unfortunate is that leadership within Bun hasn't tried to steer the conversation away from that at all. \n\nThere are so",
+      "timestamp": "2026-05-14T21:36:47+00:00",
+      "url": "https://x.com/mitchellh/status/2055039647924007222",
+      "images": [],
+      "likes": 477,
+      "retweets": 22,
+      "views": 19010
+    },
+    {
+      "id": "2055039168892592129",
+      "username": "DeryaTR_",
+      "text": "OMG! This is what I've been waiting for! Codex in the ChatGPT mobile app! This will be a game changer for crazy Codexers like me!",
+      "timestamp": "2026-05-14T21:34:53+00:00",
+      "url": "https://x.com/DeryaTR_/status/2055039168892592129",
+      "images": [],
+      "likes": 22,
+      "retweets": 1,
+      "views": 2508
+    },
+    {
+      "id": "2055034591669329978",
+      "username": "Austen",
+      "text": "Awkward when the company that AI was going to kill grows 46% YOY with 139% net dollar retention rate.\n\nWhen my company dies please kill it like this.",
+      "timestamp": "2026-05-14T21:16:42+00:00",
+      "url": "https://x.com/Austen/status/2055034591669329978",
+      "images": [],
+      "likes": 52,
+      "retweets": 0,
+      "views": 9873
+    },
+    {
+      "id": "2055034165968384099",
+      "username": "gdb",
+      "text": "You can now use Codex, wherever you have it running, from the ChatGPT app.\n\nHuge step forward for universal usage of agents.",
+      "timestamp": "2026-05-14T21:15:00+00:00",
+      "url": "https://x.com/gdb/status/2055034165968384099",
+      "images": [],
+      "likes": 410,
+      "retweets": 21,
+      "views": 26013
+    },
+    {
+      "id": "2055032793592152539",
+      "username": "CSProfKGD",
+      "text": "Seeing my recently graduated PhD student @MatthewKowal9, now at @GoodfireAI, attached to this exciting line of research brings a tear to my eye.\n\nKeep pushing Matt 💪 https://t.co/XQOXeWFIDY",
+      "timestamp": "2026-05-14T21:09:33+00:00",
+      "url": "https://x.com/CSProfKGD/status/2055032793592152539",
+      "images": [
+        "https://pbs.twimg.com/media/HITxbxVWMAAZhQ0.jpg"
+      ],
+      "likes": 21,
+      "retweets": 2,
+      "views": 2083
+    },
+    {
+      "id": "2055032115964870838",
+      "username": "OpenAIDevs",
+      "text": "Codex is getting easier to automate and customize around your code.\n\n🪝 Hooks customize the Codex loop with scripts that run at key points in a task:\n• Run validators before or after work\n• Scan prompts for secrets\n• Log conversations to internal systems\n• Create memories or https://t.co/mb0LhxwHR6",
+      "timestamp": "2026-05-14T21:06:51+00:00",
+      "url": "https://x.com/OpenAIDevs/status/2055032115964870838",
+      "images": [],
+      "likes": 872,
+      "retweets": 63,
+      "views": 143288
+    },
+    {
+      "id": "2055031345018216827",
+      "username": "DeryaTR_",
+      "text": "The /goal function in Codex is so cool! I set a goal for it to work in a folder with detailed blueprints &amp; prompts building a bio-software. It’s been working for about 2.5 hours &amp; is still less than one-fifth done, so it’ll probably keep going for another 10 hours or so. Crazy! https://t.co/XnGAVpSoRU",
+      "timestamp": "2026-05-14T21:03:47+00:00",
+      "url": "https://x.com/DeryaTR_/status/2055031345018216827",
+      "images": [
+        "https://pbs.twimg.com/media/HITwFeTb0AAXI1R.png"
+      ],
+      "likes": 19,
+      "retweets": 0,
+      "views": 1712
+    },
+    {
+      "id": "2055030689314079101",
+      "username": "minchoi",
+      "text": "This is wild.\n\nCodex just went mobile.\n\nYou can now steer coding agents from your phone: review outputs, approve commands, check diffs, and keep long-running work moving.\n\ncoding agents now follow you everywhere... insane. https://t.co/en842Z2Hy4",
+      "timestamp": "2026-05-14T21:01:11+00:00",
+      "url": "https://x.com/minchoi/status/2055030689314079101",
+      "images": [],
+      "likes": 27,
+      "retweets": 4,
+      "views": 5645
+    },
+    {
+      "id": "2055026017291370701",
+      "username": "steipete",
+      "text": "We've been working really hard on performance, reliability, security, and stability. Invented whole new automation flows with crabbox, automated video QA and are spending insane amounts of CPU cycles on CI. \n\nIt's a good release.",
+      "timestamp": "2026-05-14T20:42:37+00:00",
+      "url": "https://x.com/steipete/status/2055026017291370701",
+      "images": [],
+      "likes": 437,
+      "retweets": 16,
+      "views": 39854
+    },
+    {
+      "id": "2055021080553959548",
+      "username": "thsottiaux",
+      "text": "Codex everywhere",
+      "timestamp": "2026-05-14T20:23:00+00:00",
+      "url": "https://x.com/thsottiaux/status/2055021080553959548",
+      "images": [],
+      "likes": 817,
+      "retweets": 26,
+      "views": 31801
+    },
+    {
+      "id": "2055020621424447529",
+      "username": "polynoamial",
+      "text": "It's now even easier to keep your agents running productively 24/7",
+      "timestamp": "2026-05-14T20:21:11+00:00",
+      "url": "https://x.com/polynoamial/status/2055020621424447529",
+      "images": [],
+      "likes": 138,
+      "retweets": 7,
+      "views": 7685
+    },
+    {
+      "id": "2055019525679231062",
+      "username": "PyTorch",
+      "text": "At #PyTorchCon Europe 2026, @ezyang (@Meta) explains why many developers find tensor parallelism difficult to work with and how PyTorch is exploring SPMD types to catch mistakes through type checking.\n\nWatch the full keynote: https://t.co/5NHkIonlxA https://t.co/eI8S5Ahr7T",
+      "timestamp": "2026-05-14T20:16:49+00:00",
+      "url": "https://x.com/PyTorch/status/2055019525679231062",
+      "images": [],
+      "likes": 17,
+      "retweets": 2,
+      "views": 3773
+    },
+    {
+      "id": "2055018928942830054",
+      "username": "minchoi",
+      "text": "Claude Code users are quietly switching from Markdown to HTML.\n\nSpecs, PR reviews, reports, prototypes, editors.\n\nHTML is becoming the new agent artifact.\n\nBookmark this. https://t.co/DcV5XQN2fC",
+      "timestamp": "2026-05-14T20:14:27+00:00",
+      "url": "https://x.com/minchoi/status/2055018928942830054",
+      "images": [
+        "https://pbs.twimg.com/media/HITkSCCXoAAMEaP.jpg"
+      ],
+      "likes": 90,
+      "retweets": 11,
+      "views": 18769
+    },
+    {
+      "id": "2055018780540211392",
+      "username": "Miles_Brundage",
+      "text": "Being careful about malicious pull requests = looking a git horse in the mouth",
+      "timestamp": "2026-05-14T20:13:52+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2055018780540211392",
+      "images": [],
+      "likes": 8,
+      "retweets": 3,
+      "views": 848
+    },
+    {
+      "id": "2055016892138471472",
+      "username": "roydanroy",
+      "text": "Steep penalties for submitting AI slop to the arXiv.",
+      "timestamp": "2026-05-14T20:06:22+00:00",
+      "url": "https://x.com/roydanroy/status/2055016892138471472",
+      "images": [],
+      "likes": 98,
+      "retweets": 2,
+      "views": 9856
+    },
+    {
+      "id": "2055016669047624174",
+      "username": "emollick",
+      "text": "Making humans responsible for their AI use seems like an incredibly reasonable way to address problems &amp; opportunities in the use of AI for academic research, at least in the short term (autonomous scientific work will require different solutions).",
+      "timestamp": "2026-05-14T20:05:28+00:00",
+      "url": "https://x.com/emollick/status/2055016669047624174",
+      "images": [],
+      "likes": 131,
+      "retweets": 15,
+      "views": 12567
+    },
+    {
+      "id": "2055015294834188460",
+      "username": "googledevs",
+      "text": "On-device AI shouldn’t mean slower performance or complex optimization.\n\nWith @GoogleAI Edge + Arm SME2, Stable Audio runs fully on-device — with 2x faster audio generation (~14s → ~6.6s) and 4x lower memory, no code changes required.\n\nStart experimenting now using Google AI",
+      "timestamp": "2026-05-14T20:00:01+00:00",
+      "url": "https://x.com/googledevs/status/2055015294834188460",
+      "images": [],
+      "likes": 48,
+      "retweets": 9,
+      "views": 3807
+    },
+    {
+      "id": "2055015011928731830",
+      "username": "alexandr_wang",
+      "text": "celebrating @scale_AI’s 10th birthday this month!\n\nI’m so proud of the team for building a $1B+ revenue juggernaut powering leading AI labs, the US Dept of War, and Fortune 500 enterprises.",
+      "timestamp": "2026-05-14T19:58:53+00:00",
+      "url": "https://x.com/alexandr_wang/status/2055015011928731830",
+      "images": [],
+      "likes": 163,
+      "retweets": 8,
+      "views": 12421
+    },
+    {
+      "id": "2055014407378198596",
+      "username": "NVIDIARobotics",
+      "text": "The edge is no longer just an inference endpoint, it is becoming an agent host.\n\nJoin our experts at #NVIDIAGTC Taipei to explore new software capabilities across the NVIDIA Jetson family, see NVIDIA NemoClaw in action, and learn practical techniques from a lean Yocto-based OS to https://t.co/1HHCFQN3tT",
+      "timestamp": "2026-05-14T19:56:29+00:00",
+      "url": "https://x.com/NVIDIARobotics/status/2055014407378198596",
+      "images": [
+        "https://pbs.twimg.com/media/HITgtYbXkAA0MXz.jpg"
+      ],
+      "likes": 46,
+      "retweets": 2,
+      "views": 2452
+    },
+    {
+      "id": "2055007745598771393",
+      "username": "Azure",
+      "text": "Strong infrastructure starts with strong security. Azure IaaS bakes protection into every layer—cutting risk, boosting resilience, and keeping workloads secure at scale.\n\nLearn more: https://t.co/rSJCm2dTSh https://t.co/9nFwq8O40A",
+      "timestamp": "2026-05-14T19:30:01+00:00",
+      "url": "https://x.com/Azure/status/2055007745598771393",
+      "images": [
+        "https://pbs.twimg.com/media/HITap4cWoAAYv6O.jpg"
+      ],
+      "likes": 18,
+      "retweets": 2,
+      "views": 2354
+    },
+    {
+      "id": "2054630757109240089",
+      "username": "NielsRogge",
+      "text": "Very cool blog post by @mishig25 on the state of local agents\n\nThe @ArtificialAnlys intelligence index increases faster than Moore's Law! https://t.co/yAHSUcOUl5",
+      "timestamp": "2026-05-13T18:32:00+00:00",
+      "url": "https://x.com/NielsRogge/status/2054630757109240089",
+      "images": [
+        "https://pbs.twimg.com/media/HIODBm7W8AAPnPA.jpg"
+      ],
+      "likes": 29,
+      "retweets": 3,
+      "views": 5829
+    },
+    {
+      "id": "2054586214112780518",
+      "username": "OpenAIDevs",
+      "text": "Want to (officially) use Codex at work?\n\nSend this post to your CTO to bring your team to Codex. Eligible enterprise customers who switch in the next 30 days get 2 free months of Codex usage for new users. https://t.co/38e8y7MAmg",
+      "timestamp": "2026-05-13T15:35:00+00:00",
+      "url": "https://x.com/OpenAIDevs/status/2054586214112780518",
+      "images": [
+        "https://pbs.twimg.com/media/HINbRDoa4AAwH7N.jpg",
+        "https://pbs.twimg.com/media/HINbRYSa0AAob-c.jpg"
+      ],
+      "likes": 4042,
+      "retweets": 282,
+      "views": 1155193
+    },
+    {
+      "id": "2054496147914252394",
+      "username": "mervenoyann",
+      "text": "look mom I'm on my favorite YT channel this evening  @aiDotEngineer 💗\n\nI talked about how @huggingface meets your agent: you can ask your agent to do all ML workflows from training models to label data now https://t.co/364mEHeNO1",
+      "timestamp": "2026-05-13T09:37:07+00:00",
+      "url": "https://x.com/mervenoyann/status/2054496147914252394",
+      "images": [
+        "https://pbs.twimg.com/media/HIMIyQDXEAAEtcV.png"
+      ],
+      "likes": 249,
+      "retweets": 25,
+      "views": 13923
     }
   ]
 }
