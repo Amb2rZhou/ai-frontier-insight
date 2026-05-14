@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-05-14T15:45:30.580865",
+  "scraped_at": "2026-05-14T20:19:53.066165",
   "date": "2026-05-14",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 109,
-  "account_count": 55,
+  "tweet_count": 117,
+  "account_count": 57,
   "tweets": [
     {
       "id": "2054617810253615147",
@@ -1244,6 +1244,100 @@
       "likes": 2644,
       "retweets": 155,
       "views": 639233
+    },
+    {
+      "id": "2054891459053039938",
+      "username": "mervenoyann",
+      "text": "this week @huggingface crossed 1M datasets 🚀 every open model you love was built on top of them \n\nnext objective: more open coding session traces on Hub to push coding models even further 🤝 \n\nhelp push the open frontier by uploading your traces! https://t.co/srbDG9t5EQ",
+      "timestamp": "2026-05-14T11:47:56+00:00",
+      "url": "https://x.com/mervenoyann/status/2054891459053039938",
+      "images": [
+        "https://pbs.twimg.com/media/HIRvV0SWwAAmso3.jpg"
+      ],
+      "likes": 25,
+      "retweets": 2,
+      "views": 1919
+    },
+    {
+      "id": "2054876912934134081",
+      "username": "sedielem",
+      "text": "Today in continuous diffusion language models, we have:\n- Spherical flows https://t.co/Pc0DhnKU7M\n- Hyperspherical flows https://t.co/FmvxuepBnG\n\nAnother case of convergent evolution! Two different takes on the same core idea, published within days of each other.",
+      "timestamp": "2026-05-14T10:50:08+00:00",
+      "url": "https://x.com/sedielem/status/2054876912934134081",
+      "images": [],
+      "likes": 68,
+      "retweets": 17,
+      "views": 4276
+    },
+    {
+      "id": "2054850632067019173",
+      "username": "steipete",
+      "text": "Wrote a skill that runs codex /review in a loop until there's no booboos anymore.\n\nCaveat: It won't fix system architecture for ya, so you still need BRAIN as master model. https://t.co/0Z6iJnCqCX",
+      "timestamp": "2026-05-14T09:05:42+00:00",
+      "url": "https://x.com/steipete/status/2054850632067019173",
+      "images": [],
+      "likes": 944,
+      "retweets": 43,
+      "views": 50832
+    },
+    {
+      "id": "2054191106938622324",
+      "username": "_akhaliq",
+      "text": "TMAS\n\nScaling Test-Time Compute via Multi-Agent Synergy https://t.co/HwX9PDuXXQ",
+      "timestamp": "2026-05-12T13:24:59+00:00",
+      "url": "https://x.com/_akhaliq/status/2054191106938622324",
+      "images": [
+        "https://pbs.twimg.com/media/HIHz3RdWgAA8Qag.jpg"
+      ],
+      "likes": 29,
+      "retweets": 3,
+      "views": 7087
+    },
+    {
+      "id": "2053151542916894775",
+      "username": "sama",
+      "text": "what would you most like to see improve in our next model?",
+      "timestamp": "2026-05-09T16:34:08+00:00",
+      "url": "https://x.com/sama/status/2053151542916894775",
+      "images": [],
+      "likes": 8995,
+      "retweets": 310,
+      "views": 1395387
+    },
+    {
+      "id": "2052936284705108069",
+      "username": "Miles_Brundage",
+      "text": "It is true that METR's time horizon stuff is among the best measures we have of AI progress over time + that it being saturated is noteworthy\n\nBut the key value of the graph IMO is its simplicity + compression into 1 clear #, not \"showing fast progress\" which doesn't require 1 #",
+      "timestamp": "2026-05-09T02:18:46+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2052936284705108069",
+      "images": [],
+      "likes": 41,
+      "retweets": 1,
+      "views": 3315
+    },
+    {
+      "id": "2052914745980969221",
+      "username": "hardmaru",
+      "text": "If you want to look under the hood at the actual custom CUDA kernels and see exactly how we implemented the TwELL format for H100 GPUs, we’ve released the reference code.\n\nGitHub: https://t.co/IpxHxRm7yV\nBlog: https://t.co/nvtHiIYYO5\n🐟 https://t.co/MvU77iqKHJ",
+      "timestamp": "2026-05-09T00:53:11+00:00",
+      "url": "https://x.com/hardmaru/status/2052914745980969221",
+      "images": [
+        "https://pbs.twimg.com/media/HH1q_KkbkAArM1-.jpg"
+      ],
+      "likes": 64,
+      "retweets": 4,
+      "views": 11061
+    },
+    {
+      "id": "2052866454295544116",
+      "username": "Austen",
+      "text": "Someone needs to make sure AI isn’t trained on LessWrong\n\nI’m not even joking",
+      "timestamp": "2026-05-08T21:41:17+00:00",
+      "url": "https://x.com/Austen/status/2052866454295544116",
+      "images": [],
+      "likes": 72,
+      "retweets": 1,
+      "views": 5287
     }
   ]
 }
