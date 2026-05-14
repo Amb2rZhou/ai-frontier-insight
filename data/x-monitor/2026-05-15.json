@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-05-15T00:26:03.890042",
+  "scraped_at": "2026-05-15T03:28:29.056027",
   "date": "2026-05-15",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 52,
-  "account_count": 30,
+  "tweet_count": 72,
+  "account_count": 40,
   "tweets": [
     {
       "id": "2054958398014115936",
@@ -599,6 +599,240 @@
       "likes": 169,
       "retweets": 29,
       "views": 15884
+    },
+    {
+      "id": "2055005925879263444",
+      "username": "a16z",
+      "text": "Our April GTM survey found that CRM usage has risen since AI tools began to be adopted at scale.\n\nThe agents that listen to calls and write structured notes back into the system are, for the moment, giving reps fresh reason to consult it, because the data sitting there has become https://t.co/2c3ta2swHr",
+      "timestamp": "2026-05-14T19:22:47+00:00",
+      "url": "https://x.com/a16z/status/2055005925879263444",
+      "images": [
+        "https://pbs.twimg.com/media/HITY_9kaEAE-T9b.jpg"
+      ],
+      "likes": 7,
+      "retweets": 0,
+      "views": 776
+    },
+    {
+      "id": "2055000300545785937",
+      "username": "omarsar0",
+      "text": "Interesting position paper on agentic AI as a foreseeable pathway to AGI.\n\n(bookmark it)\n\nThere has been strong debate on whether a larger single model get us there or a multi-agent system.\n\nThe authors argue that agentic AI systems, not bigger foundation models on their own, are https://t.co/SPIi9UNBAr",
+      "timestamp": "2026-05-14T19:00:26+00:00",
+      "url": "https://x.com/omarsar0/status/2055000300545785937",
+      "images": [
+        "https://pbs.twimg.com/media/HITT4clbAAAz-uO.jpg"
+      ],
+      "likes": 18,
+      "retweets": 1,
+      "views": 885
+    },
+    {
+      "id": "2055000057691164762",
+      "username": "Austen",
+      "text": "Tomorrow at 2 PM Central doing a Spaces about @KellyClaudeAI.\n\nCome hang.",
+      "timestamp": "2026-05-14T18:59:28+00:00",
+      "url": "https://x.com/Austen/status/2055000057691164762",
+      "images": [],
+      "likes": 24,
+      "retweets": 6,
+      "views": 1278
+    },
+    {
+      "id": "2054993285152989373",
+      "username": "xai",
+      "text": "An early beta of Grok Build, an agentic CLI for coding, building apps, and automating workflows is now available for SuperGrok Heavy subscribers.\n\nThrough this early beta, we will improve the model and product based on your feedback.\n\nTry it at https://t.co/bpTHpjivWD https://t.co/Rlg4qMLkrv",
+      "timestamp": "2026-05-14T18:32:33+00:00",
+      "url": "https://x.com/xai/status/2054993285152989373",
+      "images": [
+        "https://pbs.twimg.com/media/HITLxwubYAASkW_.jpg"
+      ],
+      "likes": 1869,
+      "retweets": 241,
+      "views": 145443
+    },
+    {
+      "id": "2054991352295731619",
+      "username": "ClementDelangue",
+      "text": "Are scaling laws finally working for time series foundation models?\n\nToday, @datadoghq is releasing Toto 2.0 weights in Apache 2.0 on @huggingface. It's a family of open-weights TSFMs from 4M to 2.5B parameters, where every size beats the last from a single hyperparameter config. https://t.co/ISuKEwrfRp",
+      "timestamp": "2026-05-14T18:24:52+00:00",
+      "url": "https://x.com/ClementDelangue/status/2054991352295731619",
+      "images": [
+        "https://pbs.twimg.com/media/HITLIJmXcAAsGU7.jpg"
+      ],
+      "likes": 64,
+      "retweets": 7,
+      "views": 4598
+    },
+    {
+      "id": "2054990194432954675",
+      "username": "giffmana",
+      "text": "Gemini Spark?\nWhy does it sound familiar 🤔🤔",
+      "timestamp": "2026-05-14T18:20:16+00:00",
+      "url": "https://x.com/giffmana/status/2054990194432954675",
+      "images": [],
+      "likes": 48,
+      "retweets": 0,
+      "views": 5708
+    },
+    {
+      "id": "2054987444664377374",
+      "username": "AnthropicAI",
+      "text": "We've published a paper that explains our views on AI competition between the US and China.\n\nThe US and democratic allies hold the lead in frontier AI today. Read more on what it’ll take to keep that lead: https://t.co/TgJBeodWYK",
+      "timestamp": "2026-05-14T18:09:21+00:00",
+      "url": "https://x.com/AnthropicAI/status/2054987444664377374",
+      "images": [],
+      "likes": 707,
+      "retweets": 85,
+      "views": 82214
+    },
+    {
+      "id": "2054986075232199038",
+      "username": "steipete",
+      "text": "mcporter 0.11.0 is live\n\nI use mcporter mainly as more stable browser automation cli these days and for agents to test MCPs without having to restart.\n\nI do love that code mode is slowly being adopted by harnesses so this will be less needed.\nhttps://t.co/BAl8SxtWQs",
+      "timestamp": "2026-05-14T18:03:54+00:00",
+      "url": "https://x.com/steipete/status/2054986075232199038",
+      "images": [],
+      "likes": 95,
+      "retweets": 1,
+      "views": 9143
+    },
+    {
+      "id": "2054985093785981418",
+      "username": "nvidia",
+      "text": "“No generation has entered the world with more powerful tools or greater opportunities.”\n\nJensen Huang to @CarnegieMellon Class of 2026: You’re standing at the starting line of the AI era. This is your moment to shape what comes next. https://t.co/Em0QVX3ljX",
+      "timestamp": "2026-05-14T18:00:00+00:00",
+      "url": "https://x.com/nvidia/status/2054985093785981418",
+      "images": [],
+      "likes": 190,
+      "retweets": 29,
+      "views": 13028
+    },
+    {
+      "id": "2054983786794729762",
+      "username": "GaryMarcus",
+      "text": "wading through bots and LLM-written replies here is getting more tedious by the day.\n\nretweet if you agree.",
+      "timestamp": "2026-05-14T17:54:49+00:00",
+      "url": "https://x.com/GaryMarcus/status/2054983786794729762",
+      "images": [],
+      "likes": 102,
+      "retweets": 31,
+      "views": 3276
+    },
+    {
+      "id": "2054982081684394250",
+      "username": "mathemagic1an",
+      "text": "Has to be the largest refactor ever performed in this time frame\n\nFundamental new chess move now enabled in software development.\n\nThis will kick off a renaissance of rewrites and honestly should change how we think about malleability of software",
+      "timestamp": "2026-05-14T17:48:02+00:00",
+      "url": "https://x.com/mathemagic1an/status/2054982081684394250",
+      "images": [],
+      "likes": 20,
+      "retweets": 0,
+      "views": 1878
+    },
+    {
+      "id": "2054974015756730790",
+      "username": "steipete",
+      "text": "Shipping 🌐 Proxyline 0.2.0.\n\nProcess-global proxy routing for Node.js: one explicit policy for node:http, node:https, fetch/undici, WebSocket, and CONNECT.\n\nMuch lighter than global-agent, which we used in OpenClaw before. 12 sub-dependencies GONE!\nhttps://t.co/SYtjAtBWtO",
+      "timestamp": "2026-05-14T17:15:59+00:00",
+      "url": "https://x.com/steipete/status/2054974015756730790",
+      "images": [],
+      "likes": 100,
+      "retweets": 2,
+      "views": 11911
+    },
+    {
+      "id": "2054965107222843749",
+      "username": "Azure",
+      "text": "Kimi K2.6 and DeepSeek V4 Pro are now GA on @FireworksAI_HQ on Foundry + PTU support in the US Data Zone—predictable performance, data residency, enterprise SLAs.\n\nFrontier open models. Azure controls. No compromises.\n\nLearn more at Microsoft Build 2026: https://t.co/jmJy7g8abN https://t.co/fRaY5XuY0Q",
+      "timestamp": "2026-05-14T16:40:35+00:00",
+      "url": "https://x.com/Azure/status/2054965107222843749",
+      "images": [],
+      "likes": 14,
+      "retweets": 1,
+      "views": 2560
+    },
+    {
+      "id": "2054964560403300359",
+      "username": "AndrewYNg",
+      "text": "New course: Transformers in Practice. You'll get a practical view of how transformer-based LLMs work, so you can reason about their behavior, diagnose problems like slow inference, and make smarter decisions about deployment. This course is built in partnership with  @AMD and https://t.co/g8sCrC3sP5",
+      "timestamp": "2026-05-14T16:38:25+00:00",
+      "url": "https://x.com/AndrewYNg/status/2054964560403300359",
+      "images": [],
+      "likes": 303,
+      "retweets": 47,
+      "views": 28792
+    },
+    {
+      "id": "2054963976224866389",
+      "username": "Everlyn_ai",
+      "text": "Late-night city lights and one curious soul.\n\n- generated on Everlyn in 12.7 seconds https://t.co/jOW7TPqxcD",
+      "timestamp": "2026-05-14T16:36:05+00:00",
+      "url": "https://x.com/Everlyn_ai/status/2054963976224866389",
+      "images": [],
+      "likes": 2,
+      "retweets": 0,
+      "views": 329
+    },
+    {
+      "id": "2054963764609351984",
+      "username": "minchoi",
+      "text": "Anthropic was valued at $380B in February.\n\nNow it's reportedly discussing a raise at $900B+.\n\nThat would put it above OpenAI's $852B valuation.\n\nAI valuations are getting insane. https://t.co/bRJod4AJQH",
+      "timestamp": "2026-05-14T16:35:15+00:00",
+      "url": "https://x.com/minchoi/status/2054963764609351984",
+      "images": [
+        "https://pbs.twimg.com/media/HISymNYXkAA0Adp.jpg"
+      ],
+      "likes": 28,
+      "retweets": 3,
+      "views": 4189
+    },
+    {
+      "id": "2054961175842943442",
+      "username": "sedielem",
+      "text": "This one blew my mind back in the day!\nFrom \"Learning Invariant Features through Topographic Filter Maps\" (2009) by @koraykv, @MarcRanzato, @rob_fergus and @ylecun https://t.co/IjzRi4R9X6",
+      "timestamp": "2026-05-14T16:24:58+00:00",
+      "url": "https://x.com/sedielem/status/2054961175842943442",
+      "images": [
+        "https://pbs.twimg.com/media/HISwTBwXQAAwbrT.jpg"
+      ],
+      "likes": 74,
+      "retweets": 12,
+      "views": 16339
+    },
+    {
+      "id": "2054626219858293128",
+      "username": "sama",
+      "text": "codex is the best AI coding product and we want to make it easy to try.\n\nfor the next 30 days, we are giving companies that want to try switching over two months of free codex usage.",
+      "timestamp": "2026-05-13T18:13:58+00:00",
+      "url": "https://x.com/sama/status/2054626219858293128",
+      "images": [],
+      "likes": 19913,
+      "retweets": 820,
+      "views": 2013094
+    },
+    {
+      "id": "2052816356928868465",
+      "username": "OfficialLoganK",
+      "text": "Come celebrate after Google IO with the DeepMind team in SF on May 21st :) \n\nLots to look forward to!! Link in 🧵 https://t.co/FP6y97CJmc",
+      "timestamp": "2026-05-08T18:22:13+00:00",
+      "url": "https://x.com/OfficialLoganK/status/2052816356928868465",
+      "images": [
+        "https://pbs.twimg.com/media/HH0RmP4a4AAlS_4.jpg"
+      ],
+      "likes": 965,
+      "retweets": 58,
+      "views": 78034
+    },
+    {
+      "id": "2052410249689063832",
+      "username": "omarsar0",
+      "text": "Top skill to learn today: AI Agent Evaluation.\n\nAnyone can build AI agents now but the difference is in the quality that's only possible via proper evals. \n\nWrote some thoughts on evaluating production AI systems in n8n. Insights, templates, and examples to try at your own pace.",
+      "timestamp": "2026-05-07T15:28:30+00:00",
+      "url": "https://x.com/omarsar0/status/2052410249689063832",
+      "images": [],
+      "likes": 75,
+      "retweets": 12,
+      "views": 19380
     }
   ]
 }
