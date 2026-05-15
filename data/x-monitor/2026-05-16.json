@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-05-16T02:24:29.202553",
+  "scraped_at": "2026-05-16T07:29:10.701744",
   "date": "2026-05-16",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 43,
-  "account_count": 29,
+  "tweet_count": 64,
+  "account_count": 39,
   "tweets": [
     {
       "id": "2055348718216360404",
@@ -502,6 +502,250 @@
       "likes": 54,
       "retweets": 3,
       "views": 6173
+    },
+    {
+      "id": "2055427715382333880",
+      "username": "Miles_Brundage",
+      "text": "As a reminder, the \"China doesn't want H200s\" thing is fake + a negotiating tactic to get even better GPUs",
+      "timestamp": "2026-05-15T23:18:50+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2055427715382333880",
+      "images": [],
+      "likes": 2,
+      "retweets": 1,
+      "views": 164
+    },
+    {
+      "id": "2055419648959459492",
+      "username": "iamtrask",
+      "text": "There's a mental model of LLMs that fits this narrative. It also follows the rough history of language model development from 1948 to today: that Transformers are basically n-gram models + embeddings + attention + clean_data + scale.\n\nTHE BEGINNING (1948 - 2003):\n\nN-gram models:",
+      "timestamp": "2026-05-15T22:46:46+00:00",
+      "url": "https://x.com/iamtrask/status/2055419648959459492",
+      "images": [],
+      "likes": 5,
+      "retweets": 0,
+      "views": 680
+    },
+    {
+      "id": "2055408023506469337",
+      "username": "code",
+      "text": "🖥️ Risk assessment for terminal commands\n\nVS Code now shows a risk badge before you confirm a command, with an AI-generated explanation of what it actually does.\n\n🟢 Safe: reads files or prints output, no changes made.\n🟠 Caution: modifies your workspace, installs packages, or https://t.co/yu5Q3KKU70",
+      "timestamp": "2026-05-15T22:00:35+00:00",
+      "url": "https://x.com/code/status/2055408023506469337",
+      "images": [
+        "https://pbs.twimg.com/media/HIZGtINWsAEUmls.jpg"
+      ],
+      "likes": 83,
+      "retweets": 8,
+      "views": 6987
+    },
+    {
+      "id": "2055405041843052792",
+      "username": "steipete",
+      "text": "People freaking out over my AI spend. What nobody sees: Part of what excites me so much about working on OpenClaw is that I'm trying to answer the question:\n\nHow would we build software in the future if tokens don't matter?\n\nWe constant run ~100 codex in the cloud, reviewing",
+      "timestamp": "2026-05-15T21:48:44+00:00",
+      "url": "https://x.com/steipete/status/2055405041843052792",
+      "images": [],
+      "likes": 1059,
+      "retweets": 54,
+      "views": 71157
+    },
+    {
+      "id": "2055404493689569611",
+      "username": "thsottiaux",
+      "text": "We are busy bringing ChatGPT to Codex so that we can bring Codex to ChatGPT. One day this will make sense.",
+      "timestamp": "2026-05-15T21:46:33+00:00",
+      "url": "https://x.com/thsottiaux/status/2055404493689569611",
+      "images": [],
+      "likes": 1576,
+      "retweets": 55,
+      "views": 35888
+    },
+    {
+      "id": "2055402519841411165",
+      "username": "steipete",
+      "text": "Been using @sveltejs for a few projects lately, it's quite a nice alternative to React, fewer gotchas and complexity and Codex handles it really well. https://t.co/b2KdDvrpLD",
+      "timestamp": "2026-05-15T21:38:42+00:00",
+      "url": "https://x.com/steipete/status/2055402519841411165",
+      "images": [],
+      "likes": 131,
+      "retweets": 5,
+      "views": 13496
+    },
+    {
+      "id": "2055396369750175946",
+      "username": "EMostaque",
+      "text": "The total addressable market for humanoid robotics may well be larger than the TAM for human labour",
+      "timestamp": "2026-05-15T21:14:16+00:00",
+      "url": "https://x.com/EMostaque/status/2055396369750175946",
+      "images": [],
+      "likes": 28,
+      "retweets": 3,
+      "views": 3337
+    },
+    {
+      "id": "2055392833276653998",
+      "username": "Azure",
+      "text": "You’ve seen what AI can do. Now it’s time to make it work inside your business.\n\nWith clear language and practical guidance, the \"AI Made Simple: 3 Practical Moves for Growing Businesses\" kit helps you plan for a greater impact with Azure.\n\nAccess the kit here: https://t.co/2AXpcHmsPQ",
+      "timestamp": "2026-05-15T21:00:13+00:00",
+      "url": "https://x.com/Azure/status/2055392833276653998",
+      "images": [],
+      "likes": 14,
+      "retweets": 4,
+      "views": 2380
+    },
+    {
+      "id": "2055387905854460129",
+      "username": "PyTorch",
+      "text": "PyTorch releases include thousands of changes, and our Release Live Q&amp;A gives you direct access to the maintainers and contributors behind them.\n\nIn this clip from our PyTorch 2.11 webinar, Nikita Shulga explains why quantization support is moving from PyTorch core to TorchAO and https://t.co/cIzmBSImRm",
+      "timestamp": "2026-05-15T20:40:38+00:00",
+      "url": "https://x.com/PyTorch/status/2055387905854460129",
+      "images": [],
+      "likes": 5,
+      "retweets": 3,
+      "views": 2859
+    },
+    {
+      "id": "2055385936561832163",
+      "username": "DeryaTR_",
+      "text": "I was part of the OpenAI Pro community for early testing of this finance module in ChatGPT. I must admit, connecting my financial accounts &amp; receiving insightful reports turned out to be a better experience than I had anticipated! It’s also very easy to use! Pro users, try it!",
+      "timestamp": "2026-05-15T20:32:49+00:00",
+      "url": "https://x.com/DeryaTR_/status/2055385936561832163",
+      "images": [],
+      "likes": 59,
+      "retweets": 2,
+      "views": 6410
+    },
+    {
+      "id": "2055384863155610068",
+      "username": "fidjissimo",
+      "text": "“Help me save money” is one of the core benefits people hope to get out of AI. With this launch we’re making this super easy. Similar to what we did for Health by letting you connect your health records, you can now do the same for financial records so ChatGPT can have the full",
+      "timestamp": "2026-05-15T20:28:33+00:00",
+      "url": "https://x.com/fidjissimo/status/2055384863155610068",
+      "images": [],
+      "likes": 183,
+      "retweets": 11,
+      "views": 16760
+    },
+    {
+      "id": "2055382099356770737",
+      "username": "a16z",
+      "text": "The sheer volume of demand for memory is wild\n\nCharts of the Week: https://t.co/nVVf3gIw3U https://t.co/UfxggOoa3m",
+      "timestamp": "2026-05-15T20:17:34+00:00",
+      "url": "https://x.com/a16z/status/2055382099356770737",
+      "images": [
+        "https://pbs.twimg.com/media/HIYvH7_asAAJ9kf.jpg",
+        "https://pbs.twimg.com/media/HIYvIIAbYAAOkBs.jpg"
+      ],
+      "likes": 163,
+      "retweets": 23,
+      "views": 45822
+    },
+    {
+      "id": "2055377679746998764",
+      "username": "googledevs",
+      "text": "Join us on May 20 at #GoogleIO for visionary Dialogues talks and actionable Professional Development sessions.\n\nSet your reminders for Dialogues → https://t.co/Y2n5KYx8hg \nJoin us for Professional Development sessions → https://t.co/F3bbpIocHa \n\nCatch the energy live! 🌐✨ https://t.co/m8wpokA7Bk",
+      "timestamp": "2026-05-15T20:00:00+00:00",
+      "url": "https://x.com/googledevs/status/2055377679746998764",
+      "images": [],
+      "likes": 67,
+      "retweets": 16,
+      "views": 4520
+    },
+    {
+      "id": "2055377013607952816",
+      "username": "DeryaTR_",
+      "text": "Water is not an issue; it’s completely overblown by doomers. Energy is critical, but isn’t that true for everything in life? We use orders of magnitude more energy now than we did a century ago. AI will save billions of lives, so what could be a better use of energy than that?",
+      "timestamp": "2026-05-15T19:57:21+00:00",
+      "url": "https://x.com/DeryaTR_/status/2055377013607952816",
+      "images": [],
+      "likes": 48,
+      "retweets": 1,
+      "views": 5121
+    },
+    {
+      "id": "2055375676656783733",
+      "username": "xai",
+      "text": "You can now use your @grok subscription inside @NousResearch Hermes Agent.\n\nhttps://t.co/UYKGws8zzH https://t.co/myqsaSq4k3",
+      "timestamp": "2026-05-15T19:52:03+00:00",
+      "url": "https://x.com/xai/status/2055375676656783733",
+      "images": [
+        "https://pbs.twimg.com/media/HIYoA4paEAA3-tL.png"
+      ],
+      "likes": 2354,
+      "retweets": 223,
+      "views": 150429
+    },
+    {
+      "id": "2055364630709448970",
+      "username": "steipete",
+      "text": "🩹 clawpatch 0.1.0 is live:\n\nClawpatch maps codebases into semantic feature slices, reviews them for bugs and quality issues, and records explicit fix attempts with validation.\n\nYou'll be surprised how much this will find.\nnpm install -g clawpatch\nhttps://t.co/8xIcXuojse",
+      "timestamp": "2026-05-15T19:08:09+00:00",
+      "url": "https://x.com/steipete/status/2055364630709448970",
+      "images": [],
+      "likes": 564,
+      "retweets": 28,
+      "views": 38673
+    },
+    {
+      "id": "2055359072212545917",
+      "username": "ArtificialAnlys",
+      "text": "AI is making rapid progress in economically valuable tasks: based on their GDPval-AA Elo scores, GPT-5.5 is expected to win ~98% of head-to-head comparisons on realistic work outputs against Claude 4 Sonnet, the leading model in GDPval-AA a year ago\n\nGDPval-AA measures how well https://t.co/4DlhJBofEH",
+      "timestamp": "2026-05-15T18:46:04+00:00",
+      "url": "https://x.com/ArtificialAnlys/status/2055359072212545917",
+      "images": [
+        "https://pbs.twimg.com/media/HIYZ_rbbMAAWCY5.jpg"
+      ],
+      "likes": 87,
+      "retweets": 5,
+      "views": 5230
+    },
+    {
+      "id": "2055357619888595271",
+      "username": "levie",
+      "text": "Headless software is the future",
+      "timestamp": "2026-05-15T18:40:17+00:00",
+      "url": "https://x.com/levie/status/2055357619888595271",
+      "images": [],
+      "likes": 198,
+      "retweets": 14,
+      "views": 47608
+    },
+    {
+      "id": "2055356452286640630",
+      "username": "sama",
+      "text": "i appreciate how seriously the team always takes these reports (even when the answer turns out to be 'i got used to the current level of magic and now i'd like more please')",
+      "timestamp": "2026-05-15T18:35:39+00:00",
+      "url": "https://x.com/sama/status/2055356452286640630",
+      "images": [],
+      "likes": 2515,
+      "retweets": 65,
+      "views": 238031
+    },
+    {
+      "id": "2055355018744574133",
+      "username": "EMostaque",
+      "text": "I discuss this applied to economics in The Last Economy with reference to Smith, Marx &amp; Hayek\n\nHarmonic flow is the landscape itself\n\nhttps://t.co/FGlELs2zje https://t.co/HsYiDcMSzO",
+      "timestamp": "2026-05-15T18:29:57+00:00",
+      "url": "https://x.com/EMostaque/status/2055355018744574133",
+      "images": [
+        "https://pbs.twimg.com/media/HIYWcf2WEAIersU.png"
+      ],
+      "likes": 17,
+      "retweets": 1,
+      "views": 4525
+    },
+    {
+      "id": "2054615931838677436",
+      "username": "lmthang",
+      "text": "Very excited to share a new milestone in AI for Math: Aletheia, powered by Gemini Deep Think, was just used to autonomously solve a Kirby problem! “Kirby’s list” is a “compendium of the most important unsolved problems in topology, the study of deformable shapes” (Quanta https://t.co/9EbIprf2Ib",
+      "timestamp": "2026-05-13T17:33:05+00:00",
+      "url": "https://x.com/lmthang/status/2054615931838677436",
+      "images": [
+        "https://pbs.twimg.com/media/HIN2TVNboAAdL8T.jpg"
+      ],
+      "likes": 416,
+      "retweets": 76,
+      "views": 54024
     }
   ]
 }
