@@ -2,7 +2,7 @@
 title: xAI
 type: company
 created: 2026-02-25
-updated: 2026-05-13
+updated: 2026-05-15
 ---
 
 # xAI
@@ -11,6 +11,7 @@ Elon Musk's AI company, maker of [[grok|Grok]] models. Known for aggressive infr
 
 ## Timeline
 
+- **2026-05-15**: [[grok|Grok]] Build: xAI Launches [[agent-frameworks|Agentic]] CLI for Coding and Automation
 - **2026-05-13**: xAI Colossus 2 Expands Gas Turbine Power Despite Lawsuit
 - **2026-05-12**: Ilya Sutskever Testifies at Musk v. Altman Trial; Reveals $7B Stake and Defense of [[openai|OpenAI]]
 - **2026-05-07**: xAI Launches Image Generation Quality Mode on API: 300M+ Images Generated

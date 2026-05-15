@@ -2,7 +2,7 @@
 title: Cursor AI
 type: company
 created: 2026-03-05
-updated: 2026-05-01
+updated: 2026-05-15
 ---
 
 # Cursor AI
@@ -11,6 +11,7 @@ AI-powered code editor that became one of the fastest-growing developer tools. K
 
 ## Timeline
 
+- **2026-05-15**: HTML-Anything: [[agent-frameworks|Agentic]] HTML Editor Goes Viral on GitHub
 - **2026-05-01**: Open-Source Open-Design Tool Emerges as [[claude|Claude]] Design Alternative (8.4k Stars)
 - **2026-04-25**: [[gpt|GPT-5]].5 Launches Across [[openai|OpenAI]] API, GitHub [[copilot|Copilot]], and [[perplexity|Perplexity]] · [OpenAI (X/Twitter)](https://x.com/OpenAI/status/2047743592278745425) · [Perplexity CEO Arav Srinivas](https://x.com/AravSrinivas/status/2047753276888854594) · [Microsoft Azure (X/Twitter)](https://x.com/Azure/status/2047752463646597261)
 - **2026-04-22**: SpaceX Announces Option to Acquire AI Coding Startup Cursor for $60B · [TechCrunch](https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/) · [The Verge](https://www.theverge.com/science/916427/spacex-cursor-potential-deal-acquisition) · [Reuters (via Hacker News)](https://twitter.com/spacex/status/2046713419978453374)

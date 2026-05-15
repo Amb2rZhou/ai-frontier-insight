@@ -2,7 +2,7 @@
 title: Anthropic
 type: company
 created: 2026-02-25
-updated: 2026-05-13
+updated: 2026-05-15
 ---
 
 # Anthropic
@@ -11,6 +11,8 @@ updated: 2026-05-13
 
 ## Timeline
 
+- **2026-05-15**: Anthropic Publishes Geopolitical AI Competition Paper on US-China Landscape
+- **2026-05-15**: Anthropic Picks Co-Leads for $900 Billion Valuation Funding Round
 - **2026-05-13**: Perceptron Mk1: 80-90% Cheaper Video Analysis AI Model
 - **2026-05-13**: Team Confused Deputy Attack Matrix: [[claude|Claude]] Security Blind Spots Revealed
 - **2026-05-13**: [[claude|Claude Code]] Acquires Agent View with Parallel Agent Management

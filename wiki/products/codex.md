@@ -2,7 +2,7 @@
 title: Codex
 type: product
 created: 2026-02-25
-updated: 2026-05-13
+updated: 2026-05-15
 ---
 
 # Codex
@@ -11,6 +11,8 @@ updated: 2026-05-13
 
 ## Timeline
 
+- **2026-05-15**: HTML-Anything: [[agent-frameworks|Agentic]] HTML Editor Goes Viral on GitHub
+- **2026-05-15**: [[openai|OpenAI]] Codex Goes Mobile: Full [[agent-frameworks|Agentic]] Coding from [[gpt|ChatGPT]] App
 - **2026-05-13**: [[openai|OpenAI]] Codex [[computer-use|Computer Use]] Agent: Cross-App Background Operation
 - **2026-05-12**: [[openai|OpenAI]] Launches Daybreak Security AI Initiative to Rival [[claude|Claude]] Mythos
 - **2026-05-10**: [[apple|Apple]] Siri Revamp May Be Overtaken by [[claude|Claude Code]] and Codex as AI Assistants Evolve

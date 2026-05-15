@@ -2,7 +2,7 @@
 title: Agent Frameworks
 type: technology
 created: 2026-02-25
-updated: 2026-05-13
+updated: 2026-05-15
 ---
 
 # Agent Frameworks
@@ -11,6 +11,9 @@ The rapidly evolving ecosystem of tools, SDKs, and platforms for building autono
 
 ## Timeline
 
+- **2026-05-15**: HTML-Anything: Agentic HTML Editor Goes Viral on GitHub
+- **2026-05-15**: [[grok|Grok]] Build: [[xai|xAI]] Launches Agentic CLI for Coding and Automation
+- **2026-05-15**: [[openai|OpenAI]] [[codex|Codex]] Goes Mobile: Full Agentic Coding from [[gpt|ChatGPT]] App
 - **2026-05-13**: Team Confused Deputy Attack Matrix: [[claude|Claude]] Security Blind Spots Revealed
 - **2026-05-13**: [[claude|Claude Code]] Acquires Agent View with Parallel Agent Management
 - **2026-05-13**: [[openai|OpenAI]] [[codex|Codex]] [[computer-use|Computer Use]] Agent: Cross-App Background Operation

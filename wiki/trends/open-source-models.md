@@ -2,7 +2,7 @@
 title: Open Source Models
 type: trend
 created: 2026-02-25
-updated: 2026-05-13
+updated: 2026-05-15
 ---
 
 # Open Source Models
@@ -13,6 +13,9 @@ The rapid proliferation of open-source and open-weight foundation models challen
 
 ## Timeline
 
+- **2026-05-15**: IBM Granite Embedding Multilingual R2: Best Sub-100M [[rag|Retrieval]] Quality with 32K Context
+- **2026-05-15**: [[hugging-face|HuggingFace]] Crosses 1 Million Datasets Milestone
+- **2026-05-15**: HTML-Anything: [[agent-frameworks|Agentic]] HTML Editor Goes Viral on GitHub
 - **2026-05-13**: TabPFN-3: Pretrained Tabular Foundation Model Released
 - **2026-05-12**: [[openai|OpenAI]] and [[alibaba|Alibaba]] [[qwen|Qwen]] Launch Ambassador Programs for Developer Community
 - **2026-05-07**: [[tencent|Tencent]] Hunyuan Releases OpenSearch-VL: Open-Source Multimodal Search [[agent-frameworks|Agent Framework]]

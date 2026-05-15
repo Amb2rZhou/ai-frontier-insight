@@ -2,7 +2,7 @@
 title: NVIDIA
 type: company
 created: 2026-02-25
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 # NVIDIA
@@ -11,6 +11,7 @@ Dominant [[ai-hardware|AI hardware]] company, increasingly expanding into AI sof
 
 ## Timeline
 
+- **2026-05-15**: NVIDIA: Edge is Becoming Agent Host - NemoClaw and Jetson Strategy
 - **2026-05-11**: Cerebras AI Chip IPO Tests Public Market Appetite at $35B Valuation
 - **2026-05-10**: NVIDIA Commits $40B+ in AI Equity Deals This Year, Dominating Supply Chain Lock-In
 - **2026-05-07**: Adobe Builds CX Enterprise Agent on NVIDIA NemoClaw: Enterprise Agent Strategy

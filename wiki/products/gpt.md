@@ -2,7 +2,7 @@
 title: GPT
 type: product
 created: 2026-02-25
-updated: 2026-05-06
+updated: 2026-05-15
 ---
 
 # GPT
@@ -11,6 +11,7 @@ updated: 2026-05-06
 
 ## Timeline
 
+- **2026-05-15**: [[openai|OpenAI]] [[codex|Codex]] Goes Mobile: Full [[agent-frameworks|Agentic]] Coding from ChatGPT App
 - **2026-05-06**: [[openai|OpenAI]] Launches GPT-5.5 Instant with Memory Observability and Spreadsheet Integration
 - **2026-05-05**: [[openai|OpenAI]] Turns Sold-Out GPT-5.5 Party into [[codex|Codex]] Rate Limit Giveaway for 8,000 Developers
 - **2026-05-01**: [[openai|OpenAI]] Rolls Out GPT-5.5-Cyber: Frontier Cybersecurity Model for Critical Defenders
