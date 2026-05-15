@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-05-15T06:30:05.672449",
+  "scraped_at": "2026-05-15T11:56:33.211953",
   "date": "2026-05-15",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 97,
-  "account_count": 50,
+  "tweet_count": 114,
+  "account_count": 55,
   "tweets": [
     {
       "id": "2054958398014115936",
@@ -1125,6 +1125,199 @@
       "likes": 249,
       "retweets": 25,
       "views": 13923
+    },
+    {
+      "id": "2055131618789265779",
+      "username": "npew",
+      "text": "Codex on iPad is so awesome. Managing sessions on both my Mac Mini and VPS. Coding on the iPad is finally here.",
+      "timestamp": "2026-05-15T03:42:15+00:00",
+      "url": "https://x.com/npew/status/2055131618789265779",
+      "images": [],
+      "likes": 7,
+      "retweets": 0,
+      "views": 191
+    },
+    {
+      "id": "2055126661486780530",
+      "username": "Miles_Brundage",
+      "text": "God forbid a robot have a hobby https://t.co/lFWw5Be39i",
+      "timestamp": "2026-05-15T03:22:33+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2055126661486780530",
+      "images": [],
+      "likes": 8,
+      "retweets": 0,
+      "views": 778
+    },
+    {
+      "id": "2055123123041952087",
+      "username": "NVIDIARobotics",
+      "text": "What we did at Dexterity Night with @RLWRLD_ai  in San Francisco. 👇 https://t.co/ZlH9FsKyh0",
+      "timestamp": "2026-05-15T03:08:29+00:00",
+      "url": "https://x.com/NVIDIARobotics/status/2055123123041952087",
+      "images": [],
+      "likes": 16,
+      "retweets": 5,
+      "views": 832
+    },
+    {
+      "id": "2055115490431819852",
+      "username": "Austen",
+      "text": "Using AI to build a better X is a fantastic idea if you really, really care about X.\n\nLetting off-the-shelf AI tell you how you ought to build X and blindly obeying is a terrible, terrible idea.",
+      "timestamp": "2026-05-15T02:38:09+00:00",
+      "url": "https://x.com/Austen/status/2055115490431819852",
+      "images": [],
+      "likes": 20,
+      "retweets": 0,
+      "views": 2521
+    },
+    {
+      "id": "2055100226894172450",
+      "username": "npew",
+      "text": "Big unlock. This is how I've been using Codex for the past few weeks. Excited it's out for everyone.",
+      "timestamp": "2026-05-15T01:37:30+00:00",
+      "url": "https://x.com/npew/status/2055100226894172450",
+      "images": [],
+      "likes": 10,
+      "retweets": 1,
+      "views": 1034
+    },
+    {
+      "id": "2055079776176721938",
+      "username": "sarahookr",
+      "text": "I will be at the National University of Singapore later today to give a talk on what we are working on at @adaption_ai.\n\n**Why the future of intelligence will be adaptive**\n\nGreat way to kick off my first day in Singapore. Looking forward to meeting faculty and students. https://t.co/rgKXjX7nWo",
+      "timestamp": "2026-05-15T00:16:14+00:00",
+      "url": "https://x.com/sarahookr/status/2055079776176721938",
+      "images": [
+        "https://pbs.twimg.com/media/HIUQicjacAADaeb.jpg"
+      ],
+      "likes": 78,
+      "retweets": 6,
+      "views": 2932
+    },
+    {
+      "id": "2055079006035206462",
+      "username": "emollick",
+      "text": "The Second Scaling Law remains undefeated. If you want better hacking (or math, or science, or crossword puzzle solving) out of an LLM, just add thinking tokens. There doesn't seem to be any plateau so far.",
+      "timestamp": "2026-05-15T00:13:11+00:00",
+      "url": "https://x.com/emollick/status/2055079006035206462",
+      "images": [],
+      "likes": 121,
+      "retweets": 8,
+      "views": 15516
+    },
+    {
+      "id": "2055066941581386236",
+      "username": "Miles_Brundage",
+      "text": "--model miles-brundage-5-14-26 --reasoning low",
+      "timestamp": "2026-05-14T23:25:14+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2055066941581386236",
+      "images": [],
+      "likes": 6,
+      "retweets": 0,
+      "views": 1044
+    },
+    {
+      "id": "2055066781786488978",
+      "username": "lateinteraction",
+      "text": "This project went through more naming iterations than anything else: magnet RL (actively attract the rollout to the right final answer), lucky RL (stumble upon good + realistic rollouts more often than pass@K), foresight RL (learn to use special knowledge of the future), ...",
+      "timestamp": "2026-05-14T23:24:36+00:00",
+      "url": "https://x.com/lateinteraction/status/2055066781786488978",
+      "images": [],
+      "likes": 38,
+      "retweets": 2,
+      "views": 3969
+    },
+    {
+      "id": "2055065846389649436",
+      "username": "lateinteraction",
+      "text": "End the tyranny of on-policy algorithms in LLM post-training!\n\nMaybe the key thing isn't whether your rollouts are purely \"on-policy\" or not, but the extent to which they’re pedagogically useful.\n\nEarly explorations into newer paradigms for RL by @SOURADIPCHAKR18* @NoahZiems*:",
+      "timestamp": "2026-05-14T23:20:53+00:00",
+      "url": "https://x.com/lateinteraction/status/2055065846389649436",
+      "images": [],
+      "likes": 54,
+      "retweets": 9,
+      "views": 3967
+    },
+    {
+      "id": "2055065775640314230",
+      "username": "ChatGPTapp",
+      "text": "Codex in the ChatGPT app\n\nlet your agents work for you from anywhere https://t.co/f3Mb8OukG8",
+      "timestamp": "2026-05-14T23:20:36+00:00",
+      "url": "https://x.com/ChatGPTapp/status/2055065775640314230",
+      "images": [
+        "https://pbs.twimg.com/media/HIUPHeuakAAmJo1.jpg"
+      ],
+      "likes": 790,
+      "retweets": 56,
+      "views": 33923
+    },
+    {
+      "id": "2055061858718228648",
+      "username": "DeryaTR_",
+      "text": "Woohoo! My first Codex connection try from my iPhone worked! This is so amazing! https://t.co/bS1KbJEHWr",
+      "timestamp": "2026-05-14T23:05:02+00:00",
+      "url": "https://x.com/DeryaTR_/status/2055061858718228648",
+      "images": [
+        "https://pbs.twimg.com/media/HIUL3j0agAAbZFX.jpg"
+      ],
+      "likes": 45,
+      "retweets": 1,
+      "views": 2357
+    },
+    {
+      "id": "2055060589060211170",
+      "username": "googledevs",
+      "text": "Building agentic apps is easy. Making them production-ready is hard. 🛠️\n\nAnnouncing Genkit Middleware: A composable way to intercept, extend, and harden your agentic apps.\n\n✅ Retries &amp; Fallbacks\n✅ Human-in-the-loop approvals\n✅ Full observability\n\nNow live for TypeScript, Go,",
+      "timestamp": "2026-05-14T23:00:00+00:00",
+      "url": "https://x.com/googledevs/status/2055060589060211170",
+      "images": [],
+      "likes": 188,
+      "retweets": 27,
+      "views": 11171
+    },
+    {
+      "id": "2055058306981618060",
+      "username": "NVIDIAAI",
+      "text": "OpenShell v0.0.41\n\n🧩 agent-driven policy management\n🎚️ sandbox resource flags in the CLI\n🔒 custom CA support for OIDC TLS verification\n📥 sandbox downloads with workspace-boundary checks\n🔧 bug fixes and stability improvements\n\nPolicy and resource control, directly from the",
+      "timestamp": "2026-05-14T22:50:56+00:00",
+      "url": "https://x.com/NVIDIAAI/status/2055058306981618060",
+      "images": [],
+      "likes": 104,
+      "retweets": 9,
+      "views": 8748
+    },
+    {
+      "id": "2055030317271101863",
+      "username": "__tinygrad__",
+      "text": "@AnthropicAI lol \"The Mythos Preview wake-up call\" that's like if we published a blog post with \"the tinybox green v2 wake-up call\" except we actually sell the product.",
+      "timestamp": "2026-05-14T20:59:42+00:00",
+      "url": "https://x.com/__tinygrad__/status/2055030317271101863",
+      "images": [],
+      "likes": 219,
+      "retweets": 6,
+      "views": 10092
+    },
+    {
+      "id": "2054991748330401936",
+      "username": "giffmana",
+      "text": "I just managed to run PyTorch on it, AMA",
+      "timestamp": "2026-05-14T18:26:27+00:00",
+      "url": "https://x.com/giffmana/status/2054991748330401936",
+      "images": [],
+      "likes": 511,
+      "retweets": 6,
+      "views": 55454
+    },
+    {
+      "id": "2054197462101889277",
+      "username": "demishassabis",
+      "text": "I’ve always believed the No.1 application of AI should be to improve human health.\n\nThat work started with AlphaFold, and now at @IsomorphicLabs with the mission to reimagine drug discovery and one day solve all disease!\n\nWe are turbocharging that goal with $2.1B in new funding. https://t.co/Hvk20dHgjl",
+      "timestamp": "2026-05-12T13:50:14+00:00",
+      "url": "https://x.com/demishassabis/status/2054197462101889277",
+      "images": [],
+      "likes": 17522,
+      "retweets": 2146,
+      "views": 2070317
     }
   ]
 }
