@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-05-15T11:56:33.211953",
+  "scraped_at": "2026-05-15T16:47:57.607350",
   "date": "2026-05-15",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 114,
-  "account_count": 55,
+  "tweet_count": 123,
+  "account_count": 56,
   "tweets": [
     {
       "id": "2054958398014115936",
@@ -1318,6 +1318,111 @@
       "likes": 17522,
       "retweets": 2146,
       "views": 2070317
+    },
+    {
+      "id": "2055203470941061600",
+      "username": "steipete",
+      "text": "built a new feature into discrawl (store media), codex said it's done, then I used my codex review skill... https://t.co/0Z6iJnCqCX https://t.co/Jkr4yha1Un",
+      "timestamp": "2026-05-15T08:27:45+00:00",
+      "url": "https://x.com/steipete/status/2055203470941061600",
+      "images": [
+        "https://pbs.twimg.com/media/HIWMUpuWkAAtYnj.jpg"
+      ],
+      "likes": 24,
+      "retweets": 1,
+      "views": 2595
+    },
+    {
+      "id": "2055180914549023077",
+      "username": "thsottiaux",
+      "text": "Codex will do wonderful things for you if you ask nicely",
+      "timestamp": "2026-05-15T06:58:08+00:00",
+      "url": "https://x.com/thsottiaux/status/2055180914549023077",
+      "images": [],
+      "likes": 689,
+      "retweets": 21,
+      "views": 22022
+    },
+    {
+      "id": "2055166053647307105",
+      "username": "roydanroy",
+      "text": "There's a lot of controversy brewing around arXiv's decision to penalize authors who post unchecked AI generated content.\n\nThe impulse is correct, IMO, simply on grounds of efficiency: it is much cheaper to insist the authors vet their work first, rather than distributing the",
+      "timestamp": "2026-05-15T05:59:04+00:00",
+      "url": "https://x.com/roydanroy/status/2055166053647307105",
+      "images": [],
+      "likes": 38,
+      "retweets": 1,
+      "views": 3394
+    },
+    {
+      "id": "2055163690790334865",
+      "username": "steipete",
+      "text": "CodexBar 0.26.0 is live\n\n⚡ Kiro, Antigravity, OpenRouter, Kimi\n🧭 calmer menus + keyboard nav\n📊 better Codex/Claude limits and cost scoping\n📦 named macOS assets, CLI + Homebrew fixes\n\nhttps://t.co/CjK0DeE8t6",
+      "timestamp": "2026-05-15T05:49:41+00:00",
+      "url": "https://x.com/steipete/status/2055163690790334865",
+      "images": [],
+      "likes": 85,
+      "retweets": 0,
+      "views": 10514
+    },
+    {
+      "id": "2055143231625818554",
+      "username": "levie",
+      "text": "We’re in a period where everything feels like it’s getting jumbled up across roles because AI lets you explore the adjacencies of other functions more easily.\n\nWe all collectively have to figure out the new form of definition of what these jobs look like in a world of agents, and",
+      "timestamp": "2026-05-15T04:28:23+00:00",
+      "url": "https://x.com/levie/status/2055143231625818554",
+      "images": [],
+      "likes": 179,
+      "retweets": 18,
+      "views": 26750
+    },
+    {
+      "id": "2055137596183831031",
+      "username": "ChatGPTapp",
+      "text": "Touch grass and leave your laptop—Codex is now on your phone.\n\nNow in preview on the ChatGPT mobile app. https://t.co/HYxqYEB3j4",
+      "timestamp": "2026-05-15T04:06:00+00:00",
+      "url": "https://x.com/ChatGPTapp/status/2055137596183831031",
+      "images": [],
+      "likes": 1111,
+      "retweets": 58,
+      "views": 51299
+    },
+    {
+      "id": "2055136119969529993",
+      "username": "levie",
+      "text": "He just spent a year building scaffolding for his agent harness. Now release a new model update that makes all of it obsolete. https://t.co/lSoGB1j1rH",
+      "timestamp": "2026-05-15T04:00:08+00:00",
+      "url": "https://x.com/levie/status/2055136119969529993",
+      "images": [
+        "https://pbs.twimg.com/media/HIVPaPhbYAAs18Y.jpg"
+      ],
+      "likes": 571,
+      "retweets": 37,
+      "views": 26801
+    },
+    {
+      "id": "2054954894176423939",
+      "username": "nvidia",
+      "text": "What is a claw? 🦞\n\nIt's the shift from AI that suggests → AI that acts.\n\nAutonomous agents that run 24/7, handling complex work in the background so you don't have to. https://t.co/wJdsoTgDTM",
+      "timestamp": "2026-05-14T16:00:00+00:00",
+      "url": "https://x.com/nvidia/status/2054954894176423939",
+      "images": [],
+      "likes": 562,
+      "retweets": 75,
+      "views": 47705
+    },
+    {
+      "id": "2052605991078756658",
+      "username": "emollick",
+      "text": "I have always found it charming that the fourth, fifth and sixth derivatives of position are snap, crackle, and pop. Because I could, I asked Codex to throw together a little simulation so you can play with them (as well as velocity, acceleration &amp; jerk). https://t.co/P9zGpIeQBb https://t.co/vF9edDWHgm",
+      "timestamp": "2026-05-08T04:26:18+00:00",
+      "url": "https://x.com/emollick/status/2052605991078756658",
+      "images": [
+        "https://pbs.twimg.com/media/HHxR1-3WEAAVFub.jpg"
+      ],
+      "likes": 95,
+      "retweets": 10,
+      "views": 13471
     }
   ]
 }
