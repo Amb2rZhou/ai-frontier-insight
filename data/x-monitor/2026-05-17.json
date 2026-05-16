@@ -1,11 +1,411 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-05-17T01:35:26.595358",
+  "scraped_at": "2026-05-17T07:14:44.358185",
   "date": "2026-05-17",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 0,
-  "account_count": 0,
-  "tweets": []
+  "tweet_count": 35,
+  "account_count": 16,
+  "tweets": [
+    {
+      "id": "2055776438440296685",
+      "username": "Miles_Brundage",
+      "text": "Oracle at Delve-i",
+      "timestamp": "2026-05-16T22:24:32+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2055776438440296685",
+      "images": [],
+      "likes": 2,
+      "retweets": 0,
+      "views": 584
+    },
+    {
+      "id": "2055775661755715974",
+      "username": "steipete",
+      "text": "my brain: don't read the hacker news comments, don't read the hacker news comments\n\nme: reads the hacker news comments",
+      "timestamp": "2026-05-16T22:21:26+00:00",
+      "url": "https://x.com/steipete/status/2055775661755715974",
+      "images": [],
+      "likes": 156,
+      "retweets": 3,
+      "views": 8695
+    },
+    {
+      "id": "2055774874006679975",
+      "username": "EMostaque",
+      "text": "Who’s building nanobots?\n\nSeems the last leg of Kurzweil’s predictions",
+      "timestamp": "2026-05-16T22:18:19+00:00",
+      "url": "https://x.com/EMostaque/status/2055774874006679975",
+      "images": [],
+      "likes": 37,
+      "retweets": 1,
+      "views": 2703
+    },
+    {
+      "id": "2055774659379908926",
+      "username": "gdb",
+      "text": "Countrywide ChatGPT Plus access for Malta:",
+      "timestamp": "2026-05-16T22:17:27+00:00",
+      "url": "https://x.com/gdb/status/2055774659379908926",
+      "images": [],
+      "likes": 209,
+      "retweets": 13,
+      "views": 18333
+    },
+    {
+      "id": "2055764049091264940",
+      "username": "GaryMarcus",
+      "text": "Dear @geoffreyhinton,\n\nYou have to stop lying about me.\n\nFirst was the apparently faked quote on your web page that you couldn’t provide a source for (literally the only source I found was on your own webpage!).\n\nThen I just discovered that you told a Canadian Senate Committee",
+      "timestamp": "2026-05-16T21:35:18+00:00",
+      "url": "https://x.com/GaryMarcus/status/2055764049091264940",
+      "images": [],
+      "likes": 63,
+      "retweets": 6,
+      "views": 5090
+    },
+    {
+      "id": "2055759809698550263",
+      "username": "thsottiaux",
+      "text": "Ship =&gt; Feedback =&gt; Ship =&gt; Feedback =&gt; Ship =&gt; Oops something not quite right =&gt; Reset =&gt; Yay =&gt; Ship =&gt; …\n\nThe never ending cycle of Codex improvements",
+      "timestamp": "2026-05-16T21:18:27+00:00",
+      "url": "https://x.com/thsottiaux/status/2055759809698550263",
+      "images": [],
+      "likes": 1461,
+      "retweets": 37,
+      "views": 25692
+    },
+    {
+      "id": "2055750162526715926",
+      "username": "omarsar0",
+      "text": "Interesting interpretability paper on tool-using agents.\n\nThe authors probe hidden states and find the model often recognizes it should call a tool, but fails to actually call one. The mismatch ranges from 26 to 54%, and it concentrates entirely in the cognition-to-action https://t.co/QNMWztDDKB",
+      "timestamp": "2026-05-16T20:40:07+00:00",
+      "url": "https://x.com/omarsar0/status/2055750162526715926",
+      "images": [
+        "https://pbs.twimg.com/media/HId94LnbEAAARw0.png"
+      ],
+      "likes": 22,
+      "retweets": 9,
+      "views": 2990
+    },
+    {
+      "id": "2055749114055229687",
+      "username": "Austen",
+      "text": "Data centers show the pushback against nuclear was never actually about safety",
+      "timestamp": "2026-05-16T20:35:57+00:00",
+      "url": "https://x.com/Austen/status/2055749114055229687",
+      "images": [],
+      "likes": 418,
+      "retweets": 31,
+      "views": 11450
+    },
+    {
+      "id": "2055748633723576437",
+      "username": "gdb",
+      "text": "keep the feedback coming, team will keep shipping",
+      "timestamp": "2026-05-16T20:34:02+00:00",
+      "url": "https://x.com/gdb/status/2055748633723576437",
+      "images": [],
+      "likes": 331,
+      "retweets": 14,
+      "views": 26201
+    },
+    {
+      "id": "2055747016727167035",
+      "username": "steipete",
+      "text": "deslop your Claude code if you haven’t yet switched to Codex.",
+      "timestamp": "2026-05-16T20:27:37+00:00",
+      "url": "https://x.com/steipete/status/2055747016727167035",
+      "images": [],
+      "likes": 225,
+      "retweets": 12,
+      "views": 40884
+    },
+    {
+      "id": "2055735802894954612",
+      "username": "thsottiaux",
+      "text": "I don't know why we ship on Saturdays now, but here are a bunch of nice improvements for Codex. \n\nDidn't feel right to hold this back until Tuesday when it all makes it a lot more delightful to use.",
+      "timestamp": "2026-05-16T19:43:03+00:00",
+      "url": "https://x.com/thsottiaux/status/2055735802894954612",
+      "images": [],
+      "likes": 1375,
+      "retweets": 41,
+      "views": 83676
+    },
+    {
+      "id": "2055729077370167592",
+      "username": "Austen",
+      "text": "Remember how in early 2025 people were like, “We’ve hit a wall with training data and the LLMs will not get any better from here?”\n\nLol.",
+      "timestamp": "2026-05-16T19:16:20+00:00",
+      "url": "https://x.com/Austen/status/2055729077370167592",
+      "images": [],
+      "likes": 83,
+      "retweets": 0,
+      "views": 5119
+    },
+    {
+      "id": "2055716225137701202",
+      "username": "gdb",
+      "text": "using codex from the ChatGPT app is such a freeing experience. makes you realize how tethered you normally are to your computer.",
+      "timestamp": "2026-05-16T18:25:16+00:00",
+      "url": "https://x.com/gdb/status/2055716225137701202",
+      "images": [],
+      "likes": 1121,
+      "retweets": 35,
+      "views": 58131
+    },
+    {
+      "id": "2055707235897237899",
+      "username": "natashajaques",
+      "text": "We evolve user simulators so realistic, in live human evals people can’t tell the difference between them and real people! Whereas the baseline user simulator is identified as a bot ~half the time.\n\nIf you need to train AI agents with more realistic users, check out our new paper https://t.co/35v4shhkNm",
+      "timestamp": "2026-05-16T17:49:32+00:00",
+      "url": "https://x.com/natashajaques/status/2055707235897237899",
+      "images": [
+        "https://pbs.twimg.com/media/HIdWqZYaEAAnCL3.jpg"
+      ],
+      "likes": 48,
+      "retweets": 8,
+      "views": 9771
+    },
+    {
+      "id": "2055705155178209368",
+      "username": "mathemagic1an",
+      "text": "Underrated blocker to getting async code agents working for enterprise codebases \n\nMany have onerous env requirements not supported by any viable sandbox provider",
+      "timestamp": "2026-05-16T17:41:16+00:00",
+      "url": "https://x.com/mathemagic1an/status/2055705155178209368",
+      "images": [],
+      "likes": 3,
+      "retweets": 1,
+      "views": 1841
+    },
+    {
+      "id": "2055704885275074904",
+      "username": "DeryaTR_",
+      "text": "For 4 continuous days, nearly 100,000 packages handled by @Figure_robot F.03 humanoid robots! Incredible performance! They keep going without interruption, 24 hours a day!",
+      "timestamp": "2026-05-16T17:40:12+00:00",
+      "url": "https://x.com/DeryaTR_/status/2055704885275074904",
+      "images": [],
+      "likes": 134,
+      "retweets": 12,
+      "views": 8301
+    },
+    {
+      "id": "2055697066148708383",
+      "username": "Miles_Brundage",
+      "text": "OK so Polymarket's social media is slop + often wrong but apparently this did actually happen, amazing https://t.co/HYYDKqkiJ4",
+      "timestamp": "2026-05-16T17:09:08+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2055697066148708383",
+      "images": [],
+      "likes": 27,
+      "retweets": 0,
+      "views": 5205
+    },
+    {
+      "id": "2055695957057036452",
+      "username": "gdb",
+      "text": "using GPT for defensive security",
+      "timestamp": "2026-05-16T17:04:43+00:00",
+      "url": "https://x.com/gdb/status/2055695957057036452",
+      "images": [],
+      "likes": 278,
+      "retweets": 13,
+      "views": 36439
+    },
+    {
+      "id": "2055695549186425067",
+      "username": "fchollet",
+      "text": "If you're not obsessed with the research problem you're working on, for its own sake, you're unlikely to succeed. Intrinsic motivation is far more powerful than external rewards.",
+      "timestamp": "2026-05-16T17:03:06+00:00",
+      "url": "https://x.com/fchollet/status/2055695549186425067",
+      "images": [],
+      "likes": 467,
+      "retweets": 37,
+      "views": 35353
+    },
+    {
+      "id": "2055695158734454991",
+      "username": "natashajaques",
+      "text": "Really excited to see this longitudinal study. So far there aren't that many of the effect of long term LLM use on users",
+      "timestamp": "2026-05-16T17:01:33+00:00",
+      "url": "https://x.com/natashajaques/status/2055695158734454991",
+      "images": [],
+      "likes": 13,
+      "retweets": 0,
+      "views": 2402
+    },
+    {
+      "id": "2055693644443623788",
+      "username": "gdb",
+      "text": "the Codex app is in a category of its own. “agentic excel on mac” is an interesting description.",
+      "timestamp": "2026-05-16T16:55:32+00:00",
+      "url": "https://x.com/gdb/status/2055693644443623788",
+      "images": [],
+      "likes": 293,
+      "retweets": 14,
+      "views": 31472
+    },
+    {
+      "id": "2055691805505569172",
+      "username": "GaryMarcus",
+      "text": "Truly an all-star cast, on one of the most important questions in AI.\n\n Thrilled to see some many people finally willing to confront the hard questions of how we can move beyond LLMs, and into what world models are really about.",
+      "timestamp": "2026-05-16T16:48:13+00:00",
+      "url": "https://x.com/GaryMarcus/status/2055691805505569172",
+      "images": [],
+      "likes": 59,
+      "retweets": 4,
+      "views": 13485
+    },
+    {
+      "id": "2055685581758206139",
+      "username": "steipete",
+      "text": "BlackBar 0.2.0 is live for @useblacksmith \n\n📈 24h vCPU + workflow graphs\n🔔 opt-in status/job notifications\n🧰 richer Blacksmith job rows\n🟢 compact status badge\n\nTiny menu bar, less CI guesswork.\nhttps://t.co/LAAyHy8aDQ https://t.co/178w9igZTW",
+      "timestamp": "2026-05-16T16:23:30+00:00",
+      "url": "https://x.com/steipete/status/2055685581758206139",
+      "images": [
+        "https://pbs.twimg.com/media/HIdC7pWXkAA74HV.jpg"
+      ],
+      "likes": 144,
+      "retweets": 7,
+      "views": 20412
+    },
+    {
+      "id": "2055677884543730140",
+      "username": "Miles_Brundage",
+      "text": "Mythos showing up at a party in distilled form as Sonnet 4.8",
+      "timestamp": "2026-05-16T15:52:54+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2055677884543730140",
+      "images": [],
+      "likes": 63,
+      "retweets": 2,
+      "views": 13174
+    },
+    {
+      "id": "2055677412097052729",
+      "username": "Thom_Wolf",
+      "text": "my 13 yo the other day:\n\n“we didn’t want to pay for the game with my friend so we just rebuilt it with Codex”\n\nme at 13 in the 90’s:\n\nHEX-editing the executable to NOP the license check because I didn't want to put all my pocket money in this game\n\ntimes they are a-changin’",
+      "timestamp": "2026-05-16T15:51:02+00:00",
+      "url": "https://x.com/Thom_Wolf/status/2055677412097052729",
+      "images": [],
+      "likes": 97,
+      "retweets": 3,
+      "views": 5822
+    },
+    {
+      "id": "2055658429645983756",
+      "username": "steipete",
+      "text": "Lossless is a really interesting concept for OpenClaw to have an \"infinite\" context window/memory. It compacts conversations in blocks that the model can refer to, building a tree to look up past messages.",
+      "timestamp": "2026-05-16T14:35:36+00:00",
+      "url": "https://x.com/steipete/status/2055658429645983756",
+      "images": [],
+      "likes": 818,
+      "retweets": 38,
+      "views": 93166
+    },
+    {
+      "id": "2055657966515155293",
+      "username": "steipete",
+      "text": "Try https://t.co/8xIcXuojse on one of your repos and let codex work its magic. It's amazing at uncovering bugs you didn't know you had. https://t.co/WQYeatXdog",
+      "timestamp": "2026-05-16T14:33:46+00:00",
+      "url": "https://x.com/steipete/status/2055657966515155293",
+      "images": [
+        "https://pbs.twimg.com/media/HIcp1ZhWIAAVs8A.jpg"
+      ],
+      "likes": 1072,
+      "retweets": 59,
+      "views": 74738
+    },
+    {
+      "id": "2055649984364634134",
+      "username": "CSProfKGD",
+      "text": "What is your go to coding agent currently?",
+      "timestamp": "2026-05-16T14:02:03+00:00",
+      "url": "https://x.com/CSProfKGD/status/2055649984364634134",
+      "images": [],
+      "likes": 3,
+      "retweets": 0,
+      "views": 1404
+    },
+    {
+      "id": "2055646916499714488",
+      "username": "gdb",
+      "text": "codex for improving computational complexity",
+      "timestamp": "2026-05-16T13:49:51+00:00",
+      "url": "https://x.com/gdb/status/2055646916499714488",
+      "images": [],
+      "likes": 1215,
+      "retweets": 61,
+      "views": 149931
+    },
+    {
+      "id": "2055637086380650538",
+      "username": "rasbt",
+      "text": "New article: a visual tour of recent LLM architecture advances, from Gemma 4 to DeepSeek V4.\n\nI focus on long-context efficiency tweaks like KV sharing, per-layer embeddings, layer-wise attention budgets, compressed attention, and mHC.\n\nLink: https://t.co/KO81y3kTH7 https://t.co/wTx51QpQu4",
+      "timestamp": "2026-05-16T13:10:47+00:00",
+      "url": "https://x.com/rasbt/status/2055637086380650538",
+      "images": [
+        "https://pbs.twimg.com/media/HIcWzd6WcAAQX_9.jpg"
+      ],
+      "likes": 1069,
+      "retweets": 192,
+      "views": 44794
+    },
+    {
+      "id": "2055608262091772141",
+      "username": "GaryMarcus",
+      "text": "tesla robotaxis going about as well you might expect. https://t.co/0Ii8BdsLJQ",
+      "timestamp": "2026-05-16T11:16:15+00:00",
+      "url": "https://x.com/GaryMarcus/status/2055608262091772141",
+      "images": [
+        "https://pbs.twimg.com/media/HIb80cpXcAAJmaA.jpg"
+      ],
+      "likes": 103,
+      "retweets": 22,
+      "views": 6058
+    },
+    {
+      "id": "2055598406366585199",
+      "username": "GaryMarcus",
+      "text": "Is it me, or are we living in absurdist, Kurt Vonnegut-like parody of how AI (and society) could go wrong?",
+      "timestamp": "2026-05-16T10:37:05+00:00",
+      "url": "https://x.com/GaryMarcus/status/2055598406366585199",
+      "images": [],
+      "likes": 104,
+      "retweets": 7,
+      "views": 6003
+    },
+    {
+      "id": "2055587833197343077",
+      "username": "GaryMarcus",
+      "text": "LLM-powered AI agents are gonna be great! \n\nYou should totally trust them! https://t.co/J8d6kZdinI",
+      "timestamp": "2026-05-16T09:55:05+00:00",
+      "url": "https://x.com/GaryMarcus/status/2055587833197343077",
+      "images": [],
+      "likes": 237,
+      "retweets": 27,
+      "views": 18533
+    },
+    {
+      "id": "2055437642498822642",
+      "username": "SebastienBubeck",
+      "text": "Maybe math papers could include a \"Kolmogorov Appendix\" with the minimal prompt (or sequence of prompts) needed for an AI to rediscover the proof? With proper rules this could lead to nice explainable blueprint of the paper novelty! (Could have variants for low/high thinking too)",
+      "timestamp": "2026-05-15T23:58:16+00:00",
+      "url": "https://x.com/SebastienBubeck/status/2055437642498822642",
+      "images": [],
+      "likes": 263,
+      "retweets": 27,
+      "views": 21770
+    },
+    {
+      "id": "2054863606685036952",
+      "username": "steipete",
+      "text": "I was wondering why the OpenClaw repo got so large, turns out the CHANGELOG md file takes up almost 500MB through all packfiles. https://t.co/F0BZGH9kX3",
+      "timestamp": "2026-05-14T09:57:16+00:00",
+      "url": "https://x.com/steipete/status/2054863606685036952",
+      "images": [
+        "https://pbs.twimg.com/media/HIRXaRCX0AAV9VF.jpg"
+      ],
+      "likes": 1323,
+      "retweets": 19,
+      "views": 164914
+    }
+  ]
 }
