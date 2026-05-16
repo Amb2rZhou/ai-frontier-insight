@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-05-16T07:29:10.701744",
+  "scraped_at": "2026-05-16T09:02:45.720115",
   "date": "2026-05-16",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 64,
-  "account_count": 39,
+  "tweet_count": 71,
+  "account_count": 41,
   "tweets": [
     {
       "id": "2055348718216360404",
@@ -746,6 +746,85 @@
       "likes": 416,
       "retweets": 76,
       "views": 54024
+    },
+    {
+      "id": "2055451658616988124",
+      "username": "Miles_Brundage",
+      "text": "Hardly the most important thing going on these days but FWIW I would have called this a blog post, analysis, article, etc., not a paper - undersell/overdeliver etc... bit of a stretch https://t.co/xcvKNiul9W",
+      "timestamp": "2026-05-16T00:53:58+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2055451658616988124",
+      "images": [],
+      "likes": 2,
+      "retweets": 0,
+      "views": 138
+    },
+    {
+      "id": "2055447056995791233",
+      "username": "a16z",
+      "text": "Mounting evidence of productivity lift across high-AI industries\n\nCharts of the Week: https://t.co/nVVf3gIw3U https://t.co/EUhrxFlbs2",
+      "timestamp": "2026-05-16T00:35:41+00:00",
+      "url": "https://x.com/a16z/status/2055447056995791233",
+      "images": [
+        "https://pbs.twimg.com/media/HIZqNKracAAQbjy.jpg"
+      ],
+      "likes": 17,
+      "retweets": 1,
+      "views": 2360
+    },
+    {
+      "id": "2055446089957036402",
+      "username": "thsottiaux",
+      "text": "We found and fixed two issues that could explain this degradation of the capability of GPT-5.5 in Codex over the last ~ 48 hours. \n\nWe are monitoring over the coming hours to fully confirm and I will reset usage limits this evening.\n\nApologies and now is the time for /fast",
+      "timestamp": "2026-05-16T00:31:50+00:00",
+      "url": "https://x.com/thsottiaux/status/2055446089957036402",
+      "images": [],
+      "likes": 918,
+      "retweets": 60,
+      "views": 28633
+    },
+    {
+      "id": "2055443153730330759",
+      "username": "OfficialLoganK",
+      "text": "Since moving back to the Bay Area, I have tried to only Waymo.\n\n36 trips in, it really does feel like living in the future. 10/10 experience so far!",
+      "timestamp": "2026-05-16T00:20:10+00:00",
+      "url": "https://x.com/OfficialLoganK/status/2055443153730330759",
+      "images": [],
+      "likes": 236,
+      "retweets": 3,
+      "views": 7432
+    },
+    {
+      "id": "2055439926972530929",
+      "username": "Miles_Brundage",
+      "text": "Myfos from Anfropic",
+      "timestamp": "2026-05-16T00:07:21+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2055439926972530929",
+      "images": [],
+      "likes": 7,
+      "retweets": 1,
+      "views": 497
+    },
+    {
+      "id": "2055437760459055405",
+      "username": "openclaw",
+      "text": "Security in OpenClaw is getting sharper 🦞\n\n🔒 fs-safe for root-bounded filesystem \n🌐 Proxyline for policy-driven network egress \n📦 ClawHub trust evidence\n🛡️ smarter command approvals\n\nPowerful agents need guardrails you can actually audit.  https://t.co/WuW7B3ZXYd",
+      "timestamp": "2026-05-15T23:58:44+00:00",
+      "url": "https://x.com/openclaw/status/2055437760459055405",
+      "images": [],
+      "likes": 153,
+      "retweets": 19,
+      "views": 11257
+    },
+    {
+      "id": "2055436684666274020",
+      "username": "gdb",
+      "text": "run codex on every commit",
+      "timestamp": "2026-05-15T23:54:28+00:00",
+      "url": "https://x.com/gdb/status/2055436684666274020",
+      "images": [],
+      "likes": 176,
+      "retweets": 3,
+      "views": 20692
     }
   ]
 }
