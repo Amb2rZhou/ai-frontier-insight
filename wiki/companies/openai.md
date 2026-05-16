@@ -2,7 +2,7 @@
 title: OpenAI
 type: company
 created: 2026-02-25
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 # OpenAI
@@ -11,6 +11,10 @@ The leading commercial AI lab, maker of [[gpt|GPT]] models, ChatGPT, [[codex|Cod
 
 ## Timeline
 
+- **2026-05-16**: OpenAI Brings Personal Finance Management to [[gpt|ChatGPT]]
+- **2026-05-16**: [[claude|Claude]] Opus-4-7 Tops Terminal-Bench 2.0 Leaderboard
+- **2026-05-16**: OpenAI Reorganizes Around Unified App Strategy
+- **2026-05-16**: [[codex|Codex]] Mobile Launch and [[gpt|GPT-5]].5 Performance Incident
 - **2026-05-15**: OpenAI [[codex|Codex]] Goes Mobile: Full [[agent-frameworks|Agentic]] Coding from [[gpt|ChatGPT]] App
 - **2026-05-15**: [[anthropic|Anthropic]] Picks Co-Leads for $900 Billion Valuation Funding Round
 - **2026-05-13**: Perceptron Mk1: 80-90% Cheaper Video Analysis AI Model

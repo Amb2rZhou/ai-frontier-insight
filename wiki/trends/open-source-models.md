@@ -2,7 +2,7 @@
 title: Open Source Models
 type: trend
 created: 2026-02-25
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 # Open Source Models
@@ -13,6 +13,9 @@ The rapid proliferation of open-source and open-weight foundation models challen
 
 ## Timeline
 
+- **2026-05-16**: [[openclaw|OpenClaw]] Open Source [[agent-frameworks|Agent Framework]] Gains Traction
+- **2026-05-16**: [Update] ExecuTorch Wins Best Industry Paper at MLSys 2026
+- **2026-05-16**: [[xai|xAI]] [[grok|Grok]] Subscription Integrated with Nous Hermes Agent
 - **2026-05-15**: IBM Granite Embedding Multilingual R2: Best Sub-100M [[rag|Retrieval]] Quality with 32K Context
 - **2026-05-15**: [[hugging-face|HuggingFace]] Crosses 1 Million Datasets Milestone
 - **2026-05-15**: HTML-Anything: [[agent-frameworks|Agentic]] HTML Editor Goes Viral on GitHub

@@ -2,7 +2,7 @@
 title: Claude
 type: product
 created: 2026-02-25
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 # Claude
@@ -11,6 +11,8 @@ updated: 2026-05-15
 
 ## Timeline
 
+- **2026-05-16**: [[gpt|GPT-5]].5 Gains 98% Win Rate Over Claude 4 Sonnet on Economic Value Benchmark
+- **2026-05-16**: Claude Opus-4-7 Tops Terminal-Bench 2.0 Leaderboard
 - **2026-05-15**: [[nvidia|NVIDIA]]: Edge is Becoming Agent Host - NemoClaw and Jetson Strategy
 - **2026-05-15**: HTML-Anything: [[agent-frameworks|Agentic]] HTML Editor Goes Viral on GitHub
 - **2026-05-13**: Team Confused Deputy Attack Matrix: Claude Security Blind Spots Revealed

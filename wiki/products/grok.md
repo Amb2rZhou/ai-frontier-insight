@@ -2,7 +2,7 @@
 title: Grok
 type: product
 created: 2026-02-25
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 # Grok
@@ -11,6 +11,7 @@ updated: 2026-05-15
 
 ## Timeline
 
+- **2026-05-16**: [[xai|xAI]] Grok Subscription Integrated with Nous Hermes Agent
 - **2026-05-15**: Grok Build: [[xai|xAI]] Launches [[agent-frameworks|Agentic]] CLI for Coding and Automation
 - **2026-05-07**: [[xai|xAI]] Launches Image Generation Quality Mode on API: 300M+ Images Generated
 - **2026-05-06**: [[xai|xAI]] Releases Grok 4.3: Topping Leaderboards in [[agent-frameworks|Agentic]] Tool Calling and Enterprise Domains

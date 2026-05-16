@@ -2,7 +2,7 @@
 title: OpenClaw
 type: product
 created: 2026-02-25
-updated: 2026-05-10
+updated: 2026-05-16
 ---
 
 # OpenClaw
@@ -11,6 +11,7 @@ Popular [[open-source-models|open-source]] AI [[agent-frameworks|agent framework
 
 ## Timeline
 
+- **2026-05-16**: OpenClaw Open Source [[agent-frameworks|Agent Framework]] Gains Traction
 - **2026-05-10**: [[apple|Apple]] Siri Revamp May Be Overtaken by [[claude|Claude Code]] and [[codex|Codex]] as AI Assistants Evolve
 - **2026-05-10**: [[codex|Codex]] Agents Now Automate QA Video Proof Generation for GitHub Issues
 - **2026-05-06**: [[agent-frameworks|AI Agent]] Skills Security: Research Reveals Supply-Chain Attack Vector via Open-Source Repos

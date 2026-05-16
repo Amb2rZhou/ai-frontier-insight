@@ -1,66 +1,6 @@
 {
   "predictions": [
     {
-      "date": "2026-05-06T09:34:43.893362+08:00",
-      "prediction_text": "内容平台的推荐/搜索系统可探索记忆可追溯设计，如让 Agent 感知用户历史浏览偏好以提升长尾内容召回。",
-      "category": "model_release",
-      "source_signal": "OpenAI Launches GPT-5.5 Instant with Memory Observability and Spreadsheet Integration"
-    },
-    {
-      "date": "2026-05-06T09:34:43.904117+08:00",
-      "prediction_text": "电商平台的智能客服选型可参考 Agent 工具调用排行榜，优先选择指令遵循与多步工具编排强的模型。",
-      "category": "model_release",
-      "source_signal": "xAI Releases Grok 4.3: Topping Leaderboards in Agentic Tool Calling and Enterprise Domains"
-    },
-    {
-      "date": "2026-05-06T09:34:43.912336+08:00",
-      "prediction_text": "社区平台的 Agent 安全团队可以评估将 MSM 技术引入创作者助手和内容审核 Agent 训练管道。",
-      "category": "research_breakthrough",
-      "source_signal": "Anthropic Model Spec Midtraining (MSM): A Practical Solution to Alignment Faking in AI Agents"
-    },
-    {
-      "date": "2026-05-06T09:34:43.925659+08:00",
-      "prediction_text": "内容平台的搜索团队可以探索 Gemini Embedding 2 或开源等效方案的 MRL 特性，降低向量数据库存储与查询开销。",
-      "category": "infrastructure",
-      "source_signal": "Google Launches Multimodal File Search in Gemini API with Matryoshka Embedding Efficiency"
-    },
-    {
-      "date": "2026-05-06T09:34:43.933496+08:00",
-      "prediction_text": "内容安全团队可以参照此模式，为自建/微调模型设置“公开发布前红队审查”的强制性 checkpoints。",
-      "category": "strategic_move",
-      "source_signal": "Eight AI Companies Including Google, Microsoft, and OpenAI Agree to Voluntary Model Sharing with Gov"
-    },
-    {
-      "date": "2026-05-06T09:34:43.941135+08:00",
-      "prediction_text": "内容平台在构建 Agent 生态时，应要求所有第三方技能/插件通过静态分析+运行时沙箱验证签名后上架。",
-      "category": "ecosystem_shift",
-      "source_signal": "AI Agent Skills Security: Research Reveals Supply-Chain Attack Vector via Open-Source Repos"
-    },
-    {
-      "date": "2026-05-06T09:34:43.951363+08:00",
-      "prediction_text": "内容平台的创作者工具团队可用此 SDK 快速 prototypr 创作辅助 Agent，如草稿润色、标签生成等。",
-      "category": "ecosystem_shift",
-      "source_signal": "OpenAI Releases Updated Agents SDK in TypeScript with Sandbox Harness"
-    },
-    {
-      "date": "2026-05-06T09:34:43.959136+08:00",
-      "prediction_text": "社区平台可考虑在移动端嵌入 Nemotron Nano 的推论 API，实现离线商品识别或场景打标保护用户隐私。",
-      "category": "open_source",
-      "source_signal": "NVIDIA Releases Nemotron 3 Nano Omni: Efficient Open Multimodal Model for Edge Deployment"
-    },
-    {
-      "date": "2026-05-06T09:34:43.966885+08:00",
-      "prediction_text": "内容平台的实时助手（如直播导购、即时客服）可关注 Vera Rubin 生态，提前评估高吞吐场景的成本收益。",
-      "category": "infrastructure",
-      "source_signal": "NVIDIA Unveils Vera Rubin Platform Architecture for Agentic Workloads at Scale"
-    },
-    {
-      "date": "2026-05-06T09:34:43.974284+08:00",
-      "prediction_text": "推荐/搜索团队可以评估 IKBO 思路，在 PyTorch 推理栈中引入 similar 的 in-kernel 广播，减少访存瓶颈。",
-      "category": "research_breakthrough",
-      "source_signal": "Meta's In-Kernel Broadcast Optimization (IKBO) for Large-Scale Recommendation System Inference"
-    },
-    {
       "date": "2026-05-07T16:58:52.500258+08:00",
       "prediction_text": "建议关注头部模型API定价波动。内容平台可提前锁定长期算力合约，对冲上游成本风险。",
       "category": "strategic_move",
@@ -599,6 +539,66 @@
       "prediction_text": "电商/社区平台的搜索团队可引入Granite Embedding R2替换商业向量库，降低搜索冷启动成本。",
       "category": "open_source",
       "source_signal": "IBM Granite Embedding Multilingual R2: Best Sub-100M Retrieval Quality with 32K Context"
+    },
+    {
+      "date": "2026-05-16T10:34:06.720684+08:00",
+      "prediction_text": "内容平台的创作Agent应在发布前部署灰度测试与回滚机制，平衡创新速度与创作稳定性。",
+      "category": "strategic_move",
+      "source_signal": "Codex Mobile Launch and GPT-5.5 Performance Incident"
+    },
+    {
+      "date": "2026-05-16T10:34:06.728813+08:00",
+      "prediction_text": "内容平台或电商需关注AI能力嵌入统一入口的趋势，避免用户被单一超级App长期锁定。",
+      "category": "strategic_move",
+      "source_signal": "OpenAI Reorganizes Around Unified App Strategy"
+    },
+    {
+      "date": "2026-05-16T10:34:06.734752+08:00",
+      "prediction_text": "社区/内容平台可评估中国Agent方案在本地化场景的终端自动化性价比，降低对海外模型依赖。",
+      "category": "research_breakthrough",
+      "source_signal": "Claude Opus-4-7 Tops Terminal-Bench 2.0 Leaderboard"
+    },
+    {
+      "date": "2026-05-16T10:34:06.740914+08:00",
+      "prediction_text": "内容或社区平台可探索将用户内容资产（笔记/商品收藏）接入财务/生活Agent，实现跨场景价值闭环。",
+      "category": "ecosystem_shift",
+      "source_signal": "OpenAI Brings Personal Finance Management to ChatGPT"
+    },
+    {
+      "date": "2026-05-16T10:34:06.745047+08:00",
+      "prediction_text": "内容平台的Agent开发者工具可考虑支持接入多家模型，构建开放生态吸引社区开发者。",
+      "category": "ecosystem_shift",
+      "source_signal": "xAI Grok Subscription Integrated with Nous Hermes Agent"
+    },
+    {
+      "date": "2026-05-16T10:34:06.748167+08:00",
+      "prediction_text": "内容/电商平台可探索引入Agent编排层，统一监控和优化多个创作/客服Agent的协同工作流。",
+      "category": "strategic_move",
+      "source_signal": "Intercom/Fin Launches Agent-Managing AI Agent"
+    },
+    {
+      "date": "2026-05-16T10:34:06.751090+08:00",
+      "prediction_text": "内容平台可加速自研或集成ExecuTorch，推动AI创作与推荐在端侧落地，降低延迟与带宽成本。",
+      "category": "research_breakthrough",
+      "source_signal": "[Update] ExecuTorch Wins Best Industry Paper at MLSys 2026"
+    },
+    {
+      "date": "2026-05-16T10:34:06.753896+08:00",
+      "prediction_text": "内容平台的AI工程团队可借鉴Agent集群安全范式（文件系统隔离/网络策略），确保多Agent协同的安全可控。",
+      "category": "open_source",
+      "source_signal": "OpenClaw Open Source Agent Framework Gains Traction"
+    },
+    {
+      "date": "2026-05-16T10:34:06.756379+08:00",
+      "prediction_text": "电商/社区平台可构建自身业务场景的经济价值评估框架，指导模型选型而非单看榜单分数。",
+      "category": "research_breakthrough",
+      "source_signal": "GPT-5.5 Gains 98% Win Rate Over Claude 4 Sonnet on Economic Value Benchmark"
+    },
+    {
+      "date": "2026-05-16T10:34:06.759121+08:00",
+      "prediction_text": "内容平台的创作者归属检测可探索用户主动保护机制，将被动审核转变为主动维权工具。",
+      "category": "strategic_move",
+      "source_signal": "YouTube Expands AI Deepfake Detection to All Adults"
     }
   ]
 }

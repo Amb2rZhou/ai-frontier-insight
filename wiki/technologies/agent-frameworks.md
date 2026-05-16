@@ -2,7 +2,7 @@
 title: Agent Frameworks
 type: technology
 created: 2026-02-25
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 # Agent Frameworks
@@ -11,6 +11,9 @@ The rapidly evolving ecosystem of tools, SDKs, and platforms for building autono
 
 ## Timeline
 
+- **2026-05-16**: [[openclaw|OpenClaw]] Open Source Agent Framework Gains Traction
+- **2026-05-16**: Intercom/Fin Launches Agent-Managing AI Agent
+- **2026-05-16**: [[openai|OpenAI]] Brings Personal Finance Management to [[gpt|ChatGPT]]
 - **2026-05-15**: HTML-Anything: Agentic HTML Editor Goes Viral on GitHub
 - **2026-05-15**: [[grok|Grok]] Build: [[xai|xAI]] Launches Agentic CLI for Coding and Automation
 - **2026-05-15**: [[openai|OpenAI]] [[codex|Codex]] Goes Mobile: Full Agentic Coding from [[gpt|ChatGPT]] App

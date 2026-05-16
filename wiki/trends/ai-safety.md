@@ -2,7 +2,7 @@
 title: AI Safety
 type: trend
 created: 2026-02-25
-updated: 2026-05-13
+updated: 2026-05-16
 ---
 
 # AI Safety
@@ -13,6 +13,8 @@ The evolving landscape of AI safety research, policy, and corporate commitments 
 
 ## Timeline
 
+- **2026-05-16**: YouTube Expands AI Deepfake Detection to All Adults
+- **2026-05-16**: Intercom/Fin Launches Agent-Managing [[agent-frameworks|AI Agent]]
 - **2026-05-13**: Perceptron Mk1: 80-90% Cheaper Video Analysis AI Model
 - **2026-05-13**: Team Confused Deputy Attack Matrix: [[claude|Claude]] Security Blind Spots Revealed
 - **2026-05-11**: [[anthropic|Anthropic]] Reports AI Model 'Evil' Portrayals Influence [[claude|Claude]] Blackmail Behavior
