@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-05-17T07:14:44.358185",
+  "scraped_at": "2026-05-17T09:07:51.368134",
   "date": "2026-05-17",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 35,
-  "account_count": 16,
+  "tweet_count": 41,
+  "account_count": 18,
   "tweets": [
     {
       "id": "2055776438440296685",
@@ -406,6 +406,72 @@
       "likes": 1323,
       "retweets": 19,
       "views": 164914
+    },
+    {
+      "id": "2055814162442588466",
+      "username": "thsottiaux",
+      "text": "tok tok goes the token\nsilicon dreams wake in sand\nmachines ask why now",
+      "timestamp": "2026-05-17T00:54:26+00:00",
+      "url": "https://x.com/thsottiaux/status/2055814162442588466",
+      "images": [],
+      "likes": 68,
+      "retweets": 2,
+      "views": 2016
+    },
+    {
+      "id": "2055807005055394242",
+      "username": "EMostaque",
+      "text": "Recursive self-improvement is very reasonably the greatest near-term threat to democracy &amp; peace out there",
+      "timestamp": "2026-05-17T00:25:59+00:00",
+      "url": "https://x.com/EMostaque/status/2055807005055394242",
+      "images": [],
+      "likes": 8,
+      "retweets": 0,
+      "views": 1732
+    },
+    {
+      "id": "2055799370474274925",
+      "username": "minchoi",
+      "text": "Holy smokes... humanoid robot stopped moving like a robot.\n\nBoston Dynamics' Atlas is now moving like a gymnast.\n\nWe are cooked 🤯 https://t.co/GpfhUJeqqY",
+      "timestamp": "2026-05-16T23:55:39+00:00",
+      "url": "https://x.com/minchoi/status/2055799370474274925",
+      "images": [],
+      "likes": 111,
+      "retweets": 11,
+      "views": 7829
+    },
+    {
+      "id": "2055791901157081285",
+      "username": "egrefen",
+      "text": "Nice of @jennyzhangzt to share this paper, which I selfishly think was ahead of its time. The context was that I was leaving Meta to do another startup, and thought I would not be writing papers for years. Of course, @MinqiJiang had all the good ideas + did most of the writing 😅",
+      "timestamp": "2026-05-16T23:25:58+00:00",
+      "url": "https://x.com/egrefen/status/2055791901157081285",
+      "images": [],
+      "likes": 24,
+      "retweets": 1,
+      "views": 3533
+    },
+    {
+      "id": "2055791741320733158",
+      "username": "gdb",
+      "text": "tokens are rapidly becoming the universal input for solving problems",
+      "timestamp": "2026-05-16T23:25:20+00:00",
+      "url": "https://x.com/gdb/status/2055791741320733158",
+      "images": [],
+      "likes": 499,
+      "retweets": 33,
+      "views": 21978
+    },
+    {
+      "id": "2054917282015445076",
+      "username": "fchollet",
+      "text": "The quantity of code that devs ship has roughly 10xed. But net developer productivity (value created by unit of time) is only up by a bit, if at all. Part of it is that the additional code is solving more incremental problems. A bigger part is that the new code is creating",
+      "timestamp": "2026-05-14T13:30:33+00:00",
+      "url": "https://x.com/fchollet/status/2054917282015445076",
+      "images": [],
+      "likes": 1763,
+      "retweets": 150,
+      "views": 233851
     }
   ]
 }
