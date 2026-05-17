@@ -2,7 +2,7 @@
 title: Gemma
 type: product
 created: 2026-04-03
-updated: 2026-04-26
+updated: 2026-05-17
 ---
 
 # Gemma
@@ -11,6 +11,7 @@ updated: 2026-04-26
 
 ## Timeline
 
+- **2026-05-17**: Visual Tour of LLM Architecture Advances: Gemma 4 to DeepSeek V4
 - **2026-04-26**: [[google-deepmind|Google]] Gemma Team Hosts Global 'Gemmaverse' Events for Developer Ecosystem · [Google Gemma 团队成员 @osanseviero](https://x.com/osanseviero/status/2047857010721665046)
 - **2026-04-21**: Unsloth AI Claims SOTA in Gemma 4 Quantization with GGUFs · [UnslothAI Twitter](https://x.com/UnslothAI/status/2046242156122358168)
 - **2026-04-17**: [[google-deepmind|Google]] Releases Gemma 4, a Flexible Model Family for Scalable Agents and Edge · [@googledevs (Google)](https://x.com/googledevs/status/2044611741842079970)

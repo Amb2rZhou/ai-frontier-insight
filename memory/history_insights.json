@@ -1,66 +1,6 @@
 {
   "predictions": [
     {
-      "date": "2026-05-07T16:58:52.500258+08:00",
-      "prediction_text": "建议关注头部模型API定价波动。内容平台可提前锁定长期算力合约，对冲上游成本风险。",
-      "category": "strategic_move",
-      "source_signal": "Anthropic Rents Entire xAI Colossus 1 Compute (220K+ NVIDIA GPUs): New Frontier Alliance"
-    },
-    {
-      "date": "2026-05-07T16:58:52.522245+08:00",
-      "prediction_text": "电商平台可评估将推荐系统的排序/重排模型替换为TokenSpeed部署，降低延迟与TCO。",
-      "category": "infrastructure",
-      "source_signal": "NVIDIA Releases TokenSpeed: Speed-of-Light Inference Engine for Agentic Workloads"
-    },
-    {
-      "date": "2026-05-07T16:58:52.530420+08:00",
-      "prediction_text": "内容平台的创作者工具团队可评估ProgramBench评估自家AI代码助手，优先解决模块化维护问题。",
-      "category": "research_breakthrough",
-      "source_signal": "Meta Superintelligence Lab Publishes ProgramBench: Can AI Rebuild Real-World Programs from Scratch?"
-    },
-    {
-      "date": "2026-05-07T16:58:52.538286+08:00",
-      "prediction_text": "建议关注MRC开源进展，社区平台自建训练集群可评估引入该协议以提升稳定性。",
-      "category": "infrastructure",
-      "source_signal": "OpenAI's New Multipath Reliable Connection (MRC) Protocol for Large-Scale AI Training"
-    },
-    {
-      "date": "2026-05-07T16:58:52.545790+08:00",
-      "prediction_text": "推荐/搜索团队可利用此技术快速迭代垂直场景的轻量排序模型，缩短实验周期。",
-      "category": "open_source",
-      "source_signal": "Unsloth & NVIDIA Collaboration Achieves 25% Faster LLM Training on Consumer GPUs"
-    },
-    {
-      "date": "2026-05-07T16:58:52.553402+08:00",
-      "prediction_text": "建议社区平台优先聚焦垂直Agent场景（如购物助手、活动策划），而非押注通用浏览器Agent。",
-      "category": "strategic_move",
-      "source_signal": "Google Shuts Down Project Mariner: Experimental Web Agent Feature Discontinued"
-    },
-    {
-      "date": "2026-05-07T16:58:52.563664+08:00",
-      "prediction_text": "搜索增强团队在构建长文档RAG时，应优先设计多段检索+摘要策略，而非直接依赖模型长上下文能力。",
-      "category": "research_breakthrough",
-      "source_signal": "Obliq-Bench: Ambitious IR Benchmark for Long-Context Search Evaluation"
-    },
-    {
-      "date": "2026-05-07T16:58:52.572599+08:00",
-      "prediction_text": "搜索团队可直接在OpenSearch-VL基础上定制图文搜索Agent，加速多模态搜索从实验到落地。",
-      "category": "open_source",
-      "source_signal": "Tencent Hunyuan Releases OpenSearch-VL: Open-Source Multimodal Search Agent Framework"
-    },
-    {
-      "date": "2026-05-07T16:58:52.580168+08:00",
-      "prediction_text": "内容平台的社区运营团队可探索将Agent嵌入创作者入驻流程、活动运营等闭环场景。",
-      "category": "strategic_move",
-      "source_signal": "Adobe Builds CX Enterprise Agent on NVIDIA NemoClaw: Enterprise Agent Strategy"
-    },
-    {
-      "date": "2026-05-07T16:58:52.587640+08:00",
-      "prediction_text": "内容创作者工具团队可评估Grok API作为封面图/商品海报生成的后备供应商，丰富生成风格。",
-      "category": "ecosystem_shift",
-      "source_signal": "xAI Launches Image Generation Quality Mode on API: 300M+ Images Generated"
-    },
-    {
       "date": "2026-05-08T09:33:57.919234+08:00",
       "prediction_text": "社区平台可探索语音笔记/语音搜索/实时语音客服场景，替代纯文本交互，提升UGC创作效率。",
       "category": "ecosystem_shift",
@@ -599,6 +539,66 @@
       "prediction_text": "内容平台的创作者归属检测可探索用户主动保护机制，将被动审核转变为主动维权工具。",
       "category": "strategic_move",
       "source_signal": "YouTube Expands AI Deepfake Detection to All Adults"
+    },
+    {
+      "date": "2026-05-17T10:34:02.782059+08:00",
+      "prediction_text": "平台应考虑加速Agent原生交互入口建设，允许用户通过自然语言直接消费/生成内容，而非仅靠搜索或推荐。",
+      "category": "ecosystem_shift",
+      "source_signal": "Coding Agent Battle Heats Up: Codex vs Zed vs Claude Code"
+    },
+    {
+      "date": "2026-05-17T10:34:02.790135+08:00",
+      "prediction_text": "社区/内容平台可探索将笔记创作、搜索、编辑统一为单一Agent界面，降低用户操作路径。",
+      "category": "strategic_move",
+      "source_signal": "OpenAI Co-Founder Greg Brockman Takes Charge of Product Strategy Amid Reorganization"
+    },
+    {
+      "date": "2026-05-17T10:34:02.797815+08:00",
+      "prediction_text": "内容平台可考虑将语音克隆技术集成至UGC创作工具，支持用户以声音身份参与内容互动。",
+      "category": "strategic_move",
+      "source_signal": "OpenAI Acquires Voice-Cloning Startup Weights.GG"
+    },
+    {
+      "date": "2026-05-17T10:34:02.802595+08:00",
+      "prediction_text": "推荐系统与内容理解团队可跟踪Gemma 4/DeepSeek V4架构，探索低成本长历史用户建模。",
+      "category": "research_breakthrough",
+      "source_signal": "Visual Tour of LLM Architecture Advances: Gemma 4 to DeepSeek V4"
+    },
+    {
+      "date": "2026-05-17T10:34:02.809140+08:00",
+      "prediction_text": "平台在部署创作/客服Agent时，应建立行为监控与回退机制，对高失配场景进行人工兜底。",
+      "category": "research_breakthrough",
+      "source_signal": "Interpretability Study Reveals Mismatch Between Tool Recognition and Action in LLM Agents"
+    },
+    {
+      "date": "2026-05-17T10:34:02.812643+08:00",
+      "prediction_text": "平台推荐系统团队应前置合规设计，引入推荐透明度与用户可控性机制，降低诉讼风险。",
+      "category": "strategic_move",
+      "source_signal": "Snap, YouTube, and TikTok Settle Landmark Social Media Harm Lawsuit"
+    },
+    {
+      "date": "2026-05-17T10:34:02.815682+08:00",
+      "prediction_text": "社区电商平台可引入进化模拟器训练个性化推荐Agent，减少对真实用户A/B测试的依赖。",
+      "category": "research_breakthrough",
+      "source_signal": "Realistic User Simulators for Training AI Agents (Natasha Jaques et al.)"
+    },
+    {
+      "date": "2026-05-17T10:34:02.818326+08:00",
+      "prediction_text": "内容平台可评估将OpenClaw式压缩记忆集成到推荐系统，实现跨会话的个性化兴趣建模。",
+      "category": "open_source",
+      "source_signal": "OpenClaw Lossless Compaction Empowers Infinite Context Window"
+    },
+    {
+      "date": "2026-05-17T10:34:02.820932+08:00",
+      "prediction_text": "平台部署团队应建立推理引擎灰度升级策略，优先验证模型兼容性与性能回退问题。",
+      "category": "infrastructure",
+      "source_signal": "vLLM v0.21.0 Released: Deprecates Transformers v4, C++20 Build Requirement"
+    },
+    {
+      "date": "2026-05-17T10:34:02.823551+08:00",
+      "prediction_text": "内容平台可探索将图像转3D功能嵌入创作工具，抢占空间内容创作者心智与早期生态。",
+      "category": "model_release",
+      "source_signal": "TencentARC Pixal3D: Image-to-3D Model from Tencent AI Lab"
     }
   ]
 }

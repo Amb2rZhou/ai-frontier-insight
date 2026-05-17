@@ -2,7 +2,7 @@
 title: Codex
 type: product
 created: 2026-02-25
-updated: 2026-05-16
+updated: 2026-05-17
 ---
 
 # Codex
@@ -11,6 +11,8 @@ updated: 2026-05-16
 
 ## Timeline
 
+- **2026-05-17**: [[openai|OpenAI]] Co-Founder Greg Brockman Takes Charge of Product Strategy Amid Reorganization
+- **2026-05-17**: Coding Agent Battle Heats Up: Codex vs Zed vs [[claude|Claude Code]]
 - **2026-05-16**: [[openclaw|OpenClaw]] Open Source [[agent-frameworks|Agent Framework]] Gains Traction
 - **2026-05-16**: [[claude|Claude]] Opus-4-7 Tops Terminal-Bench 2.0 Leaderboard
 - **2026-05-16**: [[openai|OpenAI]] Reorganizes Around Unified App Strategy

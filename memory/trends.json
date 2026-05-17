@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-16T10:34:18.286108+08:00",
+  "last_updated": "2026-05-17T10:34:11.879627+08:00",
   "trends": [
     {
       "id": "ai_safety_pivot_and_accelerated_agi_time",
@@ -108,13 +108,13 @@
         "Business Models"
       ],
       "trajectory": "accelerating",
-      "signal_count": 89,
+      "signal_count": 90,
       "weekly_counts": [
-        3,
         1,
         4,
         2,
         2,
+        1,
         1,
         1,
         1,
@@ -370,9 +370,8 @@
         "Microsoft"
       ],
       "trajectory": "accelerating",
-      "signal_count": 197,
+      "signal_count": 200,
       "weekly_counts": [
-        1,
         1,
         2,
         2,
@@ -383,7 +382,8 @@
         0,
         1,
         3,
-        9
+        9,
+        3
       ],
       "key_events": [
         {
@@ -433,6 +433,10 @@
         {
           "date": "2026-05-16",
           "event": "Codex Mobile Launch and GPT-5.5 Performance Incident; OpenAI Reorganizes Around Unified App Strategy; Claude Opus-4-7 Tops Terminal-Bench 2.0 Leaderboard; OpenAI Brings Personal Finance Management to ChatGPT; xAI Grok Subscription Integrated with Nous Hermes Agent; Intercom/Fin Launches Agent-Managing AI Agent; OpenClaw Open Source Agent Framework Gains Traction; GPT-5.5 Gains 98% Win Rate Over Claude 4 Sonnet on Economic Value Benchmark"
+        },
+        {
+          "date": "2026-05-17",
+          "event": "Coding Agent Battle Heats Up: Codex vs Zed vs Claude Code; OpenAI Co-Founder Greg Brockman Takes Charge of Product Strategy Amid Reorganization; OpenAI Acquires Voice-Cloning Startup Weights.GG"
         }
       ],
       "created": "2026-02-25"
@@ -451,9 +455,8 @@
         "Scientific Discovery"
       ],
       "trajectory": "accelerating",
-      "signal_count": 144,
+      "signal_count": 145,
       "weekly_counts": [
-        2,
         1,
         4,
         2,
@@ -464,7 +467,8 @@
         4,
         3,
         0,
-        2
+        2,
+        1
       ],
       "key_events": [
         {
@@ -710,9 +714,8 @@
         "Video Generation"
       ],
       "trajectory": "accelerating",
-      "signal_count": 227,
+      "signal_count": 229,
       "weekly_counts": [
-        1,
         4,
         1,
         3,
@@ -723,7 +726,8 @@
         2,
         4,
         1,
-        8
+        8,
+        2
       ],
       "key_events": [
         {
@@ -765,6 +769,10 @@
         {
           "date": "2026-05-16",
           "event": "OpenClaw Open Source Agent Framework Gains Traction; Intercom/Fin Launches Agent-Managing AI Agent; xAI Grok Subscription Integrated with Nous Hermes Agent"
+        },
+        {
+          "date": "2026-05-17",
+          "event": "OpenClaw Lossless Compaction Empowers Infinite Context Window; Realistic User Simulators for Training AI Agents (Natasha Jaques et al.)"
         }
       ],
       "created": "2026-02-25"
@@ -900,9 +908,8 @@
         "Performance"
       ],
       "trajectory": "accelerating",
-      "signal_count": 93,
+      "signal_count": 94,
       "weekly_counts": [
-        0,
         1,
         1,
         4,
@@ -913,6 +920,7 @@
         0,
         1,
         2,
+        1,
         1
       ],
       "key_events": [
@@ -971,6 +979,10 @@
         {
           "date": "2026-05-16",
           "event": "ExecuTorch Wins Best Industry Paper at MLSys 2026"
+        },
+        {
+          "date": "2026-05-17",
+          "event": "vLLM v0.21.0 Released: Deprecates Transformers v4, C++20 Build Requirement"
         }
       ],
       "created": "2026-02-25"
@@ -1075,9 +1087,8 @@
         "AI Code Audit"
       ],
       "trajectory": "accelerating",
-      "signal_count": 79,
+      "signal_count": 80,
       "weekly_counts": [
-        2,
         0,
         1,
         0,
@@ -1085,6 +1096,7 @@
         0,
         1,
         2,
+        1,
         1,
         1,
         1,
@@ -1130,6 +1142,10 @@
         {
           "date": "2026-05-16",
           "event": "YouTube Expands AI Deepfake Detection to All Adults"
+        },
+        {
+          "date": "2026-05-17",
+          "event": "Interpretability Study Reveals Mismatch Between Tool Recognition and Action in LLM Agents"
         }
       ],
       "created": "2026-02-25"
@@ -1294,9 +1310,8 @@
         "Generative AI"
       ],
       "trajectory": "accelerating",
-      "signal_count": 93,
+      "signal_count": 94,
       "weekly_counts": [
-        1,
         2,
         3,
         2,
@@ -1307,6 +1322,7 @@
         1,
         2,
         0,
+        1,
         1
       ],
       "key_events": [
@@ -1357,6 +1373,10 @@
         {
           "date": "2026-05-16",
           "event": "YouTube Expands AI Deepfake Detection to All Adults"
+        },
+        {
+          "date": "2026-05-17",
+          "event": "TencentARC Pixal3D: Image-to-3D Model from Tencent AI Lab"
         }
       ],
       "created": "2026-02-26"

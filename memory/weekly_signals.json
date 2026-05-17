@@ -1474,6 +1474,217 @@
           14
         ]
       }
+    ],
+    "2026-05-17": [
+      {
+        "title": "Coding Agent Battle Heats Up: Codex vs Zed vs Claude Code",
+        "signal_text": "大量推文（@thsottiaux 获 674 likes、@steipete 获 225 likes、@gdb 获 1215 likes 等）围绕 OpenAI Codex 移动端应用展开讨论，用户反馈其性能远超同类产品。OpenAI CEO Greg Brockman 称 Codex 正在迅速成为“解决问题的通用输入”。编码 Agent 形态正在走向移动化、泛化，可能重塑内容创作和开发范式。",
+        "signal_strength": 0.85,
+        "sources": [
+          {
+            "name": "推文 @thsottiaux (OpenAI 员工)、@steipete、@gdb (OpenAI CEO)",
+            "url": "https://x.com/thsottiaux/status/2055545756069802151"
+          }
+        ],
+        "tags": [
+          "Codex",
+          "编码Agent",
+          "OpenAI",
+          "移动端",
+          "产品形态"
+        ],
+        "raw_item_indices": [
+          38,
+          51,
+          52,
+          54,
+          62,
+          68,
+          70
+        ]
+      },
+      {
+        "title": "OpenAI Co-Founder Greg Brockman Takes Charge of Product Strategy Amid Reorganization",
+        "signal_text": "据 TechCrunch 报道，OpenAI 联合创始人 Greg Brockman 接管产品战略，与此同时公司正计划整合 ChatGPT 和编程产品 Codex，统一到单一 App 战略之下。这表明 OpenAI 正在加强产品化能力，对智能编码助手和对话式交互形态有深远影响。",
+        "signal_strength": 0.8,
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/"
+          }
+        ],
+        "tags": [
+          "OpenAI",
+          "组织架构调整",
+          "产品战略",
+          "Codex"
+        ],
+        "raw_item_indices": [
+          21
+        ]
+      },
+      {
+        "title": "OpenAI Acquires Voice-Cloning Startup Weights.GG",
+        "signal_text": "据 The Information 报道，OpenAI 于今年 1 月收购了 AI 语音克隆初创公司 Weights.GG（旗下产品 Replay），约 6 名员工加入 OpenAI。此次收购主要获取知识产权，目前无计划整合其产品线，但强化了 OpenAI 在语音/AI 音频领域的技术储备，可能与未来的语音交互或内容创作工具相关。",
+        "signal_strength": 0.78,
+        "sources": [
+          {
+            "name": "The Information",
+            "url": "https://www.theinformation.com/briefings/openai-buys-audio-startup-weights"
+          }
+        ],
+        "tags": [
+          "OpenAI",
+          "AI语音",
+          "企业并购",
+          "内容创作"
+        ],
+        "raw_item_indices": [
+          16
+        ]
+      },
+      {
+        "title": "Visual Tour of LLM Architecture Advances: Gemma 4 to DeepSeek V4",
+        "signal_text": "知名 AI 研究员 Sebastian Raschka (@rasbt) 发布了一篇深度文章，可视化综述了近期大模型架构创新，包括 Gemma 4 和 DeepSeek V4 中的长上下文效率优化（KV 共享、逐层嵌入、层间注意力预算、压缩注意力、mHC 等）。该文获 1069 likes，为工程团队跟踪推理效率前沿提供了参考。",
+        "signal_strength": 0.76,
+        "sources": [
+          {
+            "name": "推文 @rasbt (AI/ML 研究员，Lightning AI)",
+            "url": "https://x.com/rasbt/status/2055637086380650538"
+          }
+        ],
+        "tags": [
+          "LLM架构",
+          "长上下文",
+          "推理效率",
+          "Gemma 4",
+          "DeepSeek V4"
+        ],
+        "raw_item_indices": [
+          71
+        ]
+      },
+      {
+        "title": "Interpretability Study Reveals Mismatch Between Tool Recognition and Action in LLM Agents",
+        "signal_text": "一项关于工具型 AI Agent 的可解释性论文（@omarsar0 转发）发现，模型在内部状态中常常意识到应该调用工具，但在实际行动中却未能执行。这种认知到行动的失配率高达 26%-54%。该发现对理解 Agent 错误行为、debug 自主任务执行有重要意义，直接关联 Agent 可靠性和内容推荐质量。",
+        "signal_strength": 0.72,
+        "sources": [
+          {
+            "name": "引用 @omarsar0 转发的论文（作者及机构待查）",
+            "url": "https://x.com/omarsar0/status/2055750162526715926"
+          }
+        ],
+        "tags": [
+          "AI Agent",
+          "可解释性",
+          "模型行为",
+          "可靠性"
+        ],
+        "raw_item_indices": [
+          48
+        ]
+      },
+      {
+        "title": "Snap, YouTube, and TikTok Settle Landmark Social Media Harm Lawsuit",
+        "signal_text": "据 The Verge 报道，Snap、YouTube 和 TikTok 就首例社交平台成瘾导致公共教育成本增加的诉讼达成和解。此案虽不直接涉及 AI，但其对平台内容分发和推荐算法的责任界定，将深刻影响内容社区推荐系统的合规风险与运营策略。",
+        "signal_strength": 0.7,
+        "sources": [
+          {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/tech/932153/snap-youtube-tiktok-lawsuit-social-media-addiction-schools"
+          }
+        ],
+        "tags": [
+          "社交平台",
+          "法律诉讼",
+          "内容推荐",
+          "合规风险"
+        ],
+        "raw_item_indices": [
+          12
+        ]
+      },
+      {
+        "title": "Realistic User Simulators for Training AI Agents (Natasha Jaques et al.)",
+        "signal_text": "Google DeepMind 研究员 Natasha Jaques 在推文中介绍了一项新研究：通过进化训练用户模拟器，使其在人机评估中与真实用户难以区分，而基线模拟器识别率约 50%。该技术可用于训练更真实的 AI Agent 交互，对 Agent 产品的人机交互测试和个性化推荐有潜在价值。",
+        "signal_strength": 0.7,
+        "sources": [
+          {
+            "name": "推文 @natashajaques (Google DeepMind 研究员)",
+            "url": "https://x.com/natashajaques/status/2055707235897237899"
+          }
+        ],
+        "tags": [
+          "AI Agent",
+          "用户模拟",
+          "训练技术",
+          "Google DeepMind"
+        ],
+        "raw_item_indices": [
+          55
+        ]
+      },
+      {
+        "title": "OpenClaw Lossless Compaction Empowers Infinite Context Window",
+        "signal_text": "开源 Agent 框架 OpenClaw 推出 Lossless 概念——一种将对话压缩成可查询的块（block），构建树状结构以查找历史消息的机制，从而实现近乎无限的上下文窗口与记忆。该特性在 Twitter 上获 818 likes 和 9.3 万 views，引发 Agent 领域广泛讨论，对长内容理解和个性化推荐有启发性。",
+        "signal_strength": 0.68,
+        "sources": [
+          {
+            "name": "推文 @steipete (独立开发者/Sparkle 创建者)",
+            "url": "https://x.com/steipete/status/2055658429645983756"
+          }
+        ],
+        "tags": [
+          "OpenClaw",
+          "无限上下文",
+          "Agent框架",
+          "记忆管理"
+        ],
+        "raw_item_indices": [
+          67
+        ]
+      },
+      {
+        "title": "vLLM v0.21.0 Released: Deprecates Transformers v4, C++20 Build Requirement",
+        "signal_text": "主流大模型推理引擎 vLLM 发布 v0.21.0，重要变化包括：正式弃用 Transformers v4 版本（用户需迁移至 v5）、要求 C++20 编译环境。367 个 commits 来自 202 位贡献者。凸显推理引擎基础设施快速迭代，对端侧部署和线上推理系统有直接影响。",
+        "signal_strength": 0.68,
+        "sources": [
+          {
+            "name": "GitHub Release (vllm-project/vllm)",
+            "url": "https://github.com/vllm-project/vllm/releases/tag/v0.21.0"
+          }
+        ],
+        "tags": [
+          "vLLM",
+          "推理引擎",
+          "基础设施",
+          "开源社区"
+        ],
+        "raw_item_indices": [
+          94
+        ]
+      },
+      {
+        "title": "TencentARC Pixal3D: Image-to-3D Model from Tencent AI Lab",
+        "signal_text": "腾讯 ARC 实验室发布 Pixal3D（HuggingFace 获 102 likes），实现图像到 3D 内容的直接转换。该技术与 UGC 创作工具（3D 内容生成、特效滤镜、AR/VR 交互）高度相关，为内容平台探索 3D/空间内容创作提供了新可能。",
+        "signal_strength": 0.66,
+        "sources": [
+          {
+            "name": "HuggingFace (TencentARC/Pixal3D)",
+            "url": "https://huggingface.co/TencentARC/Pixal3D"
+          }
+        ],
+        "tags": [
+          "3D生成",
+          "腾讯",
+          "图像到3D",
+          "UGC创作"
+        ],
+        "raw_item_indices": [
+          107,
+          111
+        ]
+      }
     ]
   },
   "archived_weeks": [
