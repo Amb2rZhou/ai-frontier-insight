@@ -2,7 +2,7 @@
 title: Agent Frameworks
 type: technology
 created: 2026-02-25
-updated: 2026-05-17
+updated: 2026-05-18
 ---
 
 # Agent Frameworks
@@ -11,6 +11,8 @@ The rapidly evolving ecosystem of tools, SDKs, and platforms for building autono
 
 ## Timeline
 
+- **2026-05-18**: [[codex|Codex]] Usage Spikes: [[openai|OpenAI]]'s Agentic Coding from Phone Sees Scale Issues
+- **2026-05-18**: Publicis Acquires LiveRamp for $2.5B in Agentic AI Data Play
 - **2026-05-17**: Realistic User Simulators for Training AI Agents (Natasha Jaques et al.)
 - **2026-05-17**: Interpretability Study Reveals Mismatch Between Tool Recognition and Action in LLM Agents
 - **2026-05-16**: [[openclaw|OpenClaw]] Open Source Agent Framework Gains Traction

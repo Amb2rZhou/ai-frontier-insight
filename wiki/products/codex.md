@@ -2,7 +2,7 @@
 title: Codex
 type: product
 created: 2026-02-25
-updated: 2026-05-17
+updated: 2026-05-18
 ---
 
 # Codex
@@ -11,6 +11,7 @@ updated: 2026-05-17
 
 ## Timeline
 
+- **2026-05-18**: Codex Usage Spikes: [[openai|OpenAI]]'s [[agent-frameworks|Agentic]] Coding from Phone Sees Scale Issues
 - **2026-05-17**: [[openai|OpenAI]] Co-Founder Greg Brockman Takes Charge of Product Strategy Amid Reorganization
 - **2026-05-17**: Coding Agent Battle Heats Up: Codex vs Zed vs [[claude|Claude Code]]
 - **2026-05-16**: [[openclaw|OpenClaw]] Open Source [[agent-frameworks|Agent Framework]] Gains Traction

@@ -2,7 +2,7 @@
 title: Meta
 type: company
 created: 2026-02-26
-updated: 2026-05-13
+updated: 2026-05-18
 ---
 
 # Meta
@@ -11,6 +11,7 @@ Parent company of Facebook, Instagram, and WhatsApp. Major AI investor through F
 
 ## Timeline
 
+- **2026-05-18**: Meta AI Releases Realiz3D: Photorealistic 3D Generation via Domain-Aware Learning
 - **2026-05-13**: [[google-deepmind|Google]] RubricEM: Meta-RL for Deep Research Agents
 - **2026-05-07**: Unsloth & [[nvidia|NVIDIA]] Collaboration Achieves 25% Faster LLM Training on Consumer GPUs
 - **2026-05-07**: Meta Superintelligence Lab Publishes ProgramBench: Can AI Rebuild Real-World Programs from Scratch?

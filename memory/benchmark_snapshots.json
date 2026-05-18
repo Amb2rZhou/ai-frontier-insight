@@ -242,7 +242,7 @@
         "date": "2025-11-03"
       }
     ],
-    "updated": "2026-05-12T10:31:11.766250+08:00"
+    "updated": "2026-05-18T11:09:32.525598+08:00"
   },
   "arc_agi_2": {
     "top_models": [
@@ -387,7 +387,7 @@
         "institution": "Simular"
       }
     ],
-    "updated": "2026-05-17T10:32:06.097871+08:00"
+    "updated": "2026-05-18T11:09:32.525598+08:00"
   },
   "terminal_bench": {
     "top_models": [
@@ -427,17 +427,12 @@
         "verified": true
       },
       {
-        "name": "ForgeCode/forge (gpt-5.4)",
-        "score": 81.8,
-        "verified": false
-      },
-      {
-        "name": "WOZCODE/claude-wozcode-plugin (claude-opus-4-7)",
+        "name": "BIGAI/judy (gemini-3.1-pro-preview)",
         "score": 80.2,
         "verified": false
       },
       {
-        "name": "BIGAI/judy (gemini-3.1-pro-preview)",
+        "name": "WOZCODE/claude-wozcode-plugin (claude-opus-4-7)",
         "score": 80.2,
         "verified": false
       },
@@ -447,17 +442,7 @@
         "verified": false
       },
       {
-        "name": "ForgeCode/forge (claude-opus-4-6)",
-        "score": 79.8,
-        "verified": false
-      },
-      {
         "name": "OpenSage/sage (gpt-5.3-codex)",
-        "score": 78.4,
-        "verified": false
-      },
-      {
-        "name": "ForgeCode/forge (gemini-3.1-pro-preview)",
         "score": 78.4,
         "verified": false
       },
@@ -465,8 +450,23 @@
         "name": "Factory/Factory Droid (gpt-5.3-codex)",
         "score": 77.3,
         "verified": false
+      },
+      {
+        "name": "Stanford IRIS/terminus-kira-env-bootstrap (claude-opus-4-6)",
+        "score": 76.4,
+        "verified": false
+      },
+      {
+        "name": "Feeling AI/ruley (gpt-5.3-codex)",
+        "score": 75.8,
+        "verified": false
+      },
+      {
+        "name": "kousw/codelia (gpt-5.3-codex)",
+        "score": 75.7,
+        "verified": false
       }
     ],
-    "updated": "2026-05-17T10:32:06.097871+08:00"
+    "updated": "2026-05-18T11:09:32.525598+08:00"
   }
 }

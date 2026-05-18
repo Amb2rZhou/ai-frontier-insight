@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-17T10:34:11.879627+08:00",
+  "last_updated": "2026-05-18T11:11:50.207205+08:00",
   "trends": [
     {
       "id": "ai_safety_pivot_and_accelerated_agi_time",
@@ -108,12 +108,12 @@
         "Business Models"
       ],
       "trajectory": "accelerating",
-      "signal_count": 90,
+      "signal_count": 91,
       "weekly_counts": [
-        1,
         4,
         2,
         2,
+        1,
         1,
         1,
         1,
@@ -267,6 +267,10 @@
         {
           "date": "2026-05-16",
           "event": "OpenClaw Open Source Agent Framework Gains Traction"
+        },
+        {
+          "date": "2026-05-18",
+          "event": "Qwen3.6-27B/35B Models Hit HuggingFace Trending Post-Quantization"
         }
       ],
       "created": "2026-02-25"
@@ -285,9 +289,8 @@
         "Nvidia Competition"
       ],
       "trajectory": "accelerating",
-      "signal_count": 53,
+      "signal_count": 55,
       "weekly_counts": [
-        0,
         0,
         1,
         1,
@@ -298,6 +301,7 @@
         1,
         0,
         1,
+        2,
         2
       ],
       "key_events": [
@@ -352,6 +356,10 @@
         {
           "date": "2026-05-15",
           "event": "Cerebras IPO Surges to $100B Market Cap: AI Chipmaker Redefines Inference Infrastructure; NVIDIA: Edge is Becoming Agent Host - NemoClaw and Jetson Strategy"
+        },
+        {
+          "date": "2026-05-18",
+          "event": "NVIDIA MemLens: Benchmarking Multimodal Long-Term Memory in Vision-Language Models; NVIDIA SANA-WM: Efficient Minute-Scale World Model with Hybrid Linear Diffusion Transformer"
         }
       ],
       "created": "2026-02-25"
@@ -360,19 +368,18 @@
       "id": "enterprise_ai_agent_adoption_and_product",
       "name": "Enterprise AI Agent Adoption and Product Launches",
       "related_tags": [
-        "Consumer AI",
-        "OpenAI",
-        "Partnership",
-        "Office",
-        "Search",
+        "Legacy Systems",
         "Long-Context",
+        "Anthropic",
+        "Search",
         "Industry Strategy",
-        "Microsoft"
+        "Market Impact",
+        "Training",
+        "Office"
       ],
       "trajectory": "accelerating",
-      "signal_count": 200,
+      "signal_count": 212,
       "weekly_counts": [
-        1,
         2,
         2,
         4,
@@ -383,25 +390,10 @@
         1,
         3,
         9,
-        3
+        3,
+        2
       ],
       "key_events": [
-        {
-          "date": "2026-05-06",
-          "event": "OpenAI Launches GPT-5.5 Instant with Memory Observability and Spreadsheet Integration; xAI Releases Grok 4.3 topping agentic tool calling leaderboards"
-        },
-        {
-          "date": "2026-05-07",
-          "event": "Adobe Builds CX Enterprise Agent on NVIDIA NemoClaw: Enterprise Agent Strategy"
-        },
-        {
-          "date": "2026-05-07",
-          "event": "First detected"
-        },
-        {
-          "date": "2026-05-08",
-          "event": "OpenAI Codex Gains Chrome Plugin for Background Multi-Tab Web Testing; Anthropic Introduces 'Dreaming': AI Agents That Learn from Mistakes on Claude Managed Agents; Google DeepMind Launches AlphaEvolve: Gemini-Powered Coding Agent for Multi-Domain Research; Perplexity Announces 'Personal Computer' Version for Mac, Deprecating Legacy App"
-        },
         {
           "date": "2026-05-08",
           "event": "Perplexity Announces 'Personal Computer' Version for Mac, Deprecating Legacy App"
@@ -437,6 +429,10 @@
         {
           "date": "2026-05-17",
           "event": "Coding Agent Battle Heats Up: Codex vs Zed vs Claude Code; OpenAI Co-Founder Greg Brockman Takes Charge of Product Strategy Amid Reorganization; OpenAI Acquires Voice-Cloning Startup Weights.GG"
+        },
+        {
+          "date": "2026-05-18",
+          "event": "Codex Usage Spikes: OpenAI's Agentic Coding from Phone Sees Scale Issues; Publicis Acquires LiveRamp for $2.5B in Agentic AI Data Play"
         }
       ],
       "created": "2026-02-25"
@@ -455,9 +451,8 @@
         "Scientific Discovery"
       ],
       "trajectory": "accelerating",
-      "signal_count": 145,
+      "signal_count": 149,
       "weekly_counts": [
-        1,
         4,
         2,
         2,
@@ -468,7 +463,8 @@
         3,
         0,
         2,
-        1
+        1,
+        4
       ],
       "key_events": [
         {
@@ -574,6 +570,10 @@
         {
           "date": "2026-05-16",
           "event": "ExecuTorch Wins Best Industry Paper at MLSys 2026; GPT-5.5 Gains 98% Win Rate Over Claude 4 Sonnet on Economic Value Benchmark"
+        },
+        {
+          "date": "2026-05-18",
+          "event": "NVIDIA SANA-WM: Efficient Minute-Scale World Model; Tsinghua Causal Forcing++: Real-Time Interactive Video Generation; Tsinghua-LeapLab InsightTok: Improved Visual Tokenization; NVIDIA MemLens Benchmark"
         }
       ],
       "created": "2026-02-25"
@@ -582,17 +582,17 @@
       "id": "ai_talent_wars_and_legal_battles",
       "name": "AI Talent Wars and Legal Battles",
       "related_tags": [
-        "Employee Activism",
         "Military AI",
+        "Employee Activism",
+        "AI Policy",
         "Corporate Governance",
-        "OpenAI",
-        "Military",
-        "Unionization",
         "xAI",
-        "Google"
+        "Government",
+        "Google",
+        "Talent"
       ],
       "trajectory": "fading",
-      "signal_count": 41,
+      "signal_count": 43,
       "weekly_counts": [
         0,
         0,
@@ -608,10 +608,6 @@
         0
       ],
       "key_events": [
-        {
-          "date": "2026-04-14",
-          "event": "OpenAI Acquires AI Personal Finance Startup Hiro; Thinking Machines Hires Workshop Labs Founders to Build Human-Centric AI"
-        },
         {
           "date": "2026-04-15",
           "event": "Anthropic Appoints Novartis CEO Vas Narasimhan to Its Board of Directors"
@@ -651,51 +647,6 @@
         {
           "date": "2026-05-12",
           "event": "Ilya Sutskever Testifies at Musk v. Altman Trial; Reveals $7B Stake and Defense of OpenAI"
-        }
-      ],
-      "created": "2026-02-25"
-    },
-    {
-      "id": "legacy_system_disruption_by_ai_moderniza",
-      "name": "Legacy System Disruption by AI Modernization",
-      "related_tags": [
-        "Legacy Systems",
-        "Market Impact",
-        "Enterprise AI",
-        "Anthropic"
-      ],
-      "trajectory": "fading",
-      "signal_count": 2,
-      "weekly_counts": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "key_events": [
-        {
-          "date": "2026-02-25",
-          "event": "First detected"
-        },
-        {
-          "date": "2026-02-25",
-          "event": "Anthropic's COBOL translation tools trigger IBM stock sell-off"
-        },
-        {
-          "date": "2026-02-25",
-          "event": "IBM stock drops $40B on misconception about AI COBOL modernization"
-        },
-        {
-          "date": "2026-02-25",
-          "event": "Anthropic's COBOL modernization tools trigger IBM stock drop"
         }
       ],
       "created": "2026-02-25"
@@ -908,9 +859,8 @@
         "Performance"
       ],
       "trajectory": "accelerating",
-      "signal_count": 94,
+      "signal_count": 95,
       "weekly_counts": [
-        1,
         1,
         4,
         2,
@@ -920,6 +870,7 @@
         0,
         1,
         2,
+        1,
         1,
         1
       ],
@@ -983,92 +934,10 @@
         {
           "date": "2026-05-17",
           "event": "vLLM v0.21.0 Released: Deprecates Transformers v4, C++20 Build Requirement"
-        }
-      ],
-      "created": "2026-02-25"
-    },
-    {
-      "id": "government_and_defense_ai_talent_recruit",
-      "name": "Government and Defense AI Talent Recruitment",
-      "related_tags": [
-        "AI Policy",
-        "Defense",
-        "Government",
-        "Talent"
-      ],
-      "trajectory": "fading",
-      "signal_count": 2,
-      "weekly_counts": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "key_events": [
-        {
-          "date": "2026-02-25",
-          "event": "First detected"
         },
         {
-          "date": "2026-02-25",
-          "event": "Pentagon recruits former Uber exec and billionaire for AI team"
-        },
-        {
-          "date": "2026-02-25",
-          "event": "Pentagon recruits AI talent from Anthropic, Uber, and private equity"
-        }
-      ],
-      "created": "2026-02-25"
-    },
-    {
-      "id": "ai-enabled_criminal_and_security_threats",
-      "name": "AI-Enabled Criminal and Security Threats",
-      "related_tags": [
-        "AI Ethics",
-        "Security",
-        "Emerging Risk",
-        "Criminal Activity"
-      ],
-      "trajectory": "fading",
-      "signal_count": 3,
-      "weekly_counts": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "key_events": [
-        {
-          "date": "2026-02-25",
-          "event": "First detected"
-        },
-        {
-          "date": "2026-02-25",
-          "event": "Systematic vulnerability (prefill attacks) found in 50 open-weight LLMs"
-        },
-        {
-          "date": "2026-02-25",
-          "event": "Mexico's CJNG cartel embraces AI, drones, and social media"
-        },
-        {
-          "date": "2026-03-01",
-          "event": "AI-powered disinformation and cyber attacks amplify amid real-world conflict"
+          "date": "2026-05-18",
+          "event": "Codex Usage Spikes: Scale Issues Highlight Infrastructure Challenges"
         }
       ],
       "created": "2026-02-25"
@@ -1077,17 +946,17 @@
       "id": "ai_security_vulnerabilities_in_open-weig",
       "name": "AI Security Vulnerabilities in Open-Weight Models",
       "related_tags": [
-        "AI Safety",
-        "Agent Security",
-        "Security",
-        "Enterprise Risk",
-        "Privacy",
         "DevTools",
-        "LLM Safety",
+        "Criminal Activity",
+        "Privacy",
+        "Enterprise Risk",
+        "AI Ethics",
+        "Security",
+        "Emerging Risk",
         "AI Code Audit"
       ],
       "trajectory": "accelerating",
-      "signal_count": 80,
+      "signal_count": 83,
       "weekly_counts": [
         0,
         1,
@@ -1103,10 +972,6 @@
         1
       ],
       "key_events": [
-        {
-          "date": "2026-05-06",
-          "event": "AI Agent Skills Security: Research Reveals Supply-Chain Attack Vector via Open-Source Repos"
-        },
         {
           "date": "2026-05-08",
           "event": "Anthropic Launches Public Security Bug Bounty Program on HackerOne"
@@ -1151,67 +1016,6 @@
       "created": "2026-02-25"
     },
     {
-      "id": "ai_talent_development_and_education_ecos",
-      "name": "AI Talent Development and Education Ecosystem Growth",
-      "related_tags": [
-        "AI Education",
-        "Talent Development",
-        "Software Engineering",
-        "Training"
-      ],
-      "trajectory": "fading",
-      "signal_count": 6,
-      "weekly_counts": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "key_events": [
-        {
-          "date": "2026-02-25",
-          "event": "First detected"
-        },
-        {
-          "date": "2026-02-25",
-          "event": "Gauntlet AI trains developers in full AI-driven coding, high demand for graduates"
-        },
-        {
-          "date": "2026-02-25",
-          "event": "Gauntlet AI trains engineers for 'full-stack LLM mode'"
-        },
-        {
-          "date": "2026-03-08",
-          "event": "Replit CEO: No coding experience becoming an advantage in AI era"
-        },
-        {
-          "date": "2026-03-08",
-          "event": "Replit CEO: No coding experience becoming an advantage in AI era"
-        },
-        {
-          "date": "2026-03-21",
-          "event": "OpenAI Launches Codex for Students with $100 Credits"
-        },
-        {
-          "date": "2026-03-26",
-          "event": "Anthropic Study Highlights Growing AI Skills Gap"
-        },
-        {
-          "date": "2026-04-20",
-          "event": "OpenAI Academy Reaches 3M Learners, Expands Global Events"
-        }
-      ],
-      "created": "2026-02-25"
-    },
-    {
       "id": "chinese_ai_model_competition_and_market_",
       "name": "Chinese AI Model Competition and Market Impact",
       "related_tags": [
@@ -1225,9 +1029,8 @@
         "AI Adoption"
       ],
       "trajectory": "accelerating",
-      "signal_count": 64,
+      "signal_count": 65,
       "weekly_counts": [
-        1,
         1,
         1,
         3,
@@ -1238,7 +1041,8 @@
         0,
         2,
         1,
-        0
+        0,
+        1
       ],
       "key_events": [
         {
@@ -1292,6 +1096,10 @@
         {
           "date": "2026-05-12",
           "event": "OpenAI and Alibaba Qwen Launch Ambassador Programs for Developer Community"
+        },
+        {
+          "date": "2026-05-18",
+          "event": "Qwen3.6-27B/35B Models Hit HuggingFace Trending Post-Quantization"
         }
       ],
       "created": "2026-02-25"
@@ -1310,9 +1118,8 @@
         "Generative AI"
       ],
       "trajectory": "accelerating",
-      "signal_count": 94,
+      "signal_count": 99,
       "weekly_counts": [
-        2,
         3,
         2,
         0,
@@ -1323,7 +1130,8 @@
         2,
         0,
         1,
-        1
+        1,
+        5
       ],
       "key_events": [
         {
@@ -1377,46 +1185,13 @@
         {
           "date": "2026-05-17",
           "event": "TencentARC Pixal3D: Image-to-3D Model from Tencent AI Lab"
+        },
+        {
+          "date": "2026-05-18",
+          "event": "Meta AI Releases Realiz3D: Photorealistic 3D Generation; Peking University VGGT-Edit: Feed-Forward 3D Scene Editing; Tsinghua Causal Forcing++: Real-Time Interactive Video; NVIDIA SANA-WM; Tsinghua InsightTok"
         }
       ],
       "created": "2026-02-26"
-    },
-    {
-      "id": "ai-driven_workforce_restructuring_and_co",
-      "name": "AI-Driven Workforce Restructuring and Corporate Transformation",
-      "related_tags": [
-        "AI Workforce Impact",
-        "Corporate Strategy",
-        "Labor Market",
-        "Automation"
-      ],
-      "trajectory": "fading",
-      "signal_count": 2,
-      "weekly_counts": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "key_events": [
-        {
-          "date": "2026-02-27",
-          "event": "First detected"
-        },
-        {
-          "date": "2026-02-28",
-          "event": "Block cuts 40% workforce in AI-driven restructuring, stock rises 20%+"
-        }
-      ],
-      "created": "2026-02-27"
     },
     {
       "id": "mega-funding_rounds_and_market_consolida",
@@ -1432,7 +1207,7 @@
         "Funding"
       ],
       "trajectory": "accelerating",
-      "signal_count": 13,
+      "signal_count": 15,
       "weekly_counts": [
         0,
         0,
@@ -1440,12 +1215,12 @@
         0,
         0,
         0,
-        0,
         1,
         0,
         1,
         1,
-        1
+        1,
+        2
       ],
       "key_events": [
         {
@@ -1495,6 +1270,10 @@
         {
           "date": "2026-05-16",
           "event": "OpenAI Reorganizes Around Unified App Strategy"
+        },
+        {
+          "date": "2026-05-18",
+          "event": "Publicis Acquires LiveRamp for $2.5B in Agentic AI Data Play; Anthropic and OpenAI Command 89% of AI Startup Revenues, Widening Gap"
         }
       ],
       "created": "2026-02-28"
@@ -1555,6 +1334,30 @@
         }
       ],
       "created": "2026-04-25"
+    },
+    {
+      "id": "ai_3d_generation_and_scene_editing_break",
+      "name": "AI 3D Generation and Scene Editing Breakthroughs",
+      "related_tags": [
+        "3D Generation",
+        "3D Editing",
+        "Meta",
+        "NVIDIA Research",
+        "Content Creation",
+        "AR/VR"
+      ],
+      "trajectory": "accelerating",
+      "signal_count": 1,
+      "weekly_counts": [
+        1
+      ],
+      "key_events": [
+        {
+          "date": "2026-05-18",
+          "event": "First detected"
+        }
+      ],
+      "created": "2026-05-18"
     }
   ]
 }

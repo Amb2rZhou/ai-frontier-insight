@@ -1,66 +1,6 @@
 {
   "predictions": [
     {
-      "date": "2026-05-08T09:33:57.919234+08:00",
-      "prediction_text": "社区平台可探索语音笔记/语音搜索/实时语音客服场景，替代纯文本交互，提升UGC创作效率。",
-      "category": "ecosystem_shift",
-      "source_signal": "OpenAI Releases GPT-Realtime-2 and New Voice Intelligence Models in API"
-    },
-    {
-      "date": "2026-05-08T09:33:57.934890+08:00",
-      "prediction_text": "考虑在电商客服Agent中尝试离线自我复盘+错误模式缓存机制，降低人工标注成本，提升长期稳定性。",
-      "category": "research_breakthrough",
-      "source_signal": "Anthropic Introduces 'Dreaming': AI Agents That Learn from Mistakes on Claude Managed Agents"
-    },
-    {
-      "date": "2026-05-08T09:33:57.949807+08:00",
-      "prediction_text": "内容平台的创作者工具可探索利用Codex并行处理多页面内容审核/批量编辑/跨平台数据采集等重复任务。",
-      "category": "strategic_move",
-      "source_signal": "OpenAI Codex Gains Chrome Plugin for Background Multi-Tab Web Testing"
-    },
-    {
-      "date": "2026-05-08T09:33:57.957284+08:00",
-      "prediction_text": "推荐系统团队的序列模型推理可评估此算法是否适配已有TensorRT部署栈，优先聚焦高并发Top-K场景。",
-      "category": "research_breakthrough",
-      "source_signal": "NVIDIA Research Unveils Guess-Verify-Refine: Hardware-Aware Sparse Attention for Faster Inference on Blackwell"
-    },
-    {
-      "date": "2026-05-08T09:33:57.964927+08:00",
-      "prediction_text": "内容平台值得关注是否可提供API让桌面Agent安全地执行发布/编辑/数据分析等操作，开放平台能力。",
-      "category": "strategic_move",
-      "source_signal": "Perplexity Announces 'Personal Computer' Version for Mac, Deprecating Legacy App"
-    },
-    {
-      "date": "2026-05-08T09:33:57.972199+08:00",
-      "prediction_text": "社区内容策略可尝试引入类似Agent辅助用户生成技术教程/实地测评等结构化专业内容，提升知识密度。",
-      "category": "research_breakthrough",
-      "source_signal": "Google DeepMind Launches AlphaEvolve: Gemini-Powered Coding Agent for Multi-Domain Research"
-    },
-    {
-      "date": "2026-05-08T09:33:57.980566+08:00",
-      "prediction_text": "电商平台可评估构建一个轻量调度层，根据商品咨询复杂度动态调用不同强度模型，优化推理费效比。",
-      "category": "research_breakthrough",
-      "source_signal": "Sakana AI Trains 7B Model as RL Conductor to Orchestrate GPT-5, Claude Sonnet 4, Gemini 2.5 Pro"
-    },
-    {
-      "date": "2026-05-08T09:33:57.988284+08:00",
-      "prediction_text": "内容安全团队可将Petri纳入AI生成内容安全测试工具箱，作为模型上线前行为合规预筛查环节。",
-      "category": "open_source",
-      "source_signal": "Anthropic Donates Petri Open-Source Alignment Testing Tool to Meridian Labs"
-    },
-    {
-      "date": "2026-05-08T09:33:57.996100+08:00",
-      "prediction_text": "社区平台构建离线推理集群时可以考虑调研AMD+ZAYA1-8B方案作为备选，降低硬件供应链风险与成本。",
-      "category": "infrastructure",
-      "source_signal": "Zyphra Releases ZAYA1-8B: Efficient Open Reasoning Model Trained on AMD MI300 GPUs"
-    },
-    {
-      "date": "2026-05-08T09:33:58.003816+08:00",
-      "prediction_text": "内容平台AI安全团队可参考此机制，搭建一套针对AI Agent/生成模型插件的轻量赏金流程。",
-      "category": "strategic_move",
-      "source_signal": "Anthropic Launches Public Security Bug Bounty Program on HackerOne"
-    },
-    {
       "date": "2026-05-11T16:32:20.799149+08:00",
       "prediction_text": "内容平台创作者工具可探索集成Peekaboo-like Agent，实现一键式图文编辑、跨平台发布、批量素材管理。",
       "category": "ecosystem_shift",
@@ -599,6 +539,66 @@
       "prediction_text": "内容平台可探索将图像转3D功能嵌入创作工具，抢占空间内容创作者心智与早期生态。",
       "category": "model_release",
       "source_signal": "TencentARC Pixal3D: Image-to-3D Model from Tencent AI Lab"
+    },
+    {
+      "date": "2026-05-18T11:11:32.983042+08:00",
+      "prediction_text": "内容/电商平台可探索将Realiz3D类技术集成至商品3D展示和虚拟试穿工具，降低商家3D建模成本。",
+      "category": "research_breakthrough",
+      "source_signal": "Meta AI Releases Realiz3D: Photorealistic 3D Generation via Domain-Aware Learning"
+    },
+    {
+      "date": "2026-05-18T11:11:32.993028+08:00",
+      "prediction_text": "搜索推荐团队可关注MemLens评估方法，自建多模态长记忆基准，避免在复杂兴趣建模上过早乐观。",
+      "category": "research_breakthrough",
+      "source_signal": "NVIDIA MemLens: Benchmarking Multimodal Long-Term Memory in Vision-Language Models"
+    },
+    {
+      "date": "2026-05-18T11:11:32.998416+08:00",
+      "prediction_text": "内容平台创作工具可评估SANA-WM直接集成至移动端，探索即拍即得式视频特效与镜头控制。",
+      "category": "model_release",
+      "source_signal": "NVIDIA SANA-WM: Efficient Minute-Scale World Model with Hybrid Linear Diffusion Transformer"
+    },
+    {
+      "date": "2026-05-18T11:11:33.002815+08:00",
+      "prediction_text": "社区/内容平台可探索将Causal Forcing++集成至直播或短视频拍摄工具，实现逐帧实时特效叠加。",
+      "category": "research_breakthrough",
+      "source_signal": "Tsinghua Causal Forcing++: Real-Time Interactive Video Generation via Diffusion Distillation"
+    },
+    {
+      "date": "2026-05-18T11:11:33.006554+08:00",
+      "prediction_text": "内容平台可评估Qwen3.6系列用于搜索增强、评论理解等中文场景，减少对海外模型的API依赖。",
+      "category": "open_source",
+      "source_signal": "Qwen3.6-27B/35B Models Hit HuggingFace Trending Post-Quantization"
+    },
+    {
+      "date": "2026-05-18T11:11:33.010836+08:00",
+      "prediction_text": "AR/电商平台可探索将VGGT-Edit集成至虚拟试妆/家居工具，支持用户以文本指令微调3D场景。",
+      "category": "research_breakthrough",
+      "source_signal": "Peking University VGGT-Edit: Feed-Forward Native 3D Scene Editing with Text"
+    },
+    {
+      "date": "2026-05-18T11:11:33.014028+08:00",
+      "prediction_text": "电商/社区平台应重新评估自有用户数据资产价值，提前布局Agent所需的第一方数据生态闭环。",
+      "category": "strategic_move",
+      "source_signal": "Publicis Acquires LiveRamp for $2.5B in Agentic AI Data Play"
+    },
+    {
+      "date": "2026-05-18T11:11:33.017089+08:00",
+      "prediction_text": "内容平台图文生成工具可评估InsightTok，针对性优化文字渲染与虚拟人物面部生成质量。",
+      "category": "research_breakthrough",
+      "source_signal": "Tsinghua-LeapLab InsightTok: Improved Visual Tokenization for Autoregressive Image Generation"
+    },
+    {
+      "date": "2026-05-18T11:11:33.019897+08:00",
+      "prediction_text": "平台在部署AI Agent（如创作/客服助手）时，应前置容量规划与限流回退机制，避免服务中断。",
+      "category": "infrastructure",
+      "source_signal": "Codex Usage Spikes: OpenAI's Agentic Coding from Phone Sees Scale Issues"
+    },
+    {
+      "date": "2026-05-18T11:11:33.022470+08:00",
+      "prediction_text": "内容平台可考虑多模型供应商策略或自研/微调中小模型，降低对单一闭源模型的依赖与锁定风险。",
+      "category": "ecosystem_shift",
+      "source_signal": "Anthropic and OpenAI Command 89% of AI Startup Revenues, Widening Gap"
     }
   ]
 }

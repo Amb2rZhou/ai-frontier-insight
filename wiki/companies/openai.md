@@ -2,7 +2,7 @@
 title: OpenAI
 type: company
 created: 2026-02-25
-updated: 2026-05-17
+updated: 2026-05-18
 ---
 
 # OpenAI
@@ -11,6 +11,8 @@ The leading commercial AI lab, maker of [[gpt|GPT]] models, ChatGPT, [[codex|Cod
 
 ## Timeline
 
+- **2026-05-18**: [[anthropic|Anthropic]] and OpenAI Command 89% of AI Startup Revenues, Widening Gap
+- **2026-05-18**: [[codex|Codex]] Usage Spikes: OpenAI's [[agent-frameworks|Agentic]] Coding from Phone Sees Scale Issues
 - **2026-05-17**: OpenAI Acquires Voice-Cloning Startup Weights.GG
 - **2026-05-17**: OpenAI Co-Founder Greg Brockman Takes Charge of Product Strategy Amid Reorganization
 - **2026-05-17**: Coding Agent Battle Heats Up: [[codex|Codex]] vs Zed vs [[claude|Claude Code]]
