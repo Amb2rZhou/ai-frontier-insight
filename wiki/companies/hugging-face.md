@@ -2,7 +2,7 @@
 title: Hugging Face
 type: company
 created: 2026-02-25
-updated: 2026-05-18
+updated: 2026-05-14
 ---
 
 
@@ -15,6 +15,7 @@ The central platform for [[open-source-models|open-source]] AI model hosting, da
 - **2026-05-18**: Qwen3.6-27B/35B Models Hit HuggingFace Trending Post-Quantization
 - **2026-05-17**: TencentARC Pixal3D: Image-to-3D Model from [[tencent|Tencent]] AI Lab
 - **2026-05-15**: HuggingFace Crosses 1 Million Datasets Milestone
+- **2026-05-14**: MinT: Managed Infrastructure for Training & Serving Millions of LLMs via Low-Rank Adapters
 - **2026-05-10**: Local AI Boom: 176K Public GGUF Models on Hugging Face, Monthly Creation Doubles
 - **2026-05-05**: SenseNova-U1-8B-MoT: Any-to-Any Multimodal Model from SenseTime
 - **2026-05-05**: [[openai|OpenAI]] Releases Privacy Filter Model for Token Classification

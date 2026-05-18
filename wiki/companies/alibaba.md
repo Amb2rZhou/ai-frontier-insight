@@ -2,7 +2,7 @@
 title: Alibaba
 type: company
 created: 2026-02-25
-updated: 2026-05-18
+updated: 2026-05-14
 ---
 
 # Alibaba
@@ -12,6 +12,8 @@ Chinese tech giant and creator of the [[qwen|Qwen]] model family, a leading [[op
 ## Timeline
 
 - **2026-05-18**: Qwen3.6-27B/35B Models Hit [[hugging-face|HuggingFace]] Trending Post-Quantization
+- **2026-05-14**: ToolCUA: End-to-End Agent for Optimal GUI-Tool Path Orchestration by TongyiLab
+- **2026-05-14**: [[qwen|Qwen]]-Image-VAE-2.0: High-Compression VAE with Semantic Conditioning for Image Generation
 - **2026-05-12**: [[openai|OpenAI]] and Alibaba [[qwen|Qwen]] Launch Ambassador Programs for Developer Community
 - **2026-05-10**: vLLM v0.20.2 Patches DeepSeek V4 Sparse Attention and Qwen3-VL Bugs
 - **2026-05-09**: Alibaba Proposes Continuous-Time Distribution Matching for Few-Step Diffusion Distillation

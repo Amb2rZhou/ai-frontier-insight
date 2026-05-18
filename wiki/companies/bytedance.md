@@ -2,7 +2,7 @@
 title: Bytedance
 type: company
 created: 2026-03-16
-updated: 2026-05-09
+updated: 2026-05-14
 ---
 
 # Bytedance
@@ -11,6 +11,7 @@ Chinese tech giant (parent of TikTok), active in AI through Seedance video gener
 
 ## Timeline
 
+- **2026-05-14**: ByteDance Seed Publishes Long-Context VLM Training Method with 128K+ Generalization
 - **2026-05-09**: ByteDance Seed Proposes Continuous Latent Diffusion Language Model (Cola DLM)
 - **2026-05-05**: ByteDance Seed & Princeton Release Advances in RL for Image Editing and Game-Playing VLMs
 - **2026-05-04**: GenLIP: ByteDance's Generative Language-Image Pre-training Framework

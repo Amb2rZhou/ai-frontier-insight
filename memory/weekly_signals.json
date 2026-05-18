@@ -213,6 +213,205 @@
           26
         ]
       }
+    ],
+    "2026-05-14": [
+      {
+        "title": "OpenAI Codex for Windows Sandbox: Balancing Agent Autonomy and Security",
+        "signal_text": "OpenAI 开发者账号发布博文，详细说明为 Windows 构建 Codex 沙箱的技术方案，解决让编码 Agent 保持可用性与防止完全机器访问之间的平衡。由 OpenAI 联合创始人 Greg Brockman (@gdb) 转发并获 310+ likes，OpenAIDevs 账号推文获 511 likes/89k views。来源：OpenAI 官方开发者账号与联合创始人。",
+        "signal_strength": 0.82,
+        "sources": [
+          {
+            "name": "OpenAI Devs Twitter",
+            "url": "https://x.com/OpenAIDevs/status/2054735161166819377"
+          },
+          {
+            "name": "Greg Brockman Twitter",
+            "url": "https://x.com/gdb/status/2054744721570820444"
+          }
+        ],
+        "tags": [
+          "Agent",
+          "Codex",
+          "Security"
+        ],
+        "raw_item_indices": [
+          7,
+          9
+        ]
+      },
+      {
+        "title": "Ollama v0.24 Supports Codex App, Deepening Local LLM Integration with OpenAI's Agent Ecosystem",
+        "signal_text": "Ollama v0.24 正式支持 OpenAI Codex App 作为桌面体验工具，可通过 `ollama launch codex-app` 命令启动，并内置工作树（worktree）和 git 功能。此前 Ollama 已支持 `opencode` 和 vision 模型。这表明本地推理引擎正在主动适配主流 Agent 应用，降低开发者使用本地模型的门槛。来源：Ollama 官方 GitHub Release（获广泛关注）。",
+        "signal_strength": 0.78,
+        "sources": [
+          {
+            "name": "Ollama GitHub Release v0.24.0",
+            "url": "https://github.com/ollama/ollama/releases/tag/v0.24.0"
+          }
+        ],
+        "tags": [
+          "Agent",
+          "Local Deployment",
+          "Open Source"
+        ],
+        "raw_item_indices": [
+          25,
+          26,
+          27
+        ]
+      },
+      {
+        "title": "ByteDance Seed Publishes Long-Context VLM Training Method with 128K+ Generalization",
+        "signal_text": "ByteDance Seed 团队发表论文，提出长上下文视觉语言模型（VLM）的持续预训练方法，通过策略性数据混合设计，使模型在长文档理解上表现优异，且泛化能力可超过 128K 上下文窗口。这对小红书的多图/长文理解、视频片段检索等场景有直接参考价值。来源：ByteDance Seed 官方研究团队论文（字节跳动是优先机构）。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "arXiv 论文 2605.13831",
+            "url": "https://huggingface.co/papers/2605.13831"
+          }
+        ],
+        "tags": [
+          "Content Understanding",
+          "Long Context",
+          "VLM"
+        ],
+        "raw_item_indices": [
+          35
+        ]
+      },
+      {
+        "title": "NVIDIA AnyFlow: Any-Step Video Diffusion Distillation for Efficient Video Generation",
+        "signal_text": "NVIDIA 发布 AnyFlow，一种任意步数视频扩散蒸馏框架，通过流图变换（flow-map transformation）优化完整 ODE 采样轨迹，比一致性蒸馏更灵活高效。适用于短视频、广告素材等高效率视频生成场景。来源：NVIDIA 研究团队论文（NVIDIA Research 为优先机构）。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "arXiv 论文 2605.13724",
+            "url": "https://huggingface.co/papers/2605.13724"
+          }
+        ],
+        "tags": [
+          "Video Generation",
+          "Efficiency",
+          "Content Creation"
+        ],
+        "raw_item_indices": [
+          34
+        ]
+      },
+      {
+        "title": "Google RubricEM: Meta-RL with Rubric-Guided Policy for Deep Research Agents",
+        "signal_text": "Google 团队提出 RubricEM 框架，使用基于评分标准（ rubric）的元强化学习，分解验证性奖励，使深度研究代理在长篇幅研究任务中表现显著优于基线。该方法通过阶段感知规划和反思实现更可控的 Agent 推理。来源：Google Research 论文（作者包括 Bhavana Dalvi Mishra 等 Google 学者）。",
+        "signal_strength": 0.72,
+        "sources": [
+          {
+            "name": "arXiv 论文 2605.10899",
+            "url": "https://huggingface.co/papers/2605.10899"
+          }
+        ],
+        "tags": [
+          "Agent",
+          "RL",
+          "Research"
+        ],
+        "raw_item_indices": [
+          36
+        ]
+      },
+      {
+        "title": "Qwen-Image-VAE-2.0: High-Compression VAE with Semantic Conditioning for Image Generation",
+        "signal_text": "阿里 Qwen 团队发布 Qwen-Image-VAE-2.0 技术报告，介绍一套高压缩变分自编码器，通过改进架构、大规模训练和语义条件提升重建保真度和可扩散性，压缩比更高但质量不降。这对小红书图文生成、风格迁移等依赖 VAE 的管线有直接优化潜力。来源：Qwen 团队（阿里巴巴旗下，优先机构）。",
+        "signal_strength": 0.72,
+        "sources": [
+          {
+            "name": "arXiv 论文 2605.13565",
+            "url": "https://huggingface.co/papers/2605.13565"
+          }
+        ],
+        "tags": [
+          "Content Creation",
+          "Image Generation",
+          "Efficiency"
+        ],
+        "raw_item_indices": [
+          40
+        ]
+      },
+      {
+        "title": "ToolCUA: End-to-End Agent for Optimal GUI-Tool Path Orchestration by TongyiLab",
+        "signal_text": "阿里 TongyiLab 发布 ToolCUA，一个通过分阶段训练学习最优 GUI-工具路径选择的端到端 Agent，在混合动作空间环境中性能领先。该工作与计算机使用 Agent（Computer Use Agent）方向紧密相关，对小红书探索自动化运营工具、UI 测试等有参考价值。来源：TongyiLab（阿里达摩院/通义实验室，优先机构）。",
+        "signal_strength": 0.7,
+        "sources": [
+          {
+            "name": "arXiv 论文 2605.12481",
+            "url": "https://huggingface.co/papers/2605.12481"
+          }
+        ],
+        "tags": [
+          "Agent",
+          "GUI Automation",
+          "Tool Use"
+        ],
+        "raw_item_indices": [
+          52
+        ]
+      },
+      {
+        "title": "SenseNova-U1: Unifying Multimodal Understanding and Generation with NEO-unify Architecture",
+        "signal_text": "商汤 SenseNova 发布统一视觉语言模型 SenseNova-U1，将理解与生成视为一体化过程，采用 NEO-unify 架构，在多模态任务上表现强劲。对小红书图文理解与生成融合场景有直接参考价值。来源：商汤 SenseNova 研究团队论文（商汤为优先关注机构）。",
+        "signal_strength": 0.68,
+        "sources": [
+          {
+            "name": "arXiv 论文 2605.12500",
+            "url": "https://huggingface.co/papers/2605.12500"
+          }
+        ],
+        "tags": [
+          "Multimodal",
+          "Generation",
+          "Understanding"
+        ],
+        "raw_item_indices": [
+          30
+        ]
+      },
+      {
+        "title": "MinT: Managed Infrastructure for Training & Serving Millions of LLMs via Low-Rank Adapters",
+        "signal_text": "Mind Lab 发布 MinT，一种托管基础设施系统，通过驻留基座模型并移动轻量 adapter 修订版，实现百万级 LLM 的低秩适应训练与高效推理。对小红书多模型服务、个性化 LoRA 部署场景意义重大。来源：Mind Lab 论文（获 HuggingFace 211 点赞）。",
+        "signal_strength": 0.65,
+        "sources": [
+          {
+            "name": "arXiv 论文 2605.13779",
+            "url": "https://huggingface.co/papers/2605.13779"
+          }
+        ],
+        "tags": [
+          "Model Serving",
+          "LoRA",
+          "Infrastructure"
+        ],
+        "raw_item_indices": [
+          29
+        ]
+      },
+      {
+        "title": "MCP-Cosmos: World Model-Augmented Agents for Complex Task Execution by IBM Research",
+        "signal_text": "IBM Research 发布 MCP-Cosmos，将生成式世界模型集成到 Model Context Protocol (MCP) 生态系统中，通过潜空间预测模拟增强 Agent 规划与执行能力。对小红书探索 MCP 标准下的 Agent 交互框架有直接参考价值。来源：IBM Research 论文（IBM Research 为优先机构）。",
+        "signal_strength": 0.65,
+        "sources": [
+          {
+            "name": "arXiv 论文 2605.09131",
+            "url": "https://huggingface.co/papers/2605.09131"
+          }
+        ],
+        "tags": [
+          "Agent",
+          "World Model",
+          "Planning"
+        ],
+        "raw_item_indices": [
+          42
+        ]
+      }
     ]
   },
   "archived_weeks": [

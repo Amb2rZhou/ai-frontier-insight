@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-18T11:11:50.207205+08:00",
+  "last_updated": "2026-05-18T16:15:26.907991+08:00",
   "trends": [
     {
       "id": "ai_safety_pivot_and_accelerated_agi_time",
@@ -108,9 +108,8 @@
         "Business Models"
       ],
       "trajectory": "accelerating",
-      "signal_count": 91,
+      "signal_count": 94,
       "weekly_counts": [
-        4,
         2,
         2,
         1,
@@ -121,7 +120,8 @@
         1,
         1,
         1,
-        1
+        1,
+        3
       ],
       "key_events": [
         {
@@ -271,95 +271,10 @@
         {
           "date": "2026-05-18",
           "event": "Qwen3.6-27B/35B Models Hit HuggingFace Trending Post-Quantization"
-        }
-      ],
-      "created": "2026-02-25"
-    },
-    {
-      "id": "ai_hardware_competition_and_nvidia_chall",
-      "name": "AI Hardware Competition and Nvidia Challengers",
-      "related_tags": [
-        "AI Hardware",
-        "Startups",
-        "Nvidia",
-        "Funding",
-        "Semiconductors",
-        "Autonomous Vehicles",
-        "Embodied AI",
-        "Nvidia Competition"
-      ],
-      "trajectory": "accelerating",
-      "signal_count": 55,
-      "weekly_counts": [
-        0,
-        1,
-        1,
-        1,
-        3,
-        0,
-        0,
-        1,
-        0,
-        1,
-        2,
-        2
-      ],
-      "key_events": [
-        {
-          "date": "2026-04-17",
-          "event": "Physical Intelligence unveils π0.7 robot brain with zero-shot task generalization"
-        },
-        {
-          "date": "2026-04-18",
-          "event": "NVIDIA Isaac GR00T N1.7 Early Access for Humanoid Robots"
-        },
-        {
-          "date": "2026-04-19",
-          "event": "AI Chip Startup Cerebras Files for IPO with Major OpenAI Deal; Global DRAM Shortage May Persist for Years, Impacting AI Hardware"
-        },
-        {
-          "date": "2026-04-19",
-          "event": "Tesla Robotaxi Expands to Dallas and Houston"
-        },
-        {
-          "date": "2026-04-20",
-          "event": "Humanoid Robots Beat Human Record in Beijing Half-Marathon"
-        },
-        {
-          "date": "2026-04-25",
-          "event": "Meta Partners with AWS for Massive Graviton-Based AI Infrastructure; Meta Partners with AWS on Graviton Chips to Power Agentic AI"
-        },
-        {
-          "date": "2026-04-26",
-          "event": "Stanford's Chelsea Finn and Sergey Levine Discuss Robotics RL and Self-Improvement at ICLR 2026"
-        },
-        {
-          "date": "2026-04-27",
-          "event": "Stanford Chelsea Finn Talks Long-Term Memory for Autonomy at ICLR 2026"
-        },
-        {
-          "date": "2026-05-01",
-          "event": "Apple Mac Mini Shortage Reflects Unforeseen AI-Driven Demand, Tim Cook Confirms"
-        },
-        {
-          "date": "2026-05-05",
-          "event": "NVIDIA & Qwen Release New Multimodal Models for On-Device and MoE Deployment"
-        },
-        {
-          "date": "2026-05-07",
-          "event": "Anthropic Rents Entire xAI Colossus 1 Compute (220K+ NVIDIA GPUs): New Frontier Alliance"
-        },
-        {
-          "date": "2026-05-11",
-          "event": "Cerebras AI Chip IPO Tests Public Market Appetite at $35B Valuation"
-        },
-        {
-          "date": "2026-05-15",
-          "event": "Cerebras IPO Surges to $100B Market Cap: AI Chipmaker Redefines Inference Infrastructure; NVIDIA: Edge is Becoming Agent Host - NemoClaw and Jetson Strategy"
         },
         {
           "date": "2026-05-18",
-          "event": "NVIDIA MemLens: Benchmarking Multimodal Long-Term Memory in Vision-Language Models; NVIDIA SANA-WM: Efficient Minute-Scale World Model with Hybrid Linear Diffusion Transformer"
+          "event": "Ollama v0.24 Supports Codex App, Deepening Local LLM Integration with OpenAI's Agent Ecosystem"
         }
       ],
       "created": "2026-02-25"
@@ -378,9 +293,8 @@
         "Office"
       ],
       "trajectory": "accelerating",
-      "signal_count": 212,
+      "signal_count": 214,
       "weekly_counts": [
-        2,
         2,
         4,
         2,
@@ -391,6 +305,7 @@
         3,
         9,
         3,
+        2,
         2
       ],
       "key_events": [
@@ -433,6 +348,10 @@
         {
           "date": "2026-05-18",
           "event": "Codex Usage Spikes: OpenAI's Agentic Coding from Phone Sees Scale Issues; Publicis Acquires LiveRamp for $2.5B in Agentic AI Data Play"
+        },
+        {
+          "date": "2026-05-18",
+          "event": "Google RubricEM: Meta-RL with Rubric-Guided Policy for Deep Research Agents"
         }
       ],
       "created": "2026-02-25"
@@ -451,9 +370,8 @@
         "Scientific Discovery"
       ],
       "trajectory": "accelerating",
-      "signal_count": 149,
+      "signal_count": 153,
       "weekly_counts": [
-        4,
         2,
         2,
         2,
@@ -464,6 +382,7 @@
         0,
         2,
         1,
+        4,
         4
       ],
       "key_events": [
@@ -574,6 +493,10 @@
         {
           "date": "2026-05-18",
           "event": "NVIDIA SANA-WM: Efficient Minute-Scale World Model; Tsinghua Causal Forcing++: Real-Time Interactive Video Generation; Tsinghua-LeapLab InsightTok: Improved Visual Tokenization; NVIDIA MemLens Benchmark"
+        },
+        {
+          "date": "2026-05-18",
+          "event": "ByteDance Seed Publishes Long-Context VLM Training Method with 128K+ Generalization"
         }
       ],
       "created": "2026-02-25"
@@ -665,9 +588,8 @@
         "Video Generation"
       ],
       "trajectory": "accelerating",
-      "signal_count": 229,
+      "signal_count": 232,
       "weekly_counts": [
-        4,
         1,
         3,
         2,
@@ -678,7 +600,8 @@
         4,
         1,
         8,
-        2
+        2,
+        3
       ],
       "key_events": [
         {
@@ -724,6 +647,10 @@
         {
           "date": "2026-05-17",
           "event": "OpenClaw Lossless Compaction Empowers Infinite Context Window; Realistic User Simulators for Training AI Agents (Natasha Jaques et al.)"
+        },
+        {
+          "date": "2026-05-18",
+          "event": "OpenAI Codex for Windows Sandbox: Balancing Agent Autonomy and Security"
         }
       ],
       "created": "2026-02-25"
@@ -738,9 +665,8 @@
         "Europe"
       ],
       "trajectory": "accelerating",
-      "signal_count": 26,
+      "signal_count": 28,
       "weekly_counts": [
-        1,
         1,
         1,
         1,
@@ -751,7 +677,8 @@
         1,
         0,
         1,
-        1
+        1,
+        2
       ],
       "key_events": [
         {
@@ -841,6 +768,10 @@
         {
           "date": "2026-05-15",
           "event": "IBM Granite Embedding Multilingual R2: Best Sub-100M Retrieval Quality with 32K Context"
+        },
+        {
+          "date": "2026-05-18",
+          "event": "Qwen-Image-VAE-2.0: High-Compression VAE with Semantic Conditioning for Image Generation"
         }
       ],
       "created": "2026-02-25"
@@ -849,19 +780,18 @@
       "id": "ai_infrastructure_optimization_and_open_",
       "name": "AI Infrastructure Optimization and Open Source Tools",
       "related_tags": [
+        "Startups",
+        "Embodied AI",
         "Open Source",
-        "Manufacturing",
-        "Supply Chain",
-        "Infrastructure",
         "Policy",
-        "Inference",
         "NVIDIA",
-        "Performance"
+        "Performance",
+        "Inference",
+        "Nvidia"
       ],
       "trajectory": "accelerating",
-      "signal_count": 95,
+      "signal_count": 152,
       "weekly_counts": [
-        1,
         4,
         2,
         2,
@@ -872,52 +802,17 @@
         2,
         1,
         1,
-        1
+        1,
+        2
       ],
       "key_events": [
         {
-          "date": "2026-04-29",
-          "event": "Apple MLR Presents Stochastic KV Routing for Adaptive Depth-Wise Cache Sharing"
-        },
-        {
-          "date": "2026-04-30",
-          "event": "OpenAI Scales Stargate: Building Compute Infrastructure for the Intelligence Age"
-        },
-        {
-          "date": "2026-05-01",
-          "event": "Google Cloud Revenue Surpasses $20B Driven by 800% YoY AI Product Growth"
-        },
-        {
-          "date": "2026-05-05",
-          "event": "DeepSeek V4 Pro/Flash Models Released with vLLM Optimization Patches"
-        },
-        {
-          "date": "2026-05-07",
-          "event": "OpenAI's New Multipath Reliable Connection (MRC) Protocol for Large-Scale AI Training"
-        },
-        {
-          "date": "2026-05-07",
-          "event": "First detected"
-        },
-        {
-          "date": "2026-05-08",
-          "event": "NVIDIA Research Unveils Guess-Verify-Refine: Hardware-Aware Sparse Attention for Faster Inference on Blackwell; OpenAI Releases GPT-Realtime-2 and New Voice Intelligence Models in API"
-        },
-        {
-          "date": "2026-05-08",
-          "event": "OpenAI Releases GPT-Realtime-2 and New Voice Intelligence Models in API"
-        },
-        {
-          "date": "2026-05-11",
-          "event": "KernelBench-X: Tsinghua Benchmark Reveals LLM-Generated GPU Kernel Correctness Depends on Task Structure"
-        },
-        {
-          "date": "2026-05-11",
-          "event": "NVIDIA Commits $40B+ in AI Equity Deals This Year, Dominating Supply Chain Lock-In"
-        },
-        {
           "date": "2026-05-11",
           "event": "Scalable: AI Margin Math Gets Messier for Major Tech Companies"
+        },
+        {
+          "date": "2026-05-11",
+          "event": "Cerebras AI Chip IPO Tests Public Market Appetite at $35B Valuation"
         },
         {
           "date": "2026-05-13",
@@ -926,6 +821,10 @@
         {
           "date": "2026-05-15",
           "event": "Google AI Edge + Arm SME2 Achieves 2x Faster On-Device Audio Generation; HuggingFace Crosses 1 Million Datasets Milestone"
+        },
+        {
+          "date": "2026-05-15",
+          "event": "Cerebras IPO Surges to $100B Market Cap: AI Chipmaker Redefines Inference Infrastructure; NVIDIA: Edge is Becoming Agent Host - NemoClaw and Jetson Strategy"
         },
         {
           "date": "2026-05-16",
@@ -938,6 +837,14 @@
         {
           "date": "2026-05-18",
           "event": "Codex Usage Spikes: Scale Issues Highlight Infrastructure Challenges"
+        },
+        {
+          "date": "2026-05-18",
+          "event": "MinT: Managed Infrastructure for Training & Serving Millions of LLMs via Low-Rank Adapters"
+        },
+        {
+          "date": "2026-05-18",
+          "event": "NVIDIA MemLens: Benchmarking Multimodal Long-Term Memory in Vision-Language Models; NVIDIA SANA-WM: Efficient Minute-Scale World Model with Hybrid Linear Diffusion Transformer"
         }
       ],
       "created": "2026-02-25"
@@ -956,15 +863,15 @@
         "AI Code Audit"
       ],
       "trajectory": "accelerating",
-      "signal_count": 83,
+      "signal_count": 84,
       "weekly_counts": [
-        0,
         1,
         0,
         1,
         0,
         1,
         2,
+        1,
         1,
         1,
         1,
@@ -1011,6 +918,10 @@
         {
           "date": "2026-05-17",
           "event": "Interpretability Study Reveals Mismatch Between Tool Recognition and Action in LLM Agents"
+        },
+        {
+          "date": "2026-05-18",
+          "event": "OpenAI Codex for Windows Sandbox: Security considerations for AI agent autonomy"
         }
       ],
       "created": "2026-02-25"
@@ -1029,9 +940,8 @@
         "AI Adoption"
       ],
       "trajectory": "accelerating",
-      "signal_count": 65,
+      "signal_count": 67,
       "weekly_counts": [
-        1,
         1,
         3,
         0,
@@ -1042,7 +952,8 @@
         2,
         1,
         0,
-        1
+        1,
+        2
       ],
       "key_events": [
         {
@@ -1100,6 +1011,10 @@
         {
           "date": "2026-05-18",
           "event": "Qwen3.6-27B/35B Models Hit HuggingFace Trending Post-Quantization"
+        },
+        {
+          "date": "2026-05-18",
+          "event": "SenseNova-U1: Unifying Multimodal Understanding and Generation with NEO-unify Architecture"
         }
       ],
       "created": "2026-02-25"
@@ -1108,19 +1023,18 @@
       "id": "generative_ai_for_creative_and_design_ap",
       "name": "Generative AI for Creative and Design Applications",
       "related_tags": [
-        "Computer Graphics",
-        "Quality Evaluation",
         "Content Creation",
-        "Startup Funding",
         "AI Creativity",
-        "Video Generation",
         "Design Tools",
-        "Generative AI"
+        "NVIDIA Research",
+        "Startup Funding",
+        "Video Generation",
+        "Meta",
+        "AR/VR"
       ],
       "trajectory": "accelerating",
-      "signal_count": 99,
+      "signal_count": 103,
       "weekly_counts": [
-        3,
         2,
         0,
         1,
@@ -1131,33 +1045,10 @@
         0,
         1,
         1,
-        5
+        5,
+        3
       ],
       "key_events": [
-        {
-          "date": "2026-04-28",
-          "event": "Carnegie Mellon University: Building a Precise Video Language with Human-AI Oversight"
-        },
-        {
-          "date": "2026-04-29",
-          "event": "Microsoft Research Proposes World-R1: Reinforcing 3D Constraints for Text-to-Video Generation"
-        },
-        {
-          "date": "2026-04-30",
-          "event": "Co-Director: Google's Hierarchical Multi-Agent Framework for Generative Video Storytelling"
-        },
-        {
-          "date": "2026-05-01",
-          "event": "Open-Source Open-Design Tool Emerges as Claude Design Alternative (8.4k Stars)"
-        },
-        {
-          "date": "2026-05-05",
-          "event": "ByteDance Seed & Princeton Release Advances in RL for Image Editing and Game-Playing VLMs; SenseNova-U1-8B-MoT: Any-to-Any Multimodal Model from SenseTime"
-        },
-        {
-          "date": "2026-05-05",
-          "event": "ByteDance Seed: RLHF-Based Image Editing via Verifier; InteractWeb-Bench for multimodal website generation; PhyCo physics-controlled motion generation"
-        },
         {
           "date": "2026-05-07",
           "event": "xAI Launches Image Generation Quality Mode on API: 300M+ Images Generated"
@@ -1189,6 +1080,14 @@
         {
           "date": "2026-05-18",
           "event": "Meta AI Releases Realiz3D: Photorealistic 3D Generation; Peking University VGGT-Edit: Feed-Forward 3D Scene Editing; Tsinghua Causal Forcing++: Real-Time Interactive Video; NVIDIA SANA-WM; Tsinghua InsightTok"
+        },
+        {
+          "date": "2026-05-18",
+          "event": "NVIDIA AnyFlow: Any-Step Video Diffusion Distillation for Efficient Video Generation"
+        },
+        {
+          "date": "2026-05-18",
+          "event": "First detected"
         }
       ],
       "created": "2026-02-26"
@@ -1279,72 +1178,14 @@
       "created": "2026-02-28"
     },
     {
-      "id": "apple_wearable_and_xr_strategy_renewal",
-      "name": "Apple Wearable and XR Strategy Renewal",
+      "id": "unified_multimodal_understanding_and_gen",
+      "name": "Unified Multimodal Understanding and Generation Models",
       "related_tags": [
-        "Pricing Strategy",
-        "Hardware",
-        "Wearable Strategy",
-        "AR Glasses",
-        "Meta",
-        "Smart Glasses",
-        "Consumer Hardware",
-        "Productivity"
-      ],
-      "trajectory": "fading",
-      "signal_count": 8,
-      "weekly_counts": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0,
-        0,
-        0,
-        0
-      ],
-      "key_events": [
-        {
-          "date": "2026-04-25",
-          "event": "First detected"
-        },
-        {
-          "date": "2026-04-26",
-          "event": "Apple Leadership Pivot in 2026 Raises Concerns Over Hardware Shift for AI Story"
-        },
-        {
-          "date": "2026-04-26",
-          "event": "First detected"
-        },
-        {
-          "date": "2026-04-27",
-          "event": "Specs Smart Glasses partners with Qualcomm on Snapdragon XR platform"
-        },
-        {
-          "date": "2026-04-27",
-          "event": "Enterprise smart glasses adoption accelerates: 50% of 30-person AI startup wears smart glasses daily"
-        },
-        {
-          "date": "2026-05-11",
-          "event": "Apple Siri Revamp May Be Overtaken by Claude Code and Codex as AI Assistants Evolve"
-        }
-      ],
-      "created": "2026-04-25"
-    },
-    {
-      "id": "ai_3d_generation_and_scene_editing_break",
-      "name": "AI 3D Generation and Scene Editing Breakthroughs",
-      "related_tags": [
-        "3D Generation",
-        "3D Editing",
-        "Meta",
-        "NVIDIA Research",
-        "Content Creation",
-        "AR/VR"
+        "Multimodal",
+        "Generation",
+        "Understanding",
+        "Architecture",
+        "Research"
       ],
       "trajectory": "accelerating",
       "signal_count": 1,

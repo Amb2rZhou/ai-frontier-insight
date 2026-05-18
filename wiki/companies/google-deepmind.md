@@ -2,7 +2,7 @@
 title: Google DeepMind
 type: company
 created: 2026-02-25
-updated: 2026-05-17
+updated: 2026-05-14
 ---
 
 # Google DeepMind
@@ -13,6 +13,7 @@ Google's unified AI research division, maker of [[gemini|Gemini]] and [[gemma|Ge
 
 - **2026-05-17**: Realistic User Simulators for Training AI Agents (Natasha Jaques et al.)
 - **2026-05-15**: Google AI Edge + Arm SME2 Achieves 2x Faster On-Device Audio Generation
+- **2026-05-14**: Google RubricEM: [[meta|Meta]]-RL with Rubric-Guided Policy for Deep Research Agents
 - **2026-05-13**: Perceptron Mk1: 80-90% Cheaper Video Analysis AI Model
 - **2026-05-13**: Google RubricEM: [[meta|Meta]]-RL for Deep Research Agents
 - **2026-05-13**: Google [[gemini|Gemini]] Intelligent Mouse Pointer Agent Prototype

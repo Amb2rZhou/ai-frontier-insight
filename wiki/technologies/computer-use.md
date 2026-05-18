@@ -2,7 +2,7 @@
 title: Computer Use
 type: technology
 created: 2026-02-26
-updated: 2026-05-13
+updated: 2026-05-14
 ---
 
 # Computer Use
@@ -11,6 +11,7 @@ AI agents that can directly control desktop and mobile interfaces — clicking, 
 
 ## Timeline
 
+- **2026-05-14**: ToolCUA: End-to-End Agent for Optimal GUI-Tool Path Orchestration by TongyiLab
 - **2026-05-13**: [[openai|OpenAI]] [[codex|Codex]] Computer Use Agent: Cross-App Background Operation
 - **2026-05-09**: Peekaboo 3.0 Launches Action-First macOS Computer Use Agent
 - **2026-04-17**: Study Reveals Safety Vulnerabilities in Computer-Use Agents from Benign Instructions · [Arxiv (Language, Intelligence, and Model Evaluation Lab)](https://huggingface.co/papers/2604.10577)

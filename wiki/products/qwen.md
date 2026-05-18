@@ -2,7 +2,7 @@
 title: Qwen
 type: product
 created: 2026-02-25
-updated: 2026-05-18
+updated: 2026-05-14
 ---
 
 # Qwen
@@ -12,6 +12,7 @@ updated: 2026-05-18
 ## Timeline
 
 - **2026-05-18**: Qwen3.6-27B/35B Models Hit [[hugging-face|HuggingFace]] Trending Post-Quantization
+- **2026-05-14**: Qwen-Image-VAE-2.0: High-Compression VAE with Semantic Conditioning for Image Generation
 - **2026-05-12**: [[openai|OpenAI]] and [[alibaba|Alibaba]] Qwen Launch Ambassador Programs for Developer Community
 - **2026-05-10**: vLLM v0.20.2 Patches DeepSeek V4 Sparse Attention and Qwen3-VL Bugs
 - **2026-05-05**: [[nvidia|NVIDIA]] & Qwen Release New Multimodal Models for On-Device and MoE Deployment

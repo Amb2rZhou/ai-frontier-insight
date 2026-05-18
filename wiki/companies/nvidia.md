@@ -2,7 +2,7 @@
 title: NVIDIA
 type: company
 created: 2026-02-25
-updated: 2026-05-18
+updated: 2026-05-14
 ---
 
 # NVIDIA
@@ -14,6 +14,7 @@ Dominant [[ai-hardware|AI hardware]] company, increasingly expanding into AI sof
 - **2026-05-18**: NVIDIA SANA-WM: Efficient Minute-Scale World Model with Hybrid Linear Diffusion Transformer
 - **2026-05-18**: NVIDIA MemLens: Benchmarking Multimodal Long-Term Memory in Vision-Language Models
 - **2026-05-15**: NVIDIA: Edge is Becoming Agent Host - NemoClaw and Jetson Strategy
+- **2026-05-14**: NVIDIA AnyFlow: Any-Step Video Diffusion Distillation for Efficient Video Generation
 - **2026-05-11**: Cerebras AI Chip IPO Tests Public Market Appetite at $35B Valuation
 - **2026-05-10**: NVIDIA Commits $40B+ in AI Equity Deals This Year, Dominating Supply Chain Lock-In
 - **2026-05-07**: Adobe Builds CX Enterprise Agent on NVIDIA NemoClaw: Enterprise Agent Strategy

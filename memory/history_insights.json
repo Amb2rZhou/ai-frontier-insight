@@ -1,66 +1,6 @@
 {
   "predictions": [
     {
-      "date": "2026-05-11T16:32:20.799149+08:00",
-      "prediction_text": "内容平台创作者工具可探索集成Peekaboo-like Agent，实现一键式图文编辑、跨平台发布、批量素材管理。",
-      "category": "ecosystem_shift",
-      "source_signal": "Peekaboo 3.0: Action-First macOS Computer Use Agent Gains Traction"
-    },
-    {
-      "date": "2026-05-11T16:32:20.804403+08:00",
-      "prediction_text": "社区平台的AI编辑/客服产品可探索将回复渲染为富HTML卡片，提升用户对AI输出的编辑与校对体验。",
-      "category": "ecosystem_shift",
-      "source_signal": "New Paradigm Shift: Using HTML Instead of Markdown as Agent Communication Canvas"
-    },
-    {
-      "date": "2026-05-11T16:32:20.807043+08:00",
-      "prediction_text": "内容平台的长文生成/文案改写/多风格迁移场景可评估Cola DLM方案，降低AI内容同质化风险。",
-      "category": "research_breakthrough",
-      "source_signal": "ByteDance Seed Releases Continuous Latent Diffusion Language Model (Cola DLM)"
-    },
-    {
-      "date": "2026-05-11T16:32:20.809601+08:00",
-      "prediction_text": "搜索产品的查询分词与语义匹配模块可测试TIDE的EmbeddingMemory组件，改善低频意图召回。",
-      "category": "research_breakthrough",
-      "source_signal": "Apple Researchers Propose TIDE: EmbeddingMemory to Fix Token Collapse in LLMs"
-    },
-    {
-      "date": "2026-05-11T16:32:20.812286+08:00",
-      "prediction_text": "社区平台的用户历史总结、商品长评摘要、客服对话记忆可优先评估此压缩方案。",
-      "category": "research_breakthrough",
-      "source_signal": "Tencent Proposes MiA-Signature: Compressed Global Activation for Long-Context Understanding"
-    },
-    {
-      "date": "2026-05-11T16:32:20.814619+08:00",
-      "prediction_text": "电商平台的快速图像生成管线可评估此方法，实现秒级商品图定制，降低AIGC算力成本。",
-      "category": "research_breakthrough",
-      "source_signal": "Alibaba Proposes Continuous-Time Distribution Matching for Few-Step Diffusion Distillation"
-    },
-    {
-      "date": "2026-05-11T16:32:20.816894+08:00",
-      "prediction_text": "内容平台的AI客服/创作助手可探索Skill1框架，让Agent在电商退换货、内容审核等场景自动进化策略。",
-      "category": "research_breakthrough",
-      "source_signal": "Skill1: Unified Framework for Skill-Augmented Agents via Reinforcement Learning"
-    },
-    {
-      "date": "2026-05-11T16:32:20.819164+08:00",
-      "prediction_text": "搜索/推荐系统团队值得探索此稀疏检索替代方案，提升复杂查询的答案准确率与响应速度。",
-      "category": "research_breakthrough",
-      "source_signal": "Direct Corpus Interaction: Rethinking Retrieval for Agentic Search"
-    },
-    {
-      "date": "2026-05-11T16:32:20.821097+08:00",
-      "prediction_text": "内容/电商平台可考虑开放标准化Agent API，允许Codex类Agent安全执行发布/编辑/数据分析操作。",
-      "category": "strategic_move",
-      "source_signal": "OpenAI Codex Growth Explodes: 46M New Installs in a Single Day"
-    },
-    {
-      "date": "2026-05-11T16:32:20.823127+08:00",
-      "prediction_text": "社区平台的AI内容推荐助手可探索SkillOS，让Agent根据用户反馈自动优化内容策划与分发策略。",
-      "category": "research_breakthrough",
-      "source_signal": "SkillOS: Self-Evolving Agents Learn Skill Curation via RL"
-    },
-    {
       "date": "2026-05-11T16:42:37.238810+08:00",
       "prediction_text": "内容平台的创作者工具可探索集成Peekaboo-like Agent，实现一键式图文编辑、跨平台发布、批量素材管理。",
       "category": "ecosystem_shift",
@@ -599,6 +539,66 @@
       "prediction_text": "内容平台可考虑多模型供应商策略或自研/微调中小模型，降低对单一闭源模型的依赖与锁定风险。",
       "category": "ecosystem_shift",
       "source_signal": "Anthropic and OpenAI Command 89% of AI Startup Revenues, Widening Gap"
+    },
+    {
+      "date": "2026-05-18T16:15:03.984657+08:00",
+      "prediction_text": "内容平台的客服/创作者助手Agent可参考沙箱方案，为不同权限用户提供分级Agent能力。",
+      "category": "infrastructure",
+      "source_signal": "OpenAI Codex for Windows Sandbox: Balancing Agent Autonomy and Security"
+    },
+    {
+      "date": "2026-05-18T16:15:03.992407+08:00",
+      "prediction_text": "社区/电商平台可评估Ollama整合，为高隐私敏感场景（如本地内容审核）提供离线Agent方案。",
+      "category": "open_source",
+      "source_signal": "Ollama v0.24 Supports Codex App, Deepening Local LLM Integration with OpenAI's Agent Ecosystem"
+    },
+    {
+      "date": "2026-05-18T16:15:03.997619+08:00",
+      "prediction_text": "搜索推荐团队可探索128K+上下文VLM用于用户笔记的全局意图理解与长序列兴趣建模。",
+      "category": "research_breakthrough",
+      "source_signal": "ByteDance Seed Publishes Long-Context VLM Training Method with 128K+ Generalization"
+    },
+    {
+      "date": "2026-05-18T16:15:04.002189+08:00",
+      "prediction_text": "内容平台创作工具可评估AnyFlow集成，探索用户输入提示即生成短视频草稿的体验。",
+      "category": "research_breakthrough",
+      "source_signal": "NVIDIA AnyFlow: Any-Step Video Diffusion Distillation for Efficient Video Generation"
+    },
+    {
+      "date": "2026-05-18T16:15:04.005895+08:00",
+      "prediction_text": "社区平台可考虑将RubricEM用于用户生成研究报告类内容的质量评分与智能推荐。",
+      "category": "research_breakthrough",
+      "source_signal": "Google RubricEM: Meta-RL with Rubric-Guided Policy for Deep Research Agents"
+    },
+    {
+      "date": "2026-05-18T16:15:04.009119+08:00",
+      "prediction_text": "内容平台的图文生成和风格迁移管线可评估Qwen-Image-VAE-2.0，降低端侧部署成本。",
+      "category": "open_source",
+      "source_signal": "Qwen-Image-VAE-2.0: High-Compression VAE with Semantic Conditioning for Image Generation"
+    },
+    {
+      "date": "2026-05-18T16:15:04.012076+08:00",
+      "prediction_text": "电商/社区平台可探索ToolCUA用于自动发布商品、管理活动页、批量用户运营等场景。",
+      "category": "research_breakthrough",
+      "source_signal": "ToolCUA: End-to-End Agent for Optimal GUI-Tool Path Orchestration by TongyiLab"
+    },
+    {
+      "date": "2026-05-18T16:15:04.014647+08:00",
+      "prediction_text": "内容平台可评估SenseNova-U1方向，探索同一模型完成笔记理解、配图生成与风格迁移。",
+      "category": "research_breakthrough",
+      "source_signal": "SenseNova-U1: Unifying Multimodal Understanding and Generation with NEO-unify Architecture"
+    },
+    {
+      "date": "2026-05-18T16:15:04.017214+08:00",
+      "prediction_text": "社区/电商平台可参考MinT架构，建设个性化Adapters服务，按用户偏好微调推荐排序。",
+      "category": "infrastructure",
+      "source_signal": "MinT: Managed Infrastructure for Training & Serving Millions of LLMs via Low-Rank Adapters"
+    },
+    {
+      "date": "2026-05-18T16:15:04.019718+08:00",
+      "prediction_text": "电商平台可探索MCP-Cosmos用于购物助手Agent，在用户多步比价/搭配场景中预判需求。",
+      "category": "research_breakthrough",
+      "source_signal": "MCP-Cosmos: World Model-Augmented Agents for Complex Task Execution by IBM Research"
     }
   ]
 }
