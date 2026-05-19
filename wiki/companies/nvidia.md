@@ -2,7 +2,7 @@
 title: NVIDIA
 type: company
 created: 2026-02-25
-updated: 2026-05-14
+updated: 2026-05-19
 ---
 
 # NVIDIA
@@ -11,6 +11,8 @@ Dominant [[ai-hardware|AI hardware]] company, increasingly expanding into AI sof
 
 ## Timeline
 
+- **2026-05-19**: NVIDIA Fine-Tuning Cosmos Predict 2.5 for [[embodied-ai|Robot]] Video Generation with LoRA/DoRA
+- **2026-05-19**: [[google-deepmind|Google]] and Blackstone Launch TPU Cloud Provider
 - **2026-05-18**: NVIDIA SANA-WM: Efficient Minute-Scale World Model with Hybrid Linear Diffusion Transformer
 - **2026-05-18**: NVIDIA MemLens: Benchmarking Multimodal Long-Term Memory in Vision-Language Models
 - **2026-05-15**: NVIDIA: Edge is Becoming Agent Host - NemoClaw and Jetson Strategy

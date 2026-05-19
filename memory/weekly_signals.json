@@ -412,6 +412,210 @@
           42
         ]
       }
+    ],
+    "2026-05-19": [
+      {
+        "title": "Google and Blackstone Launch TPU Cloud Provider",
+        "signal_text": "Google 与黑石集团联合成立新的云计算公司，专门出租 Google TPU 给 AI 开发者。此举旨在扩展 TPU 的覆盖范围，与 NVIDIA GPU 云形成竞争。据 The Information 报道。",
+        "signal_strength": 0.9,
+        "sources": [
+          {
+            "name": "The Information",
+            "url": "https://www.theinformation.com/briefings/google-blackstone-create-tpu-cloud-provider"
+          }
+        ],
+        "tags": [
+          "Google",
+          "基础设施",
+          "TPU",
+          "云服务"
+        ],
+        "raw_item_indices": [
+          2
+        ]
+      },
+      {
+        "title": "Anthropic Acquires SDK Automation Startup Stainless",
+        "signal_text": "Anthropic 收购了纽约初创公司 Stainless，该公司专注于自动化 SDK 创建和维护，客户包括 OpenAI、Google 和 Cloudflare。此次收购将强化 Anthropic 在开发者工具链上的布局，降低 API 对接成本，加速企业级 AI 产品落地。据 TechCrunch 报道。",
+        "signal_strength": 0.85,
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/"
+          }
+        ],
+        "tags": [
+          "Anthropic",
+          "并购",
+          "开发者工具",
+          "API生态"
+        ],
+        "raw_item_indices": [
+          27
+        ]
+      },
+      {
+        "title": "Meta Shifts Thousands of Workers to AI-Focused Groups Ahead of Layoffs",
+        "signal_text": "Meta 计划裁减约 10% 员工（近 78000 人），同时将数千名员工调入新建的 AI 专项组，以重构组织架构适应 AI 战略。据 The Information 报道。",
+        "signal_strength": 0.8,
+        "sources": [
+          {
+            "name": "The Information",
+            "url": "https://www.theinformation.com/briefings/meta-shifts-thousands-workers-new-ai-groups-layoffs-loom"
+          }
+        ],
+        "tags": [
+          "Meta",
+          "组织变革",
+          "裁员",
+          "AI优先"
+        ],
+        "raw_item_indices": [
+          6
+        ]
+      },
+      {
+        "title": "DeepSeek-V4-Pro Trends on HuggingFace as Open-Weight Model",
+        "signal_text": "DeepSeek-V4-Pro 在 HuggingFace 上获得 4041 likes 和超 340 万下载量，成为近期最受关注的开源文本生成模型之一，采用 MIT 许可和 FP8 量化。社区反响强烈，标志着中国开源大模型在全球的持续影响力。",
+        "signal_strength": 0.8,
+        "sources": [
+          {
+            "name": "HuggingFace",
+            "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro"
+          }
+        ],
+        "tags": [
+          "DeepSeek",
+          "开源模型",
+          "趋势",
+          "HuggingFace"
+        ],
+        "raw_item_indices": [
+          101
+        ]
+      },
+      {
+        "title": "Context Architecture Emerges as Agentic AI Replaces Traditional RAG",
+        "signal_text": "Redis 指出，随着 agentic AI 系统将企业检索推向极限，传统的 RAG 正在被更全面的“上下文架构”取代。新架构解决数据分散、过期和不一致导致的 Agent 失败问题。据 VentureBeat 报道。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/data/context-architecture-is-replacing-rag-as-agentic-ai-pushes-enterprise-retrieval-to-its-limits"
+          }
+        ],
+        "tags": [
+          "RAG",
+          "上下文架构",
+          "Agent",
+          "企业检索"
+        ],
+        "raw_item_indices": [
+          11
+        ]
+      },
+      {
+        "title": "Supply-Chain Attacks on AI Model Release Pipelines Exposed",
+        "signal_text": "50天内发生4起针对 OpenAI、Anthropic 和 Meta 的供应链攻击，涉及发布管道、CI runner、依赖挂钩和包装网关。攻击不针对模型本身，而是暴露了 AI 模型发布流程的安全盲区。据 VentureBeat 报道。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/security/supply-chain-incidents-openai-anthropic-meta-release-surface-vendor-questionnaire-matrix"
+          }
+        ],
+        "tags": [
+          "供应链安全",
+          "模型发布",
+          "OpenAI",
+          "Anthropic",
+          "Meta"
+        ],
+        "raw_item_indices": [
+          34
+        ]
+      },
+      {
+        "title": "FashionChameleon: Real-Time Interactive Garment Video Customization from Alibaba",
+        "content": "阿里巴巴团队提出 FashionChameleon，通过 teacher-student distillation 和 in-context learning 实现实时、多衣物视频定制，保持运动一致性。对电商内容创作（如商品展示视频生成）有直接应用潜力。论文发布于 Arxiv（阿里达摩院）。\n",
+        "signal_text": "阿里巴巴团队提出 FashionChameleon，通过 teacher-student distillation 和 in-context learning 实现实时、多衣物视频定制，保持运动一致性。对电商内容创作（如商品展示视频生成）有直接应用潜力。论文发布于 Arxiv（阿里达摩院）。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "Arxiv via HuggingFace Papers",
+            "url": "https://huggingface.co/papers/2605.15824"
+          }
+        ],
+        "tags": [
+          "多模态生成",
+          "视频定制",
+          "电商",
+          "阿里巴巴"
+        ],
+        "raw_item_indices": [
+          72
+        ]
+      },
+      {
+        "title": "LangSmith Engine Launches Automated Agent Debugging Loop",
+        "signal_text": "LangChain 旗下 LangSmith 推出“Engine”功能，可自动关闭 agent 调试循环，降低工程师发现 agent 错误的时间成本。但多模型企业仍需中立监控层。据 VentureBeat 报道。",
+        "signal_strength": 0.7,
+        "sources": [
+          {
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/orchestration/langsmith-engine-closes-the-agent-debugging-loop-automatically-but-multi-model-enterprises-still-need-a-neutral-layer"
+          }
+        ],
+        "tags": [
+          "LangChain",
+          "Agent调试",
+          "LLMOps",
+          "企业AI"
+        ],
+        "raw_item_indices": [
+          37
+        ]
+      },
+      {
+        "title": "NVIDIA Fine-Tuning Cosmos Predict 2.5 for Robot Video Generation with LoRA/DoRA",
+        "signal_text": "NVIDIA 发布博客教程，展示如何使用 LoRA 和 DoRA 微调 Cosmos Predict 2.5 视频生成模型，专门用于机器人视频生成任务。降低了视频生成模型的定制门槛，对具身智能场景的仿真与训练有重要意义。",
+        "signal_strength": 0.7,
+        "sources": [
+          {
+            "name": "HuggingFace Blog (NVIDIA)",
+            "url": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation"
+          }
+        ],
+        "tags": [
+          "NVIDIA",
+          "视频生成",
+          "LoRA",
+          "机器人"
+        ],
+        "raw_item_indices": [
+          39
+        ]
+      },
+      {
+        "title": "IBM Research and HuggingFace Launch Open Agent Leaderboard",
+        "signal_text": "IBM Research 联合 HuggingFace 发布 Open Agent Leaderboard，为 AI Agent 提供标准化评测基准，推动 Agent 生态的透明化和可比较性。博客发布于 HuggingFace。",
+        "signal_strength": 0.65,
+        "sources": [
+          {
+            "name": "HuggingFace Blog",
+            "url": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard"
+          }
+        ],
+        "tags": [
+          "Agent评测",
+          "开源",
+          "IBM",
+          "HuggingFace"
+        ],
+        "raw_item_indices": [
+          42
+        ]
+      }
     ]
   },
   "archived_weeks": [

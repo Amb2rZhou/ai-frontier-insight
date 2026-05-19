@@ -2,7 +2,7 @@
 title: OpenAI
 type: company
 created: 2026-02-25
-updated: 2026-05-14
+updated: 2026-05-19
 ---
 
 # OpenAI
@@ -11,6 +11,8 @@ The leading commercial AI lab, maker of [[gpt|GPT]] models, ChatGPT, [[codex|Cod
 
 ## Timeline
 
+- **2026-05-19**: Supply-Chain Attacks on AI Model Release Pipelines Exposed
+- **2026-05-19**: [[anthropic|Anthropic]] Acquires SDK Automation Startup Stainless
 - **2026-05-18**: [[anthropic|Anthropic]] and OpenAI Command 89% of AI Startup Revenues, Widening Gap
 - **2026-05-18**: [[codex|Codex]] Usage Spikes: OpenAI's [[agent-frameworks|Agentic]] Coding from Phone Sees Scale Issues
 - **2026-05-17**: OpenAI Acquires Voice-Cloning Startup Weights.GG
@@ -22,7 +24,7 @@ The leading commercial AI lab, maker of [[gpt|GPT]] models, ChatGPT, [[codex|Cod
 - **2026-05-16**: [[codex|Codex]] Mobile Launch and [[gpt|GPT-5]].5 Performance Incident
 - **2026-05-15**: OpenAI [[codex|Codex]] Goes Mobile: Full [[agent-frameworks|Agentic]] Coding from [[gpt|ChatGPT]] App
 - **2026-05-15**: [[anthropic|Anthropic]] Picks Co-Leads for $900 Billion Valuation Funding Round
-- **2026-05-14**: [[ollama|Ollama]] v0.24 Supports [[codex|Codex]] App, Deepening Local LLM Integration with OpenAI's Agent Ecosystem
+- **2026-05-14**: [[ollama|Ollama]] v0.24 Supports [[codex|Codex]] App, Deepening Local LLM Integration with OpenAI's [[agent-ecosystem|Agent Ecosystem]]
 - **2026-05-14**: OpenAI [[codex|Codex]] for Windows Sandbox: Balancing Agent Autonomy and Security
 - **2026-05-13**: Perceptron Mk1: 80-90% Cheaper Video Analysis AI Model
 - **2026-05-13**: OpenAI [[codex|Codex]] [[computer-use|Computer Use]] Agent: Cross-App Background Operation

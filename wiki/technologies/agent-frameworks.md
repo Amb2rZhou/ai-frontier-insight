@@ -2,7 +2,7 @@
 title: Agent Frameworks
 type: technology
 created: 2026-02-25
-updated: 2026-05-18
+updated: 2026-05-19
 ---
 
 # Agent Frameworks
@@ -11,6 +11,8 @@ The rapidly evolving ecosystem of tools, SDKs, and platforms for building autono
 
 ## Timeline
 
+- **2026-05-19**: IBM Research and [[hugging-face|HuggingFace]] Launch Open Agent Leaderboard
+- **2026-05-19**: Context Architecture Emerges as Agentic AI Replaces Traditional [[rag|RAG]]
 - **2026-05-18**: [[codex|Codex]] Usage Spikes: [[openai|OpenAI]]'s Agentic Coding from Phone Sees Scale Issues
 - **2026-05-18**: Publicis Acquires LiveRamp for $2.5B in Agentic AI Data Play
 - **2026-05-17**: Realistic User Simulators for Training AI Agents (Natasha Jaques et al.)

@@ -20,7 +20,7 @@ updated: 2026-05-14
 - **2026-05-16**: Codex Mobile Launch and [[gpt|GPT-5]].5 Performance Incident
 - **2026-05-15**: HTML-Anything: [[agent-frameworks|Agentic]] HTML Editor Goes Viral on GitHub
 - **2026-05-15**: [[openai|OpenAI]] Codex Goes Mobile: Full [[agent-frameworks|Agentic]] Coding from [[gpt|ChatGPT]] App
-- **2026-05-14**: [[ollama|Ollama]] v0.24 Supports Codex App, Deepening Local LLM Integration with [[openai|OpenAI]]'s Agent Ecosystem
+- **2026-05-14**: [[ollama|Ollama]] v0.24 Supports Codex App, Deepening Local LLM Integration with [[openai|OpenAI]]'s [[agent-ecosystem|Agent Ecosystem]]
 - **2026-05-14**: [[openai|OpenAI]] Codex for Windows Sandbox: Balancing Agent Autonomy and Security
 - **2026-05-13**: [[openai|OpenAI]] Codex [[computer-use|Computer Use]] Agent: Cross-App Background Operation
 - **2026-05-12**: [[openai|OpenAI]] Launches Daybreak Security AI Initiative to Rival [[claude|Claude]] Mythos

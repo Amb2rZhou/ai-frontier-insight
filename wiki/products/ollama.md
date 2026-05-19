@@ -11,7 +11,7 @@ Popular tool for running [[open-source-models|open-source]] LLMs locally. Key en
 
 ## Timeline
 
-- **2026-05-14**: Ollama v0.24 Supports [[codex|Codex]] App, Deepening Local LLM Integration with [[openai|OpenAI]]'s Agent Ecosystem
+- **2026-05-14**: Ollama v0.24 Supports [[codex|Codex]] App, Deepening Local LLM Integration with [[openai|OpenAI]]'s [[agent-ecosystem|Agent Ecosystem]]
 - **2026-05-03**: Ollama v0.23.0 Supports [[claude|Claude]] Desktop as Launch Target, Expanding Local [[agent-frameworks|AI Agent]] Workflows
 - **2026-04-29**: Poolside Releases Laguna XS.2 Open Model for Local [[agent-frameworks|Agentic]] Coding
 - **2026-04-29**: [[nvidia|NVIDIA]] Releases Nemotron 3 Nano Omni: Open-Source 30B Multimodal MoE for Documents, Audio and Video

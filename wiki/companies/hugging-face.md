@@ -2,7 +2,7 @@
 title: Hugging Face
 type: company
 created: 2026-02-25
-updated: 2026-05-14
+updated: 2026-05-19
 ---
 
 
@@ -12,6 +12,8 @@ The central platform for [[open-source-models|open-source]] AI model hosting, da
 
 ## Timeline
 
+- **2026-05-19**: IBM Research and HuggingFace Launch Open Agent Leaderboard
+- **2026-05-19**: DeepSeek-V4-Pro Trends on HuggingFace as Open-Weight Model
 - **2026-05-18**: Qwen3.6-27B/35B Models Hit HuggingFace Trending Post-Quantization
 - **2026-05-17**: TencentARC Pixal3D: Image-to-3D Model from [[tencent|Tencent]] AI Lab
 - **2026-05-15**: HuggingFace Crosses 1 Million Datasets Milestone

@@ -2,7 +2,7 @@
 title: Google DeepMind
 type: company
 created: 2026-02-25
-updated: 2026-05-14
+updated: 2026-05-19
 ---
 
 # Google DeepMind
@@ -11,6 +11,8 @@ Google's unified AI research division, maker of [[gemini|Gemini]] and [[gemma|Ge
 
 ## Timeline
 
+- **2026-05-19**: [[anthropic|Anthropic]] Acquires SDK Automation Startup Stainless
+- **2026-05-19**: Google and Blackstone Launch TPU Cloud Provider
 - **2026-05-17**: Realistic User Simulators for Training AI Agents (Natasha Jaques et al.)
 - **2026-05-15**: Google AI Edge + Arm SME2 Achieves 2x Faster On-Device Audio Generation
 - **2026-05-14**: Google RubricEM: [[meta|Meta]]-RL with Rubric-Guided Policy for Deep Research Agents

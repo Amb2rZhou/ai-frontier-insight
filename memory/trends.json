@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-18T16:15:26.907991+08:00",
+  "last_updated": "2026-05-19T10:33:00.516918+08:00",
   "trends": [
     {
       "id": "ai_safety_pivot_and_accelerated_agi_time",
@@ -108,10 +108,9 @@
         "Business Models"
       ],
       "trajectory": "accelerating",
-      "signal_count": 94,
+      "signal_count": 96,
       "weekly_counts": [
         2,
-        2,
         1,
         1,
         1,
@@ -121,7 +120,8 @@
         1,
         1,
         1,
-        3
+        3,
+        2
       ],
       "key_events": [
         {
@@ -275,6 +275,10 @@
         {
           "date": "2026-05-18",
           "event": "Ollama v0.24 Supports Codex App, Deepening Local LLM Integration with OpenAI's Agent Ecosystem"
+        },
+        {
+          "date": "2026-05-19",
+          "event": "IBM Research and HuggingFace Launch Open Agent Leaderboard"
         }
       ],
       "created": "2026-02-25"
@@ -295,7 +299,6 @@
       "trajectory": "accelerating",
       "signal_count": 214,
       "weekly_counts": [
-        2,
         4,
         2,
         2,
@@ -306,7 +309,8 @@
         9,
         3,
         2,
-        2
+        2,
+        0
       ],
       "key_events": [
         {
@@ -360,17 +364,17 @@
       "id": "ai_research_acceleration_in_reasoning_an",
       "name": "AI Research Acceleration in Reasoning and Efficiency",
       "related_tags": [
-        "Multimodal AI",
         "Efficiency",
-        "Reasoning",
-        "Foundation Models",
-        "Research",
-        "AI Research",
+        "Model Efficiency",
+        "Europe",
         "Mathematical Reasoning",
+        "Research",
+        "Foundation Models",
+        "AI Research",
         "Scientific Discovery"
       ],
       "trajectory": "accelerating",
-      "signal_count": 153,
+      "signal_count": 181,
       "weekly_counts": [
         2,
         2,
@@ -387,96 +391,12 @@
       ],
       "key_events": [
         {
-          "date": "2026-04-19",
-          "event": "ByteDance Researchers Propose LeapAlign for Efficient Flow Matching Fine-Tuning; Apple Researchers Publish 'Attention to Mamba' Paper"
-        },
-        {
-          "date": "2026-04-20",
-          "event": "Schmidhuber Presents Keynote on Neural World Model Boom"
-        },
-        {
-          "date": "2026-04-21",
-          "event": "Unsloth AI Claims SOTA in Gemma 4 Quantization with GGUFs; Alibaba Researchers Address SNR-t Bias in Diffusion Models"
-        },
-        {
-          "date": "2026-04-22",
-          "event": "MIT Researchers Release 'MathNet', a Large-Scale Multimodal Math Reasoning Benchmark"
-        },
-        {
-          "date": "2026-04-23",
-          "event": "Salesforce AI research addresses calibration issue in on-policy distillation"
-        },
-        {
-          "date": "2026-04-24",
-          "event": "Chelsea Finn Lab: GiantsBench Benchmark for Scientific Discovery by LLMs; Meta AI Research: Scaling Test-Time Compute for Agentic Coding"
-        },
-        {
-          "date": "2026-04-25",
-          "event": "OpenAI's GPT-5.5 Pro Proves New Ramsey Number Result in Combinatorics; Qwen3.6-27B Running Locally on MacBook Pro Approaches Claude Opus Quality"
-        },
-        {
-          "date": "2026-04-25",
-          "event": "First detected"
-        },
-        {
-          "date": "2026-04-26",
-          "event": "Meta AI Research Evolves LLM Ecosystems for Dynamic Orchestration at ICLR 2026"
-        },
-        {
-          "date": "2026-04-27",
-          "event": "Image generation pretraining proven effective for generalist vision learning"
-        },
-        {
-          "date": "2026-04-27",
-          "event": "Multi-Paper Revival of Continuous Methods for Language Diffusion Models; Stanford Chelsea Finn Discusses Long-Term Memory at ICLR"
-        },
-        {
-          "date": "2026-04-28",
-          "event": "New AI Framework Auto-Optimizes Training Data, Architectures and Algorithms, Outperforming Humans"
-        },
-        {
-          "date": "2026-04-29",
-          "event": "Microsoft Research Proposes World-R1: Reinforcing 3D Constraints for Text-to-Video Generation; Stanford NLP Proposes SLIDERS: Structured Reasoning for Scalable QA over Long Document Sets; Apple MLR Presents Stochastic KV Routing for Adaptive Depth-Wise Cache Sharing"
-        },
-        {
-          "date": "2026-04-30",
-          "event": "Meta Proposes Sapiens2: High-Resolution Transformer for Human-Centric Vision"
-        },
-        {
-          "date": "2026-04-30",
-          "event": "Alibaba Qwen Releases FlashQLA: High-Performance Linear Attention for Device-Side Agentic AI"
-        },
-        {
-          "date": "2026-05-01",
-          "event": "PKU-YuanGroup Proposes TIDE: Cross-Architecture Distillation for Diffusion LLMs"
-        },
-        {
-          "date": "2026-05-05",
-          "event": "ByteDance Seed & Princeton Release Advances in RL for Image Editing and Game-Playing VLMs; SenseNova-U1-8B-MoT: Any-to-Any Multimodal Model from SenseTime"
-        },
-        {
-          "date": "2026-05-05",
-          "event": "RoundPipe efficient LLM fine-tuning on consumer GPUs"
-        },
-        {
-          "date": "2026-05-06",
-          "event": "Google Launches Multimodal File Search in Gemini API with Matryoshka Embedding Efficiency; Meta's IKBO for Large-Scale Recommendation System Inference"
-        },
-        {
-          "date": "2026-05-07",
-          "event": "Meta Superintelligence Lab Publishes ProgramBench: Can AI Rebuild Real-World Programs from Scratch?"
-        },
-        {
-          "date": "2026-05-08",
-          "event": "Sakana AI Trains 7B Model as RL Conductor to Orchestrate GPT-5, Claude Sonnet 4, Gemini 2.5 Pro; NVIDIA Research Unveils Guess-Verify-Refine: Hardware-Aware Sparse Attention for Faster Inference on Blackwell"
+          "date": "2026-05-11",
+          "event": "Local AI Boom: 176K Public GGUF Models on Hugging Face, Monthly Creation Doubles"
         },
         {
           "date": "2026-05-11",
-          "event": "ByteDance Seed Proposes Continuous Latent Diffusion Language Model (Cola DLM); Apple Researchers Propose TIDE to Address LLM Token Collapse via Embedding Memory"
-        },
-        {
-          "date": "2026-05-11",
-          "event": "vLLM v0.20.2 Patches DeepSeek V4 Sparse Attention and Qwen3-VL Bugs"
+          "event": "OpenSquilla: Token-Efficient AI Agent with Higher Intelligence Density"
         },
         {
           "date": "2026-05-12",
@@ -485,6 +405,14 @@
         {
           "date": "2026-05-13",
           "event": "Microsoft Research Rebellious Student: Self-Distillation for Reasoning Exploration; Nous Research Lighthouse Attention: Subquadratic Wrapper for Long-Context Pretraining; TabPFN-3: Pretrained Tabular Foundation Model Released"
+        },
+        {
+          "date": "2026-05-13",
+          "event": "Perceptron Mk1: 80-90% Cheaper Video Analysis AI Model"
+        },
+        {
+          "date": "2026-05-15",
+          "event": "IBM Granite Embedding Multilingual R2: Best Sub-100M Retrieval Quality with 32K Context"
         },
         {
           "date": "2026-05-16",
@@ -497,6 +425,10 @@
         {
           "date": "2026-05-18",
           "event": "ByteDance Seed Publishes Long-Context VLM Training Method with 128K+ Generalization"
+        },
+        {
+          "date": "2026-05-18",
+          "event": "Qwen-Image-VAE-2.0: High-Compression VAE with Semantic Conditioning for Image Generation"
         }
       ],
       "created": "2026-02-25"
@@ -514,11 +446,9 @@
         "Google",
         "Talent"
       ],
-      "trajectory": "fading",
-      "signal_count": 43,
+      "trajectory": "accelerating",
+      "signal_count": 45,
       "weekly_counts": [
-        0,
-        0,
         1,
         0,
         0,
@@ -528,6 +458,8 @@
         0,
         1,
         0,
+        0,
+        2,
         0
       ],
       "key_events": [
@@ -570,6 +502,14 @@
         {
           "date": "2026-05-12",
           "event": "Ilya Sutskever Testifies at Musk v. Altman Trial; Reveals $7B Stake and Defense of OpenAI"
+        },
+        {
+          "date": "2026-05-19",
+          "event": "Anthropic Acquires SDK Automation Startup Stainless"
+        },
+        {
+          "date": "2026-05-19",
+          "event": "Meta Shifts Thousands of Workers to AI-Focused Groups Ahead of Layoffs"
         }
       ],
       "created": "2026-02-25"
@@ -588,9 +528,8 @@
         "Video Generation"
       ],
       "trajectory": "accelerating",
-      "signal_count": 232,
+      "signal_count": 235,
       "weekly_counts": [
-        1,
         3,
         2,
         2,
@@ -601,6 +540,7 @@
         1,
         8,
         2,
+        3,
         3
       ],
       "key_events": [
@@ -651,127 +591,10 @@
         {
           "date": "2026-05-18",
           "event": "OpenAI Codex for Windows Sandbox: Balancing Agent Autonomy and Security"
-        }
-      ],
-      "created": "2026-02-25"
-    },
-    {
-      "id": "efficient_and_compressed_ai_model_innova",
-      "name": "Efficient and Compressed AI Model Innovation",
-      "related_tags": [
-        "Model Efficiency",
-        "Open Source",
-        "Startups",
-        "Europe"
-      ],
-      "trajectory": "accelerating",
-      "signal_count": 28,
-      "weekly_counts": [
-        1,
-        1,
-        1,
-        2,
-        1,
-        2,
-        1,
-        1,
-        0,
-        1,
-        1,
-        2
-      ],
-      "key_events": [
-        {
-          "date": "2026-02-25",
-          "event": "First detected"
         },
         {
-          "date": "2026-02-25",
-          "event": "GitHub project runs 1B parameter LLM on $10 board; Multiverse Computing compressed model release"
-        },
-        {
-          "date": "2026-02-25",
-          "event": "Qwen 3.5 Medium Model Series shows architectural efficiency gains"
-        },
-        {
-          "date": "2026-02-25",
-          "event": "Qwen releases new MoE model series; Spanish startup Multiverse Computing releases free compressed AI model"
-        },
-        {
-          "date": "2026-02-25",
-          "event": "Spanish startup Multiverse Computing releases free compressed AI model; Qwen 3.5 Medium Model Series"
-        },
-        {
-          "date": "2026-02-28",
-          "event": "Sakana AI introduces Doc-to-LoRA for instant document compression into model weights"
-        },
-        {
-          "date": "2026-03-03",
-          "event": "GitHub Trending: Timber - Ollama for Classical ML models with 336x speedup"
-        },
-        {
-          "date": "2026-03-05",
-          "event": "Microsoft releases Phi-4-Reasoning-Vision-15B with adaptive computation"
-        },
-        {
-          "date": "2026-03-07",
-          "event": "MIT research: KV cache compaction cuts LLM memory 50x without accuracy loss"
-        },
-        {
-          "date": "2026-03-11",
-          "event": "Unsloth AI Releases Comprehensive Repo with 250+ LLM Training Notebooks"
-        },
-        {
-          "date": "2026-04-24",
-          "event": "Unsloth Achieves 2-bit Qwen3.6-27B GGUF with Agentic QA Capability on 12GB RAM"
-        },
-        {
-          "date": "2026-04-25",
-          "event": "Google NPU Unlocking with LiteRT Delivers On-Device AI Performance Leap; Qwen3.6-27B Running Locally on MacBook Pro Approaches Claude Opus Quality"
-        },
-        {
-          "date": "2026-04-26",
-          "event": "Amazon Proposes 'Expert Upcycling' to Improve MoE Model Efficiency"
-        },
-        {
-          "date": "2026-04-30",
-          "event": "Alibaba Qwen Releases FlashQLA: High-Performance Linear Attention for Device-Side Agentic AI"
-        },
-        {
-          "date": "2026-05-05",
-          "event": "LenVM scalable token-level length modeling for LLMs"
-        },
-        {
-          "date": "2026-05-07",
-          "event": "Unsloth & NVIDIA Collaboration Achieves 25% Faster LLM Training on Consumer GPUs"
-        },
-        {
-          "date": "2026-05-08",
-          "event": "Zyphra Releases ZAYA1-8B: Efficient Open Reasoning Model Trained on AMD MI300 GPUs"
-        },
-        {
-          "date": "2026-05-11",
-          "event": "Tencent Proposes MiA-Signature for Efficient Long-Context Understanding; MiniCPM-o 4.5: Real-Time Full-Duplex Omni-Modal Interaction Model Released"
-        },
-        {
-          "date": "2026-05-11",
-          "event": "Local AI Boom: 176K Public GGUF Models on Hugging Face, Monthly Creation Doubles"
-        },
-        {
-          "date": "2026-05-11",
-          "event": "OpenSquilla: Token-Efficient AI Agent with Higher Intelligence Density"
-        },
-        {
-          "date": "2026-05-13",
-          "event": "Perceptron Mk1: 80-90% Cheaper Video Analysis AI Model"
-        },
-        {
-          "date": "2026-05-15",
-          "event": "IBM Granite Embedding Multilingual R2: Best Sub-100M Retrieval Quality with 32K Context"
-        },
-        {
-          "date": "2026-05-18",
-          "event": "Qwen-Image-VAE-2.0: High-Compression VAE with Semantic Conditioning for Image Generation"
+          "date": "2026-05-19",
+          "event": "Context Architecture Emerges as Agentic AI Replaces Traditional RAG"
         }
       ],
       "created": "2026-02-25"
@@ -790,10 +613,8 @@
         "Nvidia"
       ],
       "trajectory": "accelerating",
-      "signal_count": 152,
+      "signal_count": 153,
       "weekly_counts": [
-        4,
-        2,
         2,
         2,
         1,
@@ -803,7 +624,9 @@
         1,
         1,
         1,
-        2
+        2,
+        1,
+        0
       ],
       "key_events": [
         {
@@ -845,6 +668,14 @@
         {
           "date": "2026-05-18",
           "event": "NVIDIA MemLens: Benchmarking Multimodal Long-Term Memory in Vision-Language Models; NVIDIA SANA-WM: Efficient Minute-Scale World Model with Hybrid Linear Diffusion Transformer"
+        },
+        {
+          "date": "2026-05-19",
+          "event": "Google and Blackstone Launch TPU Cloud Provider"
+        },
+        {
+          "date": "2026-05-19",
+          "event": "LangSmith Engine Launches Automated Agent Debugging Loop"
         }
       ],
       "created": "2026-02-25"
@@ -863,14 +694,14 @@
         "AI Code Audit"
       ],
       "trajectory": "accelerating",
-      "signal_count": 84,
+      "signal_count": 85,
       "weekly_counts": [
-        1,
         0,
         1,
         0,
         1,
         2,
+        1,
         1,
         1,
         1,
@@ -922,6 +753,10 @@
         {
           "date": "2026-05-18",
           "event": "OpenAI Codex for Windows Sandbox: Security considerations for AI agent autonomy"
+        },
+        {
+          "date": "2026-05-19",
+          "event": "Supply-Chain Attacks on AI Model Release Pipelines Exposed"
         }
       ],
       "created": "2026-02-25"
@@ -940,9 +775,8 @@
         "AI Adoption"
       ],
       "trajectory": "accelerating",
-      "signal_count": 67,
+      "signal_count": 68,
       "weekly_counts": [
-        1,
         3,
         0,
         1,
@@ -953,7 +787,8 @@
         1,
         0,
         1,
-        2
+        2,
+        1
       ],
       "key_events": [
         {
@@ -1015,6 +850,10 @@
         {
           "date": "2026-05-18",
           "event": "SenseNova-U1: Unifying Multimodal Understanding and Generation with NEO-unify Architecture"
+        },
+        {
+          "date": "2026-05-19",
+          "event": "DeepSeek-V4-Pro Trends on HuggingFace as Open-Weight Model"
         }
       ],
       "created": "2026-02-25"
@@ -1023,19 +862,18 @@
       "id": "generative_ai_for_creative_and_design_ap",
       "name": "Generative AI for Creative and Design Applications",
       "related_tags": [
-        "Content Creation",
-        "AI Creativity",
-        "Design Tools",
-        "NVIDIA Research",
-        "Startup Funding",
         "Video Generation",
+        "Startup Funding",
+        "AR/VR",
+        "NVIDIA Research",
         "Meta",
-        "AR/VR"
+        "Generation",
+        "AI Creativity",
+        "Research"
       ],
       "trajectory": "accelerating",
-      "signal_count": 103,
+      "signal_count": 107,
       "weekly_counts": [
-        2,
         0,
         1,
         0,
@@ -1046,17 +884,10 @@
         1,
         1,
         5,
+        3,
         3
       ],
       "key_events": [
-        {
-          "date": "2026-05-07",
-          "event": "xAI Launches Image Generation Quality Mode on API: 300M+ Images Generated"
-        },
-        {
-          "date": "2026-05-11",
-          "event": "Alibaba Proposes Continuous-Time Distribution Matching for Few-Step Diffusion Distillation; MiniCPM-o 4.5: Real-Time Full-Duplex Omni-Modal Interaction Model Released"
-        },
         {
           "date": "2026-05-11",
           "event": "AI-Generated Video Quality Nears Pixar Level: Community Predicts First All-AI Feature Film by 2027"
@@ -1088,6 +919,14 @@
         {
           "date": "2026-05-18",
           "event": "First detected"
+        },
+        {
+          "date": "2026-05-18",
+          "event": "First detected"
+        },
+        {
+          "date": "2026-05-19",
+          "event": "NVIDIA Fine-Tuning Cosmos Predict 2.5 for Robot Video Generation with LoRA/DoRA"
         }
       ],
       "created": "2026-02-26"
@@ -1113,13 +952,13 @@
         0,
         0,
         0,
-        0,
         1,
         0,
         1,
         1,
         1,
-        2
+        2,
+        0
       ],
       "key_events": [
         {
@@ -1178,14 +1017,14 @@
       "created": "2026-02-28"
     },
     {
-      "id": "unified_multimodal_understanding_and_gen",
-      "name": "Unified Multimodal Understanding and Generation Models",
+      "id": "ai-fueled_corporate_restructuring_and_wo",
+      "name": "AI-Fueled Corporate Restructuring and Workforce Transformation",
       "related_tags": [
-        "Multimodal",
-        "Generation",
-        "Understanding",
-        "Architecture",
-        "Research"
+        "Meta",
+        "裁员",
+        "组织变革",
+        "企业重组",
+        "劳动力市场"
       ],
       "trajectory": "accelerating",
       "signal_count": 1,
@@ -1194,11 +1033,35 @@
       ],
       "key_events": [
         {
-          "date": "2026-05-18",
+          "date": "2026-05-19",
           "event": "First detected"
         }
       ],
-      "created": "2026-05-18"
+      "created": "2026-05-19"
+    },
+    {
+      "id": "ai_supply_chain_security_and_release_pip",
+      "name": "AI Supply Chain Security and Release Pipeline Attacks",
+      "related_tags": [
+        "供应链安全",
+        "模型发布",
+        "安全漏洞",
+        "OpenAI",
+        "Anthropic",
+        "Meta"
+      ],
+      "trajectory": "accelerating",
+      "signal_count": 1,
+      "weekly_counts": [
+        1
+      ],
+      "key_events": [
+        {
+          "date": "2026-05-19",
+          "event": "First detected"
+        }
+      ],
+      "created": "2026-05-19"
     }
   ]
 }
