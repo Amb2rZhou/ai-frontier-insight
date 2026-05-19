@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-05-19T10:31:02.817674",
+  "scraped_at": "2026-05-19T13:38:17.273588",
   "date": "2026-05-19",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 77,
-  "account_count": 44,
+  "tweet_count": 84,
+  "account_count": 46,
   "tweets": [
     {
       "id": "2056558477863211479",
@@ -878,6 +878,88 @@
       "likes": 3587,
       "retweets": 221,
       "views": 219614
+    },
+    {
+      "id": "2056605270793388535",
+      "username": "Austen",
+      "text": "My new favorite thing to do https://t.co/hm9xRETSqm",
+      "timestamp": "2026-05-19T05:18:01+00:00",
+      "url": "https://x.com/Austen/status/2056605270793388535",
+      "images": [
+        "https://pbs.twimg.com/media/HIqHmB9XoAArXXh.jpg"
+      ],
+      "likes": 17,
+      "retweets": 1,
+      "views": 829
+    },
+    {
+      "id": "2056603358329479387",
+      "username": "Miles_Brundage",
+      "text": "Saw a bunch of people in graduation gowns yesterday and resisted the urge to make a commencement speech about AI",
+      "timestamp": "2026-05-19T05:10:25+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2056603358329479387",
+      "images": [],
+      "likes": 11,
+      "retweets": 0,
+      "views": 329
+    },
+    {
+      "id": "2056598123380887561",
+      "username": "Miles_Brundage",
+      "text": "Protip - if you wanna really burn through your Codex and Claude quotas with reckless abandon, specify a minimum number of sub-agents to use",
+      "timestamp": "2026-05-19T04:49:37+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2056598123380887561",
+      "images": [],
+      "likes": 17,
+      "retweets": 0,
+      "views": 590
+    },
+    {
+      "id": "2056574979236409521",
+      "username": "levie",
+      "text": "This is true of all agents, not just coding agents. Probably the biggest challenge that most companies run into in their agent strategy is getting agents the right constrained context to work with for a task. \n\nToo much information or conflicting sources, and the agent can easily",
+      "timestamp": "2026-05-19T03:17:39+00:00",
+      "url": "https://x.com/levie/status/2056574979236409521",
+      "images": [],
+      "likes": 102,
+      "retweets": 9,
+      "views": 16171
+    },
+    {
+      "id": "2056574889583390990",
+      "username": "DeryaTR_",
+      "text": "A really important BioAI benchmark from @phylo_bio, long-horizon biology tasks are also critical for complex experimental processes. Biomni lab from Phylo is also great BioAI model-I’d tested early version &amp; now it’s even much better! Highly recommend it to biomedical scientists.",
+      "timestamp": "2026-05-19T03:17:17+00:00",
+      "url": "https://x.com/DeryaTR_/status/2056574889583390990",
+      "images": [],
+      "likes": 11,
+      "retweets": 4,
+      "views": 3045
+    },
+    {
+      "id": "2056573037211000908",
+      "username": "khoomeik",
+      "text": "semiconductor-adjacent research journals are so much higher aura than any publication venue we have in AI https://t.co/qUdKdTmv1m",
+      "timestamp": "2026-05-19T03:09:56+00:00",
+      "url": "https://x.com/khoomeik/status/2056573037211000908",
+      "images": [
+        "https://pbs.twimg.com/media/HIppuxmagAEqA-q.jpg",
+        "https://pbs.twimg.com/media/HIppwuGacAEZ4fb.png"
+      ],
+      "likes": 34,
+      "retweets": 0,
+      "views": 1652
+    },
+    {
+      "id": "2056566098376667323",
+      "username": "DeryaTR_",
+      "text": "Amazing duo is back! Looking forward to Google I/O tomorrow! Anticipating that the new Gemini models and video AI (Veo 4?) should rock!",
+      "timestamp": "2026-05-19T02:42:21+00:00",
+      "url": "https://x.com/DeryaTR_/status/2056566098376667323",
+      "images": [],
+      "likes": 48,
+      "retweets": 2,
+      "views": 3348
     }
   ]
 }
