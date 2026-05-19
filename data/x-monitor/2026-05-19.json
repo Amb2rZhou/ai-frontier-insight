@@ -1,12 +1,12 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-05-19T13:38:17.273588",
+  "scraped_at": "2026-05-19T16:45:33.926124",
   "date": "2026-05-19",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 84,
-  "account_count": 46,
+  "tweet_count": 89,
+  "account_count": 48,
   "tweets": [
     {
       "id": "2056558477863211479",
@@ -960,6 +960,63 @@
       "likes": 48,
       "retweets": 2,
       "views": 3348
+    },
+    {
+      "id": "2056650905613635669",
+      "username": "bcherny",
+      "text": "Hello from Code with Claude London! https://t.co/4JnGilV4Uw",
+      "timestamp": "2026-05-19T08:19:21+00:00",
+      "url": "https://x.com/bcherny/status/2056650905613635669",
+      "images": [
+        "https://pbs.twimg.com/media/HIqxFDnWoAE1Dt4.jpg"
+      ],
+      "likes": 270,
+      "retweets": 14,
+      "views": 4844
+    },
+    {
+      "id": "2056633859543044291",
+      "username": "boazbaraktcs",
+      "text": "Finally, GPT gets the recognition it deserves.",
+      "timestamp": "2026-05-19T07:11:37+00:00",
+      "url": "https://x.com/boazbaraktcs/status/2056633859543044291",
+      "images": [],
+      "likes": 5,
+      "retweets": 0,
+      "views": 1294
+    },
+    {
+      "id": "2056109929048764895",
+      "username": "thsottiaux",
+      "text": "Seeing issues where usage limits are out of sync for some Codex users. Apologies and team is investigating.",
+      "timestamp": "2026-05-17T20:29:42+00:00",
+      "url": "https://x.com/thsottiaux/status/2056109929048764895",
+      "images": [],
+      "likes": 2283,
+      "retweets": 60,
+      "views": 365901
+    },
+    {
+      "id": "2056076872279068722",
+      "username": "sriramk",
+      "text": "too many SF AI discussions reduce to whether you\n\na) believe we are in the singularity\nb) what part of the takeoff curve do you think we are on.",
+      "timestamp": "2026-05-17T18:18:21+00:00",
+      "url": "https://x.com/sriramk/status/2056076872279068722",
+      "images": [],
+      "likes": 244,
+      "retweets": 10,
+      "views": 92610
+    },
+    {
+      "id": "2055835695730868459",
+      "username": "Miles_Brundage",
+      "text": "No one invites me to Google I/O or new media retreats 😭",
+      "timestamp": "2026-05-17T02:20:00+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2055835695730868459",
+      "images": [],
+      "likes": 35,
+      "retweets": 0,
+      "views": 3844
     }
   ]
 }
