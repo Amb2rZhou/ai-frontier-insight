@@ -13,6 +13,9 @@ The rapid proliferation of open-source and open-weight foundation models challen
 
 ## Timeline
 
+- **2026-05-20**: [[openclaw|OpenClaw]] Integrates with X (Twitter), Enabling [[grok|Grok]] Models on Personal Hardware
+- **2026-05-20**: Unsloth Enables 4-bit Qwen3.6 with Multi-Token Prediction Running Locally on 20GB RAM
+- **2026-05-20**: Andrej Karpathy Joins [[anthropic|Anthropic]]
 - **2026-05-20**: [[bytedance|ByteDance]] Research Releases Lance: Unified Multimodal Model for Understanding, Generation, and Editing
 - **2026-05-16**: [[openclaw|OpenClaw]] Open Source [[agent-frameworks|Agent Framework]] Gains Traction
 - **2026-05-16**: [Update] ExecuTorch Wins Best Industry Paper at MLSys 2026

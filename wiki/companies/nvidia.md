@@ -11,6 +11,7 @@ Dominant [[ai-hardware|AI hardware]] company, increasingly expanding into AI sof
 
 ## Timeline
 
+- **2026-05-20**: NVIDIA LongLive-2.0: NVFP4-Based Infrastructure for Long Video Generation
 - **2026-05-20**: NVIDIA LongLive-2.0: NVFP4 Parallel Infrastructure for Efficient Long Video Generation
 - **2026-05-19**: NVIDIA Fine-Tuning Cosmos Predict 2.5 for [[embodied-ai|Robot]] Video Generation with LoRA/DoRA
 - **2026-05-19**: [[google-deepmind|Google]] and Blackstone Launch TPU Cloud Provider

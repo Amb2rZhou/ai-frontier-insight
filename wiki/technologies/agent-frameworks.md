@@ -11,6 +11,8 @@ The rapidly evolving ecosystem of tools, SDKs, and platforms for building autono
 
 ## Timeline
 
+- **2026-05-20**: [[openclaw|OpenClaw]] Integrates with X (Twitter), Enabling [[grok|Grok]] Models on Personal Hardware
+- **2026-05-20**: [[google-deepmind|Google]] I/O 2026: [[gemini|Gemini]] 3.5 Flash, Antigravity 2.0, and Agentic Search Overhaul
 - **2026-05-20**: [[anthropic|Anthropic]] Enables Enterprise Agent Credential Security via Self-Hosted Sandboxes in CMA
 - **2026-05-20**: [[google-deepmind|Google]] I/O 2026: Search Redesign, [[gemini|Gemini]] 3.5 Flash, and Agentic Shopping Tools
 - **2026-05-19**: IBM Research and [[hugging-face|HuggingFace]] Launch Open Agent Leaderboard

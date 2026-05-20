@@ -11,6 +11,8 @@ updated: 2026-05-20
 
 ## Timeline
 
+- **2026-05-20**: [[google-deepmind|Google DeepMind]] Releases Gemini Omni: Any-to-Video Generation Model
+- **2026-05-20**: [[google-deepmind|Google]] I/O 2026: Gemini 3.5 Flash, Antigravity 2.0, and [[agent-frameworks|Agentic]] Search Overhaul
 - **2026-05-20**: [[google-deepmind|Google]] I/O 2026: Search Redesign, Gemini 3.5 Flash, and [[agent-frameworks|Agentic]] Shopping Tools
 - **2026-05-13**: [[google-deepmind|Google]] Gemini Intelligent Mouse Pointer Agent Prototype
 - **2026-05-09**: [[google-deepmind|Google]] I/O 2026 Livestream Schedule Released – AI Focus Expected

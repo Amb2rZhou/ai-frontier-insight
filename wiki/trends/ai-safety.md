@@ -13,6 +13,7 @@ The evolving landscape of AI safety research, policy, and corporate commitments 
 
 ## Timeline
 
+- **2026-05-20**: [[openai|OpenAI]] Adopts [[google-deepmind|Google]]'s SynthID Watermark for AI Images
 - **2026-05-20**: GitHub Investigating Unauthorized Access to Internal Repositories; CISA Credentials Leaked on Public Repo
 - **2026-05-20**: [[anthropic|Anthropic]] Enables Enterprise Agent Credential Security via Self-Hosted Sandboxes in CMA
 - **2026-05-20**: [[openai|OpenAI]] Adopts [[google-deepmind|Google]]'s SynthID Watermark for AI-Generated Images

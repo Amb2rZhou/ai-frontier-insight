@@ -11,6 +11,7 @@ Chinese tech giant (parent of TikTok), active in AI through Seedance video gener
 
 ## Timeline
 
+- **2026-05-20**: ByteDance Releases Lance: Unified Multimodal Model for Understanding, Generation, and Editing
 - **2026-05-20**: ByteDance Research Releases Lance: Unified Multimodal Model for Understanding, Generation, and Editing
 - **2026-05-14**: ByteDance Seed Publishes Long-Context VLM Training Method with 128K+ Generalization
 - **2026-05-09**: ByteDance Seed Proposes Continuous Latent Diffusion Language Model (Cola DLM)

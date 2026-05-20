@@ -11,6 +11,10 @@ Google's unified AI research division, maker of [[gemini|Gemini]] and [[gemma|Ge
 
 ## Timeline
 
+- **2026-05-20**: Google DeepMind LiteFrame: Efficient Video Encoder Unlocks Frame Scaling in Video LLMs
+- **2026-05-20**: [[openai|OpenAI]] Adopts Google's SynthID Watermark for AI Images
+- **2026-05-20**: Google DeepMind Releases [[gemini|Gemini]] Omni: Any-to-Video Generation Model
+- **2026-05-20**: Google I/O 2026: [[gemini|Gemini]] 3.5 Flash, Antigravity 2.0, and [[agent-frameworks|Agentic]] Search Overhaul
 - **2026-05-20**: Google DeepMind LiteFrame: Efficient Vision Encoder for Scaling Frames in Video LLMs
 - **2026-05-20**: [[openai|OpenAI]] Adopts Google's SynthID Watermark for AI-Generated Images
 - **2026-05-20**: Google I/O 2026: Search Redesign, [[gemini|Gemini]] 3.5 Flash, and [[agent-frameworks|Agentic]] Shopping Tools

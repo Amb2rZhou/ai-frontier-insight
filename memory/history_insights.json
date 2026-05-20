@@ -1,66 +1,6 @@
 {
   "predictions": [
     {
-      "date": "2026-05-11T17:06:41.970680+08:00",
-      "prediction_text": "内容平台构建Agent市场或工具库时，建议引入工具行为沙箱测试与描述签名验证机制。",
-      "category": "infrastructure",
-      "source_signal": "Agent Tool Poisoning Emerges as Major Enterprise Security Threat"
-    },
-    {
-      "date": "2026-05-11T17:06:41.977314+08:00",
-      "prediction_text": "社区/电商平台的Agent编排系统可以考虑增加工具描述人工审核或自动化一致性校验层。",
-      "category": "infrastructure",
-      "source_signal": "Prompt-Driven AI Tool Poisoning Flaw Exposes Enterprise Supply Chain Risk"
-    },
-    {
-      "date": "2026-05-11T17:06:41.983306+08:00",
-      "prediction_text": "内容平台可关注Cerebras IPO后的生态成熟度，评估其超大规模晶圆级芯片在推理场景的性价比潜力。",
-      "category": "strategic_move",
-      "source_signal": "Cerebras AI Chip IPO Tests Public Market Appetite at $35B Valuation"
-    },
-    {
-      "date": "2026-05-11T17:06:41.990035+08:00",
-      "prediction_text": "内容平台构建对话或创作Agent时，建议筛选训练数据中的角色设定文本，防止模型习得恶意模仿行为。",
-      "category": "research_breakthrough",
-      "source_signal": "Anthropic Reports AI Model 'Evil' Portrayals Influence Claude Blackmail Behavior"
-    },
-    {
-      "date": "2026-05-11T17:06:41.993497+08:00",
-      "prediction_text": "电商/社区平台部署AI功能时，建议优先选择高ROI场景（如客服、审核），避免基础设施投入远超提效产出。",
-      "category": "ecosystem_shift",
-      "source_signal": "Scalable: AI Margin Math Gets Messier for Major Tech Companies"
-    },
-    {
-      "date": "2026-05-11T17:06:41.996292+08:00",
-      "prediction_text": "搜索/内容平台可以考虑在理财、房产等垂直领域推出AI驱动的结构化信息聚合与个性化解读功能。",
-      "category": "strategic_move",
-      "source_signal": "Google Finance AI-Powered Experience Expands to Europe"
-    },
-    {
-      "date": "2026-05-11T17:06:41.998995+08:00",
-      "prediction_text": "推荐系统或客服Agent的模型微调可以考虑引入此类信号筛选方法，减少对昂贵LLM评判者的依赖。",
-      "category": "research_breakthrough",
-      "source_signal": "Signals: Finding Most Informative Agent Traces Without LLM Judges"
-    },
-    {
-      "date": "2026-05-11T17:06:42.001594+08:00",
-      "prediction_text": "内容平台的Agent编排团队值得投入系统工程能力建设，建立模式库和性能基准测试规范。",
-      "category": "infrastructure",
-      "source_signal": "Scalable Patterns for Agentic AI Workflows: System Engineering Matters"
-    },
-    {
-      "date": "2026-05-11T17:06:42.004060+08:00",
-      "prediction_text": "创作者工具或推荐系统的Agent推理可关注OpenSquilla类方案，在预算敏感场景中测试效率提升收益。",
-      "category": "open_source",
-      "source_signal": "OpenSquilla: Token-Efficient AI Agent with Higher Intelligence Density"
-    },
-    {
-      "date": "2026-05-11T17:06:42.006392+08:00",
-      "prediction_text": "社区平台构建Agent编排基础设施时，建议借鉴Agyn的治理模块设计，优先实现权限审计与行为可追溯。",
-      "category": "open_source",
-      "source_signal": "Open-Source Agent Platform Agyn.io Launches with Enterprise Governance"
-    },
-    {
       "date": "2026-05-12T10:32:53.628881+08:00",
       "prediction_text": "内容平台可考虑将安全Agent嵌入创作流水线，在内容发布前自动识别并拦截潜在违规变体。",
       "category": "infrastructure",
@@ -599,6 +539,66 @@
       "prediction_text": "内容安全团队可建立内部仓库强制密钥扫描+外部依赖 CI/CD 审计，阻断供应链攻击入口。",
       "category": "infrastructure",
       "source_signal": "GitHub Investigating Unauthorized Access to Internal Repositories; CISA Credentials Leaked on Public Repo"
+    },
+    {
+      "date": "2026-05-20T10:58:48.668852+08:00",
+      "prediction_text": "内容平台可考虑将搜索框变为“问你想干什么”的 Agent 入口，整合内容、商品、服务闭环。",
+      "category": "strategic_move",
+      "source_signal": "Google I/O 2026: Gemini 3.5 Flash, Antigravity 2.0, and Agentic Search Overhaul"
+    },
+    {
+      "date": "2026-05-20T10:58:48.674093+08:00",
+      "prediction_text": "社区平台可关注 Anthropic 开源动态，提前评估接入其强对齐能力以降低安全治理成本。",
+      "category": "ecosystem_shift",
+      "source_signal": "Andrej Karpathy Joins Anthropic"
+    },
+    {
+      "date": "2026-05-20T10:58:48.678550+08:00",
+      "prediction_text": "创作者工具可探索音频/文字直接驱动视频生成模板，降低 UGC 视频创作门槛。",
+      "category": "research_breakthrough",
+      "source_signal": "Google DeepMind Releases Gemini Omni: Any-to-Video Generation Model"
+    },
+    {
+      "date": "2026-05-20T10:58:48.682079+08:00",
+      "prediction_text": "内容平台应尽快集成 SynthID 扫描与验证工具链，识别并标记平台上的 AI 生成内容。",
+      "category": "ecosystem_shift",
+      "source_signal": "OpenAI Adopts Google's SynthID Watermark for AI Images"
+    },
+    {
+      "date": "2026-05-20T10:58:48.684572+08:00",
+      "prediction_text": "内容平台可考虑基于统一架构构建一站式图文视频创作编辑入口，降低用户操作成本。",
+      "category": "research_breakthrough",
+      "source_signal": "ByteDance Releases Lance: Unified Multimodal Model for Understanding, Generation, and Editing"
+    },
+    {
+      "date": "2026-05-20T10:58:48.687236+08:00",
+      "prediction_text": "推荐系统团队可评估在用户端部署轻量级模型，实现离线个性化重排与低延迟推理。",
+      "category": "infrastructure",
+      "source_signal": "Unsloth Enables 4-bit Qwen3.6 with Multi-Token Prediction Running Locally on 20GB RAM"
+    },
+    {
+      "date": "2026-05-20T10:58:48.689624+08:00",
+      "prediction_text": "内容平台应加速自建推理优化管线（如量化/蒸馏），降低对外部封闭 API 的长期依赖。",
+      "category": "infrastructure",
+      "source_signal": "OpenAI Guaranteed Capacity and Anthropic Token Commitments Signal Infrastructure Constraints"
+    },
+    {
+      "date": "2026-05-20T10:58:48.691866+08:00",
+      "prediction_text": "社区平台可探索用户自托管 Agent 插件市场，允许用户将私有数据与本地模型对接。",
+      "category": "open_source",
+      "source_signal": "OpenClaw Integrates with X (Twitter), Enabling Grok Models on Personal Hardware"
+    },
+    {
+      "date": "2026-05-20T10:58:48.694030+08:00",
+      "prediction_text": "视频创作平台可评估序列并行框架用于 UGC 长视频生成，降低部署成本和生成延迟。",
+      "category": "research_breakthrough",
+      "source_signal": "NVIDIA LongLive-2.0: NVFP4-Based Infrastructure for Long Video Generation"
+    },
+    {
+      "date": "2026-05-20T10:58:48.696043+08:00",
+      "prediction_text": "推荐与搜索系统可引入 LiteFrame 类编码器处理长视频内容，提升用户长留存视频的召回准确性。",
+      "category": "research_breakthrough",
+      "source_signal": "Google DeepMind LiteFrame: Efficient Video Encoder Unlocks Frame Scaling in Video LLMs"
     }
   ]
 }

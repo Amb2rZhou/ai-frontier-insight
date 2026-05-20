@@ -2,7 +2,7 @@
 title: Grok
 type: product
 created: 2026-02-25
-updated: 2026-05-16
+updated: 2026-05-20
 ---
 
 # Grok
@@ -11,6 +11,7 @@ updated: 2026-05-16
 
 ## Timeline
 
+- **2026-05-20**: [[openclaw|OpenClaw]] Integrates with X (Twitter), Enabling Grok Models on Personal Hardware
 - **2026-05-16**: [[xai|xAI]] Grok Subscription Integrated with Nous Hermes Agent
 - **2026-05-15**: Grok Build: [[xai|xAI]] Launches [[agent-frameworks|Agentic]] CLI for Coding and Automation
 - **2026-05-07**: [[xai|xAI]] Launches Image Generation Quality Mode on API: 300M+ Images Generated

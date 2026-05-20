@@ -2,7 +2,7 @@
 title: Qwen
 type: product
 created: 2026-02-25
-updated: 2026-05-14
+updated: 2026-05-20
 ---
 
 # Qwen
@@ -11,6 +11,7 @@ updated: 2026-05-14
 
 ## Timeline
 
+- **2026-05-20**: Unsloth Enables 4-bit Qwen3.6 with Multi-Token Prediction Running Locally on 20GB RAM
 - **2026-05-18**: Qwen3.6-27B/35B Models Hit [[hugging-face|HuggingFace]] Trending Post-Quantization
 - **2026-05-14**: Qwen-Image-VAE-2.0: High-Compression VAE with Semantic Conditioning for Image Generation
 - **2026-05-12**: [[openai|OpenAI]] and [[alibaba|Alibaba]] Qwen Launch Ambassador Programs for Developer Community

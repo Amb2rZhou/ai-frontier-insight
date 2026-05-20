@@ -11,6 +11,8 @@ updated: 2026-05-20
 
 ## Timeline
 
+- **2026-05-20**: [[openai|OpenAI]] Guaranteed Capacity and Anthropic Token Commitments Signal Infrastructure Constraints
+- **2026-05-20**: Andrej Karpathy Joins Anthropic
 - **2026-05-20**: Anthropic Enables Enterprise Agent Credential Security via Self-Hosted Sandboxes in CMA
 - **2026-05-19**: Supply-Chain Attacks on AI Model Release Pipelines Exposed
 - **2026-05-19**: Anthropic Acquires SDK Automation Startup Stainless

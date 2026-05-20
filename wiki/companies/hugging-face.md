@@ -12,6 +12,8 @@ The central platform for [[open-source-models|open-source]] AI model hosting, da
 
 ## Timeline
 
+- **2026-05-20**: [[bytedance|ByteDance]] Releases Lance: Unified Multimodal Model for Understanding, Generation, and Editing
+- **2026-05-20**: Andrej Karpathy Joins [[anthropic|Anthropic]]
 - **2026-05-20**: [[bytedance|ByteDance]] Research Releases Lance: Unified Multimodal Model for Understanding, Generation, and Editing
 - **2026-05-19**: IBM Research and HuggingFace Launch Open Agent Leaderboard
 - **2026-05-19**: DeepSeek-V4-Pro Trends on HuggingFace as Open-Weight Model
