@@ -1,66 +1,6 @@
 {
   "predictions": [
     {
-      "date": "2026-05-11T16:49:15.668426+08:00",
-      "prediction_text": "内容平台的安全审核系统可探索集成类似的AI审计管线，实现代码级、配置级安全漏洞的自动化检测与闭环修复。",
-      "category": "infrastructure",
-      "source_signal": "Claude Mythos AI Code Auditor Finds 271 Firefox Security Bugs Including 180 High-Severity"
-    },
-    {
-      "date": "2026-05-11T16:49:15.676374+08:00",
-      "prediction_text": "内容/社区平台建议加速端侧内容生成与推荐推理的轻量化模型部署，降低云端依赖并提升响应速度与隐私性。",
-      "category": "model_release",
-      "source_signal": "Local AI Boom: 176K Public GGUF Models on Hugging Face, Monthly Creation Doubles"
-    },
-    {
-      "date": "2026-05-11T16:49:15.683543+08:00",
-      "prediction_text": "搜索/推荐系统的Agent管线可探索引入专用reviewer agent，在执行工具调用前进行实时校验，提升自动化决策可靠性。",
-      "category": "research_breakthrough",
-      "source_signal": "Apple Proposes Real-Time Tool-Call Supervision to Prevent Agent Errors Before Execution"
-    },
-    {
-      "date": "2026-05-11T16:49:15.688116+08:00",
-      "prediction_text": "内容/电商平台可评估与国产算力厂商（如寒武纪、昇腾）的合作，并预留开源推理框架（如vLLM）的适配灵活性。",
-      "category": "strategic_move",
-      "source_signal": "NVIDIA Commits $40B+ in AI Equity Deals This Year, Dominating Supply Chain Lock-In"
-    },
-    {
-      "date": "2026-05-11T16:49:15.690986+08:00",
-      "prediction_text": "内容平台的创作者工具团队可探索利用Codex Agent自动生成多平台发布的效果验证视频，提升发布质量与可信度。",
-      "category": "ecosystem_shift",
-      "source_signal": "Codex Agents Now Automate QA Video Proof Generation for GitHub Issues"
-    },
-    {
-      "date": "2026-05-11T16:49:15.693395+08:00",
-      "prediction_text": "内容/电商平台可探索将AI推理能力直接嵌入编辑、报表、运营等核心交互界面，而非仅提供独立的AI功能。",
-      "category": "strategic_move",
-      "source_signal": "Microsoft CEO Satya Nadella Hints at AI-Complete Excel with Attention and Next-Token Prediction"
-    },
-    {
-      "date": "2026-05-11T16:49:15.696054+08:00",
-      "prediction_text": "内容社区的评论/反馈系统可探索利用社交信号（如创作者声誉、领域权威性）进行内容质量或推荐排序的辅助判断。",
-      "category": "infrastructure",
-      "source_signal": "Codex Learns to Consider Social Signals During PR Review, Enhancing Code Review Quality"
-    },
-    {
-      "date": "2026-05-11T16:49:15.698834+08:00",
-      "prediction_text": "内容/电商平台可建立内部推理框架修复优先级映射，对高频使用的国产模型管线进行故障提前预判与热补丁测试。",
-      "category": "infrastructure",
-      "source_signal": "vLLM v0.20.2 Patches DeepSeek V4 Sparse Attention and Qwen3-VL Bugs"
-    },
-    {
-      "date": "2026-05-11T16:49:15.701077+08:00",
-      "prediction_text": "内容平台可考虑放弃传统语音助手路径，直接转向多步骤任务执行型Agent交互，加速用户从浏览到行动的转化。",
-      "category": "ecosystem_shift",
-      "source_signal": "Apple Siri Revamp May Be Overtaken by Claude Code and Codex as AI Assistants Evolve"
-    },
-    {
-      "date": "2026-05-11T16:49:15.703381+08:00",
-      "prediction_text": "内容/电商平台可提前搭建AI视频生成工具链，重点支持创作者实现从文本/图片到高质量短片的一站式生成。",
-      "category": "model_release",
-      "source_signal": "AI-Generated Video Quality Nears Pixar Level: Community Predicts First All-AI Feature Film by 2027"
-    },
-    {
       "date": "2026-05-11T17:06:41.970680+08:00",
       "prediction_text": "内容平台构建Agent市场或工具库时，建议引入工具行为沙箱测试与描述签名验证机制。",
       "category": "infrastructure",
@@ -599,6 +539,66 @@
       "prediction_text": "社区平台可贡献自身场景到Leaderboard，同时基于评测结果优化推荐/审核Agent的鲁棒性。",
       "category": "ecosystem_shift",
       "source_signal": "IBM Research and HuggingFace Launch Open Agent Leaderboard"
+    },
+    {
+      "date": "2026-05-20T10:37:57.449669+08:00",
+      "prediction_text": "搜索产品可探索将浏览、比价、下单整合为端到端 Agent 购物助手，提升闭环转化。",
+      "category": "strategic_move",
+      "source_signal": "Google I/O 2026: Search Redesign, Gemini 3.5 Flash, and Agentic Shopping Tools"
+    },
+    {
+      "date": "2026-05-20T10:37:57.459777+08:00",
+      "prediction_text": "内容安全团队可评估集成 SynthID 与 Content Credentials，建立可跨平台验证的生成内容标识体系。",
+      "category": "ecosystem_shift",
+      "source_signal": "OpenAI Adopts Google's SynthID Watermark for AI-Generated Images"
+    },
+    {
+      "date": "2026-05-20T10:37:57.465023+08:00",
+      "prediction_text": "创作者工具团队可基于统一架构构建一站式图文/视频创作编辑入口，降低用户操作成本。",
+      "category": "research_breakthrough",
+      "source_signal": "ByteDance Research Releases Lance: Unified Multimodal Model for Understanding, Generation, and Editing"
+    },
+    {
+      "date": "2026-05-20T10:37:57.469601+08:00",
+      "prediction_text": "Agent 开发团队可引入自托管沙箱隔离凭据与运行时，降低第三方 Agent 注入风险。",
+      "category": "infrastructure",
+      "source_signal": "Anthropic Enables Enterprise Agent Credential Security via Self-Hosted Sandboxes in CMA"
+    },
+    {
+      "date": "2026-05-20T10:37:57.473331+08:00",
+      "prediction_text": "视频创作平台可评估序列并行框架用于 UGC 长视频生成，降低部署成本和生成延迟。",
+      "category": "research_breakthrough",
+      "source_signal": "NVIDIA LongLive-2.0: NVFP4 Parallel Infrastructure for Efficient Long Video Generation"
+    },
+    {
+      "date": "2026-05-20T10:37:57.476609+08:00",
+      "prediction_text": "推荐与搜索系统可引入 LiteFrame 类编码器处理长视频内容，提升用户长留存视频的召回准确性。",
+      "category": "research_breakthrough",
+      "source_signal": "Google DeepMind LiteFrame: Efficient Vision Encoder for Scaling Frames in Video LLMs"
+    },
+    {
+      "date": "2026-05-20T10:37:57.479333+08:00",
+      "prediction_text": "推荐系统可探索将用户互动偏好作为奖励信号，微调视频生成模型产出更符合社区口味的内容。",
+      "category": "research_breakthrough",
+      "source_signal": "Tsinghua University KVPO: ODE-Native GRPO for Streaming Video Alignment with Human Preferences"
+    },
+    {
+      "date": "2026-05-20T10:37:57.482635+08:00",
+      "prediction_text": "部署在端侧或推理集群的模型可应用 ZEDA 策略，在保持效果前提下提升并发吞吐、降低硬件投入。",
+      "category": "research_breakthrough",
+      "source_signal": "Tsinghua University ZEDA: Post-Trained MoE Can Skip Half Experts via Self-Distillation"
+    },
+    {
+      "date": "2026-05-20T10:37:57.485696+08:00",
+      "prediction_text": "搜索增强与对话 Agent 可接入终端锚定训练，降低长文档检索和跨会话推理的部署门槛。",
+      "category": "research_breakthrough",
+      "source_signal": "Baidu EndPrompt: Efficient Long-Context Extension via Terminal Anchoring"
+    },
+    {
+      "date": "2026-05-20T10:37:57.488305+08:00",
+      "prediction_text": "内容安全团队可建立内部仓库强制密钥扫描+外部依赖 CI/CD 审计，阻断供应链攻击入口。",
+      "category": "infrastructure",
+      "source_signal": "GitHub Investigating Unauthorized Access to Internal Repositories; CISA Credentials Leaked on Public Repo"
     }
   ]
 }

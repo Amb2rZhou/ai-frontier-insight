@@ -2,7 +2,7 @@
 title: Creative AI
 type: trend
 created: 2026-03-08
-updated: 2026-05-19
+updated: 2026-05-20
 ---
 
 # Creative AI
@@ -13,6 +13,7 @@ AI-powered tools for image, video, audio, and 3D content generation.
 
 ## Timeline
 
+- **2026-05-20**: [[bytedance|ByteDance]] Research Releases Lance: Unified Multimodal Model for Understanding, Generation, and Editing
 - **2026-05-19**: FashionChameleon: Real-Time Interactive Garment Video Customization from [[alibaba|Alibaba]]
 - **2026-05-18**: [[meta|Meta AI]] Releases Realiz3D: Photorealistic 3D Generation via Domain-Aware Learning
 - **2026-05-12**: [[google-deepmind|Google]]'s [[agent-frameworks|Agentic]] Autoregressive Diffusion (A2RD) for Long Video Consistency

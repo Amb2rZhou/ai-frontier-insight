@@ -2,7 +2,7 @@
 title: Hugging Face
 type: company
 created: 2026-02-25
-updated: 2026-05-19
+updated: 2026-05-20
 ---
 
 
@@ -12,6 +12,7 @@ The central platform for [[open-source-models|open-source]] AI model hosting, da
 
 ## Timeline
 
+- **2026-05-20**: [[bytedance|ByteDance]] Research Releases Lance: Unified Multimodal Model for Understanding, Generation, and Editing
 - **2026-05-19**: IBM Research and HuggingFace Launch Open Agent Leaderboard
 - **2026-05-19**: DeepSeek-V4-Pro Trends on HuggingFace as Open-Weight Model
 - **2026-05-18**: Qwen3.6-27B/35B Models Hit HuggingFace Trending Post-Quantization

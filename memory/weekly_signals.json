@@ -616,6 +616,241 @@
           42
         ]
       }
+    ],
+    "2026-05-20": [
+      {
+        "title": "Google I/O 2026: Search Redesign, Gemini 3.5 Flash, and Agentic Shopping Tools",
+        "signal_text": "Google I/O 2026 发布会展示了搜索框 25 年来首次重大改版，集成 AI 代理功能；发布 Gemini 3.5 Flash 模型，号称可为企业降低超过 10 亿美元/年的 AI 成本；推出 Universal Cart 跨平台购物车等 AI 电商工具。Gemini Spark 个人 AI 代理可以全天候工作，自动起草邮件、监控收件箱，未来可代为支付。据 TechCrunch 和 The Verge 报道，搜索入口加速向 Agent 化演进，这与小红书的搜索增强和 Agent 新交互方向高度相关。",
+        "signal_strength": 0.95,
+        "sources": [
+          {
+            "name": "Google AI Blog",
+            "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/"
+          },
+          {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/tech/934217/google-search-box-does-everything-ai-io-2026"
+          },
+          {
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/technology/google-says-gemini-3-5-flash-can-slash-enterprise-ai-costs-by-more-than-1-billion-a-year"
+          },
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/"
+          }
+        ],
+        "tags": [
+          "搜索与推荐",
+          "Agent与交互",
+          "头部公司战略动作",
+          "技术突破"
+        ],
+        "raw_item_indices": [
+          40,
+          41,
+          42,
+          43,
+          44,
+          23,
+          24,
+          25,
+          10
+        ]
+      },
+      {
+        "title": "OpenAI Adopts Google's SynthID Watermark for AI-Generated Images",
+        "signal_text": "OpenAI 宣布在其 AI 生成图像中采用 Google 的 SynthID 水印技术，并推出配套的验证工具。此举是 AI 内容溯源和安全方面的重要行业合作，直接用于 AI 生成内容检测和虚假信息识别。据 OpenAI 官网公告，通过集成开放标准 Content Credentials，用户可以更方便地识别和信任 AI 媒体。该权威合作信号强烈，对小红书的内容安全合规方向有直接参考价值。",
+        "signal_strength": 0.9,
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/advancing-content-provenance"
+          },
+          {
+            "name": "Hacker News",
+            "url": "https://news.ycombinator.com/item?id=48198291"
+          }
+        ],
+        "tags": [
+          "内容安全与治理",
+          "头部公司战略动作",
+          "AI生成内容检测"
+        ],
+        "raw_item_indices": [
+          32,
+          52
+        ]
+      },
+      {
+        "title": "ByteDance Research Releases Lance: Unified Multimodal Model for Understanding, Generation, and Editing",
+        "signal_text": "字节跳动研究院（bytedance-research）发布 Lance 统一多模态模型，通过协同多任务训练和一阶段自回归框架，将图像/视频的理解、生成与编辑能力集成于一体。该模型以 320+ likes 冲上 HuggingFace 趋势榜。对小红书的 UGC 内容创作（图文/视频）和 AI 辅助创作工具箱有直接赋能潜力。",
+        "signal_strength": 0.85,
+        "sources": [
+          {
+            "name": "HuggingFace bytedance-research/Lance",
+            "url": "https://huggingface.co/bytedance-research/Lance"
+          },
+          {
+            "name": "arXiv 2605.18678",
+            "url": "https://huggingface.co/papers/2605.18678"
+          }
+        ],
+        "tags": [
+          "内容创作与理解",
+          "多模态生成",
+          "头部公司战略动作",
+          "开源生态"
+        ],
+        "raw_item_indices": [
+          77,
+          102
+        ]
+      },
+      {
+        "title": "Anthropic Enables Enterprise Agent Credential Security via Self-Hosted Sandboxes in CMA",
+        "signal_text": "Anthropic 在 Claude 的 Claude Management API (CMA) 中引入自托管沙箱支持，使企业 AI 代理连接内部 API 和数据库时不再需要在代理运行上下文中携带认证令牌。这解决了企业级 AI Agent 部署中的安全痛点（凭据泄露），据 VentureBeat 报道，这是将代理推向生产环境的关键基础设施改进。对小红书探索 Agent 化和工具调用有直接参考意义。",
+        "signal_strength": 0.82,
+        "sources": [
+          {
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/orchestration/claude-agents-can-finally-connect-to-enterprise-apis-without-leaking-credentials"
+          },
+          {
+            "name": "Anthropic SDK Release",
+            "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.103.0"
+          }
+        ],
+        "tags": [
+          "Agent与交互",
+          "内容安全与治理",
+          "头部公司战略动作"
+        ],
+        "raw_item_indices": [
+          30,
+          69
+        ]
+      },
+      {
+        "title": "NVIDIA LongLive-2.0: NVFP4 Parallel Infrastructure for Efficient Long Video Generation",
+        "signal_text": "NVIDIA 发布 LongLive-2.0，基于 NVFP4 的并行基础设施用于长视频生成，通过序列并行自回归训练解决长视频的训练和推理瓶颈。该研究获 91+ upvotes，GitHub 已获得 1294 stars。对小红书视频内容创作平台的长视频生成效率和部署成本优化具有重要信号意义。",
+        "signal_strength": 0.8,
+        "sources": [
+          {
+            "name": "NVIDIA Research",
+            "url": "https://huggingface.co/papers/2605.18739"
+          }
+        ],
+        "tags": [
+          "内容创作与理解",
+          "技术突破",
+          "推理效率提升"
+        ],
+        "raw_item_indices": [
+          76
+        ]
+      },
+      {
+        "title": "Google DeepMind LiteFrame: Efficient Vision Encoder for Scaling Frames in Video LLMs",
+        "signal_text": "Google DeepMind 发布 LiteFrame，一种轻量级视频编码器及其压缩 Token 蒸馏训练方法，显著降低延迟并增加长视频理解模型能够处理的帧数。该研究对小红书推进视频内容理解、多模态搜索和推荐中的长视频处理有直接技术参考价值。",
+        "signal_strength": 0.78,
+        "sources": [
+          {
+            "name": "Google DeepMind",
+            "url": "https://huggingface.co/papers/2605.17260"
+          }
+        ],
+        "tags": [
+          "内容创作与理解",
+          "多模态融合",
+          "技术突破",
+          "推理效率提升"
+        ],
+        "raw_item_indices": [
+          85
+        ]
+      },
+      {
+        "title": "Tsinghua University KVPO: ODE-Native GRPO for Streaming Video Alignment with Human Preferences",
+        "signal_text": "清华大学研究团队提出 KVPO，一种基于 ODE 的原生 GRPO 框架，通过因果语义探索和速度场替代策略，将流式视频生成器与人类偏好对齐。这项来自清华的工作将强化学习（RLHF/GRPO）技术扩展到视频生成领域，对内容平台实现用户偏好驱动的个性化视频生成具有启发意义。",
+        "signal_strength": 0.77,
+        "sources": [
+          {
+            "name": "Tsinghua University",
+            "url": "https://huggingface.co/papers/2605.14278"
+          }
+        ],
+        "tags": [
+          "内容创作与理解",
+          "个性化内容生成",
+          "技术突破"
+        ],
+        "raw_item_indices": [
+          81
+        ]
+      },
+      {
+        "title": "Tsinghua University ZEDA: Post-Trained MoE Can Skip Half Experts via Self-Distillation",
+        "signal_text": "清华大学团队提出 Zero-Expert Self-Distillation Adaptation (ZEDA)，通过将静态 MoE 模型转换为自适应模型，使后训练的混合专家模型可以跳过一半的专家计算，显著降低推理开销。此技术对在资源受限环境部署大模型有直接意义。",
+        "signal_strength": 0.76,
+        "sources": [
+          {
+            "name": "Tsinghua University",
+            "url": "https://huggingface.co/papers/2605.18643"
+          }
+        ],
+        "tags": [
+          "技术突破",
+          "推理效率提升",
+          "MoE"
+        ],
+        "raw_item_indices": [
+          83
+        ]
+      },
+      {
+        "title": "Baidu EndPrompt: Efficient Long-Context Extension via Terminal Anchoring",
+        "signal_text": "百度研究院提出 EndPrompt 技术，通过两段式训练方法（终端锚定）扩展大语言模型的上下文窗口，在保持语义连续性的同时利用稀疏监督高效实现长程位置学习。该技术对小红书搜索增强、长文档理解及 Agent 上下文窗口管理有直接的应用价值。",
+        "signal_strength": 0.73,
+        "sources": [
+          {
+            "name": "Baidu (百度研究院)",
+            "url": "https://huggingface.co/papers/2605.14589"
+          }
+        ],
+        "tags": [
+          "搜索与推荐",
+          "技术突破",
+          "长上下文"
+        ],
+        "raw_item_indices": [
+          88
+        ]
+      },
+      {
+        "title": "GitHub Investigating Unauthorized Access to Internal Repositories; CISA Credentials Leaked on Public Repo",
+        "signal_text": "GitHub 官方正调查其内部仓库的未授权访问事件；同时 Ars Technica 报道称美国 CISA（网络安全与基础设施安全局）的秘密 SSH 密钥、明文密码等敏感数据被发现在公开 GitHub 仓库中，自2025年11月起已暴露数月。这两个安全事件叠加，凸显 AI 模型供应链安全和代码仓库安全漏洞的严峻性，对于拥有大量 UGC 和代码资产的小红书是个警示信号。",
+        "signal_strength": 0.72,
+        "sources": [
+          {
+            "name": "GitHub Official Twitter",
+            "url": "https://twitter.com/github/status/2056884788179726685"
+          },
+          {
+            "name": "Ars Technica",
+            "url": "https://arstechnica.com/information-technology/2026/05/in-stunning-display-of-stupid-secret-cisa-credentials-found-in-public-github-repo/"
+          }
+        ],
+        "tags": [
+          "内容安全与治理",
+          "数据安全",
+          "供应链安全"
+        ],
+        "raw_item_indices": [
+          9,
+          39
+        ]
+      }
     ]
   },
   "archived_weeks": [

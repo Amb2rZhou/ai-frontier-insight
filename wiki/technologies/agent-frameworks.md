@@ -2,7 +2,7 @@
 title: Agent Frameworks
 type: technology
 created: 2026-02-25
-updated: 2026-05-19
+updated: 2026-05-20
 ---
 
 # Agent Frameworks
@@ -11,6 +11,8 @@ The rapidly evolving ecosystem of tools, SDKs, and platforms for building autono
 
 ## Timeline
 
+- **2026-05-20**: [[anthropic|Anthropic]] Enables Enterprise Agent Credential Security via Self-Hosted Sandboxes in CMA
+- **2026-05-20**: [[google-deepmind|Google]] I/O 2026: Search Redesign, [[gemini|Gemini]] 3.5 Flash, and Agentic Shopping Tools
 - **2026-05-19**: IBM Research and [[hugging-face|HuggingFace]] Launch Open Agent Leaderboard
 - **2026-05-19**: Context Architecture Emerges as Agentic AI Replaces Traditional [[rag|RAG]]
 - **2026-05-18**: [[codex|Codex]] Usage Spikes: [[openai|OpenAI]]'s Agentic Coding from Phone Sees Scale Issues

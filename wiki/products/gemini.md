@@ -2,7 +2,7 @@
 title: Gemini
 type: product
 created: 2026-02-25
-updated: 2026-05-13
+updated: 2026-05-20
 ---
 
 # Gemini
@@ -11,6 +11,7 @@ updated: 2026-05-13
 
 ## Timeline
 
+- **2026-05-20**: [[google-deepmind|Google]] I/O 2026: Search Redesign, Gemini 3.5 Flash, and [[agent-frameworks|Agentic]] Shopping Tools
 - **2026-05-13**: [[google-deepmind|Google]] Gemini Intelligent Mouse Pointer Agent Prototype
 - **2026-05-09**: [[google-deepmind|Google]] I/O 2026 Livestream Schedule Released – AI Focus Expected
 - **2026-05-06**: [[google-deepmind|Google]] Launches Multimodal File Search in Gemini API with Matryoshka Embedding Efficiency

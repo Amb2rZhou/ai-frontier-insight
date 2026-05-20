@@ -2,7 +2,7 @@
 title: Google DeepMind
 type: company
 created: 2026-02-25
-updated: 2026-05-19
+updated: 2026-05-20
 ---
 
 # Google DeepMind
@@ -11,6 +11,9 @@ Google's unified AI research division, maker of [[gemini|Gemini]] and [[gemma|Ge
 
 ## Timeline
 
+- **2026-05-20**: Google DeepMind LiteFrame: Efficient Vision Encoder for Scaling Frames in Video LLMs
+- **2026-05-20**: [[openai|OpenAI]] Adopts Google's SynthID Watermark for AI-Generated Images
+- **2026-05-20**: Google I/O 2026: Search Redesign, [[gemini|Gemini]] 3.5 Flash, and [[agent-frameworks|Agentic]] Shopping Tools
 - **2026-05-19**: [[anthropic|Anthropic]] Acquires SDK Automation Startup Stainless
 - **2026-05-19**: Google and Blackstone Launch TPU Cloud Provider
 - **2026-05-17**: Realistic User Simulators for Training AI Agents (Natasha Jaques et al.)

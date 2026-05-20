@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-19T10:33:00.516918+08:00",
+  "last_updated": "2026-05-20T10:38:13.568829+08:00",
   "trends": [
     {
       "id": "ai_safety_pivot_and_accelerated_agi_time",
@@ -17,7 +17,6 @@
       "trajectory": "accelerating",
       "signal_count": 108,
       "weekly_counts": [
-        2,
         3,
         0,
         2,
@@ -28,7 +27,8 @@
         1,
         0,
         0,
-        2
+        2,
+        0
       ],
       "key_events": [
         {
@@ -110,7 +110,6 @@
       "trajectory": "accelerating",
       "signal_count": 96,
       "weekly_counts": [
-        2,
         1,
         1,
         1,
@@ -121,7 +120,8 @@
         1,
         1,
         3,
-        2
+        2,
+        0
       ],
       "key_events": [
         {
@@ -297,9 +297,8 @@
         "Office"
       ],
       "trajectory": "accelerating",
-      "signal_count": 214,
+      "signal_count": 216,
       "weekly_counts": [
-        4,
         2,
         2,
         3,
@@ -310,7 +309,8 @@
         3,
         2,
         2,
-        0
+        0,
+        2
       ],
       "key_events": [
         {
@@ -356,6 +356,10 @@
         {
           "date": "2026-05-18",
           "event": "Google RubricEM: Meta-RL with Rubric-Guided Policy for Deep Research Agents"
+        },
+        {
+          "date": "2026-05-20",
+          "event": "2026-05-19: Anthropic Enables Enterprise Agent Credential Security via Self-Hosted Sandboxes in CMA"
         }
       ],
       "created": "2026-02-25"
@@ -374,9 +378,8 @@
         "Scientific Discovery"
       ],
       "trajectory": "accelerating",
-      "signal_count": 181,
+      "signal_count": 185,
       "weekly_counts": [
-        2,
         2,
         2,
         3,
@@ -386,6 +389,7 @@
         0,
         2,
         1,
+        4,
         4,
         4
       ],
@@ -429,6 +433,10 @@
         {
           "date": "2026-05-18",
           "event": "Qwen-Image-VAE-2.0: High-Compression VAE with Semantic Conditioning for Image Generation"
+        },
+        {
+          "date": "2026-05-20",
+          "event": "2026-05-19: Google DeepMind LiteFrame: Efficient Vision Encoder for Scaling Frames in Video LLMs; Tsinghua KVPO for streaming video alignment; Tsinghua ZEDA: MoE can skip half experts via self-distillation; Baidu EndPrompt for long-context extension"
         }
       ],
       "created": "2026-02-25"
@@ -437,19 +445,18 @@
       "id": "ai_talent_wars_and_legal_battles",
       "name": "AI Talent Wars and Legal Battles",
       "related_tags": [
-        "Military AI",
-        "Employee Activism",
         "AI Policy",
-        "Corporate Governance",
-        "xAI",
-        "Government",
+        "Talent",
         "Google",
-        "Talent"
+        "Corporate Governance",
+        "劳动力市场",
+        "Military AI",
+        "企业重组",
+        "Employee Activism"
       ],
       "trajectory": "accelerating",
-      "signal_count": 45,
+      "signal_count": 46,
       "weekly_counts": [
-        1,
         0,
         0,
         0,
@@ -460,21 +467,10 @@
         0,
         0,
         2,
+        0,
         0
       ],
       "key_events": [
-        {
-          "date": "2026-04-15",
-          "event": "Anthropic Appoints Novartis CEO Vas Narasimhan to Its Board of Directors"
-        },
-        {
-          "date": "2026-04-18",
-          "event": "OpenAI Sora Team Lead Bill Peebles and Exec Kevin Weil Depart"
-        },
-        {
-          "date": "2026-04-19",
-          "event": "Yann LeCun Criticizes Dario Amodei's Views on AI Labor Market Impact"
-        },
         {
           "date": "2026-04-21",
           "event": "Anthropic Secures $5B from Amazon with $100B AWS Spending Commitment"
@@ -510,6 +506,10 @@
         {
           "date": "2026-05-19",
           "event": "Meta Shifts Thousands of Workers to AI-Focused Groups Ahead of Layoffs"
+        },
+        {
+          "date": "2026-05-19",
+          "event": "First detected"
         }
       ],
       "created": "2026-02-25"
@@ -528,9 +528,8 @@
         "Video Generation"
       ],
       "trajectory": "accelerating",
-      "signal_count": 235,
+      "signal_count": 237,
       "weekly_counts": [
-        3,
         2,
         2,
         1,
@@ -541,7 +540,8 @@
         8,
         2,
         3,
-        3
+        3,
+        2
       ],
       "key_events": [
         {
@@ -595,6 +595,10 @@
         {
           "date": "2026-05-19",
           "event": "Context Architecture Emerges as Agentic AI Replaces Traditional RAG"
+        },
+        {
+          "date": "2026-05-20",
+          "event": "2026-05-19: Google I/O 2026: Search Redesign, Gemini 3.5 Flash, and Agentic Shopping Tools; Anthropic Enables Enterprise Agent Credential Security via Self-Hosted Sandboxes in CMA"
         }
       ],
       "created": "2026-02-25"
@@ -613,9 +617,8 @@
         "Nvidia"
       ],
       "trajectory": "accelerating",
-      "signal_count": 153,
+      "signal_count": 154,
       "weekly_counts": [
-        2,
         2,
         1,
         0,
@@ -626,7 +629,8 @@
         1,
         2,
         1,
-        0
+        0,
+        1
       ],
       "key_events": [
         {
@@ -676,6 +680,10 @@
         {
           "date": "2026-05-19",
           "event": "LangSmith Engine Launches Automated Agent Debugging Loop"
+        },
+        {
+          "date": "2026-05-20",
+          "event": "2026-05-19: NVIDIA LongLive-2.0: NVFP4 Parallel Infrastructure for Efficient Long Video Generation"
         }
       ],
       "created": "2026-02-25"
@@ -684,19 +692,18 @@
       "id": "ai_security_vulnerabilities_in_open-weig",
       "name": "AI Security Vulnerabilities in Open-Weight Models",
       "related_tags": [
-        "DevTools",
+        "Enterprise Risk",
+        "Security",
         "Criminal Activity",
         "Privacy",
-        "Enterprise Risk",
         "AI Ethics",
-        "Security",
-        "Emerging Risk",
-        "AI Code Audit"
+        "AI Code Audit",
+        "供应链安全",
+        "DevTools"
       ],
       "trajectory": "accelerating",
-      "signal_count": 85,
+      "signal_count": 88,
       "weekly_counts": [
-        0,
         1,
         0,
         1,
@@ -707,29 +714,10 @@
         1,
         1,
         1,
+        1,
         1
       ],
       "key_events": [
-        {
-          "date": "2026-05-08",
-          "event": "Anthropic Launches Public Security Bug Bounty Program on HackerOne"
-        },
-        {
-          "date": "2026-05-11",
-          "event": "Claude Mythos AI Code Auditor Finds 271 Firefox Security Bugs Including 180 High-Severity"
-        },
-        {
-          "date": "2026-05-11",
-          "event": "Agent Tool Poisoning Emerges as Major Enterprise Security Threat with CoSAI implications"
-        },
-        {
-          "date": "2026-05-11",
-          "event": "First detected"
-        },
-        {
-          "date": "2026-05-12",
-          "event": "OpenAI Launches Daybreak Security AI Initiative to Rival Claude Mythos"
-        },
         {
           "date": "2026-05-13",
           "event": "Team Confused Deputy Attack Matrix: Claude Security Blind Spots Revealed"
@@ -757,6 +745,18 @@
         {
           "date": "2026-05-19",
           "event": "Supply-Chain Attacks on AI Model Release Pipelines Exposed"
+        },
+        {
+          "date": "2026-05-19",
+          "event": "First detected"
+        },
+        {
+          "date": "2026-05-20",
+          "event": "2026-05-19: GitHub Investigating Unauthorized Access to Internal Repositories; CISA Credentials Leaked on Public Repo"
+        },
+        {
+          "date": "2026-05-20",
+          "event": "2026-05-19: GitHub Investigating Unauthorized Access to Internal Repositories; CISA Credentials Leaked on Public Repo"
         }
       ],
       "created": "2026-02-25"
@@ -775,9 +775,8 @@
         "AI Adoption"
       ],
       "trajectory": "accelerating",
-      "signal_count": 68,
+      "signal_count": 70,
       "weekly_counts": [
-        3,
         0,
         1,
         0,
@@ -788,7 +787,8 @@
         0,
         1,
         2,
-        1
+        1,
+        2
       ],
       "key_events": [
         {
@@ -854,6 +854,10 @@
         {
           "date": "2026-05-19",
           "event": "DeepSeek-V4-Pro Trends on HuggingFace as Open-Weight Model"
+        },
+        {
+          "date": "2026-05-20",
+          "event": "2026-05-19: ByteDance Research Releases Lance: Unified Multimodal Model for Understanding, Generation, and Editing; Baidu EndPrompt for long-context extension"
         }
       ],
       "created": "2026-02-25"
@@ -872,9 +876,8 @@
         "Research"
       ],
       "trajectory": "accelerating",
-      "signal_count": 107,
+      "signal_count": 110,
       "weekly_counts": [
-        0,
         1,
         0,
         2,
@@ -884,6 +887,7 @@
         1,
         1,
         5,
+        3,
         3,
         3
       ],
@@ -927,6 +931,10 @@
         {
           "date": "2026-05-19",
           "event": "NVIDIA Fine-Tuning Cosmos Predict 2.5 for Robot Video Generation with LoRA/DoRA"
+        },
+        {
+          "date": "2026-05-20",
+          "event": "2026-05-19: NVIDIA LongLive-2.0: NVFP4 Parallel Infrastructure for Efficient Long Video Generation; Google DeepMind LiteFrame: Efficient Vision Encoder for Scaling Frames; ByteDance Lance: Unified Multimodal Model for Understanding, Generation, and Editing"
         }
       ],
       "created": "2026-02-26"
@@ -951,13 +959,13 @@
         0,
         0,
         0,
-        0,
         1,
         0,
         1,
         1,
         1,
         2,
+        0,
         0
       ],
       "key_events": [
@@ -1017,14 +1025,14 @@
       "created": "2026-02-28"
     },
     {
-      "id": "ai-fueled_corporate_restructuring_and_wo",
-      "name": "AI-Fueled Corporate Restructuring and Workforce Transformation",
+      "id": "ai-generated_content_watermarking_and_pr",
+      "name": "AI-Generated Content Watermarking and Provenance Standards",
       "related_tags": [
-        "Meta",
-        "裁员",
-        "组织变革",
-        "企业重组",
-        "劳动力市场"
+        "Content Safety",
+        "AI Governance",
+        "Regulation",
+        "Industry Cooperation",
+        "Authentication"
       ],
       "trajectory": "accelerating",
       "signal_count": 1,
@@ -1033,22 +1041,22 @@
       ],
       "key_events": [
         {
-          "date": "2026-05-19",
+          "date": "2026-05-20",
           "event": "First detected"
         }
       ],
-      "created": "2026-05-19"
+      "created": "2026-05-20"
     },
     {
-      "id": "ai_supply_chain_security_and_release_pip",
-      "name": "AI Supply Chain Security and Release Pipeline Attacks",
+      "id": "multimodal_understanding_and_generation_",
+      "name": "Multimodal Understanding and Generation Convergence",
       "related_tags": [
-        "供应链安全",
-        "模型发布",
-        "安全漏洞",
-        "OpenAI",
-        "Anthropic",
-        "Meta"
+        "Multimodal AI",
+        "Unified Models",
+        "ByteDance",
+        "Research",
+        "Video Generation",
+        "Image Understanding"
       ],
       "trajectory": "accelerating",
       "signal_count": 1,
@@ -1057,11 +1065,35 @@
       ],
       "key_events": [
         {
-          "date": "2026-05-19",
+          "date": "2026-05-20",
           "event": "First detected"
         }
       ],
-      "created": "2026-05-19"
+      "created": "2026-05-20"
+    },
+    {
+      "id": "moe_efficiency_research_acceleration",
+      "name": "MoE Efficiency Research Acceleration",
+      "related_tags": [
+        "Mixture of Experts",
+        "Efficiency",
+        "Model Efficiency",
+        "Research",
+        "Inference",
+        "Self-Distillation"
+      ],
+      "trajectory": "accelerating",
+      "signal_count": 1,
+      "weekly_counts": [
+        1
+      ],
+      "key_events": [
+        {
+          "date": "2026-05-20",
+          "event": "First detected"
+        }
+      ],
+      "created": "2026-05-20"
     }
   ]
 }

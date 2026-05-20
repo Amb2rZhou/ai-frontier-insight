@@ -2,7 +2,7 @@
 title: OpenAI
 type: company
 created: 2026-02-25
-updated: 2026-05-19
+updated: 2026-05-20
 ---
 
 # OpenAI
@@ -11,6 +11,7 @@ The leading commercial AI lab, maker of [[gpt|GPT]] models, ChatGPT, [[codex|Cod
 
 ## Timeline
 
+- **2026-05-20**: OpenAI Adopts [[google-deepmind|Google]]'s SynthID Watermark for AI-Generated Images
 - **2026-05-19**: Supply-Chain Attacks on AI Model Release Pipelines Exposed
 - **2026-05-19**: [[anthropic|Anthropic]] Acquires SDK Automation Startup Stainless
 - **2026-05-18**: [[anthropic|Anthropic]] and OpenAI Command 89% of AI Startup Revenues, Widening Gap

@@ -2,7 +2,7 @@
 title: Anthropic
 type: company
 created: 2026-02-25
-updated: 2026-05-19
+updated: 2026-05-20
 ---
 
 # Anthropic
@@ -11,6 +11,7 @@ updated: 2026-05-19
 
 ## Timeline
 
+- **2026-05-20**: Anthropic Enables Enterprise Agent Credential Security via Self-Hosted Sandboxes in CMA
 - **2026-05-19**: Supply-Chain Attacks on AI Model Release Pipelines Exposed
 - **2026-05-19**: Anthropic Acquires SDK Automation Startup Stainless
 - **2026-05-18**: Anthropic and [[openai|OpenAI]] Command 89% of AI Startup Revenues, Widening Gap

@@ -2,7 +2,7 @@
 title: Open Source Models
 type: trend
 created: 2026-02-25
-updated: 2026-05-16
+updated: 2026-05-20
 ---
 
 # Open Source Models
@@ -13,6 +13,7 @@ The rapid proliferation of open-source and open-weight foundation models challen
 
 ## Timeline
 
+- **2026-05-20**: [[bytedance|ByteDance]] Research Releases Lance: Unified Multimodal Model for Understanding, Generation, and Editing
 - **2026-05-16**: [[openclaw|OpenClaw]] Open Source [[agent-frameworks|Agent Framework]] Gains Traction
 - **2026-05-16**: [Update] ExecuTorch Wins Best Industry Paper at MLSys 2026
 - **2026-05-16**: [[xai|xAI]] [[grok|Grok]] Subscription Integrated with Nous Hermes Agent

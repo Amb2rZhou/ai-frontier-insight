@@ -2,7 +2,7 @@
 title: AI Safety
 type: trend
 created: 2026-02-25
-updated: 2026-05-16
+updated: 2026-05-20
 ---
 
 # AI Safety
@@ -13,6 +13,9 @@ The evolving landscape of AI safety research, policy, and corporate commitments 
 
 ## Timeline
 
+- **2026-05-20**: GitHub Investigating Unauthorized Access to Internal Repositories; CISA Credentials Leaked on Public Repo
+- **2026-05-20**: [[anthropic|Anthropic]] Enables Enterprise Agent Credential Security via Self-Hosted Sandboxes in CMA
+- **2026-05-20**: [[openai|OpenAI]] Adopts [[google-deepmind|Google]]'s SynthID Watermark for AI-Generated Images
 - **2026-05-16**: YouTube Expands AI Deepfake Detection to All Adults
 - **2026-05-16**: Intercom/Fin Launches Agent-Managing [[agent-frameworks|AI Agent]]
 - **2026-05-13**: Perceptron Mk1: 80-90% Cheaper Video Analysis AI Model
