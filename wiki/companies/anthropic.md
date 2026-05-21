@@ -2,7 +2,7 @@
 title: Anthropic
 type: company
 created: 2026-02-25
-updated: 2026-05-20
+updated: 2026-05-21
 ---
 
 # Anthropic
@@ -11,6 +11,7 @@ updated: 2026-05-20
 
 ## Timeline
 
+- **2026-05-21**: Anthropic Anticipates First Profitable Quarter, Revenue Set to Double
 - **2026-05-20**: [[openai|OpenAI]] Guaranteed Capacity and Anthropic Token Commitments Signal Infrastructure Constraints
 - **2026-05-20**: Andrej Karpathy Joins Anthropic
 - **2026-05-20**: Anthropic Enables Enterprise Agent Credential Security via Self-Hosted Sandboxes in CMA

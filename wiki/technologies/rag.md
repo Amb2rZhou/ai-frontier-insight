@@ -2,7 +2,7 @@
 title: RAG
 type: technology
 created: 2026-02-25
-updated: 2026-05-19
+updated: 2026-05-21
 ---
 
 # RAG
@@ -11,6 +11,7 @@ Retrieval-Augmented Generation and related techniques for grounding AI model out
 
 ## Timeline
 
+- **2026-05-21**: Decision Context Graph Framework Proposed to Solve [[agent-frameworks|AI Agent]] Amnesia in Enterprise
 - **2026-05-19**: Context Architecture Emerges as [[agent-frameworks|Agentic]] AI Replaces Traditional RAG
 - **2026-05-15**: IBM Granite Embedding Multilingual R2: Best Sub-100M Retrieval Quality with 32K Context
 - **2026-05-15**: [[anthropic|Anthropic]] Picks Co-Leads for $900 Billion Valuation Funding Round

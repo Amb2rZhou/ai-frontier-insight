@@ -2,7 +2,7 @@
 title: Agent Frameworks
 type: technology
 created: 2026-02-25
-updated: 2026-05-20
+updated: 2026-05-21
 ---
 
 # Agent Frameworks
@@ -11,6 +11,9 @@ The rapidly evolving ecosystem of tools, SDKs, and platforms for building autono
 
 ## Timeline
 
+- **2026-05-21**: Decision Context Graph Framework Proposed to Solve AI Agent Amnesia in Enterprise
+- **2026-05-21**: [[nvidia|Jensen Huang]] Predicts $200B New Market: CPUs for AI Agents
+- **2026-05-21**: [[google-deepmind|Google]] Launches Managed Agents API for One-Call Agent Deployment
 - **2026-05-20**: [[openclaw|OpenClaw]] Integrates with X (Twitter), Enabling [[grok|Grok]] Models on Personal Hardware
 - **2026-05-20**: [[google-deepmind|Google]] I/O 2026: [[gemini|Gemini]] 3.5 Flash, Antigravity 2.0, and Agentic Search Overhaul
 - **2026-05-20**: [[anthropic|Anthropic]] Enables Enterprise Agent Credential Security via Self-Hosted Sandboxes in CMA

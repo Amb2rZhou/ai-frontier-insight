@@ -2,7 +2,7 @@
 title: Hugging Face
 type: company
 created: 2026-02-25
-updated: 2026-05-20
+updated: 2026-05-21
 ---
 
 
@@ -12,6 +12,7 @@ The central platform for [[open-source-models|open-source]] AI model hosting, da
 
 ## Timeline
 
+- **2026-05-21**: Cohere Releases Command A+ with Apache 2.0 License, Lossless Quantization, and Native Citations
 - **2026-05-20**: [[bytedance|ByteDance]] Releases Lance: Unified Multimodal Model for Understanding, Generation, and Editing
 - **2026-05-20**: Andrej Karpathy Joins [[anthropic|Anthropic]]
 - **2026-05-20**: [[bytedance|ByteDance]] Research Releases Lance: Unified Multimodal Model for Understanding, Generation, and Editing
