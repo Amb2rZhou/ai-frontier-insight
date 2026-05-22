@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22T07:21:45.947570+08:00",
+  "last_updated": "2026-05-22T10:36:22.033741+08:00",
   "trends": [
     {
       "id": "ai_safety_pivot_and_accelerated_agi_time",
@@ -15,9 +15,8 @@
         "Regulation"
       ],
       "trajectory": "accelerating",
-      "signal_count": 108,
+      "signal_count": 109,
       "weekly_counts": [
-        3,
         0,
         2,
         0,
@@ -28,7 +27,8 @@
         0,
         0,
         2,
-        0
+        0,
+        1
       ],
       "key_events": [
         {
@@ -90,6 +90,10 @@
         {
           "date": "2026-05-16",
           "event": "YouTube Expands AI Deepfake Detection to All Adults; GPT-5.5 Gains 98% Win Rate Over Claude 4 Sonnet on Economic Value Benchmark"
+        },
+        {
+          "date": "2026-05-22",
+          "event": "Mozilla Firefox 'Project Nova' Redesign Prioritizes AI Privacy Controls"
         }
       ],
       "created": "2026-02-25"
@@ -108,9 +112,8 @@
         "Business Models"
       ],
       "trajectory": "accelerating",
-      "signal_count": 99,
+      "signal_count": 101,
       "weekly_counts": [
-        1,
         1,
         1,
         1,
@@ -121,7 +124,8 @@
         2,
         0,
         2,
-        1
+        1,
+        2
       ],
       "key_events": [
         {
@@ -287,6 +291,10 @@
         {
           "date": "2026-05-22",
           "event": "Cohere Releases Command A+ with Apache 2.0 License, Lossless Quantization, and Native Citations"
+        },
+        {
+          "date": "2026-05-22",
+          "event": "TencentARC Pixal3D: Image-to-3D Model by Tencent ARC Lab"
         }
       ],
       "created": "2026-02-25"
@@ -305,9 +313,8 @@
         "Office"
       ],
       "trajectory": "accelerating",
-      "signal_count": 221,
+      "signal_count": 223,
       "weekly_counts": [
-        3,
         0,
         1,
         3,
@@ -318,7 +325,8 @@
         0,
         2,
         1,
-        4
+        4,
+        2
       ],
       "key_events": [
         {
@@ -376,6 +384,10 @@
         {
           "date": "2026-05-22",
           "event": "Google Launches Managed Agents API for One-Call Agent Deployment; Fortune 500 CIOs Flag Token Costs as Dominant Enterprise AI Concern"
+        },
+        {
+          "date": "2026-05-22",
+          "event": "Workday Reports 2x Quarter-over-Quarter Growth in Enterprise AI Agent Customers"
         }
       ],
       "created": "2026-02-25"
@@ -394,9 +406,8 @@
         "Model Efficiency"
       ],
       "trajectory": "accelerating",
-      "signal_count": 188,
+      "signal_count": 190,
       "weekly_counts": [
-        2,
         3,
         1,
         4,
@@ -407,7 +418,8 @@
         4,
         4,
         4,
-        1
+        1,
+        2
       ],
       "key_events": [
         {
@@ -449,6 +461,10 @@
         {
           "date": "2026-05-20",
           "event": "2026-05-20: Unsloth Enables 4-bit Qwen3.6 with Multi-Token Prediction Running Locally on 20GB RAM"
+        },
+        {
+          "date": "2026-05-22",
+          "event": "Peking University Video2GUI: Synthesizing Trajectories for GUI Agent Pretraining"
         }
       ],
       "created": "2026-02-25"
@@ -548,9 +564,8 @@
         "Video Generation"
       ],
       "trajectory": "accelerating",
-      "signal_count": 240,
+      "signal_count": 242,
       "weekly_counts": [
-        1,
         4,
         2,
         4,
@@ -561,6 +576,7 @@
         3,
         2,
         1,
+        2,
         2
       ],
       "key_events": [
@@ -627,6 +643,10 @@
         {
           "date": "2026-05-22",
           "event": "Decision Context Graph Framework Proposed to Solve AI Agent Amnesia in Enterprise"
+        },
+        {
+          "date": "2026-05-22",
+          "event": "CrewAI 1.14.6a1 Introduces Skills Repository and Registry for SDK Integration"
         }
       ],
       "created": "2026-02-25"
@@ -645,9 +665,8 @@
         "Nvidia"
       ],
       "trajectory": "accelerating",
-      "signal_count": 160,
+      "signal_count": 161,
       "weekly_counts": [
-        0,
         1,
         2,
         1,
@@ -658,7 +677,8 @@
         0,
         1,
         3,
-        3
+        3,
+        1
       ],
       "key_events": [
         {
@@ -720,6 +740,10 @@
         {
           "date": "2026-05-22",
           "event": "Jensen Huang Predicts $200B New Market: CPUs for AI Agents; Cerebras Claims Trillion-Parameter Inference Speed 7x Faster Than GPU Clouds"
+        },
+        {
+          "date": "2026-05-22",
+          "event": "HuggingFace Transformers v5.9.0 Adds Cohere2Moe Model Support"
         }
       ],
       "created": "2026-02-25"
@@ -738,11 +762,11 @@
         "DevTools"
       ],
       "trajectory": "accelerating",
-      "signal_count": 89,
+      "signal_count": 90,
       "weekly_counts": [
-        0,
         1,
         2,
+        1,
         1,
         1,
         1,
@@ -797,6 +821,10 @@
         {
           "date": "2026-05-22",
           "event": "GitHub Confirms 3,800 Repos Stolen via Poisoned VS Code Extension in Supply-Chain Attack"
+        },
+        {
+          "date": "2026-05-22",
+          "event": "Mozilla Firefox 'Project Nova' Redesign Prioritizes AI Privacy Controls"
         }
       ],
       "created": "2026-02-25"
@@ -815,9 +843,8 @@
         "AI Adoption"
       ],
       "trajectory": "accelerating",
-      "signal_count": 71,
+      "signal_count": 72,
       "weekly_counts": [
-        1,
         0,
         1,
         0,
@@ -828,6 +855,7 @@
         2,
         1,
         2,
+        1,
         1
       ],
       "key_events": [
@@ -898,6 +926,10 @@
         {
           "date": "2026-05-20",
           "event": "2026-05-19: ByteDance Research Releases Lance: Unified Multimodal Model for Understanding, Generation, and Editing; Baidu EndPrompt for long-context extension"
+        },
+        {
+          "date": "2026-05-22",
+          "event": "Alibaba Qwen3.7-Max Achieves 35-Hour Autonomous Agent Runtime"
         }
       ],
       "created": "2026-02-25"
@@ -916,9 +948,8 @@
         "Unified Models"
       ],
       "trajectory": "accelerating",
-      "signal_count": 114,
+      "signal_count": 117,
       "weekly_counts": [
-        0,
         2,
         1,
         2,
@@ -929,7 +960,8 @@
         3,
         3,
         3,
-        2
+        2,
+        3
       ],
       "key_events": [
         {
@@ -971,6 +1003,10 @@
         {
           "date": "2026-05-20",
           "event": "2026-05-20: ByteDance Releases Lance: Unified Multimodal Model for Understanding, Generation, and Editing"
+        },
+        {
+          "date": "2026-05-22",
+          "event": "Alibaba MIGA: Training-Free Long Video Generation Enhancing Temporal Consistency"
         }
       ],
       "created": "2026-02-26"
@@ -1091,6 +1127,29 @@
         }
       ],
       "created": "2026-05-20"
+    },
+    {
+      "id": "on-device_ai_and_edge_computing_accelera",
+      "name": "On-Device AI and Edge Computing Acceleration",
+      "related_tags": [
+        "Edge AI",
+        "On-Device",
+        "Hardware AI",
+        "Consumer Electronics",
+        "AI Chips"
+      ],
+      "trajectory": "accelerating",
+      "signal_count": 1,
+      "weekly_counts": [
+        1
+      ],
+      "key_events": [
+        {
+          "date": "2026-05-22",
+          "event": "First detected"
+        }
+      ],
+      "created": "2026-05-22"
     }
   ]
 }

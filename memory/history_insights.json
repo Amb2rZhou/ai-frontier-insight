@@ -1,66 +1,6 @@
 {
   "predictions": [
     {
-      "date": "2026-05-13T12:03:28.857148+08:00",
-      "prediction_text": "社区/电商平台可考虑在图片编辑、商品标注等场景集成指向式语音Agent，提升创作与购物体验。",
-      "category": "strategic_move",
-      "source_signal": "Google Gemini Intelligent Mouse Pointer Agent Prototype"
-    },
-    {
-      "date": "2026-05-13T12:03:28.863024+08:00",
-      "prediction_text": "搜索产品可探索用类似框架优化复杂查询（如攻略对比、产品测评）的多步推理与结果整合。",
-      "category": "research_breakthrough",
-      "source_signal": "Google RubricEM: Meta-RL for Deep Research Agents"
-    },
-    {
-      "date": "2026-05-13T12:03:28.867718+08:00",
-      "prediction_text": "内容平台可考虑让Agent自动在后台完成素材收集、排版、发布等跨工具操作，释放创作者精力。",
-      "category": "strategic_move",
-      "source_signal": "OpenAI Codex Computer Use Agent: Cross-App Background Operation"
-    },
-    {
-      "date": "2026-05-13T12:03:28.871993+08:00",
-      "prediction_text": "推荐系统可借鉴此思路，在模型蒸馏时保留一定随机探索，提升排序多样性与冷启效果。",
-      "category": "research_breakthrough",
-      "source_signal": "Microsoft Research Rebellious Student: Self-Distillation for Reasoning Exploration"
-    },
-    {
-      "date": "2026-05-13T12:03:28.876465+08:00",
-      "prediction_text": "创作者工具可考虑推出‘Agent编排面板’，让用户并行管理文案、修图、数据分析子Agent。",
-      "category": "strategic_move",
-      "source_signal": "Claude Code Acquires Agent View with Parallel Agent Management"
-    },
-    {
-      "date": "2026-05-13T12:03:28.879645+08:00",
-      "prediction_text": "电商/社区平台可探索用TabPFN-3替代部分CTR/CVR模型特征工程，实现毫秒级用户画像预测。",
-      "category": "model_release",
-      "source_signal": "TabPFN-3: Pretrained Tabular Foundation Model Released"
-    },
-    {
-      "date": "2026-05-13T12:03:28.882725+08:00",
-      "prediction_text": "内容安全团队值得关注Agent工具调用链的权限隔离与审计机制，防止第三方扩展劫持OAuth令牌。",
-      "category": "infrastructure",
-      "source_signal": "Team Confused Deputy Attack Matrix: Claude Security Blind Spots Revealed"
-    },
-    {
-      "date": "2026-05-13T12:03:28.885551+08:00",
-      "prediction_text": "推荐系统团队可探索将此方法用于用户行为序列的端到端建模，降低长序列训练成本。",
-      "category": "research_breakthrough",
-      "source_signal": "Nous Research Lighthouse Attention: Subquadratic Wrapper for Long-Context Pretraining"
-    },
-    {
-      "date": "2026-05-13T12:03:28.888085+08:00",
-      "prediction_text": "内容安全团队可考虑用低成本视频模型替换传统方案，在直播审核、视频标签场景大幅降低预算。",
-      "category": "infrastructure",
-      "source_signal": "Perceptron Mk1: 80-90% Cheaper Video Analysis AI Model"
-    },
-    {
-      "date": "2026-05-13T12:03:28.890626+08:00",
-      "prediction_text": "视频/直播平台自建推理集群时，建议同步规划绿色能源方案，避免后续政策与舆论风险。",
-      "category": "infrastructure",
-      "source_signal": "xAI Colossus 2 Expands Gas Turbine Power Despite Lawsuit"
-    },
-    {
       "date": "2026-05-15T11:26:19.571798+08:00",
       "prediction_text": "内容/社区平台应考虑加速自有模型或与Anthropic级别的供应商结成排他联盟，锁定推理成本与能力优势。",
       "category": "strategic_move",
@@ -599,6 +539,66 @@
       "prediction_text": "企业级 Agent 平台（如客服/采购助手）可以考虑引入 Decision Context Graph，提升多轮任务连贯性。",
       "category": "research_breakthrough",
       "source_signal": "Decision Context Graph Framework Proposed to Solve AI Agent Amnesia in Enterprise"
+    },
+    {
+      "date": "2026-05-22T10:36:10.372727+08:00",
+      "prediction_text": "社区平台的搜索增强Agent可探索将用户复杂需求（如行程规划）委托给35小时级后台Agent，异步返回结果。",
+      "category": "model_release",
+      "source_signal": "Alibaba Qwen3.7-Max Achieves 35-Hour Autonomous Agent Runtime"
+    },
+    {
+      "date": "2026-05-22T10:36:10.378824+08:00",
+      "prediction_text": "电商/社区平台的商家运营Agent（如自动客服、智能选品）可考虑推出按效果付费的商业模式。",
+      "category": "strategic_move",
+      "source_signal": "Workday Reports 2x Quarter-over-Quarter Growth in Enterprise AI Agent Customers"
+    },
+    {
+      "date": "2026-05-22T10:36:10.383428+08:00",
+      "prediction_text": "内容平台的AI功能设置应提供“一键关闭AIGC推荐/生成”入口，作为合规与信任基线功能。",
+      "category": "ecosystem_shift",
+      "source_signal": "Mozilla Firefox 'Project Nova' Redesign Prioritizes AI Privacy Controls"
+    },
+    {
+      "date": "2026-05-22T10:36:10.387563+08:00",
+      "prediction_text": "内容平台的视频编辑Agent可考虑从用户操作录屏中提取轨迹，低成本生成“自动剪辑”训练集。",
+      "category": "research_breakthrough",
+      "source_signal": "Peking University Video2GUI: Synthesizing Trajectories for GUI Agent Pretraining"
+    },
+    {
+      "date": "2026-05-22T10:36:10.391910+08:00",
+      "prediction_text": "视频生成工具可探索将MIGA集成到风格迁移管线，实现超30秒的连贯运镜。",
+      "category": "research_breakthrough",
+      "source_signal": "Alibaba MIGA: Training-Free Long Video Generation Enhancing Temporal Consistency"
+    },
+    {
+      "date": "2026-05-22T10:36:10.395128+08:00",
+      "prediction_text": "推荐系统/实时推理管线可评估Command A+替换现有稠密模型，压降单位查询成本30%以上。",
+      "category": "open_source",
+      "source_signal": "HuggingFace Transformers v5.9.0 Adds Cohere2Moe Model Support"
+    },
+    {
+      "date": "2026-05-22T10:36:10.398217+08:00",
+      "prediction_text": "电商平台商品拍摄工具可考虑接入Pixal3D，一键将用户实拍图转为3D模型，提升点击转化。",
+      "category": "open_source",
+      "source_signal": "TencentARC Pixal3D: Image-to-3D Model by Tencent ARC Lab"
+    },
+    {
+      "date": "2026-05-22T10:36:10.401075+08:00",
+      "prediction_text": "内容平台的语音创作Agent可关注端侧降噪芯片，实现户外高质量语音采集与实时转写。",
+      "category": "infrastructure",
+      "source_signal": "Anker Launches First Earbuds with Dedicated AI Chip for Noise Reduction"
+    },
+    {
+      "date": "2026-05-22T10:36:10.403625+08:00",
+      "prediction_text": "内容平台的Agent市场可参考Skills Registry设计“技能商店”，让创作者上传自建Agent工具。",
+      "category": "open_source",
+      "source_signal": "CrewAI 1.14.6a1 Introduces Skills Repository and Registry for SDK Integration"
+    },
+    {
+      "date": "2026-05-22T10:36:10.406187+08:00",
+      "prediction_text": "内容创作工具可探索用户上传3秒语音样本，一键生成个性化旁白或带货口播。",
+      "category": "open_source",
+      "source_signal": "ResembleAI Dramabox: Text-to-Speech with Voice Cloning by Diffusion Transformer"
     }
   ]
 }

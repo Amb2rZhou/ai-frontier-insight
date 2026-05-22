@@ -2,7 +2,7 @@
 title: Open Source Models
 type: trend
 created: 2026-02-25
-updated: 2026-05-20
+updated: 2026-05-22
 ---
 
 # Open Source Models
@@ -13,6 +13,10 @@ The rapid proliferation of open-source and open-weight foundation models challen
 
 ## Timeline
 
+- **2026-05-22**: ResembleAI Dramabox: Text-to-Speech with Voice Cloning by Diffusion Transformer
+- **2026-05-22**: CrewAI 1.14.6a1 Introduces Skills Repository and Registry for SDK Integration
+- **2026-05-22**: TencentARC Pixal3D: Image-to-3D Model by [[tencent|Tencent]] ARC Lab
+- **2026-05-22**: [[hugging-face|HuggingFace]] Transformers v5.9.0 Adds Cohere2Moe Model Support
 - **2026-05-20**: [[openclaw|OpenClaw]] Integrates with X (Twitter), Enabling [[grok|Grok]] Models on Personal Hardware
 - **2026-05-20**: Unsloth Enables 4-bit Qwen3.6 with Multi-Token Prediction Running Locally on 20GB RAM
 - **2026-05-20**: Andrej Karpathy Joins [[anthropic|Anthropic]]

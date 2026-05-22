@@ -2,7 +2,7 @@
 title: Anthropic
 type: company
 created: 2026-02-25
-updated: 2026-05-21
+updated: 2026-05-22
 ---
 
 # Anthropic
@@ -11,6 +11,7 @@ updated: 2026-05-21
 
 ## Timeline
 
+- **2026-05-22**: [[alibaba|Alibaba]] Qwen3.7-Max Achieves 35-Hour Autonomous Agent Runtime
 - **2026-05-21**: Anthropic Anticipates First Profitable Quarter, Revenue Set to Double
 - **2026-05-20**: [[openai|OpenAI]] Guaranteed Capacity and Anthropic Token Commitments Signal Infrastructure Constraints
 - **2026-05-20**: Andrej Karpathy Joins Anthropic

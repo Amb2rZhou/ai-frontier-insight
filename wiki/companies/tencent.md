@@ -2,7 +2,7 @@
 title: Tencent
 type: company
 created: 2026-03-28
-updated: 2026-05-17
+updated: 2026-05-22
 ---
 
 # Tencent
@@ -11,6 +11,7 @@ Chinese technology conglomerate active in AI through Hunyuan models, [[embodied-
 
 ## Timeline
 
+- **2026-05-22**: TencentARC Pixal3D: Image-to-3D Model by Tencent ARC Lab
 - **2026-05-17**: TencentARC Pixal3D: Image-to-3D Model from Tencent AI Lab
 - **2026-05-12**: Tencent's Listwise Policy Optimization: Group-based RLVR for LLM Alignment
 - **2026-05-09**: Tencent Proposes MiA-Signature for Efficient Long-Context Understanding
