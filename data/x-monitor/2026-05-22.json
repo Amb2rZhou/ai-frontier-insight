@@ -1,11 +1,1862 @@
 {
   "source": "x-monitor",
-  "scraped_at": "2026-05-22T07:53:09.563764",
+  "scraped_at": "2026-05-22T14:21:41.331649",
   "date": "2026-05-22",
   "list_urls": [
     "https://x.com/i/lists/2026486577304842549"
   ],
-  "tweet_count": 0,
-  "account_count": 0,
-  "tweets": []
+  "tweet_count": 163,
+  "account_count": 64,
+  "tweets": [
+    {
+      "id": "2057704270531903811",
+      "username": "gdb",
+      "text": "trying to remember what it was like to code before codex",
+      "timestamp": "2026-05-22T06:05:03+00:00",
+      "url": "https://x.com/gdb/status/2057704270531903811",
+      "images": [],
+      "likes": 115,
+      "retweets": 0,
+      "views": 3002
+    },
+    {
+      "id": "2057695808267649327",
+      "username": "thsottiaux",
+      "text": "Codex is our WorkGPT",
+      "timestamp": "2026-05-22T05:31:25+00:00",
+      "url": "https://x.com/thsottiaux/status/2057695808267649327",
+      "images": [],
+      "likes": 388,
+      "retweets": 8,
+      "views": 11456
+    },
+    {
+      "id": "2057682092583227881",
+      "username": "OfficialLoganK",
+      "text": "Gemini 3.5 Flash has made huge progress from 3.1 Pro on GDPval, Flash is competing at the frontier, post training going strong :) https://t.co/XW1cyiv1Ru",
+      "timestamp": "2026-05-22T04:36:55+00:00",
+      "url": "https://x.com/OfficialLoganK/status/2057682092583227881",
+      "images": [
+        "https://pbs.twimg.com/media/HI5a9YlasAAe1-G.jpg"
+      ],
+      "likes": 323,
+      "retweets": 12,
+      "views": 16485
+    },
+    {
+      "id": "2057671155746480148",
+      "username": "DeryaTR_",
+      "text": "Grok: the water footprint of one almond could theoretically power thousands of prompts—easily 3,000–12,000+ responses, or millions of tokens. I’ll trade my almonds for tokens😅",
+      "timestamp": "2026-05-22T03:53:27+00:00",
+      "url": "https://x.com/DeryaTR_/status/2057671155746480148",
+      "images": [],
+      "likes": 6,
+      "retweets": 0,
+      "views": 5342
+    },
+    {
+      "id": "2057663408376516703",
+      "username": "levie",
+      "text": "What’s happened is that we went from AI chat tools that were relatively cheap and had small context windows, to AI agents that have giant context windows, the ability to keep track of longer running work, and models that cost an order of magnitude more on inference because",
+      "timestamp": "2026-05-22T03:22:40+00:00",
+      "url": "https://x.com/levie/status/2057663408376516703",
+      "images": [],
+      "likes": 389,
+      "retweets": 42,
+      "views": 91451
+    },
+    {
+      "id": "2057657957442056465",
+      "username": "ChrSzegedy",
+      "text": "For math, I give it about a year, as well, (maybe two) due to the vastly higher diversity and complexity of math compared to chess.",
+      "timestamp": "2026-05-22T03:01:01+00:00",
+      "url": "https://x.com/ChrSzegedy/status/2057657957442056465",
+      "images": [],
+      "likes": 76,
+      "retweets": 4,
+      "views": 11153
+    },
+    {
+      "id": "2057657580546322844",
+      "username": "OfficialLoganK",
+      "text": "We just 3xed the Antigravity limits again, but this time, the weekly quotas. We want you to stay in flow state building with Gemini so we hope this helps! Keep the feedback coming : )",
+      "timestamp": "2026-05-22T02:59:31+00:00",
+      "url": "https://x.com/OfficialLoganK/status/2057657580546322844",
+      "images": [],
+      "likes": 659,
+      "retweets": 28,
+      "views": 44168
+    },
+    {
+      "id": "2057650157358055625",
+      "username": "gdb",
+      "text": "codex for using all apps on your computer from your phone",
+      "timestamp": "2026-05-22T02:30:01+00:00",
+      "url": "https://x.com/gdb/status/2057650157358055625",
+      "images": [],
+      "likes": 413,
+      "retweets": 12,
+      "views": 49549
+    },
+    {
+      "id": "2057646576076501325",
+      "username": "DeryaTR_",
+      "text": "Wow! Qwen 3.7-max really made a big jump in agentic capabilities! Very interesting agentic task, by the way.",
+      "timestamp": "2026-05-22T02:15:47+00:00",
+      "url": "https://x.com/DeryaTR_/status/2057646576076501325",
+      "images": [],
+      "likes": 56,
+      "retweets": 4,
+      "views": 8111
+    },
+    {
+      "id": "2057640492020469845",
+      "username": "tri_dao",
+      "text": "After some mathematical rewrite, turns out all of transformer is a series of gemm + epilogue. Given a few optimized primitives, LLMs (and novice humans) can write speed-of-light kernels for all transformer ops!",
+      "timestamp": "2026-05-22T01:51:37+00:00",
+      "url": "https://x.com/tri_dao/status/2057640492020469845",
+      "images": [],
+      "likes": 433,
+      "retweets": 37,
+      "views": 29498
+    },
+    {
+      "id": "2057628984092111215",
+      "username": "surface",
+      "text": "Surface for Business.\nDesigned for brilliance. Engineered for security. Trusted for transformation. https://t.co/Xm9Uu000Pz",
+      "timestamp": "2026-05-22T01:05:53+00:00",
+      "url": "https://x.com/surface/status/2057628984092111215",
+      "images": [
+        "https://pbs.twimg.com/media/HI4gMWDXoAAb-Xb.jpg"
+      ],
+      "likes": 10,
+      "retweets": 1,
+      "views": 2029
+    },
+    {
+      "id": "2057626576779723014",
+      "username": "mathemagic1an",
+      "text": "Never easy to restructure, but this is a massive leap for the co\n\nMaintaining a crazy bar for talent, lean and elite without pre-AI procedural overhead. Letting 100x engineers rip with generous compensation.\n\nFuture of SWE at tech companies looks like this. Vibes are immaculate",
+      "timestamp": "2026-05-22T00:56:19+00:00",
+      "url": "https://x.com/mathemagic1an/status/2057626576779723014",
+      "images": [],
+      "likes": 23,
+      "retweets": 8,
+      "views": 6082
+    },
+    {
+      "id": "2057617889453342909",
+      "username": "PalmerLuckey",
+      "text": "And this is the one we can actually show you.",
+      "timestamp": "2026-05-22T00:21:48+00:00",
+      "url": "https://x.com/PalmerLuckey/status/2057617889453342909",
+      "images": [],
+      "likes": 3287,
+      "retweets": 136,
+      "views": 223690
+    },
+    {
+      "id": "2057614780727480741",
+      "username": "sama",
+      "text": "what problem do you most hope AI will solve in the future?\n\nmaybe we can help!",
+      "timestamp": "2026-05-22T00:09:27+00:00",
+      "url": "https://x.com/sama/status/2057614780727480741",
+      "images": [],
+      "likes": 6750,
+      "retweets": 381,
+      "views": 1356611
+    },
+    {
+      "id": "2057610132742156603",
+      "username": "GaryMarcus",
+      "text": "Token Maxxing, April 2026-May 2026, RIP 🪦",
+      "timestamp": "2026-05-21T23:50:58+00:00",
+      "url": "https://x.com/GaryMarcus/status/2057610132742156603",
+      "images": [],
+      "likes": 243,
+      "retweets": 27,
+      "views": 30955
+    },
+    {
+      "id": "2057608752321507374",
+      "username": "Miles_Brundage",
+      "text": "Chain of thoughts and prayers",
+      "timestamp": "2026-05-21T23:45:29+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2057608752321507374",
+      "images": [],
+      "likes": 56,
+      "retweets": 6,
+      "views": 1583
+    },
+    {
+      "id": "2057606098983456840",
+      "username": "nvidia",
+      "text": "Everyone’s watching what comes next.\n\nStart with the NVIDIA GTC Live pregame show at COMPUTEX 2026.\n\nThen watch Jensen Huang take the stage in Taipei to unveil the latest breakthroughs in AI and accelerated computing.\n\nTune in: https://t.co/07vcM78W7l\n\n📍 Monday, June 1 | 9 a.m. https://t.co/xwK1piDDsu",
+      "timestamp": "2026-05-21T23:34:57+00:00",
+      "url": "https://x.com/nvidia/status/2057606098983456840",
+      "images": [],
+      "likes": 122,
+      "retweets": 18,
+      "views": 15914
+    },
+    {
+      "id": "2057604633594626425",
+      "username": "Miles_Brundage",
+      "text": "It's arguably easier to tell when a figure or website was AI generated vs. text",
+      "timestamp": "2026-05-21T23:29:07+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2057604633594626425",
+      "images": [],
+      "likes": 10,
+      "retweets": 0,
+      "views": 875
+    },
+    {
+      "id": "2057593931940905139",
+      "username": "GavinSBaker",
+      "text": "Really happy to hear that Starcloud is using SpaceX for launch. Such a good name. And for all the orbital compute skeptics, they have an H100 in space today that has been used for both training and inference.",
+      "timestamp": "2026-05-21T22:46:36+00:00",
+      "url": "https://x.com/GavinSBaker/status/2057593931940905139",
+      "images": [],
+      "likes": 352,
+      "retweets": 17,
+      "views": 61229
+    },
+    {
+      "id": "2057586366448603470",
+      "username": "a16z",
+      "text": "\"If you’re affluent, you can hire private security or move to a safer neighborhood. If you’re not, crime is simply the cost of being alive. That’s the gap Langley has been trying to close from the beginning.\"\n\nFlock and the Future of Safety in American Cities: https://t.co/zGr9pP2XwC",
+      "timestamp": "2026-05-21T22:16:32+00:00",
+      "url": "https://x.com/a16z/status/2057586366448603470",
+      "images": [
+        "https://pbs.twimg.com/media/HI4D5W9aEAA7Agm.jpg"
+      ],
+      "likes": 43,
+      "retweets": 8,
+      "views": 12361
+    },
+    {
+      "id": "2057582329548447770",
+      "username": "gdb",
+      "text": "OpenAI for YC companies:",
+      "timestamp": "2026-05-21T22:00:30+00:00",
+      "url": "https://x.com/gdb/status/2057582329548447770",
+      "images": [],
+      "likes": 285,
+      "retweets": 19,
+      "views": 55656
+    },
+    {
+      "id": "2057579674642063452",
+      "username": "thsottiaux",
+      "text": "Dark magic. Codex.",
+      "timestamp": "2026-05-21T21:49:57+00:00",
+      "url": "https://x.com/thsottiaux/status/2057579674642063452",
+      "images": [],
+      "likes": 1141,
+      "retweets": 23,
+      "views": 99050
+    },
+    {
+      "id": "2057576065611272515",
+      "username": "Yoshua_Bengio",
+      "text": "I was happy to join the @ScienceBoard_UN podcast to discuss deception among frontier AI models and the need to manage its potential global impacts and risks.",
+      "timestamp": "2026-05-21T21:35:36+00:00",
+      "url": "https://x.com/Yoshua_Bengio/status/2057576065611272515",
+      "images": [],
+      "likes": 23,
+      "retweets": 3,
+      "views": 3689
+    },
+    {
+      "id": "2057574679473266957",
+      "username": "ClementDelangue",
+      "text": "I'm excited about the new @amd Ryzen AI Halo because we need more local hardware for AI builders!\n\nThere's something fun and exciting about building on your own machines rather than sending to the cloud! Should we do our own @huggingface hardware for AI builders at some point? https://t.co/aS2N2BDMHm",
+      "timestamp": "2026-05-21T21:30:06+00:00",
+      "url": "https://x.com/ClementDelangue/status/2057574679473266957",
+      "images": [],
+      "likes": 187,
+      "retweets": 20,
+      "views": 22370
+    },
+    {
+      "id": "2057571552594686105",
+      "username": "ChrSzegedy",
+      "text": "OK, I found one that I can predict with 99% certainty:\n\nWhenever AI proves P!=NP, RH, or other millennium prize problems, there will be a few loud voices claiming that it is not \"new math,\" \"just combined some existing ideas,\" or some other copium.",
+      "timestamp": "2026-05-21T21:17:40+00:00",
+      "url": "https://x.com/ChrSzegedy/status/2057571552594686105",
+      "images": [],
+      "likes": 255,
+      "retweets": 10,
+      "views": 18802
+    },
+    {
+      "id": "2057568693400260748",
+      "username": "ClementDelangue",
+      "text": "Looks like I was *just* two years early haha https://t.co/rFVAXvRmsf",
+      "timestamp": "2026-05-21T21:06:18+00:00",
+      "url": "https://x.com/ClementDelangue/status/2057568693400260748",
+      "images": [
+        "https://pbs.twimg.com/media/HI3zzgWWMAAKwni.jpg"
+      ],
+      "likes": 43,
+      "retweets": 3,
+      "views": 3782
+    },
+    {
+      "id": "2057568276390043928",
+      "username": "GaryMarcus",
+      "text": "can’t believe people assume that success on highly verifiable problems in math (where we don’t even know how many tests were performed and how many might have failed) iautomatically generalize to everything else when there is not a shred of evidence that they do. 🤷‍♂️",
+      "timestamp": "2026-05-21T21:04:39+00:00",
+      "url": "https://x.com/GaryMarcus/status/2057568276390043928",
+      "images": [],
+      "likes": 128,
+      "retweets": 9,
+      "views": 15603
+    },
+    {
+      "id": "2057567106799894551",
+      "username": "Azure",
+      "text": "AI is transforming how businesses innovate but scaling it securely and cost‑effectively is the real challenge. Azure Essentials gives you proven tools and methodologies to build resilient, secure AI solutions with confidence. \n\nExplore the infographic: https://t.co/78sNk4p4dH https://t.co/A06228GeuB",
+      "timestamp": "2026-05-21T21:00:00+00:00",
+      "url": "https://x.com/Azure/status/2057567106799894551",
+      "images": [],
+      "likes": 16,
+      "retweets": 4,
+      "views": 3686
+    },
+    {
+      "id": "2057567085790724461",
+      "username": "Thom_Wolf",
+      "text": "New inflection point in the accelerating growth of open-source models usage is coming",
+      "timestamp": "2026-05-21T20:59:55+00:00",
+      "url": "https://x.com/Thom_Wolf/status/2057567085790724461",
+      "images": [],
+      "likes": 144,
+      "retweets": 15,
+      "views": 47786
+    },
+    {
+      "id": "2057567015716470807",
+      "username": "DeryaTR_",
+      "text": "Gemini 3.5 Flash in Google Search can now predict the next word for your brain too ☺️",
+      "timestamp": "2026-05-21T20:59:38+00:00",
+      "url": "https://x.com/DeryaTR_/status/2057567015716470807",
+      "images": [],
+      "likes": 62,
+      "retweets": 7,
+      "views": 10791
+    },
+    {
+      "id": "2057564819893445025",
+      "username": "EMostaque",
+      "text": "Narrow math speciality counts for a lot of things!\n\nA physics example:\n\nMany have studied special relativity.\n\nHow many know or have computed the Killing Form of the space time algebra?\n\nIf you do then you see a finite invariant speed of light is forced:\n\nhttps://t.co/wfaSvhOpbI",
+      "timestamp": "2026-05-21T20:50:55+00:00",
+      "url": "https://x.com/EMostaque/status/2057564819893445025",
+      "images": [],
+      "likes": 16,
+      "retweets": 0,
+      "views": 5768
+    },
+    {
+      "id": "2057561615868813631",
+      "username": "gdb",
+      "text": "Daybreak for helping cybersecurity at major banks:",
+      "timestamp": "2026-05-21T20:38:11+00:00",
+      "url": "https://x.com/gdb/status/2057561615868813631",
+      "images": [],
+      "likes": 216,
+      "retweets": 3,
+      "views": 61702
+    },
+    {
+      "id": "2057559714788258003",
+      "username": "sama",
+      "text": "new codex ships today!",
+      "timestamp": "2026-05-21T20:30:38+00:00",
+      "url": "https://x.com/sama/status/2057559714788258003",
+      "images": [],
+      "likes": 2451,
+      "retweets": 112,
+      "views": 362048
+    },
+    {
+      "id": "2057556336003416553",
+      "username": "gdb",
+      "text": "ChatGPT for PowerPoint:",
+      "timestamp": "2026-05-21T20:17:12+00:00",
+      "url": "https://x.com/gdb/status/2057556336003416553",
+      "images": [],
+      "likes": 624,
+      "retweets": 26,
+      "views": 80525
+    },
+    {
+      "id": "2057555448358728011",
+      "username": "DeryaTR_",
+      "text": "Very cool Codex update! OpenAI keeps on giving ☺️",
+      "timestamp": "2026-05-21T20:13:41+00:00",
+      "url": "https://x.com/DeryaTR_/status/2057555448358728011",
+      "images": [],
+      "likes": 71,
+      "retweets": 2,
+      "views": 18409
+    },
+    {
+      "id": "2057550225863246236",
+      "username": "GeminiApp",
+      "text": "Gemini can now connect to even more apps, including @OpenTable, @Canva, and @Instacart.\n\nWhether you're booking a table at a restaurant, creating a flyer, or ordering groceries, Gemini doesn’t just find info, it helps you take action seamlessly with connected apps.",
+      "timestamp": "2026-05-21T19:52:55+00:00",
+      "url": "https://x.com/GeminiApp/status/2057550225863246236",
+      "images": [],
+      "likes": 730,
+      "retweets": 77,
+      "views": 46455
+    },
+    {
+      "id": "2057549563494650223",
+      "username": "gdb",
+      "text": "codex app continues to get extremely good, plus features for businesses and enterprise such as token analytics and plugin sharing",
+      "timestamp": "2026-05-21T19:50:18+00:00",
+      "url": "https://x.com/gdb/status/2057549563494650223",
+      "images": [],
+      "likes": 461,
+      "retweets": 18,
+      "views": 43969
+    },
+    {
+      "id": "2057538350995714376",
+      "username": "srush_nlp",
+      "text": "Talk: Training Composer \nhttps://t.co/diSjKhP4g5\n\nOverview of the methods that we use at Cursor to build our model.",
+      "timestamp": "2026-05-21T19:05:44+00:00",
+      "url": "https://x.com/srush_nlp/status/2057538350995714376",
+      "images": [],
+      "likes": 412,
+      "retweets": 45,
+      "views": 32238
+    },
+    {
+      "id": "2057536706778378692",
+      "username": "OpenAIDevs",
+      "text": "Codex anywhere and everywhere, all the time.\n\nNow your Mac doesn’t have to be unlocked for Codex to use your computer.\n\nFrom your phone, Codex can securely use apps on your Mac, even when the screen is off and locked.\n\nhttps://t.co/PCGK4i7FSF https://t.co/956aAtM3vl",
+      "timestamp": "2026-05-21T18:59:12+00:00",
+      "url": "https://x.com/OpenAIDevs/status/2057536706778378692",
+      "images": [
+        "https://pbs.twimg.com/media/HI3Wilra8AAKpov.jpg"
+      ],
+      "likes": 5691,
+      "retweets": 354,
+      "views": 887434
+    },
+    {
+      "id": "2057535097537233243",
+      "username": "__tinygrad__",
+      "text": "Our supplier is raising the price of Blackwell cards +$2200 each. As a result, we'll have to further raise the price of the tinybox green v2 blackwell. This is the last week to get your order in at the old price.",
+      "timestamp": "2026-05-21T18:52:49+00:00",
+      "url": "https://x.com/__tinygrad__/status/2057535097537233243",
+      "images": [],
+      "likes": 190,
+      "retweets": 4,
+      "views": 21216
+    },
+    {
+      "id": "2057534253790097788",
+      "username": "mathemagic1an",
+      "text": "Congrats to @modal on the Series C!\n\nAGI will be written in python and run on Modal.\n\nUnreal execution from this team since the very beginning - we built our entire backend on them at @codegen and I'd do it again in a heartbeat.",
+      "timestamp": "2026-05-21T18:49:27+00:00",
+      "url": "https://x.com/mathemagic1an/status/2057534253790097788",
+      "images": [],
+      "likes": 30,
+      "retweets": 1,
+      "views": 2466
+    },
+    {
+      "id": "2057530760274538802",
+      "username": "paraga",
+      "text": "Yes! For humans, ads was the most efficient business model due to the human cognitive overhead with payments. With agents, direct payments will work much better.\n\nThis is why I’m so optimistic about high quality content thriving on the web as agents take over.",
+      "timestamp": "2026-05-21T18:35:34+00:00",
+      "url": "https://x.com/paraga/status/2057530760274538802",
+      "images": [],
+      "likes": 124,
+      "retweets": 4,
+      "views": 18244
+    },
+    {
+      "id": "2057530047880159477",
+      "username": "littmath",
+      "text": "Pretty interesting -- ChatGPT 5.5 Pro, with pretty minimal human guidance (and apparently without web search), also finds the counterexample to unit distance.",
+      "timestamp": "2026-05-21T18:32:45+00:00",
+      "url": "https://x.com/littmath/status/2057530047880159477",
+      "images": [],
+      "likes": 571,
+      "retweets": 37,
+      "views": 66855
+    },
+    {
+      "id": "2057529510799761532",
+      "username": "googledevs",
+      "text": "That’s a wrap on #GoogleIO! 🎬✨\n\nMissed a moment or want to dive deeper? All sessions, including the full Developer Keynote, are now available to watch on-demand.\n\nCatch up on the latest in AI, Android, Chrome, and Cloud whenever, wherever you want.\n\nWatch now: https://t.co/beDcXbi4M2",
+      "timestamp": "2026-05-21T18:30:37+00:00",
+      "url": "https://x.com/googledevs/status/2057529510799761532",
+      "images": [
+        "https://pbs.twimg.com/media/HI3J0KVbwAA0XBB.jpg"
+      ],
+      "likes": 112,
+      "retweets": 17,
+      "views": 9581
+    },
+    {
+      "id": "2057522050923929948",
+      "username": "xai",
+      "text": "You can now use your @grok or X Premium subscription in @opencode.\n\nUse the model powering Grok Build for high speed and codebase intelligence.\n\nhttps://t.co/8D2F9jYoIQ https://t.co/kX170e84IL",
+      "timestamp": "2026-05-21T18:00:58+00:00",
+      "url": "https://x.com/xai/status/2057522050923929948",
+      "images": [
+        "https://pbs.twimg.com/media/HI3IJlHbAAAWWYL.png"
+      ],
+      "likes": 3356,
+      "retweets": 374,
+      "views": 600525
+    },
+    {
+      "id": "2057521835193884848",
+      "username": "NVIDIAAI",
+      "text": "Dev Community Live: NYC Spark Hack Winners https://t.co/iIZ9DDl86H",
+      "timestamp": "2026-05-21T18:00:07+00:00",
+      "url": "https://x.com/NVIDIAAI/status/2057521835193884848",
+      "images": [],
+      "likes": 20,
+      "retweets": 3,
+      "views": 3065
+    },
+    {
+      "id": "2057521674023473285",
+      "username": "DeryaTR_",
+      "text": "Incredible math breakthrough by OpenAI’s internal model cannot be overstated! \n\n“This is incredible progress for mathematics, since this is (unlike previous Erdos problems solved by AI) a major breakthrough, in one of the most studied problems in combinatorial geometry. If you're",
+      "timestamp": "2026-05-21T17:59:28+00:00",
+      "url": "https://x.com/DeryaTR_/status/2057521674023473285",
+      "images": [],
+      "likes": 100,
+      "retweets": 9,
+      "views": 16666
+    },
+    {
+      "id": "2057517583914389847",
+      "username": "emollick",
+      "text": "I don't think anyone has a good intuitive sense about what this means, and that failure of imagination is a generally bad thing for planning, investment, and policy.\n\nI also don't have an easy solution (funnily enough, AIs are cliche at imagining the AI future, so no help there)",
+      "timestamp": "2026-05-21T17:43:13+00:00",
+      "url": "https://x.com/emollick/status/2057517583914389847",
+      "images": [],
+      "likes": 319,
+      "retweets": 14,
+      "views": 25008
+    },
+    {
+      "id": "2057516003257352617",
+      "username": "deliprao",
+      "text": "To everyone claiming DeepMind has “lost the plot” when it comes to AI, they don’t see how fractally complex their teams are, their initiatives are, and how massive their infrastructure is. Sure, the product teams could use some less internal politicking/competition and put a",
+      "timestamp": "2026-05-21T17:36:56+00:00",
+      "url": "https://x.com/deliprao/status/2057516003257352617",
+      "images": [],
+      "likes": 44,
+      "retweets": 3,
+      "views": 12037
+    },
+    {
+      "id": "2057511895834194038",
+      "username": "PyTorch",
+      "text": "Federated Learning Without the Refactoring Overhead\n\nThe most valuable data is often the least movable. Regulatory boundaries, data sovereignty rules, and organizational risk tolerance routinely prevent centralized aggregation. Meanwhile, sheer data gravity makes even permitted",
+      "timestamp": "2026-05-21T17:20:37+00:00",
+      "url": "https://x.com/PyTorch/status/2057511895834194038",
+      "images": [],
+      "likes": 43,
+      "retweets": 3,
+      "views": 7737
+    },
+    {
+      "id": "2057506707790524503",
+      "username": "Azure",
+      "text": "Your VMware‑to‑Azure roadmap starts here. Learn how to choose the right path for every workload, Azure VMs, PaaS, or Azure VMware Solution.\n\nRegister today: https://t.co/og98OBxCWd https://t.co/Qpl0YRg9dR",
+      "timestamp": "2026-05-21T17:00:00+00:00",
+      "url": "https://x.com/Azure/status/2057506707790524503",
+      "images": [],
+      "likes": 21,
+      "retweets": 5,
+      "views": 4698
+    },
+    {
+      "id": "2057504928566804891",
+      "username": "GaryMarcus",
+      "text": "Yowza! Similar in some ways to the Stanford paper recently on LLMs hallucinating responses to images they never saw.",
+      "timestamp": "2026-05-21T16:52:56+00:00",
+      "url": "https://x.com/GaryMarcus/status/2057504928566804891",
+      "images": [],
+      "likes": 163,
+      "retweets": 32,
+      "views": 28909
+    },
+    {
+      "id": "2057500653426188343",
+      "username": "chrmanning",
+      "text": "Got to meet Jack and hear a bit about Google Omni and Genie 3 last night. Great guy, great vision for the future of embodied AI via reinforcement learning.",
+      "timestamp": "2026-05-21T16:35:56+00:00",
+      "url": "https://x.com/chrmanning/status/2057500653426188343",
+      "images": [],
+      "likes": 40,
+      "retweets": 3,
+      "views": 12392
+    },
+    {
+      "id": "2057498473650598253",
+      "username": "__tinygrad__",
+      "text": ".@tenstorrent when you are ready, we'll get you on MLPerf for $10M. Ground up stack, one 1MB pip install, zero C++20 (pure Python). From how many people I see on X trying to rewrite it, your current software approach isn't working.",
+      "timestamp": "2026-05-21T16:27:17+00:00",
+      "url": "https://x.com/__tinygrad__/status/2057498473650598253",
+      "images": [],
+      "likes": 385,
+      "retweets": 9,
+      "views": 23825
+    },
+    {
+      "id": "2057497924347515031",
+      "username": "GaryMarcus",
+      "text": "You can be a cheerleader, or you can be a scientist.\n\nCan’t be both.\n\ncc: @scaling01 https://t.co/1UWlZPp3Eq",
+      "timestamp": "2026-05-21T16:25:06+00:00",
+      "url": "https://x.com/GaryMarcus/status/2057497924347515031",
+      "images": [
+        "https://pbs.twimg.com/media/HI2zdZKWsAA55AW.jpg"
+      ],
+      "likes": 50,
+      "retweets": 4,
+      "views": 4470
+    },
+    {
+      "id": "2057495307575799882",
+      "username": "NVIDIARobotics",
+      "text": "🎉 NVIDIA Jetson Thor won the COMPUTEX Best Choice Golden Award as the most powerful edge AI compute platform for physical AI and autonomous machines.\n\nBuilt to bring generative AI to smart robots, industrial systems, and medical devices, it delivers breakthrough performance and https://t.co/hNfD100CYu",
+      "timestamp": "2026-05-21T16:14:42+00:00",
+      "url": "https://x.com/NVIDIARobotics/status/2057495307575799882",
+      "images": [],
+      "likes": 292,
+      "retweets": 42,
+      "views": 13553
+    },
+    {
+      "id": "2057490138117149084",
+      "username": "GaryMarcus",
+      "text": "It’s crazy that OpenAI and xAI were built partly as ways to mitigate @demishassabis’s power and how both are more reckless and less focused on the good part, viz AI for science.\n\nAnd then Anthropic was built as antidote to OpenAI but for the most part has followed the same LLM",
+      "timestamp": "2026-05-21T15:54:09+00:00",
+      "url": "https://x.com/GaryMarcus/status/2057490138117149084",
+      "images": [],
+      "likes": 109,
+      "retweets": 10,
+      "views": 8783
+    },
+    {
+      "id": "2057484014722707789",
+      "username": "DeryaTR_",
+      "text": "Major jump in the Artificial Analysis index for the just-released Alibaba Qwen 3.7 Max, which has now surpassed Gemini 3.5 Flash, also just released from Google! \n\nChinese AI models are catching up faster, and the gap with SOTA American models is narrowing.",
+      "timestamp": "2026-05-21T15:29:49+00:00",
+      "url": "https://x.com/DeryaTR_/status/2057484014722707789",
+      "images": [],
+      "likes": 80,
+      "retweets": 7,
+      "views": 10449
+    },
+    {
+      "id": "2057477428377747488",
+      "username": "Austen",
+      "text": "So it’s complicated but he’s right.\n\nIf a company’s job is to do x they will certainly be able to do x with fewer people. Some will.\n\nBut they can also do more things. Or create new companies.\n\nUntil you’re out of newly valuable things to do.\n\nWhich is probably never.",
+      "timestamp": "2026-05-21T15:03:39+00:00",
+      "url": "https://x.com/Austen/status/2057477428377747488",
+      "images": [],
+      "likes": 61,
+      "retweets": 1,
+      "views": 10396
+    },
+    {
+      "id": "2057476878110261587",
+      "username": "bcherny",
+      "text": "In the next version of Claude Code: run /usage to see a breakdown of which Skills, Agents, MCPs, and Plugins are using your tokens\n\nCLI today, coming to Desktop next https://t.co/HK8XQO6bBA",
+      "timestamp": "2026-05-21T15:01:28+00:00",
+      "url": "https://x.com/bcherny/status/2057476878110261587",
+      "images": [
+        "https://pbs.twimg.com/media/HI2f5tdWQAArBAb.jpg"
+      ],
+      "likes": 4556,
+      "retweets": 329,
+      "views": 212243
+    },
+    {
+      "id": "2057475718712270951",
+      "username": "GaryMarcus",
+      "text": "So much for Nvidia’s cash flow. Wild.",
+      "timestamp": "2026-05-21T14:56:52+00:00",
+      "url": "https://x.com/GaryMarcus/status/2057475718712270951",
+      "images": [],
+      "likes": 232,
+      "retweets": 33,
+      "views": 44747
+    },
+    {
+      "id": "2057470761552502794",
+      "username": "GaryMarcus",
+      "text": "all these dudes posting about anthropic’s profits without checking the fine print. (see my earlier tweet)\n\nthere’s some fine print i believe that n the openai result too, and a lot that has not been disclosed \n\nthe rest is just about hype",
+      "timestamp": "2026-05-21T14:37:10+00:00",
+      "url": "https://x.com/GaryMarcus/status/2057470761552502794",
+      "images": [],
+      "likes": 75,
+      "retweets": 5,
+      "views": 10387
+    },
+    {
+      "id": "2057469699567260072",
+      "username": "emollick",
+      "text": "In science, AI still does a poor job at finding interesting questions to solve in fields that don't have lists of known issues\n\nThis has always been the hardest thing to teach PhDs: otherwise you find small problems or problems that don't advance the field or don't generalize etc",
+      "timestamp": "2026-05-21T14:32:56+00:00",
+      "url": "https://x.com/emollick/status/2057469699567260072",
+      "images": [],
+      "likes": 188,
+      "retweets": 9,
+      "views": 11597
+    },
+    {
+      "id": "2057465163192635542",
+      "username": "DeryaTR_",
+      "text": "Agree with these results. I've been testing Composer 2.5 on Cursor for the past few days &amp; it’s really good &amp; extremely low-cost for what it achieves. I’ll share some examples soon. I also tested Gemini 3.5 Flash on Antigravity. Unfortunately, it’s too expensive &amp; not competitive",
+      "timestamp": "2026-05-21T14:14:55+00:00",
+      "url": "https://x.com/DeryaTR_/status/2057465163192635542",
+      "images": [],
+      "likes": 137,
+      "retweets": 9,
+      "views": 18094
+    },
+    {
+      "id": "2057460544643404125",
+      "username": "OfficialLoganK",
+      "text": "Gemini 3.5 Flash ranks #1 on the APEX-Agents-AA benchmark, outperforming much larger models a whole size above it. https://t.co/zrirfMHCwI",
+      "timestamp": "2026-05-21T13:56:34+00:00",
+      "url": "https://x.com/OfficialLoganK/status/2057460544643404125",
+      "images": [
+        "https://pbs.twimg.com/media/HI2RdjeaUAEj6vn.jpg"
+      ],
+      "likes": 1464,
+      "retweets": 76,
+      "views": 398774
+    },
+    {
+      "id": "2057453634854502757",
+      "username": "DeryaTR_",
+      "text": "Codexing from your iPhone just got better! Love it!",
+      "timestamp": "2026-05-21T13:29:06+00:00",
+      "url": "https://x.com/DeryaTR_/status/2057453634854502757",
+      "images": [],
+      "likes": 42,
+      "retweets": 0,
+      "views": 14143
+    },
+    {
+      "id": "2057453174403862718",
+      "username": "GaryMarcus",
+      "text": "note that @jeffBezos is not betting on chatbots, but rather focusing on domain-specific tools for engineering, which is also something I would encourage.\n\nthe financial story for what he is doing may be brighter than for chatbots.",
+      "timestamp": "2026-05-21T13:27:17+00:00",
+      "url": "https://x.com/GaryMarcus/status/2057453174403862718",
+      "images": [],
+      "likes": 40,
+      "retweets": 5,
+      "views": 10907
+    },
+    {
+      "id": "2057451488587423830",
+      "username": "Alibaba_Qwen",
+      "text": "🚀Qwen3.7-Max just landed at 56.6 on the Artificial Analysis Intelligence Index — a solid 4.8pt jump over Qwen3.6-Max-Preview. @ArtificialAnlys \n\n⚡️Sharper sci reasoning, stronger agentic chops, better coding, and it hallucinates less.",
+      "timestamp": "2026-05-21T13:20:35+00:00",
+      "url": "https://x.com/Alibaba_Qwen/status/2057451488587423830",
+      "images": [],
+      "likes": 819,
+      "retweets": 69,
+      "views": 51764
+    },
+    {
+      "id": "2057437501829046452",
+      "username": "GaryMarcus",
+      "text": "our company, which lost money last quarter, is going to take a big slice of $28.5 trillion market that we project will exist, primarily in a field in which we have almost no current presence, which is remote from what we are best known for.\n\neverything is going to be great.\n\nyou",
+      "timestamp": "2026-05-21T12:25:00+00:00",
+      "url": "https://x.com/GaryMarcus/status/2057437501829046452",
+      "images": [],
+      "likes": 83,
+      "retweets": 11,
+      "views": 10088
+    },
+    {
+      "id": "2057435321646604701",
+      "username": "GaryMarcus",
+      "text": "… and (if am not mistaken) the only one in the top 14 to have never turned a profit.\n\nWelcome to the world of vibe investing!",
+      "timestamp": "2026-05-21T12:16:20+00:00",
+      "url": "https://x.com/GaryMarcus/status/2057435321646604701",
+      "images": [],
+      "likes": 120,
+      "retweets": 20,
+      "views": 15870
+    },
+    {
+      "id": "2057430394765500726",
+      "username": "NandoDF",
+      "text": "Fields Medal for @OpenAI GPT5.5 🔜",
+      "timestamp": "2026-05-21T11:56:45+00:00",
+      "url": "https://x.com/NandoDF/status/2057430394765500726",
+      "images": [],
+      "likes": 34,
+      "retweets": 2,
+      "views": 52182
+    },
+    {
+      "id": "2057427579095646331",
+      "username": "NandoDF",
+      "text": "This is the thing we AI researchers dreamed about for decades. Wow!\n\nCongratulations @SebastienBubeck and @OpenAI team 👏",
+      "timestamp": "2026-05-21T11:45:34+00:00",
+      "url": "https://x.com/NandoDF/status/2057427579095646331",
+      "images": [],
+      "likes": 67,
+      "retweets": 9,
+      "views": 10091
+    },
+    {
+      "id": "2057425726786215943",
+      "username": "GaryMarcus",
+      "text": "Biomedical AI may be headed for a replication crisis.\n\n(This work below is not about AI-generated reports; it’s about studies of biomedicine that use ML in their methods, and how they are evaluted.)",
+      "timestamp": "2026-05-21T11:38:13+00:00",
+      "url": "https://x.com/GaryMarcus/status/2057425726786215943",
+      "images": [],
+      "likes": 50,
+      "retweets": 5,
+      "views": 9977
+    },
+    {
+      "id": "2057405539462644153",
+      "username": "GaryMarcus",
+      "text": "Always read the fine print: Anthropic is projecting its first (slightly) profitable quarter ever, which is amazing—assuming it actually happens —but if it does it will be in no small part because they are getting a one-time (nonrecurring) discount for that quarter on compute from",
+      "timestamp": "2026-05-21T10:18:00+00:00",
+      "url": "https://x.com/GaryMarcus/status/2057405539462644153",
+      "images": [],
+      "likes": 231,
+      "retweets": 13,
+      "views": 43528
+    },
+    {
+      "id": "2057365298873811303",
+      "username": "gdb",
+      "text": "our math result is a milestone in new knowledge generation by AI. very exciting to imagine similar results in other scientific fields. \"It's very hard to sleep, man\" is a pretty good reaction.",
+      "timestamp": "2026-05-21T07:38:05+00:00",
+      "url": "https://x.com/gdb/status/2057365298873811303",
+      "images": [],
+      "likes": 691,
+      "retweets": 34,
+      "views": 70246
+    },
+    {
+      "id": "2057352306396422370",
+      "username": "mmbronstein",
+      "text": "Dites-moi, où et en quel pays are the stochastic parrots now?",
+      "timestamp": "2026-05-21T06:46:28+00:00",
+      "url": "https://x.com/mmbronstein/status/2057352306396422370",
+      "images": [],
+      "likes": 46,
+      "retweets": 1,
+      "views": 9695
+    },
+    {
+      "id": "2057344943665078573",
+      "username": "Everlyn_ai",
+      "text": "Runners chase the sun on a green-carpeted road.\n\n- generated on Everlyn in 6.3 seconds https://t.co/yWyQTWPJo7",
+      "timestamp": "2026-05-21T06:17:12+00:00",
+      "url": "https://x.com/Everlyn_ai/status/2057344943665078573",
+      "images": [],
+      "likes": 8,
+      "retweets": 1,
+      "views": 942
+    },
+    {
+      "id": "2057344648855593162",
+      "username": "roydanroy",
+      "text": "Congrats to OpenAI on their breakthrough in discrete geometry.",
+      "timestamp": "2026-05-21T06:16:02+00:00",
+      "url": "https://x.com/roydanroy/status/2057344648855593162",
+      "images": [],
+      "likes": 66,
+      "retweets": 1,
+      "views": 10538
+    },
+    {
+      "id": "2057341198369452252",
+      "username": "gdb",
+      "text": "ChatGPT team ships",
+      "timestamp": "2026-05-21T06:02:19+00:00",
+      "url": "https://x.com/gdb/status/2057341198369452252",
+      "images": [],
+      "likes": 545,
+      "retweets": 16,
+      "views": 91887
+    },
+    {
+      "id": "2057334838152327576",
+      "username": "RisingSayak",
+      "text": "We had a blast hosting @sarahookr yesterday on the HF ML Club India 🔥\n\nThere was a flurry of cool exchanges on adaptability, small models, etc.\n\nThe meeting recording and the @GeminiApp Notes are now available on the Club page. \n\nGo to hf dot co / hf-ml-club-india to get'em! https://t.co/54oAIw6UUU",
+      "timestamp": "2026-05-21T05:37:03+00:00",
+      "url": "https://x.com/RisingSayak/status/2057334838152327576",
+      "images": [
+        "https://pbs.twimg.com/media/HI0ewkmakAATiZb.jpg"
+      ],
+      "likes": 29,
+      "retweets": 1,
+      "views": 654
+    },
+    {
+      "id": "2057317408059383911",
+      "username": "Miles_Brundage",
+      "text": "Scrutinizing a neolab’s valuation https://t.co/qkVoPKzCNk",
+      "timestamp": "2026-05-21T04:27:47+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2057317408059383911",
+      "images": [],
+      "likes": 15,
+      "retweets": 0,
+      "views": 2288
+    },
+    {
+      "id": "2057315272156135501",
+      "username": "levie",
+      "text": "Great post on FDEs. Everyone should read it if you’re interested in this job category. This is a job that is going to be around as long as AI keeps changing rapidly, which it inevitably will. \n\nPeople often wonder why isn’t this like just deploying other forms of technology in",
+      "timestamp": "2026-05-21T04:19:18+00:00",
+      "url": "https://x.com/levie/status/2057315272156135501",
+      "images": [],
+      "likes": 1624,
+      "retweets": 170,
+      "views": 540928
+    },
+    {
+      "id": "2057308715834118149",
+      "username": "thsottiaux",
+      "text": "Codex is feeling codexy",
+      "timestamp": "2026-05-21T03:53:15+00:00",
+      "url": "https://x.com/thsottiaux/status/2057308715834118149",
+      "images": [],
+      "likes": 2193,
+      "retweets": 39,
+      "views": 134503
+    },
+    {
+      "id": "2057290763835265371",
+      "username": "DeryaTR_",
+      "text": "I notice that the Figure robot “Frank” has gotten considerably faster in sorting at day 8! If @Figure_robot can show graphically sorted packages/hour, I suspect the number will show higher now compared to beginning. They’ll keep on getting better at this-then at more complex jobs",
+      "timestamp": "2026-05-21T02:41:55+00:00",
+      "url": "https://x.com/DeryaTR_/status/2057290763835265371",
+      "images": [],
+      "likes": 73,
+      "retweets": 6,
+      "views": 7350
+    },
+    {
+      "id": "2057288190902333727",
+      "username": "littmath",
+      "text": "Unit distances result is very exciting, but re: “math is solved” — humans regularly solve long-open problems, and yet infinitely more interesting open problems remain.",
+      "timestamp": "2026-05-21T02:31:41+00:00",
+      "url": "https://x.com/littmath/status/2057288190902333727",
+      "images": [],
+      "likes": 813,
+      "retweets": 50,
+      "views": 84332
+    },
+    {
+      "id": "2057284422118842378",
+      "username": "DeryaTR_",
+      "text": "This podcast with @GavinSBaker is simply extraordinary, one of the best podcasts I have ever listened relevant for the age of AI. Highly recommended!",
+      "timestamp": "2026-05-21T02:16:43+00:00",
+      "url": "https://x.com/DeryaTR_/status/2057284422118842378",
+      "images": [],
+      "likes": 57,
+      "retweets": 5,
+      "views": 11356
+    },
+    {
+      "id": "2057279985388339416",
+      "username": "srush_nlp",
+      "text": "Huh, so you’re saying it’s smart, cheap, and fast.",
+      "timestamp": "2026-05-21T01:59:05+00:00",
+      "url": "https://x.com/srush_nlp/status/2057279985388339416",
+      "images": [],
+      "likes": 83,
+      "retweets": 3,
+      "views": 12782
+    },
+    {
+      "id": "2057271533358162270",
+      "username": "emollick",
+      "text": "If this is true, using the best public estimates we have of LLM resource use, solving this Erdos problem took 0.6–6.3 kWh of electricity and about 3–31 liters of water.\n\nSo that is less than three almonds worth of water and the electricity equivalent of 2-20 miles of EV driving.",
+      "timestamp": "2026-05-21T01:25:30+00:00",
+      "url": "https://x.com/emollick/status/2057271533358162270",
+      "images": [],
+      "likes": 2965,
+      "retweets": 246,
+      "views": 704365
+    },
+    {
+      "id": "2057268220420383230",
+      "username": "lmthang",
+      "text": "A respectable milestone in AI for Math. Congrats to everyone involved!",
+      "timestamp": "2026-05-21T01:12:20+00:00",
+      "url": "https://x.com/lmthang/status/2057268220420383230",
+      "images": [],
+      "likes": 117,
+      "retweets": 4,
+      "views": 9179
+    },
+    {
+      "id": "2057267486190342591",
+      "username": "emollick",
+      "text": "Math is easy* because it has verifiable outputs and few messy judgement choices to make.\n\nWhich AI labs have the guts to make advancing social science a priority? It may actually do more for human flourishing to unlock sociology, econ &amp; psych reseach.\n\n* For AIs, not for humans",
+      "timestamp": "2026-05-21T01:09:25+00:00",
+      "url": "https://x.com/emollick/status/2057267486190342591",
+      "images": [],
+      "likes": 494,
+      "retweets": 31,
+      "views": 94187
+    },
+    {
+      "id": "2057245879200084217",
+      "username": "minchoi",
+      "text": "Google I/O 2026 felt different.\n\nGemini is becoming the operating layer across Google products.\n\nGreat meeting @demishassabis thanks for leading the charge on AI at Google.\n\nExcited for what's coming next. https://t.co/aXqwaubICw",
+      "timestamp": "2026-05-20T23:43:34+00:00",
+      "url": "https://x.com/minchoi/status/2057245879200084217",
+      "images": [
+        "https://pbs.twimg.com/media/HIzLnh0a0AAUK4W.jpg"
+      ],
+      "likes": 182,
+      "retweets": 9,
+      "views": 20237
+    },
+    {
+      "id": "2057241574161932339",
+      "username": "rasbt",
+      "text": "It's been *almost* a bit quiet around LLM architecture releases in the past two weeks 😅\n\nInteresting tidbit is the parallel block design. Via the Cmd-A the tech report \n\"equivalent performance but significant improvement in throughput compared to the vanilla transformer block.\" https://t.co/znIyINCgI0",
+      "timestamp": "2026-05-20T23:26:27+00:00",
+      "url": "https://x.com/rasbt/status/2057241574161932339",
+      "images": [
+        "https://pbs.twimg.com/media/HIzKN2GWsAA9fTT.jpg"
+      ],
+      "likes": 615,
+      "retweets": 71,
+      "views": 59160
+    },
+    {
+      "id": "2057230177235530101",
+      "username": "GaryMarcus",
+      "text": "the crazy part is that people are “clowning” me without knowing anything about the training or whether anything else other than scaled changed or how the model does on anything else. (or what it costs etc)\n\nmy claims have always been system level architecture and openai has said",
+      "timestamp": "2026-05-20T22:41:10+00:00",
+      "url": "https://x.com/GaryMarcus/status/2057230177235530101",
+      "images": [],
+      "likes": 105,
+      "retweets": 9,
+      "views": 17410
+    },
+    {
+      "id": "2057229385963618787",
+      "username": "mitchellh",
+      "text": "This is why PR diff speed matters. This isn't a dunk on GitHub specifically, because GitLab, Forgejo, etc. are all equal or worse. But this is the kind of thing that drives me nuts, because this is a core workflow and its slow enough I literally take my hands off the keyboard. https://t.co/lp6QVfP9Vi",
+      "timestamp": "2026-05-20T22:38:01+00:00",
+      "url": "https://x.com/mitchellh/status/2057229385963618787",
+      "images": [],
+      "likes": 2823,
+      "retweets": 118,
+      "views": 303184
+    },
+    {
+      "id": "2057226001898197507",
+      "username": "GaryMarcus",
+      "text": "wild to see a somewhat disgraced politician comment on the technical side of AI as if he has any idea about the underlying computational questions.\n\nand of course he dwells at the bottom of Paul Graham’s pyramid of argument, with a bunch of emoji rather than any sort substantive",
+      "timestamp": "2026-05-20T22:24:34+00:00",
+      "url": "https://x.com/GaryMarcus/status/2057226001898197507",
+      "images": [],
+      "likes": 105,
+      "retweets": 7,
+      "views": 67411
+    },
+    {
+      "id": "2057220593947418625",
+      "username": "mmitchell_ai",
+      "text": "A propos of nothing, I've been pseudocoding Beatles songs and it is insanely fun. \nif x.person_type == \"baby\": \n     shake_it_up(x) \n     twist_and_shout(x) \n     work_it_on_out(x) \n     x.look_so_good = True",
+      "timestamp": "2026-05-20T22:03:05+00:00",
+      "url": "https://x.com/mmitchell_ai/status/2057220593947418625",
+      "images": [],
+      "likes": 0,
+      "retweets": 0,
+      "views": 765
+    },
+    {
+      "id": "2057218997503086888",
+      "username": "sama",
+      "text": "three of the things we are most excited about:\n\n1. AGI accelerating research\n2. AGI accelerating companies\n3. personal AGI accelerating everyone in achieving their goals\n\ntoday it was great to announce the unit distance result.\n\nyesterday it was great to announce that we are",
+      "timestamp": "2026-05-20T21:56:44+00:00",
+      "url": "https://x.com/sama/status/2057218997503086888",
+      "images": [],
+      "likes": 8148,
+      "retweets": 445,
+      "views": 702336
+    },
+    {
+      "id": "2057218835074437573",
+      "username": "GoogleLabs",
+      "text": "From playing the games to designing the games in minutes. Just choose your characters, set the scene, and let Project Genie do the rest. The transformation is wild 🦒\n\nSee Genie in action at this year's Google I/O sandbox: https://t.co/wUPRSplEch",
+      "timestamp": "2026-05-20T21:56:06+00:00",
+      "url": "https://x.com/GoogleLabs/status/2057218835074437573",
+      "images": [],
+      "likes": 373,
+      "retweets": 43,
+      "views": 22488
+    },
+    {
+      "id": "2057216951743643666",
+      "username": "Austen",
+      "text": "SpaceX has a $15 Billion/yr compute side business",
+      "timestamp": "2026-05-20T21:48:37+00:00",
+      "url": "https://x.com/Austen/status/2057216951743643666",
+      "images": [],
+      "likes": 356,
+      "retweets": 11,
+      "views": 31422
+    },
+    {
+      "id": "2057214743287398740",
+      "username": "googledevs",
+      "text": "I see it. I like it. I build it. 👓\n\nApply for the Android XR Developer Catalyst Program for the opportunity to gain access to pre-release hardware, including:\n🌟 XREAL’s Project Aura \n🌟 Audio glasses\n🌟 Display glasses \n\nhttps://t.co/fDAywDgfwc \n\n#GoogleIO https://t.co/EhrfGIXPQf",
+      "timestamp": "2026-05-20T21:39:50+00:00",
+      "url": "https://x.com/googledevs/status/2057214743287398740",
+      "images": [],
+      "likes": 168,
+      "retweets": 35,
+      "views": 17268
+    },
+    {
+      "id": "2057214161214423225",
+      "username": "lateinteraction",
+      "text": "Agents often externalize some context: a repository in coding agents, a corpus in RAG, and the user prompt in an RLM.\n\nNew work by @astrogu_ shows that agents work better if they're allowed to manage a small buffer in their context window as a \"cache\" for that external context.",
+      "timestamp": "2026-05-20T21:37:31+00:00",
+      "url": "https://x.com/lateinteraction/status/2057214161214423225",
+      "images": [],
+      "likes": 169,
+      "retweets": 18,
+      "views": 16861
+    },
+    {
+      "id": "2057212553395147010",
+      "username": "MattNiessner",
+      "text": "Congrats to @yawarnihal for his successful PhD defense 🎓🎉\n\nYawar's thesis is on 𝟑𝐃 𝐂𝐨𝐧𝐭𝐞𝐧𝐭 𝐂𝐫𝐞𝐚𝐭𝐢𝐨𝐧 𝐮𝐬𝐢𝐧𝐠 𝐑𝐞𝐜𝐨𝐧𝐬𝐭𝐫𝐮𝐜𝐭𝐢𝐨𝐧 𝐚𝐧𝐝 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐢𝐨𝐧. His most impactful work, MeshGPT, was a key enabler towards modern 3D asset gen.\n\nThe key https://t.co/WH0Svd0Ez0",
+      "timestamp": "2026-05-20T21:31:08+00:00",
+      "url": "https://x.com/MattNiessner/status/2057212553395147010",
+      "images": [
+        "https://pbs.twimg.com/media/HIyu28KWwAA8eX1.jpg"
+      ],
+      "likes": 92,
+      "retweets": 5,
+      "views": 11144
+    },
+    {
+      "id": "2057211357259334081",
+      "username": "GavinSBaker",
+      "text": "Nvidia’s “AI hyperscaler” revenue grew 191% YoY in the April quarter ex China (effectively all hyperscaler).\n\nBroadcom has guided to 143% YoY growth for their AI segment in their next quarter.\n\nInteresting.",
+      "timestamp": "2026-05-20T21:26:23+00:00",
+      "url": "https://x.com/GavinSBaker/status/2057211357259334081",
+      "images": [],
+      "likes": 973,
+      "retweets": 58,
+      "views": 160247
+    },
+    {
+      "id": "2057209269905174869",
+      "username": "PyTorch",
+      "text": "NVIDIA shared a full playlist of its sessions from PyTorch Conference Europe. NVIDIA engineers and developers covered a wide range of topics, including:\n\n- Symmetric Memory + NCCL Device APIs\n- Custom Kernels in torch.compile\n- Agentic AI &amp; LLM Evaluation frameworks, and more. https://t.co/h1ldS1UazS",
+      "timestamp": "2026-05-20T21:18:05+00:00",
+      "url": "https://x.com/PyTorch/status/2057209269905174869",
+      "images": [],
+      "likes": 43,
+      "retweets": 8,
+      "views": 7914
+    },
+    {
+      "id": "2057205873018032414",
+      "username": "giffmana",
+      "text": "Ah, there it is! I was already getting worried that they didn't have any IO announcement this year",
+      "timestamp": "2026-05-20T21:04:35+00:00",
+      "url": "https://x.com/giffmana/status/2057205873018032414",
+      "images": [],
+      "likes": 273,
+      "retweets": 4,
+      "views": 36396
+    },
+    {
+      "id": "2057204717088883142",
+      "username": "Azure",
+      "text": "AI is everywhere. Making it work for your business is what matters.\n\nThe \"AI Made Simple: 3 Practical Moves for Growing Businesses\" kit helps you understand AI fundamentals and how to start building a plan to integrate AI into your business: https://t.co/Kl8bh42BDY https://t.co/DYoIxIryUC",
+      "timestamp": "2026-05-20T21:00:00+00:00",
+      "url": "https://x.com/Azure/status/2057204717088883142",
+      "images": [],
+      "likes": 50,
+      "retweets": 12,
+      "views": 7975
+    },
+    {
+      "id": "2057203964572049834",
+      "username": "DeryaTR_",
+      "text": "Claim: AI can make scientific breakthroughs.\n\nProof: An internal OpenAI model resolved the most famous conjecture in discrete geometry, namely the optimality (or lack thereof) of the grid for the unit distance problem.",
+      "timestamp": "2026-05-20T20:57:00+00:00",
+      "url": "https://x.com/DeryaTR_/status/2057203964572049834",
+      "images": [],
+      "likes": 94,
+      "retweets": 11,
+      "views": 9914
+    },
+    {
+      "id": "2057203171198636251",
+      "username": "sama",
+      "text": "a general-purpose model solved a major open problem in mathematics.\n\nwe'll be saying this a lot over the coming years, but this is a kinda big milestone.\n\ni'm very excited for AI to greatly extend our understanding of the world, but still, i have complicated feelings today.",
+      "timestamp": "2026-05-20T20:53:51+00:00",
+      "url": "https://x.com/sama/status/2057203171198636251",
+      "images": [],
+      "likes": 6454,
+      "retweets": 346,
+      "views": 671025
+    },
+    {
+      "id": "2057197215093764490",
+      "username": "emollick",
+      "text": "Its The Graph again (not the METR graph, the one from the o1 launch).\n\nAlthough no logarithmic decay of ability with increasing compute...",
+      "timestamp": "2026-05-20T20:30:11+00:00",
+      "url": "https://x.com/emollick/status/2057197215093764490",
+      "images": [],
+      "likes": 101,
+      "retweets": 4,
+      "views": 20734
+    },
+    {
+      "id": "2057196459259301933",
+      "username": "emollick",
+      "text": "Did we ever learn what model won gold at the IMO from OpenAI? It was a year ago and it was called an unreleased internal general purpose model back then. Has GPT-5.5 Pro Extended caught up with whatever it was?",
+      "timestamp": "2026-05-20T20:27:11+00:00",
+      "url": "https://x.com/emollick/status/2057196459259301933",
+      "images": [],
+      "likes": 330,
+      "retweets": 8,
+      "views": 32919
+    },
+    {
+      "id": "2057195843346718914",
+      "username": "DeryaTR_",
+      "text": "It's really important for people in America to understand that blocking data center building will not stop AI progress, just slow it down, which unfortunately will cost many lives &amp; loss of US supremacy in AI. Many countries would love to have AI data centers built in their lands",
+      "timestamp": "2026-05-20T20:24:44+00:00",
+      "url": "https://x.com/DeryaTR_/status/2057195843346718914",
+      "images": [],
+      "likes": 48,
+      "retweets": 11,
+      "views": 6480
+    },
+    {
+      "id": "2057195825579933823",
+      "username": "mitchellh",
+      "text": "This is how performant PR review could be. On any forge. Pierre is showing us that the only thing holding that back is a skill issue. Excellent ship here! They’re on fire!",
+      "timestamp": "2026-05-20T20:24:40+00:00",
+      "url": "https://x.com/mitchellh/status/2057195825579933823",
+      "images": [],
+      "likes": 2819,
+      "retweets": 111,
+      "views": 226830
+    },
+    {
+      "id": "2057193948029018257",
+      "username": "JeffDean",
+      "text": "Four questions in under 2 minutes. Thanks to Google's social team for suggesting this little interlude at #googleio yesterday!",
+      "timestamp": "2026-05-20T20:17:12+00:00",
+      "url": "https://x.com/JeffDean/status/2057193948029018257",
+      "images": [],
+      "likes": 198,
+      "retweets": 13,
+      "views": 29596
+    },
+    {
+      "id": "2057191089145336105",
+      "username": "OpenAIDevs",
+      "text": "Come join us at a Codex meetup 🌏\n\nhttps://t.co/HbugdYaEam",
+      "timestamp": "2026-05-20T20:05:51+00:00",
+      "url": "https://x.com/OpenAIDevs/status/2057191089145336105",
+      "images": [],
+      "likes": 299,
+      "retweets": 17,
+      "views": 79145
+    },
+    {
+      "id": "2057187345091457026",
+      "username": "ChrSzegedy",
+      "text": "Whatever the definition of \"superhuman AI mathematician\" is, I think my original prediction of June 2026 is not too far off the mark.",
+      "timestamp": "2026-05-20T19:50:58+00:00",
+      "url": "https://x.com/ChrSzegedy/status/2057187345091457026",
+      "images": [],
+      "likes": 240,
+      "retweets": 11,
+      "views": 30209
+    },
+    {
+      "id": "2057184179360506292",
+      "username": "DeryaTR_",
+      "text": "This is a major turning point or a milestone in the impact of AI on solving math problems! The breakthrough was through an internal OpenAI model, which is mind-blowing 🤯. That’s all for now and be ready for arrival to the next checkpoint☺️",
+      "timestamp": "2026-05-20T19:38:23+00:00",
+      "url": "https://x.com/DeryaTR_/status/2057184179360506292",
+      "images": [],
+      "likes": 170,
+      "retweets": 19,
+      "views": 19384
+    },
+    {
+      "id": "2057182650784452925",
+      "username": "gdb",
+      "text": "An OpenAI model has achieved a major breakthrough in mathematics, by disproving a central conjecture in discrete geometry that was first posed by Paul Erdős in 1946.\n\nThis is the first time AI has autonomously solved a prominent open problem central to a field of mathematics.",
+      "timestamp": "2026-05-20T19:32:19+00:00",
+      "url": "https://x.com/gdb/status/2057182650784452925",
+      "images": [],
+      "likes": 2907,
+      "retweets": 240,
+      "views": 397727
+    },
+    {
+      "id": "2057182110461673935",
+      "username": "a16z",
+      "text": "AI repeals the Mythical Man Month: \"Rather than requiring large teams across multiple subsystems that need to coordinate, AI models are developed by smaller teams whose output increases in quality as a function of the data and compute thrown at them.\"\n\n\"To wit, now you can throw https://t.co/q0bKfDFSUF",
+      "timestamp": "2026-05-20T19:30:10+00:00",
+      "url": "https://x.com/a16z/status/2057182110461673935",
+      "images": [
+        "https://pbs.twimg.com/media/HIyUOkJbwAADrLf.png"
+      ],
+      "likes": 157,
+      "retweets": 22,
+      "views": 51061
+    },
+    {
+      "id": "2057182069952790744",
+      "username": "googledevs",
+      "text": "1 year. 100,000 members. \n\nFrom deep-dive webinars to global meetups, the @GoogleCloud x @NVIDIA community is the home for AI builders.\n\nCheck out the year 1 highlights and join today → https://t.co/1cZ1atoC0Y https://t.co/CyW7ZcoW2d",
+      "timestamp": "2026-05-20T19:30:00+00:00",
+      "url": "https://x.com/googledevs/status/2057182069952790744",
+      "images": [
+        "https://pbs.twimg.com/media/HIyC1orXEAAiGEe.jpg",
+        "https://pbs.twimg.com/media/HIyC1zAWsAA09vM.jpg",
+        "https://pbs.twimg.com/media/HIyC19mXQAACv5i.jpg",
+        "https://pbs.twimg.com/media/HIyC2K3W8AAGcD5.jpg"
+      ],
+      "likes": 71,
+      "retweets": 10,
+      "views": 5872
+    },
+    {
+      "id": "2057181721691377710",
+      "username": "EMostaque",
+      "text": "Once AI starts making solving open problems in novel ways it won’t stop.\n\nWe are entering the final stage of human solutions to open problems like this.\n\nFeels weird, doesn’t it?",
+      "timestamp": "2026-05-20T19:28:37+00:00",
+      "url": "https://x.com/EMostaque/status/2057181721691377710",
+      "images": [],
+      "likes": 287,
+      "retweets": 18,
+      "views": 21998
+    },
+    {
+      "id": "2057180836752240751",
+      "username": "ChrSzegedy",
+      "text": "The difference between memory and CPU/GPU was that the usefulness of memory is a step function, while faster or more CPUs/GPUs result in gradual gains in efficiency.\n\nWhile there is still a limit to the usefulness of memory for AI, the plateau is much higher, and the",
+      "timestamp": "2026-05-20T19:25:06+00:00",
+      "url": "https://x.com/ChrSzegedy/status/2057180836752240751",
+      "images": [],
+      "likes": 33,
+      "retweets": 1,
+      "views": 3532
+    },
+    {
+      "id": "2057180057756467671",
+      "username": "ClementDelangue",
+      "text": "Cohere is on such a great open-source trajectory lately. Beautiful Apache 2.0 model! https://t.co/BeifTmYlcn",
+      "timestamp": "2026-05-20T19:22:00+00:00",
+      "url": "https://x.com/ClementDelangue/status/2057180057756467671",
+      "images": [],
+      "likes": 301,
+      "retweets": 29,
+      "views": 33959
+    },
+    {
+      "id": "2057179491693470166",
+      "username": "GoogleLabs",
+      "text": "We love seeing all of the worlds you’ve been creating with Genie.\n\nSO much so, that we’re excited to announce Project Genie is now fully available to all Google AI Ultra subscribers globally (18+).",
+      "timestamp": "2026-05-20T19:19:46+00:00",
+      "url": "https://x.com/GoogleLabs/status/2057179491693470166",
+      "images": [],
+      "likes": 198,
+      "retweets": 23,
+      "views": 43774
+    },
+    {
+      "id": "2057178093463232826",
+      "username": "GavinSBaker",
+      "text": "The interest rates at which various chips - GPU or ASIC - can be financed as a function of expected useful life will have real implications for demand.\n\nLikely ends up being a significant advantage for the big green GPU incumbent over time.",
+      "timestamp": "2026-05-20T19:14:12+00:00",
+      "url": "https://x.com/GavinSBaker/status/2057178093463232826",
+      "images": [],
+      "likes": 515,
+      "retweets": 29,
+      "views": 64600
+    },
+    {
+      "id": "2057174521329734119",
+      "username": "googledevs",
+      "text": "The future of development isn't just changing—it's here. Get more #GoogleIo: https://t.co/hghnt3f41I\n\nDon't miss these heavy-hitting sessions:\n\n🔬 AI &amp; the Frontiers of Science: A new era with Demis Hassabis\n💻 Software Engineering at the Tipping Point: The future of our craft\n🛠️ https://t.co/POGBWCwPZ9",
+      "timestamp": "2026-05-20T19:00:00+00:00",
+      "url": "https://x.com/googledevs/status/2057174521329734119",
+      "images": [
+        "https://pbs.twimg.com/media/HIx0pUhXIAMZe0I.jpg"
+      ],
+      "likes": 51,
+      "retweets": 9,
+      "views": 4887
+    },
+    {
+      "id": "2057171518027887035",
+      "username": "mitchellh",
+      "text": "Fork your dependencies, trim them to only your use case, never update unless it breaks for your users. I’ve been vocal about this for 10+ years. I’ve always said that updating is way riskier than latent bugs (which can be tracked and CVEs monitored). \n\nIf you are updating a",
+      "timestamp": "2026-05-20T18:48:04+00:00",
+      "url": "https://x.com/mitchellh/status/2057171518027887035",
+      "images": [],
+      "likes": 7597,
+      "retweets": 650,
+      "views": 706158
+    },
+    {
+      "id": "2057169524718493938",
+      "username": "a16z",
+      "text": "Marc Andreessen says AI is teaching sand to think and it could be the most important technology in the history of humanity:\n\n\"Imagine a form of alchemy that turns sand into thought.\"\n\n\"Chips are made out of sand. They're made out of silicon, so they're literally made out of https://t.co/WhTsllCUmd",
+      "timestamp": "2026-05-20T18:40:09+00:00",
+      "url": "https://x.com/a16z/status/2057169524718493938",
+      "images": [],
+      "likes": 1682,
+      "retweets": 175,
+      "views": 187449
+    },
+    {
+      "id": "2057160272016769410",
+      "username": "NVIDIARobotics",
+      "text": "SONIC: Supersizing Motion Tracking for Natural Humanoid Whole-Body Control  |  Robotics Office Hours https://t.co/ZJSt8mw3nM",
+      "timestamp": "2026-05-20T18:03:23+00:00",
+      "url": "https://x.com/NVIDIARobotics/status/2057160272016769410",
+      "images": [],
+      "likes": 39,
+      "retweets": 10,
+      "views": 3117
+    },
+    {
+      "id": "2057159420115603793",
+      "username": "googledevs",
+      "text": "It's time for even more at #GoogleIO. Tune in 👉 https://t.co/hghnt3f41I\n\n⚙️ TPU Software Stack: Scaling AI with massive efficiency\n📱 Adaptive Android: Building for an expanding ecosystem\n🔍 Chrome DevTools for Agents: AI-powered debugging\n⚛️ Quantum-AI Future: A deep dive with https://t.co/Y5gEQy1Dvs",
+      "timestamp": "2026-05-20T18:00:00+00:00",
+      "url": "https://x.com/googledevs/status/2057159420115603793",
+      "images": [
+        "https://pbs.twimg.com/media/HIxtUdoXIAAxof_.jpg"
+      ],
+      "likes": 41,
+      "retweets": 7,
+      "views": 4527
+    },
+    {
+      "id": "2057157021770854706",
+      "username": "googledevs",
+      "text": "Android skills helps your agents tackle complex but tedious tasks, so you can focus on the core app experience. 📱",
+      "timestamp": "2026-05-20T17:50:28+00:00",
+      "url": "https://x.com/googledevs/status/2057157021770854706",
+      "images": [],
+      "likes": 133,
+      "retweets": 17,
+      "views": 11055
+    },
+    {
+      "id": "2057156303290617879",
+      "username": "Thom_Wolf",
+      "text": "I'm very excited about this extension to the celebrated Terminal-Bench to science.\n\nIf you're a scientist (life, physical, earth, mathematical science, etc) interested in AI, definitely check this out!\n\nTerminal bench evaluate how good AI models are at controling tools on a",
+      "timestamp": "2026-05-20T17:47:37+00:00",
+      "url": "https://x.com/Thom_Wolf/status/2057156303290617879",
+      "images": [],
+      "likes": 51,
+      "retweets": 8,
+      "views": 8512
+    },
+    {
+      "id": "2057153320708374963",
+      "username": "DeryaTR_",
+      "text": "I am compelled to completely retract my “at a fraction of the cost” comment below. After testing it, I realized Gemini 3.5 Flash is not cheap at all! Even on ultra plan in antigravity I ran out of limits extremely quickly! But it is super fast and definitely better than 3.1 Pro!",
+      "timestamp": "2026-05-20T17:35:46+00:00",
+      "url": "https://x.com/DeryaTR_/status/2057153320708374963",
+      "images": [],
+      "likes": 128,
+      "retweets": 4,
+      "views": 12904
+    },
+    {
+      "id": "2057148359912415689",
+      "username": "googledevs",
+      "text": "Your @ChromiumDev technical TL;DR from #GoogleIO day 1 is here to get you ready for day 2 ⬇️ https://t.co/f9G2NT53PO",
+      "timestamp": "2026-05-20T17:16:03+00:00",
+      "url": "https://x.com/googledevs/status/2057148359912415689",
+      "images": [],
+      "likes": 54,
+      "retweets": 9,
+      "views": 5110
+    },
+    {
+      "id": "2057146565500998024",
+      "username": "AndrewYNg",
+      "text": "New course: Build AI agents that generate images and videos -- an under-explored frontier. A key to performance is having the agent evaluate its own output, and iterate to improve quality. This short course is built together with @googlecloudtech and taught by Katie Nguyen  and https://t.co/xxuEvZs8HP",
+      "timestamp": "2026-05-20T17:08:55+00:00",
+      "url": "https://x.com/AndrewYNg/status/2057146565500998024",
+      "images": [],
+      "likes": 1070,
+      "retweets": 157,
+      "views": 100993
+    },
+    {
+      "id": "2057144323578179670",
+      "username": "googledevs",
+      "text": "Today, we're going beyond the hype and straight into the tools that help you ship faster and smarter.\n\nGet ready for:\n\n💎 The Gemma Family: Latest in open model innovation\n📱 Android Dev Tools: Supercharging your Studio workflow\n🎨 Web UI: Native CSS &amp; high-performance animations https://t.co/Ef8kH9nlA1",
+      "timestamp": "2026-05-20T17:00:01+00:00",
+      "url": "https://x.com/googledevs/status/2057144323578179670",
+      "images": [
+        "https://pbs.twimg.com/media/HIxqkzdWcAA5R8X.jpg"
+      ],
+      "likes": 68,
+      "retweets": 9,
+      "views": 5470
+    },
+    {
+      "id": "2057140423706173726",
+      "username": "a16z",
+      "text": "We’re excited to lead Exa’s Series C, to back their ambition of perfecting web search, and making it ready for the age of intelligent agents.\n\nWe’re entering a new era for search, built from the ground up around what AI can do.\n\nThe signal from the market was consistent. Exa https://t.co/gLOjSr6Cvb",
+      "timestamp": "2026-05-20T16:44:31+00:00",
+      "url": "https://x.com/a16z/status/2057140423706173726",
+      "images": [
+        "https://pbs.twimg.com/media/HIxuT41aYAEIZfE.jpg"
+      ],
+      "likes": 154,
+      "retweets": 3,
+      "views": 26021
+    },
+    {
+      "id": "2057134088494977393",
+      "username": "gneubig",
+      "text": "Check out our new work on examining what LLMs learn and when!\n\nWe posit that LLMs have an implicit curriculum where they learn gradually more complex skills, and attempt to uncover some details of how this curriculum develops over time across model families.",
+      "timestamp": "2026-05-20T16:19:21+00:00",
+      "url": "https://x.com/gneubig/status/2057134088494977393",
+      "images": [],
+      "likes": 73,
+      "retweets": 14,
+      "views": 11181
+    },
+    {
+      "id": "2057129793183732136",
+      "username": "code",
+      "text": "🚀 What we learned shipping VS Code weekly without breaking everything\n\nWhat it actually takes to ship weekly without quality falling apart, from agent sessions before meetings to automated triage and stronger quality harnesses.\n\n🔗 Register: https://t.co/0iixsQvHkO https://t.co/Avnoi6Xatv",
+      "timestamp": "2026-05-20T16:02:16+00:00",
+      "url": "https://x.com/code/status/2057129793183732136",
+      "images": [
+        "https://pbs.twimg.com/media/HIxkpTuWoAAoxRx.jpg"
+      ],
+      "likes": 73,
+      "retweets": 10,
+      "views": 12448
+    },
+    {
+      "id": "2057128296538861943",
+      "username": "GoogleAI",
+      "text": "We partnered with artists, designers, and builders to create new AI tools that solve real problems in their creative workflows.\n\nHere’s what’s new:\n— Introducing Google Pics in @GoogleWorkspace: A brand-new image creation &amp; editing tool. Move and resize objects, add text, and https://t.co/e5nJrAfUHP",
+      "timestamp": "2026-05-20T15:56:20+00:00",
+      "url": "https://x.com/GoogleAI/status/2057128296538861943",
+      "images": [],
+      "likes": 294,
+      "retweets": 32,
+      "views": 288656
+    },
+    {
+      "id": "2057125044023693545",
+      "username": "DeryaTR_",
+      "text": "Amazing whole body BioAI foundation model from Ali’s lab! Congratulations for the Nature paper!",
+      "timestamp": "2026-05-20T15:43:24+00:00",
+      "url": "https://x.com/DeryaTR_/status/2057125044023693545",
+      "images": [],
+      "likes": 49,
+      "retweets": 13,
+      "views": 8739
+    },
+    {
+      "id": "2057122481933087083",
+      "username": "sriramk",
+      "text": "Something to think about : what does life look like 25 years from now if AI continues to improve. \n\nI don’t think any AI community  ( broad tech industry , academia , various timelines predictions) have done a great job articulating a positive long term future for humanity and",
+      "timestamp": "2026-05-20T15:33:13+00:00",
+      "url": "https://x.com/sriramk/status/2057122481933087083",
+      "images": [],
+      "likes": 638,
+      "retweets": 40,
+      "views": 108166
+    },
+    {
+      "id": "2057119309151817877",
+      "username": "omarsar0",
+      "text": "Self-improving AI is a big deal!\n\nAs a first step, I've been exploring how much of the post-training can be automated.\n\nHere is a first post on how I am using @FireworksAI_HQ Agent to automate LLM fine-tuning itself. \n\nDataset + Skill file included.\n\nFor the use case, I took",
+      "timestamp": "2026-05-20T15:20:37+00:00",
+      "url": "https://x.com/omarsar0/status/2057119309151817877",
+      "images": [],
+      "likes": 83,
+      "retweets": 12,
+      "views": 15003
+    },
+    {
+      "id": "2057114317527359776",
+      "username": "PyTorch",
+      "text": "Expert-led sessions, hands-on learning, and networking. 🤝 #PyTorchCon North America is the place to be this Oct 20-21 in San Jose. Save $400 when you register by July 31!\nDetails: https://t.co/AVHdaIFT20 https://t.co/yhy6OF34v7",
+      "timestamp": "2026-05-20T15:00:47+00:00",
+      "url": "https://x.com/PyTorch/status/2057114317527359776",
+      "images": [],
+      "likes": 15,
+      "retweets": 3,
+      "views": 5508
+    },
+    {
+      "id": "2057098819515367630",
+      "username": "emollick",
+      "text": "I am starting to have trouble paying attention to even interesting information if it is written in Claude or ChatGPT house style. I think some is the sameness of the rhythm rather than obvious tics: Claude is always so staccato. ChatGPT loves short sentences as kickers. Boring. https://t.co/y1RNGTobfs",
+      "timestamp": "2026-05-20T13:59:12+00:00",
+      "url": "https://x.com/emollick/status/2057098819515367630",
+      "images": [
+        "https://pbs.twimg.com/media/HIxIeP2XgAANrYG.jpg"
+      ],
+      "likes": 473,
+      "retweets": 33,
+      "views": 38892
+    },
+    {
+      "id": "2057098667148853523",
+      "username": "gneubig",
+      "text": "A serious compromise at github, again due to a supply chain vulnerability...\n\nIt demonstrates that basically everyone needs to start securing their software supply chain through every means possible, deterministic scanning being the first step, AI where necessary.",
+      "timestamp": "2026-05-20T13:58:35+00:00",
+      "url": "https://x.com/gneubig/status/2057098667148853523",
+      "images": [],
+      "likes": 22,
+      "retweets": 2,
+      "views": 7853
+    },
+    {
+      "id": "2057079633644843371",
+      "username": "DeryaTR_",
+      "text": "Big congratulations to Vivek and the Google co-scientist team for the Nature paper! I had been an early tester of the co-scientist for almost a year, it had greatly impressed me in generating new biological hypothesis even last summer and this was before Gemini 3.0 model!",
+      "timestamp": "2026-05-20T12:42:58+00:00",
+      "url": "https://x.com/DeryaTR_/status/2057079633644843371",
+      "images": [],
+      "likes": 152,
+      "retweets": 14,
+      "views": 20408
+    },
+    {
+      "id": "2057079301510468061",
+      "username": "Austen",
+      "text": "Yeah well you can’t turn data centers into milk",
+      "timestamp": "2026-05-20T12:41:38+00:00",
+      "url": "https://x.com/Austen/status/2057079301510468061",
+      "images": [],
+      "likes": 26,
+      "retweets": 0,
+      "views": 3560
+    },
+    {
+      "id": "2057079002792165719",
+      "username": "EMostaque",
+      "text": "Figured it out https://t.co/27L4DPijff",
+      "timestamp": "2026-05-20T12:40:27+00:00",
+      "url": "https://x.com/EMostaque/status/2057079002792165719",
+      "images": [
+        "https://pbs.twimg.com/media/HIw2cD1XIAAbmBW.jpg"
+      ],
+      "likes": 105,
+      "retweets": 3,
+      "views": 9468
+    },
+    {
+      "id": "2057074407177130096",
+      "username": "emollick",
+      "text": "One interesting side feature of recursive self-improvement, to the extent that is happening, is that it makes the Big Three labs more appealing to talent, and shortens the runway for launching a potential competitor instead at the same time.",
+      "timestamp": "2026-05-20T12:22:11+00:00",
+      "url": "https://x.com/emollick/status/2057074407177130096",
+      "images": [],
+      "likes": 236,
+      "retweets": 16,
+      "views": 30032
+    },
+    {
+      "id": "2057071550352781771",
+      "username": "ClementDelangue",
+      "text": "The future of biology shouldn’t stay behind black-box APIs. Especially when it touches personal health.\n\nWhether you’re @bryan_johnson measuring every biomarker, or @sytses openly sharing and analyzing his own immune-genetics data, you need open, local, transparent AI. https://t.co/hTXjw2SBBI",
+      "timestamp": "2026-05-20T12:10:50+00:00",
+      "url": "https://x.com/ClementDelangue/status/2057071550352781771",
+      "images": [
+        "https://pbs.twimg.com/media/HIwvcb9WcAAV6gZ.jpg"
+      ],
+      "likes": 237,
+      "retweets": 48,
+      "views": 21790
+    },
+    {
+      "id": "2057058830744182816",
+      "username": "EMostaque",
+      "text": "This (Antiqua et Nova) is an interesting read ahead of Magnifica Humanitas release https://t.co/Jb9Qhz8n3z",
+      "timestamp": "2026-05-20T11:20:18+00:00",
+      "url": "https://x.com/EMostaque/status/2057058830744182816",
+      "images": [],
+      "likes": 16,
+      "retweets": 1,
+      "views": 5831
+    },
+    {
+      "id": "2057049411889381875",
+      "username": "GaryMarcus",
+      "text": "two trillion dollars to build “pathologically dishonest” AI",
+      "timestamp": "2026-05-20T10:42:52+00:00",
+      "url": "https://x.com/GaryMarcus/status/2057049411889381875",
+      "images": [],
+      "likes": 164,
+      "retweets": 31,
+      "views": 13476
+    },
+    {
+      "id": "2057041773780701390",
+      "username": "GaryMarcus",
+      "text": "this is already happening. not good.",
+      "timestamp": "2026-05-20T10:12:31+00:00",
+      "url": "https://x.com/GaryMarcus/status/2057041773780701390",
+      "images": [],
+      "likes": 154,
+      "retweets": 24,
+      "views": 15621
+    },
+    {
+      "id": "2057040636449116222",
+      "username": "steipete",
+      "text": "Can't recommend @cotypist https://t.co/QUKTyTo1bh enough. Autocomplete everywhere.",
+      "timestamp": "2026-05-20T10:08:00+00:00",
+      "url": "https://x.com/steipete/status/2057040636449116222",
+      "images": [],
+      "likes": 1458,
+      "retweets": 95,
+      "views": 138781
+    },
+    {
+      "id": "2057031393033490880",
+      "username": "julien_c",
+      "text": "this triggers me a bit ngl https://t.co/n6VjVhZ4Z0",
+      "timestamp": "2026-05-20T09:31:16+00:00",
+      "url": "https://x.com/julien_c/status/2057031393033490880",
+      "images": [
+        "https://pbs.twimg.com/media/HIwLIPVWEAEGm3f.jpg"
+      ],
+      "likes": 12,
+      "retweets": 0,
+      "views": 2863
+    },
+    {
+      "id": "2057030651413495965",
+      "username": "GaryMarcus",
+      "text": "‼️ Could large language models turn out to be the tech industry’s Vietnam? \n\nAll In’s @jason notes below that today’s students are speaking out against AI, just as students in the 60s and 70s spoke out against the Vietnam war.  \n\nBut I think the analogy might run deeper. In the",
+      "timestamp": "2026-05-20T09:28:19+00:00",
+      "url": "https://x.com/GaryMarcus/status/2057030651413495965",
+      "images": [],
+      "likes": 245,
+      "retweets": 42,
+      "views": 17491
+    },
+    {
+      "id": "2057000931728720231",
+      "username": "GaryMarcus",
+      "text": "⚠️👇 🚨Breaking ⚠️\n\nIf we can’t make AI agents follow rules, we are screwed.\n\nNew study from METR reports that “when the agents were faced with hard tasks, they routinely violated constraints” \n\nThis—routine breaking of rules— is why in a nutshell we absolutely need a different",
+      "timestamp": "2026-05-20T07:30:14+00:00",
+      "url": "https://x.com/GaryMarcus/status/2057000931728720231",
+      "images": [],
+      "likes": 341,
+      "retweets": 107,
+      "views": 43526
+    },
+    {
+      "id": "2056991828499411366",
+      "username": "NielsRogge",
+      "text": "The current top-trending paper on https://t.co/tOqTY2ZA6h is HRM-Text, which is not on @arxiv!\n\nIt shows how powerful 1B models can be, with clever innovations like latent-space reasoning. https://t.co/nsW6TdJDZx",
+      "timestamp": "2026-05-20T06:54:03+00:00",
+      "url": "https://x.com/NielsRogge/status/2056991828499411366",
+      "images": [
+        "https://pbs.twimg.com/media/HIvmmT5W4AAN59V.jpg"
+      ],
+      "likes": 111,
+      "retweets": 15,
+      "views": 16533
+    },
+    {
+      "id": "2056979876322938974",
+      "username": "Miles_Brundage",
+      "text": "Still don’t get the jaggedness thing\n\nLike I understand the concept and it felt empirically real once but it feels much less real, if real at all, today\n\nThings like chain of thought generalize a ton to hard to verify tasks without that much effort. And there is so much effort",
+      "timestamp": "2026-05-20T06:06:34+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2056979876322938974",
+      "images": [],
+      "likes": 65,
+      "retweets": 1,
+      "views": 6604
+    },
+    {
+      "id": "2056810847155126337",
+      "username": "_mohansolo",
+      "text": "Aware of the login and auth issues people are having with Antigravity. Facing a significant increase in traffic and thundering herd issues. Fixing ASAP!",
+      "timestamp": "2026-05-19T18:54:54+00:00",
+      "url": "https://x.com/_mohansolo/status/2056810847155126337",
+      "images": [],
+      "likes": 96,
+      "retweets": 0,
+      "views": 11568
+    },
+    {
+      "id": "2056798567873044918",
+      "username": "Miles_Brundage",
+      "text": "Big day for those who do not wish to advance the rate of AI capabilities progress https://t.co/7Rfq6Xmj4W",
+      "timestamp": "2026-05-19T18:06:06+00:00",
+      "url": "https://x.com/Miles_Brundage/status/2056798567873044918",
+      "images": [],
+      "likes": 325,
+      "retweets": 13,
+      "views": 45953
+    },
+    {
+      "id": "2056771486732730722",
+      "username": "shaneguML",
+      "text": "\"Staying independent is great for freedom, but risks your intuition \"drifting\" without intimate access to the latest opaque frontier models.\"\n\nRecognize where your understanding drifts, and return to the \"expert\" (a frontier lab) to update it. Live like \"DAgger\". https://t.co/yNM5RvlXpT",
+      "timestamp": "2026-05-19T16:18:30+00:00",
+      "url": "https://x.com/shaneguML/status/2056771486732730722",
+      "images": [
+        "https://pbs.twimg.com/media/HIsexIIa4AE6ymZ.jpg"
+      ],
+      "likes": 114,
+      "retweets": 9,
+      "views": 9331
+    },
+    {
+      "id": "2054694553861357972",
+      "username": "nvidia",
+      "text": "What does it actually take to run A/B testing at nearly a billion-user scale?\n\nPrudhvi Vatala, Head of Engineering Platforms at @Snap, explains how his team migrated 10+ petabytes of daily data processing to GPU-accelerated pipelines on @GoogleCloud — cutting job costs by 76% and https://t.co/g7jo8B1W3J",
+      "timestamp": "2026-05-13T22:45:30+00:00",
+      "url": "https://x.com/nvidia/status/2054694553861357972",
+      "images": [],
+      "likes": 191,
+      "retweets": 33,
+      "views": 48466
+    }
+  ]
 }
