@@ -3,10 +3,11 @@
 # 由 launchd 定时调用：先采集+分析，等到发送时间后推送
 #
 # 时间线：
-#   09:30  launchd 触发本脚本
-#   09:30  采集 + AI 分析（约 3-5 分钟）
-#   09:35  发送草稿到测试频道供审核
-#   09:35  git push 日报 markdown 到 GitHub（供 Red Lobi 拉取）
+#   10:30  launchd 触发本脚本
+#   10:30  采集 + AI 分析（约 3-5 分钟）
+#   10:35  发送草稿到测试频道供审核
+#   10:35  git push 日报 markdown 到 GitHub（供 Red Lobi / 网站拉取）
+#   10:35  通过 wxsend 推送到小克微信（Step 5）
 
 set -euo pipefail
 
@@ -81,11 +82,33 @@ log "Step 4: 提交到 Git..."
 cd "$DIR"
 /usr/bin/git add config/drafts/ memory/ data/daily/ data/weekly/ docs/_posts/ wiki/ 2>/dev/null || true
 if ! /usr/bin/git diff --cached --quiet 2>/dev/null; then
-    /usr/bin/git commit -m "daily: $(date +%Y-%m-%d) brief"
+    # 从 staged 文件里提 brief 实际日期，避免跨天 pipeline 把 commit 打错 message
+    BRIEF_DATE=$(/usr/bin/git diff --cached --name-only \
+        | /usr/bin/grep -oE 'data/daily/[0-9]{4}-[0-9]{2}-[0-9]{2}/' \
+        | /usr/bin/grep -oE '[0-9]{4}-[0-9]{2}-[0-9]{2}' \
+        | /usr/bin/sort -u | /usr/bin/tail -1)
+    [ -z "$BRIEF_DATE" ] && BRIEF_DATE=$(date +%Y-%m-%d)
+    /usr/bin/git commit -m "daily: $BRIEF_DATE brief"
     /usr/bin/git push
-    log "Git 提交推送完成"
+    log "Git 提交推送完成（brief 日期: $BRIEF_DATE）"
 else
     log "无变更需要提交"
+fi
+
+# Step 5: 推送到小克微信（非致命，失败不影响 pipeline）
+log "Step 5: 推送到小克微信..."
+WXSEND="$HOME/.local/bin/wxsend"
+FMT_SCRIPT="$DIR/scripts/format_brief_for_im.py"
+# 传 BRIEF_DATE 给 format 脚本，跨天 pipeline 也能推正确日期
+PUSH_DATE="${BRIEF_DATE:-$(date +%Y-%m-%d)}"
+if [ -x "$WXSEND" ] && [ -f "$FMT_SCRIPT" ]; then
+    if /opt/anaconda3/bin/python3 "$FMT_SCRIPT" "$PUSH_DATE" | "$WXSEND" >> "$LOG" 2>&1; then
+        log "小克推送完成（日期: $PUSH_DATE）"
+    else
+        log "[!] 小克推送失败（token 可能过期，发任意消息给小克即可刷新）"
+    fi
+else
+    log "[!] wxsend 或 format_brief_for_im.py 缺失，跳过推送"
 fi
 
 # 清理 7 天前的日志
