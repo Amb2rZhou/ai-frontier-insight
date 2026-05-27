@@ -2,7 +2,7 @@
 title: Claude
 type: product
 created: 2026-02-25
-updated: 2026-05-22
+updated: 2026-05-24
 ---
 
 # Claude
@@ -11,6 +11,7 @@ updated: 2026-05-22
 
 ## Timeline
 
+- **2026-05-24**: Dejavu: Local-First AI Memory That Follows Users Across Tools via [[mcp-protocol|MCP]]
 - **2026-05-22**: [[alibaba|Alibaba]] Qwen3.7-Max Achieves 35-Hour Autonomous Agent Runtime
 - **2026-05-20**: [[anthropic|Anthropic]] Enables Enterprise Agent Credential Security via Self-Hosted Sandboxes in CMA
 - **2026-05-17**: Coding Agent Battle Heats Up: [[codex|Codex]] vs Zed vs Claude Code

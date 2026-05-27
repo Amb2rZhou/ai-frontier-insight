@@ -1,1287 +1,163 @@
 {
-  "current_week": "2026-W20",
+  "current_week": "2026-W21",
   "days": {
-    "2026-05-18": [
+    "2026-05-24": [
       {
-        "title": "Meta AI Releases Realiz3D: Photorealistic 3D Generation via Domain-Aware Learning",
-        "signal_text": "Meta AI（AI at Meta）发布 Realiz3D，通过残差适配器和层级特定学习策略，解决合成渲染与真实图像之间的领域差异，实现照片级3D一致图像生成。这是头部公司在3D内容生成方向的重要突破，直接关联小红书AI赋能内容创作（3D商品展示、虚拟试穿等场景）。",
+        "title": "White House Nears Deal with Anthropic for Spy Agencies to Use AI",
+        "signal_text": "据The Information报道，白宫接近与Anthropic达成协议，允许美国国家安全局（NSA）等情报机构将Anthropic的高级AI模型用于机密工作。尽管国防部此前将Anthropic列为“外国对手”相关供应商，但该谈判仍在推进，标志着AI安全公司首次大规模进入国家级安全应用领域，对AI监管、模型安全部署和商业化路径有深远影响。",
         "signal_strength": 0.85,
         "sources": [
           {
-            "name": "HuggingFace Papers",
-            "url": "https://huggingface.co/papers/2605.13852"
+            "name": "The Information",
+            "url": "https://www.theinformation.com/briefings/white-house-anthropic-near-deal-spy-agencies-use-ai"
           }
         ],
         "tags": [
-          "多模态生成",
-          "3D内容创作",
-          "Meta FAIR",
-          "AI辅助创作"
+          "头部公司战略",
+          "AI安全与治理",
+          "监管风险",
+          "商业化"
         ],
         "raw_item_indices": [
-          84
+          8
         ]
       },
       {
-        "title": "NVIDIA MemLens: Benchmarking Multimodal Long-Term Memory in Vision-Language Models",
-        "signal_text": "NVIDIA发布MemLens基准，通过多会话对话评估视觉语言模型的长期记忆能力，发现长上下文和记忆增强方法均存在显著局限。该研究对小红书搜索与推荐、个性化体验（用户兴趣跟踪、跨会话记忆）具有直接参考价值。",
-        "signal_strength": 0.8,
-        "sources": [
-          {
-            "name": "HuggingFace Papers",
-            "url": "https://huggingface.co/papers/2605.14906"
-          }
-        ],
-        "tags": [
-          "多模态理解",
-          "长期记忆",
-          "NVIDIA Research",
-          "搜索推荐"
-        ],
-        "raw_item_indices": [
-          76
-        ]
-      },
-      {
-        "title": "NVIDIA SANA-WM: Efficient Minute-Scale World Model with Hybrid Linear Diffusion Transformer",
-        "signal_text": "NVIDIA推出SANA-WM，仅2.6B参数的世界模型，能生成高保真720p视频并支持精确相机控制，计算需求显著降低。该模型对视频内容生成（UGC辅助创作、特效生成）有巨大潜力，且效率优势适合端侧部署探索。",
-        "signal_strength": 0.78,
-        "sources": [
-          {
-            "name": "HuggingFace Papers",
-            "url": "https://huggingface.co/papers/2605.15178"
-          }
-        ],
-        "tags": [
-          "视频生成",
-          "世界模型",
-          "NVIDIA Research",
-          "高效推理",
-          "内容创作"
-        ],
-        "raw_item_indices": [
-          77
-        ]
-      },
-      {
-        "title": "Tsinghua Causal Forcing++: Real-Time Interactive Video Generation via Diffusion Distillation",
-        "signal_text": "清华大学机器学习组提出Causal Forcing++，通过因果一致性蒸馏实现逐帧视频生成，延迟低于现有分块方法，支持实时交互式视频生成。直接对标小红书视频内容创作场景，为UGC实时特效、互动视频等功能提供技术基础。",
-        "signal_strength": 0.75,
-        "sources": [
-          {
-            "name": "HuggingFace Papers (Tsinghua ML Group)",
-            "url": "https://huggingface.co/papers/2605.15141"
-          }
-        ],
-        "tags": [
-          "视频生成",
-          "实时交互",
-          "清华大学",
-          "扩散模型蒸馏",
-          "内容创作"
-        ],
-        "raw_item_indices": [
-          75
-        ]
-      },
-      {
-        "title": "Qwen3.6-27B/35B Models Hit HuggingFace Trending Post-Quantization",
-        "signal_text": "阿里巴巴通义千问团队Qwen3.6系列（27B及MoE变体35B-A3B）经Unsloth量化后登顶HF趋势榜，下载量合计超36.6万次。表明国内大模型在开源社区的部署热度持续发酵，对小红书评估国产模型进行内容理解、搜索增强具有参考意义。",
-        "signal_strength": 0.72,
-        "sources": [
-          {
-            "name": "HuggingFace (unsloth)",
-            "url": "https://huggingface.co/unsloth/Qwen3.6-27B-MTP-GGUF"
-          }
-        ],
-        "tags": [
-          "开源模型",
-          "模型量化",
-          "阿里巴巴",
-          "端侧部署",
-          "中文内容理解"
-        ],
-        "raw_item_indices": [
-          103,
-          104
-        ]
-      },
-      {
-        "title": "Peking University VGGT-Edit: Feed-Forward Native 3D Scene Editing with Text",
-        "signal_text": "北京大学研究团队提出VGGT-Edit，通过深度同步文本注入和直接几何位移预测，实现基于文本指令的三维场景编辑，质量与效率优于传统2D提升方法。该技术可用于小红书AR试妆、虚拟家居等3D交互场景。",
-        "signal_strength": 0.7,
-        "sources": [
-          {
-            "name": "HuggingFace Papers (Peking University)",
-            "url": "https://huggingface.co/papers/2605.15186"
-          }
-        ],
-        "tags": [
-          "3D编辑",
-          "文本生成",
-          "北京大学",
-          "AR/VR",
-          "内容创作"
-        ],
-        "raw_item_indices": [
-          83
-        ]
-      },
-      {
-        "title": "Publicis Acquires LiveRamp for $2.5B in Agentic AI Data Play",
-        "signal_text": "广告巨头Publicis以25亿美元收购身份解析和数据协作平台LiveRamp，旨在构建用于Agentic AI的数据基础设施。这标志着大型企业在AI代理时代对高质量用户数据资产的争夺从技术层蔓延至战略并购，对小红书电商和社区运营的数据策略有警示意义。",
-        "signal_strength": 0.68,
-        "sources": [
-          {
-            "name": "Reddit (r/artificial)",
-            "url": "https://www.reddit.com/r/artificial/comments/1tfvvn3/publicis_buys_liveramp_for_25_billion_in_agentic/"
-          }
-        ],
-        "tags": [
-          "企业并购",
-          "Agent数据",
-          "广告技术",
-          "数据资产"
-        ],
-        "raw_item_indices": [
-          19
-        ]
-      },
-      {
-        "title": "Tsinghua-LeapLab InsightTok: Improved Visual Tokenization for Autoregressive Image Generation",
-        "signal_text": "清华大学LeapLab提出InsightTok，通过内容感知感知损失改进离散视觉分词器，在文本和面部重建上取得突破，提升自回归图像生成质量。对小红书图文内容生成（文字渲染、面部合成）有直接技术价值。",
-        "signal_strength": 0.68,
-        "sources": [
-          {
-            "name": "HuggingFace Papers (Tsinghua-LeapLab)",
-            "url": "https://huggingface.co/papers/2605.14333"
-          }
-        ],
-        "tags": [
-          "图像生成",
-          "视觉分词",
-          "清华大学",
-          "自回归模型",
-          "内容创作"
-        ],
-        "raw_item_indices": [
-          86
-        ]
-      },
-      {
-        "title": "Codex Usage Spikes: OpenAI's Agentic Coding from Phone Sees Scale Issues",
-        "signal_text": "OpenAI联合创始人Greg Brockman（@gdb）连发推文高调展示Codex移动端用法（获1000+ likes、8.8万views）；随后Codex用户遭遇限流故障，团队紧急恢复并补偿。说明Agentic coding产品在爆发式增长下面临基础设施压力，对小红书评估AI Agent落地稳定性有参考价值。",
+        "title": "Ferrari and IBM Use AI to Create F1 Superfans: Enterprise AI Applications",
+        "signal_text": "据TechCrunch报道，Ferrari与IBM合作，利用IBM的AI技术（可能包括Watsonx等平台）打造F1超级粉丝体验。这表明传统品牌正通过AI实现内容个性化、粉丝互动分析等应用，对小红书的品牌合作、社区运营和个性化推荐策略有参考价值。",
         "signal_strength": 0.65,
         "sources": [
           {
-            "name": "Twitter (OpenAI联合创始人Greg Brockman)",
-            "url": "https://x.com/gdb/status/2055882172884763012"
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/"
           }
         ],
         "tags": [
-          "Coding Agent",
-          "OpenAI",
-          "产品发布",
-          "基础设施"
+          "企业AI应用",
+          "内容个性化",
+          "社区运营",
+          "头部公司战略"
         ],
         "raw_item_indices": [
-          39,
-          44,
-          46,
-          61,
-          35
+          10
         ]
       },
       {
-        "title": "Anthropic and OpenAI Command 89% of AI Startup Revenues, Widening Gap",
-        "signal_text": "据The Information报道，Anthropic与OpenAI在34家领先AI初创公司总收入中占比升至89%，收入差距持续拉大。反映头部效应加剧，对小红书作为内容平台选择AI合作伙伴时的议价能力和生态依赖风险有战略性参考。",
+        "title": "Dejavu: Local-First AI Memory That Follows Users Across Tools via MCP",
+        "signal_text": "开源项目Dejavu（70 stars）实现本地优先、无需云账户的AI记忆系统，通过MCP协议让用户记忆在不同AI工具（如Claude、LLM）间共享。强调隐私和去中心化，可能成为小红书中用户个性化记忆与跨会话交互的基础设施（如保持用户偏好、聊天历史）。",
         "signal_strength": 0.6,
         "sources": [
           {
-            "name": "The Information",
-            "url": "https://www.theinformation.com/articles/anthropic-openais-share-ai-startup-revenues-rises-89"
+            "name": "GitHub - JSingletonAI/dejavu",
+            "url": "https://github.com/JSingletonAI/dejavu"
           }
         ],
         "tags": [
-          "行业格局",
-          "收入集中度",
-          "Anthropic",
-          "OpenAI",
-          "商业策略"
+          "Agent与新交互范式",
+          "开源生态",
+          "隐私",
+          "MCP"
         ],
         "raw_item_indices": [
-          26
-        ]
-      }
-    ],
-    "2026-05-14": [
-      {
-        "title": "OpenAI Codex for Windows Sandbox: Balancing Agent Autonomy and Security",
-        "signal_text": "OpenAI 开发者账号发布博文，详细说明为 Windows 构建 Codex 沙箱的技术方案，解决让编码 Agent 保持可用性与防止完全机器访问之间的平衡。由 OpenAI 联合创始人 Greg Brockman (@gdb) 转发并获 310+ likes，OpenAIDevs 账号推文获 511 likes/89k views。来源：OpenAI 官方开发者账号与联合创始人。",
-        "signal_strength": 0.82,
-        "sources": [
-          {
-            "name": "OpenAI Devs Twitter",
-            "url": "https://x.com/OpenAIDevs/status/2054735161166819377"
-          },
-          {
-            "name": "Greg Brockman Twitter",
-            "url": "https://x.com/gdb/status/2054744721570820444"
-          }
-        ],
-        "tags": [
-          "Agent",
-          "Codex",
-          "Security"
-        ],
-        "raw_item_indices": [
-          7,
-          9
+          24
         ]
       },
       {
-        "title": "Ollama v0.24 Supports Codex App, Deepening Local LLM Integration with OpenAI's Agent Ecosystem",
-        "signal_text": "Ollama v0.24 正式支持 OpenAI Codex App 作为桌面体验工具，可通过 `ollama launch codex-app` 命令启动，并内置工作树（worktree）和 git 功能。此前 Ollama 已支持 `opencode` 和 vision 模型。这表明本地推理引擎正在主动适配主流 Agent 应用，降低开发者使用本地模型的门槛。来源：Ollama 官方 GitHub Release（获广泛关注）。",
-        "signal_strength": 0.78,
+        "title": "Control-Layer: Production-Grade LLM Guardrails with Schema Enforcement and Circuit Breaking",
+        "signal_text": "开源Python库control-layer（43 stars）提供介于应用逻辑与LLM之间的生产级控制层，包括输入验证、模式强制、熔断、重试和审计日志。该模式对小红书的AI Agent安全部署、内容审核流水线以及API稳定性管理有直接借鉴意义。",
+        "signal_strength": 0.6,
         "sources": [
           {
-            "name": "Ollama GitHub Release v0.24.0",
-            "url": "https://github.com/ollama/ollama/releases/tag/v0.24.0"
+            "name": "GitHub - Emmimal/control-layer",
+            "url": "https://github.com/Emmimal/control-layer"
           }
         ],
         "tags": [
-          "Agent",
-          "Local Deployment",
-          "Open Source"
+          "Agent与新交互范式",
+          "内容安全与治理",
+          "开源生态",
+          "推理效率"
         ],
         "raw_item_indices": [
-          25,
-          26,
-          27
+          28
         ]
       },
       {
-        "title": "ByteDance Seed Publishes Long-Context VLM Training Method with 128K+ Generalization",
-        "signal_text": "ByteDance Seed 团队发表论文，提出长上下文视觉语言模型（VLM）的持续预训练方法，通过策略性数据混合设计，使模型在长文档理解上表现优异，且泛化能力可超过 128K 上下文窗口。这对小红书的多图/长文理解、视频片段检索等场景有直接参考价值。来源：ByteDance Seed 官方研究团队论文（字节跳动是优先机构）。",
-        "signal_strength": 0.75,
+        "title": "Ai-Flow-Architect: Dual-Brain AI Workflow Engine with Hallucination Prevention",
+        "signal_text": "开源项目ai-flow-architect（35 stars）提出“双脑”架构：规划器（Brain #1）生成计划后，仲裁器（Brain #2，使用不同模型）进行质量仲裁，从而阻断幻觉泄露。这种内生一致性校验机制对小红书的AI辅助创作、搜索增强等场景中的可靠性提升有参考价值。",
+        "signal_strength": 0.55,
         "sources": [
           {
-            "name": "arXiv 论文 2605.13831",
-            "url": "https://huggingface.co/papers/2605.13831"
+            "name": "GitHub - wdnmd1265/ai-flow-architect",
+            "url": "https://github.com/wdnmd1265/ai-flow-architect"
           }
         ],
         "tags": [
-          "Content Understanding",
-          "Long Context",
-          "VLM"
-        ],
-        "raw_item_indices": [
-          35
-        ]
-      },
-      {
-        "title": "NVIDIA AnyFlow: Any-Step Video Diffusion Distillation for Efficient Video Generation",
-        "signal_text": "NVIDIA 发布 AnyFlow，一种任意步数视频扩散蒸馏框架，通过流图变换（flow-map transformation）优化完整 ODE 采样轨迹，比一致性蒸馏更灵活高效。适用于短视频、广告素材等高效率视频生成场景。来源：NVIDIA 研究团队论文（NVIDIA Research 为优先机构）。",
-        "signal_strength": 0.75,
-        "sources": [
-          {
-            "name": "arXiv 论文 2605.13724",
-            "url": "https://huggingface.co/papers/2605.13724"
-          }
-        ],
-        "tags": [
-          "Video Generation",
-          "Efficiency",
-          "Content Creation"
-        ],
-        "raw_item_indices": [
-          34
-        ]
-      },
-      {
-        "title": "Google RubricEM: Meta-RL with Rubric-Guided Policy for Deep Research Agents",
-        "signal_text": "Google 团队提出 RubricEM 框架，使用基于评分标准（ rubric）的元强化学习，分解验证性奖励，使深度研究代理在长篇幅研究任务中表现显著优于基线。该方法通过阶段感知规划和反思实现更可控的 Agent 推理。来源：Google Research 论文（作者包括 Bhavana Dalvi Mishra 等 Google 学者）。",
-        "signal_strength": 0.72,
-        "sources": [
-          {
-            "name": "arXiv 论文 2605.10899",
-            "url": "https://huggingface.co/papers/2605.10899"
-          }
-        ],
-        "tags": [
-          "Agent",
-          "RL",
-          "Research"
-        ],
-        "raw_item_indices": [
-          36
-        ]
-      },
-      {
-        "title": "Qwen-Image-VAE-2.0: High-Compression VAE with Semantic Conditioning for Image Generation",
-        "signal_text": "阿里 Qwen 团队发布 Qwen-Image-VAE-2.0 技术报告，介绍一套高压缩变分自编码器，通过改进架构、大规模训练和语义条件提升重建保真度和可扩散性，压缩比更高但质量不降。这对小红书图文生成、风格迁移等依赖 VAE 的管线有直接优化潜力。来源：Qwen 团队（阿里巴巴旗下，优先机构）。",
-        "signal_strength": 0.72,
-        "sources": [
-          {
-            "name": "arXiv 论文 2605.13565",
-            "url": "https://huggingface.co/papers/2605.13565"
-          }
-        ],
-        "tags": [
-          "Content Creation",
-          "Image Generation",
-          "Efficiency"
-        ],
-        "raw_item_indices": [
-          40
-        ]
-      },
-      {
-        "title": "ToolCUA: End-to-End Agent for Optimal GUI-Tool Path Orchestration by TongyiLab",
-        "signal_text": "阿里 TongyiLab 发布 ToolCUA，一个通过分阶段训练学习最优 GUI-工具路径选择的端到端 Agent，在混合动作空间环境中性能领先。该工作与计算机使用 Agent（Computer Use Agent）方向紧密相关，对小红书探索自动化运营工具、UI 测试等有参考价值。来源：TongyiLab（阿里达摩院/通义实验室，优先机构）。",
-        "signal_strength": 0.7,
-        "sources": [
-          {
-            "name": "arXiv 论文 2605.12481",
-            "url": "https://huggingface.co/papers/2605.12481"
-          }
-        ],
-        "tags": [
-          "Agent",
-          "GUI Automation",
-          "Tool Use"
-        ],
-        "raw_item_indices": [
-          52
-        ]
-      },
-      {
-        "title": "SenseNova-U1: Unifying Multimodal Understanding and Generation with NEO-unify Architecture",
-        "signal_text": "商汤 SenseNova 发布统一视觉语言模型 SenseNova-U1，将理解与生成视为一体化过程，采用 NEO-unify 架构，在多模态任务上表现强劲。对小红书图文理解与生成融合场景有直接参考价值。来源：商汤 SenseNova 研究团队论文（商汤为优先关注机构）。",
-        "signal_strength": 0.68,
-        "sources": [
-          {
-            "name": "arXiv 论文 2605.12500",
-            "url": "https://huggingface.co/papers/2605.12500"
-          }
-        ],
-        "tags": [
-          "Multimodal",
-          "Generation",
-          "Understanding"
-        ],
-        "raw_item_indices": [
-          30
-        ]
-      },
-      {
-        "title": "MinT: Managed Infrastructure for Training & Serving Millions of LLMs via Low-Rank Adapters",
-        "signal_text": "Mind Lab 发布 MinT，一种托管基础设施系统，通过驻留基座模型并移动轻量 adapter 修订版，实现百万级 LLM 的低秩适应训练与高效推理。对小红书多模型服务、个性化 LoRA 部署场景意义重大。来源：Mind Lab 论文（获 HuggingFace 211 点赞）。",
-        "signal_strength": 0.65,
-        "sources": [
-          {
-            "name": "arXiv 论文 2605.13779",
-            "url": "https://huggingface.co/papers/2605.13779"
-          }
-        ],
-        "tags": [
-          "Model Serving",
-          "LoRA",
-          "Infrastructure"
+          "Agent与新交互范式",
+          "内容创作与理解",
+          "开源生态",
+          "推理"
         ],
         "raw_item_indices": [
           29
         ]
       },
       {
-        "title": "MCP-Cosmos: World Model-Augmented Agents for Complex Task Execution by IBM Research",
-        "signal_text": "IBM Research 发布 MCP-Cosmos，将生成式世界模型集成到 Model Context Protocol (MCP) 生态系统中，通过潜空间预测模拟增强 Agent 规划与执行能力。对小红书探索 MCP 标准下的 Agent 交互框架有直接参考价值。来源：IBM Research 论文（IBM Research 为优先机构）。",
-        "signal_strength": 0.65,
+        "title": "Anthropic SDK Fixes Encrypted Content Streaming for Beta Features",
+        "signal_text": "Anthropic发布了Python SDK v0.104.1，修复了beta版本中压缩累积器对加密内容的处理问题（carry encrypted_content through beta compaction accumulator）。该修复对使用Anthropic模型进行安全敏感内容流式传输的开发者至关重要，反映了AI应用在加密和安全合规方面的持续演进。",
+        "signal_strength": 0.55,
         "sources": [
           {
-            "name": "arXiv 论文 2605.09131",
-            "url": "https://huggingface.co/papers/2605.09131"
+            "name": "GitHub Release - anthropics/anthropic-sdk-python",
+            "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.104.1"
           }
         ],
         "tags": [
-          "Agent",
-          "World Model",
-          "Planning"
+          "头部公司战略",
+          "AI安全与治理",
+          "开发者生态"
         ],
         "raw_item_indices": [
-          42
-        ]
-      }
-    ],
-    "2026-05-19": [
-      {
-        "title": "Google and Blackstone Launch TPU Cloud Provider",
-        "signal_text": "Google 与黑石集团联合成立新的云计算公司，专门出租 Google TPU 给 AI 开发者。此举旨在扩展 TPU 的覆盖范围，与 NVIDIA GPU 云形成竞争。据 The Information 报道。",
-        "signal_strength": 0.9,
-        "sources": [
-          {
-            "name": "The Information",
-            "url": "https://www.theinformation.com/briefings/google-blackstone-create-tpu-cloud-provider"
-          }
-        ],
-        "tags": [
-          "Google",
-          "基础设施",
-          "TPU",
-          "云服务"
-        ],
-        "raw_item_indices": [
-          2
+          30
         ]
       },
       {
-        "title": "Anthropic Acquires SDK Automation Startup Stainless",
-        "signal_text": "Anthropic 收购了纽约初创公司 Stainless，该公司专注于自动化 SDK 创建和维护，客户包括 OpenAI、Google 和 Cloudflare。此次收购将强化 Anthropic 在开发者工具链上的布局，降低 API 对接成本，加速企业级 AI 产品落地。据 TechCrunch 报道。",
-        "signal_strength": 0.85,
-        "sources": [
-          {
-            "name": "TechCrunch",
-            "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/"
-          }
-        ],
-        "tags": [
-          "Anthropic",
-          "并购",
-          "开发者工具",
-          "API生态"
-        ],
-        "raw_item_indices": [
-          27
-        ]
-      },
-      {
-        "title": "Meta Shifts Thousands of Workers to AI-Focused Groups Ahead of Layoffs",
-        "signal_text": "Meta 计划裁减约 10% 员工（近 78000 人），同时将数千名员工调入新建的 AI 专项组，以重构组织架构适应 AI 战略。据 The Information 报道。",
-        "signal_strength": 0.8,
-        "sources": [
-          {
-            "name": "The Information",
-            "url": "https://www.theinformation.com/briefings/meta-shifts-thousands-workers-new-ai-groups-layoffs-loom"
-          }
-        ],
-        "tags": [
-          "Meta",
-          "组织变革",
-          "裁员",
-          "AI优先"
-        ],
-        "raw_item_indices": [
-          6
-        ]
-      },
-      {
-        "title": "DeepSeek-V4-Pro Trends on HuggingFace as Open-Weight Model",
-        "signal_text": "DeepSeek-V4-Pro 在 HuggingFace 上获得 4041 likes 和超 340 万下载量，成为近期最受关注的开源文本生成模型之一，采用 MIT 许可和 FP8 量化。社区反响强烈，标志着中国开源大模型在全球的持续影响力。",
-        "signal_strength": 0.8,
-        "sources": [
-          {
-            "name": "HuggingFace",
-            "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro"
-          }
-        ],
-        "tags": [
-          "DeepSeek",
-          "开源模型",
-          "趋势",
-          "HuggingFace"
-        ],
-        "raw_item_indices": [
-          101
-        ]
-      },
-      {
-        "title": "Context Architecture Emerges as Agentic AI Replaces Traditional RAG",
-        "signal_text": "Redis 指出，随着 agentic AI 系统将企业检索推向极限，传统的 RAG 正在被更全面的“上下文架构”取代。新架构解决数据分散、过期和不一致导致的 Agent 失败问题。据 VentureBeat 报道。",
-        "signal_strength": 0.75,
-        "sources": [
-          {
-            "name": "VentureBeat",
-            "url": "https://venturebeat.com/data/context-architecture-is-replacing-rag-as-agentic-ai-pushes-enterprise-retrieval-to-its-limits"
-          }
-        ],
-        "tags": [
-          "RAG",
-          "上下文架构",
-          "Agent",
-          "企业检索"
-        ],
-        "raw_item_indices": [
-          11
-        ]
-      },
-      {
-        "title": "Supply-Chain Attacks on AI Model Release Pipelines Exposed",
-        "signal_text": "50天内发生4起针对 OpenAI、Anthropic 和 Meta 的供应链攻击，涉及发布管道、CI runner、依赖挂钩和包装网关。攻击不针对模型本身，而是暴露了 AI 模型发布流程的安全盲区。据 VentureBeat 报道。",
-        "signal_strength": 0.75,
-        "sources": [
-          {
-            "name": "VentureBeat",
-            "url": "https://venturebeat.com/security/supply-chain-incidents-openai-anthropic-meta-release-surface-vendor-questionnaire-matrix"
-          }
-        ],
-        "tags": [
-          "供应链安全",
-          "模型发布",
-          "OpenAI",
-          "Anthropic",
-          "Meta"
-        ],
-        "raw_item_indices": [
-          34
-        ]
-      },
-      {
-        "title": "FashionChameleon: Real-Time Interactive Garment Video Customization from Alibaba",
-        "content": "阿里巴巴团队提出 FashionChameleon，通过 teacher-student distillation 和 in-context learning 实现实时、多衣物视频定制，保持运动一致性。对电商内容创作（如商品展示视频生成）有直接应用潜力。论文发布于 Arxiv（阿里达摩院）。\n",
-        "signal_text": "阿里巴巴团队提出 FashionChameleon，通过 teacher-student distillation 和 in-context learning 实现实时、多衣物视频定制，保持运动一致性。对电商内容创作（如商品展示视频生成）有直接应用潜力。论文发布于 Arxiv（阿里达摩院）。",
-        "signal_strength": 0.75,
-        "sources": [
-          {
-            "name": "Arxiv via HuggingFace Papers",
-            "url": "https://huggingface.co/papers/2605.15824"
-          }
-        ],
-        "tags": [
-          "多模态生成",
-          "视频定制",
-          "电商",
-          "阿里巴巴"
-        ],
-        "raw_item_indices": [
-          72
-        ]
-      },
-      {
-        "title": "LangSmith Engine Launches Automated Agent Debugging Loop",
-        "signal_text": "LangChain 旗下 LangSmith 推出“Engine”功能，可自动关闭 agent 调试循环，降低工程师发现 agent 错误的时间成本。但多模型企业仍需中立监控层。据 VentureBeat 报道。",
-        "signal_strength": 0.7,
-        "sources": [
-          {
-            "name": "VentureBeat",
-            "url": "https://venturebeat.com/orchestration/langsmith-engine-closes-the-agent-debugging-loop-automatically-but-multi-model-enterprises-still-need-a-neutral-layer"
-          }
-        ],
-        "tags": [
-          "LangChain",
-          "Agent调试",
-          "LLMOps",
-          "企业AI"
-        ],
-        "raw_item_indices": [
-          37
-        ]
-      },
-      {
-        "title": "NVIDIA Fine-Tuning Cosmos Predict 2.5 for Robot Video Generation with LoRA/DoRA",
-        "signal_text": "NVIDIA 发布博客教程，展示如何使用 LoRA 和 DoRA 微调 Cosmos Predict 2.5 视频生成模型，专门用于机器人视频生成任务。降低了视频生成模型的定制门槛，对具身智能场景的仿真与训练有重要意义。",
-        "signal_strength": 0.7,
-        "sources": [
-          {
-            "name": "HuggingFace Blog (NVIDIA)",
-            "url": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation"
-          }
-        ],
-        "tags": [
-          "NVIDIA",
-          "视频生成",
-          "LoRA",
-          "机器人"
-        ],
-        "raw_item_indices": [
-          39
-        ]
-      },
-      {
-        "title": "IBM Research and HuggingFace Launch Open Agent Leaderboard",
-        "signal_text": "IBM Research 联合 HuggingFace 发布 Open Agent Leaderboard，为 AI Agent 提供标准化评测基准，推动 Agent 生态的透明化和可比较性。博客发布于 HuggingFace。",
-        "signal_strength": 0.65,
-        "sources": [
-          {
-            "name": "HuggingFace Blog",
-            "url": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard"
-          }
-        ],
-        "tags": [
-          "Agent评测",
-          "开源",
-          "IBM",
-          "HuggingFace"
-        ],
-        "raw_item_indices": [
-          42
-        ]
-      }
-    ],
-    "2026-05-20": [
-      {
-        "title": "Google I/O 2026: Gemini 3.5 Flash, Antigravity 2.0, and Agentic Search Overhaul",
-        "signal_text": "Google I/O 2026 宣布了一系列重大更新：Gemini 3.5 Flash 模型（号称比 3.1 Pro 更强且成本更低）、Antigravity 2.0 代理框架（支持子代理和并行执行）、搜索框 25 年来首次重设计（集成多模态和 agentic 能力）、以及 Gemini Omni（从任意输入生成视频）。据《The Information》报道，这是 Google 在 agentic AI 和搜索领域的关键战略转向。",
-        "signal_strength": 0.95,
-        "sources": [
-          {
-            "name": "Google AI Blog",
-            "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/"
-          },
-          {
-            "name": "The Information",
-            "url": "https://www.theinformation.com/articles/googles-ai-search-leap-forward"
-          },
-          {
-            "name": "VentureBeat",
-            "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
-          }
-        ],
-        "tags": [
-          "搜索与推荐",
-          "Agent 与新交互范式",
-          "头部公司战略动作"
-        ],
-        "raw_item_indices": [
-          10,
-          23,
-          29,
-          40,
-          41,
-          47,
-          109,
-          147,
-          163,
-          165
-        ]
-      },
-      {
-        "title": "Andrej Karpathy Joins Anthropic",
-        "signal_text": "知名 AI 研究员 Andrej Karpathy（前 OpenAI、Tesla 负责人）确认加入 Anthropic。HuggingFace CEO Clement Delangue 推文（获 222+ likes）推测此举可能推动 Anthropic 加大开源力度。业内人士认为这是 AI 人才战争的关键事件。",
-        "signal_strength": 0.9,
-        "sources": [
-          {
-            "name": "Clement Delangue (HuggingFace CEO) 推文",
-            "url": "https://x.com/ClementDelangue/status/2056774379418087453"
-          },
-          {
-            "name": "Nathan Lambert 推文",
-            "url": "https://x.com/natolambert/status/2056759884952347026"
-          }
-        ],
-        "tags": [
-          "人才流动",
-          "头部公司战略动作",
-          "开源生态"
-        ],
-        "raw_item_indices": [
-          175,
-          179,
-          182,
-          188
-        ]
-      },
-      {
-        "title": "Google DeepMind Releases Gemini Omni: Any-to-Video Generation Model",
-        "signal_text": "Google DeepMind 发布 Gemini Omni，一个从文本/图像/音频任意输入直接生成视频的多模态模型，已被集成到 Gemini App、Flow 和 YouTube 中。据 Google Labs 推文，该模型支持批量编辑和角色一致性改进，被视为视频生成领域的里程碑。",
-        "signal_strength": 0.88,
-        "sources": [
-          {
-            "name": "Google 官方推文",
-            "url": "https://x.com/OfficialLoganK/status/2056787874260164628"
-          },
-          {
-            "name": "Google DeepMind 推文",
-            "url": "https://x.com/GoogleDeepMind/status/2056804306653794336"
-          }
-        ],
-        "tags": [
-          "内容创作与理解",
-          "多模态理解与生成融合"
-        ],
-        "raw_item_indices": [
-          86,
-          97,
-          122,
-          134,
-          142,
-          149,
-          162,
-          163
-        ]
-      },
-      {
-        "title": "OpenAI Adopts Google's SynthID Watermark for AI Images",
-        "signal_text": "OpenAI 宣布采用 Google DeepMind 的 SynthID 水印技术，用于标记 AI 生成图像，并推出公开验证工具。据 OpenAI CEO Sam Altman 推文（获 646+ likes），此举是行业在 AI 内容溯源标准上的重要趋同。",
-        "signal_strength": 0.85,
-        "sources": [
-          {
-            "name": "OpenAI 官方博客",
-            "url": "https://openai.com/index/advancing-content-provenance/"
-          },
-          {
-            "name": "Hacker News",
-            "url": "https://news.ycombinator.com/item?id=48198291"
-          },
-          {
-            "name": "Greg Brockman (OpenAI) 推文",
-            "url": "https://x.com/gdb/status/2056820240860778750"
-          }
-        ],
-        "tags": [
-          "内容安全与治理",
-          "AI-Generated Content Watermarking and Provenance Standards"
-        ],
-        "raw_item_indices": [
-          32,
-          127,
-          157
-        ]
-      },
-      {
-        "title": "ByteDance Releases Lance: Unified Multimodal Model for Understanding, Generation, and Editing",
-        "signal_text": "字节跳动研究团队发布 Lance，一个统一多模态模型，通过协同多任务训练实现图像/视频的理解、生成和编辑。模型在 HuggingFace 上获 322 likes，代表中国大厂在多模态统一架构方向的最新进展。",
-        "signal_strength": 0.82,
-        "sources": [
-          {
-            "name": "HuggingFace 模型页面",
-            "url": "https://huggingface.co/bytedance-research/Lance"
-          },
-          {
-            "name": "Arxiv 论文",
-            "url": "https://huggingface.co/papers/2605.18678"
-          }
-        ],
-        "tags": [
-          "内容创作与理解",
-          "多模态理解与生成融合",
-          "头部公司战略动作"
-        ],
-        "raw_item_indices": [
-          218,
-          243
-        ]
-      },
-      {
-        "title": "Unsloth Enables 4-bit Qwen3.6 with Multi-Token Prediction Running Locally on 20GB RAM",
-        "signal_text": "UnslothAI 发布 Qwen3.6-27B MTP GGUF，支持4-bit量化下的多token预测，可在20GB RAM设备上本地运行，自动选择最优 MTP 设置（获704+ likes）。这大幅降低了运行大型模型的门槛，对端侧部署和社区传播有重要意义。",
-        "signal_strength": 0.8,
-        "sources": [
-          {
-            "name": "UnslothAI 推文",
-            "url": "https://x.com/UnslothAI/status/2056771983048876254"
-          },
-          {
-            "name": "HuggingFace 模型页面",
-            "url": "https://huggingface.co/unsloth/Qwen3.6-27B-MTP-GGUF"
-          }
-        ],
-        "tags": [
-          "技术突破",
-          "AI Infrastructure Optimization and Open Source Tools",
-          "开源生态"
-        ],
-        "raw_item_indices": [
-          178,
-          201,
-          244
-        ]
-      },
-      {
-        "title": "OpenAI Guaranteed Capacity and Anthropic Token Commitments Signal Infrastructure Constraints",
-        "signal_text": "OpenAI 推出 'Guaranteed Capacity' 服务（获 1986+ likes），承诺长期算力保障；Anthropic CEO Greg Brockman 推文（获 883+ likes）称将提供折扣 token 以换取1-3年承诺，暗示行业将面临持续算力约束。这表明模型能力增长超过基础设施扩张速度。",
-        "signal_strength": 0.78,
-        "sources": [
-          {
-            "name": "OpenAI 官方推文",
-            "url": "https://x.com/OpenAI/status/2056823271774101907"
-          },
-          {
-            "name": "Greg Brockman (Anthropic) 推文",
-            "url": "https://x.com/gdb/status/2056863925791293675"
-          }
-        ],
-        "tags": [
-          "AI Infrastructure Optimization and Open Source Tools",
-          "头部公司战略动作"
-        ],
-        "raw_item_indices": [
-          94,
-          123
-        ]
-      },
-      {
-        "title": "OpenClaw Integrates with X (Twitter), Enabling Grok Models on Personal Hardware",
-        "signal_text": "OpenClaw 宣布接入 X 平台，允许用户使用自己的 Grok 或 X Premium 订阅在个人硬件上运行 agent。推文获 2495+ likes，xAI 官方转发获 4973+ likes，显示用户对本地运行前沿模型的强烈需求，也反映了 xAI 在开发者生态中的策略。",
-        "signal_strength": 0.77,
-        "sources": [
-          {
-            "name": "OpenClaw 推文",
-            "url": "https://x.com/openclaw/status/2056826388322340910"
-          },
-          {
-            "name": "xAI 官方推文",
-            "url": "https://x.com/xai/status/2056826183745253663"
-          }
-        ],
-        "tags": [
-          "开源生态",
-          "Agent 与新交互范式",
-          "头部公司战略动作"
-        ],
-        "raw_item_indices": [
-          118,
-          119
-        ]
-      },
-      {
-        "title": "NVIDIA LongLive-2.0: NVFP4-Based Infrastructure for Long Video Generation",
-        "signal_text": "NVIDIA 发布 LongLive-2.0，一种基于 NVFP4 的并行基础设施，用于长视频生成的训练和推理。通过序列并行自回归训练解决瓶颈问题，在 GitHub 获 1294 stars，对提升视频生成模型效率有直接应用价值。",
-        "signal_strength": 0.75,
-        "sources": [
-          {
-            "name": "Arxiv 论文（NVIDIA Research）",
-            "url": "https://huggingface.co/papers/2605.18739"
-          }
-        ],
-        "tags": [
-          "技术突破",
-          "内容创作与理解"
-        ],
-        "raw_item_indices": [
-          217
-        ]
-      },
-      {
-        "title": "Google DeepMind LiteFrame: Efficient Video Encoder Unlocks Frame Scaling in Video LLMs",
-        "signal_text": "Google DeepMind 提出 LiteFrame，一个轻量级视频编码器配合压缩 token 蒸馏训练方法，可降低延迟并增加视频 LLM 的帧处理能力。对长视频理解任务（如内容审核、视频搜索）有直接应用价值。",
-        "signal_strength": 0.73,
-        "sources": [
-          {
-            "name": "Arxiv 论文（DeepMind）",
-            "url": "https://huggingface.co/papers/2605.17260"
-          }
-        ],
-        "tags": [
-          "内容创作与理解",
-          "搜索与推荐",
-          "技术突破"
-        ],
-        "raw_item_indices": [
-          226
-        ]
-      }
-    ],
-    "2026-05-21": [
-      {
-        "title": "OpenAI Offers $2M API Credits to Every Y Combinator Startup in Current Batch",
-        "signal_text": "据 OpenAI CEO Sam Altman 在 X 发文（获 1.8k+ likes, 381k views）及 President Greg Brockman 确认，OpenAI 向 YC 当前批次所有初创公司提供价值200万美元的 API 信用额度。此举旨在培育新一代 AI 应用，并通过早期锁定用户来扩大生态影响力。",
-        "signal_strength": 0.9,
-        "sources": [
-          {
-            "name": "X 推文 - OpenAI CEO Sam Altman @sama",
-            "url": "https://x.com/sama/status/2056933166875857290"
-          },
-          {
-            "name": "X 推文 - OpenAI President Greg Brockman @gdb",
-            "url": "https://x.com/gdb/status/2056948285038887255"
-          }
-        ],
-        "tags": [
-          "OpenAI",
-          "ecosystem",
-          "startups",
-          "funding",
-          "API"
-        ],
-        "raw_item_indices": [
-          43,
-          40
-        ]
-      },
-      {
-        "title": "Cohere Releases Command A+ with Apache 2.0 License, Lossless Quantization, and Native Citations",
-        "signal_text": "根据 VentureBeat 报道，Cohere 发布 Command A+ 模型，这是其首个完全采用 Apache 2.0 开源协议的模型。该模型引入了无损量化技术和原生引用能力（native citations），旨在提升企业场景下 AI 的可靠性、效率和信任度。该模型已集成入 HuggingFace Transformers v5.9.0 版本。",
-        "signal_strength": 0.85,
-        "sources": [
-          {
-            "name": "VentureBeat",
-            "url": "https://venturebeat.com/technology/cohere-cracks-lossless-quantization-and-native-citations-with-first-full-apache-2-0-licensed-open-model-command-a"
-          },
-          {
-            "name": "HuggingFace Transformers Release",
-            "url": "https://github.com/huggingface/transformers/releases/tag/v5.9.0"
-          }
-        ],
-        "tags": [
-          "open-source",
-          "LLM",
-          "enterprise-AI",
-          "model-release"
-        ],
-        "raw_item_indices": [
-          23,
-          56
-        ]
-      },
-      {
-        "title": "Google Launches Managed Agents API for One-Call Agent Deployment",
-        "signal_text": "据 VentureBeat 从 Google I/O 获悉，Google 发布 Gemini API 中的 Managed Agents 服务，允许开发者通过单一 API 调用完成 AI Agent 的部署，大幅简化部署流程。同时推出了 Antigravity CLI，标志着 Google 在 Agent 执行层控制权方面强化布局。",
-        "signal_strength": 0.8,
-        "sources": [
-          {
-            "name": "VentureBeat",
-            "url": "https://venturebeat.com/orchestration/googles-managed-agents-api-promises-one-call-deployment-at-the-cost-of-execution-layer-control"
-          }
-        ],
-        "tags": [
-          "Agent",
-          "Google",
-          "API",
-          "product-launch"
-        ],
-        "raw_item_indices": [
-          16
-        ]
-      },
-      {
-        "title": "GitHub Confirms 3,800 Repos Stolen via Poisoned VS Code Extension in Supply-Chain Attack",
-        "signal_text": "GitHub 于5月20日证实，攻击者通过一个被投毒的 VS Code 扩展感染员工设备，窃取了约3800个内部仓库。攻击组织 TeamPCP 还通过微软 Python SDK 传播供应链蠕虫。此事件暴露了 AI 开发工具链的严重安全风险。",
-        "signal_strength": 0.8,
-        "sources": [
-          {
-            "name": "VentureBeat",
-            "url": "https://venturebeat.com/security/github-confirms-3800-repos-stolen-poisoned-vs-code-extension-supply-chain-worm-microsoft-python-sdk"
-          }
-        ],
-        "tags": [
-          "security",
-          "supply-chain",
-          "AI-infrastructure",
-          "vulnerability"
-        ],
-        "raw_item_indices": [
-          32
-        ]
-      },
-      {
-        "title": "Anthropic Anticipates First Profitable Quarter, Revenue Set to Double",
-        "signal_text": "据 TechCrunch 报道，Anthropic 向投资者表示，其第二季度营收预计将超过 109 亿美元，并在该季度首次实现盈利。这标志着头部 AI 公司商业化的关键里程碑，也反映了市场对高质量 AI 模型的强劲需求。",
-        "signal_strength": 0.8,
-        "sources": [
-          {
-            "name": "TechCrunch",
-            "url": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/"
-          }
-        ],
-        "tags": [
-          "AI-business",
-          "Anthropic",
-          "commercialization",
-          "revenue"
-        ],
-        "raw_item_indices": [
-          4
-        ]
-      },
-      {
-        "title": "Jensen Huang Predicts $200B New Market: CPUs for AI Agents",
-        "signal_text": "据 TechCrunch 报道，NVIDIA CEO 黄仁勋预测，AI Agent 的 CPU 市场将形成高达2000亿美元的'全新'市场。这反映了 NVIDIA 对未来 AI 基础设施架构的预判，即 AI Agent 的自主动作执行将由专用 CPU 而非 GPU 主导。",
-        "signal_strength": 0.75,
-        "sources": [
-          {
-            "name": "TechCrunch",
-            "url": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/"
-          }
-        ],
-        "tags": [
-          "NVIDIA",
-          "Agent",
-          "AI-hardware",
-          "market-prediction"
-        ],
-        "raw_item_indices": [
-          3
-        ]
-      },
-      {
-        "title": "Cerebras Claims Trillion-Parameter Inference Speed 7x Faster Than GPU Clouds",
-        "signal_text": "据 VentureBeat 报道，芯片公司 Cerebras Systems 在完成2026年最大科技 IPO 后宣称，其芯片在运行万亿参数 AI 模型时的推理速度比传统 GPU 云快近7倍。此举旨在争夺快速增长的高性能 AI 推理市场。",
-        "signal_strength": 0.7,
-        "sources": [
-          {
-            "name": "VentureBeat",
-            "url": "https://venturebeat.com/technology/cerebras-says-its-chips-run-a-trillion-parameter-ai-model-nearly-7-times-faster-than-gpu-clouds"
-          }
-        ],
-        "tags": [
-          "AI-chips",
-          "inference",
-          "performance",
-          "hardware"
-        ],
-        "raw_item_indices": [
-          26
-        ]
-      },
-      {
-        "title": "Fortune 500 CIOs Flag Token Costs as Dominant Enterprise AI Concern",
-        "signal_text": "据 Samsara CEO @levie 在 X 上发文（获 134 likes, 23k views），其与多位 Fortune 500 企业 CIO 共进晚餐时，Token 成本成为最热议话题。企业正探索多种组合策略，但普遍认为缺乏有效的成本控制手段。",
-        "signal_strength": 0.65,
-        "sources": [
-          {
-            "name": "X 推文 - Samsara CEO @levie",
-            "url": "https://x.com/levie/status/2056965292753146019"
-          }
-        ],
-        "tags": [
-          "enterprise-AI",
-          "cost-optimization",
-          "LLM"
-        ],
-        "raw_item_indices": [
-          38
-        ]
-      },
-      {
-        "title": "Intuit to Lay Off Over 3,000 Employees to Refocus on AI",
-        "signal_text": "据 TechCrunch 报道，财税软件巨头 Intuit 宣布裁员超过3000人（约17%），原因是 AI 驱动的业务转型导致营收增速放缓至2024年以来最低。此举是传统企业为 AI 转型进行组织架构调整的最新案例。",
-        "signal_strength": 0.65,
-        "sources": [
-          {
-            "name": "TechCrunch",
-            "url": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/"
-          },
-          {
-            "name": "The Information",
-            "url": "https://www.theinformation.com/briefings/intuit-lays-17-staff-revenue-growth-sinks-lowest-level-since-2024"
-          }
-        ],
-        "tags": [
-          "company-strategy",
-          "workforce",
-          "AI-transformation",
-          "layoffs"
-        ],
-        "raw_item_indices": [
-          2,
-          18
-        ]
-      },
-      {
-        "title": "Decision Context Graph Framework Proposed to Solve AI Agent Amnesia in Enterprise",
-        "signal_text": "据 VentureBeat 报道，一个名为 'Decision Context Graph' 的新框架被提出，旨在解决现有 RAG 架构中 AI Agent 缺乏结构化记忆和时间感知推理的问题。该框架通过图结构为 Agent 提供决策逻辑，以提升其在复杂企业任务中的持续性和可靠性。",
+        "title": "Browser-Use 0.12.8 Fixes Daemon Security (Unix Socket Permissions)",
+        "signal_text": "开源浏览器自动化Agent框架browser-use发布0.12.8版本，修复了daemon模式下Unix socket文件权限问题（restrict unix socket file to owner-only access），并增加了拒绝eval等安全性修复。此类工具可用于小红书的GUI自动化测试、内容抓取和交互式Agent开发。",
         "signal_strength": 0.5,
         "sources": [
           {
-            "name": "VentureBeat",
-            "url": "https://venturebeat.com/orchestration/enterprise-ai-agents-keep-failing-because-they-forget-what-they-learned"
+            "name": "GitHub Release - browser-use/browser-use",
+            "url": "https://github.com/browser-use/browser-use/releases/tag/0.12.8"
           }
         ],
         "tags": [
-          "Agent",
-          "RAG",
-          "memory",
-          "enterprise-AI"
+          "Agent与新交互范式",
+          "开源生态",
+          "安全",
+          "开发者工具"
         ],
         "raw_item_indices": [
-          28
-        ]
-      }
-    ],
-    "2026-05-22": [
-      {
-        "title": "Alibaba Qwen3.7-Max Achieves 35-Hour Autonomous Agent Runtime",
-        "signal_text": "据 VentureBeat 报道，阿里巴巴发布其专有的 Qwen3.7-Max 模型，支持长达 35 小时的自主运行，并兼容 Anthropic 的 Claude Code 等外部工具链。信号表明中国大厂在 AI Agent 的长时间自主任务执行能力上取得重大突破，直接对标 Anthropic 的 Agent 产品，对小红的搜索增强、Agent 新交互范式有借鉴意义。",
-        "signal_strength": 0.88,
-        "sources": [
-          {
-            "name": "VentureBeat",
-            "url": "https://venturebeat.com/technology/alibabas-proprietary-qwen3-7-max-can-run-for-35-hours-autonomously-and-supports-external-harnesses-like-anthropics-claude-code"
-          }
-        ],
-        "tags": [
-          "Agent与新交互",
-          "中国模型竞争",
-          "头部公司战略"
-        ],
-        "raw_item_indices": [
-          14
+          33
         ]
       },
       {
-        "title": "Workday Reports 2x Quarter-over-Quarter Growth in Enterprise AI Agent Customers",
-        "signal_text": "据 The Information 报道，Workday 表示其 AI Agent 客户数在截至 4 月 30 日的季度内环比翻倍至 4000+，推动股价盘后涨超 10%。信号验证了企业级 AI Agent 的采用正在加速，对小红书评估电商与社区运营中 Agent 的商业化潜力有参考价值。",
-        "signal_strength": 0.75,
+        "title": "DailyBrief: Open-Source AI News Aggregator with 23 Sources and LLM Summaries",
+        "signal_text": "开源项目DailyBrief（48 stars）聚合GitHub Trending、X热门文章和行情技术分析等23个数据源，通过LLM自动生成中文摘要，支持本地或GitHub Actions部署。这类工具可被小红书内部用于信息情报自动化，也可作为社区内容的AI摘要功能的参考。",
+        "signal_strength": 0.45,
         "sources": [
           {
-            "name": "The Information",
-            "url": "https://www.theinformation.com/briefings/workday-stock-jumps-10-company-reveals-ai-agent-gains"
-          }
-        ],
-        "tags": [
-          "Enterprise AI Agent Adoption",
-          "商业化路径",
-          "头部公司战略"
-        ],
-        "raw_item_indices": [
-          16
-        ]
-      },
-      {
-        "title": "Mozilla Firefox 'Project Nova' Redesign Prioritizes AI Privacy Controls",
-        "signal_text": "据 The Verge 报道，Mozilla 公布 Firefox 重大视觉重设计 'Project Nova'，提供一站式开关，允许用户一键关闭所有 AI 功能。信号反映了主流浏览器开始将 AI 隐私和用户控制作为核心体验，对小红书的内容安全与合规风险策略、以及未来在社区运营中如何平衡 AI 功能与用户信任有重要参考意义。",
-        "signal_strength": 0.72,
-        "sources": [
-          {
-            "name": "The Verge",
-            "url": "https://www.theverge.com/tech/935631/firefox-project-nova-redesign"
-          }
-        ],
-        "tags": [
-          "内容安全与治理",
-          "合规风险",
-          "行业风险与监管"
-        ],
-        "raw_item_indices": [
-          31
-        ]
-      },
-      {
-        "title": "Peking University Video2GUI: Synthesizing Trajectories for GUI Agent Pretraining",
-        "signal_text": "北京大学团队提出 Video2GUI 方法，通过从互联网视频中自动提取交互轨迹，构建大规模 GUI 数据集，用于 GUI Agent 的预训练。信号提供了一种低成本、可扩展的 Agent 训练数据生成思路，对小红书的 Agent 新交互范式（如图文/视频编辑 Agent）有技术启发价值。",
-        "signal_strength": 0.7,
-        "sources": [
-          {
-            "name": "Peking University",
-            "url": "https://huggingface.co/papers/2605.14747"
-          }
-        ],
-        "tags": [
-          "Agent与新交互",
-          "技术突破",
-          "内容创作与理解"
-        ],
-        "raw_item_indices": [
-          62
-        ]
-      },
-      {
-        "title": "Alibaba MIGA: Training-Free Long Video Generation Enhancing Temporal Consistency",
-        "signal_text": "阿里巴巴团队提出 MIGA 框架，通过双重一致性机制，无需额外训练即可解决长视频生成中的训练-推理不一致和时序一致性问题。对小红书的视频内容生成和风格迁移有直接应用潜力。",
-        "signal_strength": 0.7,
-        "sources": [
-          {
-            "name": "Alibaba (MIGA paper)",
-            "url": "https://huggingface.co/papers/2605.18233"
-          }
-        ],
-        "tags": [
-          "内容创作与理解",
-          "技术突破",
-          "视频生成"
-        ],
-        "raw_item_indices": [
-          63
-        ]
-      },
-      {
-        "title": "HuggingFace Transformers v5.9.0 Adds Cohere2Moe Model Support",
-        "signal_text": "HuggingFace 发布 Transformers v5.9.0，新增对 Cohere2Moe 模型（即 Command A+）的原生支持。Command A+ 是 MoE 架构，结合滑动窗口和全注意力层。信号加速开源社区对 MoE 大模型的部署和微调，对小红书的推理效率提升技术路线（如 MoE、模型蒸馏）有直接关联。",
-        "signal_strength": 0.68,
-        "sources": [
-          {
-            "name": "GitHub Release (huggingface/transformers)",
-            "url": "https://github.com/huggingface/transformers/releases/tag/v5.9.0"
+            "name": "GitHub - leiting-eric/DailyBrief",
+            "url": "https://github.com/leiting-eric/DailyBrief"
           }
         ],
         "tags": [
           "开源生态",
-          "技术突破",
-          "推理效率"
+          "信息聚合",
+          "LLM应用"
         ],
         "raw_item_indices": [
-          59
-        ]
-      },
-      {
-        "title": "TencentARC Pixal3D: Image-to-3D Model by Tencent ARC Lab",
-        "signal_text": "腾讯 ARC Lab 发布 Pixal3D 模型（HuggingFace 182 likes），支持图像到 3D 的生成，采用 MIT 许可证开源。信号对小红书的电商业务（如 3D 商品展示）、内容创作（AR/3D 特效）有潜在应用价值。",
-        "signal_strength": 0.68,
-        "sources": [
-          {
-            "name": "Tencent ARC Lab (HuggingFace)",
-            "url": "https://huggingface.co/TencentARC/Pixal3D"
-          }
-        ],
-        "tags": [
-          "内容创作与理解",
-          "开源生态",
-          "电商"
-        ],
-        "raw_item_indices": [
-          100
-        ]
-      },
-      {
-        "title": "Anker Launches First Earbuds with Dedicated AI Chip for Noise Reduction",
-        "signal_text": "据 The Verge 报道，Anker 发布 Liberty 5 Pro 系列耳机，搭载其自研 Thus AI 芯片，用于增强降噪和通话质量。信号代表端侧 AI 芯片向消费硬件渗透，对小红书探索端侧部署、AI 辅助创作工具（如语音内容生成）的环境感知能力有启示。",
-        "signal_strength": 0.65,
-        "sources": [
-          {
-            "name": "The Verge",
-            "url": "https://www.theverge.com/tech/934621/anker-liberty-5-pro-max-wireless-headphones-earbuds-ai-thus-chip"
-          },
-          {
-            "name": "The Verge",
-            "url": "https://www.theverge.com/tech/935766/soundcore-liberty-5-pro-series-earbuds-review"
-          }
-        ],
-        "tags": [
-          "端侧部署",
-          "技术突破",
-          "内容创作"
-        ],
-        "raw_item_indices": [
-          17,
-          18
-        ]
-      },
-      {
-        "title": "CrewAI 1.14.6a1 Introduces Skills Repository and Registry for SDK Integration",
-        "signal_text": "CrewAI 发布 1.14.6a1 版本，新增 Skills Repository，包含注册表、缓存、CLI 和 SDK 集成功能。开源 Agent 框架在工具调用和技能管理上的演进，直接服务于 AI Agent 生态，对小红书的 Agent 产品开发有参考价值。",
-        "signal_strength": 0.6,
-        "sources": [
-          {
-            "name": "GitHub Release (crewAIInc/crewAI)",
-            "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.6a1"
-          }
-        ],
-        "tags": [
-          "Agent与新交互",
-          "开源生态",
-          "工具调用"
-        ],
-        "raw_item_indices": [
-          58
-        ]
-      },
-      {
-        "title": "ResembleAI Dramabox: Text-to-Speech with Voice Cloning by Diffusion Transformer",
-        "signal_text": "ResembleAI 发布 Dramabox TTS 模型（HuggingFace 216 likes），基于扩散 Transformer 和流匹配技术，支持语音克隆和音频生成。对小红书的内容创作与理解（如 AI 配音、个性化语音内容生成）有直接应用场景。",
-        "signal_strength": 0.58,
-        "sources": [
-          {
-            "name": "ResembleAI (HuggingFace)",
-            "url": "https://huggingface.co/ResembleAI/Dramabox"
-          }
-        ],
-        "tags": [
-          "内容创作与理解",
-          "多模态生成",
-          "开源生态"
-        ],
-        "raw_item_indices": [
-          96
+          27
         ]
       }
     ]
@@ -18665,6 +17541,1295 @@
             "raw_item_indices": [
               107,
               111
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "week": "2026-W20",
+      "days": {
+        "2026-05-18": [
+          {
+            "title": "Meta AI Releases Realiz3D: Photorealistic 3D Generation via Domain-Aware Learning",
+            "signal_text": "Meta AI（AI at Meta）发布 Realiz3D，通过残差适配器和层级特定学习策略，解决合成渲染与真实图像之间的领域差异，实现照片级3D一致图像生成。这是头部公司在3D内容生成方向的重要突破，直接关联小红书AI赋能内容创作（3D商品展示、虚拟试穿等场景）。",
+            "signal_strength": 0.85,
+            "sources": [
+              {
+                "name": "HuggingFace Papers",
+                "url": "https://huggingface.co/papers/2605.13852"
+              }
+            ],
+            "tags": [
+              "多模态生成",
+              "3D内容创作",
+              "Meta FAIR",
+              "AI辅助创作"
+            ],
+            "raw_item_indices": [
+              84
+            ]
+          },
+          {
+            "title": "NVIDIA MemLens: Benchmarking Multimodal Long-Term Memory in Vision-Language Models",
+            "signal_text": "NVIDIA发布MemLens基准，通过多会话对话评估视觉语言模型的长期记忆能力，发现长上下文和记忆增强方法均存在显著局限。该研究对小红书搜索与推荐、个性化体验（用户兴趣跟踪、跨会话记忆）具有直接参考价值。",
+            "signal_strength": 0.8,
+            "sources": [
+              {
+                "name": "HuggingFace Papers",
+                "url": "https://huggingface.co/papers/2605.14906"
+              }
+            ],
+            "tags": [
+              "多模态理解",
+              "长期记忆",
+              "NVIDIA Research",
+              "搜索推荐"
+            ],
+            "raw_item_indices": [
+              76
+            ]
+          },
+          {
+            "title": "NVIDIA SANA-WM: Efficient Minute-Scale World Model with Hybrid Linear Diffusion Transformer",
+            "signal_text": "NVIDIA推出SANA-WM，仅2.6B参数的世界模型，能生成高保真720p视频并支持精确相机控制，计算需求显著降低。该模型对视频内容生成（UGC辅助创作、特效生成）有巨大潜力，且效率优势适合端侧部署探索。",
+            "signal_strength": 0.78,
+            "sources": [
+              {
+                "name": "HuggingFace Papers",
+                "url": "https://huggingface.co/papers/2605.15178"
+              }
+            ],
+            "tags": [
+              "视频生成",
+              "世界模型",
+              "NVIDIA Research",
+              "高效推理",
+              "内容创作"
+            ],
+            "raw_item_indices": [
+              77
+            ]
+          },
+          {
+            "title": "Tsinghua Causal Forcing++: Real-Time Interactive Video Generation via Diffusion Distillation",
+            "signal_text": "清华大学机器学习组提出Causal Forcing++，通过因果一致性蒸馏实现逐帧视频生成，延迟低于现有分块方法，支持实时交互式视频生成。直接对标小红书视频内容创作场景，为UGC实时特效、互动视频等功能提供技术基础。",
+            "signal_strength": 0.75,
+            "sources": [
+              {
+                "name": "HuggingFace Papers (Tsinghua ML Group)",
+                "url": "https://huggingface.co/papers/2605.15141"
+              }
+            ],
+            "tags": [
+              "视频生成",
+              "实时交互",
+              "清华大学",
+              "扩散模型蒸馏",
+              "内容创作"
+            ],
+            "raw_item_indices": [
+              75
+            ]
+          },
+          {
+            "title": "Qwen3.6-27B/35B Models Hit HuggingFace Trending Post-Quantization",
+            "signal_text": "阿里巴巴通义千问团队Qwen3.6系列（27B及MoE变体35B-A3B）经Unsloth量化后登顶HF趋势榜，下载量合计超36.6万次。表明国内大模型在开源社区的部署热度持续发酵，对小红书评估国产模型进行内容理解、搜索增强具有参考意义。",
+            "signal_strength": 0.72,
+            "sources": [
+              {
+                "name": "HuggingFace (unsloth)",
+                "url": "https://huggingface.co/unsloth/Qwen3.6-27B-MTP-GGUF"
+              }
+            ],
+            "tags": [
+              "开源模型",
+              "模型量化",
+              "阿里巴巴",
+              "端侧部署",
+              "中文内容理解"
+            ],
+            "raw_item_indices": [
+              103,
+              104
+            ]
+          },
+          {
+            "title": "Peking University VGGT-Edit: Feed-Forward Native 3D Scene Editing with Text",
+            "signal_text": "北京大学研究团队提出VGGT-Edit，通过深度同步文本注入和直接几何位移预测，实现基于文本指令的三维场景编辑，质量与效率优于传统2D提升方法。该技术可用于小红书AR试妆、虚拟家居等3D交互场景。",
+            "signal_strength": 0.7,
+            "sources": [
+              {
+                "name": "HuggingFace Papers (Peking University)",
+                "url": "https://huggingface.co/papers/2605.15186"
+              }
+            ],
+            "tags": [
+              "3D编辑",
+              "文本生成",
+              "北京大学",
+              "AR/VR",
+              "内容创作"
+            ],
+            "raw_item_indices": [
+              83
+            ]
+          },
+          {
+            "title": "Publicis Acquires LiveRamp for $2.5B in Agentic AI Data Play",
+            "signal_text": "广告巨头Publicis以25亿美元收购身份解析和数据协作平台LiveRamp，旨在构建用于Agentic AI的数据基础设施。这标志着大型企业在AI代理时代对高质量用户数据资产的争夺从技术层蔓延至战略并购，对小红书电商和社区运营的数据策略有警示意义。",
+            "signal_strength": 0.68,
+            "sources": [
+              {
+                "name": "Reddit (r/artificial)",
+                "url": "https://www.reddit.com/r/artificial/comments/1tfvvn3/publicis_buys_liveramp_for_25_billion_in_agentic/"
+              }
+            ],
+            "tags": [
+              "企业并购",
+              "Agent数据",
+              "广告技术",
+              "数据资产"
+            ],
+            "raw_item_indices": [
+              19
+            ]
+          },
+          {
+            "title": "Tsinghua-LeapLab InsightTok: Improved Visual Tokenization for Autoregressive Image Generation",
+            "signal_text": "清华大学LeapLab提出InsightTok，通过内容感知感知损失改进离散视觉分词器，在文本和面部重建上取得突破，提升自回归图像生成质量。对小红书图文内容生成（文字渲染、面部合成）有直接技术价值。",
+            "signal_strength": 0.68,
+            "sources": [
+              {
+                "name": "HuggingFace Papers (Tsinghua-LeapLab)",
+                "url": "https://huggingface.co/papers/2605.14333"
+              }
+            ],
+            "tags": [
+              "图像生成",
+              "视觉分词",
+              "清华大学",
+              "自回归模型",
+              "内容创作"
+            ],
+            "raw_item_indices": [
+              86
+            ]
+          },
+          {
+            "title": "Codex Usage Spikes: OpenAI's Agentic Coding from Phone Sees Scale Issues",
+            "signal_text": "OpenAI联合创始人Greg Brockman（@gdb）连发推文高调展示Codex移动端用法（获1000+ likes、8.8万views）；随后Codex用户遭遇限流故障，团队紧急恢复并补偿。说明Agentic coding产品在爆发式增长下面临基础设施压力，对小红书评估AI Agent落地稳定性有参考价值。",
+            "signal_strength": 0.65,
+            "sources": [
+              {
+                "name": "Twitter (OpenAI联合创始人Greg Brockman)",
+                "url": "https://x.com/gdb/status/2055882172884763012"
+              }
+            ],
+            "tags": [
+              "Coding Agent",
+              "OpenAI",
+              "产品发布",
+              "基础设施"
+            ],
+            "raw_item_indices": [
+              39,
+              44,
+              46,
+              61,
+              35
+            ]
+          },
+          {
+            "title": "Anthropic and OpenAI Command 89% of AI Startup Revenues, Widening Gap",
+            "signal_text": "据The Information报道，Anthropic与OpenAI在34家领先AI初创公司总收入中占比升至89%，收入差距持续拉大。反映头部效应加剧，对小红书作为内容平台选择AI合作伙伴时的议价能力和生态依赖风险有战略性参考。",
+            "signal_strength": 0.6,
+            "sources": [
+              {
+                "name": "The Information",
+                "url": "https://www.theinformation.com/articles/anthropic-openais-share-ai-startup-revenues-rises-89"
+              }
+            ],
+            "tags": [
+              "行业格局",
+              "收入集中度",
+              "Anthropic",
+              "OpenAI",
+              "商业策略"
+            ],
+            "raw_item_indices": [
+              26
+            ]
+          }
+        ],
+        "2026-05-14": [
+          {
+            "title": "OpenAI Codex for Windows Sandbox: Balancing Agent Autonomy and Security",
+            "signal_text": "OpenAI 开发者账号发布博文，详细说明为 Windows 构建 Codex 沙箱的技术方案，解决让编码 Agent 保持可用性与防止完全机器访问之间的平衡。由 OpenAI 联合创始人 Greg Brockman (@gdb) 转发并获 310+ likes，OpenAIDevs 账号推文获 511 likes/89k views。来源：OpenAI 官方开发者账号与联合创始人。",
+            "signal_strength": 0.82,
+            "sources": [
+              {
+                "name": "OpenAI Devs Twitter",
+                "url": "https://x.com/OpenAIDevs/status/2054735161166819377"
+              },
+              {
+                "name": "Greg Brockman Twitter",
+                "url": "https://x.com/gdb/status/2054744721570820444"
+              }
+            ],
+            "tags": [
+              "Agent",
+              "Codex",
+              "Security"
+            ],
+            "raw_item_indices": [
+              7,
+              9
+            ]
+          },
+          {
+            "title": "Ollama v0.24 Supports Codex App, Deepening Local LLM Integration with OpenAI's Agent Ecosystem",
+            "signal_text": "Ollama v0.24 正式支持 OpenAI Codex App 作为桌面体验工具，可通过 `ollama launch codex-app` 命令启动，并内置工作树（worktree）和 git 功能。此前 Ollama 已支持 `opencode` 和 vision 模型。这表明本地推理引擎正在主动适配主流 Agent 应用，降低开发者使用本地模型的门槛。来源：Ollama 官方 GitHub Release（获广泛关注）。",
+            "signal_strength": 0.78,
+            "sources": [
+              {
+                "name": "Ollama GitHub Release v0.24.0",
+                "url": "https://github.com/ollama/ollama/releases/tag/v0.24.0"
+              }
+            ],
+            "tags": [
+              "Agent",
+              "Local Deployment",
+              "Open Source"
+            ],
+            "raw_item_indices": [
+              25,
+              26,
+              27
+            ]
+          },
+          {
+            "title": "ByteDance Seed Publishes Long-Context VLM Training Method with 128K+ Generalization",
+            "signal_text": "ByteDance Seed 团队发表论文，提出长上下文视觉语言模型（VLM）的持续预训练方法，通过策略性数据混合设计，使模型在长文档理解上表现优异，且泛化能力可超过 128K 上下文窗口。这对小红书的多图/长文理解、视频片段检索等场景有直接参考价值。来源：ByteDance Seed 官方研究团队论文（字节跳动是优先机构）。",
+            "signal_strength": 0.75,
+            "sources": [
+              {
+                "name": "arXiv 论文 2605.13831",
+                "url": "https://huggingface.co/papers/2605.13831"
+              }
+            ],
+            "tags": [
+              "Content Understanding",
+              "Long Context",
+              "VLM"
+            ],
+            "raw_item_indices": [
+              35
+            ]
+          },
+          {
+            "title": "NVIDIA AnyFlow: Any-Step Video Diffusion Distillation for Efficient Video Generation",
+            "signal_text": "NVIDIA 发布 AnyFlow，一种任意步数视频扩散蒸馏框架，通过流图变换（flow-map transformation）优化完整 ODE 采样轨迹，比一致性蒸馏更灵活高效。适用于短视频、广告素材等高效率视频生成场景。来源：NVIDIA 研究团队论文（NVIDIA Research 为优先机构）。",
+            "signal_strength": 0.75,
+            "sources": [
+              {
+                "name": "arXiv 论文 2605.13724",
+                "url": "https://huggingface.co/papers/2605.13724"
+              }
+            ],
+            "tags": [
+              "Video Generation",
+              "Efficiency",
+              "Content Creation"
+            ],
+            "raw_item_indices": [
+              34
+            ]
+          },
+          {
+            "title": "Google RubricEM: Meta-RL with Rubric-Guided Policy for Deep Research Agents",
+            "signal_text": "Google 团队提出 RubricEM 框架，使用基于评分标准（ rubric）的元强化学习，分解验证性奖励，使深度研究代理在长篇幅研究任务中表现显著优于基线。该方法通过阶段感知规划和反思实现更可控的 Agent 推理。来源：Google Research 论文（作者包括 Bhavana Dalvi Mishra 等 Google 学者）。",
+            "signal_strength": 0.72,
+            "sources": [
+              {
+                "name": "arXiv 论文 2605.10899",
+                "url": "https://huggingface.co/papers/2605.10899"
+              }
+            ],
+            "tags": [
+              "Agent",
+              "RL",
+              "Research"
+            ],
+            "raw_item_indices": [
+              36
+            ]
+          },
+          {
+            "title": "Qwen-Image-VAE-2.0: High-Compression VAE with Semantic Conditioning for Image Generation",
+            "signal_text": "阿里 Qwen 团队发布 Qwen-Image-VAE-2.0 技术报告，介绍一套高压缩变分自编码器，通过改进架构、大规模训练和语义条件提升重建保真度和可扩散性，压缩比更高但质量不降。这对小红书图文生成、风格迁移等依赖 VAE 的管线有直接优化潜力。来源：Qwen 团队（阿里巴巴旗下，优先机构）。",
+            "signal_strength": 0.72,
+            "sources": [
+              {
+                "name": "arXiv 论文 2605.13565",
+                "url": "https://huggingface.co/papers/2605.13565"
+              }
+            ],
+            "tags": [
+              "Content Creation",
+              "Image Generation",
+              "Efficiency"
+            ],
+            "raw_item_indices": [
+              40
+            ]
+          },
+          {
+            "title": "ToolCUA: End-to-End Agent for Optimal GUI-Tool Path Orchestration by TongyiLab",
+            "signal_text": "阿里 TongyiLab 发布 ToolCUA，一个通过分阶段训练学习最优 GUI-工具路径选择的端到端 Agent，在混合动作空间环境中性能领先。该工作与计算机使用 Agent（Computer Use Agent）方向紧密相关，对小红书探索自动化运营工具、UI 测试等有参考价值。来源：TongyiLab（阿里达摩院/通义实验室，优先机构）。",
+            "signal_strength": 0.7,
+            "sources": [
+              {
+                "name": "arXiv 论文 2605.12481",
+                "url": "https://huggingface.co/papers/2605.12481"
+              }
+            ],
+            "tags": [
+              "Agent",
+              "GUI Automation",
+              "Tool Use"
+            ],
+            "raw_item_indices": [
+              52
+            ]
+          },
+          {
+            "title": "SenseNova-U1: Unifying Multimodal Understanding and Generation with NEO-unify Architecture",
+            "signal_text": "商汤 SenseNova 发布统一视觉语言模型 SenseNova-U1，将理解与生成视为一体化过程，采用 NEO-unify 架构，在多模态任务上表现强劲。对小红书图文理解与生成融合场景有直接参考价值。来源：商汤 SenseNova 研究团队论文（商汤为优先关注机构）。",
+            "signal_strength": 0.68,
+            "sources": [
+              {
+                "name": "arXiv 论文 2605.12500",
+                "url": "https://huggingface.co/papers/2605.12500"
+              }
+            ],
+            "tags": [
+              "Multimodal",
+              "Generation",
+              "Understanding"
+            ],
+            "raw_item_indices": [
+              30
+            ]
+          },
+          {
+            "title": "MinT: Managed Infrastructure for Training & Serving Millions of LLMs via Low-Rank Adapters",
+            "signal_text": "Mind Lab 发布 MinT，一种托管基础设施系统，通过驻留基座模型并移动轻量 adapter 修订版，实现百万级 LLM 的低秩适应训练与高效推理。对小红书多模型服务、个性化 LoRA 部署场景意义重大。来源：Mind Lab 论文（获 HuggingFace 211 点赞）。",
+            "signal_strength": 0.65,
+            "sources": [
+              {
+                "name": "arXiv 论文 2605.13779",
+                "url": "https://huggingface.co/papers/2605.13779"
+              }
+            ],
+            "tags": [
+              "Model Serving",
+              "LoRA",
+              "Infrastructure"
+            ],
+            "raw_item_indices": [
+              29
+            ]
+          },
+          {
+            "title": "MCP-Cosmos: World Model-Augmented Agents for Complex Task Execution by IBM Research",
+            "signal_text": "IBM Research 发布 MCP-Cosmos，将生成式世界模型集成到 Model Context Protocol (MCP) 生态系统中，通过潜空间预测模拟增强 Agent 规划与执行能力。对小红书探索 MCP 标准下的 Agent 交互框架有直接参考价值。来源：IBM Research 论文（IBM Research 为优先机构）。",
+            "signal_strength": 0.65,
+            "sources": [
+              {
+                "name": "arXiv 论文 2605.09131",
+                "url": "https://huggingface.co/papers/2605.09131"
+              }
+            ],
+            "tags": [
+              "Agent",
+              "World Model",
+              "Planning"
+            ],
+            "raw_item_indices": [
+              42
+            ]
+          }
+        ],
+        "2026-05-19": [
+          {
+            "title": "Google and Blackstone Launch TPU Cloud Provider",
+            "signal_text": "Google 与黑石集团联合成立新的云计算公司，专门出租 Google TPU 给 AI 开发者。此举旨在扩展 TPU 的覆盖范围，与 NVIDIA GPU 云形成竞争。据 The Information 报道。",
+            "signal_strength": 0.9,
+            "sources": [
+              {
+                "name": "The Information",
+                "url": "https://www.theinformation.com/briefings/google-blackstone-create-tpu-cloud-provider"
+              }
+            ],
+            "tags": [
+              "Google",
+              "基础设施",
+              "TPU",
+              "云服务"
+            ],
+            "raw_item_indices": [
+              2
+            ]
+          },
+          {
+            "title": "Anthropic Acquires SDK Automation Startup Stainless",
+            "signal_text": "Anthropic 收购了纽约初创公司 Stainless，该公司专注于自动化 SDK 创建和维护，客户包括 OpenAI、Google 和 Cloudflare。此次收购将强化 Anthropic 在开发者工具链上的布局，降低 API 对接成本，加速企业级 AI 产品落地。据 TechCrunch 报道。",
+            "signal_strength": 0.85,
+            "sources": [
+              {
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/"
+              }
+            ],
+            "tags": [
+              "Anthropic",
+              "并购",
+              "开发者工具",
+              "API生态"
+            ],
+            "raw_item_indices": [
+              27
+            ]
+          },
+          {
+            "title": "Meta Shifts Thousands of Workers to AI-Focused Groups Ahead of Layoffs",
+            "signal_text": "Meta 计划裁减约 10% 员工（近 78000 人），同时将数千名员工调入新建的 AI 专项组，以重构组织架构适应 AI 战略。据 The Information 报道。",
+            "signal_strength": 0.8,
+            "sources": [
+              {
+                "name": "The Information",
+                "url": "https://www.theinformation.com/briefings/meta-shifts-thousands-workers-new-ai-groups-layoffs-loom"
+              }
+            ],
+            "tags": [
+              "Meta",
+              "组织变革",
+              "裁员",
+              "AI优先"
+            ],
+            "raw_item_indices": [
+              6
+            ]
+          },
+          {
+            "title": "DeepSeek-V4-Pro Trends on HuggingFace as Open-Weight Model",
+            "signal_text": "DeepSeek-V4-Pro 在 HuggingFace 上获得 4041 likes 和超 340 万下载量，成为近期最受关注的开源文本生成模型之一，采用 MIT 许可和 FP8 量化。社区反响强烈，标志着中国开源大模型在全球的持续影响力。",
+            "signal_strength": 0.8,
+            "sources": [
+              {
+                "name": "HuggingFace",
+                "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro"
+              }
+            ],
+            "tags": [
+              "DeepSeek",
+              "开源模型",
+              "趋势",
+              "HuggingFace"
+            ],
+            "raw_item_indices": [
+              101
+            ]
+          },
+          {
+            "title": "Context Architecture Emerges as Agentic AI Replaces Traditional RAG",
+            "signal_text": "Redis 指出，随着 agentic AI 系统将企业检索推向极限，传统的 RAG 正在被更全面的“上下文架构”取代。新架构解决数据分散、过期和不一致导致的 Agent 失败问题。据 VentureBeat 报道。",
+            "signal_strength": 0.75,
+            "sources": [
+              {
+                "name": "VentureBeat",
+                "url": "https://venturebeat.com/data/context-architecture-is-replacing-rag-as-agentic-ai-pushes-enterprise-retrieval-to-its-limits"
+              }
+            ],
+            "tags": [
+              "RAG",
+              "上下文架构",
+              "Agent",
+              "企业检索"
+            ],
+            "raw_item_indices": [
+              11
+            ]
+          },
+          {
+            "title": "Supply-Chain Attacks on AI Model Release Pipelines Exposed",
+            "signal_text": "50天内发生4起针对 OpenAI、Anthropic 和 Meta 的供应链攻击，涉及发布管道、CI runner、依赖挂钩和包装网关。攻击不针对模型本身，而是暴露了 AI 模型发布流程的安全盲区。据 VentureBeat 报道。",
+            "signal_strength": 0.75,
+            "sources": [
+              {
+                "name": "VentureBeat",
+                "url": "https://venturebeat.com/security/supply-chain-incidents-openai-anthropic-meta-release-surface-vendor-questionnaire-matrix"
+              }
+            ],
+            "tags": [
+              "供应链安全",
+              "模型发布",
+              "OpenAI",
+              "Anthropic",
+              "Meta"
+            ],
+            "raw_item_indices": [
+              34
+            ]
+          },
+          {
+            "title": "FashionChameleon: Real-Time Interactive Garment Video Customization from Alibaba",
+            "content": "阿里巴巴团队提出 FashionChameleon，通过 teacher-student distillation 和 in-context learning 实现实时、多衣物视频定制，保持运动一致性。对电商内容创作（如商品展示视频生成）有直接应用潜力。论文发布于 Arxiv（阿里达摩院）。\n",
+            "signal_text": "阿里巴巴团队提出 FashionChameleon，通过 teacher-student distillation 和 in-context learning 实现实时、多衣物视频定制，保持运动一致性。对电商内容创作（如商品展示视频生成）有直接应用潜力。论文发布于 Arxiv（阿里达摩院）。",
+            "signal_strength": 0.75,
+            "sources": [
+              {
+                "name": "Arxiv via HuggingFace Papers",
+                "url": "https://huggingface.co/papers/2605.15824"
+              }
+            ],
+            "tags": [
+              "多模态生成",
+              "视频定制",
+              "电商",
+              "阿里巴巴"
+            ],
+            "raw_item_indices": [
+              72
+            ]
+          },
+          {
+            "title": "LangSmith Engine Launches Automated Agent Debugging Loop",
+            "signal_text": "LangChain 旗下 LangSmith 推出“Engine”功能，可自动关闭 agent 调试循环，降低工程师发现 agent 错误的时间成本。但多模型企业仍需中立监控层。据 VentureBeat 报道。",
+            "signal_strength": 0.7,
+            "sources": [
+              {
+                "name": "VentureBeat",
+                "url": "https://venturebeat.com/orchestration/langsmith-engine-closes-the-agent-debugging-loop-automatically-but-multi-model-enterprises-still-need-a-neutral-layer"
+              }
+            ],
+            "tags": [
+              "LangChain",
+              "Agent调试",
+              "LLMOps",
+              "企业AI"
+            ],
+            "raw_item_indices": [
+              37
+            ]
+          },
+          {
+            "title": "NVIDIA Fine-Tuning Cosmos Predict 2.5 for Robot Video Generation with LoRA/DoRA",
+            "signal_text": "NVIDIA 发布博客教程，展示如何使用 LoRA 和 DoRA 微调 Cosmos Predict 2.5 视频生成模型，专门用于机器人视频生成任务。降低了视频生成模型的定制门槛，对具身智能场景的仿真与训练有重要意义。",
+            "signal_strength": 0.7,
+            "sources": [
+              {
+                "name": "HuggingFace Blog (NVIDIA)",
+                "url": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation"
+              }
+            ],
+            "tags": [
+              "NVIDIA",
+              "视频生成",
+              "LoRA",
+              "机器人"
+            ],
+            "raw_item_indices": [
+              39
+            ]
+          },
+          {
+            "title": "IBM Research and HuggingFace Launch Open Agent Leaderboard",
+            "signal_text": "IBM Research 联合 HuggingFace 发布 Open Agent Leaderboard，为 AI Agent 提供标准化评测基准，推动 Agent 生态的透明化和可比较性。博客发布于 HuggingFace。",
+            "signal_strength": 0.65,
+            "sources": [
+              {
+                "name": "HuggingFace Blog",
+                "url": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard"
+              }
+            ],
+            "tags": [
+              "Agent评测",
+              "开源",
+              "IBM",
+              "HuggingFace"
+            ],
+            "raw_item_indices": [
+              42
+            ]
+          }
+        ],
+        "2026-05-20": [
+          {
+            "title": "Google I/O 2026: Gemini 3.5 Flash, Antigravity 2.0, and Agentic Search Overhaul",
+            "signal_text": "Google I/O 2026 宣布了一系列重大更新：Gemini 3.5 Flash 模型（号称比 3.1 Pro 更强且成本更低）、Antigravity 2.0 代理框架（支持子代理和并行执行）、搜索框 25 年来首次重设计（集成多模态和 agentic 能力）、以及 Gemini Omni（从任意输入生成视频）。据《The Information》报道，这是 Google 在 agentic AI 和搜索领域的关键战略转向。",
+            "signal_strength": 0.95,
+            "sources": [
+              {
+                "name": "Google AI Blog",
+                "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/"
+              },
+              {
+                "name": "The Information",
+                "url": "https://www.theinformation.com/articles/googles-ai-search-leap-forward"
+              },
+              {
+                "name": "VentureBeat",
+                "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
+              }
+            ],
+            "tags": [
+              "搜索与推荐",
+              "Agent 与新交互范式",
+              "头部公司战略动作"
+            ],
+            "raw_item_indices": [
+              10,
+              23,
+              29,
+              40,
+              41,
+              47,
+              109,
+              147,
+              163,
+              165
+            ]
+          },
+          {
+            "title": "Andrej Karpathy Joins Anthropic",
+            "signal_text": "知名 AI 研究员 Andrej Karpathy（前 OpenAI、Tesla 负责人）确认加入 Anthropic。HuggingFace CEO Clement Delangue 推文（获 222+ likes）推测此举可能推动 Anthropic 加大开源力度。业内人士认为这是 AI 人才战争的关键事件。",
+            "signal_strength": 0.9,
+            "sources": [
+              {
+                "name": "Clement Delangue (HuggingFace CEO) 推文",
+                "url": "https://x.com/ClementDelangue/status/2056774379418087453"
+              },
+              {
+                "name": "Nathan Lambert 推文",
+                "url": "https://x.com/natolambert/status/2056759884952347026"
+              }
+            ],
+            "tags": [
+              "人才流动",
+              "头部公司战略动作",
+              "开源生态"
+            ],
+            "raw_item_indices": [
+              175,
+              179,
+              182,
+              188
+            ]
+          },
+          {
+            "title": "Google DeepMind Releases Gemini Omni: Any-to-Video Generation Model",
+            "signal_text": "Google DeepMind 发布 Gemini Omni，一个从文本/图像/音频任意输入直接生成视频的多模态模型，已被集成到 Gemini App、Flow 和 YouTube 中。据 Google Labs 推文，该模型支持批量编辑和角色一致性改进，被视为视频生成领域的里程碑。",
+            "signal_strength": 0.88,
+            "sources": [
+              {
+                "name": "Google 官方推文",
+                "url": "https://x.com/OfficialLoganK/status/2056787874260164628"
+              },
+              {
+                "name": "Google DeepMind 推文",
+                "url": "https://x.com/GoogleDeepMind/status/2056804306653794336"
+              }
+            ],
+            "tags": [
+              "内容创作与理解",
+              "多模态理解与生成融合"
+            ],
+            "raw_item_indices": [
+              86,
+              97,
+              122,
+              134,
+              142,
+              149,
+              162,
+              163
+            ]
+          },
+          {
+            "title": "OpenAI Adopts Google's SynthID Watermark for AI Images",
+            "signal_text": "OpenAI 宣布采用 Google DeepMind 的 SynthID 水印技术，用于标记 AI 生成图像，并推出公开验证工具。据 OpenAI CEO Sam Altman 推文（获 646+ likes），此举是行业在 AI 内容溯源标准上的重要趋同。",
+            "signal_strength": 0.85,
+            "sources": [
+              {
+                "name": "OpenAI 官方博客",
+                "url": "https://openai.com/index/advancing-content-provenance/"
+              },
+              {
+                "name": "Hacker News",
+                "url": "https://news.ycombinator.com/item?id=48198291"
+              },
+              {
+                "name": "Greg Brockman (OpenAI) 推文",
+                "url": "https://x.com/gdb/status/2056820240860778750"
+              }
+            ],
+            "tags": [
+              "内容安全与治理",
+              "AI-Generated Content Watermarking and Provenance Standards"
+            ],
+            "raw_item_indices": [
+              32,
+              127,
+              157
+            ]
+          },
+          {
+            "title": "ByteDance Releases Lance: Unified Multimodal Model for Understanding, Generation, and Editing",
+            "signal_text": "字节跳动研究团队发布 Lance，一个统一多模态模型，通过协同多任务训练实现图像/视频的理解、生成和编辑。模型在 HuggingFace 上获 322 likes，代表中国大厂在多模态统一架构方向的最新进展。",
+            "signal_strength": 0.82,
+            "sources": [
+              {
+                "name": "HuggingFace 模型页面",
+                "url": "https://huggingface.co/bytedance-research/Lance"
+              },
+              {
+                "name": "Arxiv 论文",
+                "url": "https://huggingface.co/papers/2605.18678"
+              }
+            ],
+            "tags": [
+              "内容创作与理解",
+              "多模态理解与生成融合",
+              "头部公司战略动作"
+            ],
+            "raw_item_indices": [
+              218,
+              243
+            ]
+          },
+          {
+            "title": "Unsloth Enables 4-bit Qwen3.6 with Multi-Token Prediction Running Locally on 20GB RAM",
+            "signal_text": "UnslothAI 发布 Qwen3.6-27B MTP GGUF，支持4-bit量化下的多token预测，可在20GB RAM设备上本地运行，自动选择最优 MTP 设置（获704+ likes）。这大幅降低了运行大型模型的门槛，对端侧部署和社区传播有重要意义。",
+            "signal_strength": 0.8,
+            "sources": [
+              {
+                "name": "UnslothAI 推文",
+                "url": "https://x.com/UnslothAI/status/2056771983048876254"
+              },
+              {
+                "name": "HuggingFace 模型页面",
+                "url": "https://huggingface.co/unsloth/Qwen3.6-27B-MTP-GGUF"
+              }
+            ],
+            "tags": [
+              "技术突破",
+              "AI Infrastructure Optimization and Open Source Tools",
+              "开源生态"
+            ],
+            "raw_item_indices": [
+              178,
+              201,
+              244
+            ]
+          },
+          {
+            "title": "OpenAI Guaranteed Capacity and Anthropic Token Commitments Signal Infrastructure Constraints",
+            "signal_text": "OpenAI 推出 'Guaranteed Capacity' 服务（获 1986+ likes），承诺长期算力保障；Anthropic CEO Greg Brockman 推文（获 883+ likes）称将提供折扣 token 以换取1-3年承诺，暗示行业将面临持续算力约束。这表明模型能力增长超过基础设施扩张速度。",
+            "signal_strength": 0.78,
+            "sources": [
+              {
+                "name": "OpenAI 官方推文",
+                "url": "https://x.com/OpenAI/status/2056823271774101907"
+              },
+              {
+                "name": "Greg Brockman (Anthropic) 推文",
+                "url": "https://x.com/gdb/status/2056863925791293675"
+              }
+            ],
+            "tags": [
+              "AI Infrastructure Optimization and Open Source Tools",
+              "头部公司战略动作"
+            ],
+            "raw_item_indices": [
+              94,
+              123
+            ]
+          },
+          {
+            "title": "OpenClaw Integrates with X (Twitter), Enabling Grok Models on Personal Hardware",
+            "signal_text": "OpenClaw 宣布接入 X 平台，允许用户使用自己的 Grok 或 X Premium 订阅在个人硬件上运行 agent。推文获 2495+ likes，xAI 官方转发获 4973+ likes，显示用户对本地运行前沿模型的强烈需求，也反映了 xAI 在开发者生态中的策略。",
+            "signal_strength": 0.77,
+            "sources": [
+              {
+                "name": "OpenClaw 推文",
+                "url": "https://x.com/openclaw/status/2056826388322340910"
+              },
+              {
+                "name": "xAI 官方推文",
+                "url": "https://x.com/xai/status/2056826183745253663"
+              }
+            ],
+            "tags": [
+              "开源生态",
+              "Agent 与新交互范式",
+              "头部公司战略动作"
+            ],
+            "raw_item_indices": [
+              118,
+              119
+            ]
+          },
+          {
+            "title": "NVIDIA LongLive-2.0: NVFP4-Based Infrastructure for Long Video Generation",
+            "signal_text": "NVIDIA 发布 LongLive-2.0，一种基于 NVFP4 的并行基础设施，用于长视频生成的训练和推理。通过序列并行自回归训练解决瓶颈问题，在 GitHub 获 1294 stars，对提升视频生成模型效率有直接应用价值。",
+            "signal_strength": 0.75,
+            "sources": [
+              {
+                "name": "Arxiv 论文（NVIDIA Research）",
+                "url": "https://huggingface.co/papers/2605.18739"
+              }
+            ],
+            "tags": [
+              "技术突破",
+              "内容创作与理解"
+            ],
+            "raw_item_indices": [
+              217
+            ]
+          },
+          {
+            "title": "Google DeepMind LiteFrame: Efficient Video Encoder Unlocks Frame Scaling in Video LLMs",
+            "signal_text": "Google DeepMind 提出 LiteFrame，一个轻量级视频编码器配合压缩 token 蒸馏训练方法，可降低延迟并增加视频 LLM 的帧处理能力。对长视频理解任务（如内容审核、视频搜索）有直接应用价值。",
+            "signal_strength": 0.73,
+            "sources": [
+              {
+                "name": "Arxiv 论文（DeepMind）",
+                "url": "https://huggingface.co/papers/2605.17260"
+              }
+            ],
+            "tags": [
+              "内容创作与理解",
+              "搜索与推荐",
+              "技术突破"
+            ],
+            "raw_item_indices": [
+              226
+            ]
+          }
+        ],
+        "2026-05-21": [
+          {
+            "title": "OpenAI Offers $2M API Credits to Every Y Combinator Startup in Current Batch",
+            "signal_text": "据 OpenAI CEO Sam Altman 在 X 发文（获 1.8k+ likes, 381k views）及 President Greg Brockman 确认，OpenAI 向 YC 当前批次所有初创公司提供价值200万美元的 API 信用额度。此举旨在培育新一代 AI 应用，并通过早期锁定用户来扩大生态影响力。",
+            "signal_strength": 0.9,
+            "sources": [
+              {
+                "name": "X 推文 - OpenAI CEO Sam Altman @sama",
+                "url": "https://x.com/sama/status/2056933166875857290"
+              },
+              {
+                "name": "X 推文 - OpenAI President Greg Brockman @gdb",
+                "url": "https://x.com/gdb/status/2056948285038887255"
+              }
+            ],
+            "tags": [
+              "OpenAI",
+              "ecosystem",
+              "startups",
+              "funding",
+              "API"
+            ],
+            "raw_item_indices": [
+              43,
+              40
+            ]
+          },
+          {
+            "title": "Cohere Releases Command A+ with Apache 2.0 License, Lossless Quantization, and Native Citations",
+            "signal_text": "根据 VentureBeat 报道，Cohere 发布 Command A+ 模型，这是其首个完全采用 Apache 2.0 开源协议的模型。该模型引入了无损量化技术和原生引用能力（native citations），旨在提升企业场景下 AI 的可靠性、效率和信任度。该模型已集成入 HuggingFace Transformers v5.9.0 版本。",
+            "signal_strength": 0.85,
+            "sources": [
+              {
+                "name": "VentureBeat",
+                "url": "https://venturebeat.com/technology/cohere-cracks-lossless-quantization-and-native-citations-with-first-full-apache-2-0-licensed-open-model-command-a"
+              },
+              {
+                "name": "HuggingFace Transformers Release",
+                "url": "https://github.com/huggingface/transformers/releases/tag/v5.9.0"
+              }
+            ],
+            "tags": [
+              "open-source",
+              "LLM",
+              "enterprise-AI",
+              "model-release"
+            ],
+            "raw_item_indices": [
+              23,
+              56
+            ]
+          },
+          {
+            "title": "Google Launches Managed Agents API for One-Call Agent Deployment",
+            "signal_text": "据 VentureBeat 从 Google I/O 获悉，Google 发布 Gemini API 中的 Managed Agents 服务，允许开发者通过单一 API 调用完成 AI Agent 的部署，大幅简化部署流程。同时推出了 Antigravity CLI，标志着 Google 在 Agent 执行层控制权方面强化布局。",
+            "signal_strength": 0.8,
+            "sources": [
+              {
+                "name": "VentureBeat",
+                "url": "https://venturebeat.com/orchestration/googles-managed-agents-api-promises-one-call-deployment-at-the-cost-of-execution-layer-control"
+              }
+            ],
+            "tags": [
+              "Agent",
+              "Google",
+              "API",
+              "product-launch"
+            ],
+            "raw_item_indices": [
+              16
+            ]
+          },
+          {
+            "title": "GitHub Confirms 3,800 Repos Stolen via Poisoned VS Code Extension in Supply-Chain Attack",
+            "signal_text": "GitHub 于5月20日证实，攻击者通过一个被投毒的 VS Code 扩展感染员工设备，窃取了约3800个内部仓库。攻击组织 TeamPCP 还通过微软 Python SDK 传播供应链蠕虫。此事件暴露了 AI 开发工具链的严重安全风险。",
+            "signal_strength": 0.8,
+            "sources": [
+              {
+                "name": "VentureBeat",
+                "url": "https://venturebeat.com/security/github-confirms-3800-repos-stolen-poisoned-vs-code-extension-supply-chain-worm-microsoft-python-sdk"
+              }
+            ],
+            "tags": [
+              "security",
+              "supply-chain",
+              "AI-infrastructure",
+              "vulnerability"
+            ],
+            "raw_item_indices": [
+              32
+            ]
+          },
+          {
+            "title": "Anthropic Anticipates First Profitable Quarter, Revenue Set to Double",
+            "signal_text": "据 TechCrunch 报道，Anthropic 向投资者表示，其第二季度营收预计将超过 109 亿美元，并在该季度首次实现盈利。这标志着头部 AI 公司商业化的关键里程碑，也反映了市场对高质量 AI 模型的强劲需求。",
+            "signal_strength": 0.8,
+            "sources": [
+              {
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/"
+              }
+            ],
+            "tags": [
+              "AI-business",
+              "Anthropic",
+              "commercialization",
+              "revenue"
+            ],
+            "raw_item_indices": [
+              4
+            ]
+          },
+          {
+            "title": "Jensen Huang Predicts $200B New Market: CPUs for AI Agents",
+            "signal_text": "据 TechCrunch 报道，NVIDIA CEO 黄仁勋预测，AI Agent 的 CPU 市场将形成高达2000亿美元的'全新'市场。这反映了 NVIDIA 对未来 AI 基础设施架构的预判，即 AI Agent 的自主动作执行将由专用 CPU 而非 GPU 主导。",
+            "signal_strength": 0.75,
+            "sources": [
+              {
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/"
+              }
+            ],
+            "tags": [
+              "NVIDIA",
+              "Agent",
+              "AI-hardware",
+              "market-prediction"
+            ],
+            "raw_item_indices": [
+              3
+            ]
+          },
+          {
+            "title": "Cerebras Claims Trillion-Parameter Inference Speed 7x Faster Than GPU Clouds",
+            "signal_text": "据 VentureBeat 报道，芯片公司 Cerebras Systems 在完成2026年最大科技 IPO 后宣称，其芯片在运行万亿参数 AI 模型时的推理速度比传统 GPU 云快近7倍。此举旨在争夺快速增长的高性能 AI 推理市场。",
+            "signal_strength": 0.7,
+            "sources": [
+              {
+                "name": "VentureBeat",
+                "url": "https://venturebeat.com/technology/cerebras-says-its-chips-run-a-trillion-parameter-ai-model-nearly-7-times-faster-than-gpu-clouds"
+              }
+            ],
+            "tags": [
+              "AI-chips",
+              "inference",
+              "performance",
+              "hardware"
+            ],
+            "raw_item_indices": [
+              26
+            ]
+          },
+          {
+            "title": "Fortune 500 CIOs Flag Token Costs as Dominant Enterprise AI Concern",
+            "signal_text": "据 Samsara CEO @levie 在 X 上发文（获 134 likes, 23k views），其与多位 Fortune 500 企业 CIO 共进晚餐时，Token 成本成为最热议话题。企业正探索多种组合策略，但普遍认为缺乏有效的成本控制手段。",
+            "signal_strength": 0.65,
+            "sources": [
+              {
+                "name": "X 推文 - Samsara CEO @levie",
+                "url": "https://x.com/levie/status/2056965292753146019"
+              }
+            ],
+            "tags": [
+              "enterprise-AI",
+              "cost-optimization",
+              "LLM"
+            ],
+            "raw_item_indices": [
+              38
+            ]
+          },
+          {
+            "title": "Intuit to Lay Off Over 3,000 Employees to Refocus on AI",
+            "signal_text": "据 TechCrunch 报道，财税软件巨头 Intuit 宣布裁员超过3000人（约17%），原因是 AI 驱动的业务转型导致营收增速放缓至2024年以来最低。此举是传统企业为 AI 转型进行组织架构调整的最新案例。",
+            "signal_strength": 0.65,
+            "sources": [
+              {
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/"
+              },
+              {
+                "name": "The Information",
+                "url": "https://www.theinformation.com/briefings/intuit-lays-17-staff-revenue-growth-sinks-lowest-level-since-2024"
+              }
+            ],
+            "tags": [
+              "company-strategy",
+              "workforce",
+              "AI-transformation",
+              "layoffs"
+            ],
+            "raw_item_indices": [
+              2,
+              18
+            ]
+          },
+          {
+            "title": "Decision Context Graph Framework Proposed to Solve AI Agent Amnesia in Enterprise",
+            "signal_text": "据 VentureBeat 报道，一个名为 'Decision Context Graph' 的新框架被提出，旨在解决现有 RAG 架构中 AI Agent 缺乏结构化记忆和时间感知推理的问题。该框架通过图结构为 Agent 提供决策逻辑，以提升其在复杂企业任务中的持续性和可靠性。",
+            "signal_strength": 0.5,
+            "sources": [
+              {
+                "name": "VentureBeat",
+                "url": "https://venturebeat.com/orchestration/enterprise-ai-agents-keep-failing-because-they-forget-what-they-learned"
+              }
+            ],
+            "tags": [
+              "Agent",
+              "RAG",
+              "memory",
+              "enterprise-AI"
+            ],
+            "raw_item_indices": [
+              28
+            ]
+          }
+        ],
+        "2026-05-22": [
+          {
+            "title": "Alibaba Qwen3.7-Max Achieves 35-Hour Autonomous Agent Runtime",
+            "signal_text": "据 VentureBeat 报道，阿里巴巴发布其专有的 Qwen3.7-Max 模型，支持长达 35 小时的自主运行，并兼容 Anthropic 的 Claude Code 等外部工具链。信号表明中国大厂在 AI Agent 的长时间自主任务执行能力上取得重大突破，直接对标 Anthropic 的 Agent 产品，对小红的搜索增强、Agent 新交互范式有借鉴意义。",
+            "signal_strength": 0.88,
+            "sources": [
+              {
+                "name": "VentureBeat",
+                "url": "https://venturebeat.com/technology/alibabas-proprietary-qwen3-7-max-can-run-for-35-hours-autonomously-and-supports-external-harnesses-like-anthropics-claude-code"
+              }
+            ],
+            "tags": [
+              "Agent与新交互",
+              "中国模型竞争",
+              "头部公司战略"
+            ],
+            "raw_item_indices": [
+              14
+            ]
+          },
+          {
+            "title": "Workday Reports 2x Quarter-over-Quarter Growth in Enterprise AI Agent Customers",
+            "signal_text": "据 The Information 报道，Workday 表示其 AI Agent 客户数在截至 4 月 30 日的季度内环比翻倍至 4000+，推动股价盘后涨超 10%。信号验证了企业级 AI Agent 的采用正在加速，对小红书评估电商与社区运营中 Agent 的商业化潜力有参考价值。",
+            "signal_strength": 0.75,
+            "sources": [
+              {
+                "name": "The Information",
+                "url": "https://www.theinformation.com/briefings/workday-stock-jumps-10-company-reveals-ai-agent-gains"
+              }
+            ],
+            "tags": [
+              "Enterprise AI Agent Adoption",
+              "商业化路径",
+              "头部公司战略"
+            ],
+            "raw_item_indices": [
+              16
+            ]
+          },
+          {
+            "title": "Mozilla Firefox 'Project Nova' Redesign Prioritizes AI Privacy Controls",
+            "signal_text": "据 The Verge 报道，Mozilla 公布 Firefox 重大视觉重设计 'Project Nova'，提供一站式开关，允许用户一键关闭所有 AI 功能。信号反映了主流浏览器开始将 AI 隐私和用户控制作为核心体验，对小红书的内容安全与合规风险策略、以及未来在社区运营中如何平衡 AI 功能与用户信任有重要参考意义。",
+            "signal_strength": 0.72,
+            "sources": [
+              {
+                "name": "The Verge",
+                "url": "https://www.theverge.com/tech/935631/firefox-project-nova-redesign"
+              }
+            ],
+            "tags": [
+              "内容安全与治理",
+              "合规风险",
+              "行业风险与监管"
+            ],
+            "raw_item_indices": [
+              31
+            ]
+          },
+          {
+            "title": "Peking University Video2GUI: Synthesizing Trajectories for GUI Agent Pretraining",
+            "signal_text": "北京大学团队提出 Video2GUI 方法，通过从互联网视频中自动提取交互轨迹，构建大规模 GUI 数据集，用于 GUI Agent 的预训练。信号提供了一种低成本、可扩展的 Agent 训练数据生成思路，对小红书的 Agent 新交互范式（如图文/视频编辑 Agent）有技术启发价值。",
+            "signal_strength": 0.7,
+            "sources": [
+              {
+                "name": "Peking University",
+                "url": "https://huggingface.co/papers/2605.14747"
+              }
+            ],
+            "tags": [
+              "Agent与新交互",
+              "技术突破",
+              "内容创作与理解"
+            ],
+            "raw_item_indices": [
+              62
+            ]
+          },
+          {
+            "title": "Alibaba MIGA: Training-Free Long Video Generation Enhancing Temporal Consistency",
+            "signal_text": "阿里巴巴团队提出 MIGA 框架，通过双重一致性机制，无需额外训练即可解决长视频生成中的训练-推理不一致和时序一致性问题。对小红书的视频内容生成和风格迁移有直接应用潜力。",
+            "signal_strength": 0.7,
+            "sources": [
+              {
+                "name": "Alibaba (MIGA paper)",
+                "url": "https://huggingface.co/papers/2605.18233"
+              }
+            ],
+            "tags": [
+              "内容创作与理解",
+              "技术突破",
+              "视频生成"
+            ],
+            "raw_item_indices": [
+              63
+            ]
+          },
+          {
+            "title": "HuggingFace Transformers v5.9.0 Adds Cohere2Moe Model Support",
+            "signal_text": "HuggingFace 发布 Transformers v5.9.0，新增对 Cohere2Moe 模型（即 Command A+）的原生支持。Command A+ 是 MoE 架构，结合滑动窗口和全注意力层。信号加速开源社区对 MoE 大模型的部署和微调，对小红书的推理效率提升技术路线（如 MoE、模型蒸馏）有直接关联。",
+            "signal_strength": 0.68,
+            "sources": [
+              {
+                "name": "GitHub Release (huggingface/transformers)",
+                "url": "https://github.com/huggingface/transformers/releases/tag/v5.9.0"
+              }
+            ],
+            "tags": [
+              "开源生态",
+              "技术突破",
+              "推理效率"
+            ],
+            "raw_item_indices": [
+              59
+            ]
+          },
+          {
+            "title": "TencentARC Pixal3D: Image-to-3D Model by Tencent ARC Lab",
+            "signal_text": "腾讯 ARC Lab 发布 Pixal3D 模型（HuggingFace 182 likes），支持图像到 3D 的生成，采用 MIT 许可证开源。信号对小红书的电商业务（如 3D 商品展示）、内容创作（AR/3D 特效）有潜在应用价值。",
+            "signal_strength": 0.68,
+            "sources": [
+              {
+                "name": "Tencent ARC Lab (HuggingFace)",
+                "url": "https://huggingface.co/TencentARC/Pixal3D"
+              }
+            ],
+            "tags": [
+              "内容创作与理解",
+              "开源生态",
+              "电商"
+            ],
+            "raw_item_indices": [
+              100
+            ]
+          },
+          {
+            "title": "Anker Launches First Earbuds with Dedicated AI Chip for Noise Reduction",
+            "signal_text": "据 The Verge 报道，Anker 发布 Liberty 5 Pro 系列耳机，搭载其自研 Thus AI 芯片，用于增强降噪和通话质量。信号代表端侧 AI 芯片向消费硬件渗透，对小红书探索端侧部署、AI 辅助创作工具（如语音内容生成）的环境感知能力有启示。",
+            "signal_strength": 0.65,
+            "sources": [
+              {
+                "name": "The Verge",
+                "url": "https://www.theverge.com/tech/934621/anker-liberty-5-pro-max-wireless-headphones-earbuds-ai-thus-chip"
+              },
+              {
+                "name": "The Verge",
+                "url": "https://www.theverge.com/tech/935766/soundcore-liberty-5-pro-series-earbuds-review"
+              }
+            ],
+            "tags": [
+              "端侧部署",
+              "技术突破",
+              "内容创作"
+            ],
+            "raw_item_indices": [
+              17,
+              18
+            ]
+          },
+          {
+            "title": "CrewAI 1.14.6a1 Introduces Skills Repository and Registry for SDK Integration",
+            "signal_text": "CrewAI 发布 1.14.6a1 版本，新增 Skills Repository，包含注册表、缓存、CLI 和 SDK 集成功能。开源 Agent 框架在工具调用和技能管理上的演进，直接服务于 AI Agent 生态，对小红书的 Agent 产品开发有参考价值。",
+            "signal_strength": 0.6,
+            "sources": [
+              {
+                "name": "GitHub Release (crewAIInc/crewAI)",
+                "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.6a1"
+              }
+            ],
+            "tags": [
+              "Agent与新交互",
+              "开源生态",
+              "工具调用"
+            ],
+            "raw_item_indices": [
+              58
+            ]
+          },
+          {
+            "title": "ResembleAI Dramabox: Text-to-Speech with Voice Cloning by Diffusion Transformer",
+            "signal_text": "ResembleAI 发布 Dramabox TTS 模型（HuggingFace 216 likes），基于扩散 Transformer 和流匹配技术，支持语音克隆和音频生成。对小红书的内容创作与理解（如 AI 配音、个性化语音内容生成）有直接应用场景。",
+            "signal_strength": 0.58,
+            "sources": [
+              {
+                "name": "ResembleAI (HuggingFace)",
+                "url": "https://huggingface.co/ResembleAI/Dramabox"
+              }
+            ],
+            "tags": [
+              "内容创作与理解",
+              "多模态生成",
+              "开源生态"
+            ],
+            "raw_item_indices": [
+              96
             ]
           }
         ]

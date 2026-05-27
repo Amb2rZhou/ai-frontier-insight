@@ -2,7 +2,7 @@
 title: Agent Frameworks
 type: technology
 created: 2026-02-25
-updated: 2026-05-22
+updated: 2026-05-24
 ---
 
 # Agent Frameworks
@@ -11,6 +11,7 @@ The rapidly evolving ecosystem of tools, SDKs, and platforms for building autono
 
 ## Timeline
 
+- **2026-05-24**: Control-Layer: Production-Grade LLM Guardrails with Schema Enforcement and Circuit Breaking
 - **2026-05-22**: CrewAI 1.14.6a1 Introduces Skills Repository and Registry for SDK Integration
 - **2026-05-22**: Workday Reports 2x Quarter-over-Quarter Growth in Enterprise AI Agent Customers
 - **2026-05-22**: [[alibaba|Alibaba]] Qwen3.7-Max Achieves 35-Hour Autonomous Agent Runtime

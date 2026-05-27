@@ -2,7 +2,7 @@
 title: Open Source Models
 type: trend
 created: 2026-02-25
-updated: 2026-05-22
+updated: 2026-05-24
 ---
 
 # Open Source Models
@@ -13,6 +13,11 @@ The rapid proliferation of open-source and open-weight foundation models challen
 
 ## Timeline
 
+- **2026-05-24**: DailyBrief: Open-Source AI News Aggregator with 23 Sources and LLM Summaries
+- **2026-05-24**: Browser-Use 0.12.8 Fixes Daemon Security (Unix Socket Permissions)
+- **2026-05-24**: Ai-Flow-Architect: Dual-Brain AI Workflow Engine with Hallucination Prevention
+- **2026-05-24**: Control-Layer: Production-Grade LLM Guardrails with Schema Enforcement and Circuit Breaking
+- **2026-05-24**: Dejavu: Local-First AI Memory That Follows Users Across Tools via [[mcp-protocol|MCP]]
 - **2026-05-22**: ResembleAI Dramabox: Text-to-Speech with Voice Cloning by Diffusion Transformer
 - **2026-05-22**: CrewAI 1.14.6a1 Introduces Skills Repository and Registry for SDK Integration
 - **2026-05-22**: TencentARC Pixal3D: Image-to-3D Model by [[tencent|Tencent]] ARC Lab

@@ -2,7 +2,7 @@
 title: Anthropic
 type: company
 created: 2026-02-25
-updated: 2026-05-22
+updated: 2026-05-24
 ---
 
 # Anthropic
@@ -11,6 +11,8 @@ updated: 2026-05-22
 
 ## Timeline
 
+- **2026-05-24**: Anthropic SDK Fixes Encrypted Content Streaming for Beta Features
+- **2026-05-24**: White House Nears Deal with Anthropic for Spy Agencies to Use AI
 - **2026-05-22**: [[alibaba|Alibaba]] Qwen3.7-Max Achieves 35-Hour Autonomous Agent Runtime
 - **2026-05-21**: Anthropic Anticipates First Profitable Quarter, Revenue Set to Double
 - **2026-05-20**: [[openai|OpenAI]] Guaranteed Capacity and Anthropic Token Commitments Signal Infrastructure Constraints

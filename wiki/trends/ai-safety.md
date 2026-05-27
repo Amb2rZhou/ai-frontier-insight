@@ -2,7 +2,7 @@
 title: AI Safety
 type: trend
 created: 2026-02-25
-updated: 2026-05-22
+updated: 2026-05-24
 ---
 
 # AI Safety
@@ -13,6 +13,7 @@ The evolving landscape of AI safety research, policy, and corporate commitments 
 
 ## Timeline
 
+- **2026-05-24**: Control-Layer: Production-Grade LLM Guardrails with Schema Enforcement and Circuit Breaking
 - **2026-05-22**: Mozilla Firefox 'Project Nova' Redesign Prioritizes AI Privacy Controls
 - **2026-05-20**: [[openai|OpenAI]] Adopts [[google-deepmind|Google]]'s SynthID Watermark for AI Images
 - **2026-05-20**: GitHub Investigating Unauthorized Access to Internal Repositories; CISA Credentials Leaked on Public Repo
