@@ -2,7 +2,7 @@
 title: Anthropic
 type: company
 created: 2026-02-25
-updated: 2026-05-24
+updated: 2026-05-28
 ---
 
 # Anthropic
@@ -11,6 +11,9 @@ updated: 2026-05-24
 
 ## Timeline
 
+- **2026-05-28**: Illinois Passes America's Strongest [[ai-safety|AI Safety]] Bill Requiring Third-Party Audits
+- **2026-05-28**: a16z: [[openai|OpenAI]] and Anthropic Pivot to Massive 'Forward-Deployed' Joint Ventures, Signaling Limits of Generic AI
+- **2026-05-28**: Anthropic Launches [[claude|Claude]] Marketplace for Third-Party Enterprise AI Tools
 - **2026-05-24**: Anthropic SDK Fixes Encrypted Content Streaming for Beta Features
 - **2026-05-24**: White House Nears Deal with Anthropic for Spy Agencies to Use AI
 - **2026-05-22**: [[alibaba|Alibaba]] Qwen3.7-Max Achieves 35-Hour Autonomous Agent Runtime

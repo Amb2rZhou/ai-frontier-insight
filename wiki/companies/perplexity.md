@@ -2,7 +2,7 @@
 title: Perplexity
 type: company
 created: 2026-02-26
-updated: 2026-04-25
+updated: 2026-05-28
 ---
 
 # Perplexity
@@ -11,6 +11,7 @@ AI-powered search company that has expanded into a full [[agent-frameworks|agent
 
 ## Timeline
 
+- **2026-05-28**: Perplexity CEO Open-Sources Production-Ready Tokenizer Far More Efficient Than [[hugging-face|HuggingFace]]/SentencePiece
 - **2026-04-25**: [[gpt|GPT-5]].5 Launches Across [[openai|OpenAI]] API, GitHub [[copilot|Copilot]], and Perplexity · [OpenAI (X/Twitter)](https://x.com/OpenAI/status/2047743592278745425) · [Perplexity CEO Arav Srinivas](https://x.com/AravSrinivas/status/2047753276888854594) · [Microsoft Azure (X/Twitter)](https://x.com/Azure/status/2047752463646597261)
 - **2026-04-24**: Perplexity AI Integrates Moonshot's Kimi K2.6 Open-Weight Model for Pro Users · [Perplexity AI (@perplexity_ai)](https://x.com/perplexity_ai/status/2047145172337836139)
 - **2026-04-14**: Perplexity CEO Highlights Full Circle Pivot to 'Computer' for Founders · [Twitter (@AravSrinivas)](https://x.com/AravSrinivas/status/2043726497870127559)

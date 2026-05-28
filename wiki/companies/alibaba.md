@@ -2,7 +2,7 @@
 title: Alibaba
 type: company
 created: 2026-02-25
-updated: 2026-05-22
+updated: 2026-05-28
 ---
 
 # Alibaba
@@ -11,6 +11,7 @@ Chinese tech giant and creator of the [[qwen|Qwen]] model family, a leading [[op
 
 ## Timeline
 
+- **2026-05-28**: Qwen3.5 Achieves Record 580 TPS on TokenSpeed Engine for [[agent-frameworks|Agentic]] Workloads
 - **2026-05-22**: Alibaba MIGA: Training-Free Long Video Generation Enhancing Temporal Consistency
 - **2026-05-22**: Alibaba Qwen3.7-Max Achieves 35-Hour Autonomous Agent Runtime
 - **2026-05-19**: FashionChameleon: Real-Time Interactive Garment Video Customization from Alibaba

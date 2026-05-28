@@ -2,7 +2,7 @@
 title: Codex
 type: product
 created: 2026-02-25
-updated: 2026-05-14
+updated: 2026-05-28
 ---
 
 # Codex
@@ -11,6 +11,8 @@ updated: 2026-05-14
 
 ## Timeline
 
+- **2026-05-28**: Cisco and [[openai|OpenAI]] Partner to Redefine Enterprise Engineering with Codex AI-Native Development
+- **2026-05-28**: [[openai|OpenAI]] Codex Enables Self-Improving Tax Agent System with Closed-Loop Learning
 - **2026-05-18**: Codex Usage Spikes: [[openai|OpenAI]]'s [[agent-frameworks|Agentic]] Coding from Phone Sees Scale Issues
 - **2026-05-17**: [[openai|OpenAI]] Co-Founder Greg Brockman Takes Charge of Product Strategy Amid Reorganization
 - **2026-05-17**: Coding Agent Battle Heats Up: Codex vs Zed vs [[claude|Claude Code]]

@@ -312,9 +312,19 @@
   "osworld": {
     "top_models": [
       {
+        "name": "Pointer Agent w/ Opus 4.7",
+        "score": 83.6,
+        "institution": "Pointer"
+      },
+      {
         "name": "Holo3-35B-A3B",
         "score": 82.6,
         "institution": "H Company"
+      },
+      {
+        "name": "Pointer Agent w/ Sonnet 4.6",
+        "score": 81.5,
+        "institution": "Pointer"
       },
       {
         "name": "OpenAPA w/ gemini-3.1-pro",
@@ -335,6 +345,11 @@
         "name": "HIPPO Agent w/ Opus 4.5",
         "score": 74.5,
         "institution": "Lenovo"
+      },
+      {
+        "name": "Qwen 3.7 Plus",
+        "score": 73.3,
+        "institution": "Qwen Team, Alibaba Group"
       },
       {
         "name": "Kimi K2.6",
@@ -370,24 +385,9 @@
         "name": "agent s3 w/ Opus 4.5 bBoN (N=1)",
         "score": 66.5,
         "institution": "Simular"
-      },
-      {
-        "name": "agent s3 w/ Opus 4.5 bBoN (N=1)",
-        "score": 66.5,
-        "institution": "Simular"
-      },
-      {
-        "name": "OS-Symphony w/ GPT-5",
-        "score": 65.8,
-        "institution": "Shanghai AI Laboratory"
-      },
-      {
-        "name": "agent s3 w/ GPT-5 bBoN (N=1)",
-        "score": 65.6,
-        "institution": "Simular"
       }
     ],
-    "updated": "2026-05-22T10:34:27.394898+08:00"
+    "updated": "2026-05-28T13:12:14.373400+08:00"
   },
   "terminal_bench": {
     "top_models": [
@@ -417,14 +417,14 @@
         "verified": false
       },
       {
+        "name": "OpenAI/codex (gpt-5.5)",
+        "score": 82.2,
+        "verified": true
+      },
+      {
         "name": "PolarisOps/polaris (claude-opus-4-7 + gemini-3.1-pro-preview + gpt-5.5)",
         "score": 82.2,
         "verified": false
-      },
-      {
-        "name": "OpenAI/codex (gpt-5.5)",
-        "score": 82.0,
-        "verified": true
       },
       {
         "name": "BIGAI/judy (gemini-3.1-pro-preview)",
@@ -467,6 +467,6 @@
         "verified": false
       }
     ],
-    "updated": "2026-05-22T10:34:27.394898+08:00"
+    "updated": "2026-05-28T13:12:14.373400+08:00"
   }
 }

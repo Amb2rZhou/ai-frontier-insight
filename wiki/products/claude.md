@@ -2,7 +2,7 @@
 title: Claude
 type: product
 created: 2026-02-25
-updated: 2026-05-24
+updated: 2026-05-28
 ---
 
 # Claude
@@ -11,6 +11,7 @@ updated: 2026-05-24
 
 ## Timeline
 
+- **2026-05-28**: [[anthropic|Anthropic]] Launches Claude Marketplace for Third-Party Enterprise AI Tools
 - **2026-05-24**: Dejavu: Local-First AI Memory That Follows Users Across Tools via [[mcp-protocol|MCP]]
 - **2026-05-22**: [[alibaba|Alibaba]] Qwen3.7-Max Achieves 35-Hour Autonomous Agent Runtime
 - **2026-05-20**: [[anthropic|Anthropic]] Enables Enterprise Agent Credential Security via Self-Hosted Sandboxes in CMA

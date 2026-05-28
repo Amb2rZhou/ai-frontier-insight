@@ -160,6 +160,225 @@
           27
         ]
       }
+    ],
+    "2026-05-28": [
+      {
+        "title": "Anthropic Launches Claude Marketplace for Third-Party Enterprise AI Tools",
+        "signal_text": "Anthropic 官方宣布推出 Claude Marketplace，首批入驻厂商包括 Augment Code、Bolt.new、CodeRabbitAI、Hebbia 和 Legora。企业可将现有 Anthropic 支出承诺应用于这些第三方 Claude 驱动的产品。此战略标志着头部 AI 公司从单一模型提供商向平台生态转变，对小红书评估自建 AI 生态的商业模式有参考意义。",
+        "signal_strength": 0.88,
+        "sources": [
+          {
+            "name": "Anthropic 官方 (@claudeai)",
+            "url": "https://x.com/claudeai/status/2059662933924123044"
+          }
+        ],
+        "tags": [
+          "Enterprise AI Agent Adoption",
+          "Monetization",
+          "Platform Strategy"
+        ],
+        "raw_item_indices": [
+          87
+        ]
+      },
+      {
+        "title": "a16z: OpenAI and Anthropic Pivot to Massive 'Forward-Deployed' Joint Ventures, Signaling Limits of Generic AI",
+        "signal_text": "顶级风投 a16z 发表深度分析（获 1817 likes 和 43 万 views），指出 OpenAI 和 Anthropic 正投入数十亿美元组建大型前场联合企业（forward-deployed joint ventures），表明它们承认单一通用 AI 无法解决所有企业问题。这一信号意味着垂直行业定制化 AI 方案的市场需求将快速增长，对小红书等平台企业的 AI 产品策略有战略参考价值。",
+        "signal_strength": 0.86,
+        "sources": [
+          {
+            "name": "a16z 风投 (@a16z)",
+            "url": "https://x.com/a16z/status/2059687657840713925"
+          }
+        ],
+        "tags": [
+          "Enterprise AI Agent Adoption",
+          "Head Company Strategy",
+          "Market Analysis"
+        ],
+        "raw_item_indices": [
+          66
+        ]
+      },
+      {
+        "title": "OpenAI Codex Enables Self-Improving Tax Agent System with Closed-Loop Learning",
+        "signal_text": "OpenAI Devs 官方展示与 Thrive Holdings 联合构建的自改进税务 AI 系统：当人工审核员修正错误后，Codex 自动追溯失败原因、改进系统、测试变更后上线。这种 agent 自我进化的模式 对内容审核、自动标注等需要持续优化的场景有重要启发。该推文获 835 likes 和 7.8 万 views，引发广泛关注。",
+        "signal_strength": 0.85,
+        "sources": [
+          {
+            "name": "OpenAI Devs 官方 (@OpenAIDevs)",
+            "url": "https://x.com/OpenAIDevs/status/2059638868983562640"
+          },
+          {
+            "name": "Sam Altman (OpenAI CEO)",
+            "url": "https://x.com/sama/status/2059677202917331431"
+          }
+        ],
+        "tags": [
+          "Agent & New Interaction Paradigm",
+          "Content Moderation Automation",
+          "Enterprise AI"
+        ],
+        "raw_item_indices": [
+          103,
+          73,
+          34
+        ]
+      },
+      {
+        "title": "NVIDIA AI Lab Hao AI Lab Open-Sources Tech for 6x Faster Video Generation on Single Blackwell GPU",
+        "signal_text": "NVIDIA AI 官方账号发布，Hao AI Lab 的研究人员将 5 秒视频生成时间从 25 秒（8 块 Blackwell GPU）降至 4.2 秒（单块 Blackwell GPU），并完全开源了背后的技术。此突破对 UGC 视频内容创作、AI 视频编辑工具、以及端侧部署等方向有重要价值。获 933 likes 和 8.7 万 views，技术社区反响热烈。",
+        "signal_strength": 0.84,
+        "sources": [
+          {
+            "name": "NVIDIA AI 官方 (@NVIDIAAI)",
+            "url": "https://x.com/NVIDIAAI/status/2059717075829141878"
+          }
+        ],
+        "tags": [
+          "Content Creation & Understanding",
+          "Open Source",
+          "Inference Efficiency",
+          "Generative AI"
+        ],
+        "raw_item_indices": [
+          55
+        ]
+      },
+      {
+        "title": "Meta Launches Enterprise AI Push with Embedded Engineers and Paid Chatbot Subscriptions",
+        "signal_text": "据 The Information 报道，Meta 组建新部门，计划将工程师和产品经理派驻到大型企业客户内部，推动其 AI 工具采用。同时，Meta 在 Facebook、Instagram、WhatsApp 上推出 AI 聊天机器人的付费订阅计划（Meta AI Plus）。这标志着 Meta 从消费者 AI 向企业商业化迈出重要一步，对竞争对手如小红书的内容社区商业化路径有借鉴意义。",
+        "signal_strength": 0.83,
+        "sources": [
+          {
+            "name": "The Information",
+            "url": "https://www.theinformation.com/articles/meta-launches-new-enterprise-push-boost-business-adoption-ai-tools"
+          },
+          {
+            "name": "The Information",
+            "url": "https://www.theinformation.com/briefings/meta-launches-paid-ai-chatbot-subscriptions"
+          }
+        ],
+        "tags": [
+          "Enterprise AI Agent Adoption",
+          "Monetization",
+          "Head Company Strategy"
+        ],
+        "raw_item_indices": [
+          7,
+          8
+        ]
+      },
+      {
+        "title": "Qwen3.5 Achieves Record 580 TPS on TokenSpeed Engine for Agentic Workloads",
+        "signal_text": "阿里通义千问团队宣布，Qwen3.5 在 TokenSpeed 推理引擎上实现每秒 580 tokens 的创纪录速度，专为 agent 工作负载优化。该成就由阿里与 Lightseek、NVIDIA、Mooncake 及 tri·dao 合作完成。PyTorch 官方也转载了此里程碑。高速推理对小红书这类实时推荐和搜索场景至关重要，可显著降低延迟和成本。",
+        "signal_strength": 0.82,
+        "sources": [
+          {
+            "name": "阿里通义千问官方 (@Alibaba_Qwen)",
+            "url": "https://x.com/Alibaba_Qwen/status/2059674574397313277"
+          },
+          {
+            "name": "PyTorch 官方 (@PyTorch)",
+            "url": "https://x.com/PyTorch/status/2059666448998388211"
+          }
+        ],
+        "tags": [
+          "AI Infrastructure Optimization",
+          "Chinese AI Model Competition",
+          "Inference Efficiency"
+        ],
+        "raw_item_indices": [
+          77,
+          84
+        ]
+      },
+      {
+        "title": "Illinois Passes America's Strongest AI Safety Bill Requiring Third-Party Audits",
+        "signal_text": "据 Wired 报道，伊利诺伊州议会通过全美最严格的 AI 安全法案，要求 OpenAI、Anthropic、Google 等公司聘请第三方机构确认其遵守安全标准。州长 Pritzker 已承诺签署。此法案对内容平台的内容安全合规策略有直接监管影响，尤其是对 AI 生成内容检测和审核流程的合规升级需求。",
+        "signal_strength": 0.8,
+        "sources": [
+          {
+            "name": "Wired",
+            "url": "https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/"
+          }
+        ],
+        "tags": [
+          "AI Regulation & Compliance",
+          "Content Safety",
+          "Industry Risk"
+        ],
+        "raw_item_indices": [
+          3
+        ]
+      },
+      {
+        "title": "MiniMax Teases M3 Model with 15.6x Long-Context Speed Boost via Novel Sparse Attention",
+        "signal_text": "据 VentureBeat 报道，中国 AI 公司 MiniMax 预告即将推出的 M3 模型，该模型采用新型稀疏注意力机制（sparse attention），在长上下文任务中实现 15.6 倍响应速度提升。该模型延续了 MiniMax M2 系列（今年早期最广泛使用的开源 LLM 之一）的技术路线，体现了中国厂商在效率优化上的持续突破，对内容社区的实时多模态搜索与推荐有潜在应用价值。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/technology/minimax-teases-upcoming-m3-model-with-new-sparse-attention-mechanism-and-15-6x-response-speed-boost"
+          },
+          {
+            "name": "Sebastian Raschka (研究员评论)",
+            "url": "https://x.com/rasbt/status/2059652784404762711"
+          }
+        ],
+        "tags": [
+          "AI Infrastructure Optimization",
+          "Chinese AI Model Competition",
+          "Search & Recommendation"
+        ],
+        "raw_item_indices": [
+          18,
+          92
+        ]
+      },
+      {
+        "title": "Perplexity CEO Open-Sources Production-Ready Tokenizer Far More Efficient Than HuggingFace/SentencePiece",
+        "signal_text": "Perplexity 创始人兼 CEO Arav Srinivas 宣布开源其生产部署的 tokenizer，声称效率远超 HuggingFace 和 SentencePiece。Perplexity 近期也持续训练并开源 ColBERT 系列模型（pplx-late / pplx-emb）。高效 tokenizer 和开源检索模型对搜索增强、向量检索等核心业务场景有直接优化价值。",
+        "signal_strength": 0.72,
+        "sources": [
+          {
+            "name": "Perplexity CEO Arav Srinivas (@AravSrinivas)",
+            "url": "https://x.com/AravSrinivas/status/2059689617314701796"
+          },
+          {
+            "name": "Perplexity 研究员 (@lateinteraction)",
+            "url": "https://x.com/lateinteraction/status/2059732949113970944"
+          }
+        ],
+        "tags": [
+          "Search & Recommendation",
+          "Open Source",
+          "Infrastructure Optimization"
+        ],
+        "raw_item_indices": [
+          64,
+          51
+        ]
+      },
+      {
+        "title": "Cisco and OpenAI Partner to Redefine Enterprise Engineering with Codex AI-Native Development",
+        "signal_text": "OpenAI 博客宣布与 Cisco 合作，利用 Codex 帮助企业扩展 AI 原生开发、加速 AI Defense 项目、以及自动化缺陷修复。这是传统大型企业深度采用 AI Agent 进行工程转型的典型案例，对小红书内部工程效能提升策略有直接借鉴意义。",
+        "signal_strength": 0.72,
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/cisco"
+          }
+        ],
+        "tags": [
+          "Enterprise AI Agent Adoption",
+          "Head Company Strategy",
+          "Product Launch"
+        ],
+        "raw_item_indices": [
+          28
+        ]
+      }
     ]
   },
   "archived_weeks": [

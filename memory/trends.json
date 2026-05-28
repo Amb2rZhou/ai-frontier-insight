@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-27T15:15:20.635757+08:00",
+  "last_updated": "2026-05-28T13:14:18.230657+08:00",
   "trends": [
     {
       "id": "ai_safety_pivot_and_accelerated_agi_time",
@@ -15,9 +15,8 @@
         "Regulation"
       ],
       "trajectory": "accelerating",
-      "signal_count": 112,
+      "signal_count": 113,
       "weekly_counts": [
-        2,
         0,
         2,
         0,
@@ -28,7 +27,8 @@
         2,
         0,
         1,
-        3
+        3,
+        1
       ],
       "key_events": [
         {
@@ -98,6 +98,10 @@
         {
           "date": "2026-05-27",
           "event": "White House Nears Deal with Anthropic for Spy Agencies to Use AI"
+        },
+        {
+          "date": "2026-05-28",
+          "event": "Illinois Passes America's Strongest AI Safety Bill Requiring Third-Party Audits"
         }
       ],
       "created": "2026-02-25"
@@ -317,9 +321,8 @@
         "Office"
       ],
       "trajectory": "accelerating",
-      "signal_count": 224,
+      "signal_count": 228,
       "weekly_counts": [
-        1,
         3,
         9,
         3,
@@ -330,7 +333,8 @@
         1,
         4,
         2,
-        1
+        1,
+        4
       ],
       "key_events": [
         {
@@ -396,6 +400,10 @@
         {
           "date": "2026-05-27",
           "event": "Ferrari and IBM Use AI to Create F1 Superfans: Enterprise AI Applications"
+        },
+        {
+          "date": "2026-05-28",
+          "event": "Anthropic Launches Claude Marketplace for Third-Party Enterprise AI Tools; OpenAI Codex Enables Self-Improving Tax Agent System; Meta Launches Enterprise AI Push; Cisco and OpenAI Partner for Codex AI-Native Development"
         }
       ],
       "created": "2026-02-25"
@@ -414,9 +422,8 @@
         "Model Efficiency"
       ],
       "trajectory": "accelerating",
-      "signal_count": 190,
+      "signal_count": 191,
       "weekly_counts": [
-        3,
         1,
         4,
         3,
@@ -427,7 +434,8 @@
         4,
         4,
         1,
-        2
+        2,
+        1
       ],
       "key_events": [
         {
@@ -473,6 +481,10 @@
         {
           "date": "2026-05-22",
           "event": "Peking University Video2GUI: Synthesizing Trajectories for GUI Agent Pretraining"
+        },
+        {
+          "date": "2026-05-28",
+          "event": "NVIDIA AI Lab Open-Sources Tech for 6x Faster Video Generation on Single Blackwell GPU"
         }
       ],
       "created": "2026-02-25"
@@ -677,9 +689,8 @@
         "Nvidia"
       ],
       "trajectory": "accelerating",
-      "signal_count": 161,
+      "signal_count": 162,
       "weekly_counts": [
-        1,
         2,
         1,
         1,
@@ -690,6 +701,7 @@
         1,
         3,
         3,
+        1,
         1
       ],
       "key_events": [
@@ -756,6 +768,10 @@
         {
           "date": "2026-05-22",
           "event": "HuggingFace Transformers v5.9.0 Adds Cohere2Moe Model Support"
+        },
+        {
+          "date": "2026-05-28",
+          "event": "Perplexity CEO Open-Sources Production-Ready Tokenizer"
         }
       ],
       "created": "2026-02-25"
@@ -859,9 +875,8 @@
         "AI Adoption"
       ],
       "trajectory": "accelerating",
-      "signal_count": 72,
+      "signal_count": 74,
       "weekly_counts": [
-        0,
         1,
         0,
         2,
@@ -872,7 +887,8 @@
         1,
         2,
         1,
-        1
+        1,
+        2
       ],
       "key_events": [
         {
@@ -946,6 +962,10 @@
         {
           "date": "2026-05-22",
           "event": "Alibaba Qwen3.7-Max Achieves 35-Hour Autonomous Agent Runtime"
+        },
+        {
+          "date": "2026-05-28",
+          "event": "Qwen3.5 Achieves Record 580 TPS on TokenSpeed Engine; MiniMax Teases M3 Model with 15.6x Long-Context Speed Boost"
         }
       ],
       "created": "2026-02-25"

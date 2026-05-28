@@ -2,7 +2,7 @@
 title: Agent Frameworks
 type: technology
 created: 2026-02-25
-updated: 2026-05-24
+updated: 2026-05-28
 ---
 
 # Agent Frameworks
@@ -11,6 +11,11 @@ The rapidly evolving ecosystem of tools, SDKs, and platforms for building autono
 
 ## Timeline
 
+- **2026-05-28**: Cisco and [[openai|OpenAI]] Partner to Redefine Enterprise Engineering with [[codex|Codex]] AI-Native Development
+- **2026-05-28**: Qwen3.5 Achieves Record 580 TPS on TokenSpeed Engine for Agentic Workloads
+- **2026-05-28**: [[meta|Meta]] Launches Enterprise AI Push with Embedded Engineers and Paid Chatbot Subscriptions
+- **2026-05-28**: a16z: [[openai|OpenAI]] and [[anthropic|Anthropic]] Pivot to Massive 'Forward-Deployed' Joint Ventures, Signaling Limits of Generic AI
+- **2026-05-28**: [[anthropic|Anthropic]] Launches [[claude|Claude]] Marketplace for Third-Party Enterprise AI Tools
 - **2026-05-24**: Control-Layer: Production-Grade LLM Guardrails with Schema Enforcement and Circuit Breaking
 - **2026-05-22**: CrewAI 1.14.6a1 Introduces Skills Repository and Registry for SDK Integration
 - **2026-05-22**: Workday Reports 2x Quarter-over-Quarter Growth in Enterprise AI Agent Customers

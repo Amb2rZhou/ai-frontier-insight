@@ -2,7 +2,7 @@
 title: Meta
 type: company
 created: 2026-02-26
-updated: 2026-05-19
+updated: 2026-05-28
 ---
 
 # Meta
@@ -11,6 +11,7 @@ Parent company of Facebook, Instagram, and WhatsApp. Major AI investor through F
 
 ## Timeline
 
+- **2026-05-28**: Meta Launches Enterprise AI Push with Embedded Engineers and Paid Chatbot Subscriptions
 - **2026-05-19**: Supply-Chain Attacks on AI Model Release Pipelines Exposed
 - **2026-05-19**: Meta Shifts Thousands of Workers to AI-Focused Groups Ahead of Layoffs
 - **2026-05-18**: Meta AI Releases Realiz3D: Photorealistic 3D Generation via Domain-Aware Learning

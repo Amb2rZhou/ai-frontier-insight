@@ -2,7 +2,7 @@
 title: OpenAI
 type: company
 created: 2026-02-25
-updated: 2026-05-21
+updated: 2026-05-28
 ---
 
 # OpenAI
@@ -11,6 +11,10 @@ The leading commercial AI lab, maker of [[gpt|GPT]] models, ChatGPT, [[codex|Cod
 
 ## Timeline
 
+- **2026-05-28**: Cisco and OpenAI Partner to Redefine Enterprise Engineering with [[codex|Codex]] AI-Native Development
+- **2026-05-28**: Illinois Passes America's Strongest [[ai-safety|AI Safety]] Bill Requiring Third-Party Audits
+- **2026-05-28**: OpenAI [[codex|Codex]] Enables Self-Improving Tax Agent System with Closed-Loop Learning
+- **2026-05-28**: a16z: OpenAI and [[anthropic|Anthropic]] Pivot to Massive 'Forward-Deployed' Joint Ventures, Signaling Limits of Generic AI
 - **2026-05-21**: OpenAI Offers $2M API Credits to Every Y Combinator Startup in Current Batch
 - **2026-05-20**: OpenAI Guaranteed Capacity and [[anthropic|Anthropic]] Token Commitments Signal Infrastructure Constraints
 - **2026-05-20**: OpenAI Adopts [[google-deepmind|Google]]'s SynthID Watermark for AI Images

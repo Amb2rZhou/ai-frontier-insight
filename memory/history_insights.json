@@ -1,66 +1,6 @@
 {
   "predictions": [
     {
-      "date": "2026-05-15T11:26:19.607901+08:00",
-      "prediction_text": "内容平台应积极推动内部指令数据与编码session向开源社区贡献，反向获取社区数据红利。",
-      "category": "open_source",
-      "source_signal": "HuggingFace Crosses 1 Million Datasets Milestone"
-    },
-    {
-      "date": "2026-05-15T11:26:19.610487+08:00",
-      "prediction_text": "电商/社区平台的搜索团队可引入Granite Embedding R2替换商业向量库，降低搜索冷启动成本。",
-      "category": "open_source",
-      "source_signal": "IBM Granite Embedding Multilingual R2: Best Sub-100M Retrieval Quality with 32K Context"
-    },
-    {
-      "date": "2026-05-16T10:34:06.720684+08:00",
-      "prediction_text": "内容平台的创作Agent应在发布前部署灰度测试与回滚机制，平衡创新速度与创作稳定性。",
-      "category": "strategic_move",
-      "source_signal": "Codex Mobile Launch and GPT-5.5 Performance Incident"
-    },
-    {
-      "date": "2026-05-16T10:34:06.728813+08:00",
-      "prediction_text": "内容平台或电商需关注AI能力嵌入统一入口的趋势，避免用户被单一超级App长期锁定。",
-      "category": "strategic_move",
-      "source_signal": "OpenAI Reorganizes Around Unified App Strategy"
-    },
-    {
-      "date": "2026-05-16T10:34:06.734752+08:00",
-      "prediction_text": "社区/内容平台可评估中国Agent方案在本地化场景的终端自动化性价比，降低对海外模型依赖。",
-      "category": "research_breakthrough",
-      "source_signal": "Claude Opus-4-7 Tops Terminal-Bench 2.0 Leaderboard"
-    },
-    {
-      "date": "2026-05-16T10:34:06.740914+08:00",
-      "prediction_text": "内容或社区平台可探索将用户内容资产（笔记/商品收藏）接入财务/生活Agent，实现跨场景价值闭环。",
-      "category": "ecosystem_shift",
-      "source_signal": "OpenAI Brings Personal Finance Management to ChatGPT"
-    },
-    {
-      "date": "2026-05-16T10:34:06.745047+08:00",
-      "prediction_text": "内容平台的Agent开发者工具可考虑支持接入多家模型，构建开放生态吸引社区开发者。",
-      "category": "ecosystem_shift",
-      "source_signal": "xAI Grok Subscription Integrated with Nous Hermes Agent"
-    },
-    {
-      "date": "2026-05-16T10:34:06.748167+08:00",
-      "prediction_text": "内容/电商平台可探索引入Agent编排层，统一监控和优化多个创作/客服Agent的协同工作流。",
-      "category": "strategic_move",
-      "source_signal": "Intercom/Fin Launches Agent-Managing AI Agent"
-    },
-    {
-      "date": "2026-05-16T10:34:06.751090+08:00",
-      "prediction_text": "内容平台可加速自研或集成ExecuTorch，推动AI创作与推荐在端侧落地，降低延迟与带宽成本。",
-      "category": "research_breakthrough",
-      "source_signal": "[Update] ExecuTorch Wins Best Industry Paper at MLSys 2026"
-    },
-    {
-      "date": "2026-05-16T10:34:06.753896+08:00",
-      "prediction_text": "内容平台的AI工程团队可借鉴Agent集群安全范式（文件系统隔离/网络策略），确保多Agent协同的安全可控。",
-      "category": "open_source",
-      "source_signal": "OpenClaw Open Source Agent Framework Gains Traction"
-    },
-    {
       "date": "2026-05-16T10:34:06.756379+08:00",
       "prediction_text": "电商/社区平台可构建自身业务场景的经济价值评估框架，指导模型选型而非单看榜单分数。",
       "category": "research_breakthrough",
@@ -599,6 +539,66 @@
       "prediction_text": "内容平台可在搜索/信息流中嵌入AI“简报模式”，将多源长文转为结构化行动点摘要。",
       "category": "strategic_move",
       "source_signal": "DailyBrief: Open-Source AI News Aggregator with 23 Sources and LLM Summaries"
+    },
+    {
+      "date": "2026-05-28T13:14:07.006734+08:00",
+      "prediction_text": "内容/社区平台可以考虑构建垂直领域的Agent商店，让第三方开发者为平台用户定制AI工具并分润。",
+      "category": "ecosystem_shift",
+      "source_signal": "Anthropic Launches Claude Marketplace for Third-Party Enterprise AI Tools"
+    },
+    {
+      "date": "2026-05-28T13:14:07.015436+08:00",
+      "prediction_text": "电商/社区平台可考虑将内容理解、商品识别等核心能力封装为行业AI套件，向品牌方售卖。",
+      "category": "strategic_move",
+      "source_signal": "a16z: OpenAI and Anthropic Pivot to Massive 'Forward-Deployed' Joint Ventures, Signaling Limits of Generic AI"
+    },
+    {
+      "date": "2026-05-28T13:14:07.020730+08:00",
+      "prediction_text": "内容安全团队可以探索“审核Agent + 人工纠正”的自演进架构，大幅降低人工复审成本。",
+      "category": "research_breakthrough",
+      "source_signal": "OpenAI Codex Enables Self-Improving Tax Agent System with Closed-Loop Learning"
+    },
+    {
+      "date": "2026-05-28T13:14:07.025733+08:00",
+      "prediction_text": "创作者工具团队可以探索“实时AI视频特效”和“AI动效模板”，降低UGC视频制作门槛。",
+      "category": "open_source",
+      "source_signal": "NVIDIA AI Lab Hao AI Lab Open-Sources Tech for 6x Faster Video Generation on Single Blackwell GPU"
+    },
+    {
+      "date": "2026-05-28T13:14:07.029855+08:00",
+      "prediction_text": "社区平台可以考虑面向头部品牌推出“AI运营官”付费服务，派驻算法工程师协助定制化投放。",
+      "category": "strategic_move",
+      "source_signal": "Meta Launches Enterprise AI Push with Embedded Engineers and Paid Chatbot Subscriptions"
+    },
+    {
+      "date": "2026-05-28T13:14:07.034225+08:00",
+      "prediction_text": "推荐系统和搜索团队可以探索将Agent推理直接嵌入在线链路，实现毫秒级个性化交互。",
+      "category": "infrastructure",
+      "source_signal": "Qwen3.5 Achieves Record 580 TPS on TokenSpeed Engine for Agentic Workloads"
+    },
+    {
+      "date": "2026-05-28T13:14:07.037432+08:00",
+      "prediction_text": "内容安全团队可以考虑预留第三方审计接口，并建立可追溯的AI生成内容水印与审核日志系统。",
+      "category": "infrastructure",
+      "source_signal": "Illinois Passes America's Strongest AI Safety Bill Requiring Third-Party Audits"
+    },
+    {
+      "date": "2026-05-28T13:14:07.040567+08:00",
+      "prediction_text": "搜索推荐团队可以探索“用户长序Token化”策略，基于M3实现毫秒级动态兴趣建模。",
+      "category": "research_breakthrough",
+      "source_signal": "MiniMax Teases M3 Model with 15.6x Long-Context Speed Boost via Novel Sparse Attention"
+    },
+    {
+      "date": "2026-05-28T13:14:07.043356+08:00",
+      "prediction_text": "搜索和向量检索团队可以评估替换SentencePiece，降低长尾查询的预处理延迟和存储开销。",
+      "category": "open_source",
+      "source_signal": "Perplexity CEO Open-Sources Production-Ready Tokenizer Far More Efficient Than HuggingFace/SentencePiece"
+    },
+    {
+      "date": "2026-05-28T13:14:07.045925+08:00",
+      "prediction_text": "内部工程效能团队可以试点Codex自动化缺陷修复和代码审查Agent，减少工程师重复劳动。",
+      "category": "strategic_move",
+      "source_signal": "Cisco and OpenAI Partner to Redefine Enterprise Engineering with Codex AI-Native Development"
     }
   ]
 }
