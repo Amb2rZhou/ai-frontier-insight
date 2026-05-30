@@ -2,7 +2,7 @@
 title: AI Safety
 type: trend
 created: 2026-02-25
-updated: 2026-05-28
+updated: 2026-05-30
 ---
 
 # AI Safety
@@ -13,6 +13,7 @@ The evolving landscape of AI safety research, policy, and corporate commitments 
 
 ## Timeline
 
+- **2026-05-30**: Google [[gemini|Gemini]] Models Tested for 'Scheming' Tendencies by [[google-deepmind|DeepMind]] Alignment Team
 - **2026-05-28**: Illinois Passes America's Strongest AI Safety Bill Requiring Third-Party Audits
 - **2026-05-24**: Control-Layer: Production-Grade LLM Guardrails with Schema Enforcement and Circuit Breaking
 - **2026-05-22**: Mozilla Firefox 'Project Nova' Redesign Prioritizes AI Privacy Controls

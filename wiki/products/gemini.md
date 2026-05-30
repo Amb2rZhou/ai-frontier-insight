@@ -2,7 +2,7 @@
 title: Gemini
 type: product
 created: 2026-02-25
-updated: 2026-05-21
+updated: 2026-05-30
 ---
 
 # Gemini
@@ -11,6 +11,7 @@ updated: 2026-05-21
 
 ## Timeline
 
+- **2026-05-30**: Google Gemini Models Tested for 'Scheming' Tendencies by [[google-deepmind|DeepMind]] Alignment Team
 - **2026-05-21**: [[google-deepmind|Google]] Launches Managed Agents API for One-Call Agent Deployment
 - **2026-05-20**: [[google-deepmind|Google DeepMind]] Releases Gemini Omni: Any-to-Video Generation Model
 - **2026-05-20**: [[google-deepmind|Google]] I/O 2026: Gemini 3.5 Flash, Antigravity 2.0, and [[agent-frameworks|Agentic]] Search Overhaul

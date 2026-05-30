@@ -2,7 +2,7 @@
 title: Agent Frameworks
 type: technology
 created: 2026-02-25
-updated: 2026-05-28
+updated: 2026-05-30
 ---
 
 # Agent Frameworks
@@ -11,6 +11,8 @@ The rapidly evolving ecosystem of tools, SDKs, and platforms for building autono
 
 ## Timeline
 
+- **2026-05-30**: Enterprise AI Agent Reliability Crisis: Permissions and State Management Emerge as Bottlenecks
+- **2026-05-30**: Google [[gemini|Gemini]] Models Tested for 'Scheming' Tendencies by [[google-deepmind|DeepMind]] Alignment Team
 - **2026-05-28**: Cisco and [[openai|OpenAI]] Partner to Redefine Enterprise Engineering with [[codex|Codex]] AI-Native Development
 - **2026-05-28**: Qwen3.5 Achieves Record 580 TPS on TokenSpeed Engine for Agentic Workloads
 - **2026-05-28**: [[meta|Meta]] Launches Enterprise AI Push with Embedded Engineers and Paid Chatbot Subscriptions

@@ -1,66 +1,6 @@
 {
   "predictions": [
     {
-      "date": "2026-05-16T10:34:06.756379+08:00",
-      "prediction_text": "电商/社区平台可构建自身业务场景的经济价值评估框架，指导模型选型而非单看榜单分数。",
-      "category": "research_breakthrough",
-      "source_signal": "GPT-5.5 Gains 98% Win Rate Over Claude 4 Sonnet on Economic Value Benchmark"
-    },
-    {
-      "date": "2026-05-16T10:34:06.759121+08:00",
-      "prediction_text": "内容平台的创作者归属检测可探索用户主动保护机制，将被动审核转变为主动维权工具。",
-      "category": "strategic_move",
-      "source_signal": "YouTube Expands AI Deepfake Detection to All Adults"
-    },
-    {
-      "date": "2026-05-17T10:34:02.782059+08:00",
-      "prediction_text": "平台应考虑加速Agent原生交互入口建设，允许用户通过自然语言直接消费/生成内容，而非仅靠搜索或推荐。",
-      "category": "ecosystem_shift",
-      "source_signal": "Coding Agent Battle Heats Up: Codex vs Zed vs Claude Code"
-    },
-    {
-      "date": "2026-05-17T10:34:02.790135+08:00",
-      "prediction_text": "社区/内容平台可探索将笔记创作、搜索、编辑统一为单一Agent界面，降低用户操作路径。",
-      "category": "strategic_move",
-      "source_signal": "OpenAI Co-Founder Greg Brockman Takes Charge of Product Strategy Amid Reorganization"
-    },
-    {
-      "date": "2026-05-17T10:34:02.797815+08:00",
-      "prediction_text": "内容平台可考虑将语音克隆技术集成至UGC创作工具，支持用户以声音身份参与内容互动。",
-      "category": "strategic_move",
-      "source_signal": "OpenAI Acquires Voice-Cloning Startup Weights.GG"
-    },
-    {
-      "date": "2026-05-17T10:34:02.802595+08:00",
-      "prediction_text": "推荐系统与内容理解团队可跟踪Gemma 4/DeepSeek V4架构，探索低成本长历史用户建模。",
-      "category": "research_breakthrough",
-      "source_signal": "Visual Tour of LLM Architecture Advances: Gemma 4 to DeepSeek V4"
-    },
-    {
-      "date": "2026-05-17T10:34:02.809140+08:00",
-      "prediction_text": "平台在部署创作/客服Agent时，应建立行为监控与回退机制，对高失配场景进行人工兜底。",
-      "category": "research_breakthrough",
-      "source_signal": "Interpretability Study Reveals Mismatch Between Tool Recognition and Action in LLM Agents"
-    },
-    {
-      "date": "2026-05-17T10:34:02.812643+08:00",
-      "prediction_text": "平台推荐系统团队应前置合规设计，引入推荐透明度与用户可控性机制，降低诉讼风险。",
-      "category": "strategic_move",
-      "source_signal": "Snap, YouTube, and TikTok Settle Landmark Social Media Harm Lawsuit"
-    },
-    {
-      "date": "2026-05-17T10:34:02.815682+08:00",
-      "prediction_text": "社区电商平台可引入进化模拟器训练个性化推荐Agent，减少对真实用户A/B测试的依赖。",
-      "category": "research_breakthrough",
-      "source_signal": "Realistic User Simulators for Training AI Agents (Natasha Jaques et al.)"
-    },
-    {
-      "date": "2026-05-17T10:34:02.818326+08:00",
-      "prediction_text": "内容平台可评估将OpenClaw式压缩记忆集成到推荐系统，实现跨会话的个性化兴趣建模。",
-      "category": "open_source",
-      "source_signal": "OpenClaw Lossless Compaction Empowers Infinite Context Window"
-    },
-    {
       "date": "2026-05-17T10:34:02.820932+08:00",
       "prediction_text": "平台部署团队应建立推理引擎灰度升级策略，优先验证模型兼容性与性能回退问题。",
       "category": "infrastructure",
@@ -599,6 +539,66 @@
       "prediction_text": "内部工程效能团队可以试点Codex自动化缺陷修复和代码审查Agent，减少工程师重复劳动。",
       "category": "strategic_move",
       "source_signal": "Cisco and OpenAI Partner to Redefine Enterprise Engineering with Codex AI-Native Development"
+    },
+    {
+      "date": "2026-05-30T14:19:32.453898+08:00",
+      "prediction_text": "电商/社区平台应评估自研芯片或定制ASIC的可行性，优先在搜索、推荐、审核等高吞吐场景试点专用芯片。",
+      "category": "strategic_move",
+      "source_signal": "ByteDance Developing Proprietary AI Chip Similar to Groq Architecture"
+    },
+    {
+      "date": "2026-05-30T14:19:32.462329+08:00",
+      "prediction_text": "内容平台可考虑将图像/视频理解拆解为“通用大模型做理解+轻量模型做匹配”的双层架构，大幅降低推理账单。",
+      "category": "research_breakthrough",
+      "source_signal": "Pinterest Achieves 90% AI Cost Reduction by Modifying Frontier Model Architecture"
+    },
+    {
+      "date": "2026-05-30T14:19:32.468607+08:00",
+      "prediction_text": "社区平台可探索与AI挂件/眼镜厂商合作，预装“语音+视觉”的社区速记、购物识别等轻交互功能。",
+      "category": "strategic_move",
+      "source_signal": "Meta Plans AI Pendant as Part of Ambitious Wearables Expansion"
+    },
+    {
+      "date": "2026-05-30T14:19:32.473536+08:00",
+      "prediction_text": "内容安全团队应借鉴该评估方法论，对审核Agent进行“红队测试”和“沙箱行为监控”，而非仅依赖输入过滤。",
+      "category": "research_breakthrough",
+      "source_signal": "Google Gemini Models Tested for 'Scheming' Tendencies by DeepMind Alignment Team"
+    },
+    {
+      "date": "2026-05-30T14:19:32.477572+08:00",
+      "prediction_text": "推荐系统和创作者工具团队应优先构建“Agent运行时框架”：包含断点续传、分布式状态管理、细粒度权限控制。",
+      "category": "infrastructure",
+      "source_signal": "Enterprise AI Agent Reliability Crisis: Permissions and State Management Emerge as Bottlenecks"
+    },
+    {
+      "date": "2026-05-30T14:19:32.480754+08:00",
+      "prediction_text": "内容平台可考虑基于vLLM + DeepSeek V4搭建低成本推理集群，替代部分闭源API调用，适合长尾查询和内容理解。",
+      "category": "open_source",
+      "source_signal": "vLLM v0.22.0 Released: Major Hardening for DeepSeek V4 and New R1/HaiDrive Backend"
+    },
+    {
+      "date": "2026-05-30T14:19:32.483845+08:00",
+      "prediction_text": "创作者工具团队应提前适配Arm架构，开发实时AI修图、视频语音转写等端侧功能，抢占PC端创作变现入口。",
+      "category": "infrastructure",
+      "source_signal": "NVIDIA, Microsoft, Arm Tease New N1X Arm Laptop Processors at Computex"
+    },
+    {
+      "date": "2026-05-30T14:19:32.486524+08:00",
+      "prediction_text": "社区平台应建立AI生成内容的版权声明模板和用户协议，并主动与UGC创作者沟通AI辅助创作的收益分配机制。",
+      "category": "ecosystem_shift",
+      "source_signal": "Amazon to Produce AI-Animated 'Good Advice Cupcake' TV Show; Original Creator Furious"
+    },
+    {
+      "date": "2026-05-30T14:19:32.489084+08:00",
+      "prediction_text": "电商/社区平台可考虑构建“AI运营Agent + 人工确认”的闭环，应用于达人对接、活动策划、违规预判等场景。",
+      "category": "strategic_move",
+      "source_signal": "OpenAI Case Study: Boston Children's Hospital Uses AI to Diagnose 40+ Rare Diseases"
+    },
+    {
+      "date": "2026-05-30T14:19:32.491650+08:00",
+      "prediction_text": "内容数据策略团队应警惕“以服务换数据”的商业模式，并提前制定AI训练数据采集的透明化协议与用户授权机制。",
+      "category": "data_strategy",
+      "source_signal": "AI Pendant as New Wearable Form Factor: Startups Offer Free House Cleaning for AI Training Data"
     }
   ]
 }

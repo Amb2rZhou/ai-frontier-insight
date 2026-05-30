@@ -2,7 +2,7 @@
 title: Bytedance
 type: company
 created: 2026-03-16
-updated: 2026-05-20
+updated: 2026-05-30
 ---
 
 # Bytedance
@@ -11,6 +11,7 @@ Chinese tech giant (parent of TikTok), active in AI through Seedance video gener
 
 ## Timeline
 
+- **2026-05-30**: ByteDance Developing Proprietary AI Chip Similar to Groq Architecture
 - **2026-05-20**: ByteDance Releases Lance: Unified Multimodal Model for Understanding, Generation, and Editing
 - **2026-05-20**: ByteDance Research Releases Lance: Unified Multimodal Model for Understanding, Generation, and Editing
 - **2026-05-14**: ByteDance Seed Publishes Long-Context VLM Training Method with 128K+ Generalization

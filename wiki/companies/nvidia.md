@@ -2,7 +2,7 @@
 title: NVIDIA
 type: company
 created: 2026-02-25
-updated: 2026-05-28
+updated: 2026-05-30
 ---
 
 # NVIDIA
@@ -11,6 +11,8 @@ Dominant [[ai-hardware|AI hardware]] company, increasingly expanding into AI sof
 
 ## Timeline
 
+- **2026-05-30**: NVIDIA, [[microsoft|Microsoft]], Arm Tease New N1X Arm Laptop Processors at Computex
+- **2026-05-30**: vLLM v0.22.0 Released: Major Hardening for DeepSeek V4 and New R1/HaiDrive Backend
 - **2026-05-28**: Qwen3.5 Achieves Record 580 TPS on TokenSpeed Engine for [[agent-frameworks|Agentic]] Workloads
 - **2026-05-28**: NVIDIA AI Lab Hao AI Lab Open-Sources Tech for 6x Faster Video Generation on Single Blackwell GPU
 - **2026-05-21**: Jensen Huang Predicts $200B New Market: CPUs for AI Agents

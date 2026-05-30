@@ -2,7 +2,7 @@
 title: Google DeepMind
 type: company
 created: 2026-02-25
-updated: 2026-05-28
+updated: 2026-05-30
 ---
 
 # Google DeepMind
@@ -11,6 +11,7 @@ Google's unified AI research division, maker of [[gemini|Gemini]] and [[gemma|Ge
 
 ## Timeline
 
+- **2026-05-30**: Google [[gemini|Gemini]] Models Tested for 'Scheming' Tendencies by DeepMind Alignment Team
 - **2026-05-28**: Illinois Passes America's Strongest [[ai-safety|AI Safety]] Bill Requiring Third-Party Audits
 - **2026-05-21**: Google Launches Managed Agents API for One-Call Agent Deployment
 - **2026-05-20**: Google DeepMind LiteFrame: Efficient Video Encoder Unlocks Frame Scaling in Video LLMs

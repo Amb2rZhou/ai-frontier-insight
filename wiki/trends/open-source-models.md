@@ -2,7 +2,7 @@
 title: Open Source Models
 type: trend
 created: 2026-02-25
-updated: 2026-05-24
+updated: 2026-05-30
 ---
 
 # Open Source Models
@@ -13,6 +13,7 @@ The rapid proliferation of open-source and open-weight foundation models challen
 
 ## Timeline
 
+- **2026-05-30**: vLLM v0.22.0 Released: Major Hardening for DeepSeek V4 and New R1/HaiDrive Backend
 - **2026-05-24**: DailyBrief: Open-Source AI News Aggregator with 23 Sources and LLM Summaries
 - **2026-05-24**: Browser-Use 0.12.8 Fixes Daemon Security (Unix Socket Permissions)
 - **2026-05-24**: Ai-Flow-Architect: Dual-Brain AI Workflow Engine with Hallucination Prevention

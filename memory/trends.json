@@ -1,23 +1,22 @@
 {
-  "last_updated": "2026-05-28T13:14:18.230657+08:00",
+  "last_updated": "2026-05-30T14:19:42.936435+08:00",
   "trends": [
     {
       "id": "ai_safety_pivot_and_accelerated_agi_time",
       "name": "AI Safety Pivot and Accelerated AGI Timelines",
       "related_tags": [
-        "Safety",
-        "Authorship",
-        "Corporate Strategy",
         "User Experience",
-        "Military",
         "Content Generation",
-        "Industry Cooperation",
-        "Regulation"
+        "Content Safety",
+        "Corporate Strategy",
+        "Safety",
+        "AI Governance",
+        "Military",
+        "Industry Cooperation"
       ],
       "trajectory": "accelerating",
-      "signal_count": 113,
+      "signal_count": 116,
       "weekly_counts": [
-        0,
         2,
         0,
         2,
@@ -28,53 +27,10 @@
         0,
         1,
         3,
+        1,
         1
       ],
       "key_events": [
-        {
-          "date": "2026-04-20",
-          "event": "Evidence Mounts on AI-Written Books Flooding Publishing Industry"
-        },
-        {
-          "date": "2026-04-21",
-          "event": "NVIDIA Researchers Reveal Catastrophic Vulnerability of DNNs to Sign-Bit Flips"
-        },
-        {
-          "date": "2026-04-22",
-          "event": "Anthropic's Exclusive Cyber Tool 'Mythos' Reportedly Accessed by Unauthorized Group"
-        },
-        {
-          "date": "2026-04-23",
-          "event": "OpenAI releases open-source on-device privacy filter model; Wired investigation reveals AI models' effectiveness in phishing and social engineering"
-        },
-        {
-          "date": "2026-04-25",
-          "event": "85% of Enterprises Run AI Agent Pilots But Only 5% Production-Ready; OpenAI Introduces Auto-Review Agent for Codex Reducing Human Approvals"
-        },
-        {
-          "date": "2026-04-27",
-          "event": "OpenAI Publishes 'Our Principles' Blog; OpenAI Benchmarks ChatGPT for Clinical Use"
-        },
-        {
-          "date": "2026-04-30",
-          "event": "Anthropic 'Introspection Adapters' Allow LLMs to Self-Report Learned Behaviors for Safety"
-        },
-        {
-          "date": "2026-05-01",
-          "event": "OpenAI Rolls Out GPT-5.5-Cyber: Frontier Cybersecurity Model for Critical Defenders; Goodfire Releases Silico Mechanistic Interpretability Tool for Debugging LLMs"
-        },
-        {
-          "date": "2026-05-05",
-          "event": "Mindgard Researchers 'Gaslight' Claude to Elicit Forbidden Instructions; OpenAI Releases Privacy Filter Model for Token Classification; Google, Microsoft, xAI Agree to Share Early AI Models with U.S. Government"
-        },
-        {
-          "date": "2026-05-05",
-          "event": "First detected"
-        },
-        {
-          "date": "2026-05-06",
-          "event": "Anthropic Model Spec Midtraining (MSM): A Practical Solution to Alignment Faking in AI Agents; Eight AI Companies Agree to Voluntary Model Sharing with Gov"
-        },
         {
           "date": "2026-05-08",
           "event": "Anthropic Donates Petri Open-Source Alignment Testing Tool to Meridian Labs; Anthropic Launches Public Security Bug Bounty Program on HackerOne"
@@ -92,6 +48,14 @@
           "event": "YouTube Expands AI Deepfake Detection to All Adults; GPT-5.5 Gains 98% Win Rate Over Claude 4 Sonnet on Economic Value Benchmark"
         },
         {
+          "date": "2026-05-20",
+          "event": "First detected"
+        },
+        {
+          "date": "2026-05-20",
+          "event": "2026-05-20: OpenAI Adopts Google's SynthID Watermark for AI Images"
+        },
+        {
           "date": "2026-05-22",
           "event": "Mozilla Firefox 'Project Nova' Redesign Prioritizes AI Privacy Controls"
         },
@@ -102,6 +66,10 @@
         {
           "date": "2026-05-28",
           "event": "Illinois Passes America's Strongest AI Safety Bill Requiring Third-Party Audits"
+        },
+        {
+          "date": "2026-05-30",
+          "event": "Google Gemini Models Tested for 'Scheming' Tendencies by DeepMind Alignment Team"
         }
       ],
       "created": "2026-02-25"
@@ -311,20 +279,18 @@
       "id": "enterprise_ai_agent_adoption_and_product",
       "name": "Enterprise AI Agent Adoption and Product Launches",
       "related_tags": [
-        "Legacy Systems",
-        "Long-Context",
-        "Anthropic",
-        "Search",
-        "Industry Strategy",
         "Market Impact",
-        "Training",
-        "Office"
+        "Safety",
+        "Office",
+        "Agent Pipelines",
+        "Search",
+        "Anthropic",
+        "Open Source Tools",
+        "Industry Strategy"
       ],
       "trajectory": "accelerating",
-      "signal_count": 228,
+      "signal_count": 230,
       "weekly_counts": [
-        3,
-        9,
         3,
         2,
         2,
@@ -334,49 +300,11 @@
         4,
         2,
         1,
-        4
+        4,
+        1,
+        0
       ],
       "key_events": [
-        {
-          "date": "2026-05-08",
-          "event": "Perplexity Announces 'Personal Computer' Version for Mac, Deprecating Legacy App"
-        },
-        {
-          "date": "2026-05-11",
-          "event": "Enterprise Token Budgeting Emerges as Key Trend for AI Agent Deployment; OpenAI Reports 46 Million Daily Codex Installs; Agent Usage Exploding"
-        },
-        {
-          "date": "2026-05-11",
-          "event": "Codex Agents Now Automate QA Video Proof Generation for GitHub Issues"
-        },
-        {
-          "date": "2026-05-11",
-          "event": "Apple Siri Revamp May Be Overtaken by Claude Code and Codex as AI Assistants Evolve"
-        },
-        {
-          "date": "2026-05-11",
-          "event": "Scalable patterns for agentic AI workflows emerge; Google Finance AI expands to Europe"
-        },
-        {
-          "date": "2026-05-11",
-          "event": "First detected"
-        },
-        {
-          "date": "2026-05-15",
-          "event": "OpenAI Codex Goes Mobile: Full Agentic Coding from ChatGPT App; Grok Build: xAI Launches Agentic CLI for Coding and Automation; HTML-Anything: Agentic HTML Editor Goes Viral on GitHub"
-        },
-        {
-          "date": "2026-05-16",
-          "event": "Codex Mobile Launch and GPT-5.5 Performance Incident; OpenAI Reorganizes Around Unified App Strategy; Claude Opus-4-7 Tops Terminal-Bench 2.0 Leaderboard; OpenAI Brings Personal Finance Management to ChatGPT; xAI Grok Subscription Integrated with Nous Hermes Agent; Intercom/Fin Launches Agent-Managing AI Agent; OpenClaw Open Source Agent Framework Gains Traction; GPT-5.5 Gains 98% Win Rate Over Claude 4 Sonnet on Economic Value Benchmark"
-        },
-        {
-          "date": "2026-05-17",
-          "event": "Coding Agent Battle Heats Up: Codex vs Zed vs Claude Code; OpenAI Co-Founder Greg Brockman Takes Charge of Product Strategy Amid Reorganization; OpenAI Acquires Voice-Cloning Startup Weights.GG"
-        },
-        {
-          "date": "2026-05-18",
-          "event": "Codex Usage Spikes: OpenAI's Agentic Coding from Phone Sees Scale Issues; Publicis Acquires LiveRamp for $2.5B in Agentic AI Data Play"
-        },
         {
           "date": "2026-05-18",
           "event": "Google RubricEM: Meta-RL with Rubric-Guided Policy for Deep Research Agents"
@@ -402,8 +330,20 @@
           "event": "Ferrari and IBM Use AI to Create F1 Superfans: Enterprise AI Applications"
         },
         {
+          "date": "2026-05-27",
+          "event": "First detected"
+        },
+        {
           "date": "2026-05-28",
           "event": "Anthropic Launches Claude Marketplace for Third-Party Enterprise AI Tools; OpenAI Codex Enables Self-Improving Tax Agent System; Meta Launches Enterprise AI Push; Cisco and OpenAI Partner for Codex AI-Native Development"
+        },
+        {
+          "date": "2026-05-30",
+          "event": "Enterprise AI Agent Reliability Crisis: Permissions and State Management Emerge as Bottlenecks"
+        },
+        {
+          "date": "2026-05-30",
+          "event": "OpenAI Case Study: Boston Children's Hospital Uses AI to Diagnose 40+ Rare Diseases"
         }
       ],
       "created": "2026-02-25"
@@ -422,9 +362,8 @@
         "Model Efficiency"
       ],
       "trajectory": "accelerating",
-      "signal_count": 191,
+      "signal_count": 192,
       "weekly_counts": [
-        1,
         4,
         3,
         0,
@@ -435,6 +374,7 @@
         4,
         1,
         2,
+        1,
         1
       ],
       "key_events": [
@@ -485,6 +425,10 @@
         {
           "date": "2026-05-28",
           "event": "NVIDIA AI Lab Open-Sources Tech for 6x Faster Video Generation on Single Blackwell GPU"
+        },
+        {
+          "date": "2026-05-30",
+          "event": "Pinterest Achieves 90% AI Cost Reduction by Modifying Frontier Model Architecture"
         }
       ],
       "created": "2026-02-25"
@@ -574,17 +518,17 @@
       "id": "autonomous_ai_agent_development_ecosyste",
       "name": "Autonomous AI Agent Development Ecosystem Growth",
       "related_tags": [
-        "Computer Use",
         "Agent Framework",
-        "Agentic AI",
-        "Frontier AI",
         "Voice AI",
-        "Open Source",
+        "Memory Systems",
+        "Frontier AI",
+        "Video Generation",
         "HITL",
-        "Video Generation"
+        "Privacy",
+        "Local AI"
       ],
       "trajectory": "accelerating",
-      "signal_count": 246,
+      "signal_count": 247,
       "weekly_counts": [
         2,
         4,
@@ -600,42 +544,6 @@
         4
       ],
       "key_events": [
-        {
-          "date": "2026-05-06",
-          "event": "OpenAI Releases Updated Agents SDK in TypeScript with Sandbox Harness"
-        },
-        {
-          "date": "2026-05-07",
-          "event": "Google Shuts Down Project Mariner: Experimental Web Agent Feature Discontinued"
-        },
-        {
-          "date": "2026-05-08",
-          "event": "Anthropic Introduces 'Dreaming': AI Agents That Learn from Mistakes on Claude Managed Agents; Sakana AI Trains 7B Model as RL Conductor to Orchestrate GPT-5, Claude Sonnet 4, Gemini 2.5 Pro"
-        },
-        {
-          "date": "2026-05-11",
-          "event": "Peekaboo 3.0 Launches Action-First macOS Computer Use Agent; OpenAI Reports 46 Million Daily Codex Installs; Agent Usage Exploding"
-        },
-        {
-          "date": "2026-05-11",
-          "event": "Apple Proposes Real-Time Tool-Call Supervision to Prevent Agent Errors Before Execution"
-        },
-        {
-          "date": "2026-05-11",
-          "event": "Signals: Finding Most Informative Agent Traces Without LLM Judges; OpenSquilla token-efficient agent released; Agyn.io enterprise agent platform launched"
-        },
-        {
-          "date": "2026-05-12",
-          "event": "CMU Professor Proposes Recursive Agent Optimization for Agent Delegation Training"
-        },
-        {
-          "date": "2026-05-12",
-          "event": "First detected"
-        },
-        {
-          "date": "2026-05-13",
-          "event": "Google Gemini Intelligent Mouse Pointer Agent Prototype; Google RubricEM: Meta-RL for Deep Research Agents; OpenAI Codex Computer Use Agent: Cross-App Background Operation; Claude Code Acquires Agent View with Parallel Agent Management"
-        },
         {
           "date": "2026-05-16",
           "event": "OpenClaw Open Source Agent Framework Gains Traction; Intercom/Fin Launches Agent-Managing AI Agent; xAI Grok Subscription Integrated with Nous Hermes Agent"
@@ -671,6 +579,10 @@
         {
           "date": "2026-05-27",
           "event": "Control-Layer: Production-Grade LLM Guardrails with Schema Enforcement and Circuit Breaking"
+        },
+        {
+          "date": "2026-05-27",
+          "event": "First detected"
         }
       ],
       "created": "2026-02-25"
@@ -689,9 +601,8 @@
         "Nvidia"
       ],
       "trajectory": "accelerating",
-      "signal_count": 162,
+      "signal_count": 165,
       "weekly_counts": [
-        2,
         1,
         1,
         1,
@@ -702,7 +613,8 @@
         3,
         3,
         1,
-        1
+        1,
+        3
       ],
       "key_events": [
         {
@@ -772,6 +684,10 @@
         {
           "date": "2026-05-28",
           "event": "Perplexity CEO Open-Sources Production-Ready Tokenizer"
+        },
+        {
+          "date": "2026-05-30",
+          "event": "vLLM v0.22.0 Released: Major Hardening for DeepSeek V4 and New R1/HaiDrive Backend"
         }
       ],
       "created": "2026-02-25"
@@ -792,18 +708,18 @@
       "trajectory": "accelerating",
       "signal_count": 92,
       "weekly_counts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
         2,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        2
+        0
       ],
       "key_events": [
         {
@@ -875,9 +791,8 @@
         "AI Adoption"
       ],
       "trajectory": "accelerating",
-      "signal_count": 74,
+      "signal_count": 75,
       "weekly_counts": [
-        1,
         0,
         2,
         1,
@@ -888,7 +803,8 @@
         2,
         1,
         1,
-        2
+        2,
+        1
       ],
       "key_events": [
         {
@@ -986,7 +902,6 @@
       "trajectory": "accelerating",
       "signal_count": 117,
       "weekly_counts": [
-        2,
         1,
         2,
         0,
@@ -997,7 +912,8 @@
         3,
         3,
         2,
-        3
+        3,
+        0
       ],
       "key_events": [
         {
@@ -1043,6 +959,10 @@
         {
           "date": "2026-05-22",
           "event": "Alibaba MIGA: Training-Free Long Video Generation Enhancing Temporal Consistency"
+        },
+        {
+          "date": "2026-05-30",
+          "event": "Amazon to Produce AI-Animated 'Good Advice Cupcake' TV Show; Original Creator Furious"
         }
       ],
       "created": "2026-02-26"
@@ -1137,34 +1057,6 @@
       "created": "2026-02-28"
     },
     {
-      "id": "ai-generated_content_watermarking_and_pr",
-      "name": "AI-Generated Content Watermarking and Provenance Standards",
-      "related_tags": [
-        "Content Safety",
-        "AI Governance",
-        "Regulation",
-        "Industry Cooperation",
-        "Authentication"
-      ],
-      "trajectory": "accelerating",
-      "signal_count": 2,
-      "weekly_counts": [
-        1,
-        1
-      ],
-      "key_events": [
-        {
-          "date": "2026-05-20",
-          "event": "First detected"
-        },
-        {
-          "date": "2026-05-20",
-          "event": "2026-05-20: OpenAI Adopts Google's SynthID Watermark for AI Images"
-        }
-      ],
-      "created": "2026-05-20"
-    },
-    {
       "id": "on-device_ai_and_edge_computing_accelera",
       "name": "On-Device AI and Edge Computing Acceleration",
       "related_tags": [
@@ -1175,27 +1067,32 @@
         "AI Chips"
       ],
       "trajectory": "accelerating",
-      "signal_count": 1,
+      "signal_count": 3,
       "weekly_counts": [
-        1
+        1,
+        2
       ],
       "key_events": [
         {
           "date": "2026-05-22",
           "event": "First detected"
+        },
+        {
+          "date": "2026-05-30",
+          "event": "NVIDIA, Microsoft, Arm Tease New N1X Arm Laptop Processors at Computex"
         }
       ],
       "created": "2026-05-22"
     },
     {
-      "id": "ai_agent_memory_and_context_architecture",
-      "name": "AI Agent Memory and Context Architecture Innovation",
+      "id": "ai_wearables_and_new_interaction_form_fa",
+      "name": "AI Wearables and New Interaction Form Factors",
       "related_tags": [
-        "Agent Frameworks",
-        "Memory Systems",
-        "Context Management",
-        "Local AI",
-        "Privacy"
+        "Wearables",
+        "Hardware AI",
+        "Consumer Electronics",
+        "Interaction Design",
+        "Data Privacy"
       ],
       "trajectory": "accelerating",
       "signal_count": 1,
@@ -1204,20 +1101,21 @@
       ],
       "key_events": [
         {
-          "date": "2026-05-27",
+          "date": "2026-05-30",
           "event": "First detected"
         }
       ],
-      "created": "2026-05-27"
+      "created": "2026-05-30"
     },
     {
-      "id": "ai_workflow_orchestration_and_llm_guardr",
-      "name": "AI Workflow Orchestration and LLM Guardrails",
+      "id": "ai_custom_silicon_and_proprietary_chip_d",
+      "name": "AI Custom Silicon and Proprietary Chip Development",
       "related_tags": [
-        "Agent Pipelines",
-        "Safety",
-        "Open Source Tools",
-        "Developer Experience"
+        "Custom Silicon",
+        "AI Hardware",
+        "Chip Architecture",
+        "Infrastructure",
+        "Strategy"
       ],
       "trajectory": "accelerating",
       "signal_count": 1,
@@ -1226,11 +1124,11 @@
       ],
       "key_events": [
         {
-          "date": "2026-05-27",
+          "date": "2026-05-30",
           "event": "First detected"
         }
       ],
-      "created": "2026-05-27"
+      "created": "2026-05-30"
     }
   ]
 }
