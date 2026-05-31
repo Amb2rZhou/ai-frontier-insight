@@ -1,66 +1,6 @@
 {
   "predictions": [
     {
-      "date": "2026-05-17T10:34:02.820932+08:00",
-      "prediction_text": "平台部署团队应建立推理引擎灰度升级策略，优先验证模型兼容性与性能回退问题。",
-      "category": "infrastructure",
-      "source_signal": "vLLM v0.21.0 Released: Deprecates Transformers v4, C++20 Build Requirement"
-    },
-    {
-      "date": "2026-05-17T10:34:02.823551+08:00",
-      "prediction_text": "内容平台可探索将图像转3D功能嵌入创作工具，抢占空间内容创作者心智与早期生态。",
-      "category": "model_release",
-      "source_signal": "TencentARC Pixal3D: Image-to-3D Model from Tencent AI Lab"
-    },
-    {
-      "date": "2026-05-18T11:11:32.983042+08:00",
-      "prediction_text": "内容/电商平台可探索将Realiz3D类技术集成至商品3D展示和虚拟试穿工具，降低商家3D建模成本。",
-      "category": "research_breakthrough",
-      "source_signal": "Meta AI Releases Realiz3D: Photorealistic 3D Generation via Domain-Aware Learning"
-    },
-    {
-      "date": "2026-05-18T11:11:32.993028+08:00",
-      "prediction_text": "搜索推荐团队可关注MemLens评估方法，自建多模态长记忆基准，避免在复杂兴趣建模上过早乐观。",
-      "category": "research_breakthrough",
-      "source_signal": "NVIDIA MemLens: Benchmarking Multimodal Long-Term Memory in Vision-Language Models"
-    },
-    {
-      "date": "2026-05-18T11:11:32.998416+08:00",
-      "prediction_text": "内容平台创作工具可评估SANA-WM直接集成至移动端，探索即拍即得式视频特效与镜头控制。",
-      "category": "model_release",
-      "source_signal": "NVIDIA SANA-WM: Efficient Minute-Scale World Model with Hybrid Linear Diffusion Transformer"
-    },
-    {
-      "date": "2026-05-18T11:11:33.002815+08:00",
-      "prediction_text": "社区/内容平台可探索将Causal Forcing++集成至直播或短视频拍摄工具，实现逐帧实时特效叠加。",
-      "category": "research_breakthrough",
-      "source_signal": "Tsinghua Causal Forcing++: Real-Time Interactive Video Generation via Diffusion Distillation"
-    },
-    {
-      "date": "2026-05-18T11:11:33.006554+08:00",
-      "prediction_text": "内容平台可评估Qwen3.6系列用于搜索增强、评论理解等中文场景，减少对海外模型的API依赖。",
-      "category": "open_source",
-      "source_signal": "Qwen3.6-27B/35B Models Hit HuggingFace Trending Post-Quantization"
-    },
-    {
-      "date": "2026-05-18T11:11:33.010836+08:00",
-      "prediction_text": "AR/电商平台可探索将VGGT-Edit集成至虚拟试妆/家居工具，支持用户以文本指令微调3D场景。",
-      "category": "research_breakthrough",
-      "source_signal": "Peking University VGGT-Edit: Feed-Forward Native 3D Scene Editing with Text"
-    },
-    {
-      "date": "2026-05-18T11:11:33.014028+08:00",
-      "prediction_text": "电商/社区平台应重新评估自有用户数据资产价值，提前布局Agent所需的第一方数据生态闭环。",
-      "category": "strategic_move",
-      "source_signal": "Publicis Acquires LiveRamp for $2.5B in Agentic AI Data Play"
-    },
-    {
-      "date": "2026-05-18T11:11:33.017089+08:00",
-      "prediction_text": "内容平台图文生成工具可评估InsightTok，针对性优化文字渲染与虚拟人物面部生成质量。",
-      "category": "research_breakthrough",
-      "source_signal": "Tsinghua-LeapLab InsightTok: Improved Visual Tokenization for Autoregressive Image Generation"
-    },
-    {
       "date": "2026-05-18T11:11:33.019897+08:00",
       "prediction_text": "平台在部署AI Agent（如创作/客服助手）时，应前置容量规划与限流回退机制，避免服务中断。",
       "category": "infrastructure",
@@ -599,6 +539,66 @@
       "prediction_text": "内容数据策略团队应警惕“以服务换数据”的商业模式，并提前制定AI训练数据采集的透明化协议与用户授权机制。",
       "category": "data_strategy",
       "source_signal": "AI Pendant as New Wearable Form Factor: Startups Offer Free House Cleaning for AI Training Data"
+    },
+    {
+      "date": "2026-05-31T11:40:27.121440+08:00",
+      "prediction_text": "内容/电商平台可以考虑将AI战略重心从自研模型转向模型调度与业务场景的深度集成。",
+      "category": "infrastructure",
+      "source_signal": "SoftBank Announces €75 Billion AI Data Center Investment in France"
+    },
+    {
+      "date": "2026-05-31T11:40:27.130216+08:00",
+      "prediction_text": "电商/社区平台的AI客服、AI运营Agent值得引入专业的销售导向产品经理，推动B端付费转化。",
+      "category": "strategic_move",
+      "source_signal": "OpenAI's Revenue Chief Drives Enterprise Push Against Anthropic"
+    },
+    {
+      "date": "2026-05-31T11:40:27.136444+08:00",
+      "prediction_text": "创作者工具团队可以考虑为用户提供AI生成内容的用量预估与分层定价，避免定价争议。",
+      "category": "ecosystem_shift",
+      "source_signal": "GitHub Copilot Introduces Token-Based Billing, Spurring Developer Backlash"
+    },
+    {
+      "date": "2026-05-31T11:40:27.141720+08:00",
+      "prediction_text": "社区/内容平台建议探索将部分内容理解、图像标签模型迁移至用户端运行，降低中心推理成本。",
+      "category": "research_breakthrough",
+      "source_signal": "Rotary GPU: A New Architecture for Running Large MoE Models Locally with Limited VRAM"
+    },
+    {
+      "date": "2026-05-31T11:40:27.146729+08:00",
+      "prediction_text": "电商平台可以考虑组建专门的AI商业化团队，复制OpenAI式的To B客户触达策略。",
+      "category": "strategic_move",
+      "source_signal": "Defense Tech Sector Matures: OpenAI vs Anthropic in Enterprise AI Sales War"
+    },
+    {
+      "date": "2026-05-31T11:40:27.150591+08:00",
+      "prediction_text": "内容平台建议提前评估AV2兼容性，在UGC视频上传转码管线中预留编码升级通道。",
+      "category": "infrastructure",
+      "source_signal": "AV2 Video Standard v1.0 Final Specification Released"
+    },
+    {
+      "date": "2026-05-31T11:40:27.153787+08:00",
+      "prediction_text": "内容平台的创意工具Agent（如图像描述生成、文案迭代）建议引入思维树策略提升输出多样性。",
+      "category": "research_breakthrough",
+      "source_signal": "ADHD: Tree-of-Thought Coding Agent for Claude & Codex Gains Traction"
+    },
+    {
+      "date": "2026-05-31T11:40:27.156846+08:00",
+      "prediction_text": "社区平台的AI助手/客服Agent值得关注上下文持久化方案，防止长会话中遗忘用户偏好。",
+      "category": "infrastructure",
+      "source_signal": "Vibecode Pro Max Kit: Addresses AI Agent ‘Context Rot’ with Spec-Driven Memory"
+    },
+    {
+      "date": "2026-05-31T11:40:27.159920+08:00",
+      "prediction_text": "内容审核、商品比价等场景可以考虑构建审核Agent与生成Agent的对抗校验机制。",
+      "category": "open_source",
+      "source_signal": "Duel Agents: New Framework for Multi-Agent Competition and Collaboration"
+    },
+    {
+      "date": "2026-05-31T11:40:27.162634+08:00",
+      "prediction_text": "社区平台建议建立“人才流向+新兴社交产品”监控机制，提前捕捉AI+社交范式迁移信号。",
+      "category": "ecosystem_shift",
+      "source_signal": "Snap Alumni Launch ‘Ghost Angels’ Fund to Back Next-Gen Social Media"
     }
   ]
 }

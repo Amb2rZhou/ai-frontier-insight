@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-30T14:19:42.936435+08:00",
+  "last_updated": "2026-05-31T11:40:37.124162+08:00",
   "trends": [
     {
       "id": "ai_safety_pivot_and_accelerated_agi_time",
@@ -17,7 +17,6 @@
       "trajectory": "accelerating",
       "signal_count": 116,
       "weekly_counts": [
-        2,
         0,
         2,
         1,
@@ -28,7 +27,8 @@
         1,
         3,
         1,
-        1
+        1,
+        0
       ],
       "key_events": [
         {
@@ -94,14 +94,14 @@
         1,
         1,
         1,
-        1,
         3,
         2,
         0,
         2,
         1,
         2,
-        1
+        1,
+        0
       ],
       "key_events": [
         {
@@ -289,9 +289,8 @@
         "Industry Strategy"
       ],
       "trajectory": "accelerating",
-      "signal_count": 230,
+      "signal_count": 233,
       "weekly_counts": [
-        3,
         2,
         2,
         0,
@@ -302,7 +301,8 @@
         1,
         4,
         1,
-        0
+        0,
+        3
       ],
       "key_events": [
         {
@@ -344,6 +344,10 @@
         {
           "date": "2026-05-30",
           "event": "OpenAI Case Study: Boston Children's Hospital Uses AI to Diagnose 40+ Rare Diseases"
+        },
+        {
+          "date": "2026-05-31",
+          "event": "OpenAI's Revenue Chief Drives Enterprise Push Against Anthropic; Defense Tech Sector Matures: OpenAI vs Anthropic in Enterprise AI Sales War"
         }
       ],
       "created": "2026-02-25"
@@ -364,7 +368,6 @@
       "trajectory": "accelerating",
       "signal_count": 192,
       "weekly_counts": [
-        4,
         3,
         0,
         2,
@@ -375,7 +378,8 @@
         1,
         2,
         1,
-        1
+        1,
+        0
       ],
       "key_events": [
         {
@@ -447,9 +451,8 @@
         "Employee Activism"
       ],
       "trajectory": "accelerating",
-      "signal_count": 49,
+      "signal_count": 50,
       "weekly_counts": [
-        0,
         0,
         0,
         0,
@@ -460,7 +463,8 @@
         0,
         0,
         1,
-        2
+        2,
+        1
       ],
       "key_events": [
         {
@@ -510,6 +514,10 @@
         {
           "date": "2026-05-22",
           "event": "Intuit to Lay Off Over 3,000 Employees to Refocus on AI; Anthropic Anticipates First Profitable Quarter, Revenue Set to Double"
+        },
+        {
+          "date": "2026-05-31",
+          "event": "Snap Alumni Launch ‘Ghost Angels’ Fund to Back Next-Gen Social Media"
         }
       ],
       "created": "2026-02-25"
@@ -528,9 +536,8 @@
         "Local AI"
       ],
       "trajectory": "accelerating",
-      "signal_count": 247,
+      "signal_count": 250,
       "weekly_counts": [
-        2,
         4,
         1,
         8,
@@ -541,7 +548,8 @@
         1,
         2,
         2,
-        4
+        4,
+        3
       ],
       "key_events": [
         {
@@ -583,6 +591,10 @@
         {
           "date": "2026-05-27",
           "event": "First detected"
+        },
+        {
+          "date": "2026-05-31",
+          "event": "ADHD: Tree-of-Thought Coding Agent for Claude & Codex Gains Traction; Vibecode Pro Max Kit: Addresses AI Agent ‘Context Rot’ with Spec-Driven Memory; Duel Agents: New Framework for Multi-Agent Competition and Collaboration"
         }
       ],
       "created": "2026-02-25"
@@ -591,19 +603,18 @@
       "id": "ai_infrastructure_optimization_and_open_",
       "name": "AI Infrastructure Optimization and Open Source Tools",
       "related_tags": [
-        "Startups",
-        "Embodied AI",
-        "Open Source",
-        "Policy",
-        "NVIDIA",
         "Performance",
+        "Open Source",
+        "On-Device",
+        "Embodied AI",
+        "NVIDIA",
         "Inference",
-        "Nvidia"
+        "Policy",
+        "Hardware AI"
       ],
       "trajectory": "accelerating",
-      "signal_count": 165,
+      "signal_count": 171,
       "weekly_counts": [
-        1,
         1,
         1,
         2,
@@ -614,53 +625,10 @@
         3,
         1,
         1,
+        3,
         3
       ],
       "key_events": [
-        {
-          "date": "2026-05-11",
-          "event": "Scalable: AI Margin Math Gets Messier for Major Tech Companies"
-        },
-        {
-          "date": "2026-05-11",
-          "event": "Cerebras AI Chip IPO Tests Public Market Appetite at $35B Valuation"
-        },
-        {
-          "date": "2026-05-13",
-          "event": "xAI Colossus 2 Expands Gas Turbine Power Despite Lawsuit"
-        },
-        {
-          "date": "2026-05-15",
-          "event": "Google AI Edge + Arm SME2 Achieves 2x Faster On-Device Audio Generation; HuggingFace Crosses 1 Million Datasets Milestone"
-        },
-        {
-          "date": "2026-05-15",
-          "event": "Cerebras IPO Surges to $100B Market Cap: AI Chipmaker Redefines Inference Infrastructure; NVIDIA: Edge is Becoming Agent Host - NemoClaw and Jetson Strategy"
-        },
-        {
-          "date": "2026-05-16",
-          "event": "ExecuTorch Wins Best Industry Paper at MLSys 2026"
-        },
-        {
-          "date": "2026-05-17",
-          "event": "vLLM v0.21.0 Released: Deprecates Transformers v4, C++20 Build Requirement"
-        },
-        {
-          "date": "2026-05-18",
-          "event": "Codex Usage Spikes: Scale Issues Highlight Infrastructure Challenges"
-        },
-        {
-          "date": "2026-05-18",
-          "event": "MinT: Managed Infrastructure for Training & Serving Millions of LLMs via Low-Rank Adapters"
-        },
-        {
-          "date": "2026-05-18",
-          "event": "NVIDIA MemLens: Benchmarking Multimodal Long-Term Memory in Vision-Language Models; NVIDIA SANA-WM: Efficient Minute-Scale World Model with Hybrid Linear Diffusion Transformer"
-        },
-        {
-          "date": "2026-05-19",
-          "event": "Google and Blackstone Launch TPU Cloud Provider"
-        },
         {
           "date": "2026-05-19",
           "event": "LangSmith Engine Launches Automated Agent Debugging Loop"
@@ -682,12 +650,24 @@
           "event": "HuggingFace Transformers v5.9.0 Adds Cohere2Moe Model Support"
         },
         {
+          "date": "2026-05-22",
+          "event": "First detected"
+        },
+        {
           "date": "2026-05-28",
           "event": "Perplexity CEO Open-Sources Production-Ready Tokenizer"
         },
         {
           "date": "2026-05-30",
           "event": "vLLM v0.22.0 Released: Major Hardening for DeepSeek V4 and New R1/HaiDrive Backend"
+        },
+        {
+          "date": "2026-05-30",
+          "event": "NVIDIA, Microsoft, Arm Tease New N1X Arm Laptop Processors at Computex"
+        },
+        {
+          "date": "2026-05-31",
+          "event": "SoftBank Announces €75 Billion AI Data Center Investment in France; Rotary GPU: A New Architecture for Running Large MoE Models Locally with Limited VRAM; AV2 Video Standard v1.0 Final Specification Released"
         }
       ],
       "created": "2026-02-25"
@@ -717,8 +697,8 @@
         1,
         1,
         1,
-        1,
         2,
+        0,
         0
       ],
       "key_events": [
@@ -793,7 +773,6 @@
       "trajectory": "accelerating",
       "signal_count": 75,
       "weekly_counts": [
-        0,
         2,
         1,
         0,
@@ -804,7 +783,8 @@
         1,
         1,
         2,
-        1
+        1,
+        0
       ],
       "key_events": [
         {
@@ -902,7 +882,6 @@
       "trajectory": "accelerating",
       "signal_count": 117,
       "weekly_counts": [
-        1,
         2,
         0,
         1,
@@ -913,6 +892,7 @@
         3,
         2,
         3,
+        0,
         0
       ],
       "key_events": [
@@ -985,7 +965,6 @@
       "weekly_counts": [
         0,
         0,
-        0,
         1,
         0,
         1,
@@ -994,7 +973,8 @@
         2,
         0,
         0,
-        2
+        2,
+        0
       ],
       "key_events": [
         {
@@ -1057,72 +1037,29 @@
       "created": "2026-02-28"
     },
     {
-      "id": "on-device_ai_and_edge_computing_accelera",
-      "name": "On-Device AI and Edge Computing Acceleration",
-      "related_tags": [
-        "Edge AI",
-        "On-Device",
-        "Hardware AI",
-        "Consumer Electronics",
-        "AI Chips"
-      ],
-      "trajectory": "accelerating",
-      "signal_count": 3,
-      "weekly_counts": [
-        1,
-        2
-      ],
-      "key_events": [
-        {
-          "date": "2026-05-22",
-          "event": "First detected"
-        },
-        {
-          "date": "2026-05-30",
-          "event": "NVIDIA, Microsoft, Arm Tease New N1X Arm Laptop Processors at Computex"
-        }
-      ],
-      "created": "2026-05-22"
-    },
-    {
-      "id": "ai_wearables_and_new_interaction_form_fa",
-      "name": "AI Wearables and New Interaction Form Factors",
-      "related_tags": [
-        "Wearables",
-        "Hardware AI",
-        "Consumer Electronics",
-        "Interaction Design",
-        "Data Privacy"
-      ],
-      "trajectory": "accelerating",
-      "signal_count": 1,
-      "weekly_counts": [
-        1
-      ],
-      "key_events": [
-        {
-          "date": "2026-05-30",
-          "event": "First detected"
-        }
-      ],
-      "created": "2026-05-30"
-    },
-    {
       "id": "ai_custom_silicon_and_proprietary_chip_d",
       "name": "AI Custom Silicon and Proprietary Chip Development",
       "related_tags": [
-        "Custom Silicon",
-        "AI Hardware",
         "Chip Architecture",
-        "Infrastructure",
-        "Strategy"
+        "Strategy",
+        "Wearables",
+        "Custom Silicon",
+        "Hardware AI",
+        "AI Hardware",
+        "Consumer Electronics",
+        "Interaction Design"
       ],
       "trajectory": "accelerating",
-      "signal_count": 1,
+      "signal_count": 2,
       "weekly_counts": [
-        1
+        1,
+        0
       ],
       "key_events": [
+        {
+          "date": "2026-05-30",
+          "event": "First detected"
+        },
         {
           "date": "2026-05-30",
           "event": "First detected"

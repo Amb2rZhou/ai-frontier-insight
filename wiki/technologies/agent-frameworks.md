@@ -2,7 +2,7 @@
 title: Agent Frameworks
 type: technology
 created: 2026-02-25
-updated: 2026-05-30
+updated: 2026-05-31
 ---
 
 # Agent Frameworks
@@ -11,6 +11,9 @@ The rapidly evolving ecosystem of tools, SDKs, and platforms for building autono
 
 ## Timeline
 
+- **2026-05-31**: Duel Agents: New Framework for [[multi-agent-systems|Multi-Agent]] Competition and Collaboration
+- **2026-05-31**: Vibecode Pro Max Kit: Addresses AI Agent ‘Context Rot’ with Spec-Driven Memory
+- **2026-05-31**: ADHD: Tree-of-Thought Coding Agent for [[claude|Claude]] & [[codex|Codex]] Gains Traction
 - **2026-05-30**: Enterprise AI Agent Reliability Crisis: Permissions and State Management Emerge as Bottlenecks
 - **2026-05-30**: Google [[gemini|Gemini]] Models Tested for 'Scheming' Tendencies by [[google-deepmind|DeepMind]] Alignment Team
 - **2026-05-28**: Cisco and [[openai|OpenAI]] Partner to Redefine Enterprise Engineering with [[codex|Codex]] AI-Native Development

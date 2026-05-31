@@ -2,7 +2,7 @@
 title: Anthropic
 type: company
 created: 2026-02-25
-updated: 2026-05-28
+updated: 2026-05-31
 ---
 
 # Anthropic
@@ -11,6 +11,9 @@ updated: 2026-05-28
 
 ## Timeline
 
+- **2026-05-31**: Duel Agents: New Framework for [[multi-agent-systems|Multi-Agent]] Competition and Collaboration
+- **2026-05-31**: Defense Tech Sector Matures: [[openai|OpenAI]] vs Anthropic in Enterprise AI Sales War
+- **2026-05-31**: [[openai|OpenAI]]'s Revenue Chief Drives Enterprise Push Against Anthropic
 - **2026-05-28**: Illinois Passes America's Strongest [[ai-safety|AI Safety]] Bill Requiring Third-Party Audits
 - **2026-05-28**: a16z: [[openai|OpenAI]] and Anthropic Pivot to Massive 'Forward-Deployed' Joint Ventures, Signaling Limits of Generic AI
 - **2026-05-28**: Anthropic Launches [[claude|Claude]] Marketplace for Third-Party Enterprise AI Tools

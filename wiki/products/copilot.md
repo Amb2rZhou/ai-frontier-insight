@@ -2,7 +2,7 @@
 title: Copilot
 type: product
 created: 2026-02-27
-updated: 2026-05-01
+updated: 2026-05-31
 ---
 
 # Copilot
@@ -11,6 +11,7 @@ updated: 2026-05-01
 
 ## Timeline
 
+- **2026-05-31**: GitHub Copilot Introduces Token-Based Billing, Spurring Developer Backlash
 - **2026-05-01**: Vulnerabilities in AI Coding Agents Exploit Credentials, Not Models: [[claude|Claude Code]], Copilot, [[codex|Codex]] All Hacked
 - **2026-04-25**: [[gpt|GPT-5]].5 Launches Across [[openai|OpenAI]] API, GitHub Copilot, and [[perplexity|Perplexity]] · [OpenAI (X/Twitter)](https://x.com/OpenAI/status/2047743592278745425) · [Perplexity CEO Arav Srinivas](https://x.com/AravSrinivas/status/2047753276888854594) · [Microsoft Azure (X/Twitter)](https://x.com/Azure/status/2047752463646597261)
 - **2026-04-16**: [[microsoft|Microsoft]] Copilot Studio Patched Prompt Injection Vulnerability, But Data Still Exfiltrated · [VentureBeat](https://venturebeat.com/security/microsoft-salesforce-copilot-agentforce-prompt-injection-cve-agent-remediation-playbook)

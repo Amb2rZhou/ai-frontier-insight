@@ -2,7 +2,7 @@
 title: Open Source Models
 type: trend
 created: 2026-02-25
-updated: 2026-05-30
+updated: 2026-05-31
 ---
 
 # Open Source Models
@@ -13,6 +13,8 @@ The rapid proliferation of open-source and open-weight foundation models challen
 
 ## Timeline
 
+- **2026-05-31**: Vibecode Pro Max Kit: Addresses [[agent-frameworks|AI Agent]] ‘Context Rot’ with Spec-Driven Memory
+- **2026-05-31**: ADHD: Tree-of-Thought Coding Agent for [[claude|Claude]] & [[codex|Codex]] Gains Traction
 - **2026-05-30**: vLLM v0.22.0 Released: Major Hardening for DeepSeek V4 and New R1/HaiDrive Backend
 - **2026-05-24**: DailyBrief: Open-Source AI News Aggregator with 23 Sources and LLM Summaries
 - **2026-05-24**: Browser-Use 0.12.8 Fixes Daemon Security (Unix Socket Permissions)

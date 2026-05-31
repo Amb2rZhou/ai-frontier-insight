@@ -2,7 +2,7 @@
 title: Codex
 type: product
 created: 2026-02-25
-updated: 2026-05-28
+updated: 2026-05-31
 ---
 
 # Codex
@@ -11,6 +11,8 @@ updated: 2026-05-28
 
 ## Timeline
 
+- **2026-05-31**: Vibecode Pro Max Kit: Addresses [[agent-frameworks|AI Agent]] ‘Context Rot’ with Spec-Driven Memory
+- **2026-05-31**: ADHD: Tree-of-Thought Coding Agent for [[claude|Claude]] & Codex Gains Traction
 - **2026-05-28**: Cisco and [[openai|OpenAI]] Partner to Redefine Enterprise Engineering with Codex AI-Native Development
 - **2026-05-28**: [[openai|OpenAI]] Codex Enables Self-Improving Tax Agent System with Closed-Loop Learning
 - **2026-05-18**: Codex Usage Spikes: [[openai|OpenAI]]'s [[agent-frameworks|Agentic]] Coding from Phone Sees Scale Issues

@@ -2,7 +2,7 @@
 title: Cursor AI
 type: company
 created: 2026-03-05
-updated: 2026-05-15
+updated: 2026-05-31
 ---
 
 # Cursor AI
@@ -11,6 +11,7 @@ AI-powered code editor that became one of the fastest-growing developer tools. K
 
 ## Timeline
 
+- **2026-05-31**: Duel Agents: New Framework for [[multi-agent-systems|Multi-Agent]] Competition and Collaboration
 - **2026-05-15**: HTML-Anything: [[agent-frameworks|Agentic]] HTML Editor Goes Viral on GitHub
 - **2026-05-01**: Open-Source Open-Design Tool Emerges as [[claude|Claude]] Design Alternative (8.4k Stars)
 - **2026-04-25**: [[gpt|GPT-5]].5 Launches Across [[openai|OpenAI]] API, GitHub [[copilot|Copilot]], and [[perplexity|Perplexity]] · [OpenAI (X/Twitter)](https://x.com/OpenAI/status/2047743592278745425) · [Perplexity CEO Arav Srinivas](https://x.com/AravSrinivas/status/2047753276888854594) · [Microsoft Azure (X/Twitter)](https://x.com/Azure/status/2047752463646597261)

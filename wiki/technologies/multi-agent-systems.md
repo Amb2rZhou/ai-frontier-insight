@@ -2,7 +2,7 @@
 title: Multi-Agent Systems
 type: technology
 created: 2026-02-27
-updated: 2026-04-30
+updated: 2026-05-31
 ---
 
 # Multi-Agent Systems
@@ -11,6 +11,7 @@ Architectures where multiple AI agents collaborate, specialize, or compete to ac
 
 ## Timeline
 
+- **2026-05-31**: Duel Agents: New Framework for Multi-Agent Competition and Collaboration
 - **2026-04-30**: Co-Director: [[google-deepmind|Google]]'s Hierarchical Multi-[[agent-frameworks|Agent Framework]] for Generative Video Storytelling
 - **2026-04-30**: Stanford Proposes RecursiveMAS: Scaling Multi-Agent Systems via Recursive Computation
 - **2026-04-27**: Open Source Multi-[[agent-frameworks|Agent Framework]] 'harmonist' with 186 Agents and Zero Runtime Dependencies Reaches 696 Stars · [GitHub harmonist](https://github.com/GammaLabTechnologies/harmonist)
