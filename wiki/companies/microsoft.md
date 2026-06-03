@@ -2,7 +2,7 @@
 title: Microsoft
 type: company
 created: 2026-02-27
-updated: 2026-05-30
+updated: 2026-06-03
 ---
 
 # Microsoft
@@ -11,6 +11,9 @@ Technology giant with major AI investments through Azure, [[copilot|Copilot]], a
 
 ## Timeline
 
+- **2026-06-03**: Microsoft IQ and Rayfin: Solving Enterprise [[agent-frameworks|AI Agent]] Data Silos
+- **2026-06-03**: Microsoft Scout: AI Coworker Agent for Teams Automates Office Tasks
+- **2026-06-03**: Microsoft Launches MXC: OS-Level Sandbox for AI Agents with [[openai|OpenAI]] and [[nvidia|Nvidia]] Backing
 - **2026-05-30**: [[nvidia|NVIDIA]], Microsoft, Arm Tease New N1X Arm Laptop Processors at Computex
 - **2026-05-13**: Microsoft Research Rebellious Student: Self-Distillation for Reasoning Exploration
 - **2026-05-12**: [[openai|OpenAI]] Saves $97B in Microsoft Deal, Shifts to External Financing

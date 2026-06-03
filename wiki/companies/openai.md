@@ -2,7 +2,7 @@
 title: OpenAI
 type: company
 created: 2026-02-25
-updated: 2026-05-31
+updated: 2026-06-03
 ---
 
 # OpenAI
@@ -11,6 +11,8 @@ The leading commercial AI lab, maker of [[gpt|GPT]] models, ChatGPT, [[codex|Cod
 
 ## Timeline
 
+- **2026-06-03**: Travelers Deploys AI-Powered Claims Assistant with OpenAI for Customer Support
+- **2026-06-03**: [[microsoft|Microsoft]] Launches MXC: OS-Level Sandbox for AI Agents with OpenAI and [[nvidia|Nvidia]] Backing
 - **2026-05-31**: Defense Tech Sector Matures: OpenAI vs [[anthropic|Anthropic]] in Enterprise AI Sales War
 - **2026-05-31**: OpenAI's Revenue Chief Drives Enterprise Push Against [[anthropic|Anthropic]]
 - **2026-05-30**: OpenAI Case Study: Boston Children's Hospital Uses AI to Diagnose 40+ Rare Diseases

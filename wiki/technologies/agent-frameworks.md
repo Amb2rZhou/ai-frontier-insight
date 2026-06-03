@@ -2,7 +2,7 @@
 title: Agent Frameworks
 type: technology
 created: 2026-02-25
-updated: 2026-05-31
+updated: 2026-06-03
 ---
 
 # Agent Frameworks
@@ -11,6 +11,10 @@ The rapidly evolving ecosystem of tools, SDKs, and platforms for building autono
 
 ## Timeline
 
+- **2026-06-03**: Travelers Deploys AI-Powered Claims Assistant with [[openai|OpenAI]] for Customer Support
+- **2026-06-03**: [[microsoft|Microsoft]] IQ and Rayfin: Solving Enterprise AI Agent Data Silos
+- **2026-06-03**: [[microsoft|Microsoft]] Scout: AI Coworker Agent for Teams Automates Office Tasks
+- **2026-06-03**: [[microsoft|Microsoft]] Launches MXC: OS-Level Sandbox for AI Agents with [[openai|OpenAI]] and [[nvidia|Nvidia]] Backing
 - **2026-05-31**: Duel Agents: New Framework for [[multi-agent-systems|Multi-Agent]] Competition and Collaboration
 - **2026-05-31**: Vibecode Pro Max Kit: Addresses AI Agent ‘Context Rot’ with Spec-Driven Memory
 - **2026-05-31**: ADHD: Tree-of-Thought Coding Agent for [[claude|Claude]] & [[codex|Codex]] Gains Traction

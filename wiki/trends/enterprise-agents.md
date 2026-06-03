@@ -2,7 +2,7 @@
 title: Enterprise Agents
 type: trend
 created: 2026-04-03
-updated: 2026-04-23
+updated: 2026-06-03
 ---
 
 # Enterprise Agents
@@ -13,6 +13,7 @@ The wave of enterprise [[agent-frameworks|AI agent]] product launches and adopti
 
 ## Timeline
 
+- **2026-06-03**: Enterprise AI Has a Runtime Problem, Not a Model Problem: VentureBeat Pulse Research
 - **2026-04-23**: [[openai|OpenAI]] Launches Workspace Agents for Enterprise Automation · [VentureBeat](https://venturebeat.com/orchestration/openai-unveils-workspace-agents-a-successor-to-custom-gpts-for-enterprises-that-can-plug-directly-into-slack-salesforce-and-more) · [OpenAI Blog](https://openai.com/index/introducing-workspace-agents-in-chatgpt)
 - **2026-04-23**: [[google-deepmind|Google]] and AWS Split [[agent-frameworks|AI Agent]] Stack Between Control and Execution · [VentureBeat](https://venturebeat.com/orchestration/google-and-aws-split-the-ai-agent-stack-between-control-and-execution)
 - **2026-04-22**: [[nvidia|NVIDIA]] and Adobe Showcase [[agent-frameworks|Agentic]] Workflows for Enterprise Content Creation · [@nvidia](https://x.com/nvidia/status/2046649391428345972)

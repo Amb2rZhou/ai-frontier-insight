@@ -2,7 +2,7 @@
 title: Claude
 type: product
 created: 2026-02-25
-updated: 2026-05-31
+updated: 2026-06-03
 ---
 
 # Claude
@@ -11,6 +11,7 @@ updated: 2026-05-31
 
 ## Timeline
 
+- **2026-06-03**: [[anthropic|Anthropic]] Expands Glasswing Cybersecurity Project to 150 New Organizations
 - **2026-05-31**: Duel Agents: New Framework for [[multi-agent-systems|Multi-Agent]] Competition and Collaboration
 - **2026-05-31**: Vibecode Pro Max Kit: Addresses [[agent-frameworks|AI Agent]] ‘Context Rot’ with Spec-Driven Memory
 - **2026-05-31**: ADHD: Tree-of-Thought Coding Agent for Claude & [[codex|Codex]] Gains Traction

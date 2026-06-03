@@ -2,7 +2,7 @@
 title: Anthropic
 type: company
 created: 2026-02-25
-updated: 2026-05-31
+updated: 2026-06-03
 ---
 
 # Anthropic
@@ -11,6 +11,7 @@ updated: 2026-05-31
 
 ## Timeline
 
+- **2026-06-03**: Anthropic Expands Glasswing Cybersecurity Project to 150 New Organizations
 - **2026-05-31**: Duel Agents: New Framework for [[multi-agent-systems|Multi-Agent]] Competition and Collaboration
 - **2026-05-31**: Defense Tech Sector Matures: [[openai|OpenAI]] vs Anthropic in Enterprise AI Sales War
 - **2026-05-31**: [[openai|OpenAI]]'s Revenue Chief Drives Enterprise Push Against Anthropic
