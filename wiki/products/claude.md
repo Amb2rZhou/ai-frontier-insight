@@ -2,7 +2,7 @@
 title: Claude
 type: product
 created: 2026-02-25
-updated: 2026-06-03
+updated: 2026-06-04
 ---
 
 # Claude
@@ -11,6 +11,8 @@ updated: 2026-06-03
 
 ## Timeline
 
+- **2026-06-04**: Lovable Signs Multi-Year Deal with [[google-deepmind|Google]] Cloud to 5x Infrastructure Usage and Expand Claude Access
+- **2026-06-04**: [[anthropic|Anthropic]] Publishes Detailed Engineering Breakdown of How It Contains Claude Across Products
 - **2026-06-03**: [[anthropic|Anthropic]] Expands Glasswing Cybersecurity Project to 150 New Organizations
 - **2026-05-31**: Duel Agents: New Framework for [[multi-agent-systems|Multi-Agent]] Competition and Collaboration
 - **2026-05-31**: Vibecode Pro Max Kit: Addresses [[agent-frameworks|AI Agent]] ‘Context Rot’ with Spec-Driven Memory

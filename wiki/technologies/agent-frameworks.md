@@ -2,7 +2,7 @@
 title: Agent Frameworks
 type: technology
 created: 2026-02-25
-updated: 2026-06-03
+updated: 2026-06-04
 ---
 
 # Agent Frameworks
@@ -11,6 +11,8 @@ The rapidly evolving ecosystem of tools, SDKs, and platforms for building autono
 
 ## Timeline
 
+- **2026-06-04**: Vigils: Open-Source Local Control Plane for AI Agent Security and Audit
+- **2026-06-04**: [[meta|Meta]] Eyes Up to $200/Month Subscription for Consumer 'Hatch' AI Agent
 - **2026-06-03**: Travelers Deploys AI-Powered Claims Assistant with [[openai|OpenAI]] for Customer Support
 - **2026-06-03**: [[microsoft|Microsoft]] IQ and Rayfin: Solving Enterprise AI Agent Data Silos
 - **2026-06-03**: [[microsoft|Microsoft]] Scout: AI Coworker Agent for Teams Automates Office Tasks

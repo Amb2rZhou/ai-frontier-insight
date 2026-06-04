@@ -2,7 +2,7 @@
 title: OpenClaw
 type: product
 created: 2026-02-25
-updated: 2026-06-03
+updated: 2026-06-04
 ---
 
 # OpenClaw
@@ -11,6 +11,7 @@ Popular [[open-source-models|open-source]] AI [[agent-frameworks|agent framework
 
 ## Timeline
 
+- **2026-06-04**: [[meta|Meta]] Eyes Up to $200/Month Subscription for Consumer 'Hatch' [[agent-frameworks|AI Agent]]
 - **2026-06-03**: [[microsoft|Microsoft]] Scout: AI Coworker Agent for Teams Automates Office Tasks
 - **2026-05-20**: OpenClaw Integrates with X (Twitter), Enabling [[grok|Grok]] Models on Personal Hardware
 - **2026-05-17**: OpenClaw Lossless Compaction Empowers Infinite Context Window

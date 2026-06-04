@@ -203,6 +203,202 @@
           30
         ]
       }
+    ],
+    "2026-06-04": [
+      {
+        "title": "Apple to Launch Overhauled Siri in September Powered by Google Cloud and Nvidia Chips",
+        "signal_text": "据 The Information 报道，Apple 计划于 9 月推出全面改版的 Siri，部分推理将运行在 Google Cloud 的 Nvidia 芯片上。Apple 正尝试在 iPhone 端侧尽可能多地运行新 Siri，但部分复杂任务将依赖云端。此消息同时来自多位知情人士，标志着 Apple 在 AI 战略上的关键赌注",
+        "signal_strength": 0.92,
+        "sources": [
+          {
+            "name": "The Information",
+            "url": "https://www.theinformation.com/briefings/apple-launch-new-siri-september-help-google-nvidia"
+          }
+        ],
+        "tags": [
+          "战略动作",
+          "AI 助手",
+          "端侧部署",
+          "头部公司"
+        ],
+        "raw_item_indices": [
+          13
+        ]
+      },
+      {
+        "title": "Google Releases Gemma 4 12B: Fully Local Multimodal Model for Audio, Video, and Text on 16GB Laptops",
+        "signal_text": "Google 发布开源 Gemma 4 12B 模型，支持音频、视频、图像和文本的多模态输入，可在 16GB 内存的典型企业笔记本上完全本地运行。据 VentureBeat 报道，该模型针对本地部署进行了优化，为端侧 AI 应用提供新选项",
+        "signal_strength": 0.88,
+        "sources": [
+          {
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/technology/googles-new-open-source-gemma-4-12b-analyzes-audio-video-and-runs-entirely-locally-on-a-typical-16gb-enterprise-laptop"
+          }
+        ],
+        "tags": [
+          "模型发布",
+          "端侧部署",
+          "多模态",
+          "开源"
+        ],
+        "raw_item_indices": [
+          23
+        ]
+      },
+      {
+        "title": "Meta Eyes Up to $200/Month Subscription for Consumer 'Hatch' AI Agent",
+        "signal_text": "据 The Information 报道，Meta 正考虑为计划推出的消费者版 OpenClaw AI Agent 工具 'Hatch' 收取高达 200 美元/月的订阅费，目标与 OpenAI/Anthropic 企业级产品看齐。这是 Meta 在 AI 商业化路径上的重大信号，表明其将 AI Agent 视为核心营收来源而非附属功能",
+        "signal_strength": 0.85,
+        "sources": [
+          {
+            "name": "The Information",
+            "url": "https://www.theinformation.com/briefings/meta-looks-charge-200-month-planned-hatch-ai-agent"
+          }
+        ],
+        "tags": [
+          "Agent",
+          "商业化",
+          "头部公司",
+          "产品发布"
+        ],
+        "raw_item_indices": [
+          2
+        ]
+      },
+      {
+        "title": "Anthropic Publishes Detailed Engineering Breakdown of How It Contains Claude Across Products",
+        "signal_text": "Anthropic 官方发布博文《The ways we contain Claude across products》，详细阐述了其如何在多产品线中设计安全隔离机制（containment）。文章引发 Hacker News 广泛讨论（42 points），为行业提供了 AI 安全工程实践的参考",
+        "signal_strength": 0.8,
+        "sources": [
+          {
+            "name": "Anthropic Engineering Blog",
+            "url": "https://www.anthropic.com/engineering/how-we-contain-claude"
+          }
+        ],
+        "tags": [
+          "内容安全",
+          "工程实践",
+          "头部公司"
+        ],
+        "raw_item_indices": [
+          5
+        ]
+      },
+      {
+        "title": "Vigils: Open-Source Local Control Plane for AI Agent Security and Audit",
+        "signal_text": "GitHub 项目 Vigils（获 205 stars）发布，用 Rust + Tauri + Chrome MV3 构建本地 AI Agent 控制平面，可实时查看 Agent 行为、审批关键操作、防止密钥泄露。这代表了 Agent 安全领域新兴的开源治理方案",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "GitHub - duncatzat/vigils",
+            "url": "https://github.com/duncatzat/vigils"
+          }
+        ],
+        "tags": [
+          "Agent",
+          "开源生态",
+          "内容安全"
+        ],
+        "raw_item_indices": [
+          33
+        ]
+      },
+      {
+        "title": "Lovable Signs Multi-Year Deal with Google Cloud to 5x Infrastructure Usage and Expand Claude Access",
+        "signal_text": "据 TechCrunch 报道，AI 应用构建平台 Lovable 与 Google Cloud 签署多年期合作协议，将云基础设施用量提升 5 倍，并扩大对 Anthropic Claude 模型的访问。此交易反映了 AI Native 公司的基础设施扩张趋势",
+        "signal_strength": 0.72,
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/"
+          }
+        ],
+        "tags": [
+          "战略动作",
+          "AI 基础设施",
+          "商业化"
+        ],
+        "raw_item_indices": [
+          11
+        ]
+      },
+      {
+        "title": "OpenAI and Anthropik Sign Letter Urging Lawmakers to Improve Synthetic DNA Tracking for Bioweapon Prevention",
+        "signal_text": "据 Wired 报道，OpenAI、Anthropic 及多位科学家联合致信立法者，呼吁加强合成 DNA 序列追踪以防止生物武器开发。这是一次重要的 AI 安全治理倡导行动",
+        "signal_strength": 0.7,
+        "sources": [
+          {
+            "name": "Wired",
+            "url": "https://www.wired.com/story/openai-anthropic-letter-ai-biological-weapons/"
+          }
+        ],
+        "tags": [
+          "AI 安全",
+          "监管",
+          "头部公司"
+        ],
+        "raw_item_indices": [
+          0
+        ]
+      },
+      {
+        "title": "Nvidia Confirms N2X and N3X Chips: AI Consumer Chip Roadmap Inspired by Star Trek's Computer",
+        "signal_text": "据 The Verge 报道，在 Computex 2026 上，Nvidia CEO Jensen Huang 确认了继 RTX Spark 之后的至少两代消费级 AI 芯片规划（N2X、N3X），目标是将 AI 计算机的性能推向科幻级别",
+        "signal_strength": 0.68,
+        "sources": [
+          {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/tech/942588/nvidia-rtx-spark-n2x-n3x-r2-d2-star-trek-star-wars-plan"
+          }
+        ],
+        "tags": [
+          "硬件",
+          "AI 基础设施",
+          "头部公司"
+        ],
+        "raw_item_indices": [
+          18
+        ]
+      },
+      {
+        "title": "LongLive-RAG: Official Framework for Retrieval-Augmented Long Video Generation",
+        "signal_text": "GitHub 开源项目 LongLive-RAG 发布，提出将 RAG 技术应用于长视频生成的通用框架，结合自回归和扩散模型。获 39 stars，由 qixinhu11 发布，属于多模态内容生成方向的前沿探索",
+        "signal_strength": 0.65,
+        "sources": [
+          {
+            "name": "GitHub - qixinhu11/LongLive-RAG",
+            "url": "https://github.com/qixinhu11/LongLive-RAG"
+          }
+        ],
+        "tags": [
+          "多模态生成",
+          "RAG",
+          "视频生成",
+          "开源"
+        ],
+        "raw_item_indices": [
+          41
+        ]
+      },
+      {
+        "title": "HuggingFace Transformers v5.10.1 Adds Official Support for Gemma4 with MTP (Multi-Token Prediction) Architecture",
+        "signal_text": "HuggingFace 紧急发布 Transformers v5.10.1，新增对 Google Gemma4 模型及其 MTP（Multi-Token Prediction）架构的原生支持。MTP 是 Google 在推理效率上的创新设计，此次集成降低了社区使用门槛",
+        "signal_strength": 0.65,
+        "sources": [
+          {
+            "name": "GitHub - huggingface/transformers v5.10.1",
+            "url": "https://github.com/huggingface/transformers/releases/tag/v5.10.1"
+          }
+        ],
+        "tags": [
+          "开源生态",
+          "模型架构",
+          "推理效率"
+        ],
+        "raw_item_indices": [
+          51
+        ]
+      }
     ]
   },
   "archived_weeks": [

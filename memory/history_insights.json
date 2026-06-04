@@ -1,66 +1,6 @@
 {
   "predictions": [
     {
-      "date": "2026-05-18T16:15:04.017214+08:00",
-      "prediction_text": "社区/电商平台可参考MinT架构，建设个性化Adapters服务，按用户偏好微调推荐排序。",
-      "category": "infrastructure",
-      "source_signal": "MinT: Managed Infrastructure for Training & Serving Millions of LLMs via Low-Rank Adapters"
-    },
-    {
-      "date": "2026-05-18T16:15:04.019718+08:00",
-      "prediction_text": "电商平台可探索MCP-Cosmos用于购物助手Agent，在用户多步比价/搭配场景中预判需求。",
-      "category": "research_breakthrough",
-      "source_signal": "MCP-Cosmos: World Model-Augmented Agents for Complex Task Execution by IBM Research"
-    },
-    {
-      "date": "2026-05-19T10:32:44.879032+08:00",
-      "prediction_text": "内容平台可评估TPU集群用于多模态生成模型的低成本批量推理，优化推荐和视频生成成本。",
-      "category": "infrastructure",
-      "source_signal": "Google and Blackstone Launch TPU Cloud Provider"
-    },
-    {
-      "date": "2026-05-19T10:32:44.887488+08:00",
-      "prediction_text": "社区/电商平台可自建中立的Agent SDK管理层，避免直接绑定单一模型厂商的API生态。",
-      "category": "strategic_move",
-      "source_signal": "Anthropic Acquires SDK Automation Startup Stainless"
-    },
-    {
-      "date": "2026-05-19T10:32:44.893426+08:00",
-      "prediction_text": "内容平台可考虑将AI团队从独立部门打散到各业务线，让生成、推荐、审核每个环节都有AI原生决策权。",
-      "category": "strategic_move",
-      "source_signal": "Meta Shifts Thousands of Workers to AI-Focused Groups Ahead of Layoffs"
-    },
-    {
-      "date": "2026-05-19T10:32:44.897998+08:00",
-      "prediction_text": "社区/电商平台可评估FP8量化版本用于端侧内容生成和智能客服，减少对闭源API的依赖。",
-      "category": "open_source",
-      "source_signal": "DeepSeek-V4-Pro Trends on HuggingFace as Open-Weight Model"
-    },
-    {
-      "date": "2026-05-19T10:32:44.902639+08:00",
-      "prediction_text": "内容平台的推荐和搜索系统可探索上下文架构替代向量检索，整合用户历史、笔记内容和实时反馈。",
-      "category": "research_breakthrough",
-      "source_signal": "Context Architecture Emerges as Agentic AI Replaces Traditional RAG"
-    },
-    {
-      "date": "2026-05-19T10:32:44.906262+08:00",
-      "prediction_text": "内容安全团队可建立自有的模型引入审核管道和CI/CD安全审计，防止恶意依赖污染生产环境。",
-      "category": "infrastructure",
-      "source_signal": "Supply-Chain Attacks on AI Model Release Pipelines Exposed"
-    },
-    {
-      "date": "2026-05-19T10:32:44.909394+08:00",
-      "prediction_text": "电商平台可探索将该技术接入商家工具，实现一键生成模特穿搭视频，提升商品转化效率。",
-      "category": "research_breakthrough",
-      "source_signal": "FashionChameleon: Real-Time Interactive Garment Video Customization from Alibaba"
-    },
-    {
-      "date": "2026-05-19T10:32:44.912434+08:00",
-      "prediction_text": "社区平台的Agent开发团队可参考LangSmith Engine模式，构建内部的中立Agent监控与调试层。",
-      "category": "infrastructure",
-      "source_signal": "LangSmith Engine Launches Automated Agent Debugging Loop"
-    },
-    {
       "date": "2026-05-19T10:32:44.915057+08:00",
       "prediction_text": "内容平台的创作者工具团队可探索用LoRA微调基础视频模型，生成符合社区风格的素材。",
       "category": "research_breakthrough",
@@ -599,6 +539,66 @@
       "prediction_text": "内容平台的 AI 风险评估体系建议引入类似的结构化能力估计算法，建立内部红队测试标准。",
       "category": "open_source",
       "source_signal": "ARC White-Box Estimation Challenge Launched to Improve AI Safety Estimation"
+    },
+    {
+      "date": "2026-06-04T12:43:13.293144+08:00",
+      "prediction_text": "内容平台的 AI 助手应优先设计端云协同架构，而非纯端侧或纯云端路线。",
+      "category": "strategic_move",
+      "source_signal": "Apple to Launch Overhauled Siri in September Powered by Google Cloud and Nvidia Chips"
+    },
+    {
+      "date": "2026-06-04T12:43:13.302685+08:00",
+      "prediction_text": "电商平台的商品识别/内容社区的视频理解可探索本地部署，降低云端推理成本与延迟。",
+      "category": "model_release",
+      "source_signal": "Google Releases Gemma 4 12B: Fully Local Multimodal Model for Audio, Video, and Text on 16GB Laptops"
+    },
+    {
+      "date": "2026-06-04T12:43:13.308458+08:00",
+      "prediction_text": "内容/社区平台的创作者 Agent 或 VIP 服务可考虑独立订阅模式，而非仅作为免费附加功能。",
+      "category": "strategic_move",
+      "source_signal": "Meta Eyes Up to $200/Month Subscription for Consumer 'Hatch' AI Agent"
+    },
+    {
+      "date": "2026-06-04T12:43:13.313171+08:00",
+      "prediction_text": "内容平台的多 Agent 矩阵建议参考其隔离思路，为每个产品线建立独立安全沙箱与监控层。",
+      "category": "infrastructure",
+      "source_signal": "Anthropic Publishes Detailed Engineering Breakdown of How It Contains Claude Across Products"
+    },
+    {
+      "date": "2026-06-04T12:43:13.317655+08:00",
+      "prediction_text": "社区平台的用户创作 Agent 建议内置类似操作日志与审批流程，增强用户信任和合规性。",
+      "category": "open_source",
+      "source_signal": "Vigils: Open-Source Local Control Plane for AI Agent Security and Audit"
+    },
+    {
+      "date": "2026-06-04T12:43:13.319334+08:00",
+      "prediction_text": "内容/电商平台在规划 AI 业务时需提前与云厂商锁定弹性算力合同，避免扩展瓶颈。",
+      "category": "strategic_move",
+      "source_signal": "Lovable Signs Multi-Year Deal with Google Cloud to 5x Infrastructure Usage and Expand Claude Access"
+    },
+    {
+      "date": "2026-06-04T12:43:13.320732+08:00",
+      "prediction_text": "内容平台的内容安全团队可关注类似安全治理倡议，提前布局生物/合成内容审核能力。",
+      "category": "ecosystem_shift",
+      "source_signal": "OpenAI and Anthropik Sign Letter Urging Lawmakers to Improve Synthetic DNA Tracking for Bioweapon Prevention"
+    },
+    {
+      "date": "2026-06-04T12:43:13.322087+08:00",
+      "prediction_text": "推荐/搜索系统团队可评估将高频推理逐步下沉至消费级硬件，依赖云端负增长趋势。",
+      "category": "infrastructure",
+      "source_signal": "Nvidia Confirms N2X and N3X Chips: AI Consumer Chip Roadmap Inspired by Star Trek's Computer"
+    },
+    {
+      "date": "2026-06-04T12:43:13.323466+08:00",
+      "prediction_text": "内容平台的视频生成工具建议探索 RAG 式视频合成，实现基于知识库的连贯长视频生成。",
+      "category": "research_breakthrough",
+      "source_signal": "LongLive-RAG: Official Framework for Retrieval-Augmented Long Video Generation"
+    },
+    {
+      "date": "2026-06-04T12:43:13.324798+08:00",
+      "prediction_text": "推荐系统/搜索产品的推理服务可评估 MTP 架构，以更低延迟实现多 token 并行预测。",
+      "category": "open_source",
+      "source_signal": "HuggingFace Transformers v5.10.1 Adds Official Support for Gemma4 with MTP (Multi-Token Prediction) Architecture"
     }
   ]
 }

@@ -2,7 +2,7 @@
 title: Google DeepMind
 type: company
 created: 2026-02-25
-updated: 2026-05-30
+updated: 2026-06-04
 ---
 
 # Google DeepMind
@@ -11,6 +11,10 @@ Google's unified AI research division, maker of [[gemini|Gemini]] and [[gemma|Ge
 
 ## Timeline
 
+- **2026-06-04**: [[hugging-face|HuggingFace]] Transformers v5.10.1 Adds Official Support for Gemma4 with MTP (Multi-Token Prediction) Architecture
+- **2026-06-04**: Lovable Signs Multi-Year Deal with Google Cloud to 5x Infrastructure Usage and Expand [[claude|Claude]] Access
+- **2026-06-04**: Google Releases [[gemma|Gemma]] 4 12B: Fully Local Multimodal Model for Audio, Video, and Text on 16GB Laptops
+- **2026-06-04**: [[apple|Apple]] to Launch Overhauled Siri in September Powered by Google Cloud and [[nvidia|Nvidia]] Chips
 - **2026-05-30**: Google [[gemini|Gemini]] Models Tested for 'Scheming' Tendencies by DeepMind Alignment Team
 - **2026-05-28**: Illinois Passes America's Strongest [[ai-safety|AI Safety]] Bill Requiring Third-Party Audits
 - **2026-05-21**: Google Launches Managed Agents API for One-Call Agent Deployment

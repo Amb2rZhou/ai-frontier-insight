@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-03T11:04:44.002487+08:00",
+  "last_updated": "2026-06-04T14:26:41.085476+08:00",
   "trends": [
     {
       "id": "ai_safety_pivot_and_accelerated_agi_time",
@@ -15,9 +15,8 @@
         "Industry Cooperation"
       ],
       "trajectory": "accelerating",
-      "signal_count": 118,
+      "signal_count": 120,
       "weekly_counts": [
-        2,
         1,
         0,
         0,
@@ -28,6 +27,7 @@
         1,
         1,
         0,
+        2,
         2
       ],
       "key_events": [
@@ -74,6 +74,10 @@
         {
           "date": "2026-06-03",
           "event": "2026-06-01: Microsoft Launches MXC OS-Level Sandbox for AI Agents; Anthropic Expands Glasswing Cybersecurity Project to 150 Organizations; ARC White-Box Estimation Challenge Launched"
+        },
+        {
+          "date": "2026-06-04",
+          "event": "Anthropic Publishes Detailed Engineering Breakdown of How It Contains Claude Across Products; OpenAI and Anthropik Sign Letter Urging Lawmakers to Improve Synthetic DNA Tracking for Bioweapon Prevention"
         }
       ],
       "created": "2026-02-25"
@@ -92,9 +96,8 @@
         "Business Models"
       ],
       "trajectory": "accelerating",
-      "signal_count": 103,
+      "signal_count": 105,
       "weekly_counts": [
-        1,
         1,
         1,
         3,
@@ -105,7 +108,8 @@
         2,
         1,
         0,
-        1
+        1,
+        2
       ],
       "key_events": [
         {
@@ -279,6 +283,10 @@
         {
           "date": "2026-06-03",
           "event": "2026-06-01: Alibaba Releases Qwen3.7-Plus Open-Weight Multimodal LLM"
+        },
+        {
+          "date": "2026-06-04",
+          "event": "Google Releases Gemma 4 12B: Fully Local Multimodal Model for Audio, Video, and Text on 16GB Laptops; HuggingFace Transformers v5.10.1 Adds Official Support for Gemma4 with MTP (Multi-Token Prediction) Architecture"
         }
       ],
       "created": "2026-02-25"
@@ -287,19 +295,18 @@
       "id": "enterprise_ai_agent_adoption_and_product",
       "name": "Enterprise AI Agent Adoption and Product Launches",
       "related_tags": [
-        "Market Impact",
-        "Safety",
-        "Office",
-        "Agent Pipelines",
-        "Search",
         "Anthropic",
-        "Open Source Tools",
-        "Industry Strategy"
+        "Enterprise AI",
+        "AI Runtime",
+        "VentureBeat",
+        "Data Governance",
+        "Search",
+        "Industry Strategy",
+        "Market Impact"
       ],
       "trajectory": "accelerating",
-      "signal_count": 239,
+      "signal_count": 241,
       "weekly_counts": [
-        2,
         0,
         2,
         1,
@@ -310,25 +317,10 @@
         1,
         0,
         3,
-        6
+        6,
+        1
       ],
       "key_events": [
-        {
-          "date": "2026-05-18",
-          "event": "Google RubricEM: Meta-RL with Rubric-Guided Policy for Deep Research Agents"
-        },
-        {
-          "date": "2026-05-20",
-          "event": "2026-05-19: Anthropic Enables Enterprise Agent Credential Security via Self-Hosted Sandboxes in CMA"
-        },
-        {
-          "date": "2026-05-20",
-          "event": "2026-05-20: Google I/O 2026: Gemini 3.5 Flash, Antigravity 2.0, and Agentic Search Overhaul"
-        },
-        {
-          "date": "2026-05-22",
-          "event": "Google Launches Managed Agents API for One-Call Agent Deployment; Fortune 500 CIOs Flag Token Costs as Dominant Enterprise AI Concern"
-        },
         {
           "date": "2026-05-22",
           "event": "Workday Reports 2x Quarter-over-Quarter Growth in Enterprise AI Agent Customers"
@@ -360,6 +352,14 @@
         {
           "date": "2026-06-03",
           "event": "2026-06-01: Microsoft Scout AI Coworker Agent for Teams; Enterprise AI Runtime Problem Identified in VentureBeat Research; Microsoft IQ and Rayfin Solve Enterprise AI Agent Data Silos; Travelers Deploys AI Claims Assistant with OpenAI"
+        },
+        {
+          "date": "2026-06-03",
+          "event": "First detected"
+        },
+        {
+          "date": "2026-06-04",
+          "event": "Meta Eyes Up to $200/Month Subscription for Consumer 'Hatch' AI Agent"
         }
       ],
       "created": "2026-02-25"
@@ -378,9 +378,8 @@
         "Model Efficiency"
       ],
       "trajectory": "accelerating",
-      "signal_count": 193,
+      "signal_count": 194,
       "weekly_counts": [
-        0,
         2,
         1,
         4,
@@ -391,6 +390,7 @@
         1,
         1,
         0,
+        1,
         1
       ],
       "key_events": [
@@ -449,6 +449,10 @@
         {
           "date": "2026-06-03",
           "event": "2026-06-01: Perplexity AI Unveils Hybrid Local-Cloud Inference System at Computex 2026"
+        },
+        {
+          "date": "2026-06-04",
+          "event": "HuggingFace Transformers v5.10.1 Adds Official Support for Gemma4 with MTP (Multi-Token Prediction) Architecture"
         }
       ],
       "created": "2026-02-25"
@@ -470,7 +474,6 @@
       "signal_count": 50,
       "weekly_counts": [
         0,
-        0,
         1,
         0,
         0,
@@ -480,6 +483,7 @@
         1,
         2,
         1,
+        0,
         0
       ],
       "key_events": [
@@ -552,9 +556,8 @@
         "Local AI"
       ],
       "trajectory": "accelerating",
-      "signal_count": 253,
+      "signal_count": 255,
       "weekly_counts": [
-        1,
         8,
         2,
         3,
@@ -565,7 +568,8 @@
         2,
         4,
         3,
-        3
+        3,
+        2
       ],
       "key_events": [
         {
@@ -615,6 +619,10 @@
         {
           "date": "2026-06-03",
           "event": "2026-06-01: Microsoft MXC OS-Level Sandbox for AI Agents; Microsoft Scout AI Coworker Agent; Microsoft IQ and Rayfin for Enterprise Agent Data Silos"
+        },
+        {
+          "date": "2026-06-04",
+          "event": "Meta Eyes Up to $200/Month Subscription for Consumer 'Hatch' AI Agent; Vigils: Open-Source Local Control Plane for AI Agent Security and Audit"
         }
       ],
       "created": "2026-02-25"
@@ -633,9 +641,8 @@
         "Strategy"
       ],
       "trajectory": "accelerating",
-      "signal_count": 174,
+      "signal_count": 177,
       "weekly_counts": [
-        1,
         2,
         1,
         0,
@@ -646,7 +653,8 @@
         1,
         3,
         3,
-        1
+        1,
+        3
       ],
       "key_events": [
         {
@@ -688,6 +696,10 @@
         {
           "date": "2026-06-03",
           "event": "2026-06-01: Perplexity AI Hybrid Local-Cloud Inference System at Computex 2026"
+        },
+        {
+          "date": "2026-06-04",
+          "event": "Nvidia Confirms N2X and N3X Chips: AI Consumer Chip Roadmap Inspired by Star Trek's Computer; HuggingFace Transformers v5.10.1 Adds Official Support for Gemma4 with MTP Architecture; Lovable Signs Multi-Year Deal with Google Cloud to 5x Infrastructure Usage"
         }
       ],
       "created": "2026-02-25"
@@ -706,9 +718,8 @@
         "DevTools"
       ],
       "trajectory": "accelerating",
-      "signal_count": 93,
+      "signal_count": 94,
       "weekly_counts": [
-        1,
         1,
         1,
         1,
@@ -719,6 +730,7 @@
         2,
         0,
         0,
+        1,
         1
       ],
       "key_events": [
@@ -777,6 +789,10 @@
         {
           "date": "2026-06-03",
           "event": "2026-06-01: Microsoft Launches MXC OS-Level Sandbox for AI Agents with Security Focus"
+        },
+        {
+          "date": "2026-06-04",
+          "event": "Vigils: Open-Source Local Control Plane for AI Agent Security and Audit"
         }
       ],
       "created": "2026-02-25"
@@ -797,7 +813,6 @@
       "trajectory": "accelerating",
       "signal_count": 76,
       "weekly_counts": [
-        1,
         0,
         1,
         2,
@@ -808,7 +823,8 @@
         2,
         1,
         0,
-        1
+        1,
+        0
       ],
       "key_events": [
         {
@@ -908,9 +924,8 @@
         "Unified Models"
       ],
       "trajectory": "accelerating",
-      "signal_count": 118,
+      "signal_count": 119,
       "weekly_counts": [
-        0,
         1,
         1,
         5,
@@ -921,6 +936,7 @@
         3,
         0,
         0,
+        1,
         1
       ],
       "key_events": [
@@ -975,6 +991,10 @@
         {
           "date": "2026-06-03",
           "event": "2026-06-01: Alibaba Qwen3.7-Plus Supports Multimodal Text, Video, and Image Generation"
+        },
+        {
+          "date": "2026-06-04",
+          "event": "LongLive-RAG: Official Framework for Retrieval-Augmented Long Video Generation"
         }
       ],
       "created": "2026-02-26"
@@ -993,9 +1013,8 @@
         "Funding"
       ],
       "trajectory": "accelerating",
-      "signal_count": 17,
+      "signal_count": 18,
       "weekly_counts": [
-        0,
         1,
         0,
         1,
@@ -1006,7 +1025,8 @@
         0,
         2,
         0,
-        0
+        0,
+        1
       ],
       "key_events": [
         {
@@ -1078,10 +1098,11 @@
         "Stanford",
         "Knowledge Work"
       ],
-      "trajectory": "accelerating",
+      "trajectory": "stable",
       "signal_count": 1,
       "weekly_counts": [
-        1
+        1,
+        0
       ],
       "key_events": [
         {
@@ -1092,14 +1113,14 @@
       "created": "2026-06-03"
     },
     {
-      "id": "enterprise_ai_runtime_and_data_infrastru",
-      "name": "Enterprise AI Runtime and Data Infrastructure Challenges",
+      "id": "apple_ai_strategy_and_on-device_ai_integ",
+      "name": "Apple AI Strategy and On-Device AI Integration",
       "related_tags": [
-        "Enterprise AI",
-        "Data Governance",
-        "AI Runtime",
-        "Data Silos",
-        "VentureBeat"
+        "战略动作",
+        "AI 助手",
+        "端侧部署",
+        "头部公司",
+        "硬件"
       ],
       "trajectory": "accelerating",
       "signal_count": 1,
@@ -1108,11 +1129,11 @@
       ],
       "key_events": [
         {
-          "date": "2026-06-03",
+          "date": "2026-06-04",
           "event": "First detected"
         }
       ],
-      "created": "2026-06-03"
+      "created": "2026-06-04"
     }
   ]
 }

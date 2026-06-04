@@ -2,7 +2,7 @@
 title: Apple
 type: company
 created: 2026-02-27
-updated: 2026-05-30
+updated: 2026-06-04
 ---
 
 # Apple
@@ -11,6 +11,7 @@ Consumer technology giant with growing on-device AI capabilities and research co
 
 ## Timeline
 
+- **2026-06-04**: Apple to Launch Overhauled Siri in September Powered by [[google-deepmind|Google]] Cloud and [[nvidia|Nvidia]] Chips
 - **2026-05-30**: [[meta|Meta]] Plans AI Pendant as Part of Ambitious Wearables Expansion
 - **2026-05-16**: [Update] ExecuTorch Wins Best Industry Paper at MLSys 2026
 - **2026-05-12**: Apple's Normalizing Trajectory Models: New Diffusion Framework with Exact Likelihood Training

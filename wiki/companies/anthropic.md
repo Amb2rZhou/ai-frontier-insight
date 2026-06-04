@@ -2,7 +2,7 @@
 title: Anthropic
 type: company
 created: 2026-02-25
-updated: 2026-06-03
+updated: 2026-06-04
 ---
 
 # Anthropic
@@ -11,6 +11,10 @@ updated: 2026-06-03
 
 ## Timeline
 
+- **2026-06-04**: [[openai|OpenAI]] and Anthropik Sign Letter Urging Lawmakers to Improve Synthetic DNA Tracking for Bioweapon Prevention
+- **2026-06-04**: Lovable Signs Multi-Year Deal with [[google-deepmind|Google]] Cloud to 5x Infrastructure Usage and Expand [[claude|Claude]] Access
+- **2026-06-04**: Anthropic Publishes Detailed Engineering Breakdown of How It Contains [[claude|Claude]] Across Products
+- **2026-06-04**: [[meta|Meta]] Eyes Up to $200/Month Subscription for Consumer 'Hatch' [[agent-frameworks|AI Agent]]
 - **2026-06-03**: Anthropic Expands Glasswing Cybersecurity Project to 150 New Organizations
 - **2026-05-31**: Duel Agents: New Framework for [[multi-agent-systems|Multi-Agent]] Competition and Collaboration
 - **2026-05-31**: Defense Tech Sector Matures: [[openai|OpenAI]] vs Anthropic in Enterprise AI Sales War

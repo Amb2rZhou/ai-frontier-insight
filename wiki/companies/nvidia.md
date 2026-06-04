@@ -2,7 +2,7 @@
 title: NVIDIA
 type: company
 created: 2026-02-25
-updated: 2026-06-03
+updated: 2026-06-04
 ---
 
 # NVIDIA
@@ -11,6 +11,8 @@ Dominant [[ai-hardware|AI hardware]] company, increasingly expanding into AI sof
 
 ## Timeline
 
+- **2026-06-04**: Nvidia Confirms N2X and N3X Chips: AI Consumer Chip Roadmap Inspired by Star Trek's Computer
+- **2026-06-04**: [[apple|Apple]] to Launch Overhauled Siri in September Powered by [[google-deepmind|Google]] Cloud and Nvidia Chips
 - **2026-06-03**: [[microsoft|Microsoft]] Launches MXC: OS-Level Sandbox for AI Agents with [[openai|OpenAI]] and Nvidia Backing
 - **2026-05-30**: NVIDIA, [[microsoft|Microsoft]], Arm Tease New N1X Arm Laptop Processors at Computex
 - **2026-05-30**: vLLM v0.22.0 Released: Major Hardening for DeepSeek V4 and New R1/HaiDrive Backend
