@@ -2,7 +2,7 @@
 title: Claude
 type: product
 created: 2026-02-25
-updated: 2026-06-04
+updated: 2026-06-05
 ---
 
 # Claude
@@ -11,6 +11,7 @@ updated: 2026-06-04
 
 ## Timeline
 
+- **2026-06-05**: [[anthropic|Anthropic]] Reveals 80% of Production Code Authored by Claude, Sets New Enterprise Benchmark
 - **2026-06-04**: Lovable Signs Multi-Year Deal with [[google-deepmind|Google]] Cloud to 5x Infrastructure Usage and Expand Claude Access
 - **2026-06-04**: [[anthropic|Anthropic]] Publishes Detailed Engineering Breakdown of How It Contains Claude Across Products
 - **2026-06-03**: [[anthropic|Anthropic]] Expands Glasswing Cybersecurity Project to 150 New Organizations

@@ -2,7 +2,7 @@
 title: Google DeepMind
 type: company
 created: 2026-02-25
-updated: 2026-06-04
+updated: 2026-06-05
 ---
 
 # Google DeepMind
@@ -11,6 +11,7 @@ Google's unified AI research division, maker of [[gemini|Gemini]] and [[gemma|Ge
 
 ## Timeline
 
+- **2026-06-05**: Google Rolls Out Customizable Search Profiles for Creators with 100K+ Subscribers
 - **2026-06-04**: [[hugging-face|HuggingFace]] Transformers v5.10.1 Adds Official Support for Gemma4 with MTP (Multi-Token Prediction) Architecture
 - **2026-06-04**: Lovable Signs Multi-Year Deal with Google Cloud to 5x Infrastructure Usage and Expand [[claude|Claude]] Access
 - **2026-06-04**: Google Releases [[gemma|Gemma]] 4 12B: Fully Local Multimodal Model for Audio, Video, and Text on 16GB Laptops

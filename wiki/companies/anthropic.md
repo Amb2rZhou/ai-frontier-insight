@@ -2,7 +2,7 @@
 title: Anthropic
 type: company
 created: 2026-02-25
-updated: 2026-06-04
+updated: 2026-06-05
 ---
 
 # Anthropic
@@ -11,6 +11,8 @@ updated: 2026-06-04
 
 ## Timeline
 
+- **2026-06-05**: Anthropic Annualized Revenue Surpasses $47B Ahead of IPO, Signaling Market Validation
+- **2026-06-05**: Anthropic Reveals 80% of Production Code Authored by [[claude|Claude]], Sets New Enterprise Benchmark
 - **2026-06-04**: [[openai|OpenAI]] and Anthropik Sign Letter Urging Lawmakers to Improve Synthetic DNA Tracking for Bioweapon Prevention
 - **2026-06-04**: Lovable Signs Multi-Year Deal with [[google-deepmind|Google]] Cloud to 5x Infrastructure Usage and Expand [[claude|Claude]] Access
 - **2026-06-04**: Anthropic Publishes Detailed Engineering Breakdown of How It Contains [[claude|Claude]] Across Products

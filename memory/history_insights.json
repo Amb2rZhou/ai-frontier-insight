@@ -1,66 +1,6 @@
 {
   "predictions": [
     {
-      "date": "2026-05-19T10:32:44.915057+08:00",
-      "prediction_text": "内容平台的创作者工具团队可探索用LoRA微调基础视频模型，生成符合社区风格的素材。",
-      "category": "research_breakthrough",
-      "source_signal": "NVIDIA Fine-Tuning Cosmos Predict 2.5 for Robot Video Generation with LoRA/DoRA"
-    },
-    {
-      "date": "2026-05-19T10:32:44.917652+08:00",
-      "prediction_text": "社区平台可贡献自身场景到Leaderboard，同时基于评测结果优化推荐/审核Agent的鲁棒性。",
-      "category": "ecosystem_shift",
-      "source_signal": "IBM Research and HuggingFace Launch Open Agent Leaderboard"
-    },
-    {
-      "date": "2026-05-20T10:37:57.449669+08:00",
-      "prediction_text": "搜索产品可探索将浏览、比价、下单整合为端到端 Agent 购物助手，提升闭环转化。",
-      "category": "strategic_move",
-      "source_signal": "Google I/O 2026: Search Redesign, Gemini 3.5 Flash, and Agentic Shopping Tools"
-    },
-    {
-      "date": "2026-05-20T10:37:57.459777+08:00",
-      "prediction_text": "内容安全团队可评估集成 SynthID 与 Content Credentials，建立可跨平台验证的生成内容标识体系。",
-      "category": "ecosystem_shift",
-      "source_signal": "OpenAI Adopts Google's SynthID Watermark for AI-Generated Images"
-    },
-    {
-      "date": "2026-05-20T10:37:57.465023+08:00",
-      "prediction_text": "创作者工具团队可基于统一架构构建一站式图文/视频创作编辑入口，降低用户操作成本。",
-      "category": "research_breakthrough",
-      "source_signal": "ByteDance Research Releases Lance: Unified Multimodal Model for Understanding, Generation, and Editing"
-    },
-    {
-      "date": "2026-05-20T10:37:57.469601+08:00",
-      "prediction_text": "Agent 开发团队可引入自托管沙箱隔离凭据与运行时，降低第三方 Agent 注入风险。",
-      "category": "infrastructure",
-      "source_signal": "Anthropic Enables Enterprise Agent Credential Security via Self-Hosted Sandboxes in CMA"
-    },
-    {
-      "date": "2026-05-20T10:37:57.473331+08:00",
-      "prediction_text": "视频创作平台可评估序列并行框架用于 UGC 长视频生成，降低部署成本和生成延迟。",
-      "category": "research_breakthrough",
-      "source_signal": "NVIDIA LongLive-2.0: NVFP4 Parallel Infrastructure for Efficient Long Video Generation"
-    },
-    {
-      "date": "2026-05-20T10:37:57.476609+08:00",
-      "prediction_text": "推荐与搜索系统可引入 LiteFrame 类编码器处理长视频内容，提升用户长留存视频的召回准确性。",
-      "category": "research_breakthrough",
-      "source_signal": "Google DeepMind LiteFrame: Efficient Vision Encoder for Scaling Frames in Video LLMs"
-    },
-    {
-      "date": "2026-05-20T10:37:57.479333+08:00",
-      "prediction_text": "推荐系统可探索将用户互动偏好作为奖励信号，微调视频生成模型产出更符合社区口味的内容。",
-      "category": "research_breakthrough",
-      "source_signal": "Tsinghua University KVPO: ODE-Native GRPO for Streaming Video Alignment with Human Preferences"
-    },
-    {
-      "date": "2026-05-20T10:37:57.482635+08:00",
-      "prediction_text": "部署在端侧或推理集群的模型可应用 ZEDA 策略，在保持效果前提下提升并发吞吐、降低硬件投入。",
-      "category": "research_breakthrough",
-      "source_signal": "Tsinghua University ZEDA: Post-Trained MoE Can Skip Half Experts via Self-Distillation"
-    },
-    {
       "date": "2026-05-20T10:37:57.485696+08:00",
       "prediction_text": "搜索增强与对话 Agent 可接入终端锚定训练，降低长文档检索和跨会话推理的部署门槛。",
       "category": "research_breakthrough",
@@ -599,6 +539,66 @@
       "prediction_text": "推荐系统/搜索产品的推理服务可评估 MTP 架构，以更低延迟实现多 token 并行预测。",
       "category": "open_source",
       "source_signal": "HuggingFace Transformers v5.10.1 Adds Official Support for Gemma4 with MTP (Multi-Token Prediction) Architecture"
+    },
+    {
+      "date": "2026-06-05T12:27:12.104048+08:00",
+      "prediction_text": "内容平台可考虑将AI Agent嵌入审核规则编写、A/B测试流水线等内部工程系统，直接降低开发人力成本。",
+      "category": "strategic_move",
+      "source_signal": "Anthropic Reveals 80% of Production Code Authored by Claude, Sets New Enterprise Benchmark"
+    },
+    {
+      "date": "2026-06-05T12:27:12.110323+08:00",
+      "prediction_text": "电商/社区平台可考虑推出面向商家的AI营销Agent订阅服务，而非仅免费赋能用户。",
+      "category": "ecosystem_shift",
+      "source_signal": "Anthropic Annualized Revenue Surpasses $47B Ahead of IPO, Signaling Market Validation"
+    },
+    {
+      "date": "2026-06-05T12:27:12.115384+08:00",
+      "prediction_text": "内容平台的创作者工具建议探索设计导向的多模态模型，如一键生成视觉排版或滤镜方案。",
+      "category": "research_breakthrough",
+      "source_signal": "Airbnb CEO Brian Chesky in Talks to Fund New AI Lab with Design Focus"
+    },
+    {
+      "date": "2026-06-05T12:27:12.120030+08:00",
+      "prediction_text": "内容安全团队需提前部署深度伪造检测与生物特征脱敏系统，应对AR设备上传的违规肖像内容。",
+      "category": "infrastructure",
+      "source_signal": "Meta Quietly Embeds Face-Recognition Code in Smart Glasses Platform on Millions of Phones"
+    },
+    {
+      "date": "2026-06-05T12:27:12.122504+08:00",
+      "prediction_text": "出海合规团队可评估部署端侧轻量审核模型，在图片上传前即完成过滤，降低云端审核延迟与隐私风险。",
+      "category": "ecosystem_shift",
+      "source_signal": "South Korea Mandates AI Censorship Scanning for All Images on Online Forums"
+    },
+    {
+      "date": "2026-06-05T12:27:12.123942+08:00",
+      "prediction_text": "出海平台需储备国产大模型作为替代底座，避免单点依赖OpenAI/Anthropic API的供应链中断风险。",
+      "category": "strategic_move",
+      "source_signal": "U.S. Officials Explore Taking Equity Stakes in AI Companies, Signaling Nationalization Risk"
+    },
+    {
+      "date": "2026-06-05T12:27:12.125288+08:00",
+      "prediction_text": "内部工程团队可直接试点该工具用于代码review，并借鉴其架构搭建AI辅助的审核规则变更流水线。",
+      "category": "open_source",
+      "source_signal": "Alibaba Open-Sources AI-Powered Code Review CLI Tool 'Open Code Review'"
+    },
+    {
+      "date": "2026-06-05T12:27:12.126601+08:00",
+      "prediction_text": "使用OpenAI作为底座的内容平台可简化审核系统架构，减少独立审核API的维护与调用成本。",
+      "category": "infrastructure",
+      "source_signal": "OpenAI Adds Moderation Endpoints to Python SDK, Enabling Native Content Filtering"
+    },
+    {
+      "date": "2026-06-05T12:27:12.127939+08:00",
+      "prediction_text": "社区搜索产品可探索为高活跃KOL生成聚合内容卡片，提升头部创作者在站内的搜索曝光与留存。",
+      "category": "strategic_move",
+      "source_signal": "Google Rolls Out Customizable Search Profiles for Creators with 100K+ Subscribers"
+    },
+    {
+      "date": "2026-06-05T12:27:12.129228+08:00",
+      "prediction_text": "内容审核系统需加入AI生成文本的溯源标识与置信度评分，对低可信用户申诉自动标记人工复核。",
+      "category": "infrastructure",
+      "source_signal": "US Courts Confront Surge of AI-Generated Lawsuits: MIT Tech Review Report"
     }
   ]
 }

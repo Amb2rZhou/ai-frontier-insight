@@ -2,7 +2,7 @@
 title: Agent Frameworks
 type: technology
 created: 2026-02-25
-updated: 2026-06-04
+updated: 2026-06-05
 ---
 
 # Agent Frameworks
@@ -11,6 +11,7 @@ The rapidly evolving ecosystem of tools, SDKs, and platforms for building autono
 
 ## Timeline
 
+- **2026-06-05**: [[anthropic|Anthropic]] Reveals 80% of Production Code Authored by [[claude|Claude]], Sets New Enterprise Benchmark
 - **2026-06-04**: Vigils: Open-Source Local Control Plane for AI Agent Security and Audit
 - **2026-06-04**: [[meta|Meta]] Eyes Up to $200/Month Subscription for Consumer 'Hatch' AI Agent
 - **2026-06-03**: Travelers Deploys AI-Powered Claims Assistant with [[openai|OpenAI]] for Customer Support

@@ -2,7 +2,7 @@
 title: Meta
 type: company
 created: 2026-02-26
-updated: 2026-06-04
+updated: 2026-06-05
 ---
 
 # Meta
@@ -11,6 +11,7 @@ Parent company of Facebook, Instagram, and WhatsApp. Major AI investor through F
 
 ## Timeline
 
+- **2026-06-05**: Meta Quietly Embeds Face-Recognition Code in Smart Glasses Platform on Millions of Phones
 - **2026-06-04**: Meta Eyes Up to $200/Month Subscription for Consumer 'Hatch' [[agent-frameworks|AI Agent]]
 - **2026-05-30**: Meta Plans AI Pendant as Part of Ambitious Wearables Expansion
 - **2026-05-28**: Meta Launches Enterprise AI Push with Embedded Engineers and Paid Chatbot Subscriptions

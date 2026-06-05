@@ -2,7 +2,7 @@
 title: OpenAI
 type: company
 created: 2026-02-25
-updated: 2026-06-04
+updated: 2026-06-05
 ---
 
 # OpenAI
@@ -11,6 +11,7 @@ The leading commercial AI lab, maker of [[gpt|GPT]] models, ChatGPT, [[codex|Cod
 
 ## Timeline
 
+- **2026-06-05**: OpenAI Adds Moderation Endpoints to Python SDK, Enabling Native Content Filtering
 - **2026-06-04**: OpenAI and Anthropik Sign Letter Urging Lawmakers to Improve Synthetic DNA Tracking for Bioweapon Prevention
 - **2026-06-04**: [[meta|Meta]] Eyes Up to $200/Month Subscription for Consumer 'Hatch' [[agent-frameworks|AI Agent]]
 - **2026-06-03**: Travelers Deploys AI-Powered Claims Assistant with OpenAI for Customer Support

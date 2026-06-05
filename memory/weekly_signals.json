@@ -399,6 +399,224 @@
           51
         ]
       }
+    ],
+    "2026-06-05": [
+      {
+        "title": "Anthropic Reveals 80% of Production Code Authored by Claude, Sets New Enterprise Benchmark",
+        "signal_text": "据 VentureBeat 报道，Anthropic 联合创始人兼 CEO Dario Amodei 透露，2026年5月 Claude 在 Anthropic 内部已参与编写了超过80%的新生产代码。这一数据为 AI 辅助编码在头部 AI 公司的落地提供了关键参考基准，可能推动更多内容平台（如小红书）评估 AI Agent 在内部工程、内容审核自动化流水线等场景中的应用。",
+        "signal_strength": 0.95,
+        "sources": [
+          {
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/technology/anthropic-says-80-of-its-new-production-code-is-now-authored-by-claude-how-your-enterprise-can-keep-up"
+          }
+        ],
+        "tags": [
+          "AI Agent",
+          "Enterprise AI",
+          "AI Code Generation",
+          "Anthropic",
+          "Developer Productivity"
+        ],
+        "raw_item_indices": [
+          17
+        ]
+      },
+      {
+        "title": "Anthropic Annualized Revenue Surpasses $47B Ahead of IPO, Signaling Market Validation",
+        "signal_text": "据 TechCrunch 报道，Anthropic 首席财务官 Daniela Amodei 在公司 IPO 前透露，截至5月年化收入已突破470亿美元，远超2025年底的约90亿美元。这一爆炸性增长验证了 AI 原生商业化路径，对小红书的 AI 电商/搜索变现策略具有战略对标意义。",
+        "signal_strength": 0.9,
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/"
+          }
+        ],
+        "tags": [
+          "AI Business Model",
+          "Anthropic",
+          "IPO",
+          "Revenue Growth",
+          "Enterprise Market"
+        ],
+        "raw_item_indices": [
+          10
+        ]
+      },
+      {
+        "title": "Airbnb CEO Brian Chesky in Talks to Fund New AI Lab with Design Focus",
+        "signal_text": "据 The Information 和 TechCrunch 报道，Airbnb CEO Brian Chesky 正在洽谈资助一个新 AI 实验室，该实验室将致力于开发具有设计导向的模型。此动向表明内容与体验设计领域的 AI 垂直应用正吸引顶级互联网公司入场，小红书作为设计驱动的 UGC 社区，需关注此类实验室可能推出的多模态创意工具。",
+        "signal_strength": 0.85,
+        "sources": [
+          {
+            "name": "The Information",
+            "url": "https://www.theinformation.com/briefings/brian-chesky-talks-back-new-ai-lab"
+          },
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/"
+          }
+        ],
+        "tags": [
+          "AI Lab",
+          "Design AI",
+          "Airbnb",
+          "Vertical AI",
+          "Creative Tools"
+        ],
+        "raw_item_indices": [
+          12,
+          13
+        ]
+      },
+      {
+        "title": "Meta Quietly Embeds Face-Recognition Code in Smart Glasses Platform on Millions of Phones",
+        "signal_text": "WIRED 审查代码发现，Meta 在 Ray-Ban Meta 智能眼镜平台中悄然嵌入了未公开的人脸识别系统，该系统通过用户手机上的生物识别数据进行身份识别。此事件对小红书的内容安全治理具有警示意义：UGC 平台需警惕 AI 设备（如 AR 眼镜）带来的隐私合规风险，以及未来应对 AI 生成虚假肖像的检测需求升级。",
+        "signal_strength": 0.85,
+        "sources": [
+          {
+            "name": "WIRED",
+            "url": "https://www.wired.com/story/meta-smart-glasses-face-recognition-nametag-connections/"
+          }
+        ],
+        "tags": [
+          "Content Safety",
+          "Privacy",
+          "Biometrics",
+          "Smart Glasses",
+          "Regulatory Risk"
+        ],
+        "raw_item_indices": [
+          25
+        ]
+      },
+      {
+        "title": "South Korea Mandates AI Censorship Scanning for All Images on Online Forums",
+        "signal_text": "据 Hacker News 报道，韩国将强制要求所有在线社区上传的每张图片都经过 AI 审查工具扫描。这一全球最严格的内容审核立法之一，将为小红书的海外合规策略提供重要参考，尤其是在东南亚市场扩展背景下，AI 审核系统的准确率和误报率直接影响用户体验和运营成本。",
+        "signal_strength": 0.8,
+        "sources": [
+          {
+            "name": "Hacker News",
+            "url": "https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341"
+          }
+        ],
+        "tags": [
+          "Content Moderation",
+          "AI Safety",
+          "Regulation",
+          "South Korea",
+          "Overseas Compliance"
+        ],
+        "raw_item_indices": [
+          6
+        ]
+      },
+      {
+        "title": "U.S. Officials Explore Taking Equity Stakes in AI Companies, Signaling Nationalization Risk",
+        "signal_text": "据 The Information 援引 Notus 报道，美国高级官员已与主要 AI 公司进行初步讨论，探讨联邦政府收购其股份的可能性。此举预示着 AI 可能被纳入国家战略基础设施范畴，将对全球 AI 投资格局、开源政策和跨境数据流动产生深远影响。小红书出海时需评估地缘政治风险对 AI 技术供应（如云服务、大模型 API）的潜在影响。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "The Information",
+            "url": "https://www.theinformation.com/briefings/u-s-officials-said-discuss-taking-stakes-ai-companies"
+          }
+        ],
+        "tags": [
+          "AI Policy",
+          "Geopolitics",
+          "National Security",
+          "Investment",
+          "Regulation"
+        ],
+        "raw_item_indices": [
+          0
+        ]
+      },
+      {
+        "title": "Alibaba Open-Sources AI-Powered Code Review CLI Tool 'Open Code Review'",
+        "signal_text": "阿里巴巴开源了 AI 驱动的代码审查 CLI 工具“Open Code Review”，登上 Hacker News 热搜。该工具结合 LLM 实现自动化 code review，直接对标 GitHub Copilot Code Review 等商业产品。对于小红书内部工程团队，此工具可显著提升开发效率，并可作为自建 AI 辅助审核流水线的参考架构。",
+        "signal_strength": 0.7,
+        "sources": [
+          {
+            "name": "GitHub (Alibaba)",
+            "url": "https://github.com/alibaba/open-code-review"
+          }
+        ],
+        "tags": [
+          "Open Source",
+          "AI Developer Tools",
+          "Alibaba",
+          "Code Review",
+          "Engineering Efficiency"
+        ],
+        "raw_item_indices": [
+          3
+        ]
+      },
+      {
+        "title": "OpenAI Adds Moderation Endpoints to Python SDK, Enabling Native Content Filtering",
+        "signal_text": "OpenAI 发布了 openai-python v2.41.0，新增 `responses.moderation` 和 `chat_completions.moderation` API 接口。这意味着开发者可以直接在 OpenAI 响应中集成内容过滤，无需额外调用独立审核 API。小红书若使用 OpenAI 模型作为内容理解底座，可利用该能力简化审核流水线，降低多系统耦合成本。",
+        "signal_strength": 0.7,
+        "sources": [
+          {
+            "name": "GitHub Release (OpenAI)",
+            "url": "https://github.com/openai/openai-python/releases/tag/v2.41.0"
+          }
+        ],
+        "tags": [
+          "OpenAI",
+          "API Update",
+          "Content Moderation",
+          "Safety",
+          "Developer Tools"
+        ],
+        "raw_item_indices": [
+          43
+        ]
+      },
+      {
+        "title": "Google Rolls Out Customizable Search Profiles for Creators with 100K+ Subscribers",
+        "signal_text": "据 The Verge 报道，Google 开始允许美国头部创作者（YouTube 订阅超10万）在搜索中创建专属主页，聚合内容、链接等。这是搜索引擎向创作者生态倾斜的重要信号，小红书搜索团队可借鉴此思路，探索针对 KOL 的内容聚合与曝光优化，提升站内搜索对优质创作者的吸引力。",
+        "signal_strength": 0.7,
+        "sources": [
+          {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/tech/943233/google-search-profiles-custom-page"
+          }
+        ],
+        "tags": [
+          "Search",
+          "Creator Economy",
+          "Google",
+          "Content Distribution",
+          "SEO"
+        ],
+        "raw_item_indices": [
+          23
+        ]
+      },
+      {
+        "title": "US Courts Confront Surge of AI-Generated Lawsuits: MIT Tech Review Report",
+        "signal_text": "据 MIT Technology Review 报道，美国联邦法院正面临大量由 AI 生成的诉讼文件，法官很难区分人类书写与 AI 生成的法律文书。这对小红书的 AI 内容审核系统提出新问题：如何在平台环境中，有效检测并处置 AI 生成的误导性用户纠纷或举报内容？",
+        "signal_strength": 0.65,
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/"
+          }
+        ],
+        "tags": [
+          "AI Misuse",
+          "Content Safety",
+          "Legal Risk",
+          "AI Detection",
+          "Platform Governance"
+        ],
+        "raw_item_indices": [
+          28,
+          30
+        ]
+      }
     ]
   },
   "archived_weeks": [
