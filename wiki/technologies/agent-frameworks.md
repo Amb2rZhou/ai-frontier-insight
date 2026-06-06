@@ -2,7 +2,7 @@
 title: Agent Frameworks
 type: technology
 created: 2026-02-25
-updated: 2026-06-05
+updated: 2026-06-06
 ---
 
 # Agent Frameworks
@@ -11,6 +11,10 @@ The rapidly evolving ecosystem of tools, SDKs, and platforms for building autono
 
 ## Timeline
 
+- **2026-06-06**: [[anthropic|Anthropic]] SDK Deprecates [[claude|Claude]] Opus 4.1, Signaling Model Lifecycle Management
+- **2026-06-06**: crewAI 1.14.7a2: Conversational Flow Traces and Chat API for Agent Orchestration
+- **2026-06-06**: VentureBeat: Enterprise AI Agents Lack Cross-User Learning Persistence
+- **2026-06-06**: [[meta|Meta AI]] Support Agent Exploited for Account Takeover via Recovery Email Binding
 - **2026-06-05**: [[anthropic|Anthropic]] Reveals 80% of Production Code Authored by [[claude|Claude]], Sets New Enterprise Benchmark
 - **2026-06-04**: Vigils: Open-Source Local Control Plane for AI Agent Security and Audit
 - **2026-06-04**: [[meta|Meta]] Eyes Up to $200/Month Subscription for Consumer 'Hatch' AI Agent

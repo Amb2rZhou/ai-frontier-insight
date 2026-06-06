@@ -1,66 +1,6 @@
 {
   "predictions": [
     {
-      "date": "2026-05-20T10:37:57.485696+08:00",
-      "prediction_text": "搜索增强与对话 Agent 可接入终端锚定训练，降低长文档检索和跨会话推理的部署门槛。",
-      "category": "research_breakthrough",
-      "source_signal": "Baidu EndPrompt: Efficient Long-Context Extension via Terminal Anchoring"
-    },
-    {
-      "date": "2026-05-20T10:37:57.488305+08:00",
-      "prediction_text": "内容安全团队可建立内部仓库强制密钥扫描+外部依赖 CI/CD 审计，阻断供应链攻击入口。",
-      "category": "infrastructure",
-      "source_signal": "GitHub Investigating Unauthorized Access to Internal Repositories; CISA Credentials Leaked on Public Repo"
-    },
-    {
-      "date": "2026-05-20T10:58:48.668852+08:00",
-      "prediction_text": "内容平台可考虑将搜索框变为“问你想干什么”的 Agent 入口，整合内容、商品、服务闭环。",
-      "category": "strategic_move",
-      "source_signal": "Google I/O 2026: Gemini 3.5 Flash, Antigravity 2.0, and Agentic Search Overhaul"
-    },
-    {
-      "date": "2026-05-20T10:58:48.674093+08:00",
-      "prediction_text": "社区平台可关注 Anthropic 开源动态，提前评估接入其强对齐能力以降低安全治理成本。",
-      "category": "ecosystem_shift",
-      "source_signal": "Andrej Karpathy Joins Anthropic"
-    },
-    {
-      "date": "2026-05-20T10:58:48.678550+08:00",
-      "prediction_text": "创作者工具可探索音频/文字直接驱动视频生成模板，降低 UGC 视频创作门槛。",
-      "category": "research_breakthrough",
-      "source_signal": "Google DeepMind Releases Gemini Omni: Any-to-Video Generation Model"
-    },
-    {
-      "date": "2026-05-20T10:58:48.682079+08:00",
-      "prediction_text": "内容平台应尽快集成 SynthID 扫描与验证工具链，识别并标记平台上的 AI 生成内容。",
-      "category": "ecosystem_shift",
-      "source_signal": "OpenAI Adopts Google's SynthID Watermark for AI Images"
-    },
-    {
-      "date": "2026-05-20T10:58:48.684572+08:00",
-      "prediction_text": "内容平台可考虑基于统一架构构建一站式图文视频创作编辑入口，降低用户操作成本。",
-      "category": "research_breakthrough",
-      "source_signal": "ByteDance Releases Lance: Unified Multimodal Model for Understanding, Generation, and Editing"
-    },
-    {
-      "date": "2026-05-20T10:58:48.687236+08:00",
-      "prediction_text": "推荐系统团队可评估在用户端部署轻量级模型，实现离线个性化重排与低延迟推理。",
-      "category": "infrastructure",
-      "source_signal": "Unsloth Enables 4-bit Qwen3.6 with Multi-Token Prediction Running Locally on 20GB RAM"
-    },
-    {
-      "date": "2026-05-20T10:58:48.689624+08:00",
-      "prediction_text": "内容平台应加速自建推理优化管线（如量化/蒸馏），降低对外部封闭 API 的长期依赖。",
-      "category": "infrastructure",
-      "source_signal": "OpenAI Guaranteed Capacity and Anthropic Token Commitments Signal Infrastructure Constraints"
-    },
-    {
-      "date": "2026-05-20T10:58:48.691866+08:00",
-      "prediction_text": "社区平台可探索用户自托管 Agent 插件市场，允许用户将私有数据与本地模型对接。",
-      "category": "open_source",
-      "source_signal": "OpenClaw Integrates with X (Twitter), Enabling Grok Models on Personal Hardware"
-    },
-    {
       "date": "2026-05-20T10:58:48.694030+08:00",
       "prediction_text": "视频创作平台可评估序列并行框架用于 UGC 长视频生成，降低部署成本和生成延迟。",
       "category": "research_breakthrough",
@@ -599,6 +539,66 @@
       "prediction_text": "内容审核系统需加入AI生成文本的溯源标识与置信度评分，对低可信用户申诉自动标记人工复核。",
       "category": "infrastructure",
       "source_signal": "US Courts Confront Surge of AI-Generated Lawsuits: MIT Tech Review Report"
+    },
+    {
+      "date": "2026-06-06T13:43:19.249094+08:00",
+      "prediction_text": "内容平台可探索与边缘算力提供商合作，在低延迟区域预部署推理节点，降低分发成本。",
+      "category": "strategic_move",
+      "source_signal": "Google to Pay SpaceX $920M Monthly for GPU Compute Capacity"
+    },
+    {
+      "date": "2026-06-06T13:43:19.255587+08:00",
+      "prediction_text": "使用微软/OpenAI 双栈的平台需评估 Copilot 产品线的长期稳定性，建议提前储备替代模型方案。",
+      "category": "strategic_move",
+      "source_signal": "Microsoft AI Chief Declares Independence from OpenAI, Pivots to Superintelligence"
+    },
+    {
+      "date": "2026-06-06T13:43:19.261251+08:00",
+      "prediction_text": "社区平台的用户支持 Agent 需引入操作行为审计与二次确认机制，防止单次对话授予越权绑定。",
+      "category": "infrastructure",
+      "source_signal": "Meta AI Support Agent Exploited for Account Takeover via Recovery Email Binding"
+    },
+    {
+      "date": "2026-06-06T13:43:19.265821+08:00",
+      "prediction_text": "推荐系统团队可探索基于该理论的模型压缩方案，在保持表达力的前提下降低推理延迟。",
+      "category": "research_breakthrough",
+      "source_signal": "ICLR 2026 Outstanding Paper: Transformers Are Inherently Succinct"
+    },
+    {
+      "date": "2026-06-06T13:43:19.269953+08:00",
+      "prediction_text": "内容平台应加大内部 AI 与业务专家的交叉培养投入，避免关键人才外流后断代。",
+      "category": "strategic_move",
+      "source_signal": "Reid Hoffman Leaves Microsoft Board to Focus on AI Drug Discovery Startup Manus"
+    },
+    {
+      "date": "2026-06-06T13:43:19.273172+08:00",
+      "prediction_text": "创作者工具团队在构建 AI 辅助 Agent 时，需优先设计协作记忆层，支持提示与纠偏经验的团队迁移。",
+      "category": "ecosystem_shift",
+      "source_signal": "VentureBeat: Enterprise AI Agents Lack Cross-User Learning Persistence"
+    },
+    {
+      "date": "2026-06-06T13:43:19.276025+08:00",
+      "prediction_text": "出海的电商/内容平台需评估模型供应链的地缘韧性，建议储备国产与开源模型作为合规备选。",
+      "category": "ecosystem_shift",
+      "source_signal": "Trump Targets Meeting with AI Companies to Discuss Financial Partnerships"
+    },
+    {
+      "date": "2026-06-06T13:43:19.278666+08:00",
+      "prediction_text": "平台内部的多 Agent 审核流水线可借鉴 crewAI 的追踪溯源架构，提升调试与合规可审计性。",
+      "category": "open_source",
+      "source_signal": "crewAI 1.14.7a2: Conversational Flow Traces and Chat API for Agent Orchestration"
+    },
+    {
+      "date": "2026-06-06T13:43:19.281264+08:00",
+      "prediction_text": "内容平台的推理部署可考虑引入 AMD 机型与 vLLM 的量化方案，降低非核心场景的推理硬件成本。",
+      "category": "infrastructure",
+      "source_signal": "vLLM v0.22.1 Adds JetBrains Mellum v2 Support and AMD Zen CPU Quantized Inference"
+    },
+    {
+      "date": "2026-06-06T13:43:19.283840+08:00",
+      "prediction_text": "集成 Anthropic 模型的内容平台需建立模型版本自动检测与灰度迁移流水线，避免服务中断。",
+      "category": "strategic_move",
+      "source_signal": "Anthropic SDK Deprecates Claude Opus 4.1, Signaling Model Lifecycle Management"
     }
   ]
 }

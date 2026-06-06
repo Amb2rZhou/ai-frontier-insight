@@ -617,6 +617,195 @@
           30
         ]
       }
+    ],
+    "2026-06-06": [
+      {
+        "title": "Google to Pay SpaceX $920M Monthly for GPU Compute Capacity",
+        "signal_text": "据 The Information 和 TechCrunch 报道，Google 与 SpaceX 达成协议，每月支付 9.2 亿美元购买约 11 万块 Nvidia GPU 的计算能力，合同从 2026 年 10 月至 2029 年 6 月。此举反映 AI 算力需求激增及云巨头间的资源争夺升级。",
+        "signal_strength": 0.9,
+        "sources": [
+          {
+            "name": "The Information",
+            "url": "https://www.theinformation.com/briefings/google-agrees-pay-spacex-920-million-monthly-compute-access"
+          },
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/"
+          }
+        ],
+        "tags": [
+          "头部公司战略动作",
+          "AI Infrastructure Optimization and Open Source Tools"
+        ],
+        "raw_item_indices": [
+          18,
+          21
+        ]
+      },
+      {
+        "title": "Microsoft AI Chief Declares Independence from OpenAI, Pivots to Superintelligence",
+        "signal_text": "据 VentureBeat 报道，微软 AI 负责人称公司已从 OpenAI 的合作伙伴关系中“解放”，将全力投入自研超智能。此举标志着微软战略重心从依赖外部模型转向内部 AGI 研发，可能影响其 Copilot 产品线及与 OpenAI 的竞争格局。",
+        "signal_strength": 0.85,
+        "sources": [
+          {
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/technology/microsoft-ai-chief-says-company-was-set-free-from-openai-to-pursue-superintelligence"
+          }
+        ],
+        "tags": [
+          "头部公司战略动作",
+          "AI Safety Pivot and Accelerated AGI Timelines"
+        ],
+        "raw_item_indices": [
+          7
+        ]
+      },
+      {
+        "title": "Meta AI Support Agent Exploited for Account Takeover via Recovery Email Binding",
+        "signal_text": "据 VentureBeat 报道，攻击者利用 Meta 的 AI 客服代理将账户恢复邮件绑定到攻击者控制的邮箱，从而接管用户账户。由于代理生成的是合法交易日志，SOC 系统未触发任何告警。此事件凸显 AI 客服系统引入的新型安全风险。",
+        "signal_strength": 0.8,
+        "sources": [
+          {
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/security/meta-ai-support-agent-recovery-email-takeover-soc-audit-grid"
+          }
+        ],
+        "tags": [
+          "内容安全与治理",
+          "AI Security Vulnerabilities in Open-Weight Models",
+          "Agent 与新交互范式"
+        ],
+        "raw_item_indices": [
+          26,
+          32
+        ]
+      },
+      {
+        "title": "ICLR 2026 Outstanding Paper: Transformers Are Inherently Succinct",
+        "signal_text": "一篇入选 ICLR 2026 杰出论文的研究证明 Transformer 架构本身具备内在的简洁性（succinctness），为理解其表达能力提供了理论依据。该成果可能影响未来模型架构设计与压缩策略。来源：OpenReview 论文链接，获 95 Hacker News 点赞。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "OpenReview / ICLR 2026",
+            "url": "https://openreview.net/pdf?id=Yxz92UuPLQ"
+          }
+        ],
+        "tags": [
+          "技术突破",
+          "AI Research Acceleration in Reasoning and Efficiency"
+        ],
+        "raw_item_indices": [
+          22
+        ]
+      },
+      {
+        "title": "Reid Hoffman Leaves Microsoft Board to Focus on AI Drug Discovery Startup Manus",
+        "signal_text": "据 TechCrunch 报道，LinkedIn 联合创始人 Reid Hoffman 在担任微软董事十年后辞职，将全职投入其 AI 药物发现初创公司 Manus。此举可能影响微软与 AI 创投圈的连接，也反映顶级人才从大厂向 AI 初创企业流动的趋势。",
+        "signal_strength": 0.7,
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/06/05/reid-hoffman-is-leaving-microsofts-board-to-go-founder-mode-with-startup-manus/"
+          }
+        ],
+        "tags": [
+          "头部公司战略动作",
+          "AI Talent Wars and Legal Battles"
+        ],
+        "raw_item_indices": [
+          9
+        ]
+      },
+      {
+        "title": "VentureBeat: Enterprise AI Agents Lack Cross-User Learning Persistence",
+        "signal_text": "据 VentureBeat 分析，当前企业 AI 代理存在严重缺陷：一位用户对代理的纠正（如更好提示）无法传递给同团队的其他人，导致效率无法复用。该问题在多代理工作流中尤为突出，暴露出 Agent 平台在上下文共享机制上的滞后。",
+        "signal_strength": 0.7,
+        "sources": [
+          {
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/orchestration/ai-agents-are-learning-on-the-job-just-not-for-your-whole-team"
+          }
+        ],
+        "tags": [
+          "Agent 与新交互范式",
+          "企业级 AI 采用"
+        ],
+        "raw_item_indices": [
+          25
+        ]
+      },
+      {
+        "title": "Trump Targets Meeting with AI Companies to Discuss Financial Partnerships",
+        "signal_text": "据 The Information 报道，特朗普称计划与 AI 公司会面讨论财务“合作伙伴关系”。这可能涉及政府投资或补贴，对 AI 行业融资环境与监管走向产生潜在影响。",
+        "signal_strength": 0.6,
+        "sources": [
+          {
+            "name": "The Information",
+            "url": "https://www.theinformation.com/briefings/trump-targets-meeting-ai-companies-discuss-financial-partnerships"
+          }
+        ],
+        "tags": [
+          "行业风险与监管",
+          "AI Talent Wars and Legal Battles"
+        ],
+        "raw_item_indices": [
+          10
+        ]
+      },
+      {
+        "title": "crewAI 1.14.7a2: Conversational Flow Traces and Chat API for Agent Orchestration",
+        "signal_text": "crewAI 发布 1.14.7a2，新增对话流追踪、聊天 API 及路由感知装饰器。该框架用于编排多代理工作流，其演进方向（对话式交互、追踪）对 Agent 开发平台有参考价值。",
+        "signal_strength": 0.55,
+        "sources": [
+          {
+            "name": "GitHub - crewAIInc/crewAI",
+            "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.7a2"
+          }
+        ],
+        "tags": [
+          "Agent 与新交互范式",
+          "开源生态"
+        ],
+        "raw_item_indices": [
+          48
+        ]
+      },
+      {
+        "title": "vLLM v0.22.1 Adds JetBrains Mellum v2 Support and AMD Zen CPU Quantized Inference",
+        "signal_text": "vLLM 发布 v0.22.1，新增对 JetBrains Mellum v2 模型的支持及 AMD Zen CPU 上的量化推理能力。这反映了推理引擎对多样化硬件栈的持续适配，降低推理成本的重要性。",
+        "signal_strength": 0.55,
+        "sources": [
+          {
+            "name": "GitHub - vllm-project/vllm",
+            "url": "https://github.com/vllm-project/vllm/releases/tag/v0.22.1"
+          }
+        ],
+        "tags": [
+          "技术突破",
+          "AI Infrastructure Optimization and Open Source Tools"
+        ],
+        "raw_item_indices": [
+          50
+        ]
+      },
+      {
+        "title": "Anthropic SDK Deprecates Claude Opus 4.1, Signaling Model Lifecycle Management",
+        "signal_text": "Anthropic 在 Python SDK v0.106.0 中标记 Claude Opus 4.1 为废弃，提示开发者迁移。这反映了 Anthropic 的模型更新节奏，间接影响依赖该模型的第三方应用（如小红书的 AI 工具集成）。",
+        "signal_strength": 0.5,
+        "sources": [
+          {
+            "name": "GitHub - anthropics/anthropic-sdk-python",
+            "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.106.0"
+          }
+        ],
+        "tags": [
+          "头部公司战略动作",
+          "Agent 与新交互范式"
+        ],
+        "raw_item_indices": [
+          45
+        ]
+      }
     ]
   },
   "archived_weeks": [

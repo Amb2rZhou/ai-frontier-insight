@@ -2,7 +2,7 @@
 title: AI Safety
 type: trend
 created: 2026-02-25
-updated: 2026-06-05
+updated: 2026-06-06
 ---
 
 # AI Safety
@@ -13,6 +13,8 @@ The evolving landscape of AI safety research, policy, and corporate commitments 
 
 ## Timeline
 
+- **2026-06-06**: [[meta|Meta AI]] Support Agent Exploited for Account Takeover via Recovery Email Binding
+- **2026-06-06**: [[microsoft|Microsoft]] AI Chief Declares Independence from [[openai|OpenAI]], Pivots to Superintelligence
 - **2026-06-05**: South Korea Mandates AI Censorship Scanning for All Images on Online Forums
 - **2026-06-03**: ARC White-Box Estimation Challenge Launched to Improve AI Safety Estimation
 - **2026-05-30**: Google [[gemini|Gemini]] Models Tested for 'Scheming' Tendencies by [[google-deepmind|DeepMind]] Alignment Team

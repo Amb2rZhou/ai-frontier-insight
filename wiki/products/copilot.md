@@ -2,7 +2,7 @@
 title: Copilot
 type: product
 created: 2026-02-27
-updated: 2026-06-05
+updated: 2026-06-06
 ---
 
 # Copilot
@@ -11,6 +11,7 @@ updated: 2026-06-05
 
 ## Timeline
 
+- **2026-06-06**: [[microsoft|Microsoft]] AI Chief Declares Independence from [[openai|OpenAI]], Pivots to Superintelligence
 - **2026-06-05**: [[alibaba|Alibaba]] Open-Sources AI-Powered Code Review CLI Tool 'Open Code Review'
 - **2026-05-31**: GitHub Copilot Introduces Token-Based Billing, Spurring Developer Backlash
 - **2026-05-01**: Vulnerabilities in AI Coding Agents Exploit Credentials, Not Models: [[claude|Claude Code]], Copilot, [[codex|Codex]] All Hacked

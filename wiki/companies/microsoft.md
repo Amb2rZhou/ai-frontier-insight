@@ -2,7 +2,7 @@
 title: Microsoft
 type: company
 created: 2026-02-27
-updated: 2026-06-03
+updated: 2026-06-06
 ---
 
 # Microsoft
@@ -11,6 +11,8 @@ Technology giant with major AI investments through Azure, [[copilot|Copilot]], a
 
 ## Timeline
 
+- **2026-06-06**: Reid Hoffman Leaves Microsoft Board to Focus on AI Drug Discovery Startup Manus
+- **2026-06-06**: Microsoft AI Chief Declares Independence from [[openai|OpenAI]], Pivots to Superintelligence
 - **2026-06-03**: Microsoft IQ and Rayfin: Solving Enterprise [[agent-frameworks|AI Agent]] Data Silos
 - **2026-06-03**: Microsoft Scout: AI Coworker Agent for Teams Automates Office Tasks
 - **2026-06-03**: Microsoft Launches MXC: OS-Level Sandbox for AI Agents with [[openai|OpenAI]] and [[nvidia|Nvidia]] Backing
