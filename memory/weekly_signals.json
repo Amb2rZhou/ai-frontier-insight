@@ -806,6 +806,200 @@
           45
         ]
       }
+    ],
+    "2026-06-07": [
+      {
+        "title": "OpenAI Unveils Lockdown Mode to Defend Against Prompt Injection",
+        "signal_text": "OpenAI 推出 Lockdown Mode，旨在保护 ChatGPT 中的敏感数据免受 prompt injection 攻击。该模式通过限制模型对敏感信息的访问来降低数据泄露风险，是内容安全领域的重要防御机制升级。据 TechCrunch 报道。",
+        "signal_strength": 0.85,
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/"
+          }
+        ],
+        "tags": [
+          "内容安全",
+          "LLM安全",
+          "OpenAI"
+        ],
+        "raw_item_indices": [
+          5
+        ]
+      },
+      {
+        "title": "Trump Administration Discusses Taking Equity Stake in OpenAI",
+        "signal_text": "美国总统特朗普表示正在讨论让美国人民从 AI 成功中受益的交易，可能通过政府持有 OpenAI 股权的方式实现。这标志着 AI 产业与政府资本深度绑定的新趋势，可能重塑 AI 公司治理和商业化路径。据 TechCrunch 报道。",
+        "signal_strength": 0.8,
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/"
+          }
+        ],
+        "tags": [
+          "头部公司战略动作",
+          "行业风险与监管",
+          "OpenAI"
+        ],
+        "raw_item_indices": [
+          12
+        ]
+      },
+      {
+        "title": "Ollama v0.30.6: Adds Gemma 4 QAT Optimized Weights for On-Device Deployment",
+        "signal_text": "Ollama 发布 v0.30.6，新增 Gemma 4 QAT（量化感知训练）权重版本，显著降低内存需求并最大化设备端性能。这对端侧部署多模态模型（如小红书的内容生成与理解场景）有直接价值。",
+        "signal_strength": 0.65,
+        "sources": [
+          {
+            "name": "GitHub (ollama/ollama)",
+            "url": "https://github.com/ollama/ollama/releases/tag/v0.30.6"
+          }
+        ],
+        "tags": [
+          "技术突破",
+          "端侧部署",
+          "开源生态"
+        ],
+        "raw_item_indices": [
+          37
+        ]
+      },
+      {
+        "title": "Soul-AILab/SoulX-Transcriber: End-to-End Multi-Speaker Transcription Framework",
+        "signal_text": "Soul-AILab 开源 SoulX-Transcriber，一个端到端多说话人转录框架，联合建模说话人身份、时间和内容。该框架结合 ASR、LLM 和 speaker diarization，支持语音识别与说话人分离一体化，对内容平台的多模态内容理解有潜在应用价值。GitHub 获 192 stars。",
+        "signal_strength": 0.5,
+        "sources": [
+          {
+            "name": "GitHub",
+            "url": "https://github.com/Soul-AILab/SoulX-Transcriber"
+          }
+        ],
+        "tags": [
+          "内容创作与理解",
+          "多模态生成",
+          "开源生态"
+        ],
+        "raw_item_indices": [
+          22
+        ]
+      },
+      {
+        "title": "Sriram Krishnan Departs as White House AI Advisor to Start Policy Institution",
+        "signal_text": "白宫 AI 政策顾问 Sriram Krishnan 计划6月底离职，据称将创办新的政策研究机构以继续影响特朗普 AI 政策。此人事变动可能影响美国 AI 政策方向。据 The Information 和 TechCrunch 报道。",
+        "signal_strength": 0.5,
+        "sources": [
+          {
+            "name": "The Information",
+            "url": "https://www.theinformation.com/articles/white-house-ai-policy-advisor-krishnan-leave-position"
+          },
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/"
+          }
+        ],
+        "tags": [
+          "头部公司战略动作",
+          "行业风险与监管"
+        ],
+        "raw_item_indices": [
+          9,
+          11
+        ]
+      },
+      {
+        "title": "Somnusochi/VLM-AutoYOLO: VLM-Powered Auto Annotation and YOLO Training Pipeline",
+        "signal_text": "开源项目 VLM-AutoYOLO 提供端到端目标检测自动标注与 YOLO 训练流水线，利用 NVIDIA LocateAnything-3B VLM 进行自动标注，支持人工修正和一键训练。对内容平台的图片/视频内容理解与审核自动化有潜在应用。GitHub 获 72 stars。",
+        "signal_strength": 0.45,
+        "sources": [
+          {
+            "name": "GitHub (Somnusochi/VLM-AutoYOLO)",
+            "url": "https://github.com/Somnusochi/VLM-AutoYOLO"
+          }
+        ],
+        "tags": [
+          "内容创作与理解",
+          "内容安全",
+          "多模态"
+        ],
+        "raw_item_indices": [
+          26
+        ]
+      },
+      {
+        "title": "myccarl/ai-shortVideo-pipeline: End-to-End AI Short Video Production Pipeline",
+        "signal_text": "开源项目 ai-shortVideo-pipeline 提供端到端 AI 短视频生产流水线，包括 FastAPI 编排、多模型故障切换、CLIP 一致性检测、音画同步自动修复等。对小红书等内容平台 AI 视频创作工具有直接参考价值。GitHub 获 49 stars。",
+        "signal_strength": 0.45,
+        "sources": [
+          {
+            "name": "GitHub (myccarl/ai-shortVideo-pipeline)",
+            "url": "https://github.com/myccarl/ai-shortVideo-pipeline"
+          }
+        ],
+        "tags": [
+          "内容创作与理解",
+          "多模态生成",
+          "开源生态"
+        ],
+        "raw_item_indices": [
+          28
+        ]
+      },
+      {
+        "title": "PanisHandsome/ai-rules-sync: Unified Config Sync for AI Coding Agents",
+        "signal_text": "开源工具 ai-rules-sync 实现 AI coding-agent 规则文件的统一管理与同步，支持 AGENTS.md、CLAUDE.md、.cursorrules 等多种格式互转，零依赖。反映了 AI 编程助手生态工具链的成熟化趋势。GitHub 获 112 stars。",
+        "signal_strength": 0.4,
+        "sources": [
+          {
+            "name": "GitHub (PanisHandsome/ai-rules-sync)",
+            "url": "https://github.com/PanisHandsome/ai-rules-sync"
+          }
+        ],
+        "tags": [
+          "Agent 与新交互范式",
+          "开源生态"
+        ],
+        "raw_item_indices": [
+          25
+        ]
+      },
+      {
+        "title": "davanstrien/uv-scripts-for-ai: Self-Contained AI Scripts for OCR, Vision, Audio Tasks",
+        "signal_text": "开源项目 uv-scripts-for-ai 提供自包含的 UV 脚本，用于 OCR、视觉、音频等 AI 任务，可本地或 Hugging Face Jobs 上运行。目标是方便人类和 Agent 调用，反映了 AI 工具从库向脚本化、可组合演进的趋势。GitHub 获 36 stars。",
+        "signal_strength": 0.35,
+        "sources": [
+          {
+            "name": "GitHub (davanstrien/uv-scripts-for-ai)",
+            "url": "https://github.com/davanstrien/uv-scripts-for-ai"
+          }
+        ],
+        "tags": [
+          "Agent 与新交互范式",
+          "开源生态"
+        ],
+        "raw_item_indices": [
+          30
+        ]
+      },
+      {
+        "title": "zengxiao-he/tessera: From-Scratch LLM Distillation and Serving Engine",
+        "signal_text": "开源项目 tessera 提供自实现的 LLM 蒸馏与推理引擎，包含自定义 Triton/CUDA 内核、FSDP 蒸馏、paged-KV continuous batching、speculative decoding、Rust 网关等。对理解 LLM 推理效率优化技术有学习价值。GitHub 获 56 stars。",
+        "signal_strength": 0.35,
+        "sources": [
+          {
+            "name": "GitHub (zengxiao-he/tessera)",
+            "url": "https://github.com/zengxiao-he/tessera"
+          }
+        ],
+        "tags": [
+          "技术突破",
+          "推理效率提升",
+          "开源生态"
+        ],
+        "raw_item_indices": [
+          27
+        ]
+      }
     ]
   },
   "archived_weeks": [

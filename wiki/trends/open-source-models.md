@@ -2,7 +2,7 @@
 title: Open Source Models
 type: trend
 created: 2026-02-25
-updated: 2026-06-06
+updated: 2026-06-07
 ---
 
 # Open Source Models
@@ -13,6 +13,12 @@ The rapid proliferation of open-source and open-weight foundation models challen
 
 ## Timeline
 
+- **2026-06-07**: zengxiao-he/tessera: From-Scratch LLM Distillation and Serving Engine
+- **2026-06-07**: davanstrien/uv-scripts-for-ai: Self-Contained AI Scripts for OCR, Vision, Audio Tasks
+- **2026-06-07**: PanisHandsome/ai-rules-sync: Unified Config Sync for AI Coding Agents
+- **2026-06-07**: myccarl/ai-shortVideo-pipeline: End-to-End AI Short Video Production Pipeline
+- **2026-06-07**: Soul-AILab/SoulX-Transcriber: End-to-End Multi-Speaker Transcription Framework
+- **2026-06-07**: [[ollama|Ollama]] v0.30.6: Adds [[gemma|Gemma]] 4 QAT Optimized Weights for On-Device Deployment
 - **2026-06-06**: crewAI 1.14.7a2: Conversational Flow Traces and Chat API for Agent Orchestration
 - **2026-06-04**: [[hugging-face|HuggingFace]] Transformers v5.10.1 Adds Official Support for Gemma4 with MTP (Multi-Token Prediction) Architecture
 - **2026-06-04**: Vigils: Open-Source Local Control Plane for [[agent-frameworks|AI Agent]] Security and Audit

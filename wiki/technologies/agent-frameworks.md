@@ -2,7 +2,7 @@
 title: Agent Frameworks
 type: technology
 created: 2026-02-25
-updated: 2026-06-06
+updated: 2026-06-07
 ---
 
 # Agent Frameworks
@@ -11,6 +11,8 @@ The rapidly evolving ecosystem of tools, SDKs, and platforms for building autono
 
 ## Timeline
 
+- **2026-06-07**: davanstrien/uv-scripts-for-ai: Self-Contained AI Scripts for OCR, Vision, Audio Tasks
+- **2026-06-07**: PanisHandsome/ai-rules-sync: Unified Config Sync for AI Coding Agents
 - **2026-06-06**: [[anthropic|Anthropic]] SDK Deprecates [[claude|Claude]] Opus 4.1, Signaling Model Lifecycle Management
 - **2026-06-06**: crewAI 1.14.7a2: Conversational Flow Traces and Chat API for Agent Orchestration
 - **2026-06-06**: VentureBeat: Enterprise AI Agents Lack Cross-User Learning Persistence

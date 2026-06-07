@@ -1,66 +1,6 @@
 {
   "predictions": [
     {
-      "date": "2026-05-20T10:58:48.694030+08:00",
-      "prediction_text": "视频创作平台可评估序列并行框架用于 UGC 长视频生成，降低部署成本和生成延迟。",
-      "category": "research_breakthrough",
-      "source_signal": "NVIDIA LongLive-2.0: NVFP4-Based Infrastructure for Long Video Generation"
-    },
-    {
-      "date": "2026-05-20T10:58:48.696043+08:00",
-      "prediction_text": "推荐与搜索系统可引入 LiteFrame 类编码器处理长视频内容，提升用户长留存视频的召回准确性。",
-      "category": "research_breakthrough",
-      "source_signal": "Google DeepMind LiteFrame: Efficient Video Encoder Unlocks Frame Scaling in Video LLMs"
-    },
-    {
-      "date": "2026-05-22T07:21:33.122865+08:00",
-      "prediction_text": "内容平台/电商平台的创作者工具可考虑推出定向 API 额度计划，提前锁定 AI 原生应用开发者。",
-      "category": "strategic_move",
-      "source_signal": "OpenAI Offers $2M API Credits to Every Y Combinator Startup in Current Batch"
-    },
-    {
-      "date": "2026-05-22T07:21:33.129853+08:00",
-      "prediction_text": "内容平台的内容安全审核与客服 Agent 可以考虑评估 Command A+，以低成本和可审计方式上线。",
-      "category": "open_source",
-      "source_signal": "Cohere Releases Command A+ with Apache 2.0 License, Lossless Quantization, and Native Citations"
-    },
-    {
-      "date": "2026-05-22T07:21:33.134208+08:00",
-      "prediction_text": "社区平台/电商平台的 Agent 市场可以考虑参考 Managed Agents API，抽象为 MCP 插件式的 Agent 创建入口。",
-      "category": "infrastructure",
-      "source_signal": "Google Launches Managed Agents API for One-Call Agent Deployment"
-    },
-    {
-      "date": "2026-05-22T07:21:33.138150+08:00",
-      "prediction_text": "内容平台/社区的 AI 开发管线应考虑加固 VS Code 扩展与第三方依赖的审计与沙箱策略。",
-      "category": "infrastructure",
-      "source_signal": "GitHub Confirms 3,800 Repos Stolen via Poisoned VS Code Extension in Supply-Chain Attack"
-    },
-    {
-      "date": "2026-05-22T07:21:33.141629+08:00",
-      "prediction_text": "内容平台的客服/创作者 Agent 可提前关注 Anthropic 定价策略，对比自建成本与外包 API 的 ROI。",
-      "category": "ecosystem_shift",
-      "source_signal": "Anthropic Anticipates First Profitable Quarter, Revenue Set to Double"
-    },
-    {
-      "date": "2026-05-22T07:21:33.145191+08:00",
-      "prediction_text": "电商/社区平台的实时推理管线可考虑布局异构计算，为未来 Agent 高频动作预留专用算力。",
-      "category": "infrastructure",
-      "source_signal": "Jensen Huang Predicts $200B New Market: CPUs for AI Agents"
-    },
-    {
-      "date": "2026-05-22T07:21:33.147772+08:00",
-      "prediction_text": "推荐系统/搜索产品的实时推理可以考虑评估 Cerebras 等专用芯片，支持更大模型在线服务。",
-      "category": "infrastructure",
-      "source_signal": "Cerebras Claims Trillion-Parameter Inference Speed 7x Faster Than GPU Clouds"
-    },
-    {
-      "date": "2026-05-22T07:21:33.150466+08:00",
-      "prediction_text": "内容平台的 AI 功能可以考虑推出 token 用量可视化仪表盘，帮创作者/商家控制成本，提升信任。",
-      "category": "ecosystem_shift",
-      "source_signal": "Fortune 500 CIOs Flag Token Costs as Dominant Enterprise AI Concern"
-    },
-    {
       "date": "2026-05-22T07:21:33.152767+08:00",
       "prediction_text": "社区/电商平台的内容审核与运营团队应主动设计人机协作岗位重组，避免被动裁员。",
       "category": "strategic_move",
@@ -599,6 +539,66 @@
       "prediction_text": "集成 Anthropic 模型的内容平台需建立模型版本自动检测与灰度迁移流水线，避免服务中断。",
       "category": "strategic_move",
       "source_signal": "Anthropic SDK Deprecates Claude Opus 4.1, Signaling Model Lifecycle Management"
+    },
+    {
+      "date": "2026-06-07T13:27:50.218692+08:00",
+      "prediction_text": "内容平台的创作者工具/客服Agent需引入类似Lockdown模式，对敏感用户数据实施默认隔离访问。",
+      "category": "model_release",
+      "source_signal": "OpenAI Unveils Lockdown Mode to Defend Against Prompt Injection"
+    },
+    {
+      "date": "2026-06-07T13:27:50.229037+08:00",
+      "prediction_text": "出海的电商平台需加速自研或国产多模态备选模型，评估模型供应链的'去美国化'韧性。",
+      "category": "strategic_move",
+      "source_signal": "Trump Administration Discusses Taking Equity Stake in OpenAI"
+    },
+    {
+      "date": "2026-06-07T13:27:50.235304+08:00",
+      "prediction_text": "社区平台可探索基于QAT模型的端侧本地化审核与实时特效渲染，降低云端推理成本。",
+      "category": "open_source",
+      "source_signal": "Ollama v0.30.6: Adds Gemma 4 QAT Optimized Weights for On-Device Deployment"
+    },
+    {
+      "date": "2026-06-07T13:27:50.240279+08:00",
+      "prediction_text": "内容平台可探索将UGC音频/播客自动转录为结构化笔记或摘录，提升搜索与分发效率。",
+      "category": "open_source",
+      "source_signal": "Soul-AILab/SoulX-Transcriber: End-to-End Multi-Speaker Transcription Framework"
+    },
+    {
+      "date": "2026-06-07T13:27:50.245187+08:00",
+      "prediction_text": "内容平台的合规团队需建立多国政策情景模拟能力，从'被动应对'转向'情景预演'。",
+      "category": "ecosystem_shift",
+      "source_signal": "Sriram Krishnan Departs as White House AI Advisor to Start Policy Institution"
+    },
+    {
+      "date": "2026-06-07T13:27:50.249046+08:00",
+      "prediction_text": "内容安全团队可探索'VLM粗标+人工精修'的半自动迭代流程，加速违规内容识别模型更新。",
+      "category": "open_source",
+      "source_signal": "Somnusochi/VLM-AutoYOLO: VLM-Powered Auto Annotation and YOLO Training Pipeline"
+    },
+    {
+      "date": "2026-06-07T13:27:50.252245+08:00",
+      "prediction_text": "创作者工具团队可参考其CLIP一致性检测与音画同步修复模块，集成至短视频创作Agent。",
+      "category": "open_source",
+      "source_signal": "myccarl/ai-shortVideo-pipeline: End-to-End AI Short Video Production Pipeline"
+    },
+    {
+      "date": "2026-06-07T13:27:50.255711+08:00",
+      "prediction_text": "平台内部AI开发团队可探索类似方案，统一管理多个Agent模型的prompt规则与行为边界。",
+      "category": "infrastructure",
+      "source_signal": "PanisHandsome/ai-rules-sync: Unified Config Sync for AI Coding Agents"
+    },
+    {
+      "date": "2026-06-07T13:27:50.259000+08:00",
+      "prediction_text": "创作者工具可发布基于UV的自包含脚本，让用户Agent一键调用OCR/视觉/音频能力。",
+      "category": "ecosystem_shift",
+      "source_signal": "davanstrien/uv-scripts-for-ai: Self-Contained AI Scripts for OCR, Vision, Audio Tasks"
+    },
+    {
+      "date": "2026-06-07T13:27:50.261617+08:00",
+      "prediction_text": "推荐系统团队可研究其paged-KV和speculative decoding实现，评估在内部场景复用的可行性。",
+      "category": "research_breakthrough",
+      "source_signal": "zengxiao-he/tessera: From-Scratch LLM Distillation and Serving Engine"
     }
   ]
 }

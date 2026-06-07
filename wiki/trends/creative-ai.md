@@ -2,7 +2,7 @@
 title: Creative AI
 type: trend
 created: 2026-03-08
-updated: 2026-06-04
+updated: 2026-06-07
 ---
 
 # Creative AI
@@ -13,6 +13,8 @@ AI-powered tools for image, video, audio, and 3D content generation.
 
 ## Timeline
 
+- **2026-06-07**: myccarl/ai-shortVideo-pipeline: End-to-End AI Short Video Production Pipeline
+- **2026-06-07**: Soul-AILab/SoulX-Transcriber: End-to-End Multi-Speaker Transcription Framework
 - **2026-06-04**: LongLive-RAG: Official Framework for [[rag|Retrieval]]-Augmented Long Video Generation
 - **2026-05-22**: ResembleAI Dramabox: Text-to-Speech with Voice Cloning by Diffusion Transformer
 - **2026-05-20**: [[bytedance|ByteDance]] Research Releases Lance: Unified Multimodal Model for Understanding, Generation, and Editing

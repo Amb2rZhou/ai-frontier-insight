@@ -2,7 +2,7 @@
 title: Cursor AI
 type: company
 created: 2026-03-05
-updated: 2026-05-31
+updated: 2026-06-07
 ---
 
 # Cursor AI
@@ -11,6 +11,7 @@ AI-powered code editor that became one of the fastest-growing developer tools. K
 
 ## Timeline
 
+- **2026-06-07**: PanisHandsome/ai-rules-sync: Unified Config Sync for AI Coding Agents
 - **2026-05-31**: Duel Agents: New Framework for [[multi-agent-systems|Multi-Agent]] Competition and Collaboration
 - **2026-05-15**: HTML-Anything: [[agent-frameworks|Agentic]] HTML Editor Goes Viral on GitHub
 - **2026-05-01**: Open-Source Open-Design Tool Emerges as [[claude|Claude]] Design Alternative (8.4k Stars)

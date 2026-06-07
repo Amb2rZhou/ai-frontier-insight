@@ -2,7 +2,7 @@
 title: NVIDIA
 type: company
 created: 2026-02-25
-updated: 2026-06-06
+updated: 2026-06-07
 ---
 
 # NVIDIA
@@ -11,6 +11,7 @@ Dominant [[ai-hardware|AI hardware]] company, increasingly expanding into AI sof
 
 ## Timeline
 
+- **2026-06-07**: Somnusochi/VLM-AutoYOLO: VLM-Powered Auto Annotation and YOLO Training Pipeline
 - **2026-06-06**: [[google-deepmind|Google]] to Pay SpaceX $920M Monthly for GPU Compute Capacity
 - **2026-06-04**: Nvidia Confirms N2X and N3X Chips: AI Consumer Chip Roadmap Inspired by Star Trek's Computer
 - **2026-06-04**: [[apple|Apple]] to Launch Overhauled Siri in September Powered by [[google-deepmind|Google]] Cloud and Nvidia Chips

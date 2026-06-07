@@ -2,7 +2,7 @@
 title: GPT
 type: product
 created: 2026-02-25
-updated: 2026-05-17
+updated: 2026-06-07
 ---
 
 # GPT
@@ -11,6 +11,7 @@ updated: 2026-05-17
 
 ## Timeline
 
+- **2026-06-07**: [[openai|OpenAI]] Unveils Lockdown Mode to Defend Against Prompt Injection
 - **2026-05-17**: [[openai|OpenAI]] Co-Founder Greg Brockman Takes Charge of Product Strategy Amid Reorganization
 - **2026-05-16**: GPT-5.5 Gains 98% Win Rate Over [[claude|Claude]] 4 Sonnet on Economic Value Benchmark
 - **2026-05-16**: [[openai|OpenAI]] Brings Personal Finance Management to ChatGPT

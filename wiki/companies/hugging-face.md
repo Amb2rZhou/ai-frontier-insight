@@ -2,7 +2,7 @@
 title: Hugging Face
 type: company
 created: 2026-02-25
-updated: 2026-06-04
+updated: 2026-06-07
 ---
 
 
@@ -12,6 +12,7 @@ The central platform for [[open-source-models|open-source]] AI model hosting, da
 
 ## Timeline
 
+- **2026-06-07**: davanstrien/uv-scripts-for-ai: Self-Contained AI Scripts for OCR, Vision, Audio Tasks
 - **2026-06-04**: HuggingFace Transformers v5.10.1 Adds Official Support for Gemma4 with MTP (Multi-Token Prediction) Architecture
 - **2026-05-28**: [[perplexity|Perplexity]] CEO Open-Sources Production-Ready Tokenizer Far More Efficient Than HuggingFace/SentencePiece
 - **2026-05-22**: ResembleAI Dramabox: Text-to-Speech with Voice Cloning by Diffusion Transformer

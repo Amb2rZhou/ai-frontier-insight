@@ -2,7 +2,7 @@
 title: Ollama
 type: product
 created: 2026-03-03
-updated: 2026-05-14
+updated: 2026-06-07
 ---
 
 # Ollama
@@ -11,6 +11,7 @@ Popular tool for running [[open-source-models|open-source]] LLMs locally. Key en
 
 ## Timeline
 
+- **2026-06-07**: Ollama v0.30.6: Adds [[gemma|Gemma]] 4 QAT Optimized Weights for On-Device Deployment
 - **2026-05-14**: Ollama v0.24 Supports [[codex|Codex]] App, Deepening Local LLM Integration with [[openai|OpenAI]]'s [[agent-ecosystem|Agent Ecosystem]]
 - **2026-05-03**: Ollama v0.23.0 Supports [[claude|Claude]] Desktop as Launch Target, Expanding Local [[agent-frameworks|AI Agent]] Workflows
 - **2026-04-29**: Poolside Releases Laguna XS.2 Open Model for Local [[agent-frameworks|Agentic]] Coding

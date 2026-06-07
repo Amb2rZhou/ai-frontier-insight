@@ -2,7 +2,7 @@
 title: Claude
 type: product
 created: 2026-02-25
-updated: 2026-06-06
+updated: 2026-06-07
 ---
 
 # Claude
@@ -11,6 +11,7 @@ updated: 2026-06-06
 
 ## Timeline
 
+- **2026-06-07**: PanisHandsome/ai-rules-sync: Unified Config Sync for AI Coding Agents
 - **2026-06-06**: [[anthropic|Anthropic]] SDK Deprecates Claude Opus 4.1, Signaling Model Lifecycle Management
 - **2026-06-05**: [[anthropic|Anthropic]] Reveals 80% of Production Code Authored by Claude, Sets New Enterprise Benchmark
 - **2026-06-04**: Lovable Signs Multi-Year Deal with [[google-deepmind|Google]] Cloud to 5x Infrastructure Usage and Expand Claude Access
