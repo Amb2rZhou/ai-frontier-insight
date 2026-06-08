@@ -11,6 +11,7 @@ updated: 2026-06-08
 
 ## Timeline
 
+- **2026-06-08**: Omnistack Agent: Platform-Agnostic AI Engineer Compiled for Multiple Models
 - **2026-06-08**: OmniStack Agent: Platform-Agnostic [[agent-frameworks|AI Agent]] Compiled for [[gpt|ChatGPT]], [[claude|Claude]], Copilot, [[gemini|Gemini]] & [[cursor-ai|Cursor]]
 - **2026-06-06**: [[microsoft|Microsoft]] AI Chief Declares Independence from [[openai|OpenAI]], Pivots to Superintelligence
 - **2026-06-05**: [[alibaba|Alibaba]] Open-Sources AI-Powered Code Review CLI Tool 'Open Code Review'

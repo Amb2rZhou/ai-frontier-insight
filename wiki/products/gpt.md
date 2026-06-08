@@ -11,6 +11,7 @@ updated: 2026-06-08
 
 ## Timeline
 
+- **2026-06-08**: Omnistack Agent: Platform-Agnostic AI Engineer Compiled for Multiple Models
 - **2026-06-08**: OmniStack Agent: Platform-Agnostic [[agent-frameworks|AI Agent]] Compiled for ChatGPT, [[claude|Claude]], [[copilot|Copilot]], [[gemini|Gemini]] & [[cursor-ai|Cursor]]
 - **2026-06-07**: [[openai|OpenAI]] Unveils Lockdown Mode to Defend Against Prompt Injection
 - **2026-05-17**: [[openai|OpenAI]] Co-Founder Greg Brockman Takes Charge of Product Strategy Amid Reorganization

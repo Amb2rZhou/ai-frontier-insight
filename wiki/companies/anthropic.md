@@ -11,6 +11,9 @@ updated: 2026-06-08
 
 ## Timeline
 
+- **2026-06-08**: Anthropic SDK Updates: Managed Agents Types Refined
+- **2026-06-08**: Notion Restores Anthropic Access After Unplanned Service Disruption
+- **2026-06-08**: Rising Token Prices Signal 'Tokenpocalypse' Ahead of AI IPOs
 - **2026-06-08**: Notion Restores Access to Anthropic After Brief Service Disruption, Highlighting API Dependencies in AI Ecosystem
 - **2026-06-08**: Anthropic SDK v0.107.0 Adds Managed Agent Types and API-Key Auth Fix for Foundry
 - **2026-06-08**: Tokenpocalypse: AI Companies Raise Prices Ahead of IPOs, Signaling Market Maturity and Cost Pass-Through

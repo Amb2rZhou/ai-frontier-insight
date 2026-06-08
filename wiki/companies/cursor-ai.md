@@ -11,6 +11,7 @@ AI-powered code editor that became one of the fastest-growing developer tools. K
 
 ## Timeline
 
+- **2026-06-08**: Omnistack Agent: Platform-Agnostic AI Engineer Compiled for Multiple Models
 - **2026-06-08**: OmniStack Agent: Platform-Agnostic [[agent-frameworks|AI Agent]] Compiled for [[gpt|ChatGPT]], [[claude|Claude]], [[copilot|Copilot]], [[gemini|Gemini]] & Cursor
 - **2026-06-07**: PanisHandsome/ai-rules-sync: Unified Config Sync for AI Coding Agents
 - **2026-05-31**: Duel Agents: New Framework for [[multi-agent-systems|Multi-Agent]] Competition and Collaboration

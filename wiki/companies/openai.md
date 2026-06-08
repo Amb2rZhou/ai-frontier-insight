@@ -11,6 +11,8 @@ The leading commercial AI lab, maker of [[gpt|GPT]] models, ChatGPT, [[codex|Cod
 
 ## Timeline
 
+- **2026-06-08**: Rising Token Prices Signal 'Tokenpocalypse' Ahead of AI IPOs
+- **2026-06-08**: OpenAI Super App Ambitions Revealed: 'Chat Is Dead'
 - **2026-06-08**: OpenAI Still Developing 'Super App' – 'Chat Is Dead' Declaration Signals Shift Toward [[agent-frameworks|Agentic]] and Multi-Modal Interfaces
 - **2026-06-08**: Tokenpocalypse: AI Companies Raise Prices Ahead of IPOs, Signaling Market Maturity and Cost Pass-Through
 - **2026-06-07**: Trump Administration Discusses Taking Equity Stake in OpenAI

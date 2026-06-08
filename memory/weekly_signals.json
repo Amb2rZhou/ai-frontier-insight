@@ -3,32 +3,8 @@
   "days": {
     "2026-06-08": [
       {
-        "title": "Tokenpocalypse: AI Companies Raise Prices Ahead of IPOs, Signaling Market Maturity and Cost Pass-Through",
-        "signal_text": "据 TechCrunch 独家报道，随着 OpenAI、Anthropic 等头部 AI 公司筹备 IPO，面向开发者和企业的 API Token 价格可能迎来系统性上涨，形成所谓的“Token 末日”。这标志着 AI 行业从补贴获客期进入盈利导向期，直接增加下游内容平台（如小红书）的 AI 推理成本。TechCrunch 文章分析指出，价格上浮将成为常态，而非短期波动。",
-        "signal_strength": 0.85,
-        "sources": [
-          {
-            "name": "TechCrunch",
-            "url": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/"
-          },
-          {
-            "name": "Hacker News",
-            "url": "https://news.ycombinator.com/item?id=48442136"
-          }
-        ],
-        "tags": [
-          "AI基础设施",
-          "商业化",
-          "成本风险"
-        ],
-        "raw_item_indices": [
-          0,
-          8
-        ]
-      },
-      {
-        "title": "OpenAI Still Developing 'Super App' – 'Chat Is Dead' Declaration Signals Shift Toward Agentic and Multi-Modal Interfaces",
-        "signal_text": "据 TechCrunch 报道，OpenAI 一位高级员工公开宣称“Chat 已死”，暗示公司正在开发整合多种交互形态的“超级应用”。此举表明 OpenAI 正从单一对话式界面转向更全面的 AI 平台战略，可能整合搜索、创作、Agent 等能力。对小红书而言，这意味着 AI 原生应用形态正在快速进化，社区内对话式内容交互和Agent辅助创作模式值得加速布局。",
+        "title": "OpenAI Super App Ambitions Revealed: 'Chat Is Dead'",
+        "signal_text": "据 TechCrunch 报道，一位 OpenAI 高级员工宣称 'Chat is dead'，暗示 OpenAI 仍在推进将聊天功能整合到一个更广泛的超级应用中，标志着交互范式的重大转变。",
         "signal_strength": 0.82,
         "sources": [
           {
@@ -37,83 +13,56 @@
           }
         ],
         "tags": [
-          "AI新交互",
           "OpenAI",
-          "产品形态",
-          "超级应用"
+          "AI Super App",
+          "Agentic Interface"
         ],
         "raw_item_indices": [
           14
         ]
       },
       {
-        "title": "Anthropic SDK v0.107.0 Adds Managed Agent Types and API-Key Auth Fix for Foundry",
-        "signal_text": "Anthropic 发布 Python SDK v0.107.0 和 v0.107.1。关键更新包括：在 API 中增加 Managed Agents 类型支持（v0.107.0），以及修复 Foundry 场景下 x-api-key header 认证问题（v0.107.1）。这表明 Anthropic 正在强化其 Agent 托管（Managed Agent）产品能力，为企业和开发者在平台上构建、管理和部署 AI Agent 提供原生支持。对于小红书可能涉及的企业级 Agent 应用场景（如客服、编辑辅助），这是重要的平台级信号。",
-        "signal_strength": 0.75,
+        "title": "Europe's Systematic Ditching of American Tech: A WIRED Timeline",
+        "signal_text": "WIRED 发布详细时间线，揭示欧洲各国政府、企业和组织正在或计划大规模脱离美国大型科技公司（包括 AI 云服务），可能重塑全球 AI 产业链与数据主权格局。",
+        "signal_strength": 0.8,
         "sources": [
           {
-            "name": "Anthropic（官方 GitHub Release）",
-            "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.107.0"
-          },
-          {
-            "name": "Anthropic（官方 GitHub Release）",
-            "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.107.1"
-          }
-        ],
-        "tags": [
-          "Anthropic",
-          "AI Agent",
-          "企业级AI",
-          "SDK更新"
-        ],
-        "raw_item_indices": [
-          27,
-          26
-        ]
-      },
-      {
-        "title": "VentureBeat: The 'Blast Radius' of LLM Changes in Production – Challenges for AI Orchestration",
-        "signal_text": "VentureBeat 发表深度文章，讨论在生产环境中管理 AI 模型“爆炸半径”的挑战。文章指出，当 Claude 等模型发生行为变化时，依赖其编排的复杂系统可能大面积失效。这一现象直接关系到小红书在 AI 辅助创作、内容审核等场景中对第三方模型的依赖风险，凸显了建立模型行为监控、回滚机制和多模型冗余的重要性。",
-        "signal_strength": 0.72,
-        "sources": [
-          {
-            "name": "VentureBeat",
-            "url": "https://venturebeat.com/orchestration/when-claude-changed-everything-changed-managing-ai-blast-radius-in-production"
-          }
-        ],
-        "tags": [
-          "AI稳定性",
-          "生产部署",
-          "LLM编排",
-          "风险管理"
-        ],
-        "raw_item_indices": [
-          6
-        ]
-      },
-      {
-        "title": "Europe Accelerates Ditching of US Big Tech: Governments and Companies Plan Transition Away from American AI/Cloud",
-        "signal_text": "Wired 发布时间线报道，显示数十家欧洲政府、企业和其他组织正在或计划从美国大型科技公司（包括 AI 和云服务）迁移。这一地缘政治趋势对小红书的海外业务扩展、数据合规策略以及可能的区域性 AI 技术布局有直接影响。",
-        "signal_strength": 0.7,
-        "sources": [
-          {
-            "name": "Wired",
+            "name": "WIRED",
             "url": "https://www.wired.com/story/all-the-ways-europe-is-ditching-american-technology/"
           }
         ],
         "tags": [
-          "地缘政治",
-          "数据主权",
-          "合规",
-          "海外业务"
+          "Geopolitical Data Sovereignty",
+          "EU Tech Divergence",
+          "AI Infrastructure"
         ],
         "raw_item_indices": [
-          1
+          2
         ]
       },
       {
-        "title": "Notion Restores Access to Anthropic After Brief Service Disruption, Highlighting API Dependencies in AI Ecosystem",
-        "signal_text": "据 TechCrunch 报道，Notion 经历了一次因 Anthropic API 导致的短暂服务中断，之后恢复访问。Notion 产品负责人对用户反馈量感到“震惊”。此事件暴露了依赖第三方 AI API 的平台在稳定性和容灾方面的脆弱性——对小红书等重度依赖 AI API 的内容平台是个警示信号。",
+        "title": "Rising Token Prices Signal 'Tokenpocalypse' Ahead of AI IPOs",
+        "signal_text": "TechCrunch 报道指出，随着 Anthropic、OpenAI 等主要 AI 公司计划上市，token 价格可能持续上涨，引发对 'Tokenpocalypse'（token 末日）的讨论，反映 AI 推理成本商业化的紧张态势。",
+        "signal_strength": 0.78,
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/"
+          }
+        ],
+        "tags": [
+          "AI Pricing Pressure",
+          "Market Maturity",
+          "IPO"
+        ],
+        "raw_item_indices": [
+          1,
+          8
+        ]
+      },
+      {
+        "title": "Notion Restores Anthropic Access After Unplanned Service Disruption",
+        "signal_text": "Notion 产品负责人对 Anthropic 服务中断引发的广泛吐槽表示 'astonished'，企业级 AI 集成稳定性风险凸显，突显 Agent 依赖第三方模型的脆弱性。",
         "signal_strength": 0.68,
         "sources": [
           {
@@ -122,73 +71,112 @@
           }
         ],
         "tags": [
-          "AI基础设施",
-          "平台依赖",
-          "服务稳定性",
-          "风险管理"
+          "Enterprise AI Agent",
+          "AI Reliability",
+          "Anthropic"
         ],
         "raw_item_indices": [
           11
         ]
       },
       {
-        "title": "OmniStack Agent: Platform-Agnostic AI Agent Compiled for ChatGPT, Claude, Copilot, Gemini & Cursor",
-        "signal_text": "项目 omnistack-agent（Ricar66/omnistack-agent，48 stars）将同一个全栈软件工程师思维编译成适用于 ChatGPT、Claude、Copilot、Gemini 和 Cursor 的适配器。这种“一次编写、多平台部署”的 Agent 思路对于正在构建多模型编排能力的小红书团队有启发意义，可减少 Agent 在不同模型间的迁移成本。",
-        "signal_strength": 0.42,
+        "title": "Scientific Agents: '.agents.md' Profiles to Train Agents like Scientists",
+        "signal_text": "K-Dense-AI 发布 scientific-agents（50 stars），为 AI agent 提供模仿资深科学家思维的 .agents.md 配置文件，试图提升 agent 在科学推理任务中的表现。",
+        "signal_strength": 0.58,
         "sources": [
           {
-            "name": "个人开发者（Ricar66）",
-            "url": "https://github.com/Ricar66/omnistack-agent"
-          }
-        ],
-        "tags": [
-          "AI Agent",
-          "平台适配",
-          "开发者工具",
-          "多模型"
-        ],
-        "raw_item_indices": [
-          22
-        ]
-      },
-      {
-        "title": "Scientific Agents: Standardized 'AGENTS.md' Profiles for Expert-Level AI Reasoning",
-        "signal_text": "K-Dense-AI 在 GitHub 发布 scientific-agents 项目（50 stars），提供标准化的 AGENTS.md 文件模板，用于教导 AI 代理像资深科学家和工程师一样推理。该项目直接服务于 AI Agent 在专业领域的任务执行，为小红书开发特定领域（如时尚、美妆、旅游）的专业内容 Agent 提供了参考范式。",
-        "signal_strength": 0.4,
-        "sources": [
-          {
-            "name": "K-Dense-AI（GitHub 组织）",
+            "name": "GitHub",
             "url": "https://github.com/K-Dense-AI/scientific-agents"
           }
         ],
         "tags": [
-          "AI Agent",
-          "提示工程",
-          "知识蒸馏",
-          "领域AI"
+          "Agent Ecosystem",
+          "Prompt Engineering",
+          "Enterprise AI",
+          "Science"
         ],
         "raw_item_indices": [
           21
         ]
       },
       {
-        "title": "Ollama v0.30.7-rc1: Continues to Improve On-Device LLM Deployment with Native Windows Support",
-        "signal_text": "Ollama 发布 v0.30.7-rc1 版本，改进 Windows 原生 Hermes 配置路径等，持续推进端侧模型部署的易用性。对于小红书探索端侧 AI 功能（如本地化内容审核、个性化推荐底座）具有推动作用。",
-        "signal_strength": 0.35,
+        "title": "Omnistack Agent: Platform-Agnostic AI Engineer Compiled for Multiple Models",
+        "signal_text": "Ricar66/omnistack-agent（49 stars）提出一个平台无关的 AI 软件工程师 agent，编译为适配 ChatGPT、Claude、Copilot、Gemini、Cursor 的预制粘贴板，零依赖、MIT 协议，降低多平台 agent 开发成本。",
+        "signal_strength": 0.57,
         "sources": [
           {
-            "name": "Ollama（官方 GitHub Release）",
-            "url": "https://github.com/ollama/ollama/releases/tag/v0.30.7-rc1"
+            "name": "GitHub",
+            "url": "https://github.com/Ricar66/omnistack-agent"
           }
         ],
         "tags": [
-          "端侧推理",
-          "Ollama",
-          "本地AI",
-          "模型部署"
+          "Agent Ecosystem",
+          "Developer Tools",
+          "Cross-Platform",
+          "AI Agents"
         ],
         "raw_item_indices": [
-          28
+          22
+        ]
+      },
+      {
+        "title": "Anthropic SDK Updates: Managed Agents Types Refined",
+        "signal_text": "Anthropic 发布 Python SDK v0.107.0，对 'Managed Agents' 类型进行小幅更新，并在 v0.107.1 中修复 Foundry API-key 认证问题，持续完善 Agent 托管生态。",
+        "signal_strength": 0.5,
+        "sources": [
+          {
+            "name": "GitHub: anthropic-sdk-python releases",
+            "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.107.0"
+          }
+        ],
+        "tags": [
+          "Anthropic",
+          "Agent Framework",
+          "SDK",
+          "Developer Tools"
+        ],
+        "raw_item_indices": [
+          26,
+          27
+        ]
+      },
+      {
+        "title": "AI Accountability: Proposal to Desk-Reject Papers Without Released Code/Weights",
+        "signal_text": "CS 教授 KGD 在 Twitter 上提议，如果论文在评审时承诺开源代码/权重却在会议前未释放，应直接 desk reject，引发对 AI 研究可复现性和开放性的讨论。",
+        "signal_strength": 0.42,
+        "sources": [
+          {
+            "name": "Twitter/X: CSProfKGD",
+            "url": "https://x.com/CSProfKGD/status/2063884678700945896"
+          }
+        ],
+        "tags": [
+          "AI Research Ethics",
+          "Open Source",
+          "Reproducibility",
+          "Policy"
+        ],
+        "raw_item_indices": [
+          15
+        ]
+      },
+      {
+        "title": "GitHub Global Outage Disrupts Developer Workflow",
+        "signal_text": "GitHub 遭遇服务中断（incident #m7n7sm0sr1pz），影响全球开发者协作，包括 AI 代码仓库访问，凸显对集中化基础设施的依赖风险。",
+        "signal_strength": 0.35,
+        "sources": [
+          {
+            "name": "GitHub Status",
+            "url": "https://www.githubstatus.com/incidents/m7n7sm0sr1pz"
+          }
+        ],
+        "tags": [
+          "Infrastructure Risk",
+          "Developer Tools",
+          "Platform Dependency"
+        ],
+        "raw_item_indices": [
+          0
         ]
       }
     ]

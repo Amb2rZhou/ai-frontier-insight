@@ -11,6 +11,11 @@ The rapidly evolving ecosystem of tools, SDKs, and platforms for building autono
 
 ## Timeline
 
+- **2026-06-08**: [[anthropic|Anthropic]] SDK Updates: Managed Agents Types Refined
+- **2026-06-08**: Omnistack Agent: Platform-Agnostic AI Engineer Compiled for Multiple Models
+- **2026-06-08**: Scientific Agents: '.agents.md' Profiles to Train Agents like Scientists
+- **2026-06-08**: Notion Restores [[anthropic|Anthropic]] Access After Unplanned Service Disruption
+- **2026-06-08**: [[openai|OpenAI]] Super App Ambitions Revealed: 'Chat Is Dead'
 - **2026-06-08**: Scientific Agents: Standardized 'AGENTS.md' Profiles for Expert-Level AI Reasoning
 - **2026-06-08**: OmniStack Agent: Platform-Agnostic AI Agent Compiled for [[gpt|ChatGPT]], [[claude|Claude]], [[copilot|Copilot]], [[gemini|Gemini]] & [[cursor-ai|Cursor]]
 - **2026-06-08**: [[anthropic|Anthropic]] SDK v0.107.0 Adds Managed Agent Types and API-Key Auth Fix for Foundry

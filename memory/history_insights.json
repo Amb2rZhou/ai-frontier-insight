@@ -1,60 +1,6 @@
 {
   "predictions": [
     {
-      "date": "2026-05-22T10:36:10.401075+08:00",
-      "prediction_text": "内容平台的语音创作Agent可关注端侧降噪芯片，实现户外高质量语音采集与实时转写。",
-      "category": "infrastructure",
-      "source_signal": "Anker Launches First Earbuds with Dedicated AI Chip for Noise Reduction"
-    },
-    {
-      "date": "2026-05-22T10:36:10.403625+08:00",
-      "prediction_text": "内容平台的Agent市场可参考Skills Registry设计“技能商店”，让创作者上传自建Agent工具。",
-      "category": "open_source",
-      "source_signal": "CrewAI 1.14.6a1 Introduces Skills Repository and Registry for SDK Integration"
-    },
-    {
-      "date": "2026-05-22T10:36:10.406187+08:00",
-      "prediction_text": "内容创作工具可探索用户上传3秒语音样本，一键生成个性化旁白或带货口播。",
-      "category": "open_source",
-      "source_signal": "ResembleAI Dramabox: Text-to-Speech with Voice Cloning by Diffusion Transformer"
-    },
-    {
-      "date": "2026-05-27T15:15:05.885081+08:00",
-      "prediction_text": "内容/社区平台可探索将自研安全审核Agent能力对外输出为SaaS服务，开辟第二增长曲线。",
-      "category": "strategic_move",
-      "source_signal": "White House Nears Deal with Anthropic for Spy Agencies to Use AI"
-    },
-    {
-      "date": "2026-05-27T15:15:05.902986+08:00",
-      "prediction_text": "电商/社区平台可推出品牌版AI粉丝洞察工具，自动生成差异化互动策略与定制内容。",
-      "category": "strategic_move",
-      "source_signal": "Ferrari and IBM Use AI to Create F1 Superfans: Enterprise AI Applications"
-    },
-    {
-      "date": "2026-05-27T15:15:05.912350+08:00",
-      "prediction_text": "社区平台可考虑提供MCP兼容的“用户偏好云同步”接口，主动将AI助手数据开放给第三方生态。",
-      "category": "ecosystem_shift",
-      "source_signal": "Dejavu: Local-First AI Memory That Follows Users Across Tools via MCP"
-    },
-    {
-      "date": "2026-05-27T15:15:05.918645+08:00",
-      "prediction_text": "内容/社区平台的Agent部署可采用OpenTelemetry+熔断双架构，实现可观测性与容错性的基线化。",
-      "category": "open_source",
-      "source_signal": "Control-Layer: Production-Grade LLM Guardrails with Schema Enforcement and Circuit Breaking"
-    },
-    {
-      "date": "2026-05-27T15:15:05.927223+08:00",
-      "prediction_text": "内容平台的搜索增强Agent可引入双模型规划-校验环，以5%额外成本换取80%的幻觉拦截率。",
-      "category": "research_breakthrough",
-      "source_signal": "Ai-Flow-Architect: Dual-Brain AI Workflow Engine with Hallucination Prevention"
-    },
-    {
-      "date": "2026-05-27T15:15:05.932785+08:00",
-      "prediction_text": "建议社区平台的内容安全模块预留加密流处理层，以应对后续隐私法规对端到端加密审核的要求。",
-      "category": "infrastructure",
-      "source_signal": "Anthropic SDK Fixes Encrypted Content Streaming for Beta Features"
-    },
-    {
       "date": "2026-05-27T15:15:05.941829+08:00",
       "prediction_text": "创作者工具团队在开发GUI Agent时，应内置Unix socket权限最小化基线，避免先上线后打补丁。",
       "category": "open_source",
@@ -599,6 +545,60 @@
       "prediction_text": "内容安全与推荐系统可探索端侧轻量模型实现实时审核与个性化预筛选，降低云端延迟。",
       "category": "open_source",
       "source_signal": "Ollama v0.30.7-rc1: Continues to Improve On-Device LLM Deployment with Native Windows Support"
+    },
+    {
+      "date": "2026-06-08T16:28:40.306845+08:00",
+      "prediction_text": "创业方向建议避开通用超级应用，聚焦垂直场景的 Agent 中间件与插件生态。",
+      "category": "strategic_move",
+      "source_signal": "OpenAI Super App Ambitions Revealed: 'Chat Is Dead'"
+    },
+    {
+      "date": "2026-06-08T16:28:40.313001+08:00",
+      "prediction_text": "出海公司需评估欧洲本土云/模型供应商；投资可关注欧洲自研 AI 基础设施初创。",
+      "category": "ecosystem_shift",
+      "source_signal": "Europe's Systematic Ditching of American Tech: A WIRED Timeline"
+    },
+    {
+      "date": "2026-06-08T16:28:40.318155+08:00",
+      "prediction_text": "创业点在于提供成本优化的推理引擎或替代模型；投资考虑开源模型服务商。",
+      "category": "infrastructure",
+      "source_signal": "Rising Token Prices Signal 'Tokenpocalypse' Ahead of AI IPOs"
+    },
+    {
+      "date": "2026-06-08T16:28:40.323325+08:00",
+      "prediction_text": "建议 Agent 层内置多模型故障切换；值得关注模型中间件与可靠性监控创业团队。",
+      "category": "infrastructure",
+      "source_signal": "Notion Restores Anthropic Access After Unplanned Service Disruption"
+    },
+    {
+      "date": "2026-06-08T16:28:40.328283+08:00",
+      "prediction_text": "探索针对医疗、法律、金融等行业的 agent 配置文件模板商业化。",
+      "category": "open_source",
+      "source_signal": "Scientific Agents: '.agents.md' Profiles to Train Agents like Scientists"
+    },
+    {
+      "date": "2026-06-08T16:28:40.332722+08:00",
+      "prediction_text": "开发者工具层可借鉴此思路，构建统一 agent 编译与分发平台。",
+      "category": "open_source",
+      "source_signal": "Omnistack Agent: Platform-Agnostic AI Engineer Compiled for Multiple Models"
+    },
+    {
+      "date": "2026-06-08T16:28:40.337509+08:00",
+      "prediction_text": "生态内工具链（监控、部署、审计）是值得早期投资的细分方向。",
+      "category": "infrastructure",
+      "source_signal": "Anthropic SDK Updates: Managed Agents Types Refined"
+    },
+    {
+      "date": "2026-06-08T16:28:40.342202+08:00",
+      "prediction_text": "可复现性工具与权重审计平台有创业空间；学术投资需关注开源贡献度。",
+      "category": "research_breakthrough",
+      "source_signal": "AI Accountability: Proposal to Desk-Reject Papers Without Released Code/Weights"
+    },
+    {
+      "date": "2026-06-08T16:28:40.346817+08:00",
+      "prediction_text": "考虑探索自托管或去中心化代码仓库方案；AI 工作流应加入离线/本地缓存策略。",
+      "category": "infrastructure",
+      "source_signal": "GitHub Global Outage Disrupts Developer Workflow"
     }
   ]
 }
