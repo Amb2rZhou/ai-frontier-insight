@@ -11,6 +11,11 @@ The rapidly evolving ecosystem of tools, SDKs, and platforms for building autono
 
 ## Timeline
 
+- **2026-06-08**: [[ollama|Ollama]] v0.30.7-rc1: Native Windows Hermes Config Path — Consolidating Local LLM Deployment
+- **2026-06-08**: K-Dense-AI/scientific-agents: AGENTS.md Profiles That Teach AI Agents to Reason Like Senior Scientists
+- **2026-06-08**: Omnistack Agent: Platform-Agnostic 'One Full-Stack Engineer Brain' Adapter for All Major AI Chat Interfaces
+- **2026-06-08**: Notion Restores Access to [[anthropic|Anthropic]] After Service Disruption Highlights Enterprise AI Dependencies
+- **2026-06-08**: VentureBeat: Managing AI 'Blast Radius' — Production Risks When Underlying Models Change
 - **2026-06-08**: [[anthropic|Anthropic]] SDK Updates: Managed Agents Types Refined
 - **2026-06-08**: Omnistack Agent: Platform-Agnostic AI Engineer Compiled for Multiple Models
 - **2026-06-08**: Scientific Agents: '.agents.md' Profiles to Train Agents like Scientists

@@ -11,6 +11,8 @@ The leading commercial AI lab, maker of [[gpt|GPT]] models, ChatGPT, [[codex|Cod
 
 ## Timeline
 
+- **2026-06-08**: [[anthropic|Anthropic]] SDK v0.107.0: Updates to Managed Agents Types — Enterprise Agent Management Infrastructure
+- **2026-06-08**: TechCrunch: The 'Tokenpocalypse' — AI Token Prices Likely to Rise as Major AI Companies Prep for IPO
 - **2026-06-08**: Rising Token Prices Signal 'Tokenpocalypse' Ahead of AI IPOs
 - **2026-06-08**: OpenAI Super App Ambitions Revealed: 'Chat Is Dead'
 - **2026-06-08**: OpenAI Still Developing 'Super App' – 'Chat Is Dead' Declaration Signals Shift Toward [[agent-frameworks|Agentic]] and Multi-Modal Interfaces

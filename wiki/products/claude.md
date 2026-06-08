@@ -11,6 +11,8 @@ updated: 2026-06-08
 
 ## Timeline
 
+- **2026-06-08**: Omnistack Agent: Platform-Agnostic 'One Full-Stack Engineer Brain' Adapter for All Major AI Chat Interfaces
+- **2026-06-08**: VentureBeat: Managing AI 'Blast Radius' — Production Risks When Underlying Models Change
 - **2026-06-08**: Omnistack Agent: Platform-Agnostic AI Engineer Compiled for Multiple Models
 - **2026-06-08**: OmniStack Agent: Platform-Agnostic [[agent-frameworks|AI Agent]] Compiled for [[gpt|ChatGPT]], Claude, [[copilot|Copilot]], [[gemini|Gemini]] & [[cursor-ai|Cursor]]
 - **2026-06-08**: VentureBeat: The 'Blast Radius' of LLM Changes in Production – Challenges for AI Orchestration

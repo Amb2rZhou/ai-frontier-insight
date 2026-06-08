@@ -11,6 +11,9 @@ updated: 2026-06-08
 
 ## Timeline
 
+- **2026-06-08**: Anthropic SDK v0.107.0: Updates to Managed Agents Types — Enterprise Agent Management Infrastructure
+- **2026-06-08**: VentureBeat: Managing AI 'Blast Radius' — Production Risks When Underlying Models Change
+- **2026-06-08**: TechCrunch: The 'Tokenpocalypse' — AI Token Prices Likely to Rise as Major AI Companies Prep for IPO
 - **2026-06-08**: Anthropic SDK Updates: Managed Agents Types Refined
 - **2026-06-08**: Notion Restores Anthropic Access After Unplanned Service Disruption
 - **2026-06-08**: Rising Token Prices Signal 'Tokenpocalypse' Ahead of AI IPOs

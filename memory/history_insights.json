@@ -1,54 +1,6 @@
 {
   "predictions": [
     {
-      "date": "2026-05-27T15:15:05.941829+08:00",
-      "prediction_text": "创作者工具团队在开发GUI Agent时，应内置Unix socket权限最小化基线，避免先上线后打补丁。",
-      "category": "open_source",
-      "source_signal": "Browser-Use 0.12.8 Fixes Daemon Security (Unix Socket Permissions)"
-    },
-    {
-      "date": "2026-05-27T15:15:05.952248+08:00",
-      "prediction_text": "内容平台可在搜索/信息流中嵌入AI“简报模式”，将多源长文转为结构化行动点摘要。",
-      "category": "strategic_move",
-      "source_signal": "DailyBrief: Open-Source AI News Aggregator with 23 Sources and LLM Summaries"
-    },
-    {
-      "date": "2026-05-28T13:14:07.006734+08:00",
-      "prediction_text": "内容/社区平台可以考虑构建垂直领域的Agent商店，让第三方开发者为平台用户定制AI工具并分润。",
-      "category": "ecosystem_shift",
-      "source_signal": "Anthropic Launches Claude Marketplace for Third-Party Enterprise AI Tools"
-    },
-    {
-      "date": "2026-05-28T13:14:07.015436+08:00",
-      "prediction_text": "电商/社区平台可考虑将内容理解、商品识别等核心能力封装为行业AI套件，向品牌方售卖。",
-      "category": "strategic_move",
-      "source_signal": "a16z: OpenAI and Anthropic Pivot to Massive 'Forward-Deployed' Joint Ventures, Signaling Limits of Generic AI"
-    },
-    {
-      "date": "2026-05-28T13:14:07.020730+08:00",
-      "prediction_text": "内容安全团队可以探索“审核Agent + 人工纠正”的自演进架构，大幅降低人工复审成本。",
-      "category": "research_breakthrough",
-      "source_signal": "OpenAI Codex Enables Self-Improving Tax Agent System with Closed-Loop Learning"
-    },
-    {
-      "date": "2026-05-28T13:14:07.025733+08:00",
-      "prediction_text": "创作者工具团队可以探索“实时AI视频特效”和“AI动效模板”，降低UGC视频制作门槛。",
-      "category": "open_source",
-      "source_signal": "NVIDIA AI Lab Hao AI Lab Open-Sources Tech for 6x Faster Video Generation on Single Blackwell GPU"
-    },
-    {
-      "date": "2026-05-28T13:14:07.029855+08:00",
-      "prediction_text": "社区平台可以考虑面向头部品牌推出“AI运营官”付费服务，派驻算法工程师协助定制化投放。",
-      "category": "strategic_move",
-      "source_signal": "Meta Launches Enterprise AI Push with Embedded Engineers and Paid Chatbot Subscriptions"
-    },
-    {
-      "date": "2026-05-28T13:14:07.034225+08:00",
-      "prediction_text": "推荐系统和搜索团队可以探索将Agent推理直接嵌入在线链路，实现毫秒级个性化交互。",
-      "category": "infrastructure",
-      "source_signal": "Qwen3.5 Achieves Record 580 TPS on TokenSpeed Engine for Agentic Workloads"
-    },
-    {
       "date": "2026-05-28T13:14:07.037432+08:00",
       "prediction_text": "内容安全团队可以考虑预留第三方审计接口，并建立可追溯的AI生成内容水印与审核日志系统。",
       "category": "infrastructure",
@@ -599,6 +551,54 @@
       "prediction_text": "考虑探索自托管或去中心化代码仓库方案；AI 工作流应加入离线/本地缓存策略。",
       "category": "infrastructure",
       "source_signal": "GitHub Global Outage Disrupts Developer Workflow"
+    },
+    {
+      "date": "2026-06-08T17:49:00.718688+08:00",
+      "prediction_text": "出海公司需评估欧洲本土云/模型供应商；投资可关注欧洲自研AI基础设施初创。",
+      "category": "ecosystem_shift",
+      "source_signal": "[Update] Europe Accelerates Ditching US Big Tech: Wired Timeline Shows Government and Enterprise Migration"
+    },
+    {
+      "date": "2026-06-08T17:49:00.725966+08:00",
+      "prediction_text": "创业点在于提供成本优化的推理引擎或替代模型；投资考虑开源模型服务商。",
+      "category": "infrastructure",
+      "source_signal": "TechCrunch: The 'Tokenpocalypse' — AI Token Prices Likely to Rise as Major AI Companies Prep for IPO"
+    },
+    {
+      "date": "2026-06-08T17:49:00.732078+08:00",
+      "prediction_text": "建议Agent层内置多模型故障切换；值得关注模型中间件与可靠性监控创业团队。",
+      "category": "infrastructure",
+      "source_signal": "VentureBeat: Managing AI 'Blast Radius' — Production Risks When Underlying Models Change"
+    },
+    {
+      "date": "2026-06-08T17:49:00.737309+08:00",
+      "prediction_text": "建议Agent层内置多模型故障切换；值得关注模型中间件与可靠性监控创业团队。",
+      "category": "infrastructure",
+      "source_signal": "Notion Restores Access to Anthropic After Service Disruption Highlights Enterprise AI Dependencies"
+    },
+    {
+      "date": "2026-06-08T17:49:00.742439+08:00",
+      "prediction_text": "生态内工具链（监控、部署、审计）是值得早期投资的细分方向。",
+      "category": "strategic_move",
+      "source_signal": "Anthropic SDK v0.107.0: Updates to Managed Agents Types — Enterprise Agent Management Infrastructure"
+    },
+    {
+      "date": "2026-06-08T17:49:00.747880+08:00",
+      "prediction_text": "开发者工具层可借鉴此思路，构建统一Agent编译与分发平台。",
+      "category": "open_source",
+      "source_signal": "Omnistack Agent: Platform-Agnostic 'One Full-Stack Engineer Brain' Adapter for All Major AI Chat Interfaces"
+    },
+    {
+      "date": "2026-06-08T17:49:00.754558+08:00",
+      "prediction_text": "探索针对医疗、法律、金融等行业的Agent配置文件模板商业化。",
+      "category": "open_source",
+      "source_signal": "K-Dense-AI/scientific-agents: AGENTS.md Profiles That Teach AI Agents to Reason Like Senior Scientists"
+    },
+    {
+      "date": "2026-06-08T17:49:00.760091+08:00",
+      "prediction_text": "内容安全与推荐系统可探索端侧轻量模型实现实时审核与个性化预筛选，降低云端延迟。",
+      "category": "open_source",
+      "source_signal": "Ollama v0.30.7-rc1: Native Windows Hermes Config Path — Consolidating Local LLM Deployment"
     }
   ]
 }

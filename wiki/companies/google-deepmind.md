@@ -2,7 +2,7 @@
 title: Google DeepMind
 type: company
 created: 2026-02-25
-updated: 2026-06-06
+updated: 2026-06-08
 ---
 
 # Google DeepMind
@@ -11,6 +11,7 @@ Google's unified AI research division, maker of [[gemini|Gemini]] and [[gemma|Ge
 
 ## Timeline
 
+- **2026-06-08**: [Update] Europe Accelerates Ditching US Big Tech: Wired Timeline Shows Government and Enterprise Migration
 - **2026-06-06**: Google to Pay SpaceX $920M Monthly for GPU Compute Capacity
 - **2026-06-05**: Google Rolls Out Customizable Search Profiles for Creators with 100K+ Subscribers
 - **2026-06-04**: [[hugging-face|HuggingFace]] Transformers v5.10.1 Adds Official Support for Gemma4 with MTP (Multi-Token Prediction) Architecture
