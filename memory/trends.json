@@ -1,23 +1,22 @@
 {
-  "last_updated": "2026-06-07T13:27:56.966120+08:00",
+  "last_updated": "2026-06-08T16:11:41.717340+08:00",
   "trends": [
     {
       "id": "ai_safety_pivot_and_accelerated_agi_time",
       "name": "AI Safety Pivot and Accelerated AGI Timelines",
       "related_tags": [
-        "User Experience",
-        "Content Generation",
-        "Content Safety",
-        "Corporate Strategy",
+        "AI Safety",
+        "Content Moderation",
+        "Regulation",
         "Safety",
         "AI Governance",
-        "Military",
-        "Industry Cooperation"
+        "Platform Governance",
+        "Legal Risk",
+        "Corporate Strategy"
       ],
       "trajectory": "accelerating",
-      "signal_count": 124,
+      "signal_count": 125,
       "weekly_counts": [
-        2,
         0,
         1,
         3,
@@ -28,33 +27,10 @@
         2,
         2,
         1,
-        1
+        1,
+        0
       ],
       "key_events": [
-        {
-          "date": "2026-05-08",
-          "event": "Anthropic Donates Petri Open-Source Alignment Testing Tool to Meridian Labs; Anthropic Launches Public Security Bug Bounty Program on HackerOne"
-        },
-        {
-          "date": "2026-05-11",
-          "event": "Claude Mythos AI Code Auditor Finds 271 Firefox Security Bugs Including 180 High-Severity"
-        },
-        {
-          "date": "2026-05-11",
-          "event": "Anthropic Reports AI Model 'Evil' Portrayals Influence Claude Blackmail Behavior"
-        },
-        {
-          "date": "2026-05-16",
-          "event": "YouTube Expands AI Deepfake Detection to All Adults; GPT-5.5 Gains 98% Win Rate Over Claude 4 Sonnet on Economic Value Benchmark"
-        },
-        {
-          "date": "2026-05-20",
-          "event": "First detected"
-        },
-        {
-          "date": "2026-05-20",
-          "event": "2026-05-20: OpenAI Adopts Google's SynthID Watermark for AI Images"
-        },
         {
           "date": "2026-05-22",
           "event": "Mozilla Firefox 'Project Nova' Redesign Prioritizes AI Privacy Controls"
@@ -84,6 +60,10 @@
           "event": "OpenAI Adds Moderation Endpoints to Python SDK; South Korea Mandates AI Censorship Scanning for All Images on Online Forums"
         },
         {
+          "date": "2026-06-05",
+          "event": "First detected"
+        },
+        {
           "date": "2026-06-06",
           "event": "Microsoft AI Chief Declares Independence from OpenAI, Pivots to Superintelligence"
         },
@@ -110,7 +90,6 @@
       "trajectory": "accelerating",
       "signal_count": 107,
       "weekly_counts": [
-        3,
         2,
         0,
         2,
@@ -121,7 +100,8 @@
         1,
         2,
         1,
-        1
+        1,
+        0
       ],
       "key_events": [
         {
@@ -325,9 +305,8 @@
         "Market Impact"
       ],
       "trajectory": "accelerating",
-      "signal_count": 245,
+      "signal_count": 248,
       "weekly_counts": [
-        4,
         2,
         1,
         4,
@@ -338,7 +317,8 @@
         1,
         2,
         1,
-        1
+        1,
+        3
       ],
       "key_events": [
         {
@@ -388,6 +368,10 @@
         {
           "date": "2026-06-06",
           "event": "VentureBeat: Enterprise AI Agents Lack Cross-User Learning Persistence"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Anthropic SDK v0.107.0 Adds Managed Agent Types; VentureBeat: 'Blast Radius' of LLM Changes in Production"
         }
       ],
       "created": "2026-02-25"
@@ -410,7 +394,6 @@
       "weekly_counts": [
         4,
         4,
-        4,
         1,
         2,
         1,
@@ -419,7 +402,8 @@
         1,
         1,
         1,
-        1
+        1,
+        0
       ],
       "key_events": [
         {
@@ -509,7 +493,6 @@
       "trajectory": "accelerating",
       "signal_count": 56,
       "weekly_counts": [
-        0,
         2,
         0,
         0,
@@ -520,7 +503,8 @@
         0,
         1,
         2,
-        3
+        3,
+        0
       ],
       "key_events": [
         {
@@ -604,9 +588,8 @@
         "Local AI"
       ],
       "trajectory": "accelerating",
-      "signal_count": 259,
+      "signal_count": 261,
       "weekly_counts": [
-        3,
         3,
         2,
         1,
@@ -615,6 +598,7 @@
         4,
         3,
         3,
+        2,
         2,
         2,
         2
@@ -679,6 +663,10 @@
         {
           "date": "2026-06-07",
           "event": "PanisHandsome/ai-rules-sync: Unified Config Sync for AI Coding Agents; davanstrien/uv-scripts-for-ai: Self-Contained AI Scripts for OCR, Vision, Audio Tasks"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "OmniStack Agent: Platform-Agnostic AI Agent Compiled for ChatGPT, Claude, Copilot, Gemini & Cursor; Scientific Agents: Standardized 'AGENTS.md' Profiles for Expert-Level AI Reasoning"
         }
       ],
       "created": "2026-02-25"
@@ -697,9 +685,8 @@
         "Chip Architecture"
       ],
       "trajectory": "accelerating",
-      "signal_count": 181,
+      "signal_count": 183,
       "weekly_counts": [
-        0,
         1,
         3,
         3,
@@ -710,7 +697,8 @@
         1,
         3,
         2,
-        1
+        1,
+        2
       ],
       "key_events": [
         {
@@ -760,6 +748,10 @@
         {
           "date": "2026-06-07",
           "event": "Ollama v0.30.6: Adds Gemma 4 QAT Optimized Weights for On-Device Deployment"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Ollama v0.30.7-rc1 Improves On-Device LLM Deployment with Native Windows Support"
         }
       ],
       "created": "2026-02-25"
@@ -784,14 +776,14 @@
         1,
         1,
         1,
-        1,
         2,
         0,
         0,
         1,
         1,
         2,
-        1
+        1,
+        0
       ],
       "key_events": [
         {
@@ -857,7 +849,6 @@
       "trajectory": "accelerating",
       "signal_count": 76,
       "weekly_counts": [
-        0,
         1,
         2,
         1,
@@ -868,6 +859,7 @@
         1,
         0,
         1,
+        0,
         0
       ],
       "key_events": [
@@ -970,7 +962,6 @@
       "trajectory": "accelerating",
       "signal_count": 120,
       "weekly_counts": [
-        1,
         5,
         3,
         3,
@@ -981,7 +972,8 @@
         0,
         1,
         1,
-        1
+        1,
+        0
       ],
       "key_events": [
         {
@@ -1063,7 +1055,6 @@
       "trajectory": "accelerating",
       "signal_count": 19,
       "weekly_counts": [
-        0,
         1,
         1,
         1,
@@ -1074,7 +1065,8 @@
         0,
         0,
         1,
-        1
+        1,
+        0
       ],
       "key_events": [
         {
@@ -1141,15 +1133,14 @@
       "created": "2026-02-28"
     },
     {
-      "id": "ai_content_moderation_and_platform_gover",
-      "name": "AI Content Moderation and Platform Governance",
+      "id": "ai_pricing_pressure_and_market_maturity",
+      "name": "AI Pricing Pressure and Market Maturity",
       "related_tags": [
-        "Content Moderation",
-        "AI Safety",
-        "Regulation",
-        "Platform Governance",
-        "Legal Risk",
-        "AI Detection"
+        "商业化",
+        "成本风险",
+        "IPO",
+        "定价策略",
+        "AI基础设施"
       ],
       "trajectory": "accelerating",
       "signal_count": 1,
@@ -1158,11 +1149,57 @@
       ],
       "key_events": [
         {
-          "date": "2026-06-05",
+          "date": "2026-06-08",
           "event": "First detected"
         }
       ],
-      "created": "2026-06-05"
+      "created": "2026-06-08"
+    },
+    {
+      "id": "geopolitical_data_sovereignty_and_eu_tec",
+      "name": "Geopolitical Data Sovereignty and EU Tech Divergence",
+      "related_tags": [
+        "地缘政治",
+        "数据主权",
+        "合规",
+        "海外业务",
+        "欧洲AI"
+      ],
+      "trajectory": "accelerating",
+      "signal_count": 1,
+      "weekly_counts": [
+        1
+      ],
+      "key_events": [
+        {
+          "date": "2026-06-08",
+          "event": "First detected"
+        }
+      ],
+      "created": "2026-06-08"
+    },
+    {
+      "id": "ai_super_app_and_agentic_interface_evolu",
+      "name": "AI Super App and Agentic Interface Evolution",
+      "related_tags": [
+        "AI新交互",
+        "OpenAI",
+        "超级应用",
+        "产品形态",
+        "多模态"
+      ],
+      "trajectory": "accelerating",
+      "signal_count": 1,
+      "weekly_counts": [
+        1
+      ],
+      "key_events": [
+        {
+          "date": "2026-06-08",
+          "event": "First detected"
+        }
+      ],
+      "created": "2026-06-08"
     }
   ]
 }

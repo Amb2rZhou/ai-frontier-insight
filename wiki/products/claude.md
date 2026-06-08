@@ -2,7 +2,7 @@
 title: Claude
 type: product
 created: 2026-02-25
-updated: 2026-06-07
+updated: 2026-06-08
 ---
 
 # Claude
@@ -11,6 +11,8 @@ updated: 2026-06-07
 
 ## Timeline
 
+- **2026-06-08**: OmniStack Agent: Platform-Agnostic [[agent-frameworks|AI Agent]] Compiled for [[gpt|ChatGPT]], Claude, [[copilot|Copilot]], [[gemini|Gemini]] & [[cursor-ai|Cursor]]
+- **2026-06-08**: VentureBeat: The 'Blast Radius' of LLM Changes in Production – Challenges for AI Orchestration
 - **2026-06-07**: PanisHandsome/ai-rules-sync: Unified Config Sync for AI Coding Agents
 - **2026-06-06**: [[anthropic|Anthropic]] SDK Deprecates Claude Opus 4.1, Signaling Model Lifecycle Management
 - **2026-06-05**: [[anthropic|Anthropic]] Reveals 80% of Production Code Authored by Claude, Sets New Enterprise Benchmark

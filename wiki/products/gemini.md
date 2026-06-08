@@ -2,7 +2,7 @@
 title: Gemini
 type: product
 created: 2026-02-25
-updated: 2026-05-30
+updated: 2026-06-08
 ---
 
 # Gemini
@@ -11,6 +11,7 @@ updated: 2026-05-30
 
 ## Timeline
 
+- **2026-06-08**: OmniStack Agent: Platform-Agnostic [[agent-frameworks|AI Agent]] Compiled for [[gpt|ChatGPT]], [[claude|Claude]], [[copilot|Copilot]], Gemini & [[cursor-ai|Cursor]]
 - **2026-05-30**: Google Gemini Models Tested for 'Scheming' Tendencies by [[google-deepmind|DeepMind]] Alignment Team
 - **2026-05-21**: [[google-deepmind|Google]] Launches Managed Agents API for One-Call Agent Deployment
 - **2026-05-20**: [[google-deepmind|Google DeepMind]] Releases Gemini Omni: Any-to-Video Generation Model

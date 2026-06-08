@@ -1,60 +1,6 @@
 {
   "predictions": [
     {
-      "date": "2026-05-22T07:21:33.152767+08:00",
-      "prediction_text": "社区/电商平台的内容审核与运营团队应主动设计人机协作岗位重组，避免被动裁员。",
-      "category": "strategic_move",
-      "source_signal": "Intuit to Lay Off Over 3,000 Employees to Refocus on AI"
-    },
-    {
-      "date": "2026-05-22T07:21:33.155125+08:00",
-      "prediction_text": "企业级 Agent 平台（如客服/采购助手）可以考虑引入 Decision Context Graph，提升多轮任务连贯性。",
-      "category": "research_breakthrough",
-      "source_signal": "Decision Context Graph Framework Proposed to Solve AI Agent Amnesia in Enterprise"
-    },
-    {
-      "date": "2026-05-22T10:36:10.372727+08:00",
-      "prediction_text": "社区平台的搜索增强Agent可探索将用户复杂需求（如行程规划）委托给35小时级后台Agent，异步返回结果。",
-      "category": "model_release",
-      "source_signal": "Alibaba Qwen3.7-Max Achieves 35-Hour Autonomous Agent Runtime"
-    },
-    {
-      "date": "2026-05-22T10:36:10.378824+08:00",
-      "prediction_text": "电商/社区平台的商家运营Agent（如自动客服、智能选品）可考虑推出按效果付费的商业模式。",
-      "category": "strategic_move",
-      "source_signal": "Workday Reports 2x Quarter-over-Quarter Growth in Enterprise AI Agent Customers"
-    },
-    {
-      "date": "2026-05-22T10:36:10.383428+08:00",
-      "prediction_text": "内容平台的AI功能设置应提供“一键关闭AIGC推荐/生成”入口，作为合规与信任基线功能。",
-      "category": "ecosystem_shift",
-      "source_signal": "Mozilla Firefox 'Project Nova' Redesign Prioritizes AI Privacy Controls"
-    },
-    {
-      "date": "2026-05-22T10:36:10.387563+08:00",
-      "prediction_text": "内容平台的视频编辑Agent可考虑从用户操作录屏中提取轨迹，低成本生成“自动剪辑”训练集。",
-      "category": "research_breakthrough",
-      "source_signal": "Peking University Video2GUI: Synthesizing Trajectories for GUI Agent Pretraining"
-    },
-    {
-      "date": "2026-05-22T10:36:10.391910+08:00",
-      "prediction_text": "视频生成工具可探索将MIGA集成到风格迁移管线，实现超30秒的连贯运镜。",
-      "category": "research_breakthrough",
-      "source_signal": "Alibaba MIGA: Training-Free Long Video Generation Enhancing Temporal Consistency"
-    },
-    {
-      "date": "2026-05-22T10:36:10.395128+08:00",
-      "prediction_text": "推荐系统/实时推理管线可评估Command A+替换现有稠密模型，压降单位查询成本30%以上。",
-      "category": "open_source",
-      "source_signal": "HuggingFace Transformers v5.9.0 Adds Cohere2Moe Model Support"
-    },
-    {
-      "date": "2026-05-22T10:36:10.398217+08:00",
-      "prediction_text": "电商平台商品拍摄工具可考虑接入Pixal3D，一键将用户实拍图转为3D模型，提升点击转化。",
-      "category": "open_source",
-      "source_signal": "TencentARC Pixal3D: Image-to-3D Model by Tencent ARC Lab"
-    },
-    {
       "date": "2026-05-22T10:36:10.401075+08:00",
       "prediction_text": "内容平台的语音创作Agent可关注端侧降噪芯片，实现户外高质量语音采集与实时转写。",
       "category": "infrastructure",
@@ -599,6 +545,60 @@
       "prediction_text": "推荐系统团队可研究其paged-KV和speculative decoding实现，评估在内部场景复用的可行性。",
       "category": "research_breakthrough",
       "source_signal": "zengxiao-he/tessera: From-Scratch LLM Distillation and Serving Engine"
+    },
+    {
+      "date": "2026-06-08T16:11:25.429825+08:00",
+      "prediction_text": "内容平台建议加速自研或蒸馏轻量模型，在非核心场景优先用开源方案降低token消耗。",
+      "category": "ecosystem_shift",
+      "source_signal": "Tokenpocalypse: AI Companies Raise Prices Ahead of IPOs, Signaling Market Maturity and Cost Pass-Through"
+    },
+    {
+      "date": "2026-06-08T16:11:25.439878+08:00",
+      "prediction_text": "社区平台可探索Agent驱动的智能创作助手与场景化搜索，替代纯聊天入口提升转化。",
+      "category": "strategic_move",
+      "source_signal": "OpenAI Still Developing 'Super App' – 'Chat Is Dead' Declaration Signals Shift Toward Agentic and Multi-Modal Interfaces"
+    },
+    {
+      "date": "2026-06-08T16:11:25.446734+08:00",
+      "prediction_text": "电商平台可评估其Managed Agent在售前问答、订单处理场景的集成性价比。",
+      "category": "infrastructure",
+      "source_signal": "Anthropic SDK v0.107.0 Adds Managed Agent Types and API-Key Auth Fix for Foundry"
+    },
+    {
+      "date": "2026-06-08T16:11:25.451820+08:00",
+      "prediction_text": "推荐系统与审核团队需建立模型版本收敛机制与灰度回滚预案，降低故障半径。",
+      "category": "research_breakthrough",
+      "source_signal": "VentureBeat: The 'Blast Radius' of LLM Changes in Production – Challenges for AI Orchestration"
+    },
+    {
+      "date": "2026-06-08T16:11:25.457009+08:00",
+      "prediction_text": "出海电商与内容平台需提前布局多区域AI/云供应商，避免单一供应链政策风险。",
+      "category": "ecosystem_shift",
+      "source_signal": "Europe Accelerates Ditching of US Big Tech: Governments and Companies Plan Transition Away from American AI/Cloud"
+    },
+    {
+      "date": "2026-06-08T16:11:25.462165+08:00",
+      "prediction_text": "创作者工具与客服Agent建议引入多模型备用路由，确保主API不可用时自动切换。",
+      "category": "infrastructure",
+      "source_signal": "Notion Restores Access to Anthropic After Brief Service Disruption, Highlighting API Dependencies in AI Ecosystem"
+    },
+    {
+      "date": "2026-06-08T16:11:25.467085+08:00",
+      "prediction_text": "内容平台的AI编排团队可借鉴其抽象层设计，统一Agent行为在不同模型上的表现。",
+      "category": "open_source",
+      "source_signal": "OmniStack Agent: Platform-Agnostic AI Agent Compiled for ChatGPT, Claude, Copilot, Gemini & Cursor"
+    },
+    {
+      "date": "2026-06-08T16:11:25.472207+08:00",
+      "prediction_text": "社区平台可尝试为时尚/美妆等垂类内容Agent定制类似profile模板，提升推荐精准度。",
+      "category": "open_source",
+      "source_signal": "Scientific Agents: Standardized 'AGENTS.md' Profiles for Expert-Level AI Reasoning"
+    },
+    {
+      "date": "2026-06-08T16:11:25.475326+08:00",
+      "prediction_text": "内容安全与推荐系统可探索端侧轻量模型实现实时审核与个性化预筛选，降低云端延迟。",
+      "category": "open_source",
+      "source_signal": "Ollama v0.30.7-rc1: Continues to Improve On-Device LLM Deployment with Native Windows Support"
     }
   ]
 }

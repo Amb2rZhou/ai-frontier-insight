@@ -2,7 +2,7 @@
 title: Agent Frameworks
 type: technology
 created: 2026-02-25
-updated: 2026-06-07
+updated: 2026-06-08
 ---
 
 # Agent Frameworks
@@ -11,6 +11,10 @@ The rapidly evolving ecosystem of tools, SDKs, and platforms for building autono
 
 ## Timeline
 
+- **2026-06-08**: Scientific Agents: Standardized 'AGENTS.md' Profiles for Expert-Level AI Reasoning
+- **2026-06-08**: OmniStack Agent: Platform-Agnostic AI Agent Compiled for [[gpt|ChatGPT]], [[claude|Claude]], [[copilot|Copilot]], [[gemini|Gemini]] & [[cursor-ai|Cursor]]
+- **2026-06-08**: [[anthropic|Anthropic]] SDK v0.107.0 Adds Managed Agent Types and API-Key Auth Fix for Foundry
+- **2026-06-08**: [[openai|OpenAI]] Still Developing 'Super App' – 'Chat Is Dead' Declaration Signals Shift Toward Agentic and Multi-Modal Interfaces
 - **2026-06-07**: davanstrien/uv-scripts-for-ai: Self-Contained AI Scripts for OCR, Vision, Audio Tasks
 - **2026-06-07**: PanisHandsome/ai-rules-sync: Unified Config Sync for AI Coding Agents
 - **2026-06-06**: [[anthropic|Anthropic]] SDK Deprecates [[claude|Claude]] Opus 4.1, Signaling Model Lifecycle Management

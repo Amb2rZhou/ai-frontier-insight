@@ -2,7 +2,7 @@
 title: GPT
 type: product
 created: 2026-02-25
-updated: 2026-06-07
+updated: 2026-06-08
 ---
 
 # GPT
@@ -11,6 +11,7 @@ updated: 2026-06-07
 
 ## Timeline
 
+- **2026-06-08**: OmniStack Agent: Platform-Agnostic [[agent-frameworks|AI Agent]] Compiled for ChatGPT, [[claude|Claude]], [[copilot|Copilot]], [[gemini|Gemini]] & [[cursor-ai|Cursor]]
 - **2026-06-07**: [[openai|OpenAI]] Unveils Lockdown Mode to Defend Against Prompt Injection
 - **2026-05-17**: [[openai|OpenAI]] Co-Founder Greg Brockman Takes Charge of Product Strategy Amid Reorganization
 - **2026-05-16**: GPT-5.5 Gains 98% Win Rate Over [[claude|Claude]] 4 Sonnet on Economic Value Benchmark

@@ -1,1003 +1,194 @@
 {
-  "current_week": "2026-W22",
+  "current_week": "2026-W23",
   "days": {
-    "2026-06-03": [
+    "2026-06-08": [
       {
-        "title": "Microsoft Launches MXC: OS-Level Sandbox for AI Agents with OpenAI and Nvidia Backing",
-        "signal_text": "据 VentureBeat 报道，微软发布了 MXC（Microsoft eXecution Container），一个操作系统级沙盒环境，专为 AI Agent 的安全执行而设计。OpenAI 和 Nvidia 已加入支持。此举旨在解决当前 AI Agent 在代码执行、文件操作时缺乏统一安全隔离的行业痛点，对内容平台在应用 AI Agent 时的安全治理有重要参考意义。",
-        "signal_strength": 0.9,
-        "sources": [
-          {
-            "name": "VentureBeat",
-            "url": "https://venturebeat.com/security/microsoft-launches-mxc-an-os-level-sandbox-for-ai-agents-with-openai-and-nvidia-already-on-board"
-          }
-        ],
-        "tags": [
-          "AI安全",
-          "Agent框架",
-          "微软",
-          "沙盒",
-          "内容安全"
-        ],
-        "raw_item_indices": [
-          29
-        ]
-      },
-      {
-        "title": "Alibaba Releases Qwen3.7-Plus: Multimodal LLM with Text, Video, and Image Input at Competitive Pricing",
-        "signal_text": "据 VentureBeat 报道，阿里巴巴发布了 Qwen3.7-Plus，这是 Qwen 家族的最新大语言模型，支持文本、视频和图像的多模态输入，推理成本较前代降低 60%，价格为每百万 token $0.4/$1.6。该模型为闭源，标志着阿里在多模态和成本效率上的重要进展。",
+        "title": "Tokenpocalypse: AI Companies Raise Prices Ahead of IPOs, Signaling Market Maturity and Cost Pass-Through",
+        "signal_text": "据 TechCrunch 独家报道，随着 OpenAI、Anthropic 等头部 AI 公司筹备 IPO，面向开发者和企业的 API Token 价格可能迎来系统性上涨，形成所谓的“Token 末日”。这标志着 AI 行业从补贴获客期进入盈利导向期，直接增加下游内容平台（如小红书）的 AI 推理成本。TechCrunch 文章分析指出，价格上浮将成为常态，而非短期波动。",
         "signal_strength": 0.85,
         "sources": [
           {
-            "name": "VentureBeat",
-            "url": "https://venturebeat.com/technology/alibabas-qwen3-7-plus-supports-text-video-and-imagery-inputs-at-low-cost-of-0-4-1-6-per-1m-token-but-its-proprietary"
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/"
+          },
+          {
+            "name": "Hacker News",
+            "url": "https://news.ycombinator.com/item?id=48442136"
           }
         ],
         "tags": [
-          "大模型发布",
-          "多模态",
-          "阿里巴巴",
-          "成本优化"
+          "AI基础设施",
+          "商业化",
+          "成本风险"
+        ],
+        "raw_item_indices": [
+          0,
+          8
+        ]
+      },
+      {
+        "title": "OpenAI Still Developing 'Super App' – 'Chat Is Dead' Declaration Signals Shift Toward Agentic and Multi-Modal Interfaces",
+        "signal_text": "据 TechCrunch 报道，OpenAI 一位高级员工公开宣称“Chat 已死”，暗示公司正在开发整合多种交互形态的“超级应用”。此举表明 OpenAI 正从单一对话式界面转向更全面的 AI 平台战略，可能整合搜索、创作、Agent 等能力。对小红书而言，这意味着 AI 原生应用形态正在快速进化，社区内对话式内容交互和Agent辅助创作模式值得加速布局。",
+        "signal_strength": 0.82,
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/"
+          }
+        ],
+        "tags": [
+          "AI新交互",
+          "OpenAI",
+          "产品形态",
+          "超级应用"
+        ],
+        "raw_item_indices": [
+          14
+        ]
+      },
+      {
+        "title": "Anthropic SDK v0.107.0 Adds Managed Agent Types and API-Key Auth Fix for Foundry",
+        "signal_text": "Anthropic 发布 Python SDK v0.107.0 和 v0.107.1。关键更新包括：在 API 中增加 Managed Agents 类型支持（v0.107.0），以及修复 Foundry 场景下 x-api-key header 认证问题（v0.107.1）。这表明 Anthropic 正在强化其 Agent 托管（Managed Agent）产品能力，为企业和开发者在平台上构建、管理和部署 AI Agent 提供原生支持。对于小红书可能涉及的企业级 Agent 应用场景（如客服、编辑辅助），这是重要的平台级信号。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "Anthropic（官方 GitHub Release）",
+            "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.107.0"
+          },
+          {
+            "name": "Anthropic（官方 GitHub Release）",
+            "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.107.1"
+          }
+        ],
+        "tags": [
+          "Anthropic",
+          "AI Agent",
+          "企业级AI",
+          "SDK更新"
+        ],
+        "raw_item_indices": [
+          27,
+          26
+        ]
+      },
+      {
+        "title": "VentureBeat: The 'Blast Radius' of LLM Changes in Production – Challenges for AI Orchestration",
+        "signal_text": "VentureBeat 发表深度文章，讨论在生产环境中管理 AI 模型“爆炸半径”的挑战。文章指出，当 Claude 等模型发生行为变化时，依赖其编排的复杂系统可能大面积失效。这一现象直接关系到小红书在 AI 辅助创作、内容审核等场景中对第三方模型的依赖风险，凸显了建立模型行为监控、回滚机制和多模型冗余的重要性。",
+        "signal_strength": 0.72,
+        "sources": [
+          {
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/orchestration/when-claude-changed-everything-changed-managing-ai-blast-radius-in-production"
+          }
+        ],
+        "tags": [
+          "AI稳定性",
+          "生产部署",
+          "LLM编排",
+          "风险管理"
+        ],
+        "raw_item_indices": [
+          6
+        ]
+      },
+      {
+        "title": "Europe Accelerates Ditching of US Big Tech: Governments and Companies Plan Transition Away from American AI/Cloud",
+        "signal_text": "Wired 发布时间线报道，显示数十家欧洲政府、企业和其他组织正在或计划从美国大型科技公司（包括 AI 和云服务）迁移。这一地缘政治趋势对小红书的海外业务扩展、数据合规策略以及可能的区域性 AI 技术布局有直接影响。",
+        "signal_strength": 0.7,
+        "sources": [
+          {
+            "name": "Wired",
+            "url": "https://www.wired.com/story/all-the-ways-europe-is-ditching-american-technology/"
+          }
+        ],
+        "tags": [
+          "地缘政治",
+          "数据主权",
+          "合规",
+          "海外业务"
+        ],
+        "raw_item_indices": [
+          1
+        ]
+      },
+      {
+        "title": "Notion Restores Access to Anthropic After Brief Service Disruption, Highlighting API Dependencies in AI Ecosystem",
+        "signal_text": "据 TechCrunch 报道，Notion 经历了一次因 Anthropic API 导致的短暂服务中断，之后恢复访问。Notion 产品负责人对用户反馈量感到“震惊”。此事件暴露了依赖第三方 AI API 的平台在稳定性和容灾方面的脆弱性——对小红书等重度依赖 AI API 的内容平台是个警示信号。",
+        "signal_strength": 0.68,
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/"
+          }
+        ],
+        "tags": [
+          "AI基础设施",
+          "平台依赖",
+          "服务稳定性",
+          "风险管理"
         ],
         "raw_item_indices": [
           11
         ]
       },
       {
-        "title": "Microsoft Scout: AI Coworker Agent for Teams Automates Office Tasks",
-        "signal_text": "据 Wired 报道，微软推出 Microsoft Scout，一个类似 OpenClaw 风格的 AI Agent，会像人类同事一样出现在 Microsoft Teams 中，可自动执行繁琐的办公任务。这代表了企业级 AI Agent 从工具向“数字同事”形态的演进，与小红书正在探索的 AI 辅助社区运营方向高度相关。",
-        "signal_strength": 0.8,
+        "title": "OmniStack Agent: Platform-Agnostic AI Agent Compiled for ChatGPT, Claude, Copilot, Gemini & Cursor",
+        "signal_text": "项目 omnistack-agent（Ricar66/omnistack-agent，48 stars）将同一个全栈软件工程师思维编译成适用于 ChatGPT、Claude、Copilot、Gemini 和 Cursor 的适配器。这种“一次编写、多平台部署”的 Agent 思路对于正在构建多模型编排能力的小红书团队有启发意义，可减少 Agent 在不同模型间的迁移成本。",
+        "signal_strength": 0.42,
         "sources": [
           {
-            "name": "Wired",
-            "url": "https://www.wired.com/story/meet-microsoft-scout-your-ai-coworker-that-never-logs-off/"
+            "name": "个人开发者（Ricar66）",
+            "url": "https://github.com/Ricar66/omnistack-agent"
           }
         ],
         "tags": [
-          "AI代理",
-          "企业级应用",
-          "微软",
-          "新交互范式"
-        ],
-        "raw_item_indices": [
-          26
-        ]
-      },
-      {
-        "title": "Perplexity AI Unveils Hybrid Local-Cloud Inference System at Computex 2026",
-        "signal_text": "据 VentureBeat 报道，Perplexity AI 在 Computex 2026 上展示了一套混合本地-云端推理系统。这标志着搜索公司正在探索新的推理架构以平衡速度、成本和隐私，对小红书等依赖实时推理的内容平台在架构选型上有参考意义。",
-        "signal_strength": 0.7,
-        "sources": [
-          {
-            "name": "VentureBeat",
-            "url": "https://venturebeat.com/technology/perplexity-ai-unveils-hybrid-local-cloud-inference-system-at-computex-2026"
-          }
-        ],
-        "tags": [
-          "推理效率",
-          "混合架构",
-          "Perplexity",
-          "搜索增强"
+          "AI Agent",
+          "平台适配",
+          "开发者工具",
+          "多模型"
         ],
         "raw_item_indices": [
           22
         ]
       },
       {
-        "title": "Enterprise AI Has a Runtime Problem, Not a Model Problem: VentureBeat Pulse Research",
-        "signal_text": "据 VentureBeat 的 Pulse Research 报告，企业 AI 组织面临的主要挑战并非模型能力不足，而是 Agent 运行时（runtime）层面的治理、监控和安全问题。该研究指出大部分企业正在构建错误的解决方案。这对小红书在 Agent 落地方向上提供了重要的战略提醒。",
-        "signal_strength": 0.7,
+        "title": "Scientific Agents: Standardized 'AGENTS.md' Profiles for Expert-Level AI Reasoning",
+        "signal_text": "K-Dense-AI 在 GitHub 发布 scientific-agents 项目（50 stars），提供标准化的 AGENTS.md 文件模板，用于教导 AI 代理像资深科学家和工程师一样推理。该项目直接服务于 AI Agent 在专业领域的任务执行，为小红书开发特定领域（如时尚、美妆、旅游）的专业内容 Agent 提供了参考范式。",
+        "signal_strength": 0.4,
         "sources": [
           {
-            "name": "VentureBeat",
-            "url": "https://venturebeat.com/resources/the-agentic-reckoning-enterprise-ai-organizations-have-a-runtime-problem-not-a-model-problem"
-          }
-        ],
-        "tags": [
-          "AI治理",
-          "企业应用",
-          "行业报告",
-          "Agent"
-        ],
-        "raw_item_indices": [
-          24
-        ]
-      },
-      {
-        "title": "Microsoft IQ and Rayfin: Solving Enterprise AI Agent Data Silos",
-        "signal_text": "据 VentureBeat 报道，微软在 Build 大会上推出 Microsoft IQ 和 Rayfin，旨在解决企业 AI Agent 部署时产生的数据孤岛问题。这些工具确保新 Agent 能继承企业已有的业务知识、数据访问规则和治理策略。对小红书在多 Agent 协同场景下的数据架构设计有借鉴意义。",
-        "signal_strength": 0.7,
-        "sources": [
-          {
-            "name": "VentureBeat",
-            "url": "https://venturebeat.com/data/enterprise-ai-agents-keep-creating-data-silos-microsofts-build-answer-is-microsoft-iq-and-rayfin"
-          }
-        ],
-        "tags": [
-          "数据治理",
-          "AI Agent",
-          "微软",
-          "知识图谱"
-        ],
-        "raw_item_indices": [
-          25
-        ]
-      },
-      {
-        "title": "Stanford Law Study: AI Outperforms Law Professors in Legal Analysis",
-        "signal_text": "据 Stanford News 报道，一项斯坦福法学院的研究显示，AI 在法律分析任务中表现优于法学教授。该研究来自斯坦福大学（知名机构），对内容平台评估 AI 在专业领域（如合规审核、政策分析）的应用潜力有启示。",
-        "signal_strength": 0.7,
-        "sources": [
-          {
-            "name": "Stanford University",
-            "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/"
-          }
-        ],
-        "tags": [
-          "AI能力评估",
-          "法律应用",
-          "斯坦福",
-          "内容审核"
-        ],
-        "raw_item_indices": [
-          6
-        ]
-      },
-      {
-        "title": "Anthropic Expands Glasswing Cybersecurity Project to 150 New Organizations",
-        "signal_text": "据 The Information 报道，Anthropic 将其 Claude Mythos 模型用于网络安全测试的 Project Glasswing 项目从约 50 个组织扩展至 150 个新组织。这体现了头部 AI 公司在安全领域加速商业化和生态构建，对内容平台评估第三方 AI 安全方案有参考价值。",
-        "signal_strength": 0.65,
-        "sources": [
-          {
-            "name": "The Information",
-            "url": "https://www.theinformation.com/briefings/anthropic-expands-glasswing-150-new-organizations"
-          }
-        ],
-        "tags": [
-          "AI安全",
-          "Anthropic",
-          "商业化",
-          "网络安全"
-        ],
-        "raw_item_indices": [
-          16
-        ]
-      },
-      {
-        "title": "Travelers Deploys AI-Powered Claims Assistant with OpenAI for Customer Support",
-        "signal_text": "据 OpenAI 官方博客，Travelers 保险公司利用 OpenAI 构建了一个 AI 驱动的理赔助手（Claim Assistant），可指导客户完成理赔流程、提供 7x24 小时支持，并在高峰期实现弹性扩展。这展示了 AI Agent 在客服场景的成熟落地，对小红书社区运营中的用户服务有参考价值。",
-        "signal_strength": 0.6,
-        "sources": [
-          {
-            "name": "OpenAI Blog",
-            "url": "https://openai.com/index/travelers"
-          }
-        ],
-        "tags": [
-          "AI应用案例",
-          "客服",
-          "OpenAI",
-          "企业服务"
-        ],
-        "raw_item_indices": [
-          33
-        ]
-      },
-      {
-        "title": "ARC White-Box Estimation Challenge Launched to Improve AI Safety Estimation",
-        "signal_text": "据 Alignment Forum 报道，ARC（Alignment Research Center）联合 AIcrowd 推出白盒估计挑战赛，旨在改进 AI 能力估计算法。这体现了 AI 安全社区在可解释性与风险量化方面的前沿努力，对内容平台建立 AI 风险评估体系有长期参考价值。",
-        "signal_strength": 0.6,
-        "sources": [
-          {
-            "name": "Alignment Forum",
-            "url": "https://www.alignmentforum.org/posts/Kben8CzS4awCwNw5c/announcing-the-arc-white-box-estimation-challenge"
-          }
-        ],
-        "tags": [
-          "AI安全",
-          "评估",
-          "开源竞赛",
-          "可解释性"
-        ],
-        "raw_item_indices": [
-          30
-        ]
-      }
-    ],
-    "2026-06-04": [
-      {
-        "title": "Apple to Launch Overhauled Siri in September Powered by Google Cloud and Nvidia Chips",
-        "signal_text": "据 The Information 报道，Apple 计划于 9 月推出全面改版的 Siri，部分推理将运行在 Google Cloud 的 Nvidia 芯片上。Apple 正尝试在 iPhone 端侧尽可能多地运行新 Siri，但部分复杂任务将依赖云端。此消息同时来自多位知情人士，标志着 Apple 在 AI 战略上的关键赌注",
-        "signal_strength": 0.92,
-        "sources": [
-          {
-            "name": "The Information",
-            "url": "https://www.theinformation.com/briefings/apple-launch-new-siri-september-help-google-nvidia"
-          }
-        ],
-        "tags": [
-          "战略动作",
-          "AI 助手",
-          "端侧部署",
-          "头部公司"
-        ],
-        "raw_item_indices": [
-          13
-        ]
-      },
-      {
-        "title": "Google Releases Gemma 4 12B: Fully Local Multimodal Model for Audio, Video, and Text on 16GB Laptops",
-        "signal_text": "Google 发布开源 Gemma 4 12B 模型，支持音频、视频、图像和文本的多模态输入，可在 16GB 内存的典型企业笔记本上完全本地运行。据 VentureBeat 报道，该模型针对本地部署进行了优化，为端侧 AI 应用提供新选项",
-        "signal_strength": 0.88,
-        "sources": [
-          {
-            "name": "VentureBeat",
-            "url": "https://venturebeat.com/technology/googles-new-open-source-gemma-4-12b-analyzes-audio-video-and-runs-entirely-locally-on-a-typical-16gb-enterprise-laptop"
-          }
-        ],
-        "tags": [
-          "模型发布",
-          "端侧部署",
-          "多模态",
-          "开源"
-        ],
-        "raw_item_indices": [
-          23
-        ]
-      },
-      {
-        "title": "Meta Eyes Up to $200/Month Subscription for Consumer 'Hatch' AI Agent",
-        "signal_text": "据 The Information 报道，Meta 正考虑为计划推出的消费者版 OpenClaw AI Agent 工具 'Hatch' 收取高达 200 美元/月的订阅费，目标与 OpenAI/Anthropic 企业级产品看齐。这是 Meta 在 AI 商业化路径上的重大信号，表明其将 AI Agent 视为核心营收来源而非附属功能",
-        "signal_strength": 0.85,
-        "sources": [
-          {
-            "name": "The Information",
-            "url": "https://www.theinformation.com/briefings/meta-looks-charge-200-month-planned-hatch-ai-agent"
-          }
-        ],
-        "tags": [
-          "Agent",
-          "商业化",
-          "头部公司",
-          "产品发布"
-        ],
-        "raw_item_indices": [
-          2
-        ]
-      },
-      {
-        "title": "Anthropic Publishes Detailed Engineering Breakdown of How It Contains Claude Across Products",
-        "signal_text": "Anthropic 官方发布博文《The ways we contain Claude across products》，详细阐述了其如何在多产品线中设计安全隔离机制（containment）。文章引发 Hacker News 广泛讨论（42 points），为行业提供了 AI 安全工程实践的参考",
-        "signal_strength": 0.8,
-        "sources": [
-          {
-            "name": "Anthropic Engineering Blog",
-            "url": "https://www.anthropic.com/engineering/how-we-contain-claude"
-          }
-        ],
-        "tags": [
-          "内容安全",
-          "工程实践",
-          "头部公司"
-        ],
-        "raw_item_indices": [
-          5
-        ]
-      },
-      {
-        "title": "Vigils: Open-Source Local Control Plane for AI Agent Security and Audit",
-        "signal_text": "GitHub 项目 Vigils（获 205 stars）发布，用 Rust + Tauri + Chrome MV3 构建本地 AI Agent 控制平面，可实时查看 Agent 行为、审批关键操作、防止密钥泄露。这代表了 Agent 安全领域新兴的开源治理方案",
-        "signal_strength": 0.75,
-        "sources": [
-          {
-            "name": "GitHub - duncatzat/vigils",
-            "url": "https://github.com/duncatzat/vigils"
-          }
-        ],
-        "tags": [
-          "Agent",
-          "开源生态",
-          "内容安全"
-        ],
-        "raw_item_indices": [
-          33
-        ]
-      },
-      {
-        "title": "Lovable Signs Multi-Year Deal with Google Cloud to 5x Infrastructure Usage and Expand Claude Access",
-        "signal_text": "据 TechCrunch 报道，AI 应用构建平台 Lovable 与 Google Cloud 签署多年期合作协议，将云基础设施用量提升 5 倍，并扩大对 Anthropic Claude 模型的访问。此交易反映了 AI Native 公司的基础设施扩张趋势",
-        "signal_strength": 0.72,
-        "sources": [
-          {
-            "name": "TechCrunch",
-            "url": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/"
-          }
-        ],
-        "tags": [
-          "战略动作",
-          "AI 基础设施",
-          "商业化"
-        ],
-        "raw_item_indices": [
-          11
-        ]
-      },
-      {
-        "title": "OpenAI and Anthropik Sign Letter Urging Lawmakers to Improve Synthetic DNA Tracking for Bioweapon Prevention",
-        "signal_text": "据 Wired 报道，OpenAI、Anthropic 及多位科学家联合致信立法者，呼吁加强合成 DNA 序列追踪以防止生物武器开发。这是一次重要的 AI 安全治理倡导行动",
-        "signal_strength": 0.7,
-        "sources": [
-          {
-            "name": "Wired",
-            "url": "https://www.wired.com/story/openai-anthropic-letter-ai-biological-weapons/"
-          }
-        ],
-        "tags": [
-          "AI 安全",
-          "监管",
-          "头部公司"
-        ],
-        "raw_item_indices": [
-          0
-        ]
-      },
-      {
-        "title": "Nvidia Confirms N2X and N3X Chips: AI Consumer Chip Roadmap Inspired by Star Trek's Computer",
-        "signal_text": "据 The Verge 报道，在 Computex 2026 上，Nvidia CEO Jensen Huang 确认了继 RTX Spark 之后的至少两代消费级 AI 芯片规划（N2X、N3X），目标是将 AI 计算机的性能推向科幻级别",
-        "signal_strength": 0.68,
-        "sources": [
-          {
-            "name": "The Verge",
-            "url": "https://www.theverge.com/tech/942588/nvidia-rtx-spark-n2x-n3x-r2-d2-star-trek-star-wars-plan"
-          }
-        ],
-        "tags": [
-          "硬件",
-          "AI 基础设施",
-          "头部公司"
-        ],
-        "raw_item_indices": [
-          18
-        ]
-      },
-      {
-        "title": "LongLive-RAG: Official Framework for Retrieval-Augmented Long Video Generation",
-        "signal_text": "GitHub 开源项目 LongLive-RAG 发布，提出将 RAG 技术应用于长视频生成的通用框架，结合自回归和扩散模型。获 39 stars，由 qixinhu11 发布，属于多模态内容生成方向的前沿探索",
-        "signal_strength": 0.65,
-        "sources": [
-          {
-            "name": "GitHub - qixinhu11/LongLive-RAG",
-            "url": "https://github.com/qixinhu11/LongLive-RAG"
-          }
-        ],
-        "tags": [
-          "多模态生成",
-          "RAG",
-          "视频生成",
-          "开源"
-        ],
-        "raw_item_indices": [
-          41
-        ]
-      },
-      {
-        "title": "HuggingFace Transformers v5.10.1 Adds Official Support for Gemma4 with MTP (Multi-Token Prediction) Architecture",
-        "signal_text": "HuggingFace 紧急发布 Transformers v5.10.1，新增对 Google Gemma4 模型及其 MTP（Multi-Token Prediction）架构的原生支持。MTP 是 Google 在推理效率上的创新设计，此次集成降低了社区使用门槛",
-        "signal_strength": 0.65,
-        "sources": [
-          {
-            "name": "GitHub - huggingface/transformers v5.10.1",
-            "url": "https://github.com/huggingface/transformers/releases/tag/v5.10.1"
-          }
-        ],
-        "tags": [
-          "开源生态",
-          "模型架构",
-          "推理效率"
-        ],
-        "raw_item_indices": [
-          51
-        ]
-      }
-    ],
-    "2026-06-05": [
-      {
-        "title": "Anthropic Reveals 80% of Production Code Authored by Claude, Sets New Enterprise Benchmark",
-        "signal_text": "据 VentureBeat 报道，Anthropic 联合创始人兼 CEO Dario Amodei 透露，2026年5月 Claude 在 Anthropic 内部已参与编写了超过80%的新生产代码。这一数据为 AI 辅助编码在头部 AI 公司的落地提供了关键参考基准，可能推动更多内容平台（如小红书）评估 AI Agent 在内部工程、内容审核自动化流水线等场景中的应用。",
-        "signal_strength": 0.95,
-        "sources": [
-          {
-            "name": "VentureBeat",
-            "url": "https://venturebeat.com/technology/anthropic-says-80-of-its-new-production-code-is-now-authored-by-claude-how-your-enterprise-can-keep-up"
+            "name": "K-Dense-AI（GitHub 组织）",
+            "url": "https://github.com/K-Dense-AI/scientific-agents"
           }
         ],
         "tags": [
           "AI Agent",
-          "Enterprise AI",
-          "AI Code Generation",
-          "Anthropic",
-          "Developer Productivity"
+          "提示工程",
+          "知识蒸馏",
+          "领域AI"
         ],
         "raw_item_indices": [
-          17
-        ]
-      },
-      {
-        "title": "Anthropic Annualized Revenue Surpasses $47B Ahead of IPO, Signaling Market Validation",
-        "signal_text": "据 TechCrunch 报道，Anthropic 首席财务官 Daniela Amodei 在公司 IPO 前透露，截至5月年化收入已突破470亿美元，远超2025年底的约90亿美元。这一爆炸性增长验证了 AI 原生商业化路径，对小红书的 AI 电商/搜索变现策略具有战略对标意义。",
-        "signal_strength": 0.9,
-        "sources": [
-          {
-            "name": "TechCrunch",
-            "url": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/"
-          }
-        ],
-        "tags": [
-          "AI Business Model",
-          "Anthropic",
-          "IPO",
-          "Revenue Growth",
-          "Enterprise Market"
-        ],
-        "raw_item_indices": [
-          10
-        ]
-      },
-      {
-        "title": "Airbnb CEO Brian Chesky in Talks to Fund New AI Lab with Design Focus",
-        "signal_text": "据 The Information 和 TechCrunch 报道，Airbnb CEO Brian Chesky 正在洽谈资助一个新 AI 实验室，该实验室将致力于开发具有设计导向的模型。此动向表明内容与体验设计领域的 AI 垂直应用正吸引顶级互联网公司入场，小红书作为设计驱动的 UGC 社区，需关注此类实验室可能推出的多模态创意工具。",
-        "signal_strength": 0.85,
-        "sources": [
-          {
-            "name": "The Information",
-            "url": "https://www.theinformation.com/briefings/brian-chesky-talks-back-new-ai-lab"
-          },
-          {
-            "name": "TechCrunch",
-            "url": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/"
-          }
-        ],
-        "tags": [
-          "AI Lab",
-          "Design AI",
-          "Airbnb",
-          "Vertical AI",
-          "Creative Tools"
-        ],
-        "raw_item_indices": [
-          12,
-          13
-        ]
-      },
-      {
-        "title": "Meta Quietly Embeds Face-Recognition Code in Smart Glasses Platform on Millions of Phones",
-        "signal_text": "WIRED 审查代码发现，Meta 在 Ray-Ban Meta 智能眼镜平台中悄然嵌入了未公开的人脸识别系统，该系统通过用户手机上的生物识别数据进行身份识别。此事件对小红书的内容安全治理具有警示意义：UGC 平台需警惕 AI 设备（如 AR 眼镜）带来的隐私合规风险，以及未来应对 AI 生成虚假肖像的检测需求升级。",
-        "signal_strength": 0.85,
-        "sources": [
-          {
-            "name": "WIRED",
-            "url": "https://www.wired.com/story/meta-smart-glasses-face-recognition-nametag-connections/"
-          }
-        ],
-        "tags": [
-          "Content Safety",
-          "Privacy",
-          "Biometrics",
-          "Smart Glasses",
-          "Regulatory Risk"
-        ],
-        "raw_item_indices": [
-          25
-        ]
-      },
-      {
-        "title": "South Korea Mandates AI Censorship Scanning for All Images on Online Forums",
-        "signal_text": "据 Hacker News 报道，韩国将强制要求所有在线社区上传的每张图片都经过 AI 审查工具扫描。这一全球最严格的内容审核立法之一，将为小红书的海外合规策略提供重要参考，尤其是在东南亚市场扩展背景下，AI 审核系统的准确率和误报率直接影响用户体验和运营成本。",
-        "signal_strength": 0.8,
-        "sources": [
-          {
-            "name": "Hacker News",
-            "url": "https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341"
-          }
-        ],
-        "tags": [
-          "Content Moderation",
-          "AI Safety",
-          "Regulation",
-          "South Korea",
-          "Overseas Compliance"
-        ],
-        "raw_item_indices": [
-          6
-        ]
-      },
-      {
-        "title": "U.S. Officials Explore Taking Equity Stakes in AI Companies, Signaling Nationalization Risk",
-        "signal_text": "据 The Information 援引 Notus 报道，美国高级官员已与主要 AI 公司进行初步讨论，探讨联邦政府收购其股份的可能性。此举预示着 AI 可能被纳入国家战略基础设施范畴，将对全球 AI 投资格局、开源政策和跨境数据流动产生深远影响。小红书出海时需评估地缘政治风险对 AI 技术供应（如云服务、大模型 API）的潜在影响。",
-        "signal_strength": 0.75,
-        "sources": [
-          {
-            "name": "The Information",
-            "url": "https://www.theinformation.com/briefings/u-s-officials-said-discuss-taking-stakes-ai-companies"
-          }
-        ],
-        "tags": [
-          "AI Policy",
-          "Geopolitics",
-          "National Security",
-          "Investment",
-          "Regulation"
-        ],
-        "raw_item_indices": [
-          0
-        ]
-      },
-      {
-        "title": "Alibaba Open-Sources AI-Powered Code Review CLI Tool 'Open Code Review'",
-        "signal_text": "阿里巴巴开源了 AI 驱动的代码审查 CLI 工具“Open Code Review”，登上 Hacker News 热搜。该工具结合 LLM 实现自动化 code review，直接对标 GitHub Copilot Code Review 等商业产品。对于小红书内部工程团队，此工具可显著提升开发效率，并可作为自建 AI 辅助审核流水线的参考架构。",
-        "signal_strength": 0.7,
-        "sources": [
-          {
-            "name": "GitHub (Alibaba)",
-            "url": "https://github.com/alibaba/open-code-review"
-          }
-        ],
-        "tags": [
-          "Open Source",
-          "AI Developer Tools",
-          "Alibaba",
-          "Code Review",
-          "Engineering Efficiency"
-        ],
-        "raw_item_indices": [
-          3
-        ]
-      },
-      {
-        "title": "OpenAI Adds Moderation Endpoints to Python SDK, Enabling Native Content Filtering",
-        "signal_text": "OpenAI 发布了 openai-python v2.41.0，新增 `responses.moderation` 和 `chat_completions.moderation` API 接口。这意味着开发者可以直接在 OpenAI 响应中集成内容过滤，无需额外调用独立审核 API。小红书若使用 OpenAI 模型作为内容理解底座，可利用该能力简化审核流水线，降低多系统耦合成本。",
-        "signal_strength": 0.7,
-        "sources": [
-          {
-            "name": "GitHub Release (OpenAI)",
-            "url": "https://github.com/openai/openai-python/releases/tag/v2.41.0"
-          }
-        ],
-        "tags": [
-          "OpenAI",
-          "API Update",
-          "Content Moderation",
-          "Safety",
-          "Developer Tools"
-        ],
-        "raw_item_indices": [
-          43
-        ]
-      },
-      {
-        "title": "Google Rolls Out Customizable Search Profiles for Creators with 100K+ Subscribers",
-        "signal_text": "据 The Verge 报道，Google 开始允许美国头部创作者（YouTube 订阅超10万）在搜索中创建专属主页，聚合内容、链接等。这是搜索引擎向创作者生态倾斜的重要信号，小红书搜索团队可借鉴此思路，探索针对 KOL 的内容聚合与曝光优化，提升站内搜索对优质创作者的吸引力。",
-        "signal_strength": 0.7,
-        "sources": [
-          {
-            "name": "The Verge",
-            "url": "https://www.theverge.com/tech/943233/google-search-profiles-custom-page"
-          }
-        ],
-        "tags": [
-          "Search",
-          "Creator Economy",
-          "Google",
-          "Content Distribution",
-          "SEO"
-        ],
-        "raw_item_indices": [
-          23
-        ]
-      },
-      {
-        "title": "US Courts Confront Surge of AI-Generated Lawsuits: MIT Tech Review Report",
-        "signal_text": "据 MIT Technology Review 报道，美国联邦法院正面临大量由 AI 生成的诉讼文件，法官很难区分人类书写与 AI 生成的法律文书。这对小红书的 AI 内容审核系统提出新问题：如何在平台环境中，有效检测并处置 AI 生成的误导性用户纠纷或举报内容？",
-        "signal_strength": 0.65,
-        "sources": [
-          {
-            "name": "MIT Technology Review",
-            "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/"
-          }
-        ],
-        "tags": [
-          "AI Misuse",
-          "Content Safety",
-          "Legal Risk",
-          "AI Detection",
-          "Platform Governance"
-        ],
-        "raw_item_indices": [
-          28,
-          30
-        ]
-      }
-    ],
-    "2026-06-06": [
-      {
-        "title": "Google to Pay SpaceX $920M Monthly for GPU Compute Capacity",
-        "signal_text": "据 The Information 和 TechCrunch 报道，Google 与 SpaceX 达成协议，每月支付 9.2 亿美元购买约 11 万块 Nvidia GPU 的计算能力，合同从 2026 年 10 月至 2029 年 6 月。此举反映 AI 算力需求激增及云巨头间的资源争夺升级。",
-        "signal_strength": 0.9,
-        "sources": [
-          {
-            "name": "The Information",
-            "url": "https://www.theinformation.com/briefings/google-agrees-pay-spacex-920-million-monthly-compute-access"
-          },
-          {
-            "name": "TechCrunch",
-            "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/"
-          }
-        ],
-        "tags": [
-          "头部公司战略动作",
-          "AI Infrastructure Optimization and Open Source Tools"
-        ],
-        "raw_item_indices": [
-          18,
           21
         ]
       },
       {
-        "title": "Microsoft AI Chief Declares Independence from OpenAI, Pivots to Superintelligence",
-        "signal_text": "据 VentureBeat 报道，微软 AI 负责人称公司已从 OpenAI 的合作伙伴关系中“解放”，将全力投入自研超智能。此举标志着微软战略重心从依赖外部模型转向内部 AGI 研发，可能影响其 Copilot 产品线及与 OpenAI 的竞争格局。",
-        "signal_strength": 0.85,
+        "title": "Ollama v0.30.7-rc1: Continues to Improve On-Device LLM Deployment with Native Windows Support",
+        "signal_text": "Ollama 发布 v0.30.7-rc1 版本，改进 Windows 原生 Hermes 配置路径等，持续推进端侧模型部署的易用性。对于小红书探索端侧 AI 功能（如本地化内容审核、个性化推荐底座）具有推动作用。",
+        "signal_strength": 0.35,
         "sources": [
           {
-            "name": "VentureBeat",
-            "url": "https://venturebeat.com/technology/microsoft-ai-chief-says-company-was-set-free-from-openai-to-pursue-superintelligence"
+            "name": "Ollama（官方 GitHub Release）",
+            "url": "https://github.com/ollama/ollama/releases/tag/v0.30.7-rc1"
           }
         ],
         "tags": [
-          "头部公司战略动作",
-          "AI Safety Pivot and Accelerated AGI Timelines"
-        ],
-        "raw_item_indices": [
-          7
-        ]
-      },
-      {
-        "title": "Meta AI Support Agent Exploited for Account Takeover via Recovery Email Binding",
-        "signal_text": "据 VentureBeat 报道，攻击者利用 Meta 的 AI 客服代理将账户恢复邮件绑定到攻击者控制的邮箱，从而接管用户账户。由于代理生成的是合法交易日志，SOC 系统未触发任何告警。此事件凸显 AI 客服系统引入的新型安全风险。",
-        "signal_strength": 0.8,
-        "sources": [
-          {
-            "name": "VentureBeat",
-            "url": "https://venturebeat.com/security/meta-ai-support-agent-recovery-email-takeover-soc-audit-grid"
-          }
-        ],
-        "tags": [
-          "内容安全与治理",
-          "AI Security Vulnerabilities in Open-Weight Models",
-          "Agent 与新交互范式"
-        ],
-        "raw_item_indices": [
-          26,
-          32
-        ]
-      },
-      {
-        "title": "ICLR 2026 Outstanding Paper: Transformers Are Inherently Succinct",
-        "signal_text": "一篇入选 ICLR 2026 杰出论文的研究证明 Transformer 架构本身具备内在的简洁性（succinctness），为理解其表达能力提供了理论依据。该成果可能影响未来模型架构设计与压缩策略。来源：OpenReview 论文链接，获 95 Hacker News 点赞。",
-        "signal_strength": 0.75,
-        "sources": [
-          {
-            "name": "OpenReview / ICLR 2026",
-            "url": "https://openreview.net/pdf?id=Yxz92UuPLQ"
-          }
-        ],
-        "tags": [
-          "技术突破",
-          "AI Research Acceleration in Reasoning and Efficiency"
-        ],
-        "raw_item_indices": [
-          22
-        ]
-      },
-      {
-        "title": "Reid Hoffman Leaves Microsoft Board to Focus on AI Drug Discovery Startup Manus",
-        "signal_text": "据 TechCrunch 报道，LinkedIn 联合创始人 Reid Hoffman 在担任微软董事十年后辞职，将全职投入其 AI 药物发现初创公司 Manus。此举可能影响微软与 AI 创投圈的连接，也反映顶级人才从大厂向 AI 初创企业流动的趋势。",
-        "signal_strength": 0.7,
-        "sources": [
-          {
-            "name": "TechCrunch",
-            "url": "https://techcrunch.com/2026/06/05/reid-hoffman-is-leaving-microsofts-board-to-go-founder-mode-with-startup-manus/"
-          }
-        ],
-        "tags": [
-          "头部公司战略动作",
-          "AI Talent Wars and Legal Battles"
-        ],
-        "raw_item_indices": [
-          9
-        ]
-      },
-      {
-        "title": "VentureBeat: Enterprise AI Agents Lack Cross-User Learning Persistence",
-        "signal_text": "据 VentureBeat 分析，当前企业 AI 代理存在严重缺陷：一位用户对代理的纠正（如更好提示）无法传递给同团队的其他人，导致效率无法复用。该问题在多代理工作流中尤为突出，暴露出 Agent 平台在上下文共享机制上的滞后。",
-        "signal_strength": 0.7,
-        "sources": [
-          {
-            "name": "VentureBeat",
-            "url": "https://venturebeat.com/orchestration/ai-agents-are-learning-on-the-job-just-not-for-your-whole-team"
-          }
-        ],
-        "tags": [
-          "Agent 与新交互范式",
-          "企业级 AI 采用"
-        ],
-        "raw_item_indices": [
-          25
-        ]
-      },
-      {
-        "title": "Trump Targets Meeting with AI Companies to Discuss Financial Partnerships",
-        "signal_text": "据 The Information 报道，特朗普称计划与 AI 公司会面讨论财务“合作伙伴关系”。这可能涉及政府投资或补贴，对 AI 行业融资环境与监管走向产生潜在影响。",
-        "signal_strength": 0.6,
-        "sources": [
-          {
-            "name": "The Information",
-            "url": "https://www.theinformation.com/briefings/trump-targets-meeting-ai-companies-discuss-financial-partnerships"
-          }
-        ],
-        "tags": [
-          "行业风险与监管",
-          "AI Talent Wars and Legal Battles"
-        ],
-        "raw_item_indices": [
-          10
-        ]
-      },
-      {
-        "title": "crewAI 1.14.7a2: Conversational Flow Traces and Chat API for Agent Orchestration",
-        "signal_text": "crewAI 发布 1.14.7a2，新增对话流追踪、聊天 API 及路由感知装饰器。该框架用于编排多代理工作流，其演进方向（对话式交互、追踪）对 Agent 开发平台有参考价值。",
-        "signal_strength": 0.55,
-        "sources": [
-          {
-            "name": "GitHub - crewAIInc/crewAI",
-            "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.7a2"
-          }
-        ],
-        "tags": [
-          "Agent 与新交互范式",
-          "开源生态"
-        ],
-        "raw_item_indices": [
-          48
-        ]
-      },
-      {
-        "title": "vLLM v0.22.1 Adds JetBrains Mellum v2 Support and AMD Zen CPU Quantized Inference",
-        "signal_text": "vLLM 发布 v0.22.1，新增对 JetBrains Mellum v2 模型的支持及 AMD Zen CPU 上的量化推理能力。这反映了推理引擎对多样化硬件栈的持续适配，降低推理成本的重要性。",
-        "signal_strength": 0.55,
-        "sources": [
-          {
-            "name": "GitHub - vllm-project/vllm",
-            "url": "https://github.com/vllm-project/vllm/releases/tag/v0.22.1"
-          }
-        ],
-        "tags": [
-          "技术突破",
-          "AI Infrastructure Optimization and Open Source Tools"
-        ],
-        "raw_item_indices": [
-          50
-        ]
-      },
-      {
-        "title": "Anthropic SDK Deprecates Claude Opus 4.1, Signaling Model Lifecycle Management",
-        "signal_text": "Anthropic 在 Python SDK v0.106.0 中标记 Claude Opus 4.1 为废弃，提示开发者迁移。这反映了 Anthropic 的模型更新节奏，间接影响依赖该模型的第三方应用（如小红书的 AI 工具集成）。",
-        "signal_strength": 0.5,
-        "sources": [
-          {
-            "name": "GitHub - anthropics/anthropic-sdk-python",
-            "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.106.0"
-          }
-        ],
-        "tags": [
-          "头部公司战略动作",
-          "Agent 与新交互范式"
-        ],
-        "raw_item_indices": [
-          45
-        ]
-      }
-    ],
-    "2026-06-07": [
-      {
-        "title": "OpenAI Unveils Lockdown Mode to Defend Against Prompt Injection",
-        "signal_text": "OpenAI 推出 Lockdown Mode，旨在保护 ChatGPT 中的敏感数据免受 prompt injection 攻击。该模式通过限制模型对敏感信息的访问来降低数据泄露风险，是内容安全领域的重要防御机制升级。据 TechCrunch 报道。",
-        "signal_strength": 0.85,
-        "sources": [
-          {
-            "name": "TechCrunch",
-            "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/"
-          }
-        ],
-        "tags": [
-          "内容安全",
-          "LLM安全",
-          "OpenAI"
-        ],
-        "raw_item_indices": [
-          5
-        ]
-      },
-      {
-        "title": "Trump Administration Discusses Taking Equity Stake in OpenAI",
-        "signal_text": "美国总统特朗普表示正在讨论让美国人民从 AI 成功中受益的交易，可能通过政府持有 OpenAI 股权的方式实现。这标志着 AI 产业与政府资本深度绑定的新趋势，可能重塑 AI 公司治理和商业化路径。据 TechCrunch 报道。",
-        "signal_strength": 0.8,
-        "sources": [
-          {
-            "name": "TechCrunch",
-            "url": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/"
-          }
-        ],
-        "tags": [
-          "头部公司战略动作",
-          "行业风险与监管",
-          "OpenAI"
-        ],
-        "raw_item_indices": [
-          12
-        ]
-      },
-      {
-        "title": "Ollama v0.30.6: Adds Gemma 4 QAT Optimized Weights for On-Device Deployment",
-        "signal_text": "Ollama 发布 v0.30.6，新增 Gemma 4 QAT（量化感知训练）权重版本，显著降低内存需求并最大化设备端性能。这对端侧部署多模态模型（如小红书的内容生成与理解场景）有直接价值。",
-        "signal_strength": 0.65,
-        "sources": [
-          {
-            "name": "GitHub (ollama/ollama)",
-            "url": "https://github.com/ollama/ollama/releases/tag/v0.30.6"
-          }
-        ],
-        "tags": [
-          "技术突破",
-          "端侧部署",
-          "开源生态"
-        ],
-        "raw_item_indices": [
-          37
-        ]
-      },
-      {
-        "title": "Soul-AILab/SoulX-Transcriber: End-to-End Multi-Speaker Transcription Framework",
-        "signal_text": "Soul-AILab 开源 SoulX-Transcriber，一个端到端多说话人转录框架，联合建模说话人身份、时间和内容。该框架结合 ASR、LLM 和 speaker diarization，支持语音识别与说话人分离一体化，对内容平台的多模态内容理解有潜在应用价值。GitHub 获 192 stars。",
-        "signal_strength": 0.5,
-        "sources": [
-          {
-            "name": "GitHub",
-            "url": "https://github.com/Soul-AILab/SoulX-Transcriber"
-          }
-        ],
-        "tags": [
-          "内容创作与理解",
-          "多模态生成",
-          "开源生态"
-        ],
-        "raw_item_indices": [
-          22
-        ]
-      },
-      {
-        "title": "Sriram Krishnan Departs as White House AI Advisor to Start Policy Institution",
-        "signal_text": "白宫 AI 政策顾问 Sriram Krishnan 计划6月底离职，据称将创办新的政策研究机构以继续影响特朗普 AI 政策。此人事变动可能影响美国 AI 政策方向。据 The Information 和 TechCrunch 报道。",
-        "signal_strength": 0.5,
-        "sources": [
-          {
-            "name": "The Information",
-            "url": "https://www.theinformation.com/articles/white-house-ai-policy-advisor-krishnan-leave-position"
-          },
-          {
-            "name": "TechCrunch",
-            "url": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/"
-          }
-        ],
-        "tags": [
-          "头部公司战略动作",
-          "行业风险与监管"
-        ],
-        "raw_item_indices": [
-          9,
-          11
-        ]
-      },
-      {
-        "title": "Somnusochi/VLM-AutoYOLO: VLM-Powered Auto Annotation and YOLO Training Pipeline",
-        "signal_text": "开源项目 VLM-AutoYOLO 提供端到端目标检测自动标注与 YOLO 训练流水线，利用 NVIDIA LocateAnything-3B VLM 进行自动标注，支持人工修正和一键训练。对内容平台的图片/视频内容理解与审核自动化有潜在应用。GitHub 获 72 stars。",
-        "signal_strength": 0.45,
-        "sources": [
-          {
-            "name": "GitHub (Somnusochi/VLM-AutoYOLO)",
-            "url": "https://github.com/Somnusochi/VLM-AutoYOLO"
-          }
-        ],
-        "tags": [
-          "内容创作与理解",
-          "内容安全",
-          "多模态"
-        ],
-        "raw_item_indices": [
-          26
-        ]
-      },
-      {
-        "title": "myccarl/ai-shortVideo-pipeline: End-to-End AI Short Video Production Pipeline",
-        "signal_text": "开源项目 ai-shortVideo-pipeline 提供端到端 AI 短视频生产流水线，包括 FastAPI 编排、多模型故障切换、CLIP 一致性检测、音画同步自动修复等。对小红书等内容平台 AI 视频创作工具有直接参考价值。GitHub 获 49 stars。",
-        "signal_strength": 0.45,
-        "sources": [
-          {
-            "name": "GitHub (myccarl/ai-shortVideo-pipeline)",
-            "url": "https://github.com/myccarl/ai-shortVideo-pipeline"
-          }
-        ],
-        "tags": [
-          "内容创作与理解",
-          "多模态生成",
-          "开源生态"
+          "端侧推理",
+          "Ollama",
+          "本地AI",
+          "模型部署"
         ],
         "raw_item_indices": [
           28
-        ]
-      },
-      {
-        "title": "PanisHandsome/ai-rules-sync: Unified Config Sync for AI Coding Agents",
-        "signal_text": "开源工具 ai-rules-sync 实现 AI coding-agent 规则文件的统一管理与同步，支持 AGENTS.md、CLAUDE.md、.cursorrules 等多种格式互转，零依赖。反映了 AI 编程助手生态工具链的成熟化趋势。GitHub 获 112 stars。",
-        "signal_strength": 0.4,
-        "sources": [
-          {
-            "name": "GitHub (PanisHandsome/ai-rules-sync)",
-            "url": "https://github.com/PanisHandsome/ai-rules-sync"
-          }
-        ],
-        "tags": [
-          "Agent 与新交互范式",
-          "开源生态"
-        ],
-        "raw_item_indices": [
-          25
-        ]
-      },
-      {
-        "title": "davanstrien/uv-scripts-for-ai: Self-Contained AI Scripts for OCR, Vision, Audio Tasks",
-        "signal_text": "开源项目 uv-scripts-for-ai 提供自包含的 UV 脚本，用于 OCR、视觉、音频等 AI 任务，可本地或 Hugging Face Jobs 上运行。目标是方便人类和 Agent 调用，反映了 AI 工具从库向脚本化、可组合演进的趋势。GitHub 获 36 stars。",
-        "signal_strength": 0.35,
-        "sources": [
-          {
-            "name": "GitHub (davanstrien/uv-scripts-for-ai)",
-            "url": "https://github.com/davanstrien/uv-scripts-for-ai"
-          }
-        ],
-        "tags": [
-          "Agent 与新交互范式",
-          "开源生态"
-        ],
-        "raw_item_indices": [
-          30
-        ]
-      },
-      {
-        "title": "zengxiao-he/tessera: From-Scratch LLM Distillation and Serving Engine",
-        "signal_text": "开源项目 tessera 提供自实现的 LLM 蒸馏与推理引擎，包含自定义 Triton/CUDA 内核、FSDP 蒸馏、paged-KV continuous batching、speculative decoding、Rust 网关等。对理解 LLM 推理效率优化技术有学习价值。GitHub 获 56 stars。",
-        "signal_strength": 0.35,
-        "sources": [
-          {
-            "name": "GitHub (zengxiao-he/tessera)",
-            "url": "https://github.com/zengxiao-he/tessera"
-          }
-        ],
-        "tags": [
-          "技术突破",
-          "推理效率提升",
-          "开源生态"
-        ],
-        "raw_item_indices": [
-          27
         ]
       }
     ]
@@ -20462,6 +19653,1011 @@
             ],
             "raw_item_indices": [
               9
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "week": "2026-W22",
+      "days": {
+        "2026-06-03": [
+          {
+            "title": "Microsoft Launches MXC: OS-Level Sandbox for AI Agents with OpenAI and Nvidia Backing",
+            "signal_text": "据 VentureBeat 报道，微软发布了 MXC（Microsoft eXecution Container），一个操作系统级沙盒环境，专为 AI Agent 的安全执行而设计。OpenAI 和 Nvidia 已加入支持。此举旨在解决当前 AI Agent 在代码执行、文件操作时缺乏统一安全隔离的行业痛点，对内容平台在应用 AI Agent 时的安全治理有重要参考意义。",
+            "signal_strength": 0.9,
+            "sources": [
+              {
+                "name": "VentureBeat",
+                "url": "https://venturebeat.com/security/microsoft-launches-mxc-an-os-level-sandbox-for-ai-agents-with-openai-and-nvidia-already-on-board"
+              }
+            ],
+            "tags": [
+              "AI安全",
+              "Agent框架",
+              "微软",
+              "沙盒",
+              "内容安全"
+            ],
+            "raw_item_indices": [
+              29
+            ]
+          },
+          {
+            "title": "Alibaba Releases Qwen3.7-Plus: Multimodal LLM with Text, Video, and Image Input at Competitive Pricing",
+            "signal_text": "据 VentureBeat 报道，阿里巴巴发布了 Qwen3.7-Plus，这是 Qwen 家族的最新大语言模型，支持文本、视频和图像的多模态输入，推理成本较前代降低 60%，价格为每百万 token $0.4/$1.6。该模型为闭源，标志着阿里在多模态和成本效率上的重要进展。",
+            "signal_strength": 0.85,
+            "sources": [
+              {
+                "name": "VentureBeat",
+                "url": "https://venturebeat.com/technology/alibabas-qwen3-7-plus-supports-text-video-and-imagery-inputs-at-low-cost-of-0-4-1-6-per-1m-token-but-its-proprietary"
+              }
+            ],
+            "tags": [
+              "大模型发布",
+              "多模态",
+              "阿里巴巴",
+              "成本优化"
+            ],
+            "raw_item_indices": [
+              11
+            ]
+          },
+          {
+            "title": "Microsoft Scout: AI Coworker Agent for Teams Automates Office Tasks",
+            "signal_text": "据 Wired 报道，微软推出 Microsoft Scout，一个类似 OpenClaw 风格的 AI Agent，会像人类同事一样出现在 Microsoft Teams 中，可自动执行繁琐的办公任务。这代表了企业级 AI Agent 从工具向“数字同事”形态的演进，与小红书正在探索的 AI 辅助社区运营方向高度相关。",
+            "signal_strength": 0.8,
+            "sources": [
+              {
+                "name": "Wired",
+                "url": "https://www.wired.com/story/meet-microsoft-scout-your-ai-coworker-that-never-logs-off/"
+              }
+            ],
+            "tags": [
+              "AI代理",
+              "企业级应用",
+              "微软",
+              "新交互范式"
+            ],
+            "raw_item_indices": [
+              26
+            ]
+          },
+          {
+            "title": "Perplexity AI Unveils Hybrid Local-Cloud Inference System at Computex 2026",
+            "signal_text": "据 VentureBeat 报道，Perplexity AI 在 Computex 2026 上展示了一套混合本地-云端推理系统。这标志着搜索公司正在探索新的推理架构以平衡速度、成本和隐私，对小红书等依赖实时推理的内容平台在架构选型上有参考意义。",
+            "signal_strength": 0.7,
+            "sources": [
+              {
+                "name": "VentureBeat",
+                "url": "https://venturebeat.com/technology/perplexity-ai-unveils-hybrid-local-cloud-inference-system-at-computex-2026"
+              }
+            ],
+            "tags": [
+              "推理效率",
+              "混合架构",
+              "Perplexity",
+              "搜索增强"
+            ],
+            "raw_item_indices": [
+              22
+            ]
+          },
+          {
+            "title": "Enterprise AI Has a Runtime Problem, Not a Model Problem: VentureBeat Pulse Research",
+            "signal_text": "据 VentureBeat 的 Pulse Research 报告，企业 AI 组织面临的主要挑战并非模型能力不足，而是 Agent 运行时（runtime）层面的治理、监控和安全问题。该研究指出大部分企业正在构建错误的解决方案。这对小红书在 Agent 落地方向上提供了重要的战略提醒。",
+            "signal_strength": 0.7,
+            "sources": [
+              {
+                "name": "VentureBeat",
+                "url": "https://venturebeat.com/resources/the-agentic-reckoning-enterprise-ai-organizations-have-a-runtime-problem-not-a-model-problem"
+              }
+            ],
+            "tags": [
+              "AI治理",
+              "企业应用",
+              "行业报告",
+              "Agent"
+            ],
+            "raw_item_indices": [
+              24
+            ]
+          },
+          {
+            "title": "Microsoft IQ and Rayfin: Solving Enterprise AI Agent Data Silos",
+            "signal_text": "据 VentureBeat 报道，微软在 Build 大会上推出 Microsoft IQ 和 Rayfin，旨在解决企业 AI Agent 部署时产生的数据孤岛问题。这些工具确保新 Agent 能继承企业已有的业务知识、数据访问规则和治理策略。对小红书在多 Agent 协同场景下的数据架构设计有借鉴意义。",
+            "signal_strength": 0.7,
+            "sources": [
+              {
+                "name": "VentureBeat",
+                "url": "https://venturebeat.com/data/enterprise-ai-agents-keep-creating-data-silos-microsofts-build-answer-is-microsoft-iq-and-rayfin"
+              }
+            ],
+            "tags": [
+              "数据治理",
+              "AI Agent",
+              "微软",
+              "知识图谱"
+            ],
+            "raw_item_indices": [
+              25
+            ]
+          },
+          {
+            "title": "Stanford Law Study: AI Outperforms Law Professors in Legal Analysis",
+            "signal_text": "据 Stanford News 报道，一项斯坦福法学院的研究显示，AI 在法律分析任务中表现优于法学教授。该研究来自斯坦福大学（知名机构），对内容平台评估 AI 在专业领域（如合规审核、政策分析）的应用潜力有启示。",
+            "signal_strength": 0.7,
+            "sources": [
+              {
+                "name": "Stanford University",
+                "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/"
+              }
+            ],
+            "tags": [
+              "AI能力评估",
+              "法律应用",
+              "斯坦福",
+              "内容审核"
+            ],
+            "raw_item_indices": [
+              6
+            ]
+          },
+          {
+            "title": "Anthropic Expands Glasswing Cybersecurity Project to 150 New Organizations",
+            "signal_text": "据 The Information 报道，Anthropic 将其 Claude Mythos 模型用于网络安全测试的 Project Glasswing 项目从约 50 个组织扩展至 150 个新组织。这体现了头部 AI 公司在安全领域加速商业化和生态构建，对内容平台评估第三方 AI 安全方案有参考价值。",
+            "signal_strength": 0.65,
+            "sources": [
+              {
+                "name": "The Information",
+                "url": "https://www.theinformation.com/briefings/anthropic-expands-glasswing-150-new-organizations"
+              }
+            ],
+            "tags": [
+              "AI安全",
+              "Anthropic",
+              "商业化",
+              "网络安全"
+            ],
+            "raw_item_indices": [
+              16
+            ]
+          },
+          {
+            "title": "Travelers Deploys AI-Powered Claims Assistant with OpenAI for Customer Support",
+            "signal_text": "据 OpenAI 官方博客，Travelers 保险公司利用 OpenAI 构建了一个 AI 驱动的理赔助手（Claim Assistant），可指导客户完成理赔流程、提供 7x24 小时支持，并在高峰期实现弹性扩展。这展示了 AI Agent 在客服场景的成熟落地，对小红书社区运营中的用户服务有参考价值。",
+            "signal_strength": 0.6,
+            "sources": [
+              {
+                "name": "OpenAI Blog",
+                "url": "https://openai.com/index/travelers"
+              }
+            ],
+            "tags": [
+              "AI应用案例",
+              "客服",
+              "OpenAI",
+              "企业服务"
+            ],
+            "raw_item_indices": [
+              33
+            ]
+          },
+          {
+            "title": "ARC White-Box Estimation Challenge Launched to Improve AI Safety Estimation",
+            "signal_text": "据 Alignment Forum 报道，ARC（Alignment Research Center）联合 AIcrowd 推出白盒估计挑战赛，旨在改进 AI 能力估计算法。这体现了 AI 安全社区在可解释性与风险量化方面的前沿努力，对内容平台建立 AI 风险评估体系有长期参考价值。",
+            "signal_strength": 0.6,
+            "sources": [
+              {
+                "name": "Alignment Forum",
+                "url": "https://www.alignmentforum.org/posts/Kben8CzS4awCwNw5c/announcing-the-arc-white-box-estimation-challenge"
+              }
+            ],
+            "tags": [
+              "AI安全",
+              "评估",
+              "开源竞赛",
+              "可解释性"
+            ],
+            "raw_item_indices": [
+              30
+            ]
+          }
+        ],
+        "2026-06-04": [
+          {
+            "title": "Apple to Launch Overhauled Siri in September Powered by Google Cloud and Nvidia Chips",
+            "signal_text": "据 The Information 报道，Apple 计划于 9 月推出全面改版的 Siri，部分推理将运行在 Google Cloud 的 Nvidia 芯片上。Apple 正尝试在 iPhone 端侧尽可能多地运行新 Siri，但部分复杂任务将依赖云端。此消息同时来自多位知情人士，标志着 Apple 在 AI 战略上的关键赌注",
+            "signal_strength": 0.92,
+            "sources": [
+              {
+                "name": "The Information",
+                "url": "https://www.theinformation.com/briefings/apple-launch-new-siri-september-help-google-nvidia"
+              }
+            ],
+            "tags": [
+              "战略动作",
+              "AI 助手",
+              "端侧部署",
+              "头部公司"
+            ],
+            "raw_item_indices": [
+              13
+            ]
+          },
+          {
+            "title": "Google Releases Gemma 4 12B: Fully Local Multimodal Model for Audio, Video, and Text on 16GB Laptops",
+            "signal_text": "Google 发布开源 Gemma 4 12B 模型，支持音频、视频、图像和文本的多模态输入，可在 16GB 内存的典型企业笔记本上完全本地运行。据 VentureBeat 报道，该模型针对本地部署进行了优化，为端侧 AI 应用提供新选项",
+            "signal_strength": 0.88,
+            "sources": [
+              {
+                "name": "VentureBeat",
+                "url": "https://venturebeat.com/technology/googles-new-open-source-gemma-4-12b-analyzes-audio-video-and-runs-entirely-locally-on-a-typical-16gb-enterprise-laptop"
+              }
+            ],
+            "tags": [
+              "模型发布",
+              "端侧部署",
+              "多模态",
+              "开源"
+            ],
+            "raw_item_indices": [
+              23
+            ]
+          },
+          {
+            "title": "Meta Eyes Up to $200/Month Subscription for Consumer 'Hatch' AI Agent",
+            "signal_text": "据 The Information 报道，Meta 正考虑为计划推出的消费者版 OpenClaw AI Agent 工具 'Hatch' 收取高达 200 美元/月的订阅费，目标与 OpenAI/Anthropic 企业级产品看齐。这是 Meta 在 AI 商业化路径上的重大信号，表明其将 AI Agent 视为核心营收来源而非附属功能",
+            "signal_strength": 0.85,
+            "sources": [
+              {
+                "name": "The Information",
+                "url": "https://www.theinformation.com/briefings/meta-looks-charge-200-month-planned-hatch-ai-agent"
+              }
+            ],
+            "tags": [
+              "Agent",
+              "商业化",
+              "头部公司",
+              "产品发布"
+            ],
+            "raw_item_indices": [
+              2
+            ]
+          },
+          {
+            "title": "Anthropic Publishes Detailed Engineering Breakdown of How It Contains Claude Across Products",
+            "signal_text": "Anthropic 官方发布博文《The ways we contain Claude across products》，详细阐述了其如何在多产品线中设计安全隔离机制（containment）。文章引发 Hacker News 广泛讨论（42 points），为行业提供了 AI 安全工程实践的参考",
+            "signal_strength": 0.8,
+            "sources": [
+              {
+                "name": "Anthropic Engineering Blog",
+                "url": "https://www.anthropic.com/engineering/how-we-contain-claude"
+              }
+            ],
+            "tags": [
+              "内容安全",
+              "工程实践",
+              "头部公司"
+            ],
+            "raw_item_indices": [
+              5
+            ]
+          },
+          {
+            "title": "Vigils: Open-Source Local Control Plane for AI Agent Security and Audit",
+            "signal_text": "GitHub 项目 Vigils（获 205 stars）发布，用 Rust + Tauri + Chrome MV3 构建本地 AI Agent 控制平面，可实时查看 Agent 行为、审批关键操作、防止密钥泄露。这代表了 Agent 安全领域新兴的开源治理方案",
+            "signal_strength": 0.75,
+            "sources": [
+              {
+                "name": "GitHub - duncatzat/vigils",
+                "url": "https://github.com/duncatzat/vigils"
+              }
+            ],
+            "tags": [
+              "Agent",
+              "开源生态",
+              "内容安全"
+            ],
+            "raw_item_indices": [
+              33
+            ]
+          },
+          {
+            "title": "Lovable Signs Multi-Year Deal with Google Cloud to 5x Infrastructure Usage and Expand Claude Access",
+            "signal_text": "据 TechCrunch 报道，AI 应用构建平台 Lovable 与 Google Cloud 签署多年期合作协议，将云基础设施用量提升 5 倍，并扩大对 Anthropic Claude 模型的访问。此交易反映了 AI Native 公司的基础设施扩张趋势",
+            "signal_strength": 0.72,
+            "sources": [
+              {
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/"
+              }
+            ],
+            "tags": [
+              "战略动作",
+              "AI 基础设施",
+              "商业化"
+            ],
+            "raw_item_indices": [
+              11
+            ]
+          },
+          {
+            "title": "OpenAI and Anthropik Sign Letter Urging Lawmakers to Improve Synthetic DNA Tracking for Bioweapon Prevention",
+            "signal_text": "据 Wired 报道，OpenAI、Anthropic 及多位科学家联合致信立法者，呼吁加强合成 DNA 序列追踪以防止生物武器开发。这是一次重要的 AI 安全治理倡导行动",
+            "signal_strength": 0.7,
+            "sources": [
+              {
+                "name": "Wired",
+                "url": "https://www.wired.com/story/openai-anthropic-letter-ai-biological-weapons/"
+              }
+            ],
+            "tags": [
+              "AI 安全",
+              "监管",
+              "头部公司"
+            ],
+            "raw_item_indices": [
+              0
+            ]
+          },
+          {
+            "title": "Nvidia Confirms N2X and N3X Chips: AI Consumer Chip Roadmap Inspired by Star Trek's Computer",
+            "signal_text": "据 The Verge 报道，在 Computex 2026 上，Nvidia CEO Jensen Huang 确认了继 RTX Spark 之后的至少两代消费级 AI 芯片规划（N2X、N3X），目标是将 AI 计算机的性能推向科幻级别",
+            "signal_strength": 0.68,
+            "sources": [
+              {
+                "name": "The Verge",
+                "url": "https://www.theverge.com/tech/942588/nvidia-rtx-spark-n2x-n3x-r2-d2-star-trek-star-wars-plan"
+              }
+            ],
+            "tags": [
+              "硬件",
+              "AI 基础设施",
+              "头部公司"
+            ],
+            "raw_item_indices": [
+              18
+            ]
+          },
+          {
+            "title": "LongLive-RAG: Official Framework for Retrieval-Augmented Long Video Generation",
+            "signal_text": "GitHub 开源项目 LongLive-RAG 发布，提出将 RAG 技术应用于长视频生成的通用框架，结合自回归和扩散模型。获 39 stars，由 qixinhu11 发布，属于多模态内容生成方向的前沿探索",
+            "signal_strength": 0.65,
+            "sources": [
+              {
+                "name": "GitHub - qixinhu11/LongLive-RAG",
+                "url": "https://github.com/qixinhu11/LongLive-RAG"
+              }
+            ],
+            "tags": [
+              "多模态生成",
+              "RAG",
+              "视频生成",
+              "开源"
+            ],
+            "raw_item_indices": [
+              41
+            ]
+          },
+          {
+            "title": "HuggingFace Transformers v5.10.1 Adds Official Support for Gemma4 with MTP (Multi-Token Prediction) Architecture",
+            "signal_text": "HuggingFace 紧急发布 Transformers v5.10.1，新增对 Google Gemma4 模型及其 MTP（Multi-Token Prediction）架构的原生支持。MTP 是 Google 在推理效率上的创新设计，此次集成降低了社区使用门槛",
+            "signal_strength": 0.65,
+            "sources": [
+              {
+                "name": "GitHub - huggingface/transformers v5.10.1",
+                "url": "https://github.com/huggingface/transformers/releases/tag/v5.10.1"
+              }
+            ],
+            "tags": [
+              "开源生态",
+              "模型架构",
+              "推理效率"
+            ],
+            "raw_item_indices": [
+              51
+            ]
+          }
+        ],
+        "2026-06-05": [
+          {
+            "title": "Anthropic Reveals 80% of Production Code Authored by Claude, Sets New Enterprise Benchmark",
+            "signal_text": "据 VentureBeat 报道，Anthropic 联合创始人兼 CEO Dario Amodei 透露，2026年5月 Claude 在 Anthropic 内部已参与编写了超过80%的新生产代码。这一数据为 AI 辅助编码在头部 AI 公司的落地提供了关键参考基准，可能推动更多内容平台（如小红书）评估 AI Agent 在内部工程、内容审核自动化流水线等场景中的应用。",
+            "signal_strength": 0.95,
+            "sources": [
+              {
+                "name": "VentureBeat",
+                "url": "https://venturebeat.com/technology/anthropic-says-80-of-its-new-production-code-is-now-authored-by-claude-how-your-enterprise-can-keep-up"
+              }
+            ],
+            "tags": [
+              "AI Agent",
+              "Enterprise AI",
+              "AI Code Generation",
+              "Anthropic",
+              "Developer Productivity"
+            ],
+            "raw_item_indices": [
+              17
+            ]
+          },
+          {
+            "title": "Anthropic Annualized Revenue Surpasses $47B Ahead of IPO, Signaling Market Validation",
+            "signal_text": "据 TechCrunch 报道，Anthropic 首席财务官 Daniela Amodei 在公司 IPO 前透露，截至5月年化收入已突破470亿美元，远超2025年底的约90亿美元。这一爆炸性增长验证了 AI 原生商业化路径，对小红书的 AI 电商/搜索变现策略具有战略对标意义。",
+            "signal_strength": 0.9,
+            "sources": [
+              {
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/"
+              }
+            ],
+            "tags": [
+              "AI Business Model",
+              "Anthropic",
+              "IPO",
+              "Revenue Growth",
+              "Enterprise Market"
+            ],
+            "raw_item_indices": [
+              10
+            ]
+          },
+          {
+            "title": "Airbnb CEO Brian Chesky in Talks to Fund New AI Lab with Design Focus",
+            "signal_text": "据 The Information 和 TechCrunch 报道，Airbnb CEO Brian Chesky 正在洽谈资助一个新 AI 实验室，该实验室将致力于开发具有设计导向的模型。此动向表明内容与体验设计领域的 AI 垂直应用正吸引顶级互联网公司入场，小红书作为设计驱动的 UGC 社区，需关注此类实验室可能推出的多模态创意工具。",
+            "signal_strength": 0.85,
+            "sources": [
+              {
+                "name": "The Information",
+                "url": "https://www.theinformation.com/briefings/brian-chesky-talks-back-new-ai-lab"
+              },
+              {
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/"
+              }
+            ],
+            "tags": [
+              "AI Lab",
+              "Design AI",
+              "Airbnb",
+              "Vertical AI",
+              "Creative Tools"
+            ],
+            "raw_item_indices": [
+              12,
+              13
+            ]
+          },
+          {
+            "title": "Meta Quietly Embeds Face-Recognition Code in Smart Glasses Platform on Millions of Phones",
+            "signal_text": "WIRED 审查代码发现，Meta 在 Ray-Ban Meta 智能眼镜平台中悄然嵌入了未公开的人脸识别系统，该系统通过用户手机上的生物识别数据进行身份识别。此事件对小红书的内容安全治理具有警示意义：UGC 平台需警惕 AI 设备（如 AR 眼镜）带来的隐私合规风险，以及未来应对 AI 生成虚假肖像的检测需求升级。",
+            "signal_strength": 0.85,
+            "sources": [
+              {
+                "name": "WIRED",
+                "url": "https://www.wired.com/story/meta-smart-glasses-face-recognition-nametag-connections/"
+              }
+            ],
+            "tags": [
+              "Content Safety",
+              "Privacy",
+              "Biometrics",
+              "Smart Glasses",
+              "Regulatory Risk"
+            ],
+            "raw_item_indices": [
+              25
+            ]
+          },
+          {
+            "title": "South Korea Mandates AI Censorship Scanning for All Images on Online Forums",
+            "signal_text": "据 Hacker News 报道，韩国将强制要求所有在线社区上传的每张图片都经过 AI 审查工具扫描。这一全球最严格的内容审核立法之一，将为小红书的海外合规策略提供重要参考，尤其是在东南亚市场扩展背景下，AI 审核系统的准确率和误报率直接影响用户体验和运营成本。",
+            "signal_strength": 0.8,
+            "sources": [
+              {
+                "name": "Hacker News",
+                "url": "https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341"
+              }
+            ],
+            "tags": [
+              "Content Moderation",
+              "AI Safety",
+              "Regulation",
+              "South Korea",
+              "Overseas Compliance"
+            ],
+            "raw_item_indices": [
+              6
+            ]
+          },
+          {
+            "title": "U.S. Officials Explore Taking Equity Stakes in AI Companies, Signaling Nationalization Risk",
+            "signal_text": "据 The Information 援引 Notus 报道，美国高级官员已与主要 AI 公司进行初步讨论，探讨联邦政府收购其股份的可能性。此举预示着 AI 可能被纳入国家战略基础设施范畴，将对全球 AI 投资格局、开源政策和跨境数据流动产生深远影响。小红书出海时需评估地缘政治风险对 AI 技术供应（如云服务、大模型 API）的潜在影响。",
+            "signal_strength": 0.75,
+            "sources": [
+              {
+                "name": "The Information",
+                "url": "https://www.theinformation.com/briefings/u-s-officials-said-discuss-taking-stakes-ai-companies"
+              }
+            ],
+            "tags": [
+              "AI Policy",
+              "Geopolitics",
+              "National Security",
+              "Investment",
+              "Regulation"
+            ],
+            "raw_item_indices": [
+              0
+            ]
+          },
+          {
+            "title": "Alibaba Open-Sources AI-Powered Code Review CLI Tool 'Open Code Review'",
+            "signal_text": "阿里巴巴开源了 AI 驱动的代码审查 CLI 工具“Open Code Review”，登上 Hacker News 热搜。该工具结合 LLM 实现自动化 code review，直接对标 GitHub Copilot Code Review 等商业产品。对于小红书内部工程团队，此工具可显著提升开发效率，并可作为自建 AI 辅助审核流水线的参考架构。",
+            "signal_strength": 0.7,
+            "sources": [
+              {
+                "name": "GitHub (Alibaba)",
+                "url": "https://github.com/alibaba/open-code-review"
+              }
+            ],
+            "tags": [
+              "Open Source",
+              "AI Developer Tools",
+              "Alibaba",
+              "Code Review",
+              "Engineering Efficiency"
+            ],
+            "raw_item_indices": [
+              3
+            ]
+          },
+          {
+            "title": "OpenAI Adds Moderation Endpoints to Python SDK, Enabling Native Content Filtering",
+            "signal_text": "OpenAI 发布了 openai-python v2.41.0，新增 `responses.moderation` 和 `chat_completions.moderation` API 接口。这意味着开发者可以直接在 OpenAI 响应中集成内容过滤，无需额外调用独立审核 API。小红书若使用 OpenAI 模型作为内容理解底座，可利用该能力简化审核流水线，降低多系统耦合成本。",
+            "signal_strength": 0.7,
+            "sources": [
+              {
+                "name": "GitHub Release (OpenAI)",
+                "url": "https://github.com/openai/openai-python/releases/tag/v2.41.0"
+              }
+            ],
+            "tags": [
+              "OpenAI",
+              "API Update",
+              "Content Moderation",
+              "Safety",
+              "Developer Tools"
+            ],
+            "raw_item_indices": [
+              43
+            ]
+          },
+          {
+            "title": "Google Rolls Out Customizable Search Profiles for Creators with 100K+ Subscribers",
+            "signal_text": "据 The Verge 报道，Google 开始允许美国头部创作者（YouTube 订阅超10万）在搜索中创建专属主页，聚合内容、链接等。这是搜索引擎向创作者生态倾斜的重要信号，小红书搜索团队可借鉴此思路，探索针对 KOL 的内容聚合与曝光优化，提升站内搜索对优质创作者的吸引力。",
+            "signal_strength": 0.7,
+            "sources": [
+              {
+                "name": "The Verge",
+                "url": "https://www.theverge.com/tech/943233/google-search-profiles-custom-page"
+              }
+            ],
+            "tags": [
+              "Search",
+              "Creator Economy",
+              "Google",
+              "Content Distribution",
+              "SEO"
+            ],
+            "raw_item_indices": [
+              23
+            ]
+          },
+          {
+            "title": "US Courts Confront Surge of AI-Generated Lawsuits: MIT Tech Review Report",
+            "signal_text": "据 MIT Technology Review 报道，美国联邦法院正面临大量由 AI 生成的诉讼文件，法官很难区分人类书写与 AI 生成的法律文书。这对小红书的 AI 内容审核系统提出新问题：如何在平台环境中，有效检测并处置 AI 生成的误导性用户纠纷或举报内容？",
+            "signal_strength": 0.65,
+            "sources": [
+              {
+                "name": "MIT Technology Review",
+                "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/"
+              }
+            ],
+            "tags": [
+              "AI Misuse",
+              "Content Safety",
+              "Legal Risk",
+              "AI Detection",
+              "Platform Governance"
+            ],
+            "raw_item_indices": [
+              28,
+              30
+            ]
+          }
+        ],
+        "2026-06-06": [
+          {
+            "title": "Google to Pay SpaceX $920M Monthly for GPU Compute Capacity",
+            "signal_text": "据 The Information 和 TechCrunch 报道，Google 与 SpaceX 达成协议，每月支付 9.2 亿美元购买约 11 万块 Nvidia GPU 的计算能力，合同从 2026 年 10 月至 2029 年 6 月。此举反映 AI 算力需求激增及云巨头间的资源争夺升级。",
+            "signal_strength": 0.9,
+            "sources": [
+              {
+                "name": "The Information",
+                "url": "https://www.theinformation.com/briefings/google-agrees-pay-spacex-920-million-monthly-compute-access"
+              },
+              {
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/"
+              }
+            ],
+            "tags": [
+              "头部公司战略动作",
+              "AI Infrastructure Optimization and Open Source Tools"
+            ],
+            "raw_item_indices": [
+              18,
+              21
+            ]
+          },
+          {
+            "title": "Microsoft AI Chief Declares Independence from OpenAI, Pivots to Superintelligence",
+            "signal_text": "据 VentureBeat 报道，微软 AI 负责人称公司已从 OpenAI 的合作伙伴关系中“解放”，将全力投入自研超智能。此举标志着微软战略重心从依赖外部模型转向内部 AGI 研发，可能影响其 Copilot 产品线及与 OpenAI 的竞争格局。",
+            "signal_strength": 0.85,
+            "sources": [
+              {
+                "name": "VentureBeat",
+                "url": "https://venturebeat.com/technology/microsoft-ai-chief-says-company-was-set-free-from-openai-to-pursue-superintelligence"
+              }
+            ],
+            "tags": [
+              "头部公司战略动作",
+              "AI Safety Pivot and Accelerated AGI Timelines"
+            ],
+            "raw_item_indices": [
+              7
+            ]
+          },
+          {
+            "title": "Meta AI Support Agent Exploited for Account Takeover via Recovery Email Binding",
+            "signal_text": "据 VentureBeat 报道，攻击者利用 Meta 的 AI 客服代理将账户恢复邮件绑定到攻击者控制的邮箱，从而接管用户账户。由于代理生成的是合法交易日志，SOC 系统未触发任何告警。此事件凸显 AI 客服系统引入的新型安全风险。",
+            "signal_strength": 0.8,
+            "sources": [
+              {
+                "name": "VentureBeat",
+                "url": "https://venturebeat.com/security/meta-ai-support-agent-recovery-email-takeover-soc-audit-grid"
+              }
+            ],
+            "tags": [
+              "内容安全与治理",
+              "AI Security Vulnerabilities in Open-Weight Models",
+              "Agent 与新交互范式"
+            ],
+            "raw_item_indices": [
+              26,
+              32
+            ]
+          },
+          {
+            "title": "ICLR 2026 Outstanding Paper: Transformers Are Inherently Succinct",
+            "signal_text": "一篇入选 ICLR 2026 杰出论文的研究证明 Transformer 架构本身具备内在的简洁性（succinctness），为理解其表达能力提供了理论依据。该成果可能影响未来模型架构设计与压缩策略。来源：OpenReview 论文链接，获 95 Hacker News 点赞。",
+            "signal_strength": 0.75,
+            "sources": [
+              {
+                "name": "OpenReview / ICLR 2026",
+                "url": "https://openreview.net/pdf?id=Yxz92UuPLQ"
+              }
+            ],
+            "tags": [
+              "技术突破",
+              "AI Research Acceleration in Reasoning and Efficiency"
+            ],
+            "raw_item_indices": [
+              22
+            ]
+          },
+          {
+            "title": "Reid Hoffman Leaves Microsoft Board to Focus on AI Drug Discovery Startup Manus",
+            "signal_text": "据 TechCrunch 报道，LinkedIn 联合创始人 Reid Hoffman 在担任微软董事十年后辞职，将全职投入其 AI 药物发现初创公司 Manus。此举可能影响微软与 AI 创投圈的连接，也反映顶级人才从大厂向 AI 初创企业流动的趋势。",
+            "signal_strength": 0.7,
+            "sources": [
+              {
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com/2026/06/05/reid-hoffman-is-leaving-microsofts-board-to-go-founder-mode-with-startup-manus/"
+              }
+            ],
+            "tags": [
+              "头部公司战略动作",
+              "AI Talent Wars and Legal Battles"
+            ],
+            "raw_item_indices": [
+              9
+            ]
+          },
+          {
+            "title": "VentureBeat: Enterprise AI Agents Lack Cross-User Learning Persistence",
+            "signal_text": "据 VentureBeat 分析，当前企业 AI 代理存在严重缺陷：一位用户对代理的纠正（如更好提示）无法传递给同团队的其他人，导致效率无法复用。该问题在多代理工作流中尤为突出，暴露出 Agent 平台在上下文共享机制上的滞后。",
+            "signal_strength": 0.7,
+            "sources": [
+              {
+                "name": "VentureBeat",
+                "url": "https://venturebeat.com/orchestration/ai-agents-are-learning-on-the-job-just-not-for-your-whole-team"
+              }
+            ],
+            "tags": [
+              "Agent 与新交互范式",
+              "企业级 AI 采用"
+            ],
+            "raw_item_indices": [
+              25
+            ]
+          },
+          {
+            "title": "Trump Targets Meeting with AI Companies to Discuss Financial Partnerships",
+            "signal_text": "据 The Information 报道，特朗普称计划与 AI 公司会面讨论财务“合作伙伴关系”。这可能涉及政府投资或补贴，对 AI 行业融资环境与监管走向产生潜在影响。",
+            "signal_strength": 0.6,
+            "sources": [
+              {
+                "name": "The Information",
+                "url": "https://www.theinformation.com/briefings/trump-targets-meeting-ai-companies-discuss-financial-partnerships"
+              }
+            ],
+            "tags": [
+              "行业风险与监管",
+              "AI Talent Wars and Legal Battles"
+            ],
+            "raw_item_indices": [
+              10
+            ]
+          },
+          {
+            "title": "crewAI 1.14.7a2: Conversational Flow Traces and Chat API for Agent Orchestration",
+            "signal_text": "crewAI 发布 1.14.7a2，新增对话流追踪、聊天 API 及路由感知装饰器。该框架用于编排多代理工作流，其演进方向（对话式交互、追踪）对 Agent 开发平台有参考价值。",
+            "signal_strength": 0.55,
+            "sources": [
+              {
+                "name": "GitHub - crewAIInc/crewAI",
+                "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.7a2"
+              }
+            ],
+            "tags": [
+              "Agent 与新交互范式",
+              "开源生态"
+            ],
+            "raw_item_indices": [
+              48
+            ]
+          },
+          {
+            "title": "vLLM v0.22.1 Adds JetBrains Mellum v2 Support and AMD Zen CPU Quantized Inference",
+            "signal_text": "vLLM 发布 v0.22.1，新增对 JetBrains Mellum v2 模型的支持及 AMD Zen CPU 上的量化推理能力。这反映了推理引擎对多样化硬件栈的持续适配，降低推理成本的重要性。",
+            "signal_strength": 0.55,
+            "sources": [
+              {
+                "name": "GitHub - vllm-project/vllm",
+                "url": "https://github.com/vllm-project/vllm/releases/tag/v0.22.1"
+              }
+            ],
+            "tags": [
+              "技术突破",
+              "AI Infrastructure Optimization and Open Source Tools"
+            ],
+            "raw_item_indices": [
+              50
+            ]
+          },
+          {
+            "title": "Anthropic SDK Deprecates Claude Opus 4.1, Signaling Model Lifecycle Management",
+            "signal_text": "Anthropic 在 Python SDK v0.106.0 中标记 Claude Opus 4.1 为废弃，提示开发者迁移。这反映了 Anthropic 的模型更新节奏，间接影响依赖该模型的第三方应用（如小红书的 AI 工具集成）。",
+            "signal_strength": 0.5,
+            "sources": [
+              {
+                "name": "GitHub - anthropics/anthropic-sdk-python",
+                "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.106.0"
+              }
+            ],
+            "tags": [
+              "头部公司战略动作",
+              "Agent 与新交互范式"
+            ],
+            "raw_item_indices": [
+              45
+            ]
+          }
+        ],
+        "2026-06-07": [
+          {
+            "title": "OpenAI Unveils Lockdown Mode to Defend Against Prompt Injection",
+            "signal_text": "OpenAI 推出 Lockdown Mode，旨在保护 ChatGPT 中的敏感数据免受 prompt injection 攻击。该模式通过限制模型对敏感信息的访问来降低数据泄露风险，是内容安全领域的重要防御机制升级。据 TechCrunch 报道。",
+            "signal_strength": 0.85,
+            "sources": [
+              {
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/"
+              }
+            ],
+            "tags": [
+              "内容安全",
+              "LLM安全",
+              "OpenAI"
+            ],
+            "raw_item_indices": [
+              5
+            ]
+          },
+          {
+            "title": "Trump Administration Discusses Taking Equity Stake in OpenAI",
+            "signal_text": "美国总统特朗普表示正在讨论让美国人民从 AI 成功中受益的交易，可能通过政府持有 OpenAI 股权的方式实现。这标志着 AI 产业与政府资本深度绑定的新趋势，可能重塑 AI 公司治理和商业化路径。据 TechCrunch 报道。",
+            "signal_strength": 0.8,
+            "sources": [
+              {
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/"
+              }
+            ],
+            "tags": [
+              "头部公司战略动作",
+              "行业风险与监管",
+              "OpenAI"
+            ],
+            "raw_item_indices": [
+              12
+            ]
+          },
+          {
+            "title": "Ollama v0.30.6: Adds Gemma 4 QAT Optimized Weights for On-Device Deployment",
+            "signal_text": "Ollama 发布 v0.30.6，新增 Gemma 4 QAT（量化感知训练）权重版本，显著降低内存需求并最大化设备端性能。这对端侧部署多模态模型（如小红书的内容生成与理解场景）有直接价值。",
+            "signal_strength": 0.65,
+            "sources": [
+              {
+                "name": "GitHub (ollama/ollama)",
+                "url": "https://github.com/ollama/ollama/releases/tag/v0.30.6"
+              }
+            ],
+            "tags": [
+              "技术突破",
+              "端侧部署",
+              "开源生态"
+            ],
+            "raw_item_indices": [
+              37
+            ]
+          },
+          {
+            "title": "Soul-AILab/SoulX-Transcriber: End-to-End Multi-Speaker Transcription Framework",
+            "signal_text": "Soul-AILab 开源 SoulX-Transcriber，一个端到端多说话人转录框架，联合建模说话人身份、时间和内容。该框架结合 ASR、LLM 和 speaker diarization，支持语音识别与说话人分离一体化，对内容平台的多模态内容理解有潜在应用价值。GitHub 获 192 stars。",
+            "signal_strength": 0.5,
+            "sources": [
+              {
+                "name": "GitHub",
+                "url": "https://github.com/Soul-AILab/SoulX-Transcriber"
+              }
+            ],
+            "tags": [
+              "内容创作与理解",
+              "多模态生成",
+              "开源生态"
+            ],
+            "raw_item_indices": [
+              22
+            ]
+          },
+          {
+            "title": "Sriram Krishnan Departs as White House AI Advisor to Start Policy Institution",
+            "signal_text": "白宫 AI 政策顾问 Sriram Krishnan 计划6月底离职，据称将创办新的政策研究机构以继续影响特朗普 AI 政策。此人事变动可能影响美国 AI 政策方向。据 The Information 和 TechCrunch 报道。",
+            "signal_strength": 0.5,
+            "sources": [
+              {
+                "name": "The Information",
+                "url": "https://www.theinformation.com/articles/white-house-ai-policy-advisor-krishnan-leave-position"
+              },
+              {
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/"
+              }
+            ],
+            "tags": [
+              "头部公司战略动作",
+              "行业风险与监管"
+            ],
+            "raw_item_indices": [
+              9,
+              11
+            ]
+          },
+          {
+            "title": "Somnusochi/VLM-AutoYOLO: VLM-Powered Auto Annotation and YOLO Training Pipeline",
+            "signal_text": "开源项目 VLM-AutoYOLO 提供端到端目标检测自动标注与 YOLO 训练流水线，利用 NVIDIA LocateAnything-3B VLM 进行自动标注，支持人工修正和一键训练。对内容平台的图片/视频内容理解与审核自动化有潜在应用。GitHub 获 72 stars。",
+            "signal_strength": 0.45,
+            "sources": [
+              {
+                "name": "GitHub (Somnusochi/VLM-AutoYOLO)",
+                "url": "https://github.com/Somnusochi/VLM-AutoYOLO"
+              }
+            ],
+            "tags": [
+              "内容创作与理解",
+              "内容安全",
+              "多模态"
+            ],
+            "raw_item_indices": [
+              26
+            ]
+          },
+          {
+            "title": "myccarl/ai-shortVideo-pipeline: End-to-End AI Short Video Production Pipeline",
+            "signal_text": "开源项目 ai-shortVideo-pipeline 提供端到端 AI 短视频生产流水线，包括 FastAPI 编排、多模型故障切换、CLIP 一致性检测、音画同步自动修复等。对小红书等内容平台 AI 视频创作工具有直接参考价值。GitHub 获 49 stars。",
+            "signal_strength": 0.45,
+            "sources": [
+              {
+                "name": "GitHub (myccarl/ai-shortVideo-pipeline)",
+                "url": "https://github.com/myccarl/ai-shortVideo-pipeline"
+              }
+            ],
+            "tags": [
+              "内容创作与理解",
+              "多模态生成",
+              "开源生态"
+            ],
+            "raw_item_indices": [
+              28
+            ]
+          },
+          {
+            "title": "PanisHandsome/ai-rules-sync: Unified Config Sync for AI Coding Agents",
+            "signal_text": "开源工具 ai-rules-sync 实现 AI coding-agent 规则文件的统一管理与同步，支持 AGENTS.md、CLAUDE.md、.cursorrules 等多种格式互转，零依赖。反映了 AI 编程助手生态工具链的成熟化趋势。GitHub 获 112 stars。",
+            "signal_strength": 0.4,
+            "sources": [
+              {
+                "name": "GitHub (PanisHandsome/ai-rules-sync)",
+                "url": "https://github.com/PanisHandsome/ai-rules-sync"
+              }
+            ],
+            "tags": [
+              "Agent 与新交互范式",
+              "开源生态"
+            ],
+            "raw_item_indices": [
+              25
+            ]
+          },
+          {
+            "title": "davanstrien/uv-scripts-for-ai: Self-Contained AI Scripts for OCR, Vision, Audio Tasks",
+            "signal_text": "开源项目 uv-scripts-for-ai 提供自包含的 UV 脚本，用于 OCR、视觉、音频等 AI 任务，可本地或 Hugging Face Jobs 上运行。目标是方便人类和 Agent 调用，反映了 AI 工具从库向脚本化、可组合演进的趋势。GitHub 获 36 stars。",
+            "signal_strength": 0.35,
+            "sources": [
+              {
+                "name": "GitHub (davanstrien/uv-scripts-for-ai)",
+                "url": "https://github.com/davanstrien/uv-scripts-for-ai"
+              }
+            ],
+            "tags": [
+              "Agent 与新交互范式",
+              "开源生态"
+            ],
+            "raw_item_indices": [
+              30
+            ]
+          },
+          {
+            "title": "zengxiao-he/tessera: From-Scratch LLM Distillation and Serving Engine",
+            "signal_text": "开源项目 tessera 提供自实现的 LLM 蒸馏与推理引擎，包含自定义 Triton/CUDA 内核、FSDP 蒸馏、paged-KV continuous batching、speculative decoding、Rust 网关等。对理解 LLM 推理效率优化技术有学习价值。GitHub 获 56 stars。",
+            "signal_strength": 0.35,
+            "sources": [
+              {
+                "name": "GitHub (zengxiao-he/tessera)",
+                "url": "https://github.com/zengxiao-he/tessera"
+              }
+            ],
+            "tags": [
+              "技术突破",
+              "推理效率提升",
+              "开源生态"
+            ],
+            "raw_item_indices": [
+              27
             ]
           }
         ]

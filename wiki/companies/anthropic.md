@@ -2,7 +2,7 @@
 title: Anthropic
 type: company
 created: 2026-02-25
-updated: 2026-06-06
+updated: 2026-06-08
 ---
 
 # Anthropic
@@ -11,6 +11,9 @@ updated: 2026-06-06
 
 ## Timeline
 
+- **2026-06-08**: Notion Restores Access to Anthropic After Brief Service Disruption, Highlighting API Dependencies in AI Ecosystem
+- **2026-06-08**: Anthropic SDK v0.107.0 Adds Managed Agent Types and API-Key Auth Fix for Foundry
+- **2026-06-08**: Tokenpocalypse: AI Companies Raise Prices Ahead of IPOs, Signaling Market Maturity and Cost Pass-Through
 - **2026-06-06**: Anthropic SDK Deprecates [[claude|Claude]] Opus 4.1, Signaling Model Lifecycle Management
 - **2026-06-05**: Anthropic Annualized Revenue Surpasses $47B Ahead of IPO, Signaling Market Validation
 - **2026-06-05**: Anthropic Reveals 80% of Production Code Authored by [[claude|Claude]], Sets New Enterprise Benchmark
