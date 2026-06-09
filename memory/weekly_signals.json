@@ -155,6 +155,240 @@
           28
         ]
       }
+    ],
+    "2026-06-09": [
+      {
+        "title": "OpenAI and Anthropic Both File for IPO, Escalating AI Market Competition",
+        "signal_text": "据 TechCrunch 和 Wired 报道，OpenAI 紧随 Anthropic 之后，已向 SEC 递交了机密 S-1 表格，正式启动 IPO 流程。此举标志着 AI 大模型赛道头部公司的竞争从技术和产品领域全面蔓延到资本市场，两大巨头同时寻求公开上市，将对行业估值、资金流向和商业化路径产生深远影响。OpenAI 官方博客也确认了此次机密提交。",
+        "signal_strength": 0.95,
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/"
+          },
+          {
+            "name": "Wired",
+            "url": "https://www.wired.com/story/openai-confidentially-files-for-ipo/"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/openai-submits-confidential-s-1"
+          }
+        ],
+        "tags": [
+          "IPO",
+          "Market Competition",
+          "OpenAI",
+          "Anthropic",
+          "Capital Markets"
+        ],
+        "raw_item_indices": [
+          18,
+          21,
+          22,
+          32
+        ]
+      },
+      {
+        "title": "Open-Source Search Agent Harness-1 Outperforms GPT-5.4",
+        "signal_text": "据 VentureBeat 报道，由 UIUC、UC Berkeley 和 Chroma 联合发表的一篇论文推出了 Harness-1，一个 200 亿参数的开源搜索 agent。该模型在信息召回的相关性上超越了 GPT-5.4，展示了在特定任务（如检索增强生成）中，开源模型通过专门优化可以正面挑战顶尖闭源模型，这对 RAG 系统的架构选择和企业级应用有重要启示。",
+        "signal_strength": 0.93,
+        "sources": [
+          {
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/orchestration/researchers-trained-an-open-source-ai-search-agent-harness-1-that-outperforms-gpt-5-4-on-recalling-relevant-information"
+          },
+          {
+            "name": "Arxiv",
+            "url": "https://arxiv.org/abs/2606.02373"
+          }
+        ],
+        "tags": [
+          "Open Source",
+          "Search Agent",
+          "RAG",
+          "Model Competition",
+          "GPT-5.4"
+        ],
+        "raw_item_indices": [
+          15
+        ]
+      },
+      {
+        "title": "browser-use Rebuilt in Rust: Major Performance Upgrade for Browser Agents",
+        "signal_text": "热门的开源浏览器自动化 agent 项目 browser-use 发布了 0.13.0 版本，核心引擎用 Rust 进行了重构（目前为 beta 版）。这一战略性架构调整旨在大幅提升 agent 在浏览器中执行任务的稳定性和速度，标志着 AI agent 基础设施在底层优化上迈出了重要一步，从 Python 到 Rust 的迁移趋势在 agent 框架领域开始加速。",
+        "signal_strength": 0.9,
+        "sources": [
+          {
+            "name": "GitHub: browser-use/browser-use",
+            "url": "https://github.com/browser-use/browser-use/releases/tag/0.13.0"
+          }
+        ],
+        "tags": [
+          "Agent",
+          "Browser Use",
+          "Rust",
+          "Open Source",
+          "Performance"
+        ],
+        "raw_item_indices": [
+          55
+        ]
+      },
+      {
+        "title": "Poisoned npm Packages Target AI Agent Supply Chains for Second Time",
+        "signal_text": "据 Ars Technica 报道，微软的软件包库中再次发现被植入凭证窃取器的恶意包。这些恶意包专门针对 AI Agent 的供应链，设计为在 AI agent 自动执行或解析时触发。这是数周内的第二次类似事件，凸显了 AI agent 生态系统在安全方面的巨大脆弱性，是 Agent 大规模落地前必须解决的重大问题。",
+        "signal_strength": 0.9,
+        "sources": [
+          {
+            "name": "Ars Technica",
+            "url": "https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/"
+          }
+        ],
+        "tags": [
+          "Security",
+          "Supply Chain",
+          "Agent",
+          "Malware",
+          "npm"
+        ],
+        "raw_item_indices": [
+          28
+        ]
+      },
+      {
+        "title": "llama.cpp Adds Video Input Support for Gemma 4",
+        "signal_text": "据开源贡献者 @osanseviero 的推文，llama.cpp 现已支持视频输入。结合之前对 Gemma 4 的支持，用户现在可以通过聊天 API 和特定的 mtmd-cli 在本地运行具备视频理解能力的 Gemma 4 模型。这是本地化、端侧部署多模态模型的一个关键突破，让视频理解不再仅限于云端 API。",
+        "signal_strength": 0.87,
+        "sources": [
+          {
+            "name": "X/Twitter: @osanseviero",
+            "url": "https://x.com/osanseviero/status/2063985470489448887"
+          }
+        ],
+        "tags": [
+          "llama.cpp",
+          "Video Understanding",
+          "Gemma 4",
+          "On-Device AI",
+          "Multi-modal"
+        ],
+        "raw_item_indices": [
+          40
+        ]
+      },
+      {
+        "title": "Apple's WWDC 2026: Siri AI Overhaul and Deep Google Gemini Integration",
+        "signal_text": "据 The Verge 和 Wired 报道，Apple 在 WWDC 2026 上发布了 iOS 27 的重大更新，核心是名为“新 Siri AI”的个人智能助手。苹果宣布与 Google Gemini 建立 AI 合作伙伴关系，为 Siri 提供底层模型能力。同时，Siri 被深度嵌入相机应用，支持更智能的图像编辑。这标志着 Apple 在 AI 策略上从保守转向积极，通过跨平台合作补齐了 AI 短板。",
+        "signal_strength": 0.85,
+        "sources": [
+          {
+            "name": "Wired",
+            "url": "https://www.wired.com/story/apples-new-siri-ai-is-ready-to-get-personal/"
+          },
+          {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/tech/946391/apple-ios-27-developer-beta-1-wwdc-2026-5-things"
+          }
+        ],
+        "tags": [
+          "Apple",
+          "Siri",
+          "WWDC",
+          "Google Gemini",
+          "iOS 27"
+        ],
+        "raw_item_indices": [
+          11,
+          26,
+          27,
+          29
+        ]
+      },
+      {
+        "title": "Enterprise AI Governance Crisis: Runtime and Security Gaps Identified",
+        "signal_text": "据 VentureBeat 的 Pulse 研究报告，大多数企业 AI 组织面临的是“运行时（runtime）问题”而非“模型问题”。报告指出，企业过度关注模型选择而忽视了 AI agent 在生产环境中的运行时治理、安全控制和可靠性。此前也有报告显示 72% 的企业缺乏有效的 AI 治理，表明企业级 AI 落地的“最后一公里”问题正在成为新的瓶颈。",
+        "signal_strength": 0.83,
+        "sources": [
+          {
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/resources/the-agentic-reckoning-enterprise-ai-organizations-have-a-runtime-problem-not-a-model-problem"
+          }
+        ],
+        "tags": [
+          "Enterprise AI",
+          "AI Governance",
+          "Runtime Security",
+          "Agent",
+          "Risk"
+        ],
+        "raw_item_indices": [
+          24
+        ]
+      },
+      {
+        "title": "Apple Using AI to Let Users 'Vibe-Code' Safari Extensions",
+        "signal_text": "据 The Verge 报道，Apple 在 WWDC 上宣布将利用 AI 技术，让用户通过自然语言（类似 vibe-coding）来创建 Safari 浏览器扩展。这一举措试图解决 Safari 长期以来扩展生态贫瘠的问题，通过降低开发门槛来丰富其扩展库，可能对浏览器市场份额和用户体验产生长远影响。",
+        "signal_strength": 0.78,
+        "sources": [
+          {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/tech/946345/apple-safari-ai-update-extensions"
+          }
+        ],
+        "tags": [
+          "Apple",
+          "Safari",
+          "Browser Extensions",
+          "Coding",
+          "Low-code"
+        ],
+        "raw_item_indices": [
+          16
+        ]
+      },
+      {
+        "title": "NVIDIA's LocateAnything-3B: Highly Trending Open-Weight Object Detection Model",
+        "signal_text": "NVIDIA 发布的 LocateAnything-3B 模型在 HuggingFace 上位列 Trending 榜首，获得 1633 个 Likes 和超 12 万次下载。这是一个用于开放词汇场景下的物体定位和视觉特征提取模型，代表了大厂在视觉通用能力上的积极开源策略，并获得了社区的极大关注。",
+        "signal_strength": 0.77,
+        "sources": [
+          {
+            "name": "HuggingFace: nvidia/LocateAnything-3B",
+            "url": "https://huggingface.co/nvidia/LocateAnything-3B"
+          }
+        ],
+        "tags": [
+          "NVIDIA",
+          "Object Detection",
+          "Open Source",
+          "Vision",
+          "HuggingFace"
+        ],
+        "raw_item_indices": [
+          81
+        ]
+      },
+      {
+        "title": "Evidence of Model Routing as a Growing Infrastructure Trend",
+        "signal_text": "知名 AI 基础设施专家 @julien_c 发推指出“模型路由（Model routing）如今正在快速增长”，该推文获得了 2000+ 次浏览量。在模型多样化、成本优化和专业化需求高涨的背景下，自动将请求路由到最合适的模型（如根据任务复杂度、延迟要求、成本预算）正在成为一个新兴的基础设施赛道。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "X/Twitter: @julien_c",
+            "url": "https://x.com/julien_c/status/2063905239690788957"
+          }
+        ],
+        "tags": [
+          "Model Routing",
+          "Infrastructure",
+          "Cost Optimization",
+          "LLMOps",
+          "Trend"
+        ],
+        "raw_item_indices": [
+          38
+        ]
+      }
     ]
   },
   "archived_weeks": [

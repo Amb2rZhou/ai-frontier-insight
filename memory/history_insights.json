@@ -1,66 +1,6 @@
 {
   "predictions": [
     {
-      "date": "2026-05-28T13:14:07.037432+08:00",
-      "prediction_text": "内容安全团队可以考虑预留第三方审计接口，并建立可追溯的AI生成内容水印与审核日志系统。",
-      "category": "infrastructure",
-      "source_signal": "Illinois Passes America's Strongest AI Safety Bill Requiring Third-Party Audits"
-    },
-    {
-      "date": "2026-05-28T13:14:07.040567+08:00",
-      "prediction_text": "搜索推荐团队可以探索“用户长序Token化”策略，基于M3实现毫秒级动态兴趣建模。",
-      "category": "research_breakthrough",
-      "source_signal": "MiniMax Teases M3 Model with 15.6x Long-Context Speed Boost via Novel Sparse Attention"
-    },
-    {
-      "date": "2026-05-28T13:14:07.043356+08:00",
-      "prediction_text": "搜索和向量检索团队可以评估替换SentencePiece，降低长尾查询的预处理延迟和存储开销。",
-      "category": "open_source",
-      "source_signal": "Perplexity CEO Open-Sources Production-Ready Tokenizer Far More Efficient Than HuggingFace/SentencePiece"
-    },
-    {
-      "date": "2026-05-28T13:14:07.045925+08:00",
-      "prediction_text": "内部工程效能团队可以试点Codex自动化缺陷修复和代码审查Agent，减少工程师重复劳动。",
-      "category": "strategic_move",
-      "source_signal": "Cisco and OpenAI Partner to Redefine Enterprise Engineering with Codex AI-Native Development"
-    },
-    {
-      "date": "2026-05-30T14:19:32.453898+08:00",
-      "prediction_text": "电商/社区平台应评估自研芯片或定制ASIC的可行性，优先在搜索、推荐、审核等高吞吐场景试点专用芯片。",
-      "category": "strategic_move",
-      "source_signal": "ByteDance Developing Proprietary AI Chip Similar to Groq Architecture"
-    },
-    {
-      "date": "2026-05-30T14:19:32.462329+08:00",
-      "prediction_text": "内容平台可考虑将图像/视频理解拆解为“通用大模型做理解+轻量模型做匹配”的双层架构，大幅降低推理账单。",
-      "category": "research_breakthrough",
-      "source_signal": "Pinterest Achieves 90% AI Cost Reduction by Modifying Frontier Model Architecture"
-    },
-    {
-      "date": "2026-05-30T14:19:32.468607+08:00",
-      "prediction_text": "社区平台可探索与AI挂件/眼镜厂商合作，预装“语音+视觉”的社区速记、购物识别等轻交互功能。",
-      "category": "strategic_move",
-      "source_signal": "Meta Plans AI Pendant as Part of Ambitious Wearables Expansion"
-    },
-    {
-      "date": "2026-05-30T14:19:32.473536+08:00",
-      "prediction_text": "内容安全团队应借鉴该评估方法论，对审核Agent进行“红队测试”和“沙箱行为监控”，而非仅依赖输入过滤。",
-      "category": "research_breakthrough",
-      "source_signal": "Google Gemini Models Tested for 'Scheming' Tendencies by DeepMind Alignment Team"
-    },
-    {
-      "date": "2026-05-30T14:19:32.477572+08:00",
-      "prediction_text": "推荐系统和创作者工具团队应优先构建“Agent运行时框架”：包含断点续传、分布式状态管理、细粒度权限控制。",
-      "category": "infrastructure",
-      "source_signal": "Enterprise AI Agent Reliability Crisis: Permissions and State Management Emerge as Bottlenecks"
-    },
-    {
-      "date": "2026-05-30T14:19:32.480754+08:00",
-      "prediction_text": "内容平台可考虑基于vLLM + DeepSeek V4搭建低成本推理集群，替代部分闭源API调用，适合长尾查询和内容理解。",
-      "category": "open_source",
-      "source_signal": "vLLM v0.22.0 Released: Major Hardening for DeepSeek V4 and New R1/HaiDrive Backend"
-    },
-    {
       "date": "2026-05-30T14:19:32.483845+08:00",
       "prediction_text": "创作者工具团队应提前适配Arm架构，开发实时AI修图、视频语音转写等端侧功能，抢占PC端创作变现入口。",
       "category": "infrastructure",
@@ -599,6 +539,66 @@
       "prediction_text": "内容安全与推荐系统可探索端侧轻量模型实现实时审核与个性化预筛选，降低云端延迟。",
       "category": "open_source",
       "source_signal": "Ollama v0.30.7-rc1: Native Windows Hermes Config Path — Consolidating Local LLM Deployment"
+    },
+    {
+      "date": "2026-06-09T12:00:00.729715+08:00",
+      "prediction_text": "关注具备明确商业化场景的AI应用层公司，而非纯模型公司；IPO前融资窗口收窄，谨慎追高。",
+      "category": "strategic_move",
+      "source_signal": "OpenAI and Anthropic Both File for IPO, Escalating AI Market Competition"
+    },
+    {
+      "date": "2026-06-09T12:00:00.738045+08:00",
+      "prediction_text": "创业机会在于垂直场景的RAG微调服务与‘小模型+精调’方案，替代通用大模型的高成本调用。",
+      "category": "research_breakthrough",
+      "source_signal": "Open-Source Search Agent Harness-1 Outperforms GPT-5.4"
+    },
+    {
+      "date": "2026-06-09T12:00:00.743237+08:00",
+      "prediction_text": "建议围绕Rust重写的Agent框架开发生态工具链（监控、沙盒），基础设施层存在早期投资价值。",
+      "category": "infrastructure",
+      "source_signal": "browser-use Rebuilt in Rust: Major Performance Upgrade for Browser Agents"
+    },
+    {
+      "date": "2026-06-09T12:00:00.748787+08:00",
+      "prediction_text": "Agent运行时的依赖审计、沙盒执行与权限控制将成为标配安全服务，值得安全初创公司切入。",
+      "category": "infrastructure",
+      "source_signal": "Poisoned npm Packages Target AI Agent Supply Chains for Second Time"
+    },
+    {
+      "date": "2026-06-09T12:00:00.754151+08:00",
+      "prediction_text": "端侧视频分析（安防、医疗、工业质检）创业窗口打开，关注围绕llama.cpp视频API的工具与集成。",
+      "category": "open_source",
+      "source_signal": "llama.cpp Adds Video Input Support for Gemma 4"
+    },
+    {
+      "date": "2026-06-09T12:00:00.759440+08:00",
+      "prediction_text": "跨平台AI能力聚合方案（多模型适配中间件）值得创业者布局，特别是为硬件厂商提供‘AI插件’。",
+      "category": "ecosystem_shift",
+      "source_signal": "Apple's WWDC 2026: Siri AI Overhaul and Deep Google Gemini Integration"
+    },
+    {
+      "date": "2026-06-09T12:00:00.764654+08:00",
+      "prediction_text": "AI Agent的可观测性、权限管理、审计合规工具是当前最明确的创业与投资方向。",
+      "category": "infrastructure",
+      "source_signal": "Enterprise AI Governance Crisis: Runtime and Security Gaps Identified"
+    },
+    {
+      "date": "2026-06-09T12:00:00.769930+08:00",
+      "prediction_text": "类似‘AI for extension’模式可复制到其他瘦生态平台（如Chrome、VS Code），建议探索低代码插件生成服务。",
+      "category": "strategic_move",
+      "source_signal": "Apple Using AI to Let Users 'Vibe-Code' Safari Extensions"
+    },
+    {
+      "date": "2026-06-09T12:00:00.775037+08:00",
+      "prediction_text": "基于LocateAnything-3B做专业领域（卫星、医疗、零售）的微调模型创业，商业路径清晰。",
+      "category": "open_source",
+      "source_signal": "NVIDIA's LocateAnything-3B: Highly Trending Open-Weight Object Detection Model"
+    },
+    {
+      "date": "2026-06-09T12:00:00.779657+08:00",
+      "prediction_text": "模型路由编排平台或API中间件是基础设施层值得重注的赛道，可降低企业模型管理复杂度。",
+      "category": "infrastructure",
+      "source_signal": "Evidence of Model Routing as a Growing Infrastructure Trend"
     }
   ]
 }

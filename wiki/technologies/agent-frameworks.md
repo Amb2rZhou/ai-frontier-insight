@@ -2,7 +2,7 @@
 title: Agent Frameworks
 type: technology
 created: 2026-02-25
-updated: 2026-06-08
+updated: 2026-06-09
 ---
 
 # Agent Frameworks
@@ -11,6 +11,9 @@ The rapidly evolving ecosystem of tools, SDKs, and platforms for building autono
 
 ## Timeline
 
+- **2026-06-09**: Enterprise AI Governance Crisis: Runtime and Security Gaps Identified
+- **2026-06-09**: Poisoned npm Packages Target AI Agent Supply Chains for Second Time
+- **2026-06-09**: browser-use Rebuilt in Rust: Major Performance Upgrade for Browser Agents
 - **2026-06-08**: [[ollama|Ollama]] v0.30.7-rc1: Native Windows Hermes Config Path — Consolidating Local LLM Deployment
 - **2026-06-08**: K-Dense-AI/scientific-agents: AGENTS.md Profiles That Teach AI Agents to Reason Like Senior Scientists
 - **2026-06-08**: Omnistack Agent: Platform-Agnostic 'One Full-Stack Engineer Brain' Adapter for All Major AI Chat Interfaces

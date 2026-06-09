@@ -2,7 +2,7 @@
 title: RAG
 type: technology
 created: 2026-02-25
-updated: 2026-06-04
+updated: 2026-06-09
 ---
 
 # RAG
@@ -11,6 +11,7 @@ Retrieval-Augmented Generation and related techniques for grounding AI model out
 
 ## Timeline
 
+- **2026-06-09**: Open-Source Search Agent Harness-1 Outperforms [[gpt|GPT-5]].4
 - **2026-06-04**: LongLive-RAG: Official Framework for Retrieval-Augmented Long Video Generation
 - **2026-05-21**: Decision Context Graph Framework Proposed to Solve [[agent-frameworks|AI Agent]] Amnesia in Enterprise
 - **2026-05-19**: Context Architecture Emerges as [[agent-frameworks|Agentic]] AI Replaces Traditional RAG

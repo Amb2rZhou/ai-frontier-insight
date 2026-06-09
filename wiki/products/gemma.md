@@ -2,7 +2,7 @@
 title: Gemma
 type: product
 created: 2026-04-03
-updated: 2026-06-07
+updated: 2026-06-09
 ---
 
 # Gemma
@@ -11,6 +11,7 @@ updated: 2026-06-07
 
 ## Timeline
 
+- **2026-06-09**: llama.cpp Adds Video Input Support for Gemma 4
 - **2026-06-07**: [[ollama|Ollama]] v0.30.6: Adds Gemma 4 QAT Optimized Weights for On-Device Deployment
 - **2026-06-04**: [[hugging-face|HuggingFace]] Transformers v5.10.1 Adds Official Support for Gemma4 with MTP (Multi-Token Prediction) Architecture
 - **2026-06-04**: [[google-deepmind|Google]] Releases Gemma 4 12B: Fully Local Multimodal Model for Audio, Video, and Text on 16GB Laptops

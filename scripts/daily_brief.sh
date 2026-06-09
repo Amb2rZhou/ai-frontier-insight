@@ -22,9 +22,9 @@ if nc -z -G2 127.0.0.1 "$PROXY_PORT" 2>/dev/null; then
     P="socks5h://127.0.0.1:$PROXY_PORT"
     export ALL_PROXY="$P" HTTPS_PROXY="$P" HTTP_PROXY="$P"
     export all_proxy="$P" https_proxy="$P" http_proxy="$P"
-    log "检测到 SOCKS 代理 :$PROXY_PORT，采集走代理（HF/Reddit 可用）"
+    log "检测到 SOCKS 代理 :${PROXY_PORT}，采集走代理（HF/Reddit 可用）"
 else
-    log "未检测到代理 :$PROXY_PORT，采集走直连（HF/Reddit 可能拿不到，不影响其它源）"
+    log "未检测到代理 :${PROXY_PORT}，采集走直连（HF/Reddit 可能拿不到，不影响其它源）"
 fi
 
 # 1. 完整日报：采集所有源 → DeepSeek 信号/洞察 → 写 markdown + Jekyll（不发 RedCity webhook）

@@ -2,7 +2,7 @@
 title: Gemini
 type: product
 created: 2026-02-25
-updated: 2026-06-08
+updated: 2026-06-09
 ---
 
 # Gemini
@@ -11,6 +11,7 @@ updated: 2026-06-08
 
 ## Timeline
 
+- **2026-06-09**: [[apple|Apple]]'s WWDC 2026: Siri AI Overhaul and Deep [[google-deepmind|Google]] Gemini Integration
 - **2026-06-08**: Omnistack Agent: Platform-Agnostic 'One Full-Stack Engineer Brain' Adapter for All Major AI Chat Interfaces
 - **2026-06-08**: Omnistack Agent: Platform-Agnostic AI Engineer Compiled for Multiple Models
 - **2026-06-08**: OmniStack Agent: Platform-Agnostic [[agent-frameworks|AI Agent]] Compiled for [[gpt|ChatGPT]], [[claude|Claude]], [[copilot|Copilot]], Gemini & [[cursor-ai|Cursor]]
