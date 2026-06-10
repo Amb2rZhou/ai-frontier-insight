@@ -2,7 +2,7 @@
 title: Gemini
 type: product
 created: 2026-02-25
-updated: 2026-06-09
+updated: 2026-06-10
 ---
 
 # Gemini
@@ -11,6 +11,7 @@ updated: 2026-06-09
 
 ## Timeline
 
+- **2026-06-10**: [[google-deepmind|Google DeepMind]]'s Gemini 3.5 Flash Introduces Live Translate: 70+ Languages, Speech-to-Speech
 - **2026-06-09**: [[apple|Apple]]'s WWDC 2026: Siri AI Overhaul and Deep [[google-deepmind|Google]] Gemini Integration
 - **2026-06-08**: Omnistack Agent: Platform-Agnostic 'One Full-Stack Engineer Brain' Adapter for All Major AI Chat Interfaces
 - **2026-06-08**: Omnistack Agent: Platform-Agnostic AI Engineer Compiled for Multiple Models

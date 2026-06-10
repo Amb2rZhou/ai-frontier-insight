@@ -2,7 +2,7 @@
 title: OpenAI
 type: company
 created: 2026-02-25
-updated: 2026-06-09
+updated: 2026-06-10
 ---
 
 # OpenAI
@@ -11,6 +11,7 @@ The leading commercial AI lab, maker of [[gpt|GPT]] models, ChatGPT, [[codex|Cod
 
 ## Timeline
 
+- **2026-06-10**: OpenAI's [[codex|Codex]] Goal Feature Goes Interactive: New 'Nested Loop' Capability Emerging
 - **2026-06-09**: OpenAI and [[anthropic|Anthropic]] Both File for IPO, Escalating AI Market Competition
 - **2026-06-08**: [[anthropic|Anthropic]] SDK v0.107.0: Updates to Managed Agents Types — Enterprise Agent Management Infrastructure
 - **2026-06-08**: TechCrunch: The 'Tokenpocalypse' — AI Token Prices Likely to Rise as Major AI Companies Prep for IPO

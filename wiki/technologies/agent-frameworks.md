@@ -2,7 +2,7 @@
 title: Agent Frameworks
 type: technology
 created: 2026-02-25
-updated: 2026-06-09
+updated: 2026-06-10
 ---
 
 # Agent Frameworks
@@ -11,6 +11,9 @@ The rapidly evolving ecosystem of tools, SDKs, and platforms for building autono
 
 ## Timeline
 
+- **2026-06-10**: [[openai|OpenAI]]'s [[codex|Codex]] Goal Feature Goes Interactive: New 'Nested Loop' Capability Emerging
+- **2026-06-10**: [[nvidia|NVIDIA]] Nemotron 3 Ultra Emerges as Top Open-Weight Model; Competing with Frontier Systems
+- **2026-06-10**: [[claude|Claude Code]] Adds Nested Subagent Support for Deeper Agent Hierarchies
 - **2026-06-09**: Enterprise AI Governance Crisis: Runtime and Security Gaps Identified
 - **2026-06-09**: Poisoned npm Packages Target AI Agent Supply Chains for Second Time
 - **2026-06-09**: browser-use Rebuilt in Rust: Major Performance Upgrade for Browser Agents

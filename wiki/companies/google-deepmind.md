@@ -2,7 +2,7 @@
 title: Google DeepMind
 type: company
 created: 2026-02-25
-updated: 2026-06-09
+updated: 2026-06-10
 ---
 
 # Google DeepMind
@@ -11,6 +11,9 @@ Google's unified AI research division, maker of [[gemini|Gemini]] and [[gemma|Ge
 
 ## Timeline
 
+- **2026-06-10**: Google DeepMind's [[gemini|Gemini]] 3.5 Flash Introduces Live Translate: 70+ Languages, Speech-to-Speech
+- **2026-06-10**: [[apple|Apple]], [[nvidia|NVIDIA]], and Google Collaborate on Confidential AI for Apple Intelligence via Private Cloud Compute
+- **2026-06-10**: German Court Declares Google Liable for AI Overview Hallucinations, Setting Major EU Precedent
 - **2026-06-09**: [[apple|Apple]]'s WWDC 2026: Siri AI Overhaul and Deep Google [[gemini|Gemini]] Integration
 - **2026-06-08**: [Update] Europe Accelerates Ditching US Big Tech: Wired Timeline Shows Government and Enterprise Migration
 - **2026-06-06**: Google to Pay SpaceX $920M Monthly for GPU Compute Capacity

@@ -2,7 +2,7 @@
 title: Claude
 type: product
 created: 2026-02-25
-updated: 2026-06-08
+updated: 2026-06-10
 ---
 
 # Claude
@@ -11,6 +11,9 @@ updated: 2026-06-08
 
 ## Timeline
 
+- **2026-06-10**: Surge AI Reaches $1B Revenue: Bootstrapped Data Infrastructure for Frontier AI Labs
+- **2026-06-10**: Claude Code Adds Nested Subagent Support for Deeper Agent Hierarchies
+- **2026-06-10**: [[anthropic|Anthropic]] Releases Claude Fable 5 (Mythos-Class) with Heavy Safety Guardrails, Sparking Backlash
 - **2026-06-08**: Omnistack Agent: Platform-Agnostic 'One Full-Stack Engineer Brain' Adapter for All Major AI Chat Interfaces
 - **2026-06-08**: VentureBeat: Managing AI 'Blast Radius' — Production Risks When Underlying Models Change
 - **2026-06-08**: Omnistack Agent: Platform-Agnostic AI Engineer Compiled for Multiple Models

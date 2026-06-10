@@ -242,7 +242,7 @@
         "date": "2025-11-03"
       }
     ],
-    "updated": "2026-06-09T11:58:15.248858+08:00"
+    "updated": "2026-06-10T11:01:14.048976+08:00"
   },
   "arc_agi_2": {
     "top_models": [
@@ -387,20 +387,10 @@
         "institution": "Simular"
       }
     ],
-    "updated": "2026-06-09T11:58:15.248858+08:00"
+    "updated": "2026-06-10T11:01:14.048976+08:00"
   },
   "terminal_bench": {
     "top_models": [
-      {
-        "name": "vix/vix (claude-opus-4-7)",
-        "score": 90.2,
-        "verified": false
-      },
-      {
-        "name": "JJ/jj-agent-harness (multiple)",
-        "score": 87.1,
-        "verified": false
-      },
       {
         "name": "china-qijizhifeng/nexau (gpt-5.5)",
         "score": 84.7,
@@ -427,12 +417,12 @@
         "verified": false
       },
       {
-        "name": "BIGAI/judy (gemini-3.1-pro-preview)",
+        "name": "WOZCODE/claude-wozcode-plugin (claude-opus-4-7)",
         "score": 80.2,
         "verified": false
       },
       {
-        "name": "WOZCODE/claude-wozcode-plugin (claude-opus-4-7)",
+        "name": "BIGAI/judy (gemini-3.1-pro-preview)",
         "score": 80.2,
         "verified": false
       },
@@ -465,8 +455,18 @@
         "name": "kousw/codelia (gpt-5.3-codex)",
         "score": 75.7,
         "verified": false
+      },
+      {
+        "name": "Capy/capy-build (claude-opus-4-6)",
+        "score": 75.3,
+        "verified": false
+      },
+      {
+        "name": "OpenAI/simple_codex (gpt-5.3-codex)",
+        "score": 75.1,
+        "verified": true
       }
     ],
-    "updated": "2026-06-09T11:58:15.248858+08:00"
+    "updated": "2026-06-10T11:01:14.048976+08:00"
   }
 }

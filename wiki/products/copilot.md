@@ -2,7 +2,7 @@
 title: Copilot
 type: product
 created: 2026-02-27
-updated: 2026-06-08
+updated: 2026-06-10
 ---
 
 # Copilot
@@ -11,6 +11,7 @@ updated: 2026-06-08
 
 ## Timeline
 
+- **2026-06-10**: [[anthropic|Anthropic]]'s Safety Gating Extends to Coding Agents: [[microsoft|Microsoft]] Azure and GitHub Copilot Integration, Fable 5 Degraded for Frontier LLM-Development
 - **2026-06-08**: Omnistack Agent: Platform-Agnostic 'One Full-Stack Engineer Brain' Adapter for All Major AI Chat Interfaces
 - **2026-06-08**: Omnistack Agent: Platform-Agnostic AI Engineer Compiled for Multiple Models
 - **2026-06-08**: OmniStack Agent: Platform-Agnostic [[agent-frameworks|AI Agent]] Compiled for [[gpt|ChatGPT]], [[claude|Claude]], Copilot, [[gemini|Gemini]] & [[cursor-ai|Cursor]]

@@ -2,7 +2,7 @@
 title: Anthropic
 type: company
 created: 2026-02-25
-updated: 2026-06-09
+updated: 2026-06-10
 ---
 
 # Anthropic
@@ -11,6 +11,9 @@ updated: 2026-06-09
 
 ## Timeline
 
+- **2026-06-10**: [[claude|Claude Code]] Adds Nested Subagent Support for Deeper Agent Hierarchies
+- **2026-06-10**: Anthropic's Safety Gating Extends to Coding Agents: [[microsoft|Microsoft]] Azure and GitHub [[copilot|Copilot]] Integration, Fable 5 Degraded for Frontier LLM-Development
+- **2026-06-10**: Anthropic Releases [[claude|Claude]] Fable 5 (Mythos-Class) with Heavy Safety Guardrails, Sparking Backlash
 - **2026-06-09**: [[openai|OpenAI]] and Anthropic Both File for IPO, Escalating AI Market Competition
 - **2026-06-08**: Anthropic SDK v0.107.0: Updates to Managed Agents Types — Enterprise Agent Management Infrastructure
 - **2026-06-08**: VentureBeat: Managing AI 'Blast Radius' — Production Risks When Underlying Models Change

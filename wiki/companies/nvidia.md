@@ -2,7 +2,7 @@
 title: NVIDIA
 type: company
 created: 2026-02-25
-updated: 2026-06-09
+updated: 2026-06-10
 ---
 
 # NVIDIA
@@ -11,6 +11,8 @@ Dominant [[ai-hardware|AI hardware]] company, increasingly expanding into AI sof
 
 ## Timeline
 
+- **2026-06-10**: NVIDIA Nemotron 3 Ultra Emerges as Top Open-Weight Model; Competing with Frontier Systems
+- **2026-06-10**: [[apple|Apple]], NVIDIA, and [[google-deepmind|Google]] Collaborate on Confidential AI for Apple Intelligence via Private Cloud Compute
 - **2026-06-09**: NVIDIA's LocateAnything-3B: Highly Trending Open-Weight Object Detection Model
 - **2026-06-07**: Somnusochi/VLM-AutoYOLO: VLM-Powered Auto Annotation and YOLO Training Pipeline
 - **2026-06-06**: [[google-deepmind|Google]] to Pay SpaceX $920M Monthly for GPU Compute Capacity

@@ -2,7 +2,7 @@
 title: Codex
 type: product
 created: 2026-02-25
-updated: 2026-05-31
+updated: 2026-06-10
 ---
 
 # Codex
@@ -11,6 +11,7 @@ updated: 2026-05-31
 
 ## Timeline
 
+- **2026-06-10**: [[openai|OpenAI]]'s Codex Goal Feature Goes Interactive: New 'Nested Loop' Capability Emerging
 - **2026-05-31**: Vibecode Pro Max Kit: Addresses [[agent-frameworks|AI Agent]] ‘Context Rot’ with Spec-Driven Memory
 - **2026-05-31**: ADHD: Tree-of-Thought Coding Agent for [[claude|Claude]] & Codex Gains Traction
 - **2026-05-28**: Cisco and [[openai|OpenAI]] Partner to Redefine Enterprise Engineering with Codex AI-Native Development

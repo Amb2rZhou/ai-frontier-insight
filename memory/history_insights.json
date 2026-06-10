@@ -1,66 +1,6 @@
 {
   "predictions": [
     {
-      "date": "2026-05-30T14:19:32.483845+08:00",
-      "prediction_text": "创作者工具团队应提前适配Arm架构，开发实时AI修图、视频语音转写等端侧功能，抢占PC端创作变现入口。",
-      "category": "infrastructure",
-      "source_signal": "NVIDIA, Microsoft, Arm Tease New N1X Arm Laptop Processors at Computex"
-    },
-    {
-      "date": "2026-05-30T14:19:32.486524+08:00",
-      "prediction_text": "社区平台应建立AI生成内容的版权声明模板和用户协议，并主动与UGC创作者沟通AI辅助创作的收益分配机制。",
-      "category": "ecosystem_shift",
-      "source_signal": "Amazon to Produce AI-Animated 'Good Advice Cupcake' TV Show; Original Creator Furious"
-    },
-    {
-      "date": "2026-05-30T14:19:32.489084+08:00",
-      "prediction_text": "电商/社区平台可考虑构建“AI运营Agent + 人工确认”的闭环，应用于达人对接、活动策划、违规预判等场景。",
-      "category": "strategic_move",
-      "source_signal": "OpenAI Case Study: Boston Children's Hospital Uses AI to Diagnose 40+ Rare Diseases"
-    },
-    {
-      "date": "2026-05-30T14:19:32.491650+08:00",
-      "prediction_text": "内容数据策略团队应警惕“以服务换数据”的商业模式，并提前制定AI训练数据采集的透明化协议与用户授权机制。",
-      "category": "data_strategy",
-      "source_signal": "AI Pendant as New Wearable Form Factor: Startups Offer Free House Cleaning for AI Training Data"
-    },
-    {
-      "date": "2026-05-31T11:40:27.121440+08:00",
-      "prediction_text": "内容/电商平台可以考虑将AI战略重心从自研模型转向模型调度与业务场景的深度集成。",
-      "category": "infrastructure",
-      "source_signal": "SoftBank Announces €75 Billion AI Data Center Investment in France"
-    },
-    {
-      "date": "2026-05-31T11:40:27.130216+08:00",
-      "prediction_text": "电商/社区平台的AI客服、AI运营Agent值得引入专业的销售导向产品经理，推动B端付费转化。",
-      "category": "strategic_move",
-      "source_signal": "OpenAI's Revenue Chief Drives Enterprise Push Against Anthropic"
-    },
-    {
-      "date": "2026-05-31T11:40:27.136444+08:00",
-      "prediction_text": "创作者工具团队可以考虑为用户提供AI生成内容的用量预估与分层定价，避免定价争议。",
-      "category": "ecosystem_shift",
-      "source_signal": "GitHub Copilot Introduces Token-Based Billing, Spurring Developer Backlash"
-    },
-    {
-      "date": "2026-05-31T11:40:27.141720+08:00",
-      "prediction_text": "社区/内容平台建议探索将部分内容理解、图像标签模型迁移至用户端运行，降低中心推理成本。",
-      "category": "research_breakthrough",
-      "source_signal": "Rotary GPU: A New Architecture for Running Large MoE Models Locally with Limited VRAM"
-    },
-    {
-      "date": "2026-05-31T11:40:27.146729+08:00",
-      "prediction_text": "电商平台可以考虑组建专门的AI商业化团队，复制OpenAI式的To B客户触达策略。",
-      "category": "strategic_move",
-      "source_signal": "Defense Tech Sector Matures: OpenAI vs Anthropic in Enterprise AI Sales War"
-    },
-    {
-      "date": "2026-05-31T11:40:27.150591+08:00",
-      "prediction_text": "内容平台建议提前评估AV2兼容性，在UGC视频上传转码管线中预留编码升级通道。",
-      "category": "infrastructure",
-      "source_signal": "AV2 Video Standard v1.0 Final Specification Released"
-    },
-    {
       "date": "2026-05-31T11:40:27.153787+08:00",
       "prediction_text": "内容平台的创意工具Agent（如图像描述生成、文案迭代）建议引入思维树策略提升输出多样性。",
       "category": "research_breakthrough",
@@ -599,6 +539,66 @@
       "prediction_text": "模型路由编排平台或API中间件是基础设施层值得重注的赛道，可降低企业模型管理复杂度。",
       "category": "infrastructure",
       "source_signal": "Evidence of Model Routing as a Growing Infrastructure Trend"
+    },
+    {
+      "date": "2026-06-10T11:02:46.771225+08:00",
+      "prediction_text": "值得探索去中心化或可审计的安全中间件，为用户提供可控的安全边界而非硬性拒绝。",
+      "category": "model_release",
+      "source_signal": "Anthropic Releases Claude Fable 5 (Mythos-Class) with Heavy Safety Guardrails, Sparking Backlash"
+    },
+    {
+      "date": "2026-06-10T11:02:46.786690+08:00",
+      "prediction_text": "开源可私有化部署的编码 Agent 需求激增，建议关注 Cohere 等 sovereignty 路线的创业机会。",
+      "category": "strategic_move",
+      "source_signal": "Anthropic's Safety Gating Extends to Coding Agents: Microsoft Azure and GitHub Copilot Integration, Fable 5 Degraded for Frontier LLM-Development"
+    },
+    {
+      "date": "2026-06-10T11:02:46.793824+08:00",
+      "prediction_text": "小微企业部署本地编码 Agent 的门槛骤降，建议探索面向合规要求高的行业（金融、国防）的私有化方案。",
+      "category": "open_source",
+      "source_signal": "Cohere Open-Sources North Mini Code: A Coding Agent Optimized for Single H100 Deployment"
+    },
+    {
+      "date": "2026-06-10T11:02:46.804499+08:00",
+      "prediction_text": "AI 输出可审计、可溯源的基础设施将成刚需，建议投资于事实性检索与归因中间件。",
+      "category": "infrastructure",
+      "source_signal": "German Court Declares Google Liable for AI Overview Hallucinations, Setting Major EU Precedent"
+    },
+    {
+      "date": "2026-06-10T11:02:46.812664+08:00",
+      "prediction_text": "机密计算硬件与云服务（NVIDIA+Google Cloud）组合成为企业 AI 部署标准配置，建议布局相关安全 SDK 与监控工具。",
+      "category": "infrastructure",
+      "source_signal": "Apple, NVIDIA, and Google Collaborate on Confidential AI for Apple Intelligence via Private Cloud Compute"
+    },
+    {
+      "date": "2026-06-10T11:02:46.820577+08:00",
+      "prediction_text": "语音 Agent 全球化窗口打开，建议创业团队围绕特定场景（客服、出海、医疗）做降本翻译+垂直微调。",
+      "category": "research_breakthrough",
+      "source_signal": "Google DeepMind's Gemini 3.5 Flash Introduces Live Translate: 70+ Languages, Speech-to-Speech"
+    },
+    {
+      "date": "2026-06-10T11:02:46.827188+08:00",
+      "prediction_text": "Agent 编排与监控工具链需求激增，建议创业公司围绕‘子 Agent 生命周期管理’开发基础设施。",
+      "category": "infrastructure",
+      "source_signal": "Claude Code Adds Nested Subagent Support for Deeper Agent Hierarchies"
+    },
+    {
+      "date": "2026-06-10T11:02:46.832193+08:00",
+      "prediction_text": "基于 Nemotron 的私有化 Agent 训练和微调服务成为高价值创业方向，建议关注模型兼容层。",
+      "category": "open_source",
+      "source_signal": "NVIDIA Nemotron 3 Ultra Emerges as Top Open-Weight Model; Competing with Frontier Systems"
+    },
+    {
+      "date": "2026-06-10T11:02:46.837382+08:00",
+      "prediction_text": "围绕代码 Agent 的会话管理、版本控制和测试自动化需求涌现，值得创业团队探索 IDE 插件生态。",
+      "category": "ecosystem_shift",
+      "source_signal": "OpenAI's Codex Goal Feature Goes Interactive: New 'Nested Loop' Capability Emerging"
+    },
+    {
+      "date": "2026-06-10T11:02:46.842648+08:00",
+      "prediction_text": "AI 工厂对专业评估、数据合成、环境模拟的需求持续扩大，建议考虑面向垂直领域（法律、医疗）的评估工具创业。",
+      "category": "infrastructure",
+      "source_signal": "Surge AI Reaches $1B Revenue: Bootstrapped Data Infrastructure for Frontier AI Labs"
     }
   ]
 }

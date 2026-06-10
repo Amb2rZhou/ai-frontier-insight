@@ -2,7 +2,7 @@
 title: AI Safety
 type: trend
 created: 2026-02-25
-updated: 2026-06-06
+updated: 2026-06-10
 ---
 
 # AI Safety
@@ -13,6 +13,7 @@ The evolving landscape of AI safety research, policy, and corporate commitments 
 
 ## Timeline
 
+- **2026-06-10**: [[anthropic|Anthropic]] Releases [[claude|Claude]] Fable 5 (Mythos-Class) with Heavy Safety Guardrails, Sparking Backlash
 - **2026-06-06**: [[meta|Meta AI]] Support Agent Exploited for Account Takeover via Recovery Email Binding
 - **2026-06-06**: [[microsoft|Microsoft]] AI Chief Declares Independence from [[openai|OpenAI]], Pivots to Superintelligence
 - **2026-06-05**: South Korea Mandates AI Censorship Scanning for All Images on Online Forums

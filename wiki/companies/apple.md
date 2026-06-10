@@ -2,7 +2,7 @@
 title: Apple
 type: company
 created: 2026-02-27
-updated: 2026-06-09
+updated: 2026-06-10
 ---
 
 # Apple
@@ -11,6 +11,7 @@ Consumer technology giant with growing on-device AI capabilities and research co
 
 ## Timeline
 
+- **2026-06-10**: Apple, [[nvidia|NVIDIA]], and [[google-deepmind|Google]] Collaborate on Confidential AI for Apple Intelligence via Private Cloud Compute
 - **2026-06-09**: Apple Using AI to Let Users 'Vibe-Code' Safari Extensions
 - **2026-06-09**: Apple's WWDC 2026: Siri AI Overhaul and Deep [[google-deepmind|Google]] [[gemini|Gemini]] Integration
 - **2026-06-04**: Apple to Launch Overhauled Siri in September Powered by [[google-deepmind|Google]] Cloud and [[nvidia|Nvidia]] Chips
