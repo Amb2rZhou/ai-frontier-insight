@@ -2,7 +2,7 @@
 title: xAI
 type: company
 created: 2026-02-25
-updated: 2026-05-20
+updated: 2026-06-11
 ---
 
 # xAI
@@ -11,6 +11,7 @@ Elon Musk's AI company, maker of [[grok|Grok]] models. Known for aggressive infr
 
 ## Timeline
 
+- **2026-06-11**: [[openai|OpenAI]] Hires Cybersecurity Leaders; xAI Engineer Sues Over [[grok|Grok]] Safety Firing
 - **2026-05-20**: [[openclaw|OpenClaw]] Integrates with X (Twitter), Enabling [[grok|Grok]] Models on Personal Hardware
 - **2026-05-16**: xAI [[grok|Grok]] Subscription Integrated with Nous Hermes Agent
 - **2026-05-15**: [[grok|Grok]] Build: xAI Launches [[agent-frameworks|Agentic]] CLI for Coding and Automation

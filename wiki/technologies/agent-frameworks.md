@@ -2,7 +2,7 @@
 title: Agent Frameworks
 type: technology
 created: 2026-02-25
-updated: 2026-06-10
+updated: 2026-06-11
 ---
 
 # Agent Frameworks
@@ -11,6 +11,8 @@ The rapidly evolving ecosystem of tools, SDKs, and platforms for building autono
 
 ## Timeline
 
+- **2026-06-11**: [[perplexity|Perplexity]] AI Integrates [[claude|Claude]] Fable 5 as Orchestrator for 'Computer'
+- **2026-06-11**: New 'Agents' Last Exam' Benchmark Shows [[gpt|GPT-5]].5 Outperforming [[claude|Claude]] Fable 5
 - **2026-06-10**: [[openai|OpenAI]]'s [[codex|Codex]] Goal Feature Goes Interactive: New 'Nested Loop' Capability Emerging
 - **2026-06-10**: [[nvidia|NVIDIA]] Nemotron 3 Ultra Emerges as Top Open-Weight Model; Competing with Frontier Systems
 - **2026-06-10**: [[claude|Claude Code]] Adds Nested Subagent Support for Deeper Agent Hierarchies

@@ -2,7 +2,7 @@
 title: Claude
 type: product
 created: 2026-02-25
-updated: 2026-06-10
+updated: 2026-06-11
 ---
 
 # Claude
@@ -11,6 +11,9 @@ updated: 2026-06-10
 
 ## Timeline
 
+- **2026-06-11**: [[perplexity|Perplexity]] AI Integrates Claude Fable 5 as Orchestrator for 'Computer'
+- **2026-06-11**: New 'Agents' Last Exam' Benchmark Shows [[gpt|GPT-5]].5 Outperforming Claude Fable 5
+- **2026-06-11**: [[anthropic|Anthropic]] Fable 5 Launch Sparks Major Backlash: Overly Aggressive Safety Refusals Blocking Researchers
 - **2026-06-10**: Surge AI Reaches $1B Revenue: Bootstrapped Data Infrastructure for Frontier AI Labs
 - **2026-06-10**: Claude Code Adds Nested Subagent Support for Deeper Agent Hierarchies
 - **2026-06-10**: [[anthropic|Anthropic]] Releases Claude Fable 5 (Mythos-Class) with Heavy Safety Guardrails, Sparking Backlash

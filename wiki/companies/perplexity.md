@@ -2,7 +2,7 @@
 title: Perplexity
 type: company
 created: 2026-02-26
-updated: 2026-06-03
+updated: 2026-06-11
 ---
 
 # Perplexity
@@ -11,6 +11,7 @@ AI-powered search company that has expanded into a full [[agent-frameworks|agent
 
 ## Timeline
 
+- **2026-06-11**: Perplexity AI Integrates [[claude|Claude]] Fable 5 as Orchestrator for 'Computer'
 - **2026-06-03**: Perplexity AI Unveils Hybrid Local-Cloud Inference System at Computex 2026
 - **2026-05-28**: Perplexity CEO Open-Sources Production-Ready Tokenizer Far More Efficient Than [[hugging-face|HuggingFace]]/SentencePiece
 - **2026-04-25**: [[gpt|GPT-5]].5 Launches Across [[openai|OpenAI]] API, GitHub [[copilot|Copilot]], and Perplexity · [OpenAI (X/Twitter)](https://x.com/OpenAI/status/2047743592278745425) · [Perplexity CEO Arav Srinivas](https://x.com/AravSrinivas/status/2047753276888854594) · [Microsoft Azure (X/Twitter)](https://x.com/Azure/status/2047752463646597261)

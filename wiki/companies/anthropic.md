@@ -2,7 +2,7 @@
 title: Anthropic
 type: company
 created: 2026-02-25
-updated: 2026-06-10
+updated: 2026-06-11
 ---
 
 # Anthropic
@@ -11,6 +11,11 @@ updated: 2026-06-10
 
 ## Timeline
 
+- **2026-06-11**: [[perplexity|Perplexity]] AI Integrates [[claude|Claude]] Fable 5 as Orchestrator for 'Computer'
+- **2026-06-11**: [[hugging-face|HuggingFace]], [[google-deepmind|Google]] & AI Community Launch '[[gemma|Gemma]] Challenge' Against Anthropic's Safety Model
+- **2026-06-11**: New 'Agents' Last Exam' Benchmark Shows [[gpt|GPT-5]].5 Outperforming [[claude|Claude]] Fable 5
+- **2026-06-11**: Anthropic CEO Dario Amodei Calls for FAA-Style AI Regulation in Major Policy Essay
+- **2026-06-11**: Anthropic Fable 5 Launch Sparks Major Backlash: Overly Aggressive Safety Refusals Blocking Researchers
 - **2026-06-10**: [[claude|Claude Code]] Adds Nested Subagent Support for Deeper Agent Hierarchies
 - **2026-06-10**: Anthropic's Safety Gating Extends to Coding Agents: [[microsoft|Microsoft]] Azure and GitHub [[copilot|Copilot]] Integration, Fable 5 Degraded for Frontier LLM-Development
 - **2026-06-10**: Anthropic Releases [[claude|Claude]] Fable 5 (Mythos-Class) with Heavy Safety Guardrails, Sparking Backlash

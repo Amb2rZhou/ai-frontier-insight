@@ -2,7 +2,7 @@
 title: Gemma
 type: product
 created: 2026-04-03
-updated: 2026-06-09
+updated: 2026-06-11
 ---
 
 # Gemma
@@ -11,6 +11,8 @@ updated: 2026-06-09
 
 ## Timeline
 
+- **2026-06-11**: [[hugging-face|HuggingFace]], [[google-deepmind|Google]] & AI Community Launch 'Gemma Challenge' Against [[anthropic|Anthropic]]'s Safety Model
+- **2026-06-11**: [[google-deepmind|Google DeepMind]] Releases DiffusionGemma: Open-Source Text Diffusion Model
 - **2026-06-09**: llama.cpp Adds Video Input Support for Gemma 4
 - **2026-06-07**: [[ollama|Ollama]] v0.30.6: Adds Gemma 4 QAT Optimized Weights for On-Device Deployment
 - **2026-06-04**: [[hugging-face|HuggingFace]] Transformers v5.10.1 Adds Official Support for Gemma4 with MTP (Multi-Token Prediction) Architecture

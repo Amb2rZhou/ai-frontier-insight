@@ -2,7 +2,7 @@
 title: Codex
 type: product
 created: 2026-02-25
-updated: 2026-06-10
+updated: 2026-06-11
 ---
 
 # Codex
@@ -11,6 +11,7 @@ updated: 2026-06-10
 
 ## Timeline
 
+- **2026-06-11**: [[anthropic|Anthropic]] Fable 5 Launch Sparks Major Backlash: Overly Aggressive Safety Refusals Blocking Researchers
 - **2026-06-10**: [[openai|OpenAI]]'s Codex Goal Feature Goes Interactive: New 'Nested Loop' Capability Emerging
 - **2026-05-31**: Vibecode Pro Max Kit: Addresses [[agent-frameworks|AI Agent]] ‘Context Rot’ with Spec-Driven Memory
 - **2026-05-31**: ADHD: Tree-of-Thought Coding Agent for [[claude|Claude]] & Codex Gains Traction

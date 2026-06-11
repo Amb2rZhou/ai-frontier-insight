@@ -1,66 +1,6 @@
 {
   "predictions": [
     {
-      "date": "2026-05-31T11:40:27.153787+08:00",
-      "prediction_text": "内容平台的创意工具Agent（如图像描述生成、文案迭代）建议引入思维树策略提升输出多样性。",
-      "category": "research_breakthrough",
-      "source_signal": "ADHD: Tree-of-Thought Coding Agent for Claude & Codex Gains Traction"
-    },
-    {
-      "date": "2026-05-31T11:40:27.156846+08:00",
-      "prediction_text": "社区平台的AI助手/客服Agent值得关注上下文持久化方案，防止长会话中遗忘用户偏好。",
-      "category": "infrastructure",
-      "source_signal": "Vibecode Pro Max Kit: Addresses AI Agent ‘Context Rot’ with Spec-Driven Memory"
-    },
-    {
-      "date": "2026-05-31T11:40:27.159920+08:00",
-      "prediction_text": "内容审核、商品比价等场景可以考虑构建审核Agent与生成Agent的对抗校验机制。",
-      "category": "open_source",
-      "source_signal": "Duel Agents: New Framework for Multi-Agent Competition and Collaboration"
-    },
-    {
-      "date": "2026-05-31T11:40:27.162634+08:00",
-      "prediction_text": "社区平台建议建立“人才流向+新兴社交产品”监控机制，提前捕捉AI+社交范式迁移信号。",
-      "category": "ecosystem_shift",
-      "source_signal": "Snap Alumni Launch ‘Ghost Angels’ Fund to Back Next-Gen Social Media"
-    },
-    {
-      "date": "2026-06-03T11:04:32.856824+08:00",
-      "prediction_text": "内容平台 UGC Agent/创作助手的代码执行环境建议探索复用 MXC 架构，降低安全合规风险。",
-      "category": "infrastructure",
-      "source_signal": "Microsoft Launches MXC: OS-Level Sandbox for AI Agents with OpenAI and Nvidia Backing"
-    },
-    {
-      "date": "2026-06-03T11:04:32.864225+08:00",
-      "prediction_text": "社区/电商平台可以考虑将视频内容理解（商品识别/场景标签）迁移至 Qwen3.7-P 等低成本多模态模型。",
-      "category": "model_release",
-      "source_signal": "Alibaba Releases Qwen3.7-Plus: Multimodal LLM with Text, Video, and Image Input at Competitive Pricing"
-    },
-    {
-      "date": "2026-06-03T11:04:32.869460+08:00",
-      "prediction_text": "社区平台的运营/客服 Agent 建议探索“团队共享成员”形态，以自然语言交互嵌入工作流。",
-      "category": "strategic_move",
-      "source_signal": "Microsoft Scout: AI Coworker Agent for Teams Automates Office Tasks"
-    },
-    {
-      "date": "2026-06-03T11:04:32.873927+08:00",
-      "prediction_text": "搜索/推荐系统团队值得评估将部分高频推理（如实时搜索摘要）下沉至本地模型，降低云端成本。",
-      "category": "research_breakthrough",
-      "source_signal": "Perplexity AI Unveils Hybrid Local-Cloud Inference System at Computex 2026"
-    },
-    {
-      "date": "2026-06-03T11:04:32.877274+08:00",
-      "prediction_text": "内容平台在推进 Agent 矩阵时，建议优先构建统一的安全监控与错误恢复层，而非追求更多功能。",
-      "category": "infrastructure",
-      "source_signal": "Enterprise AI Has a Runtime Problem, Not a Model Problem: VentureBeat Pulse Research"
-    },
-    {
-      "date": "2026-06-03T11:04:32.879166+08:00",
-      "prediction_text": "社区平台在设计推荐/审核/客服多个 Agent 时，建议统一业务知识图谱与权限策略层，避免各自为政。",
-      "category": "infrastructure",
-      "source_signal": "Microsoft IQ and Rayfin: Solving Enterprise AI Agent Data Silos"
-    },
-    {
       "date": "2026-06-03T11:04:32.880571+08:00",
       "prediction_text": "内容安全团队可以考虑将政策/条款分析类审核任务直接交由 LLM 执行，减少规则工程师干预。",
       "category": "research_breakthrough",
@@ -599,6 +539,66 @@
       "prediction_text": "AI 工厂对专业评估、数据合成、环境模拟的需求持续扩大，建议考虑面向垂直领域（法律、医疗）的评估工具创业。",
       "category": "infrastructure",
       "source_signal": "Surge AI Reaches $1B Revenue: Bootstrapped Data Infrastructure for Frontier AI Labs"
+    },
+    {
+      "date": "2026-06-11T11:02:30.043345+08:00",
+      "prediction_text": "赛道窗口转向“可控实用主义”安全方案，建议探索 Agent 安全可配置中间件，而非硬性拒答。",
+      "category": "model_release",
+      "source_signal": "Anthropic Fable 5 Launch Sparks Major Backlash: Overly Aggressive Safety Refusals Blocking Researchers"
+    },
+    {
+      "date": "2026-06-11T11:02:30.057162+08:00",
+      "prediction_text": "扩散 LLM 的低推理成本将催生端侧实时应用，建议关注本地 Diff-LLM 推理引擎与相关工具链创业。",
+      "category": "research_breakthrough",
+      "source_signal": "Google DeepMind Releases DiffusionGemma: Open-Source Text Diffusion Model"
+    },
+    {
+      "date": "2026-06-11T11:02:30.066187+08:00",
+      "prediction_text": "第三方 AI 审计与模型评估服务需求爆发，建议投资从事 Red-Teaming 即服务的合规基础设施。",
+      "category": "strategic_move",
+      "source_signal": "Anthropic CEO Dario Amodei Calls for FAA-Style AI Regulation in Major Policy Essay"
+    },
+    {
+      "date": "2026-06-11T11:02:30.074883+08:00",
+      "prediction_text": "Agent 能力评估标准化加速，建议探索面向企业采购的 Agent Benchmark 订阅和分析工具。",
+      "category": "ecosystem_shift",
+      "source_signal": "New 'Agents' Last Exam' Benchmark Shows GPT-5.5 Outperforming Claude Fable 5"
+    },
+    {
+      "date": "2026-06-11T11:02:30.083560+08:00",
+      "prediction_text": "AI 公司安全合规组织架构咨询需求上升，值得关注“AI 安全人力资源”与“告密者防御”相关创业。",
+      "category": "strategic_move",
+      "source_signal": "OpenAI Hires Cybersecurity Leaders; xAI Engineer Sues Over Grok Safety Firing"
+    },
+    {
+      "date": "2026-06-11T11:02:30.092027+08:00",
+      "prediction_text": "开源模型社区化运营与开发者关系（DevRel）服务成为高价值刚需，建议考虑生态代运营创业。",
+      "category": "ecosystem_shift",
+      "source_signal": "HuggingFace, Google & AI Community Launch 'Gemma Challenge' Against Anthropic's Safety Model"
+    },
+    {
+      "date": "2026-06-11T11:02:30.100379+08:00",
+      "prediction_text": "垂直领域定制 LLM 门槛消失，建议投资低成本模型微调与私有化部署服务，而非基础大模型本身。",
+      "category": "research_breakthrough",
+      "source_signal": "Sapient Claims Foundation Model Trained from Scratch for ~$1,500"
+    },
+    {
+      "date": "2026-06-11T11:02:30.107092+08:00",
+      "prediction_text": "Agent 编排与子任务分发工具链需求激增，建议开发面向多模型编排的管理监控平台。",
+      "category": "infrastructure",
+      "source_signal": "Perplexity AI Integrates Claude Fable 5 as Orchestrator for 'Computer'"
+    },
+    {
+      "date": "2026-06-11T11:02:30.113809+08:00",
+      "prediction_text": "RL/Post-Training 即服务（RaaS）催生新赛道，建议关注提供后训练评估与持续学习 SDK 的基础设施公司。",
+      "category": "infrastructure",
+      "source_signal": "River API: New Startup Offers Post-Training and RL as a Service"
+    },
+    {
+      "date": "2026-06-11T11:02:30.120684+08:00",
+      "prediction_text": "交互式娱乐原型生成作为新品类出现，建议探索面向儿童教育、广告创意的低代码 AI 游戏生成平台。",
+      "category": "product_launch",
+      "source_signal": "Project Genie Expands Globally: Google Offers AI Game & App Generation to Subscribers"
     }
   ]
 }
