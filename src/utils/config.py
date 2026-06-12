@@ -6,7 +6,14 @@ import yaml
 # Project root: two levels up from this file (src/utils/config.py → project root)
 PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 CONFIG_DIR = os.path.join(PROJECT_ROOT, "config")
-MEMORY_DIR = os.path.join(PROJECT_ROOT, "memory")
+
+# Pipeline profile: 并行管线隔离（如部门版 dept）。设置 PIPELINE_PROFILE=dept 后，
+# 记忆状态切到 memory_dept/（趋势/去重历史与个人版互不污染），
+# prompt 优先从 prompts/dept/ 加载（缺失的模板回落到 prompts/ 共用版）。
+PIPELINE_PROFILE = os.environ.get("PIPELINE_PROFILE", "").strip()
+MEMORY_DIR = os.path.join(
+    PROJECT_ROOT, f"memory_{PIPELINE_PROFILE}" if PIPELINE_PROFILE else "memory"
+)
 PROMPTS_DIR = os.path.join(PROJECT_ROOT, "prompts")
 DRAFTS_DIR = os.path.join(CONFIG_DIR, "drafts")
 
@@ -68,6 +75,10 @@ def load_prompt(name: str, **kwargs) -> str:
         substituted by the live wiki entity slug dictionary) and substituted in.
     """
     path = os.path.join(PROMPTS_DIR, f"{name}.txt")
+    if PIPELINE_PROFILE:
+        profile_path = os.path.join(PROMPTS_DIR, PIPELINE_PROFILE, f"{name}.txt")
+        if os.path.exists(profile_path):
+            path = profile_path
     with open(path, "r", encoding="utf-8") as f:
         template = f.read()
 

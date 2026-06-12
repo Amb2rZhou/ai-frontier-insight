@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-11T11:02:46.359432+08:00",
+  "last_updated": "2026-06-12T11:11:55.067687+08:00",
   "trends": [
     {
       "id": "ai_safety_pivot_and_accelerated_agi_time",
@@ -15,9 +15,8 @@
         "Corporate Strategy"
       ],
       "trajectory": "accelerating",
-      "signal_count": 132,
+      "signal_count": 133,
       "weekly_counts": [
-        1,
         1,
         0,
         2,
@@ -28,7 +27,8 @@
         0,
         1,
         3,
-        3
+        3,
+        1
       ],
       "key_events": [
         {
@@ -82,6 +82,10 @@
         {
           "date": "2026-06-11",
           "event": "Anthropic Fable 5 Launch Sparks Major Backlash: Overly Aggressive Safety Refusals Blocking Researchers; Anthropic CEO Dario Amodei Calls for FAA-Style AI Regulation in Major Policy Essay"
+        },
+        {
+          "date": "2026-06-12",
+          "event": "Google DeepMind Launches $10M Research Fund for Multi-Agent Collective Behavior Safety"
         }
       ],
       "created": "2026-02-25"
@@ -100,9 +104,8 @@
         "Business Models"
       ],
       "trajectory": "accelerating",
-      "signal_count": 115,
+      "signal_count": 116,
       "weekly_counts": [
-        1,
         2,
         1,
         0,
@@ -113,7 +116,8 @@
         0,
         3,
         2,
-        3
+        3,
+        1
       ],
       "key_events": [
         {
@@ -311,6 +315,10 @@
         {
           "date": "2026-06-11",
           "event": "Google DeepMind Releases DiffusionGemma: Open-Source Text Diffusion Model; HuggingFace, Google & AI Community Launch 'Gemma Challenge' Against Anthropic's Safety Model; Sapient Claims Foundation Model Trained from Scratch for ~$1,500"
+        },
+        {
+          "date": "2026-06-12",
+          "event": "Xiaomi Open-Sources MiMo Code: Outperforms Claude Code on Long-Horizon Tasks"
         }
       ],
       "created": "2026-02-25"
@@ -319,19 +327,18 @@
       "id": "enterprise_ai_agent_adoption_and_product",
       "name": "Enterprise AI Agent Adoption and Product Launches",
       "related_tags": [
-        "Anthropic",
         "Enterprise AI",
+        "Siri",
+        "Industry Strategy",
+        "Anthropic",
+        "Data Governance",
         "AI Runtime",
         "VentureBeat",
-        "Data Governance",
-        "Search",
-        "Industry Strategy",
-        "Market Impact"
+        "Low-code"
       ],
       "trajectory": "accelerating",
-      "signal_count": 260,
+      "signal_count": 264,
       "weekly_counts": [
-        3,
         6,
         1,
         2,
@@ -342,53 +349,10 @@
         4,
         1,
         3,
+        2,
         2
       ],
       "key_events": [
-        {
-          "date": "2026-05-22",
-          "event": "Workday Reports 2x Quarter-over-Quarter Growth in Enterprise AI Agent Customers"
-        },
-        {
-          "date": "2026-05-27",
-          "event": "Ferrari and IBM Use AI to Create F1 Superfans: Enterprise AI Applications"
-        },
-        {
-          "date": "2026-05-27",
-          "event": "First detected"
-        },
-        {
-          "date": "2026-05-28",
-          "event": "Anthropic Launches Claude Marketplace for Third-Party Enterprise AI Tools; OpenAI Codex Enables Self-Improving Tax Agent System; Meta Launches Enterprise AI Push; Cisco and OpenAI Partner for Codex AI-Native Development"
-        },
-        {
-          "date": "2026-05-30",
-          "event": "Enterprise AI Agent Reliability Crisis: Permissions and State Management Emerge as Bottlenecks"
-        },
-        {
-          "date": "2026-05-30",
-          "event": "OpenAI Case Study: Boston Children's Hospital Uses AI to Diagnose 40+ Rare Diseases"
-        },
-        {
-          "date": "2026-05-31",
-          "event": "OpenAI's Revenue Chief Drives Enterprise Push Against Anthropic; Defense Tech Sector Matures: OpenAI vs Anthropic in Enterprise AI Sales War"
-        },
-        {
-          "date": "2026-06-03",
-          "event": "2026-06-01: Microsoft Scout AI Coworker Agent for Teams; Enterprise AI Runtime Problem Identified in VentureBeat Research; Microsoft IQ and Rayfin Solve Enterprise AI Agent Data Silos; Travelers Deploys AI Claims Assistant with OpenAI"
-        },
-        {
-          "date": "2026-06-03",
-          "event": "First detected"
-        },
-        {
-          "date": "2026-06-04",
-          "event": "Meta Eyes Up to $200/Month Subscription for Consumer 'Hatch' AI Agent"
-        },
-        {
-          "date": "2026-06-05",
-          "event": "Anthropic Reveals 80% of Production Code Authored by Claude, Sets New Enterprise Benchmark; Anthropic Annualized Revenue Surpasses $47B Ahead of IPO"
-        },
         {
           "date": "2026-06-06",
           "event": "VentureBeat: Enterprise AI Agents Lack Cross-User Learning Persistence"
@@ -410,12 +374,24 @@
           "event": "Enterprise AI Governance Crisis: Runtime and Security Gaps Identified"
         },
         {
+          "date": "2026-06-09",
+          "event": "First detected"
+        },
+        {
           "date": "2026-06-10",
           "event": "Claude Code Adds Nested Subagent Support for Deeper Agent Hierarchies; OpenAI Codex Goal Feature Adds Nested Loop Capability; Cohere Open-Sources North Mini Code for Single H100 Deployment"
         },
         {
+          "date": "2026-06-10",
+          "event": "Apple, NVIDIA, and Google Collaborate on Confidential AI for Apple Intelligence via Private Cloud Compute"
+        },
+        {
           "date": "2026-06-11",
           "event": "New 'Agents' Last Exam' Benchmark Shows GPT-5.5 Outperforming Claude Fable 5; Perplexity AI Integrates Claude Fable 5 as Orchestrator for 'Computer'"
+        },
+        {
+          "date": "2026-06-12",
+          "event": "Microsoft Open-Sources SkillOpt: Automatic AI Agent Skill Upgrades Without Weight Tuning; Anthropic Data Retention Policy Scares Off Enterprise Customers for Fable 5"
         }
       ],
       "created": "2026-02-25"
@@ -434,10 +410,9 @@
         "Model Efficiency"
       ],
       "trajectory": "accelerating",
-      "signal_count": 200,
+      "signal_count": 201,
       "weekly_counts": [
         1,
-        1,
         0,
         1,
         1,
@@ -447,7 +422,8 @@
         1,
         0,
         1,
-        2
+        2,
+        1
       ],
       "key_events": [
         {
@@ -547,9 +523,8 @@
         "Employee Activism"
       ],
       "trajectory": "accelerating",
-      "signal_count": 58,
+      "signal_count": 59,
       "weekly_counts": [
-        1,
         2,
         1,
         0,
@@ -560,6 +535,7 @@
         0,
         1,
         0,
+        1,
         1
       ],
       "key_events": [
@@ -634,6 +610,10 @@
         {
           "date": "2026-06-11",
           "event": "OpenAI Hires Cybersecurity Leaders; xAI Engineer Sues Over Grok Safety Firing"
+        },
+        {
+          "date": "2026-06-12",
+          "event": "OpenAI Acquires Ona for Secure Cloud Agent Execution"
         }
       ],
       "created": "2026-02-25"
@@ -654,7 +634,6 @@
       "trajectory": "accelerating",
       "signal_count": 279,
       "weekly_counts": [
-        4,
         3,
         3,
         2,
@@ -665,7 +644,8 @@
         3,
         2,
         3,
-        2
+        2,
+        0
       ],
       "key_events": [
         {
@@ -725,10 +705,9 @@
         "Data Pipeline"
       ],
       "trajectory": "accelerating",
-      "signal_count": 193,
+      "signal_count": 194,
       "weekly_counts": [
         3,
-        3,
         1,
         3,
         2,
@@ -738,6 +717,7 @@
         1,
         3,
         2,
+        1,
         1
       ],
       "key_events": [
@@ -780,6 +760,10 @@
         {
           "date": "2026-06-11",
           "event": "River API: New Startup Offers Post-Training and RL as a Service"
+        },
+        {
+          "date": "2026-06-12",
+          "event": "Context Compression Breakthrough: 16x LLM Input Reduction Without Accuracy Loss, Ready for Production"
         }
       ],
       "created": "2026-02-25"
@@ -800,7 +784,6 @@
       "trajectory": "accelerating",
       "signal_count": 102,
       "weekly_counts": [
-        2,
         0,
         0,
         1,
@@ -811,7 +794,8 @@
         1,
         1,
         1,
-        1
+        1,
+        0
       ],
       "key_events": [
         {
@@ -889,7 +873,6 @@
       "trajectory": "stable",
       "signal_count": 76,
       "weekly_counts": [
-        1,
         2,
         1,
         1,
@@ -897,6 +880,7 @@
         1,
         0,
         1,
+        0,
         0,
         0,
         0,
@@ -1002,7 +986,6 @@
       "trajectory": "accelerating",
       "signal_count": 121,
       "weekly_counts": [
-        3,
         2,
         3,
         0,
@@ -1013,7 +996,8 @@
         0,
         0,
         0,
-        1
+        1,
+        0
       ],
       "key_events": [
         {
@@ -1097,9 +1081,8 @@
         "Partnership"
       ],
       "trajectory": "accelerating",
-      "signal_count": 26,
+      "signal_count": 27,
       "weekly_counts": [
-        2,
         0,
         0,
         2,
@@ -1108,6 +1091,7 @@
         1,
         1,
         0,
+        1,
         1,
         1,
         1
@@ -1156,6 +1140,10 @@
         {
           "date": "2026-06-10",
           "event": "Surge AI Reaches $1B Bootstrapped Revenue as Data Infrastructure for Frontier AI Labs"
+        },
+        {
+          "date": "2026-06-12",
+          "event": "OpenAI Negotiates Landmark 10-Gigawatt Data Center Campus Lease in Ohio"
         }
       ],
       "created": "2026-02-28"
@@ -1177,7 +1165,8 @@
         1,
         1,
         1,
-        1
+        1,
+        0
       ],
       "key_events": [
         {
@@ -1204,34 +1193,76 @@
       "created": "2026-06-08"
     },
     {
-      "id": "apple_ecosystem_ai_transformation",
-      "name": "Apple Ecosystem AI Transformation",
+      "id": "ai_infrastructure_buildout_and_energy_sc",
+      "name": "AI Infrastructure Buildout and Energy Scaling",
       "related_tags": [
-        "Apple",
-        "Siri",
-        "WWDC",
-        "Google Gemini",
-        "iOS 27",
-        "Browser Extensions",
-        "Low-code"
+        "Data Center",
+        "Energy",
+        "Infrastructure",
+        "Compute",
+        "Supply Chain",
+        "Semiconductor",
+        "Cloud Infrastructure"
       ],
       "trajectory": "accelerating",
-      "signal_count": 2,
+      "signal_count": 1,
       "weekly_counts": [
-        1,
         1
       ],
       "key_events": [
         {
-          "date": "2026-06-09",
+          "date": "2026-06-12",
           "event": "First detected"
-        },
-        {
-          "date": "2026-06-10",
-          "event": "Apple, NVIDIA, and Google Collaborate on Confidential AI for Apple Intelligence via Private Cloud Compute"
         }
       ],
-      "created": "2026-06-09"
+      "created": "2026-06-12"
+    },
+    {
+      "id": "ai_developer_ecosystem_and_platform_expa",
+      "name": "AI Developer Ecosystem and Platform Expansion",
+      "related_tags": [
+        "xAI",
+        "Grok",
+        "Plugin Marketplace",
+        "Developer Tools",
+        "Ecosystem",
+        "Platform"
+      ],
+      "trajectory": "accelerating",
+      "signal_count": 1,
+      "weekly_counts": [
+        1
+      ],
+      "key_events": [
+        {
+          "date": "2026-06-12",
+          "event": "First detected"
+        }
+      ],
+      "created": "2026-06-12"
+    },
+    {
+      "id": "ai_agent_infrastructure_and_secure_execu",
+      "name": "AI Agent Infrastructure and Secure Execution",
+      "related_tags": [
+        "Agent Security",
+        "Cloud Execution",
+        "M&A",
+        "Model Optimization",
+        "Enterprise AI"
+      ],
+      "trajectory": "accelerating",
+      "signal_count": 1,
+      "weekly_counts": [
+        1
+      ],
+      "key_events": [
+        {
+          "date": "2026-06-12",
+          "event": "First detected"
+        }
+      ],
+      "created": "2026-06-12"
     }
   ]
 }

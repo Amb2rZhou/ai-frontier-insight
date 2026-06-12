@@ -48,5 +48,9 @@ else
     git push >> "$LOG" 2>&1 && log "push 完成" || log "push 失败"
 fi
 
+# 4. 链式触发部门版日报（复用本次采集的 raw 缓存，独立 profile，失败不影响个人版）
+log "运行部门版日报..."
+/bin/bash "$REPO/scripts/dept_brief.sh" || log "部门版失败（个人版不受影响，详见 logs/dept-$DATE.log）"
+
 find "$REPO/logs" -name "daily-*.log" -mtime +14 -delete 2>/dev/null || true
 log "===== 完成 ====="

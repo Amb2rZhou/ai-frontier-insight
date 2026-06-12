@@ -5,7 +5,8 @@
 末尾附趋势总结和网站完整版链接。
 
 环境变量：DINGTALK_WEBHOOK, DINGTALK_SECRET（从 .env 加载）。
-用法：python scripts/push_dingtalk.py [YYYY-MM-DD]
+用法：python scripts/push_dingtalk.py [YYYY-MM-DD] [--dept]
+  --dept  推部门版（读 data/dept_daily/，标题标「部门版试运行」，不带个人网站链接）
 """
 import os
 import sys
@@ -24,10 +25,10 @@ MAX_LEN = 18000  # 钉钉 markdown 上限约 20000 字符，留余量
 REPO = Path(__file__).resolve().parents[1]
 
 
-def build_message(md_path: Path) -> str:
+def build_message(md_path: Path, dept: bool = False) -> str:
     lines = md_path.read_text(encoding="utf-8").splitlines()
     out, in_trend = [], False
-    out.append("## 📡 AI 前沿日报")
+    out.append("## 🏢 AI 日报 · 部门版（试运行）" if dept else "## 📡 AI 前沿日报")
     for ln in lines:
         s = ln.strip()
         if s.startswith("### Signal"):
@@ -46,10 +47,14 @@ def build_message(md_path: Path) -> str:
         elif in_trend and s and not s.startswith("#") and not s.startswith("---") and not s.startswith("*AI"):
             out.append(s)
     out.append("")
-    out.append(f"[查看完整版 →]({SITE_URL})")
+    if dept:
+        out.append("*部门版试运行中，视角/选题反馈请直接找 Amber*")
+    else:
+        out.append(f"[查看完整版 →]({SITE_URL})")
     text = "\n\n".join(out)
     if len(text) > MAX_LEN:
-        text = text[:MAX_LEN] + f"\n\n…（内容过长已截断）[完整版 →]({SITE_URL})"
+        tail = "\n\n…（内容过长已截断）" if dept else f"\n\n…（内容过长已截断）[完整版 →]({SITE_URL})"
+        text = text[:MAX_LEN] + tail
     return text
 
 
@@ -67,16 +72,21 @@ def main():
         print("::error:: 缺少 DINGTALK_WEBHOOK 或 DINGTALK_SECRET")
         sys.exit(1)
 
-    day = sys.argv[1] if len(sys.argv) > 1 else date.today().isoformat()
-    md_path = REPO / "data" / "daily" / day / f"{day}_daily.md"
+    args = sys.argv[1:]
+    dept = "--dept" in args
+    dates = [a for a in args if not a.startswith("--")]
+    day = dates[0] if dates else date.today().isoformat()
+    subdir = "dept_daily" if dept else "daily"
+    md_path = REPO / "data" / subdir / day / f"{day}_daily.md"
     if not md_path.exists():
         print(f"::error:: 当天日报不存在: {md_path}")
         sys.exit(1)
 
-    text = build_message(md_path)
+    text = build_message(md_path, dept=dept)
+    title = "AI 日报·部门版" if dept else "AI 前沿日报"  # 含 "AI" 满足关键词
     body = json.dumps({
         "msgtype": "markdown",
-        "markdown": {"title": "AI 前沿日报", "text": text},  # 含 "AI" 满足关键词
+        "markdown": {"title": title, "text": text},
         "at": {"isAtAll": False},
     }).encode("utf-8")
 

@@ -13,6 +13,34 @@ from .config import PROJECT_ROOT
 DATA_DIR = os.path.join(PROJECT_ROOT, "data")
 DAILY_DIR = os.path.join(DATA_DIR, "daily")
 X_MONITOR_DIR = os.path.join(DATA_DIR, "x-monitor")
+RAW_CACHE_DIR = os.path.join(DATA_DIR, "raw_cache")
+
+
+def save_raw_cache(date_str: str, raw_items: list) -> str:
+    """缓存当日完整 raw items，供并行管线（如部门版日报）复用采集结果。
+
+    gitignored（data/raw_cache/），只保留近 3 天。
+    """
+    os.makedirs(RAW_CACHE_DIR, exist_ok=True)
+    path = os.path.join(RAW_CACHE_DIR, f"{date_str}.json")
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump([item.to_dict() for item in raw_items], f, ensure_ascii=False)
+    cutoff = (datetime.now() - timedelta(days=3)).strftime("%Y-%m-%d")
+    for fn in os.listdir(RAW_CACHE_DIR):
+        if fn.endswith(".json") and fn[:-5] < cutoff:
+            os.remove(os.path.join(RAW_CACHE_DIR, fn))
+    return path
+
+
+def load_raw_cache(date_str: str):
+    """读取当日 raw 缓存并还原为 RawItem 列表；无缓存返回 None。"""
+    path = os.path.join(RAW_CACHE_DIR, f"{date_str}.json")
+    if not os.path.exists(path):
+        return None
+    from ..collectors.base import RawItem
+    with open(path, "r", encoding="utf-8") as f:
+        data = json.load(f)
+    return [RawItem(**d) for d in data]
 
 
 def archive_daily(date_str: str, raw_items: list, insights: list, trend_summary: str):

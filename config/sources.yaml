@@ -62,7 +62,7 @@ arxiv:
     - "cs.LG"   # Machine Learning
     - "cs.CV"   # Computer Vision
     - "cs.MA"   # Multi-Agent Systems
-  max_results: 25
+  max_results: 15  # 部门级视角下调（2026-06-11）：论文仅作平台底座信号，prompt 侧另有双重门槛
   sort_by: "submittedDate"
 
 # ═══════════════════════════════════════════════════
@@ -196,6 +196,39 @@ rss:
       name: "Lil'Log (Lilian Weng)"
       group: "research_blog"
       enabled: true
+
+    # ── Fintech / AI Commerce（部门级视角新增，2026-06-11）──
+    # 服务关注面：agentic commerce、AI 商业化、支付同业战略
+    - url: "https://stripe.com/blog/feed.rss"
+      name: "Stripe Blog"
+      group: "fintech_commerce"
+      enabled: true
+    - url: "https://fintechnews.sg/feed/"
+      name: "Fintech News Singapore"
+      group: "fintech_commerce"
+      enabled: true
+    - url: "https://www.pymnts.com/feed/"
+      name: "PYMNTS"
+      group: "fintech_commerce"
+      enabled: false  # 403 反爬（2026-06-11），待换源或加 header 重试
+    - url: "https://www.finextra.com/rss/headlines.aspx"
+      name: "Finextra"
+      group: "fintech_commerce"
+      enabled: false  # 403 反爬（2026-06-11），待换源或加 header 重试
+
+    # ── 商业分析 / 行业洞察（部门级视角新增，2026-06-11）──
+    - url: "https://www.techmeme.com/feed.xml"
+      name: "Techmeme"
+      group: "business_insight"
+      enabled: true
+    - url: "https://www.ben-evans.com/benedictevans?format=rss"
+      name: "Benedict Evans"
+      group: "business_insight"
+      enabled: true
+    - url: "https://www.cbinsights.com/research/feed/"
+      name: "CB Insights Research"
+      group: "business_insight"
+      enabled: true  # 返回 202（可能有 CDN 挑战），观察几天采集情况
 
     # ── Benchmark / Leaderboard ──
     - url: "https://blog.lmarena.ai/feed"

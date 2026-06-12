@@ -179,6 +179,11 @@ def cmd_daily():
         print("No items collected, aborting")
         sys.exit(1)
 
+    # Step 1.5: Cache full raw items for parallel pipelines (dept brief 复用采集)
+    from .utils.archive import save_raw_cache
+    cache_path = save_raw_cache(today, raw_items)
+    print(f"  - Raw cache saved: {cache_path}")
+
     # Step 2: Extract signals
     print("\n[Analysis] Extracting signals...")
     signals = extract_signals(raw_items)
@@ -315,6 +320,65 @@ def cmd_send_weekly():
     print("Not yet implemented (Phase 3)")
 
 
+def cmd_dept_daily():
+    """部门版日报（与个人版并行、状态完全隔离）。
+
+    必须经 scripts/dept_brief.sh 触发（设置 PIPELINE_PROFILE=dept），从而：
+    - prompt 走 prompts/dept/（团队视角），缺失的模板回落共用版
+    - 趋势/去重记忆走 memory_dept/，与个人版互不污染
+    采集复用：优先读个人版 11:00 跑完缓存的 data/raw_cache/{date}.json，
+    缺失时（个人版失败/未跑）兜底自行采集。
+    产物只写 data/dept_daily/{date}/，不推钉钉、不进 wiki、不发个人网站。
+    """
+    from .utils.config import PIPELINE_PROFILE
+    if PIPELINE_PROFILE != "dept":
+        print("dept-daily 必须在 PIPELINE_PROFILE=dept 下运行（请用 scripts/dept_brief.sh），"
+              "否则会污染个人版的趋势/去重记忆。终止。")
+        sys.exit(1)
+
+    today = _get_today()
+    print(f"=== Dept Brief Pipeline: {today} ===")
+
+    # Step 1: Reuse cached raw items; fallback to fresh collection
+    from .utils.archive import load_raw_cache
+    raw_items = load_raw_cache(today)
+    if raw_items:
+        print(f"[Collect] Reusing raw cache: {len(raw_items)} items")
+    else:
+        print("[Collect] No raw cache found, collecting fresh...")
+        raw_items = _collect_all()
+    if not raw_items:
+        print("No items available, aborting")
+        sys.exit(1)
+
+    # Step 2: Extract signals (dept prompt + dept memory)
+    print("\n[Analysis] Extracting signals (dept perspective)...")
+    signals = extract_signals(raw_items)
+    if not signals:
+        print("No signals extracted, aborting")
+        sys.exit(1)
+
+    # Step 3: Generate insights
+    print("\n[Analysis] Generating insights (dept perspective)...")
+    insights = generate_insights(signals)
+    if not insights:
+        print("Insight generation failed, using raw signals")
+        insights = signals
+
+    # Step 4: Trend summary + trend memory (dept-isolated)
+    print("\n[Analysis] Generating trend summary...")
+    trend_summary = generate_trend_summary(signals)
+    print("\n[Memory] Updating dept trends...")
+    update_trends(signals)
+    save_daily_signals(today, [s for s in signals])
+
+    # Step 5: Export markdown to data/dept_daily/{date}/ (gitignored)
+    dept_dir = str(Path(__file__).resolve().parents[1] / "data" / "dept_daily" / today)
+    export_daily_markdown(today, insights, trend_summary, output_dir=dept_dir)
+    print(f"\n=== Dept brief complete: {len(insights)} insights ===")
+    print(f"Output: {dept_dir}/{today}_daily.md")
+
+
 def cmd_cleanup():
     """Clean up old drafts and archived data."""
     print("=== Cleanup ===")
@@ -333,6 +397,7 @@ def main():
     command = sys.argv[1]
     commands = {
         "daily": cmd_daily,
+        "dept-daily": cmd_dept_daily,
         "send-daily": cmd_send_daily,
         "weekly": cmd_weekly,
         "send-weekly": cmd_send_weekly,

@@ -972,6 +972,253 @@
           107
         ]
       }
+    ],
+    "2026-06-12": [
+      {
+        "title": "OpenAI Acquires Ona for Secure Cloud Agent Execution",
+        "signal_text": "OpenAI 宣布收购安全云执行平台 Ona，该技术将集成到 Codex 中，使 AI 代理能在笔记本电脑关闭后持续运行长时间任务，并帮助组织安全地将代理部署到生产环境。OpenAI CEO Sam Altman 和总裁 Greg Brockman 均表示欢迎，Codex 负责人 Thibault Sottiaux 称“Codex 🤟 Ona”。此举标志着 OpenAI 在代理基础设施安全性方面的重大战略投入，来源为 OpenAI 官方新闻室推文及 The Information 报道。",
+        "signal_strength": 0.95,
+        "sources": [
+          {
+            "name": "OpenAI Newsroom (Twitter/X)",
+            "url": "https://x.com/OpenAINewsroom/status/2065088002335158753"
+          },
+          {
+            "name": "Sam Altman (Twitter/X)",
+            "url": "https://x.com/sama/status/2065160791205310565"
+          },
+          {
+            "name": "Greg Brockman (Twitter/X)",
+            "url": "https://x.com/gdb/status/2065155654286020628"
+          },
+          {
+            "name": "Thibault Sottiaux (Twitter/X)",
+            "url": "https://x.com/thsottiaux/status/2065193272952422852"
+          }
+        ],
+        "tags": [
+          "OpenAI",
+          "Codex",
+          "Agent Security",
+          "M&A",
+          "Cloud Infrastructure"
+        ],
+        "raw_item_indices": [
+          94,
+          112,
+          115,
+          145
+        ]
+      },
+      {
+        "title": "Google DeepMind Launches $10M Research Fund for Multi-Agent Collective Behavior Safety",
+        "signal_text": "Google DeepMind 联合 Schmidt Sciences、Cooperative AI Foundation、ARIA 等机构，启动一项 1000 万美元的研究基金，旨在研究当数百万个 AI 代理在线交互时可能出现的集体行为及其潜在危险。该基金由 DeepMind 的 AGI 安全与对齐研究负责人 Rohin Shah 主导。来源为 DeepMind 官方推文及 MIT Technology Review 报道，互动量超 21k 次浏览。",
+        "signal_strength": 0.92,
+        "sources": [
+          {
+            "name": "Google DeepMind (Twitter/X)",
+            "url": "https://x.com/GoogleDeepMind/status/2065031279213441309"
+          },
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/"
+          }
+        ],
+        "tags": [
+          "Google DeepMind",
+          "AI Safety",
+          "Multi-Agent",
+          "Research Fund",
+          "AGI Alignment"
+        ],
+        "raw_item_indices": [
+          32,
+          74
+        ]
+      },
+      {
+        "title": "Anthropic Data Retention Policy Scares Off Enterprise Customers for Fable 5",
+        "signal_text": "据 The Information 报道，Anthropic 在其最新的 Fable 5（Mythos-class）模型使用协议中加入了一项不寻常的条款：有权保留客户输入模型的全部流量数据长达 30 天。这导致微软等一些大客户暂未采用 Fable 5。同时，Palantir CEO Alex Karp 也趁机向客户推销自家平台，称“直接找 LLM 提供商你会觉得自己更穷”。",
+        "signal_strength": 0.91,
+        "sources": [
+          {
+            "name": "The Information (Twitter/X)",
+            "url": "https://x.com/theinformation/status/2065200283244782048"
+          },
+          {
+            "name": "The Information (Twitter/X)",
+            "url": "https://x.com/theinformation/status/2065211367406047426"
+          }
+        ],
+        "tags": [
+          "Anthropic",
+          "Claude Fable 5",
+          "Data Privacy",
+          "Enterprise Risk",
+          "Customer Trust"
+        ],
+        "raw_item_indices": [
+          142,
+          137
+        ]
+      },
+      {
+        "title": "OpenAI Negotiates Landmark 10-Gigawatt Data Center Campus Lease in Ohio",
+        "signal_text": "据 The Information 独家报道，OpenAI 正就租赁俄亥俄州一个拟建的 10 吉瓦数据中心园区进行高级谈判，NVIDIA 也在讨论为该项目的融资提供支持。若达成，这将是 OpenAI 有史以来最大的基础设施承诺，凸显其在确保未来算力与芯片供应上的紧迫性。",
+        "signal_strength": 0.9,
+        "sources": [
+          {
+            "name": "The Information (Twitter/X)",
+            "url": "https://x.com/theinformation/status/2065132023224717517"
+          }
+        ],
+        "tags": [
+          "OpenAI",
+          "Data Center",
+          "Infrastructure",
+          "NVIDIA",
+          "Ohio"
+        ],
+        "raw_item_indices": [
+          124
+        ]
+      },
+      {
+        "title": "Xiaomi Open-Sources MiMo Code: Outperforms Claude Code on Long-Horizon Tasks",
+        "signal_text": "小米 AI 团队开源了终端原生 AI 编程助手 MiMo Code V0.1.0，据 VentureBeat 报道，该工具在代理式编程和软件工程基准测试中超越了 Anthropic 的 Claude Code，尤其在超长 200+ 步骤任务上表现突出。这是中国硬件巨头在 AI 编码工具领域的重要开源动作，对开发者生态具有实质影响。",
+        "signal_strength": 0.88,
+        "sources": [
+          {
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/technology/xiaomis-new-open-source-agentic-ai-coding-harness-mimo-code-beats-claude-code-at-ultra-long-200-step-tasks"
+          },
+          {
+            "name": "Techmeme",
+            "url": "https://www.techmeme.com/260611/p51#a260611p51"
+          }
+        ],
+        "tags": [
+          "Xiaomi",
+          "Open Source",
+          "AI Coding",
+          "Agentic AI",
+          "Benchmark"
+        ],
+        "raw_item_indices": [
+          8,
+          13
+        ]
+      },
+      {
+        "title": "Anthropic Plans to Control Own Servers, Seeks Google Backing for Computing Infrastructure",
+        "signal_text": "据 The Information 独家报道，Anthropic 正推进一项计划，通过控制自己的服务器来开发 AI，以长期降低计算成本。据悉，Anthropic 已与 Google 讨论由 Google 为其部分服务器提供财务担保的安排。这是 AI 头部公司向上游算力基础设施垂直整合的最新信号。",
+        "signal_strength": 0.87,
+        "sources": [
+          {
+            "name": "The Information (Twitter/X)",
+            "url": "https://x.com/theinformation/status/2065111461710508258"
+          }
+        ],
+        "tags": [
+          "Anthropic",
+          "Infrastructure",
+          "Compute",
+          "Google",
+          "Vertical Integration"
+        ],
+        "raw_item_indices": [
+          82
+        ]
+      },
+      {
+        "title": "Microsoft Open-Sources SkillOpt: Automatic AI Agent Skill Upgrades Without Weight Tuning",
+        "signal_text": "微软开源了 SkillOpt，该工具能够在不触及模型权重的情况下，自动升级 AI 代理的技能集。SkillOpt 通过优化存储在 Markdown 文件中的指令集（即 agent skills），使模型能适应特定企业用例和复杂工作流。据 VentureBeat 报道，这为 enterprise AI agent 的持续优化提供了新的范式。",
+        "signal_strength": 0.85,
+        "sources": [
+          {
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/orchestration/microsofts-open-source-skillopt-automatically-upgrades-ai-agent-skills-without-touching-model-weights"
+          }
+        ],
+        "tags": [
+          "Microsoft",
+          "Open Source",
+          "Enterprise AI",
+          "Agent Skills",
+          "Model Optimization"
+        ],
+        "raw_item_indices": [
+          12
+        ]
+      },
+      {
+        "title": "Google Considers Samsung for Manufacturing Key Component of Future AI Chip",
+        "signal_text": "据 The Information 报道，Google 正考虑让三星电子在制造其最先进的未来 AI 芯片的关键组件中扮演关键角色。这表明 Google 在 AI 芯片供应链上寻求多元化，可能对 NVIDIA 的主导地位构成潜在挑战。",
+        "signal_strength": 0.83,
+        "sources": [
+          {
+            "name": "The Information (Twitter/X)",
+            "url": "https://x.com/theinformation/status/2065124430657761461"
+          }
+        ],
+        "tags": [
+          "Google",
+          "Samsung",
+          "AI Chip",
+          "Semiconductor",
+          "Supply Chain"
+        ],
+        "raw_item_indices": [
+          128
+        ]
+      },
+      {
+        "title": "Grok Build Plugin Marketplace Now in Beta: Integrates MongoDB, Vercel, Sentry, Cloudflare",
+        "signal_text": "xAI 宣布 Grok Build Plugin Marketplace 进入 Beta 阶段，支持从终端直接集成 MongoDB、Vercel、Sentry、Cloudflare 和 Chrome DevTools 等插件，用于数据库操作、部署、错误监控、应用构建等。该推文获得近 500 likes 和 2.8 万次浏览，表明开发者社区对 xAI 生态系统工具化的高度关注。",
+        "signal_strength": 0.82,
+        "sources": [
+          {
+            "name": "xAI (Twitter/X)",
+            "url": "https://x.com/xai/status/2065099299541893577"
+          },
+          {
+            "name": "xAI (Twitter/X)",
+            "url": "https://x.com/xai/status/2065119714658152592"
+          }
+        ],
+        "tags": [
+          "xAI",
+          "Grok",
+          "Plugin Marketplace",
+          "Developer Tools",
+          "Ecosystem"
+        ],
+        "raw_item_indices": [
+          89,
+          130
+        ]
+      },
+      {
+        "title": "Context Compression Breakthrough: 16x LLM Input Reduction Without Accuracy Loss, Ready for Production",
+        "signal_text": "VentureBeat 报道了一项新的研究成果，声称实现了上下文压缩在实际生产中的可行性，能够将 LLM 输入压缩 16 倍而不降低模型准确性。该技术解决了 Agent 运行中因检索文档、推理轨迹和对话历史导致 token 累积带来的计算瓶颈问题。来源为 VentureBeat 对相关研究的报道。",
+        "signal_strength": 0.8,
+        "sources": [
+          {
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/data/context-compression-finally-works-in-production-new-research-cuts-llm-input-16x-without-the-accuracy-hit"
+          }
+        ],
+        "tags": [
+          "Research",
+          "Context Compression",
+          "Efficiency",
+          "Cost Reduction",
+          "Inference"
+        ],
+        "raw_item_indices": [
+          28
+        ]
+      }
     ]
   },
   "archived_weeks": [

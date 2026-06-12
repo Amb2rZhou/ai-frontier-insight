@@ -2,7 +2,7 @@
 title: Claude
 type: product
 created: 2026-02-25
-updated: 2026-06-11
+updated: 2026-06-12
 ---
 
 # Claude
@@ -11,6 +11,8 @@ updated: 2026-06-11
 
 ## Timeline
 
+- **2026-06-12**: Xiaomi Open-Sources MiMo Code: Outperforms Claude Code on Long-Horizon Tasks
+- **2026-06-12**: [[anthropic|Anthropic]] Data Retention Policy Scares Off Enterprise Customers for Fable 5
 - **2026-06-11**: [[perplexity|Perplexity]] AI Integrates Claude Fable 5 as Orchestrator for 'Computer'
 - **2026-06-11**: New 'Agents' Last Exam' Benchmark Shows [[gpt|GPT-5]].5 Outperforming Claude Fable 5
 - **2026-06-11**: [[anthropic|Anthropic]] Fable 5 Launch Sparks Major Backlash: Overly Aggressive Safety Refusals Blocking Researchers

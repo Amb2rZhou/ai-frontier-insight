@@ -2,7 +2,7 @@
 title: Microsoft
 type: company
 created: 2026-02-27
-updated: 2026-06-10
+updated: 2026-06-12
 ---
 
 # Microsoft
@@ -11,6 +11,7 @@ Technology giant with major AI investments through Azure, [[copilot|Copilot]], a
 
 ## Timeline
 
+- **2026-06-12**: Microsoft Open-Sources SkillOpt: Automatic [[agent-frameworks|AI Agent]] Skill Upgrades Without Weight Tuning
 - **2026-06-10**: [[anthropic|Anthropic]]'s Safety Gating Extends to Coding Agents: Microsoft Azure and GitHub [[copilot|Copilot]] Integration, Fable 5 Degraded for Frontier LLM-Development
 - **2026-06-08**: [Update] Europe Accelerates Ditching US Big Tech: Wired Timeline Shows Government and Enterprise Migration
 - **2026-06-06**: Reid Hoffman Leaves Microsoft Board to Focus on AI Drug Discovery Startup Manus

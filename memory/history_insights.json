@@ -1,66 +1,6 @@
 {
   "predictions": [
     {
-      "date": "2026-06-03T11:04:32.880571+08:00",
-      "prediction_text": "内容安全团队可以考虑将政策/条款分析类审核任务直接交由 LLM 执行，减少规则工程师干预。",
-      "category": "research_breakthrough",
-      "source_signal": "Stanford Law Study: AI Outperforms Law Professors in Legal Analysis"
-    },
-    {
-      "date": "2026-06-03T11:04:32.881952+08:00",
-      "prediction_text": "内容平台评估第三方 AI 安全方案时，建议关注其安全测试框架的开放度与可定制性。",
-      "category": "ecosystem_shift",
-      "source_signal": "Anthropic Expands Glasswing Cybersecurity Project to 150 New Organizations"
-    },
-    {
-      "date": "2026-06-03T11:04:32.883326+08:00",
-      "prediction_text": "社区平台的用户服务 Agent 可以考虑借鉴理赔助手的对话流程设计，覆盖用户引导与纠纷调解。",
-      "category": "strategic_move",
-      "source_signal": "Travelers Deploys AI-Powered Claims Assistant with OpenAI for Customer Support"
-    },
-    {
-      "date": "2026-06-03T11:04:32.884672+08:00",
-      "prediction_text": "内容平台的 AI 风险评估体系建议引入类似的结构化能力估计算法，建立内部红队测试标准。",
-      "category": "open_source",
-      "source_signal": "ARC White-Box Estimation Challenge Launched to Improve AI Safety Estimation"
-    },
-    {
-      "date": "2026-06-04T12:43:13.293144+08:00",
-      "prediction_text": "内容平台的 AI 助手应优先设计端云协同架构，而非纯端侧或纯云端路线。",
-      "category": "strategic_move",
-      "source_signal": "Apple to Launch Overhauled Siri in September Powered by Google Cloud and Nvidia Chips"
-    },
-    {
-      "date": "2026-06-04T12:43:13.302685+08:00",
-      "prediction_text": "电商平台的商品识别/内容社区的视频理解可探索本地部署，降低云端推理成本与延迟。",
-      "category": "model_release",
-      "source_signal": "Google Releases Gemma 4 12B: Fully Local Multimodal Model for Audio, Video, and Text on 16GB Laptops"
-    },
-    {
-      "date": "2026-06-04T12:43:13.308458+08:00",
-      "prediction_text": "内容/社区平台的创作者 Agent 或 VIP 服务可考虑独立订阅模式，而非仅作为免费附加功能。",
-      "category": "strategic_move",
-      "source_signal": "Meta Eyes Up to $200/Month Subscription for Consumer 'Hatch' AI Agent"
-    },
-    {
-      "date": "2026-06-04T12:43:13.313171+08:00",
-      "prediction_text": "内容平台的多 Agent 矩阵建议参考其隔离思路，为每个产品线建立独立安全沙箱与监控层。",
-      "category": "infrastructure",
-      "source_signal": "Anthropic Publishes Detailed Engineering Breakdown of How It Contains Claude Across Products"
-    },
-    {
-      "date": "2026-06-04T12:43:13.317655+08:00",
-      "prediction_text": "社区平台的用户创作 Agent 建议内置类似操作日志与审批流程，增强用户信任和合规性。",
-      "category": "open_source",
-      "source_signal": "Vigils: Open-Source Local Control Plane for AI Agent Security and Audit"
-    },
-    {
-      "date": "2026-06-04T12:43:13.319334+08:00",
-      "prediction_text": "内容/电商平台在规划 AI 业务时需提前与云厂商锁定弹性算力合同，避免扩展瓶颈。",
-      "category": "strategic_move",
-      "source_signal": "Lovable Signs Multi-Year Deal with Google Cloud to 5x Infrastructure Usage and Expand Claude Access"
-    },
-    {
       "date": "2026-06-04T12:43:13.320732+08:00",
       "prediction_text": "内容平台的内容安全团队可关注类似安全治理倡议，提前布局生物/合成内容审核能力。",
       "category": "ecosystem_shift",
@@ -599,6 +539,66 @@
       "prediction_text": "交互式娱乐原型生成作为新品类出现，建议探索面向儿童教育、广告创意的低代码 AI 游戏生成平台。",
       "category": "product_launch",
       "source_signal": "Project Genie Expands Globally: Google Offers AI Game & App Generation to Subscribers"
+    },
+    {
+      "date": "2026-06-12T11:11:40.253436+08:00",
+      "prediction_text": "建议关注面向 Agent 的沙箱执行与长任务编排基础设施创业，是巨头收购标的的蓝海。",
+      "category": "infrastructure",
+      "source_signal": "OpenAI Acquires Ona for Secure Cloud Agent Execution"
+    },
+    {
+      "date": "2026-06-12T11:11:40.261705+08:00",
+      "prediction_text": "多 Agent 博弈的安全评估与治理工具将成为下一个合规刚需，值得早期布局。",
+      "category": "research_breakthrough",
+      "source_signal": "Google DeepMind Launches $10M Research Fund for Multi-Agent Collective Behavior Safety"
+    },
+    {
+      "date": "2026-06-12T11:11:40.270150+08:00",
+      "prediction_text": "建议探索面向企业的私有化数据安全中间件，帮助客户在闭环内使用外部最强模型。",
+      "category": "strategic_move",
+      "source_signal": "Anthropic Data Retention Policy Scares Off Enterprise Customers for Fable 5"
+    },
+    {
+      "date": "2026-06-12T11:11:40.279613+08:00",
+      "prediction_text": "独立云服务商可考虑在算力聚合与调度层创业，避开资产重投入，做 GPU 资源的流动性市场。",
+      "category": "infrastructure",
+      "source_signal": "OpenAI Negotiates Landmark 10-Gigawatt Data Center Campus Lease in Ohio"
+    },
+    {
+      "date": "2026-06-12T11:11:40.286202+08:00",
+      "prediction_text": "建议关注开源 Agent 编程框架在国产硬件与云端混合调度的生态建设，中小团队可做二次开发和行业适配。",
+      "category": "open_source",
+      "source_signal": "Xiaomi Open-Sources MiMo Code: Outperforms Claude Code on Long-Horizon Tasks"
+    },
+    {
+      "date": "2026-06-12T11:11:40.292398+08:00",
+      "prediction_text": "独立 GPU 抵押租赁与云无关调度平台存在窗口期，帮助中小模型公司对抗巨头锁算力。",
+      "category": "strategic_move",
+      "source_signal": "Anthropic Plans to Control Own Servers, Seeks Google Backing for Computing Infrastructure"
+    },
+    {
+      "date": "2026-06-12T11:11:40.298582+08:00",
+      "prediction_text": "建议关注面向非技术用户的 Agent 技能编排工具，如基于 SkillOpt 的低代码 Agent 优化平台。",
+      "category": "open_source",
+      "source_signal": "Microsoft Open-Sources SkillOpt: Automatic AI Agent Skill Upgrades Without Weight Tuning"
+    },
+    {
+      "date": "2026-06-12T11:11:40.304476+08:00",
+      "prediction_text": "值得关注在非 NVIDIA 硬件上做推理优化与模型适配的中间件创业，受益于芯片多元化趋势。",
+      "category": "strategic_move",
+      "source_signal": "Google Considers Samsung for Manufacturing Key Component of Future AI Chip"
+    },
+    {
+      "date": "2026-06-12T11:11:40.309514+08:00",
+      "prediction_text": "建议探索为 Grok 插件生态提供跨平台部署与监控的开源工具，吸引早期开发者红利。",
+      "category": "ecosystem_shift",
+      "source_signal": "Grok Build Plugin Marketplace Now in Beta: Integrates MongoDB, Vercel, Sentry, Cloudflare"
+    },
+    {
+      "date": "2026-06-12T11:11:40.314193+08:00",
+      "prediction_text": "建议关注基于压缩的实时 RAG 与长对话 Agent 产品，推理成本下降将打开更多端侧与实时交互场景。",
+      "category": "research_breakthrough",
+      "source_signal": "Context Compression Breakthrough: 16x LLM Input Reduction Without Accuracy Loss, Ready for Production"
     }
   ]
 }

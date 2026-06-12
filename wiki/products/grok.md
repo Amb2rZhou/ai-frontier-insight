@@ -2,7 +2,7 @@
 title: Grok
 type: product
 created: 2026-02-25
-updated: 2026-06-11
+updated: 2026-06-12
 ---
 
 # Grok
@@ -11,6 +11,7 @@ updated: 2026-06-11
 
 ## Timeline
 
+- **2026-06-12**: Grok Build Plugin Marketplace Now in Beta: Integrates MongoDB, Vercel, Sentry, Cloudflare
 - **2026-06-11**: [[openai|OpenAI]] Hires Cybersecurity Leaders; [[xai|xAI]] Engineer Sues Over Grok Safety Firing
 - **2026-05-20**: [[openclaw|OpenClaw]] Integrates with X (Twitter), Enabling Grok Models on Personal Hardware
 - **2026-05-16**: [[xai|xAI]] Grok Subscription Integrated with Nous Hermes Agent

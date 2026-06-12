@@ -2,7 +2,7 @@
 title: Anthropic
 type: company
 created: 2026-02-25
-updated: 2026-06-11
+updated: 2026-06-12
 ---
 
 # Anthropic
@@ -11,6 +11,9 @@ updated: 2026-06-11
 
 ## Timeline
 
+- **2026-06-12**: Anthropic Plans to Control Own Servers, Seeks [[google-deepmind|Google]] Backing for Computing Infrastructure
+- **2026-06-12**: Xiaomi Open-Sources MiMo Code: Outperforms [[claude|Claude Code]] on Long-Horizon Tasks
+- **2026-06-12**: Anthropic Data Retention Policy Scares Off Enterprise Customers for Fable 5
 - **2026-06-11**: [[perplexity|Perplexity]] AI Integrates [[claude|Claude]] Fable 5 as Orchestrator for 'Computer'
 - **2026-06-11**: [[hugging-face|HuggingFace]], [[google-deepmind|Google]] & AI Community Launch '[[gemma|Gemma]] Challenge' Against Anthropic's Safety Model
 - **2026-06-11**: New 'Agents' Last Exam' Benchmark Shows [[gpt|GPT-5]].5 Outperforming [[claude|Claude]] Fable 5
