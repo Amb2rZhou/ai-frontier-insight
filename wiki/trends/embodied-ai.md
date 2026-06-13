@@ -2,7 +2,7 @@
 title: Embodied AI
 type: trend
 created: 2026-02-25
-updated: 2026-05-19
+updated: 2026-06-13
 ---
 
 # Embodied AI
@@ -13,6 +13,7 @@ The surge of investment and development in robotics, autonomous vehicles, and ph
 
 ## Timeline
 
+- **2026-06-13**: NeurIPS 2025 Paper: RepWAM - World Action Model with Representation Visual-Action Tokenizers
 - **2026-05-19**: [[nvidia|NVIDIA]] Fine-Tuning Cosmos Predict 2.5 for Robot Video Generation with LoRA/DoRA
 - **2026-05-15**: [[nvidia|NVIDIA]]: Edge is Becoming Agent Host - NemoClaw and Jetson Strategy
 - **2026-04-26**: Stanford's Chelsea Finn and Sergey Levine Discuss Robotics RL and Self-Improvement at ICLR 2026 · [Chelsea Finn 推特](https://x.com/chelseabfinn/status/2048142251042152732) · [Sergey Levine 推特](https://x.com/svlevine/status/2048141685193101755)

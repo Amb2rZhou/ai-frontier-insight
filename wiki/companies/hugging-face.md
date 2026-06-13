@@ -2,7 +2,7 @@
 title: Hugging Face
 type: company
 created: 2026-02-25
-updated: 2026-06-11
+updated: 2026-06-13
 ---
 
 
@@ -12,6 +12,7 @@ The central platform for [[open-source-models|open-source]] AI model hosting, da
 
 ## Timeline
 
+- **2026-06-13**: HuggingFace Transformers v5.12.0 Adds MiniMax-M3-VL Vision-Language Model
 - **2026-06-11**: Sapient Claims Foundation Model Trained from Scratch for ~$1,500
 - **2026-06-11**: HuggingFace, [[google-deepmind|Google]] & AI Community Launch '[[gemma|Gemma]] Challenge' Against [[anthropic|Anthropic]]'s Safety Model
 - **2026-06-11**: [[google-deepmind|Google DeepMind]] Releases DiffusionGemma: Open-Source Text Diffusion Model

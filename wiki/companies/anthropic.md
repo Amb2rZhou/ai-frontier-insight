@@ -2,7 +2,7 @@
 title: Anthropic
 type: company
 created: 2026-02-25
-updated: 2026-06-12
+updated: 2026-06-13
 ---
 
 # Anthropic
@@ -11,6 +11,7 @@ updated: 2026-06-12
 
 ## Timeline
 
+- **2026-06-13**: US Government Orders Anthropic to Suspend Access to Mythos 5 and Fable 5 Globally Over National Security
 - **2026-06-12**: Anthropic Plans to Control Own Servers, Seeks [[google-deepmind|Google]] Backing for Computing Infrastructure
 - **2026-06-12**: Xiaomi Open-Sources MiMo Code: Outperforms [[claude|Claude Code]] on Long-Horizon Tasks
 - **2026-06-12**: Anthropic Data Retention Policy Scares Off Enterprise Customers for Fable 5

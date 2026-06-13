@@ -2,7 +2,7 @@
 title: Ollama
 type: product
 created: 2026-03-03
-updated: 2026-06-08
+updated: 2026-06-13
 ---
 
 # Ollama
@@ -11,6 +11,7 @@ Popular tool for running [[open-source-models|open-source]] LLMs locally. Key en
 
 ## Timeline
 
+- **2026-06-13**: Ollama v0.30.8 Improves Prompt Caching and MLX Inference Stability
 - **2026-06-08**: Ollama v0.30.7-rc1: Native Windows Hermes Config Path — Consolidating Local LLM Deployment
 - **2026-06-08**: Ollama v0.30.7-rc1: Continues to Improve On-Device LLM Deployment with Native Windows Support
 - **2026-06-07**: Ollama v0.30.6: Adds [[gemma|Gemma]] 4 QAT Optimized Weights for On-Device Deployment

@@ -1,66 +1,6 @@
 {
   "predictions": [
     {
-      "date": "2026-06-04T12:43:13.320732+08:00",
-      "prediction_text": "内容平台的内容安全团队可关注类似安全治理倡议，提前布局生物/合成内容审核能力。",
-      "category": "ecosystem_shift",
-      "source_signal": "OpenAI and Anthropik Sign Letter Urging Lawmakers to Improve Synthetic DNA Tracking for Bioweapon Prevention"
-    },
-    {
-      "date": "2026-06-04T12:43:13.322087+08:00",
-      "prediction_text": "推荐/搜索系统团队可评估将高频推理逐步下沉至消费级硬件，依赖云端负增长趋势。",
-      "category": "infrastructure",
-      "source_signal": "Nvidia Confirms N2X and N3X Chips: AI Consumer Chip Roadmap Inspired by Star Trek's Computer"
-    },
-    {
-      "date": "2026-06-04T12:43:13.323466+08:00",
-      "prediction_text": "内容平台的视频生成工具建议探索 RAG 式视频合成，实现基于知识库的连贯长视频生成。",
-      "category": "research_breakthrough",
-      "source_signal": "LongLive-RAG: Official Framework for Retrieval-Augmented Long Video Generation"
-    },
-    {
-      "date": "2026-06-04T12:43:13.324798+08:00",
-      "prediction_text": "推荐系统/搜索产品的推理服务可评估 MTP 架构，以更低延迟实现多 token 并行预测。",
-      "category": "open_source",
-      "source_signal": "HuggingFace Transformers v5.10.1 Adds Official Support for Gemma4 with MTP (Multi-Token Prediction) Architecture"
-    },
-    {
-      "date": "2026-06-05T12:27:12.104048+08:00",
-      "prediction_text": "内容平台可考虑将AI Agent嵌入审核规则编写、A/B测试流水线等内部工程系统，直接降低开发人力成本。",
-      "category": "strategic_move",
-      "source_signal": "Anthropic Reveals 80% of Production Code Authored by Claude, Sets New Enterprise Benchmark"
-    },
-    {
-      "date": "2026-06-05T12:27:12.110323+08:00",
-      "prediction_text": "电商/社区平台可考虑推出面向商家的AI营销Agent订阅服务，而非仅免费赋能用户。",
-      "category": "ecosystem_shift",
-      "source_signal": "Anthropic Annualized Revenue Surpasses $47B Ahead of IPO, Signaling Market Validation"
-    },
-    {
-      "date": "2026-06-05T12:27:12.115384+08:00",
-      "prediction_text": "内容平台的创作者工具建议探索设计导向的多模态模型，如一键生成视觉排版或滤镜方案。",
-      "category": "research_breakthrough",
-      "source_signal": "Airbnb CEO Brian Chesky in Talks to Fund New AI Lab with Design Focus"
-    },
-    {
-      "date": "2026-06-05T12:27:12.120030+08:00",
-      "prediction_text": "内容安全团队需提前部署深度伪造检测与生物特征脱敏系统，应对AR设备上传的违规肖像内容。",
-      "category": "infrastructure",
-      "source_signal": "Meta Quietly Embeds Face-Recognition Code in Smart Glasses Platform on Millions of Phones"
-    },
-    {
-      "date": "2026-06-05T12:27:12.122504+08:00",
-      "prediction_text": "出海合规团队可评估部署端侧轻量审核模型，在图片上传前即完成过滤，降低云端审核延迟与隐私风险。",
-      "category": "ecosystem_shift",
-      "source_signal": "South Korea Mandates AI Censorship Scanning for All Images on Online Forums"
-    },
-    {
-      "date": "2026-06-05T12:27:12.123942+08:00",
-      "prediction_text": "出海平台需储备国产大模型作为替代底座，避免单点依赖OpenAI/Anthropic API的供应链中断风险。",
-      "category": "strategic_move",
-      "source_signal": "U.S. Officials Explore Taking Equity Stakes in AI Companies, Signaling Nationalization Risk"
-    },
-    {
       "date": "2026-06-05T12:27:12.125288+08:00",
       "prediction_text": "内部工程团队可直接试点该工具用于代码review，并借鉴其架构搭建AI辅助的审核规则变更流水线。",
       "category": "open_source",
@@ -599,6 +539,66 @@
       "prediction_text": "建议关注基于压缩的实时 RAG 与长对话 Agent 产品，推理成本下降将打开更多端侧与实时交互场景。",
       "category": "research_breakthrough",
       "source_signal": "Context Compression Breakthrough: 16x LLM Input Reduction Without Accuracy Loss, Ready for Production"
+    },
+    {
+      "date": "2026-06-13T19:21:22.809473+08:00",
+      "prediction_text": "建议探索面向非美市场的合规推理云与本地化模型托管服务，对冲跨境服务中断风险。",
+      "category": "regulatory_policy",
+      "source_signal": "US Government Orders Anthropic to Suspend Access to Mythos 5 and Fable 5 Globally Over National Security"
+    },
+    {
+      "date": "2026-06-13T19:21:22.821448+08:00",
+      "prediction_text": "关注在 Kimi K2.7 等高效模型上构建垂直代码审查与测试 Agent 的早期团队。",
+      "category": "model_release",
+      "source_signal": "Moonshot AI Releases Kimi K2.7-Code with 30% Reduction in Reasoning Tokens Under Modified MIT License"
+    },
+    {
+      "date": "2026-06-13T19:21:22.829618+08:00",
+      "prediction_text": "值得关注 AI 驱动的人力资源规划与岗位再分配 SaaS，帮助企业应对人机协作扩张。",
+      "category": "strategic_move",
+      "source_signal": "Box Survey: IT Leaders Report AI Adopters Plan to Increase Headcount, Countering Job Displacement Fears"
+    },
+    {
+      "date": "2026-06-13T19:21:22.835955+08:00",
+      "prediction_text": "建议探索基于 RepWAM 的低成本机器人动作生成管线，降低数据采集与标注成本。",
+      "category": "research_breakthrough",
+      "source_signal": "NeurIPS 2025 Paper: RepWAM - World Action Model with Representation Visual-Action Tokenizers"
+    },
+    {
+      "date": "2026-06-13T19:21:22.841122+08:00",
+      "prediction_text": "考虑为 vLLM 开发 DeepSeek-V3 的专用调度与缓存策略插件，捕获社区红利。",
+      "category": "infrastructure",
+      "source_signal": "vLLM v0.23.0 Released with DeepSeek-V3 Support and 200+ Contributors"
+    },
+    {
+      "date": "2026-06-13T19:21:22.845606+08:00",
+      "prediction_text": "关注 AutoMegaKernel 在国产 GPU 上的适配机会，是降低硬件生态依赖的关键设施。",
+      "category": "infrastructure",
+      "source_signal": "RightNow-AI Releases AutoMegaKernel: Self-Retargeting CUDA Megakernel Optimizes LLM Decode Past cuBLAS"
+    },
+    {
+      "date": "2026-06-13T19:21:22.848851+08:00",
+      "prediction_text": "建议探索 SpatialClaw 接口在 GUI 自动化与仓库机器人场景的产品化落地。",
+      "category": "research_breakthrough",
+      "source_signal": "Paper 'SpatialClaw' Rethinks Action Interface for Agentic Spatial Reasoning in VLMs"
+    },
+    {
+      "date": "2026-06-13T19:21:22.851991+08:00",
+      "prediction_text": "考虑为 M3-VL 开发低成本端侧部署套件，适配移动设备与 IoT 场景的实时视觉问答。",
+      "category": "ecosystem_shift",
+      "source_signal": "HuggingFace Transformers v5.12.0 Adds MiniMax-M3-VL Vision-Language Model"
+    },
+    {
+      "date": "2026-06-13T19:21:22.854902+08:00",
+      "prediction_text": "关注围绕 CrewAI 的可插拔后端生态创业，如专用向量库插件与事件追溯工具。",
+      "category": "open_source",
+      "source_signal": "CrewAI v1.14.7 Adds Pluggable Default Backends for Memory, Knowledge, and RAG"
+    },
+    {
+      "date": "2026-06-13T19:21:22.857830+08:00",
+      "prediction_text": "建议基于 Ollama 改进版缓存机制开发低延迟本地知识检索 Agent，适合隐私敏感行业。",
+      "category": "open_source",
+      "source_signal": "Ollama v0.30.8 Improves Prompt Caching and MLX Inference Stability"
     }
   ]
 }

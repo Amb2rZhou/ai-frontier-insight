@@ -2,7 +2,7 @@
 title: Agent Frameworks
 type: technology
 created: 2026-02-25
-updated: 2026-06-12
+updated: 2026-06-13
 ---
 
 # Agent Frameworks
@@ -11,6 +11,8 @@ The rapidly evolving ecosystem of tools, SDKs, and platforms for building autono
 
 ## Timeline
 
+- **2026-06-13**: CrewAI v1.14.7 Adds Pluggable Default Backends for Memory, Knowledge, and [[rag|RAG]]
+- **2026-06-13**: Paper 'SpatialClaw' Rethinks Action Interface for Agentic Spatial Reasoning in VLMs
 - **2026-06-12**: [[microsoft|Microsoft]] Open-Sources SkillOpt: Automatic AI Agent Skill Upgrades Without Weight Tuning
 - **2026-06-12**: Xiaomi Open-Sources MiMo Code: Outperforms [[claude|Claude Code]] on Long-Horizon Tasks
 - **2026-06-11**: [[perplexity|Perplexity]] AI Integrates [[claude|Claude]] Fable 5 as Orchestrator for 'Computer'
