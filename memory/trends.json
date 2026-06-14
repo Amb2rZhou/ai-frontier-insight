@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-13T19:33:52.606744+08:00",
+  "last_updated": "2026-06-14T22:30:21.246348+08:00",
   "trends": [
     {
       "id": "ai_safety_pivot_and_accelerated_agi_time",
@@ -332,83 +332,6 @@
       "created": "2026-02-25"
     },
     {
-      "id": "enterprise_ai_agent_adoption_and_product",
-      "name": "Enterprise AI Agent Adoption and Product Launches",
-      "related_tags": [
-        "Enterprise AI",
-        "Siri",
-        "Industry Strategy",
-        "Anthropic",
-        "Data Governance",
-        "AI Runtime",
-        "VentureBeat",
-        "Low-code"
-      ],
-      "trajectory": "accelerating",
-      "signal_count": 265,
-      "weekly_counts": [
-        1,
-        2,
-        1,
-        1,
-        3,
-        2,
-        4,
-        1,
-        3,
-        2,
-        2,
-        1
-      ],
-      "key_events": [
-        {
-          "date": "2026-06-06",
-          "event": "VentureBeat: Enterprise AI Agents Lack Cross-User Learning Persistence"
-        },
-        {
-          "date": "2026-06-08",
-          "event": "Anthropic SDK v0.107.0 Adds Managed Agent Types; VentureBeat: 'Blast Radius' of LLM Changes in Production"
-        },
-        {
-          "date": "2026-06-08",
-          "event": "Notion Restores Anthropic Access After Unplanned Service Disruption Highlighting Enterprise AI Reliability Concerns"
-        },
-        {
-          "date": "2026-06-08",
-          "event": "VentureBeat: Managing AI 'Blast Radius' — Production Risks When Underlying Models Change; Notion Restores Anthropic Access After Service Disruption Highlighting Enterprise AI Reliability Concerns; Anthropic SDK v0.107.0 Adds Managed Agent Types"
-        },
-        {
-          "date": "2026-06-09",
-          "event": "Enterprise AI Governance Crisis: Runtime and Security Gaps Identified"
-        },
-        {
-          "date": "2026-06-09",
-          "event": "First detected"
-        },
-        {
-          "date": "2026-06-10",
-          "event": "Claude Code Adds Nested Subagent Support for Deeper Agent Hierarchies; OpenAI Codex Goal Feature Adds Nested Loop Capability; Cohere Open-Sources North Mini Code for Single H100 Deployment"
-        },
-        {
-          "date": "2026-06-10",
-          "event": "Apple, NVIDIA, and Google Collaborate on Confidential AI for Apple Intelligence via Private Cloud Compute"
-        },
-        {
-          "date": "2026-06-11",
-          "event": "New 'Agents' Last Exam' Benchmark Shows GPT-5.5 Outperforming Claude Fable 5; Perplexity AI Integrates Claude Fable 5 as Orchestrator for 'Computer'"
-        },
-        {
-          "date": "2026-06-12",
-          "event": "Microsoft Open-Sources SkillOpt: Automatic AI Agent Skill Upgrades Without Weight Tuning; Anthropic Data Retention Policy Scares Off Enterprise Customers for Fable 5"
-        },
-        {
-          "date": "2026-06-13",
-          "event": "2026-06-12: Box Survey: IT Leaders Report AI Adopters Plan to Increase Headcount, Countering Job Displacement Fears"
-        }
-      ],
-      "created": "2026-02-25"
-    },
-    {
       "id": "ai_research_acceleration_in_reasoning_an",
       "name": "AI Research Acceleration in Reasoning and Efficiency",
       "related_tags": [
@@ -422,9 +345,8 @@
         "Model Efficiency"
       ],
       "trajectory": "accelerating",
-      "signal_count": 204,
+      "signal_count": 205,
       "weekly_counts": [
-        0,
         1,
         1,
         1,
@@ -435,7 +357,8 @@
         1,
         2,
         1,
-        3
+        3,
+        1
       ],
       "key_events": [
         {
@@ -521,6 +444,10 @@
         {
           "date": "2026-06-13",
           "event": "2026-06-12: NeurIPS 2025 Paper: RepWAM - World Action Model with Representation Visual-Action Tokenizers"
+        },
+        {
+          "date": "2026-06-14",
+          "event": "2026-06-13: AutoMegaKernel: Self-Tuning CUDA Megakernels for Optimized LLM Decode"
         }
       ],
       "created": "2026-02-25"
@@ -639,18 +566,17 @@
       "name": "Autonomous AI Agent Development Ecosystem Growth",
       "related_tags": [
         "AI新交互",
-        "Nested Agents",
-        "HITL",
-        "Plugin Marketplace",
-        "Video Generation",
-        "Context Management",
         "Ecosystem",
-        "xAI"
+        "Semiconductor",
+        "Data Pipeline",
+        "xAI",
+        "Cloud Execution",
+        "Infrastructure",
+        "Anthropic"
       ],
       "trajectory": "accelerating",
-      "signal_count": 282,
+      "signal_count": 753,
       "weekly_counts": [
-        3,
         2,
         2,
         2,
@@ -661,106 +587,10 @@
         3,
         2,
         0,
-        2
+        2,
+        3
       ],
       "key_events": [
-        {
-          "date": "2026-06-08",
-          "event": "Omnistack Agent: Platform-Agnostic AI Engineer Compiled for ChatGPT, Claude, Copilot, Gemini & Cursor; Scientific Agents: Standardized 'AGENTS.md' Profiles for Expert-Level AI Reasoning; Anthropic SDK Updates Managed Agent Types"
-        },
-        {
-          "date": "2026-06-08",
-          "event": "First detected"
-        },
-        {
-          "date": "2026-06-08",
-          "event": "OpenAI Super App Ambitions Revealed: 'Chat Is Dead'"
-        },
-        {
-          "date": "2026-06-09",
-          "event": "browser-use Rebuilt in Rust: Major Performance Upgrade for Browser Agents; Poisoned npm Packages Target AI Agent Supply Chains for Second Time"
-        },
-        {
-          "date": "2026-06-10",
-          "event": "Claude Code Adds Nested Subagent Support; OpenAI Codex Adds Nested Loop Capability; Cohere North Mini Code for Smarter Agent Deployment"
-        },
-        {
-          "date": "2026-06-10",
-          "event": "First detected"
-        },
-        {
-          "date": "2026-06-11",
-          "event": "New 'Agents' Last Exam' Benchmark Shows GPT-5.5 Outperforming Claude Fable 5; Perplexity AI Integrates Claude Fable 5 as Orchestrator for 'Computer'"
-        },
-        {
-          "date": "2026-06-11",
-          "event": "Perplexity AI Integrates Claude Fable 5 as Orchestrator for 'Computer'"
-        },
-        {
-          "date": "2026-06-12",
-          "event": "First detected"
-        },
-        {
-          "date": "2026-06-13",
-          "event": "2026-06-12: Paper 'SpatialClaw' Rethinks Action Interface for Agentic Spatial Reasoning in VLMs; CrewAI v1.14.7 Adds Pluggable Default Backends for Memory, Knowledge, and RAG"
-        }
-      ],
-      "created": "2026-02-25"
-    },
-    {
-      "id": "ai_infrastructure_optimization_and_open_",
-      "name": "AI Infrastructure Optimization and Open Source Tools",
-      "related_tags": [
-        "Data Pipeline",
-        "AI 助手",
-        "Semiconductor",
-        "Cloud Execution",
-        "Energy",
-        "端侧部署",
-        "LLMOps",
-        "Infrastructure"
-      ],
-      "trajectory": "accelerating",
-      "signal_count": 200,
-      "weekly_counts": [
-        1,
-        3,
-        2,
-        1,
-        2,
-        1,
-        1,
-        3,
-        2,
-        1,
-        1,
-        4
-      ],
-      "key_events": [
-        {
-          "date": "2026-06-08",
-          "event": "Ollama v0.30.7-rc1 Native Windows Support with Consolidated Hermes Config for Local LLM Deployment"
-        },
-        {
-          "date": "2026-06-09",
-          "event": "llama.cpp Adds Video Input Support for Gemma 4; Evidence of Model Routing as a Growing Infrastructure Trend; NVIDIA's LocateAnything-3B Open-Weight Object Detection Model"
-        },
-        {
-          "date": "2026-06-09",
-          "event": "First detected"
-        },
-        {
-          "date": "2026-06-10",
-          "event": "Apple, NVIDIA, Google Collaborate on Confidential AI for Private Cloud Compute; Surge AI Reaches $1B Bootstrapped Revenue for Data Infrastructure"
-        },
-        {
-          "date": "2026-06-10",
-          "event": "First detected"
-        },
-        {
-          "date": "2026-06-11",
-          "event": "River API: New Startup Offers Post-Training and RL as a Service"
-        },
         {
           "date": "2026-06-12",
           "event": "Context Compression Breakthrough: 16x LLM Input Reduction Without Accuracy Loss, Ready for Production"
@@ -774,8 +604,32 @@
           "event": "First detected"
         },
         {
+          "date": "2026-06-12",
+          "event": "Microsoft Open-Sources SkillOpt: Automatic AI Agent Skill Upgrades Without Weight Tuning; Anthropic Data Retention Policy Scares Off Enterprise Customers for Fable 5"
+        },
+        {
+          "date": "2026-06-13",
+          "event": "2026-06-12: Paper 'SpatialClaw' Rethinks Action Interface for Agentic Spatial Reasoning in VLMs; CrewAI v1.14.7 Adds Pluggable Default Backends for Memory, Knowledge, and RAG"
+        },
+        {
           "date": "2026-06-13",
           "event": "2026-06-12: vLLM v0.23.0 Released with DeepSeek-V3 Support and 200+ Contributors"
+        },
+        {
+          "date": "2026-06-13",
+          "event": "2026-06-12: Box Survey: IT Leaders Report AI Adopters Plan to Increase Headcount, Countering Job Displacement Fears"
+        },
+        {
+          "date": "2026-06-14",
+          "event": "2026-06-13: browser-use 0.13.2 Adds BU3 Browser Use Models; LangChain 1.3.9 Tightens Anthropic Prefixes for Security; LangGraph 1.2.5 Fixes updateState Bug"
+        },
+        {
+          "date": "2026-06-14",
+          "event": "2026-06-13: AutoMegaKernel: Self-Compiling CUDA Megakernels for Batch-1 LLM Decode"
+        },
+        {
+          "date": "2026-06-14",
+          "event": "2026-06-13: LangChain 1.3.9 Tightens Anthropic Allowed Prefixes for Enterprise Security"
         }
       ],
       "created": "2026-02-25"
@@ -794,9 +648,8 @@
         "Knowledge Work"
       ],
       "trajectory": "accelerating",
-      "signal_count": 102,
+      "signal_count": 103,
       "weekly_counts": [
-        0,
         1,
         1,
         2,
@@ -807,7 +660,8 @@
         1,
         1,
         0,
-        0
+        0,
+        1
       ],
       "key_events": [
         {
@@ -865,6 +719,10 @@
         {
           "date": "2026-06-11",
           "event": "OpenAI Hires Cybersecurity Leaders; xAI Engineer Sues Over Grok Safety Firing"
+        },
+        {
+          "date": "2026-06-14",
+          "event": "2026-06-13: LangChain 1.3.9 Adds Anthropic Prefix Enforcement for Prompt Injection Defense"
         }
       ],
       "created": "2026-02-25"
@@ -1000,9 +858,8 @@
         "Unified Models"
       ],
       "trajectory": "accelerating",
-      "signal_count": 121,
+      "signal_count": 123,
       "weekly_counts": [
-        3,
         0,
         0,
         1,
@@ -1013,7 +870,8 @@
         0,
         1,
         0,
-        0
+        0,
+        2
       ],
       "key_events": [
         {
@@ -1079,6 +937,10 @@
         {
           "date": "2026-06-11",
           "event": "Project Genie Expands Globally: Google Offers AI Game & App Generation to Subscribers"
+        },
+        {
+          "date": "2026-06-14",
+          "event": "2026-06-13: ilab-gpt-conjure: Open-Source WebUI Workbench for GPT-Image-2; OpenReshot: Native iOS 3D Gaussian Splatting App"
         }
       ],
       "created": "2026-02-26"
@@ -1208,6 +1070,52 @@
         }
       ],
       "created": "2026-06-08"
+    },
+    {
+      "id": "ai_developer_tooling_and_framework_matur",
+      "name": "AI Developer Tooling and Framework Maturation",
+      "related_tags": [
+        "LangChain",
+        "LangGraph",
+        "Developer Tools",
+        "Observability",
+        "SDK Updates",
+        "Type Safety"
+      ],
+      "trajectory": "accelerating",
+      "signal_count": 1,
+      "weekly_counts": [
+        1
+      ],
+      "key_events": [
+        {
+          "date": "2026-06-14",
+          "event": "First detected"
+        }
+      ],
+      "created": "2026-06-14"
+    },
+    {
+      "id": "ai_education_and_democratization",
+      "name": "AI Education and Democratization",
+      "related_tags": [
+        "AI Education",
+        "Open Source",
+        "Developer Ecosystem",
+        "Learning Resources"
+      ],
+      "trajectory": "stable",
+      "signal_count": 1,
+      "weekly_counts": [
+        1
+      ],
+      "key_events": [
+        {
+          "date": "2026-06-14",
+          "event": "First detected"
+        }
+      ],
+      "created": "2026-06-14"
     }
   ]
 }

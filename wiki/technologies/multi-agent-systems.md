@@ -2,7 +2,7 @@
 title: Multi-Agent Systems
 type: technology
 created: 2026-02-27
-updated: 2026-06-13
+updated: 2026-06-14
 ---
 
 # Multi-Agent Systems
@@ -11,6 +11,7 @@ Architectures where multiple AI agents collaborate, specialize, or compete to ac
 
 ## Timeline
 
+- **2026-06-14**: LangGraph 1.2.5 Fixes updateState Bug for Delta Channel on Empty Thread
 - **2026-06-13**: CrewAI v1.14.7 Adds Pluggable Default Backends for Memory, Knowledge, and [[rag|RAG]]
 - **2026-06-12**: [[google-deepmind|Google DeepMind]] Launches $10M Research Fund for Multi-Agent Collective Behavior Safety
 - **2026-05-31**: Duel Agents: New Framework for Multi-Agent Competition and Collaboration

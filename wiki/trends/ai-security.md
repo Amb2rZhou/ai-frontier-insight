@@ -2,7 +2,7 @@
 title: AI Security
 type: trend
 created: 2026-02-25
-updated: 2026-06-10
+updated: 2026-06-14
 ---
 
 # AI Security
@@ -13,6 +13,7 @@ Security vulnerabilities, adversarial attacks, and emerging threats in AI models
 
 ## Timeline
 
+- **2026-06-14**: LangChain 1.3.9 Tightens [[anthropic|Anthropic]] Allowed Prefixes for Security
 - **2026-06-10**: [[apple|Apple]], [[nvidia|NVIDIA]], and [[google-deepmind|Google]] Collaborate on Confidential AI for Apple Intelligence via Private Cloud Compute
 - **2026-06-06**: [[meta|Meta AI]] Support Agent Exploited for Account Takeover via Recovery Email Binding
 - **2026-03-31**: UK AI Security Institute Research on Natural Emergent Misalignment from Reward Hacking · [Alignment Forum](https://www.alignmentforum.org/posts/2ANCyejqxfqK2obEj/some-natural-emergent-misalignment-from-reward-hacking-in)

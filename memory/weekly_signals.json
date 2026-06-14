@@ -1433,6 +1433,210 @@
           36
         ]
       }
+    ],
+    "2026-06-14": [
+      {
+        "title": "browser-use 0.13.2 Adds BU3 Browser Use Models and Provider-Prefix for Custom Models",
+        "signal_text": "开源浏览器自动化 Agent 框架 browser-use 发布 v0.13.2，新增对 BU3 系列 browser use 模型的支持，并允许用户通过 provider-prefix 自定义模型。这是 Autonomous AI Agent 生态中 browser-use 框架持续演进的重要信号，表明计算机使用（computer use）Agent 对专用模型的需求在上升。",
+        "signal_strength": 0.73,
+        "sources": [
+          {
+            "name": "GitHub Release (browser-use/browser-use)",
+            "url": "https://github.com/browser-use/browser-use/releases/tag/0.13.2"
+          }
+        ],
+        "tags": [
+          "Autonomous AI Agent",
+          "Computer Use",
+          "Browser Automation",
+          "Open Source"
+        ],
+        "raw_item_indices": [
+          10
+        ]
+      },
+      {
+        "title": "AutoMegaKernel: An Agent That Self-Complies and Self-Tunes CUDA Megakernels for Batch-1 LLM Decode",
+        "signal_text": "RightNow-AI 发布 AutoMegaKernel，一个 agent harness，能将模型自动编译成一个可自我验证（provably-correct）的 CUDA megakernel，并在 batch-1 LLM decode 场景下自我调优，性能超越 cuBLAS。这代表了底层推理优化领域的新范式——用 AI Agent 自动生成并优化 GPU 内核而非手动编写。项目在 GitHub 上（32 stars）尚属早期，但其思路具有方法论价值。",
+        "signal_strength": 0.72,
+        "sources": [
+          {
+            "name": "GitHub (RightNow-AI/AutoMegaKernel)",
+            "url": "https://github.com/RightNow-AI/AutoMegaKernel"
+          }
+        ],
+        "tags": [
+          "AI Infrastructure Optimization",
+          "LLM Inference",
+          "CUDA Kernel Fusion"
+        ],
+        "raw_item_indices": [
+          3
+        ]
+      },
+      {
+        "title": "LangChain 1.3.9 Tightens Anthropic Allowed Prefixes for Security",
+        "signal_text": "LangChain 发布 v1.3.9，核心变更为收紧（tighten）对 Anthropic 模型的 `allowed_prefixes`，限制 file-search 结果。这反映了 Agent/LLM 框架在安全性（prompt injection、数据泄露防护）方面持续加固的行业趋势，是企业级 Agent 部署的必备能力。",
+        "signal_strength": 0.7,
+        "sources": [
+          {
+            "name": "GitHub Release (langchain-ai/langchain)",
+            "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain%3D%3D1.3.9"
+          }
+        ],
+        "tags": [
+          "AI Security",
+          "LangChain",
+          "Anthropic",
+          "Enterprise AI"
+        ],
+        "raw_item_indices": [
+          6
+        ]
+      },
+      {
+        "title": "LangGraph 1.2.5 Fixes updateState Bug for Delta Channel on Empty Thread",
+        "signal_text": "Agent 编排框架 LangGraph 发布 v1.2.5，修复了 `updateState` 在空线程（empty thread）上 delta channel 的 bug。此修复对构建状态复杂的 multi-agent 应用至关重要，表明框架正进入稳定期，修复边角场景是商业化成熟度提升的标志。",
+        "signal_strength": 0.65,
+        "sources": [
+          {
+            "name": "GitHub Release (langchain-ai/langgraph)",
+            "url": "https://github.com/langchain-ai/langgraph/releases/tag/1.2.5"
+          }
+        ],
+        "tags": [
+          "Autonomous AI Agent",
+          "LangGraph",
+          "State Management",
+          "Open Source"
+        ],
+        "raw_item_indices": [
+          7
+        ]
+      },
+      {
+        "title": "ilab-gpt-conjure: Open-Source WebUI Workbench for GPT-Image-2 with Codex Support",
+        "signal_text": "GitHub 项目 ilab-gpt-conjure 获 316 stars，提供围绕 OpenAI GPT-Image-2 和 Codex Responses 的图形化工作台，支持提示词模板、并发任务、本地队列管理和公用图库。该工具反映了社区对 GPT-image-2 生态工具的需求快速膨胀，是 API 生态加速发展的信号。",
+        "signal_strength": 0.62,
+        "sources": [
+          {
+            "name": "GitHub (kadevin/ilab-gpt-conjure)",
+            "url": "https://github.com/kadevin/ilab-gpt-conjure"
+          }
+        ],
+        "tags": [
+          "Generative AI",
+          "Image Generation",
+          "Open Source",
+          "Developer Tools"
+        ],
+        "raw_item_indices": [
+          0
+        ]
+      },
+      {
+        "title": "OpenReshot: Native iOS App for 3D Gaussian Splatting Re-Shooting Using CoreML",
+        "signal_text": "GitHub 项目 OpenReshot（48 stars）是一个原生 iOS 应用，利用 3D Gaussian Splatting 和 CoreML，允许用户从不同角度重拍（re-shoot）普通照片，实现类似 NeRF 的效果。这展示了端侧 3D 重建技术的最新应用方向，对移动端 AI 内容创作场景具有探索意义。",
+        "signal_strength": 0.6,
+        "sources": [
+          {
+            "name": "GitHub (kellyvv/OpenReshot)",
+            "url": "https://github.com/kellyvv/OpenReshot"
+          }
+        ],
+        "tags": [
+          "3D Gaussian Splatting",
+          "CoreML",
+          "iOS",
+          "End-Side AI",
+          "Generative AI"
+        ],
+        "raw_item_indices": [
+          2
+        ]
+      },
+      {
+        "title": "aipath: Interactive 30-Lesson AI Education Course with Zero Math on GitHub",
+        "signal_text": "GitHub 项目 aipath（112 stars）发布了一套完全零数学背景的交互式 AI 通识课程（30节课），使用 JavaScript。该项目的流行暗示市场对低门槛、项目制的 AI 教育工具存在强烈需求，是 AI 人才社会化和全民化趋势的体现。",
+        "signal_strength": 0.5,
+        "sources": [
+          {
+            "name": "GitHub (buynao/aipath)",
+            "url": "https://github.com/buynao/aipath"
+          }
+        ],
+        "tags": [
+          "AI Education",
+          "Open Source",
+          "Developer Ecosystem"
+        ],
+        "raw_item_indices": [
+          1
+        ]
+      },
+      {
+        "title": "LangChain 1.4.7 and Partner Package Version Metadata Renaming",
+        "signal_text": "LangChain core 发布 v1.4.7，主要变更是重命名 package version trace metadata（修复元数据跟踪）和更新显式反序列化允许列表。这是框架可观测性（observability）方面的持续迭代，对生产环境中的 Agent 监控和调试至关重要。",
+        "signal_strength": 0.48,
+        "sources": [
+          {
+            "name": "GitHub Release (langchain-ai/langchain)",
+            "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-openai%3D%3D1.3.1"
+          }
+        ],
+        "tags": [
+          "LangChain",
+          "Observability",
+          "Developer Tools"
+        ],
+        "raw_item_indices": [
+          5
+        ]
+      },
+      {
+        "title": "LangChain langchain-openai 1.3.2 and 1.3.1: Routine Maintenance with Updated Tests and Allowlists",
+        "signal_text": "LangChain 发布了 langchain-openai 的两个补丁版本（1.3.1/1.3.2），主要涉及 README 更新、测试更新、以及显式反序列化 allowlists（安全加固）。这类日常更新虽小，但持续的安全加固（允许列表）表明框架层对反序列化攻击的防御已成为标配动作。",
+        "signal_strength": 0.45,
+        "sources": [
+          {
+            "name": "GitHub Release (langchain-ai/langchain)",
+            "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-openai%3D%3D1.3.2"
+          },
+          {
+            "name": "GitHub Release (langchain-ai/langchain)",
+            "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-openai%3D%3D1.3.1"
+          }
+        ],
+        "tags": [
+          "LangChain",
+          "OpenAI",
+          "Security",
+          "Developer Tools"
+        ],
+        "raw_item_indices": [
+          4,
+          5
+        ]
+      },
+      {
+        "title": "LangGraph CLI 0.4.28 Released with Python Type Checking Migration",
+        "signal_text": "LangGraph CLI 发布 v0.4.28，包含将 Python 类型检查迁移至 ty（可能是 `typeguard` 或 `typing-extensions` 相关工具）的变更。这表明 LangGraph 工具链在类型安全和代码质量方面进行了架构升级，对大型 Agent 项目开发有利。",
+        "signal_strength": 0.35,
+        "sources": [
+          {
+            "name": "GitHub Release (langchain-ai/langgraph)",
+            "url": "https://github.com/langchain-ai/langgraph/releases/tag/1.2.5"
+          }
+        ],
+        "tags": [
+          "LangGraph",
+          "Developer Tools",
+          "Type Safety"
+        ],
+        "raw_item_indices": [
+          7
+        ]
+      }
     ]
   },
   "archived_weeks": [

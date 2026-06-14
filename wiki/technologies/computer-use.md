@@ -2,7 +2,7 @@
 title: Computer Use
 type: technology
 created: 2026-02-26
-updated: 2026-06-13
+updated: 2026-06-14
 ---
 
 # Computer Use
@@ -11,6 +11,7 @@ AI agents that can directly control desktop and mobile interfaces — clicking, 
 
 ## Timeline
 
+- **2026-06-14**: browser-use 0.13.2 Adds BU3 Browser Use Models and Provider-Prefix for Custom Models
 - **2026-06-13**: Paper 'SpatialClaw' Rethinks Action Interface for [[agent-frameworks|Agentic]] Spatial Reasoning in VLMs
 - **2026-05-14**: ToolCUA: End-to-End Agent for Optimal GUI-Tool Path Orchestration by TongyiLab
 - **2026-05-13**: [[openai|OpenAI]] [[codex|Codex]] Computer Use Agent: Cross-App Background Operation

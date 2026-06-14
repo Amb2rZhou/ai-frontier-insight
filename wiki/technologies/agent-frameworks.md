@@ -2,7 +2,7 @@
 title: Agent Frameworks
 type: technology
 created: 2026-02-25
-updated: 2026-06-13
+updated: 2026-06-14
 ---
 
 # Agent Frameworks
@@ -11,6 +11,9 @@ The rapidly evolving ecosystem of tools, SDKs, and platforms for building autono
 
 ## Timeline
 
+- **2026-06-14**: LangGraph 1.2.5 Fixes updateState Bug for Delta Channel on Empty Thread
+- **2026-06-14**: AutoMegaKernel: An Agent That Self-Complies and Self-Tunes CUDA Megakernels for Batch-1 LLM Decode
+- **2026-06-14**: browser-use 0.13.2 Adds BU3 Browser Use Models and Provider-Prefix for Custom Models
 - **2026-06-13**: CrewAI v1.14.7 Adds Pluggable Default Backends for Memory, Knowledge, and [[rag|RAG]]
 - **2026-06-13**: Paper 'SpatialClaw' Rethinks Action Interface for Agentic Spatial Reasoning in VLMs
 - **2026-06-12**: [[microsoft|Microsoft]] Open-Sources SkillOpt: Automatic AI Agent Skill Upgrades Without Weight Tuning

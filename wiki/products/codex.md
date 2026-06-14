@@ -2,7 +2,7 @@
 title: Codex
 type: product
 created: 2026-02-25
-updated: 2026-06-12
+updated: 2026-06-14
 ---
 
 # Codex
@@ -11,6 +11,7 @@ updated: 2026-06-12
 
 ## Timeline
 
+- **2026-06-14**: ilab-gpt-conjure: Open-Source WebUI Workbench for GPT-Image-2 with Codex Support
 - **2026-06-12**: [[openai|OpenAI]] Acquires Ona for Secure Cloud Agent Execution
 - **2026-06-11**: [[anthropic|Anthropic]] Fable 5 Launch Sparks Major Backlash: Overly Aggressive Safety Refusals Blocking Researchers
 - **2026-06-10**: [[openai|OpenAI]]'s Codex Goal Feature Goes Interactive: New 'Nested Loop' Capability Emerging

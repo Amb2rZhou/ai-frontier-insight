@@ -1,66 +1,6 @@
 {
   "predictions": [
     {
-      "date": "2026-06-05T12:27:12.125288+08:00",
-      "prediction_text": "内部工程团队可直接试点该工具用于代码review，并借鉴其架构搭建AI辅助的审核规则变更流水线。",
-      "category": "open_source",
-      "source_signal": "Alibaba Open-Sources AI-Powered Code Review CLI Tool 'Open Code Review'"
-    },
-    {
-      "date": "2026-06-05T12:27:12.126601+08:00",
-      "prediction_text": "使用OpenAI作为底座的内容平台可简化审核系统架构，减少独立审核API的维护与调用成本。",
-      "category": "infrastructure",
-      "source_signal": "OpenAI Adds Moderation Endpoints to Python SDK, Enabling Native Content Filtering"
-    },
-    {
-      "date": "2026-06-05T12:27:12.127939+08:00",
-      "prediction_text": "社区搜索产品可探索为高活跃KOL生成聚合内容卡片，提升头部创作者在站内的搜索曝光与留存。",
-      "category": "strategic_move",
-      "source_signal": "Google Rolls Out Customizable Search Profiles for Creators with 100K+ Subscribers"
-    },
-    {
-      "date": "2026-06-05T12:27:12.129228+08:00",
-      "prediction_text": "内容审核系统需加入AI生成文本的溯源标识与置信度评分，对低可信用户申诉自动标记人工复核。",
-      "category": "infrastructure",
-      "source_signal": "US Courts Confront Surge of AI-Generated Lawsuits: MIT Tech Review Report"
-    },
-    {
-      "date": "2026-06-06T13:43:19.249094+08:00",
-      "prediction_text": "内容平台可探索与边缘算力提供商合作，在低延迟区域预部署推理节点，降低分发成本。",
-      "category": "strategic_move",
-      "source_signal": "Google to Pay SpaceX $920M Monthly for GPU Compute Capacity"
-    },
-    {
-      "date": "2026-06-06T13:43:19.255587+08:00",
-      "prediction_text": "使用微软/OpenAI 双栈的平台需评估 Copilot 产品线的长期稳定性，建议提前储备替代模型方案。",
-      "category": "strategic_move",
-      "source_signal": "Microsoft AI Chief Declares Independence from OpenAI, Pivots to Superintelligence"
-    },
-    {
-      "date": "2026-06-06T13:43:19.261251+08:00",
-      "prediction_text": "社区平台的用户支持 Agent 需引入操作行为审计与二次确认机制，防止单次对话授予越权绑定。",
-      "category": "infrastructure",
-      "source_signal": "Meta AI Support Agent Exploited for Account Takeover via Recovery Email Binding"
-    },
-    {
-      "date": "2026-06-06T13:43:19.265821+08:00",
-      "prediction_text": "推荐系统团队可探索基于该理论的模型压缩方案，在保持表达力的前提下降低推理延迟。",
-      "category": "research_breakthrough",
-      "source_signal": "ICLR 2026 Outstanding Paper: Transformers Are Inherently Succinct"
-    },
-    {
-      "date": "2026-06-06T13:43:19.269953+08:00",
-      "prediction_text": "内容平台应加大内部 AI 与业务专家的交叉培养投入，避免关键人才外流后断代。",
-      "category": "strategic_move",
-      "source_signal": "Reid Hoffman Leaves Microsoft Board to Focus on AI Drug Discovery Startup Manus"
-    },
-    {
-      "date": "2026-06-06T13:43:19.273172+08:00",
-      "prediction_text": "创作者工具团队在构建 AI 辅助 Agent 时，需优先设计协作记忆层，支持提示与纠偏经验的团队迁移。",
-      "category": "ecosystem_shift",
-      "source_signal": "VentureBeat: Enterprise AI Agents Lack Cross-User Learning Persistence"
-    },
-    {
       "date": "2026-06-06T13:43:19.276025+08:00",
       "prediction_text": "出海的电商/内容平台需评估模型供应链的地缘韧性，建议储备国产与开源模型作为合规备选。",
       "category": "ecosystem_shift",
@@ -599,6 +539,66 @@
       "prediction_text": "建议基于 Ollama 改进版缓存机制开发低延迟本地知识检索 Agent，适合隐私敏感行业。",
       "category": "open_source",
       "source_signal": "Ollama v0.30.8 Improves Prompt Caching and MLX Inference Stability"
+    },
+    {
+      "date": "2026-06-14T18:09:16.396815+08:00",
+      "prediction_text": "建议探索围绕 browser-use 的垂直微调模型与数据飞轮服务，抢占中小电商与测试自动化市场。",
+      "category": "ecosystem_shift",
+      "source_signal": "browser-use 0.13.2 Adds BU3 Browser Use Models and Provider-Prefix for Custom Models"
+    },
+    {
+      "date": "2026-06-14T18:09:16.405542+08:00",
+      "prediction_text": "关注 AutoMegaKernel 的国产 GPU 适配与商业封装，是云推理降本与硬件替代的关键基础设施。",
+      "category": "infrastructure",
+      "source_signal": "AutoMegaKernel: An Agent That Self-Complies and Self-Tunes CUDA Megakernels for Batch-1 LLM Decode"
+    },
+    {
+      "date": "2026-06-14T18:09:16.412324+08:00",
+      "prediction_text": "值得投资专注于 Agent 安全审计与策略编排的初创团队，LangChain 生态的安全插件有缺口。",
+      "category": "open_source",
+      "source_signal": "LangChain 1.3.9 Tightens Anthropic Allowed Prefixes for Security"
+    },
+    {
+      "date": "2026-06-14T18:09:16.418072+08:00",
+      "prediction_text": "可以探索基于 LangGraph 的复杂状态管理中间件或调试工具，捕获状态型 multi-agent 红利。",
+      "category": "open_source",
+      "source_signal": "LangGraph 1.2.5 Fixes updateState Bug for Delta Channel on Empty Thread"
+    },
+    {
+      "date": "2026-06-14T18:09:16.423366+08:00",
+      "prediction_text": "建议构建针对 GPT-image-2 的批量生成与模板管理 SaaS，面向营销与内容团队提供高效率生产管线。",
+      "category": "ecosystem_shift",
+      "source_signal": "ilab-gpt-conjure: Open-Source WebUI Workbench for GPT-Image-2 with Codex Support"
+    },
+    {
+      "date": "2026-06-14T18:09:16.427437+08:00",
+      "prediction_text": "关注基于 OpenReshot 路线的 AR 内容创作、电商商品图重构等轻量级 3D 编辑创业方向。",
+      "category": "research_breakthrough",
+      "source_signal": "OpenReshot: Native iOS App for 3D Gaussian Splatting Re-Shooting Using CoreML"
+    },
+    {
+      "date": "2026-06-14T18:09:16.430584+08:00",
+      "prediction_text": "值得投资以 project-based 和低代码为特色的 AI 教学平台，面向产品经理与业务岗的教育工具是蓝海。",
+      "category": "ecosystem_shift",
+      "source_signal": "aipath: Interactive 30-Lesson AI Education Course with Zero Math on GitHub"
+    },
+    {
+      "date": "2026-06-14T18:09:16.433508+08:00",
+      "prediction_text": "建议开发面向 LangChain/LangGraph 的专用 Agent 行为追踪与异常定位工具，填补 observability 空白。",
+      "category": "open_source",
+      "source_signal": "LangChain 1.4.7 and Partner Package Version Metadata Renaming"
+    },
+    {
+      "date": "2026-06-14T18:09:16.436364+08:00",
+      "prediction_text": "可以考虑做 Agent 供应链安全扫描与合规工具，面向企业提供 LangChain 生态的 SBOM 与漏洞预警。",
+      "category": "infrastructure",
+      "source_signal": "LangChain langchain-openai 1.3.2 and 1.3.1: Routine Maintenance with Updated Tests and Allowlists"
+    },
+    {
+      "date": "2026-06-14T18:09:16.439221+08:00",
+      "prediction_text": "关注支持 LangGraph 的 IDE 插件或类型推导辅助工具，提升开发者体验是生态成熟期的创业切入。",
+      "category": "open_source",
+      "source_signal": "LangGraph CLI 0.4.28 Released with Python Type Checking Migration"
     }
   ]
 }
