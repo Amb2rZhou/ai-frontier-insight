@@ -2,7 +2,7 @@
 title: Anthropic
 type: company
 created: 2026-02-25
-updated: 2026-06-14
+updated: 2026-06-15
 ---
 
 # Anthropic
@@ -11,6 +11,8 @@ updated: 2026-06-14
 
 ## Timeline
 
+- **2026-06-15**: [[openai|OpenAI]] Launches Partner Network with $150M Investment to Accelerate Enterprise AI Adoption
+- **2026-06-15**: [[codex|Codex]] Gains Widespread Adoption as a Capable [[agent-frameworks|AI Agent]], Pushing Boundaries of Autonomous Tool Use
 - **2026-06-14**: LangChain 1.3.9 Tightens Anthropic Allowed Prefixes for Security
 - **2026-06-13**: US Government Orders Anthropic to Suspend Access to Mythos 5 and Fable 5 Globally Over National Security
 - **2026-06-12**: Anthropic Plans to Control Own Servers, Seeks [[google-deepmind|Google]] Backing for Computing Infrastructure

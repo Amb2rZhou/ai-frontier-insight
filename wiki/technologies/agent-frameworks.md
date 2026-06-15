@@ -2,7 +2,7 @@
 title: Agent Frameworks
 type: technology
 created: 2026-02-25
-updated: 2026-06-14
+updated: 2026-06-15
 ---
 
 # Agent Frameworks
@@ -11,6 +11,8 @@ The rapidly evolving ecosystem of tools, SDKs, and platforms for building autono
 
 ## Timeline
 
+- **2026-06-15**: Snowflake Deploys AI Agents Internally to Sell Enterprise AI Adoption to Customers
+- **2026-06-15**: [[codex|Codex]] Gains Widespread Adoption as a Capable AI Agent, Pushing Boundaries of Autonomous Tool Use
 - **2026-06-14**: LangGraph 1.2.5 Fixes updateState Bug for Delta Channel on Empty Thread
 - **2026-06-14**: AutoMegaKernel: An Agent That Self-Complies and Self-Tunes CUDA Megakernels for Batch-1 LLM Decode
 - **2026-06-14**: browser-use 0.13.2 Adds BU3 Browser Use Models and Provider-Prefix for Custom Models

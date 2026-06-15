@@ -1,66 +1,6 @@
 {
   "predictions": [
     {
-      "date": "2026-06-06T13:43:19.276025+08:00",
-      "prediction_text": "出海的电商/内容平台需评估模型供应链的地缘韧性，建议储备国产与开源模型作为合规备选。",
-      "category": "ecosystem_shift",
-      "source_signal": "Trump Targets Meeting with AI Companies to Discuss Financial Partnerships"
-    },
-    {
-      "date": "2026-06-06T13:43:19.278666+08:00",
-      "prediction_text": "平台内部的多 Agent 审核流水线可借鉴 crewAI 的追踪溯源架构，提升调试与合规可审计性。",
-      "category": "open_source",
-      "source_signal": "crewAI 1.14.7a2: Conversational Flow Traces and Chat API for Agent Orchestration"
-    },
-    {
-      "date": "2026-06-06T13:43:19.281264+08:00",
-      "prediction_text": "内容平台的推理部署可考虑引入 AMD 机型与 vLLM 的量化方案，降低非核心场景的推理硬件成本。",
-      "category": "infrastructure",
-      "source_signal": "vLLM v0.22.1 Adds JetBrains Mellum v2 Support and AMD Zen CPU Quantized Inference"
-    },
-    {
-      "date": "2026-06-06T13:43:19.283840+08:00",
-      "prediction_text": "集成 Anthropic 模型的内容平台需建立模型版本自动检测与灰度迁移流水线，避免服务中断。",
-      "category": "strategic_move",
-      "source_signal": "Anthropic SDK Deprecates Claude Opus 4.1, Signaling Model Lifecycle Management"
-    },
-    {
-      "date": "2026-06-07T13:27:50.218692+08:00",
-      "prediction_text": "内容平台的创作者工具/客服Agent需引入类似Lockdown模式，对敏感用户数据实施默认隔离访问。",
-      "category": "model_release",
-      "source_signal": "OpenAI Unveils Lockdown Mode to Defend Against Prompt Injection"
-    },
-    {
-      "date": "2026-06-07T13:27:50.229037+08:00",
-      "prediction_text": "出海的电商平台需加速自研或国产多模态备选模型，评估模型供应链的'去美国化'韧性。",
-      "category": "strategic_move",
-      "source_signal": "Trump Administration Discusses Taking Equity Stake in OpenAI"
-    },
-    {
-      "date": "2026-06-07T13:27:50.235304+08:00",
-      "prediction_text": "社区平台可探索基于QAT模型的端侧本地化审核与实时特效渲染，降低云端推理成本。",
-      "category": "open_source",
-      "source_signal": "Ollama v0.30.6: Adds Gemma 4 QAT Optimized Weights for On-Device Deployment"
-    },
-    {
-      "date": "2026-06-07T13:27:50.240279+08:00",
-      "prediction_text": "内容平台可探索将UGC音频/播客自动转录为结构化笔记或摘录，提升搜索与分发效率。",
-      "category": "open_source",
-      "source_signal": "Soul-AILab/SoulX-Transcriber: End-to-End Multi-Speaker Transcription Framework"
-    },
-    {
-      "date": "2026-06-07T13:27:50.245187+08:00",
-      "prediction_text": "内容平台的合规团队需建立多国政策情景模拟能力，从'被动应对'转向'情景预演'。",
-      "category": "ecosystem_shift",
-      "source_signal": "Sriram Krishnan Departs as White House AI Advisor to Start Policy Institution"
-    },
-    {
-      "date": "2026-06-07T13:27:50.249046+08:00",
-      "prediction_text": "内容安全团队可探索'VLM粗标+人工精修'的半自动迭代流程，加速违规内容识别模型更新。",
-      "category": "open_source",
-      "source_signal": "Somnusochi/VLM-AutoYOLO: VLM-Powered Auto Annotation and YOLO Training Pipeline"
-    },
-    {
       "date": "2026-06-07T13:27:50.252245+08:00",
       "prediction_text": "创作者工具团队可参考其CLIP一致性检测与音画同步修复模块，集成至短视频创作Agent。",
       "category": "open_source",
@@ -599,6 +539,66 @@
       "prediction_text": "关注支持 LangGraph 的 IDE 插件或类型推导辅助工具，提升开发者体验是生态成熟期的创业切入。",
       "category": "open_source",
       "source_signal": "LangGraph CLI 0.4.28 Released with Python Type Checking Migration"
+    },
+    {
+      "date": "2026-06-15T11:02:59.418053+08:00",
+      "prediction_text": "Agent自主性爆发将催生安全监控与目标对齐工具需求，建议探索Agent行为审计与沙盒测试平台。",
+      "category": "research_breakthrough",
+      "source_signal": "Codex Gains Widespread Adoption as a Capable AI Agent, Pushing Boundaries of Autonomous Tool Use"
+    },
+    {
+      "date": "2026-06-15T11:02:59.427730+08:00",
+      "prediction_text": "企业AI集成商与行业解决方案伙伴将受益，值得关注OpenAI生态内的垂直SaaS与咨询创业机会。",
+      "category": "strategic_move",
+      "source_signal": "OpenAI Launches Partner Network with $150M Investment to Accelerate Enterprise AI Adoption"
+    },
+    {
+      "date": "2026-06-15T11:02:59.436456+08:00",
+      "prediction_text": "安全对齐技术路线面临根本挑战，建议探索基于可解释性的数据清洗与训练解耦工具创业方向。",
+      "category": "research_breakthrough",
+      "source_signal": "Google DeepMind Researcher Finds SFT Safety Filters Can Fail Due to Training Contamination from Previous Models"
+    },
+    {
+      "date": "2026-06-15T11:02:59.444082+08:00",
+      "prediction_text": "企业级Token管控与成本优化工具将成刚需，建议探索面向大型组织的内部AI用量管理与审计平台。",
+      "category": "strategic_move",
+      "source_signal": "Meta Cuts Employee Token Usage and Pushes In-House AI Tools After Encouraging AI-Driven Impact"
+    },
+    {
+      "date": "2026-06-15T11:02:59.450909+08:00",
+      "prediction_text": "芯片创业窗口仍在，但需聚焦特定场景（如推理、边缘）而非全面对标GPU，投资应关注差异化路线。",
+      "category": "infrastructure",
+      "source_signal": "Meta's Custom AI Chip Efforts Face Layoffs and Internal Fights Post-Rivos Acquisition"
+    },
+    {
+      "date": "2026-06-15T11:02:59.456251+08:00",
+      "prediction_text": "编码工具层利润空间将压缩，建议关注基于开放模型的垂直微调与私有化部署服务创业。",
+      "category": "ecosystem_shift",
+      "source_signal": "AI Coding Model Competition Intensifies: Composer 2.5, MiniMax-M3 and Open-Source Alternatives Challenge Frontier Models"
+    },
+    {
+      "date": "2026-06-15T11:02:59.461020+08:00",
+      "prediction_text": "医疗AI创业应避免盲目追求领域特权，可探索通用模型+轻量微调的敏捷方案，降低定制成本。",
+      "category": "research_breakthrough",
+      "source_signal": "New Study Shows Generalist AI Models May Outperform Specialized Medical AIs, Methodology Debated"
+    },
+    {
+      "date": "2026-06-15T11:02:59.466418+08:00",
+      "prediction_text": "法律、财务、合规等流程密集型行业SMB是AI创业蓝海，建议关注低门槛自动化SaaS工具。",
+      "category": "ecosystem_shift",
+      "source_signal": "AI-First Legal Workflow Automation 'Sandstone' Raises $30M Series A from Lightspeed"
+    },
+    {
+      "date": "2026-06-15T11:02:59.471621+08:00",
+      "prediction_text": "AI Agent销售从卖概念转向卖案例，建议创业公司优先打造可复制的内部应用标杆。",
+      "category": "strategic_move",
+      "source_signal": "Snowflake Deploys AI Agents Internally to Sell Enterprise AI Adoption to Customers"
+    },
+    {
+      "date": "2026-06-15T11:02:59.476509+08:00",
+      "prediction_text": "推理能力瓶颈将推升对神经符号、因果推理等替代路线的研究投入，早期探索者值得关注。",
+      "category": "research_breakthrough",
+      "source_signal": "Gary Marcus Highlights New Study Showing LLMs Struggle with Abstract Reasoning and Learning Transfer"
     }
   ]
 }

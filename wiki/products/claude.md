@@ -2,7 +2,7 @@
 title: Claude
 type: product
 created: 2026-02-25
-updated: 2026-06-13
+updated: 2026-06-15
 ---
 
 # Claude
@@ -11,6 +11,7 @@ updated: 2026-06-13
 
 ## Timeline
 
+- **2026-06-15**: AI Coding Model Competition Intensifies: Composer 2.5, MiniMax-M3 and Open-Source Alternatives Challenge Frontier Models
 - **2026-06-13**: US Government Orders [[anthropic|Anthropic]] to Suspend Access to Mythos 5 and Fable 5 Globally Over National Security
 - **2026-06-12**: Xiaomi Open-Sources MiMo Code: Outperforms Claude Code on Long-Horizon Tasks
 - **2026-06-12**: [[anthropic|Anthropic]] Data Retention Policy Scares Off Enterprise Customers for Fable 5

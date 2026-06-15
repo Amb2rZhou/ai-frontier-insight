@@ -2,7 +2,7 @@
 title: Cursor AI
 type: company
 created: 2026-03-05
-updated: 2026-06-08
+updated: 2026-06-15
 ---
 
 # Cursor AI
@@ -11,6 +11,7 @@ AI-powered code editor that became one of the fastest-growing developer tools. K
 
 ## Timeline
 
+- **2026-06-15**: AI Coding Model Competition Intensifies: Composer 2.5, MiniMax-M3 and Open-Source Alternatives Challenge Frontier Models
 - **2026-06-08**: Omnistack Agent: Platform-Agnostic 'One Full-Stack Engineer Brain' Adapter for All Major AI Chat Interfaces
 - **2026-06-08**: Omnistack Agent: Platform-Agnostic AI Engineer Compiled for Multiple Models
 - **2026-06-08**: OmniStack Agent: Platform-Agnostic [[agent-frameworks|AI Agent]] Compiled for [[gpt|ChatGPT]], [[claude|Claude]], [[copilot|Copilot]], [[gemini|Gemini]] & Cursor

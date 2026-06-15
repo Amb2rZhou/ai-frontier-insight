@@ -2,7 +2,7 @@
 title: AI Safety
 type: trend
 created: 2026-02-25
-updated: 2026-06-12
+updated: 2026-06-15
 ---
 
 # AI Safety
@@ -13,6 +13,7 @@ The evolving landscape of AI safety research, policy, and corporate commitments 
 
 ## Timeline
 
+- **2026-06-15**: [[google-deepmind|Google DeepMind]] Researcher Finds SFT Safety Filters Can Fail Due to Training Contamination from Previous Models
 - **2026-06-12**: [[google-deepmind|Google DeepMind]] Launches $10M Research Fund for [[multi-agent-systems|Multi-Agent]] Collective Behavior Safety
 - **2026-06-10**: [[anthropic|Anthropic]] Releases [[claude|Claude]] Fable 5 (Mythos-Class) with Heavy Safety Guardrails, Sparking Backlash
 - **2026-06-06**: [[meta|Meta AI]] Support Agent Exploited for Account Takeover via Recovery Email Binding

@@ -2,7 +2,7 @@
 title: OpenAI
 type: company
 created: 2026-02-25
-updated: 2026-06-14
+updated: 2026-06-15
 ---
 
 # OpenAI
@@ -11,6 +11,8 @@ The leading commercial AI lab, maker of [[gpt|GPT]] models, ChatGPT, [[codex|Cod
 
 ## Timeline
 
+- **2026-06-15**: OpenAI Launches Partner Network with $150M Investment to Accelerate Enterprise AI Adoption
+- **2026-06-15**: [[codex|Codex]] Gains Widespread Adoption as a Capable [[agent-frameworks|AI Agent]], Pushing Boundaries of Autonomous Tool Use
 - **2026-06-14**: LangChain langchain-openai 1.3.2 and 1.3.1: Routine Maintenance with Updated Tests and Allowlists
 - **2026-06-14**: ilab-gpt-conjure: Open-Source WebUI Workbench for GPT-Image-2 with [[codex|Codex]] Support
 - **2026-06-12**: OpenAI Negotiates Landmark 10-Gigawatt Data Center Campus Lease in Ohio

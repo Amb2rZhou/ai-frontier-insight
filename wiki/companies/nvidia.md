@@ -2,7 +2,7 @@
 title: NVIDIA
 type: company
 created: 2026-02-25
-updated: 2026-06-12
+updated: 2026-06-15
 ---
 
 # NVIDIA
@@ -11,6 +11,7 @@ Dominant [[ai-hardware|AI hardware]] company, increasingly expanding into AI sof
 
 ## Timeline
 
+- **2026-06-15**: [[meta|Meta]]'s Custom AI Chip Efforts Face Layoffs and Internal Fights Post-Rivos Acquisition
 - **2026-06-12**: [[google-deepmind|Google]] Considers Samsung for Manufacturing Key Component of Future AI Chip
 - **2026-06-12**: [[openai|OpenAI]] Negotiates Landmark 10-Gigawatt Data Center Campus Lease in Ohio
 - **2026-06-10**: NVIDIA Nemotron 3 Ultra Emerges as Top Open-Weight Model; Competing with Frontier Systems
