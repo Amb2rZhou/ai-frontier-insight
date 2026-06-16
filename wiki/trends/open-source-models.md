@@ -2,7 +2,7 @@
 title: Open Source Models
 type: trend
 created: 2026-02-25
-updated: 2026-06-11
+updated: 2026-06-16
 ---
 
 # Open Source Models
@@ -13,6 +13,7 @@ The rapid proliferation of open-source and open-weight foundation models challen
 
 ## Timeline
 
+- **2026-06-16**: Ponytail: Open-Source Tool to Make AI Agents 'Think Like the Laziest Senior Dev' (17k Stars)
 - **2026-06-11**: Sapient Claims Foundation Model Trained from Scratch for ~$1,500
 - **2026-06-11**: [[hugging-face|HuggingFace]], [[google-deepmind|Google]] & AI Community Launch '[[gemma|Gemma]] Challenge' Against [[anthropic|Anthropic]]'s Safety Model
 - **2026-06-11**: [[google-deepmind|Google DeepMind]] Releases DiffusionGemma: Open-Source Text Diffusion Model

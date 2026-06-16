@@ -260,6 +260,99 @@ def cmd_daily():
     print(f"Draft: {draft_path}")
 
 
+def cmd_collect():
+    """采集-only：跑所有采集器，存 raw_cache，不做任何分析。
+
+    供 headless Claude 分析链路用（采集走 Python，筛选/洞察走 Claude）。
+    复用 cmd_daily 的步骤 1 / 1.5，支持 --date 回填、--anchor 锚点。
+    """
+    today = _get_today()
+    backfill_date = _parse_backfill_date()
+    print(f"=== Collect-only: {today} ===")
+
+    raw_items = _collect_all(target_date=backfill_date)
+    if not raw_items:
+        print("No items collected, aborting")
+        sys.exit(1)
+
+    from .utils.archive import save_raw_cache
+    cache_path = save_raw_cache(today, raw_items)
+    print(f"\n=== Collect complete: {len(raw_items)} items → {cache_path} ===")
+
+
+def cmd_publish_daily():
+    """个人版机械发布：吃 headless Claude 产出的分析 JSON，做无 LLM 的发布步骤。
+
+    用法：python -m src.main publish-daily --from-json <path>
+    JSON 结构：{"date": "YYYY-MM-DD"(可选), "insights": [...], "trend_summary": "..."}
+      - insights：最终 10 条，每条 dict 含 title/signal_text/insight/implication/sources/tags/signal_strength
+    做的事（全部本地、不调 LLM）：存草稿 → 周累积 → 归档 → 导出 md → Jekyll post。
+    不做：趋势记忆更新（由 Claude 直接读写 trends.json）、git push、推钉钉（由外层 shell/Claude 负责）。
+    """
+    if "--from-json" not in sys.argv:
+        print("::error:: 缺少 --from-json <path>")
+        sys.exit(1)
+    idx = sys.argv.index("--from-json")
+    if idx + 1 >= len(sys.argv):
+        print("::error:: --from-json 后缺少路径")
+        sys.exit(1)
+    json_path = Path(sys.argv[idx + 1])
+    if not json_path.exists():
+        print(f"::error:: 分析 JSON 不存在: {json_path}")
+        sys.exit(1)
+
+    data = json.loads(json_path.read_text(encoding="utf-8"))
+    today = data.get("date") or _get_today()
+    insights = data.get("insights", [])
+    trend_summary = data.get("trend_summary", "")
+    if not insights:
+        print("::error:: JSON 里没有 insights")
+        sys.exit(1)
+
+    print(f"=== Publish-daily（个人版机械发布）: {today}，{len(insights)} 条 ===")
+
+    # 1. 存草稿（send 链路兼容）
+    draft_data = {
+        "date": today,
+        "insights": insights,
+        "trend_summary": trend_summary,
+        "signal_count": len(insights),
+    }
+    draft_path = save_draft(draft_data, "daily")
+    print(f"  - 草稿: {draft_path}")
+
+    # 2. 周累积（供周报/去重）
+    save_daily_signals(today, insights)
+
+    # 3. 归档（需 raw_items）
+    from .utils.archive import archive_daily, load_raw_cache
+    raw_items = load_raw_cache(today) or []
+    archive_daily(today, raw_items, insights, trend_summary)
+    print(f"  - 归档完成（raw {len(raw_items)} 条）")
+
+    # 4. 导出 markdown
+    daily_dir = str(Path(__file__).resolve().parents[1] / "data" / "daily" / today)
+    export_daily_markdown(today, insights, trend_summary, output_dir=daily_dir)
+    print(f"  - Markdown: {daily_dir}/{today}_daily.md")
+
+    # 5. Jekyll post
+    site_posts = Path(__file__).resolve().parents[1] / "docs" / "_posts"
+    site_posts.mkdir(parents=True, exist_ok=True)
+    md_source = Path(daily_dir) / f"{today}_daily.md"
+    if md_source.exists():
+        content = md_source.read_text(encoding="utf-8")
+        first_line = content.split("\n")[0].strip("# ").strip()
+        post_content = (
+            f'---\nlayout: post\ntitle: "{first_line} ({today})"\n'
+            f'date: {today}\n---\n\n{content}\n'
+        )
+        post_path = site_posts / f"{today}-daily.md"
+        post_path.write_text(post_content, encoding="utf-8")
+        print(f"  - Jekyll post: {post_path}")
+
+    print(f"\n=== Publish-daily 完成 ===")
+
+
 def cmd_send_daily():
     """Send today's daily brief via webhook (two messages).
 
@@ -397,6 +490,8 @@ def main():
     command = sys.argv[1]
     commands = {
         "daily": cmd_daily,
+        "collect": cmd_collect,
+        "publish-daily": cmd_publish_daily,
         "dept-daily": cmd_dept_daily,
         "send-daily": cmd_send_daily,
         "weekly": cmd_weekly,

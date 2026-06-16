@@ -2,7 +2,7 @@
 title: Google DeepMind
 type: company
 created: 2026-02-25
-updated: 2026-06-15
+updated: 2026-06-16
 ---
 
 # Google DeepMind
@@ -11,6 +11,7 @@ Google's unified AI research division, maker of [[gemini|Gemini]] and [[gemma|Ge
 
 ## Timeline
 
+- **2026-06-16**: Google DeepMind: Synthetic Document Fine-Tuning for Instilling Positive Traits in LLMs
 - **2026-06-15**: Google DeepMind Researcher Finds SFT Safety Filters Can Fail Due to Training Contamination from Previous Models
 - **2026-06-12**: Google Considers Samsung for Manufacturing Key Component of Future AI Chip
 - **2026-06-12**: [[anthropic|Anthropic]] Plans to Control Own Servers, Seeks Google Backing for Computing Infrastructure

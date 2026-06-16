@@ -1,66 +1,6 @@
 {
   "predictions": [
     {
-      "date": "2026-06-07T13:27:50.252245+08:00",
-      "prediction_text": "创作者工具团队可参考其CLIP一致性检测与音画同步修复模块，集成至短视频创作Agent。",
-      "category": "open_source",
-      "source_signal": "myccarl/ai-shortVideo-pipeline: End-to-End AI Short Video Production Pipeline"
-    },
-    {
-      "date": "2026-06-07T13:27:50.255711+08:00",
-      "prediction_text": "平台内部AI开发团队可探索类似方案，统一管理多个Agent模型的prompt规则与行为边界。",
-      "category": "infrastructure",
-      "source_signal": "PanisHandsome/ai-rules-sync: Unified Config Sync for AI Coding Agents"
-    },
-    {
-      "date": "2026-06-07T13:27:50.259000+08:00",
-      "prediction_text": "创作者工具可发布基于UV的自包含脚本，让用户Agent一键调用OCR/视觉/音频能力。",
-      "category": "ecosystem_shift",
-      "source_signal": "davanstrien/uv-scripts-for-ai: Self-Contained AI Scripts for OCR, Vision, Audio Tasks"
-    },
-    {
-      "date": "2026-06-07T13:27:50.261617+08:00",
-      "prediction_text": "推荐系统团队可研究其paged-KV和speculative decoding实现，评估在内部场景复用的可行性。",
-      "category": "research_breakthrough",
-      "source_signal": "zengxiao-he/tessera: From-Scratch LLM Distillation and Serving Engine"
-    },
-    {
-      "date": "2026-06-08T16:11:25.429825+08:00",
-      "prediction_text": "内容平台建议加速自研或蒸馏轻量模型，在非核心场景优先用开源方案降低token消耗。",
-      "category": "ecosystem_shift",
-      "source_signal": "Tokenpocalypse: AI Companies Raise Prices Ahead of IPOs, Signaling Market Maturity and Cost Pass-Through"
-    },
-    {
-      "date": "2026-06-08T16:11:25.439878+08:00",
-      "prediction_text": "社区平台可探索Agent驱动的智能创作助手与场景化搜索，替代纯聊天入口提升转化。",
-      "category": "strategic_move",
-      "source_signal": "OpenAI Still Developing 'Super App' – 'Chat Is Dead' Declaration Signals Shift Toward Agentic and Multi-Modal Interfaces"
-    },
-    {
-      "date": "2026-06-08T16:11:25.446734+08:00",
-      "prediction_text": "电商平台可评估其Managed Agent在售前问答、订单处理场景的集成性价比。",
-      "category": "infrastructure",
-      "source_signal": "Anthropic SDK v0.107.0 Adds Managed Agent Types and API-Key Auth Fix for Foundry"
-    },
-    {
-      "date": "2026-06-08T16:11:25.451820+08:00",
-      "prediction_text": "推荐系统与审核团队需建立模型版本收敛机制与灰度回滚预案，降低故障半径。",
-      "category": "research_breakthrough",
-      "source_signal": "VentureBeat: The 'Blast Radius' of LLM Changes in Production – Challenges for AI Orchestration"
-    },
-    {
-      "date": "2026-06-08T16:11:25.457009+08:00",
-      "prediction_text": "出海电商与内容平台需提前布局多区域AI/云供应商，避免单一供应链政策风险。",
-      "category": "ecosystem_shift",
-      "source_signal": "Europe Accelerates Ditching of US Big Tech: Governments and Companies Plan Transition Away from American AI/Cloud"
-    },
-    {
-      "date": "2026-06-08T16:11:25.462165+08:00",
-      "prediction_text": "创作者工具与客服Agent建议引入多模型备用路由，确保主API不可用时自动切换。",
-      "category": "infrastructure",
-      "source_signal": "Notion Restores Access to Anthropic After Brief Service Disruption, Highlighting API Dependencies in AI Ecosystem"
-    },
-    {
       "date": "2026-06-08T16:11:25.467085+08:00",
       "prediction_text": "内容平台的AI编排团队可借鉴其抽象层设计，统一Agent行为在不同模型上的表现。",
       "category": "open_source",
@@ -599,6 +539,66 @@
       "prediction_text": "推理能力瓶颈将推升对神经符号、因果推理等替代路线的研究投入，早期探索者值得关注。",
       "category": "research_breakthrough",
       "source_signal": "Gary Marcus Highlights New Study Showing LLMs Struggle with Abstract Reasoning and Learning Transfer"
+    },
+    {
+      "date": "2026-06-16T11:04:33.831775+08:00",
+      "prediction_text": "建议关注具备独特IP但估值合理的中型AI芯片公司，作为潜在并购标的。",
+      "category": "infrastructure",
+      "source_signal": "Qualcomm in Talks to Acquire Tenstorrent for $8B-$10B, Marking Major AI Chip Consolidation"
+    },
+    {
+      "date": "2026-06-16T11:04:33.839959+08:00",
+      "prediction_text": "算力中介和调度平台价值上升，值得探索云无关的AI基础设施代理层创业。",
+      "category": "infrastructure",
+      "source_signal": "Microsoft's GitHub Faces AI Capacity Crunch, Turns to AWS as Competitor"
+    },
+    {
+      "date": "2026-06-16T11:04:33.846815+08:00",
+      "prediction_text": "建议聚焦可规模化替代白领知识工作的AI原生服务，而非卖工具给将被替代的企业。",
+      "category": "ecosystem_shift",
+      "source_signal": "Satya Nadella Warns AI Could 'Hollow Out' Entire Industries, Echoing Globalization Damage"
+    },
+    {
+      "date": "2026-06-16T11:04:33.854597+08:00",
+      "prediction_text": "建议探索基于定制化深度研究Agent的垂直SaaS订阅模式，目标行业分析师与战略顾问。",
+      "category": "strategic_move",
+      "source_signal": "Sakana AI Launches 'Marlin': Commercial 'Ultra Deep Research' Agent Producing 100+ Page Reports in 8 Hours"
+    },
+    {
+      "date": "2026-06-16T11:04:33.863947+08:00",
+      "prediction_text": "AI竞赛下巨头内斗加速人才外溢，值得关注从Meta出走团队的二次创业项目。",
+      "category": "strategic_move",
+      "source_signal": "Meta AI Reorg In-House Turmoil: CTO Admits Reorg Was 'Atrocious'; AI Mode on Facebook Launches"
+    },
+    {
+      "date": "2026-06-16T11:04:33.874756+08:00",
+      "prediction_text": "对齐工具链出现新分支，建议探索合成对齐数据生成服务或微调框架。",
+      "category": "research_breakthrough",
+      "source_signal": "Google DeepMind: Synthetic Document Fine-Tuning for Instilling Positive Traits in LLMs"
+    },
+    {
+      "date": "2026-06-16T11:04:33.882053+08:00",
+      "prediction_text": "AI能力定量预测进入实证阶段，关注基于该趋势的AGI风险评估与保险产品创新。",
+      "category": "research_breakthrough",
+      "source_signal": "METR Study: Frontier AI Models' No-CoT Task Completion Time Horizons Double Every ~7 Months"
+    },
+    {
+      "date": "2026-06-16T11:04:33.888905+08:00",
+      "prediction_text": "建议在代码Agent产品中集成‘最小改动优先’策略，降低企业用户对冗余代码的顾虑。",
+      "category": "open_source",
+      "source_signal": "Ponytail: Open-Source Tool to Make AI Agents 'Think Like the Laziest Senior Dev' (17k Stars)"
+    },
+    {
+      "date": "2026-06-16T11:04:33.895549+08:00",
+      "prediction_text": "Agent生命周期管理与资产发现工具将成刚需，值得企业SaaS创业方向优先投入。",
+      "category": "ecosystem_shift",
+      "source_signal": "Ivanti Research: 85% of IT Teams Say AI Agents Are Controlled, But Only 42% Know Who Owns Them"
+    },
+    {
+      "date": "2026-06-16T11:04:33.903054+08:00",
+      "prediction_text": " AI应用层创业需构建不可替代的垂直数据或UI壁垒，避免依赖单一模型提供商的优待。",
+      "category": "ecosystem_shift",
+      "source_signal": "Cursor's Testy Relationship with Anthropic Revealed; Anthropic Told Cursor Claude Code Was 'Mainly a Research Effort'"
     }
   ]
 }

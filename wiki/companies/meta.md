@@ -2,7 +2,7 @@
 title: Meta
 type: company
 created: 2026-02-26
-updated: 2026-06-15
+updated: 2026-06-16
 ---
 
 # Meta
@@ -11,6 +11,7 @@ Parent company of Facebook, Instagram, and WhatsApp. Major AI investor through F
 
 ## Timeline
 
+- **2026-06-16**: Meta AI Reorg In-House Turmoil: CTO Admits Reorg Was 'Atrocious'; AI Mode on Facebook Launches
 - **2026-06-15**: Meta's Custom AI Chip Efforts Face Layoffs and Internal Fights Post-Rivos Acquisition
 - **2026-06-15**: Meta Cuts Employee Token Usage and Pushes In-House AI Tools After Encouraging AI-Driven Impact
 - **2026-06-14**: LangChain 1.4.7 and Partner Package Version Metadata Renaming

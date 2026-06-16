@@ -1,23 +1,25 @@
 {
-  "last_updated": "2026-06-15T11:03:15.635290+08:00",
+  "last_updated": "2026-06-16T11:04:49.787349+08:00",
   "trends": [
     {
       "id": "ai_safety_pivot_and_accelerated_agi_time",
       "name": "AI Safety Pivot and Accelerated AGI Timelines",
       "related_tags": [
-        "AI Safety",
+        "Legal Risk",
         "Content Moderation",
         "Regulation",
-        "Safety",
+        "能力评估",
         "AI Governance",
+        "METR",
+        "Corporate Strategy",
+        "AI Safety",
         "Platform Governance",
-        "Legal Risk",
-        "Corporate Strategy"
+        "无 CoT",
+        "Safety"
       ],
       "trajectory": "accelerating",
-      "signal_count": 135,
+      "signal_count": 137,
       "weekly_counts": [
-        2,
         2,
         2,
         1,
@@ -26,6 +28,7 @@
         1,
         3,
         3,
+        1,
         1,
         1,
         1
@@ -94,6 +97,10 @@
         {
           "date": "2026-06-15",
           "event": "Google DeepMind Researcher Finds SFT Safety Filters Can Fail Due to Training Contamination from Previous Models"
+        },
+        {
+          "date": "2026-06-16",
+          "event": "2026-06-16: METR-style study estimates no-CoT task-completion time horizons of frontier models"
         }
       ],
       "created": "2026-02-25"
@@ -103,16 +110,21 @@
       "name": "Open Source Foundation Model Proliferation",
       "related_tags": [
         "AI Education",
-        "Community",
-        "Multimodal AI",
-        "Foundation Models",
-        "Developer Ecosystem",
-        "Open Source AI",
+        "DiffusionGemma",
+        "DeepSeek-V4",
         "Open Source",
-        "Learning Resources"
+        "Gemma 4",
+        "Developer Ecosystem",
+        "LocateAnything",
+        "扩散模型",
+        "Foundation Models",
+        "Multimodal AI",
+        "Learning Resources",
+        "Community",
+        "Open Source AI"
       ],
       "trajectory": "accelerating",
-      "signal_count": 120,
+      "signal_count": 121,
       "weekly_counts": [
         0,
         1,
@@ -167,6 +179,10 @@
         {
           "date": "2026-06-14",
           "event": "First detected"
+        },
+        {
+          "date": "2026-06-16",
+          "event": "2026-06-16: Google releases Gemma 4 12B (unified multimodal, 1M+ downloads) and DiffusionGemma 26B (diffusion LLM); NVIDIA opens LocateAnything-3B; DeepSeek-V4 matures on vLLM v0.23"
         }
       ],
       "created": "2026-02-25"
@@ -185,9 +201,8 @@
         "Model Efficiency"
       ],
       "trajectory": "accelerating",
-      "signal_count": 206,
+      "signal_count": 207,
       "weekly_counts": [
-        1,
         1,
         1,
         0,
@@ -197,6 +212,7 @@
         2,
         1,
         3,
+        1,
         1,
         1
       ],
@@ -292,6 +308,10 @@
         {
           "date": "2026-06-15",
           "event": "Gary Marcus Highlights New Study Showing LLMs Struggle with Abstract Reasoning and Learning Transfer"
+        },
+        {
+          "date": "2026-06-16",
+          "event": "2026-06-16: METR study estimates no-CoT task-completion time horizons of frontier models double every ~7 months"
         }
       ],
       "created": "2026-02-25"
@@ -310,9 +330,8 @@
         "Employee Activism"
       ],
       "trajectory": "accelerating",
-      "signal_count": 60,
+      "signal_count": 61,
       "weekly_counts": [
-        0,
         0,
         1,
         2,
@@ -323,6 +342,7 @@
         1,
         1,
         0,
+        1,
         1
       ],
       "key_events": [
@@ -409,19 +429,18 @@
       "id": "autonomous_ai_agent_development_ecosyste",
       "name": "Autonomous AI Agent Development Ecosystem Growth",
       "related_tags": [
-        "Data Pipeline",
-        "LangChain",
-        "SDK Updates",
-        "Type Safety",
-        "Anthropic",
         "Observability",
-        "Developer Tools",
-        "LangGraph"
+        "LangChain",
+        "深度研究",
+        "LangGraph",
+        "Model Competition",
+        "Marlin",
+        "长时程 Agent",
+        "Autonomous Coding"
       ],
       "trajectory": "accelerating",
-      "signal_count": 756,
+      "signal_count": 761,
       "weekly_counts": [
-        2,
         2,
         2,
         4,
@@ -432,21 +451,10 @@
         0,
         2,
         3,
-        2
+        2,
+        1
       ],
       "key_events": [
-        {
-          "date": "2026-06-12",
-          "event": "First detected"
-        },
-        {
-          "date": "2026-06-12",
-          "event": "Microsoft Open-Sources SkillOpt: Automatic AI Agent Skill Upgrades Without Weight Tuning; Anthropic Data Retention Policy Scares Off Enterprise Customers for Fable 5"
-        },
-        {
-          "date": "2026-06-13",
-          "event": "2026-06-12: Paper 'SpatialClaw' Rethinks Action Interface for Agentic Spatial Reasoning in VLMs; CrewAI v1.14.7 Adds Pluggable Default Backends for Memory, Knowledge, and RAG"
-        },
         {
           "date": "2026-06-13",
           "event": "2026-06-12: vLLM v0.23.0 Released with DeepSeek-V3 Support and 200+ Contributors"
@@ -474,6 +482,18 @@
         {
           "date": "2026-06-15",
           "event": "Codex Gains Widespread Adoption as a Capable AI Agent, Pushing Boundaries of Autonomous Tool Use"
+        },
+        {
+          "date": "2026-06-15",
+          "event": "First detected"
+        },
+        {
+          "date": "2026-06-16",
+          "event": "2026-06-16: Sakana AI launches Marlin 'Virtual CSO', a long-horizon autonomous B2B research agent (100+ page reports in 8h)"
+        },
+        {
+          "date": "2026-06-16",
+          "event": "2026-06-16: Sakana AI launches Marlin 'Virtual CSO', a long-horizon autonomous B2B research agent (100+ page reports in 8h)"
         }
       ],
       "created": "2026-02-25"
@@ -793,19 +813,22 @@
       "id": "mega-funding_rounds_and_market_consolida",
       "name": "Mega-Funding Rounds and Market Consolidation",
       "related_tags": [
+        "AI基础设施",
         "Market Leadership",
-        "定价策略",
+        "商业化",
+        "Partnership",
         "Reinforcement Learning",
         "Funding",
-        "AI基础设施",
-        "商业化",
         "DeepMind",
-        "Partnership"
+        "AI 芯片",
+        "Qualcomm",
+        "Tenstorrent",
+        "定价策略",
+        "并购"
       ],
       "trajectory": "accelerating",
-      "signal_count": 28,
+      "signal_count": 30,
       "weekly_counts": [
-        2,
         0,
         0,
         1,
@@ -816,6 +839,7 @@
         1,
         1,
         0,
+        1,
         1
       ],
       "key_events": [
@@ -866,6 +890,14 @@
         {
           "date": "2026-06-12",
           "event": "OpenAI Negotiates Landmark 10-Gigawatt Data Center Campus Lease in Ohio"
+        },
+        {
+          "date": "2026-06-16",
+          "event": "2026-06-16: Qualcomm in talks to acquire AI chip designer Tenstorrent for $8B-$10B"
+        },
+        {
+          "date": "2026-06-16",
+          "event": "2026-06-16: Qualcomm in talks to acquire AI chip designer Tenstorrent for $8B-$10B"
         }
       ],
       "created": "2026-02-28"
@@ -875,13 +907,18 @@
       "name": "Geopolitical Data Sovereignty and EU Tech Divergence",
       "related_tags": [
         "地缘政治",
-        "数据主权",
         "合规",
+        "Anthropic",
+        "Fable 5",
+        "模型管制",
+        "出口管制",
+        "欧洲AI",
         "海外业务",
-        "欧洲AI"
+        "数据主权",
+        "Mythos 5"
       ],
       "trajectory": "accelerating",
-      "signal_count": 5,
+      "signal_count": 7,
       "weekly_counts": [
         1,
         1,
@@ -890,7 +927,8 @@
         1,
         0,
         0,
-        0
+        0,
+        1
       ],
       "key_events": [
         {
@@ -912,6 +950,14 @@
         {
           "date": "2026-06-11",
           "event": "Anthropic CEO Dario Amodei Calls for FAA-Style AI Regulation in Major Policy Essay"
+        },
+        {
+          "date": "2026-06-16",
+          "event": "2026-06-16: US gov bans foreign access to Anthropic's new Fable 5/Mythos 5 models; White House talks remain unresolved"
+        },
+        {
+          "date": "2026-06-16",
+          "event": "2026-06-16: US gov bans foreign access to Anthropic's Fable 5/Mythos 5 models; White House talks unresolved"
         }
       ],
       "created": "2026-06-08"
@@ -920,11 +966,54 @@
       "id": "enterprise_ai_adoption_acceleration",
       "name": "Enterprise AI Adoption Acceleration",
       "related_tags": [
-        "Enterprise AI",
+        "AI 治理",
+        "可观测性",
         "Business Strategy",
-        "Partnership Ecosystem",
-        "Go-to-Market Strategy",
-        "AI Agents"
+        "AI Agents",
+        "Enterprise AI",
+        "护城河",
+        "Agent 归属",
+        "Cost Control"
+      ],
+      "trajectory": "accelerating",
+      "signal_count": 6,
+      "weekly_counts": [
+        1,
+        1
+      ],
+      "key_events": [
+        {
+          "date": "2026-06-15",
+          "event": "First detected"
+        },
+        {
+          "date": "2026-06-15",
+          "event": "First detected"
+        },
+        {
+          "date": "2026-06-15",
+          "event": "First detected"
+        },
+        {
+          "date": "2026-06-16",
+          "event": "2026-06-16: Nadella warns frontier models may commoditize industry expertise; Ivanti finds only 42% of orgs truly know AI agent ownership"
+        },
+        {
+          "date": "2026-06-16",
+          "event": "2026-06-16: Ivanti finds only 42% of orgs truly know AI agent ownership"
+        }
+      ],
+      "created": "2026-06-15"
+    },
+    {
+      "id": "ai_industry_'hollowing_out'_and_labor_ma",
+      "name": "AI Industry 'Hollowing Out' and Labor Market Disruption Fears",
+      "related_tags": [
+        "Labor Market",
+        "Industry Disruption",
+        "Satya Nadella",
+        "Economic Impact",
+        "Job Displacement"
       ],
       "trajectory": "accelerating",
       "signal_count": 1,
@@ -933,21 +1022,22 @@
       ],
       "key_events": [
         {
-          "date": "2026-06-15",
+          "date": "2026-06-16",
           "event": "First detected"
         }
       ],
-      "created": "2026-06-15"
+      "created": "2026-06-16"
     },
     {
-      "id": "ai_internal_tooling_and_dogfooding_by_te",
-      "name": "AI Internal Tooling and Dogfooding by Tech Giants",
+      "id": "ai_chip_supply_chain_tensions_and_infras",
+      "name": "AI Chip Supply Chain Tensions and Infrastructure Capacity",
       "related_tags": [
-        "Tech Giants",
-        "Internal AI Adoption",
-        "Cost Control",
-        "Corporate Strategy",
-        "Dogfooding"
+        "AI Chips",
+        "Infrastructure",
+        "Cloud Competition",
+        "Capacity Crunch",
+        "GitHub",
+        "AWS"
       ],
       "trajectory": "accelerating",
       "signal_count": 1,
@@ -956,21 +1046,21 @@
       ],
       "key_events": [
         {
-          "date": "2026-06-15",
+          "date": "2026-06-16",
           "event": "First detected"
         }
       ],
-      "created": "2026-06-15"
+      "created": "2026-06-16"
     },
     {
-      "id": "ai_coding_and_software_development_compe",
-      "name": "AI Coding and Software Development Competition",
+      "id": "open-source_ai_coding_and_developer_effi",
+      "name": "Open-Source AI Coding and Developer Efficiency Tools",
       "related_tags": [
-        "Coding AI",
-        "Model Competition",
-        "Developer Tools",
         "Open Source",
-        "Autonomous Coding"
+        "AI Coding",
+        "Developer Tools",
+        "Ponytail",
+        "Efficiency"
       ],
       "trajectory": "accelerating",
       "signal_count": 1,
@@ -979,34 +1069,11 @@
       ],
       "key_events": [
         {
-          "date": "2026-06-15",
+          "date": "2026-06-16",
           "event": "First detected"
         }
       ],
-      "created": "2026-06-15"
-    },
-    {
-      "id": "ai_in_specialized_verticals_(legal,_medi",
-      "name": "AI in Specialized Verticals (Legal, Medical)",
-      "related_tags": [
-        "Legal AI",
-        "AI in Medicine",
-        "Startup Funding",
-        "Workflow Automation",
-        "Vertical AI"
-      ],
-      "trajectory": "accelerating",
-      "signal_count": 1,
-      "weekly_counts": [
-        1
-      ],
-      "key_events": [
-        {
-          "date": "2026-06-15",
-          "event": "First detected"
-        }
-      ],
-      "created": "2026-06-15"
+      "created": "2026-06-16"
     }
   ]
 }

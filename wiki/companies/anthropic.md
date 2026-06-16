@@ -2,7 +2,7 @@
 title: Anthropic
 type: company
 created: 2026-02-25
-updated: 2026-06-15
+updated: 2026-06-16
 ---
 
 # Anthropic
@@ -11,6 +11,7 @@ updated: 2026-06-15
 
 ## Timeline
 
+- **2026-06-16**: [[cursor-ai|Cursor]]'s Testy Relationship with Anthropic Revealed; Anthropic Told Cursor [[claude|Claude Code]] Was 'Mainly a Research Effort'
 - **2026-06-15**: [[openai|OpenAI]] Launches Partner Network with $150M Investment to Accelerate Enterprise AI Adoption
 - **2026-06-15**: [[codex|Codex]] Gains Widespread Adoption as a Capable [[agent-frameworks|AI Agent]], Pushing Boundaries of Autonomous Tool Use
 - **2026-06-14**: LangChain 1.3.9 Tightens Anthropic Allowed Prefixes for Security

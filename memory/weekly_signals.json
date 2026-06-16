@@ -242,6 +242,208 @@
           66
         ]
       }
+    ],
+    "2026-06-16": [
+      {
+        "title": "Qualcomm in Talks to Acquire Tenstorrent for $8B-$10B, Marking Major AI Chip Consolidation",
+        "signal_text": "据 The Information 报道，Qualcomm 正与 AI 芯片设计公司 Tenstorrent 洽谈收购，估值约 80 亿至 100 亿美元，2025 年 Tenstorrent 曾讨论以约 32 亿美元估值融资 8 亿美元。该交易若达成，将大幅增强高通在 AI 推理芯片领域的竞争力，也标志着 AI 芯片市场进入巨头整合期。",
+        "signal_strength": 0.88,
+        "sources": [
+          {
+            "name": "The Information (via Techmeme)",
+            "url": "https://www.techmeme.com/260615/p41#a260615p41"
+          }
+        ],
+        "tags": [
+          "投资与资本动向",
+          "行业发展与格局演变",
+          "算力与芯片"
+        ],
+        "raw_item_indices": [
+          19
+        ]
+      },
+      {
+        "title": "Microsoft's GitHub Faces AI Capacity Crunch, Turns to AWS as Competitor",
+        "signal_text": "据 Hacker News 报道，微软旗下 GitHub 因 AI 计算容量不足，转而求助于竞争对手 AWS 来满足需求。作为 Azure 的核心客户和微软全栈 AI 生态的重要一环，此举凸显 AI 基础设施供需矛盾的极度紧张，以及云巨头之间复杂的竞合关系。",
+        "signal_strength": 0.85,
+        "sources": [
+          {
+            "name": "Hacker News / RuntimeWire",
+            "url": "https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch"
+          }
+        ],
+        "tags": [
+          "头部公司战略动作",
+          "算力与基础设施",
+          "行业发展与格局演变"
+        ],
+        "raw_item_indices": [
+          1
+        ]
+      },
+      {
+        "title": "Satya Nadella Warns AI Could 'Hollow Out' Entire Industries, Echoing Globalization Damage",
+        "signal_text": "据 VentureBeat 报道，微软 CEO Satya Nadella 发表长文警告，前沿 AI 模型可能吸收整个行业的知识，导致行业空心化——其影响堪比过去的全球化。这是顶级科技巨头 CEO 首次如此严肃地正面讨论 AI 对就业和经济结构的系统性颠覆风险，对创业方向和投资判断有重要参考价值。",
+        "signal_strength": 0.82,
+        "sources": [
+          {
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/technology/satya-nadella-warns-that-ai-could-hollow-out-entire-industries-echoing-the-damage-done-by-globalization"
+          }
+        ],
+        "tags": [
+          "行业发展与格局演变",
+          "风险与监管",
+          "新机会与创业方向"
+        ],
+        "raw_item_indices": [
+          25
+        ]
+      },
+      {
+        "title": "Sakana AI Launches 'Marlin': Commercial 'Ultra Deep Research' Agent Producing 100+ Page Reports in 8 Hours",
+        "signal_text": "据 VentureBeat 报道，东京初创公司 Sakana AI 正式推出其首个商业产品 Marlin，定位为 'Virtual CSO'——一个自主 B2B 研究代理，可在 8 小时内生成 100 多页的深度研究报告。这代表了 AI 在研究自动化领域的一个新范式：从辅助检索升级为面向高价值决策的全自治产出，开辟了 'ultra deep research' 这一独特赛道。",
+        "signal_strength": 0.8,
+        "sources": [
+          {
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/technology/when-deep-research-isnt-enough-for-your-business-sakana-ai-launches-ultra-deep-research-agent-for-100-page-reports-in-8-hours"
+          }
+        ],
+        "tags": [
+          "重要产品与模型发布",
+          "新机会与创业方向",
+          "Agent 框架"
+        ],
+        "raw_item_indices": [
+          27
+        ]
+      },
+      {
+        "title": "Meta AI Reorg In-House Turmoil: CTO Admits Reorg Was 'Atrocious'; AI Mode on Facebook Launches",
+        "signal_text": "据 Wired 报道，Meta CTO Andrew Bosworth 在内部备忘录中承认公司 AI 重组 'atrocious'，并承诺改善离职率和福利。与此同时，据 The Verge 和 TechCrunch 报道，Meta 正式推出 Facebook 'AI Mode' 搜索功能，利用公开帖子提供 AI 生成结果。内部管理混乱与外部产品快速迭代形成鲜明对比，反映了 Meta 在 AI 竞赛中激进但不稳定的推进策略。",
+        "signal_strength": 0.79,
+        "sources": [
+          {
+            "name": "Wired",
+            "url": "https://www.wired.com/story/andrew-bosworth-meta-employees-unrest/"
+          },
+          {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook"
+          },
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/"
+          }
+        ],
+        "tags": [
+          "头部公司战略动作",
+          "行业发展与格局演变",
+          "重要产品与模型发布"
+        ],
+        "raw_item_indices": [
+          18,
+          20,
+          31
+        ]
+      },
+      {
+        "title": "Google DeepMind: Synthetic Document Fine-Tuning for Instilling Positive Traits in LLMs",
+        "signal_text": "Google DeepMind 语言模型可解释性团队在 Alignment Forum 发表研究，探索通过合成文档微调（Synthetic Document Finetuning）来向大语言模型灌输积极特质的方法。这为模型对齐和安全研究提供了一种新的技术路线，不同于传统的 RLHF 或 SFT，具有重要的潜在应用价值。",
+        "signal_strength": 0.76,
+        "sources": [
+          {
+            "name": "Alignment Forum (Google DeepMind)",
+            "url": "https://www.alignmentforum.org/posts/GTYJRLhqztxKF2v5R/synthetic-document-finetuning-for-instilling-positive-traits"
+          }
+        ],
+        "tags": [
+          "技术突破",
+          "AI 安全与对齐",
+          "Google DeepMind"
+        ],
+        "raw_item_indices": [
+          10
+        ]
+      },
+      {
+        "title": "METR Study: Frontier AI Models' No-CoT Task Completion Time Horizons Double Every ~7 Months",
+        "signal_text": "在 LessWrong 上发表的 METR（Model Evaluation and Threat Research）研究发现，无需 Chain-of-Thought 的情况下，前沿 AI 模型可靠完成任务的时间跨度大约每 7 个月翻一番。这一实证数据为理解 AI 能力增长速度提供了关键定量参考，对预测 AGI 时间线和风险评估至关重要。",
+        "signal_strength": 0.75,
+        "sources": [
+          {
+            "name": "LessWrong (METR)",
+            "url": "https://www.lesswrong.com/posts/SieLowPgNgRSPGhFw/estimating-no-cot-task-completion-time-horizons-of-frontier"
+          }
+        ],
+        "tags": [
+          "技术突破",
+          "行业发展与格局演变",
+          "AI 安全"
+        ],
+        "raw_item_indices": [
+          5
+        ]
+      },
+      {
+        "title": "Ponytail: Open-Source Tool to Make AI Agents 'Think Like the Laziest Senior Dev' (17k Stars)",
+        "signal_text": "开源项目 Ponytail（GitHub 17k stars）通过强制 AI 代理优先考虑最小化代码改动，模仿最有经验的懒人开发者的思维模式。这反映出 Agent 设计中一个新兴趋势：重质不重量，强调代码简洁性和维护成本而非盲目生成。",
+        "signal_strength": 0.72,
+        "sources": [
+          {
+            "name": "GitHub (DietrichGebert/ponytail)",
+            "url": "https://github.com/DietrichGebert/ponytail"
+          }
+        ],
+        "tags": [
+          "开源生态",
+          "新机会与创业方向",
+          "AI 编码"
+        ],
+        "raw_item_indices": [
+          44
+        ]
+      },
+      {
+        "title": "Ivanti Research: 85% of IT Teams Say AI Agents Are Controlled, But Only 42% Know Who Owns Them",
+        "signal_text": "据 VentureBeat 报道，Ivanti 对 3900 名员工的调查显示，尽管 85% 的 IT 团队声称所有 AI 代理可控，但只有 42% 实际上知道这些代理的所有者。43% 的 IT 领袖隐藏自己的 AI 使用行为，远高于普通员工的 23%。这一数据揭示了企业内部 AI 代理部署存在严重的治理盲区，为 Agent 管理工具和合规方案创造了巨大市场空间。",
+        "signal_strength": 0.71,
+        "sources": [
+          {
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/security/85-of-it-teams-claim-every-ai-agent-is-under-control-only-42-actually-know-who-owns-them"
+          }
+        ],
+        "tags": [
+          "行业风险与监管",
+          "企业 AI 采用",
+          "新机会与创业方向"
+        ],
+        "raw_item_indices": [
+          35
+        ]
+      },
+      {
+        "title": "Cursor's Testy Relationship with Anthropic Revealed; Anthropic Told Cursor Claude Code Was 'Mainly a Research Effort'",
+        "signal_text": "据 Business Insider 报道，对 AI 编码初创公司 Cursor 的深度报道揭示了其与 Anthropic 的紧张关系：Anthropic 曾告知 Cursor 其 Claude Code 产品 'mainly a research effort'。这暴露了顶级 AI 模型供应商与下游集成商之间的利益冲突，也反映了 AI 编码工具生态中权力博弈的动态。",
+        "signal_strength": 0.68,
+        "sources": [
+          {
+            "name": "Business Insider (via Techmeme)",
+            "url": "https://www.techmeme.com/260615/p43#a260615p43"
+          }
+        ],
+        "tags": [
+          "行业发展与格局演变",
+          "AI 编码",
+          "头部公司战略动作"
+        ],
+        "raw_item_indices": [
+          13
+        ]
+      }
     ]
   },
   "archived_weeks": [
