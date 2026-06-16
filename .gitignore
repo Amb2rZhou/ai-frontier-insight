@@ -39,3 +39,8 @@ prompts/dept/
 memory_dept/
 data/dept_daily/
 data/raw_cache/
+
+# 本地自动化（含内网标识：语雀/蚂蚁钉/产品模块体系，绝不入仓库）
+prompts/auto/
+scripts/frontier_daily.sh
+scripts/frontier_cutover.sh
