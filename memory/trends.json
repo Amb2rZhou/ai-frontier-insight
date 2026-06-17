@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-16T11:04:49.787349+08:00",
+  "last_updated": "2026-06-17T11:00:00+08:00",
   "trends": [
     {
       "id": "ai_safety_pivot_and_accelerated_agi_time",
@@ -18,7 +18,7 @@
         "Safety"
       ],
       "trajectory": "accelerating",
-      "signal_count": 137,
+      "signal_count": 138,
       "weekly_counts": [
         2,
         2,
@@ -101,6 +101,10 @@
         {
           "date": "2026-06-16",
           "event": "2026-06-16: METR-style study estimates no-CoT task-completion time horizons of frontier models"
+        },
+        {
+          "date": "2026-06-17",
+          "event": "2026-06-17: Copilot 'SearchLeak' vuln can steal users' 2FA codes; OpenAI publishes pre-release safety prediction via simulated deployment"
         }
       ],
       "created": "2026-02-25"
@@ -124,7 +128,7 @@
         "Open Source AI"
       ],
       "trajectory": "accelerating",
-      "signal_count": 121,
+      "signal_count": 122,
       "weekly_counts": [
         0,
         1,
@@ -183,6 +187,10 @@
         {
           "date": "2026-06-16",
           "event": "2026-06-16: Google releases Gemma 4 12B (unified multimodal, 1M+ downloads) and DiffusionGemma 26B (diffusion LLM); NVIDIA opens LocateAnything-3B; DeepSeek-V4 matures on vLLM v0.23"
+        },
+        {
+          "date": "2026-06-17",
+          "event": "2026-06-17: Z.ai open-sources GLM-5.2 (753B, beats GPT-5.5 on long-horizon coding at ~1/6 cost); Weibo VibeThinker-3B claims flagship-level reasoning at 3B, sparking benchmark-trust debate"
         }
       ],
       "created": "2026-02-25"
@@ -439,7 +447,7 @@
         "Autonomous Coding"
       ],
       "trajectory": "accelerating",
-      "signal_count": 761,
+      "signal_count": 762,
       "weekly_counts": [
         2,
         2,
@@ -494,6 +502,10 @@
         {
           "date": "2026-06-16",
           "event": "2026-06-16: Sakana AI launches Marlin 'Virtual CSO', a long-horizon autonomous B2B research agent (100+ page reports in 8h)"
+        },
+        {
+          "date": "2026-06-17",
+          "event": "2026-06-17: Databricks launches products to collapse data-pipeline latency for AI agents; Stanford DeLM cuts multi-agent task cost 50% without a central orchestrator"
         }
       ],
       "created": "2026-02-25"
@@ -605,7 +617,7 @@
         "AI Adoption"
       ],
       "trajectory": "stable",
-      "signal_count": 77,
+      "signal_count": 78,
       "weekly_counts": [
         1,
         2,
@@ -704,6 +716,10 @@
         {
           "date": "2026-06-13",
           "event": "2026-06-12: Moonshot AI Releases Kimi K2.7-Code with 30% Reduction in Reasoning Tokens Under Modified MIT License"
+        },
+        {
+          "date": "2026-06-17",
+          "event": "2026-06-17: US holds off adding DeepSeek/CXMT + 100+ firms to Entity List (longest gap in 10+ yrs); Z.ai releases open-weights GLM-5.2"
         }
       ],
       "created": "2026-02-25"
@@ -918,7 +934,7 @@
         "Mythos 5"
       ],
       "trajectory": "accelerating",
-      "signal_count": 7,
+      "signal_count": 8,
       "weekly_counts": [
         1,
         1,
@@ -958,6 +974,10 @@
         {
           "date": "2026-06-16",
           "event": "2026-06-16: US gov bans foreign access to Anthropic's Fable 5/Mythos 5 models; White House talks unresolved"
+        },
+        {
+          "date": "2026-06-17",
+          "event": "2026-06-17: Anthropic Fable 5 saga - US lawmakers (incl. Ted Cruz) say they weren't briefed; Ramp data shows Anthropic enterprise sales still growing"
         }
       ],
       "created": "2026-06-08"

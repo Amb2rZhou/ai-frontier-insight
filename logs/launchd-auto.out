@@ -1,0 +1,9 @@
+[11:40:03] ===== 自动日报 (2026-06-16) MODE=generate-only =====
+[11:40:03] 复用已有 raw_cache（SKIP_COLLECT=1）
+[11:40:03] 唤起 headless claude（permission=bypass）...
+[11:49:21] ✅ claude 运行结束 exit=0
+[11:49:21] ===== 完成 MODE=generate-only =====
+[11:00:01] ===== 自动日报 (2026-06-17) MODE=full =====
+[11:00:02] 采集代理 off（直连降级，HF/Reddit 可能拿不到，不影响其它源）
+[11:00:02] 采集中...
+[11:11:43] 唤起 headless claude（permission=bypass）...
