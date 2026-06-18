@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-17T11:00:00+08:00",
+  "last_updated": "2026-06-18T11:00:00+08:00",
   "trends": [
     {
       "id": "ai_safety_pivot_and_accelerated_agi_time",
@@ -338,7 +338,7 @@
         "Employee Activism"
       ],
       "trajectory": "accelerating",
-      "signal_count": 61,
+      "signal_count": 62,
       "weekly_counts": [
         0,
         1,
@@ -429,6 +429,10 @@
         {
           "date": "2026-06-12",
           "event": "OpenAI Acquires Ona for Secure Cloud Agent Execution"
+        },
+        {
+          "date": "2026-06-18",
+          "event": "2026-06-18: Noam Shazeer (Transformer co-author, Gemini co-lead) leaves Google to join OpenAI as architecture research lead"
         }
       ],
       "created": "2026-02-25"
@@ -934,7 +938,7 @@
         "Mythos 5"
       ],
       "trajectory": "accelerating",
-      "signal_count": 8,
+      "signal_count": 9,
       "weekly_counts": [
         1,
         1,
@@ -978,6 +982,10 @@
         {
           "date": "2026-06-17",
           "event": "2026-06-17: Anthropic Fable 5 saga - US lawmakers (incl. Ted Cruz) say they weren't briefed; Ramp data shows Anthropic enterprise sales still growing"
+        },
+        {
+          "date": "2026-06-18",
+          "event": "2026-06-18: White House Mythos 5 restriction traced to order revoking SK Telecom's Claude access over alleged China ties; officials demand un-jailbreakable guardrails for Fable 5 re-release"
         }
       ],
       "created": "2026-06-08"
@@ -996,7 +1004,7 @@
         "Cost Control"
       ],
       "trajectory": "accelerating",
-      "signal_count": 6,
+      "signal_count": 7,
       "weekly_counts": [
         1,
         1
@@ -1021,6 +1029,10 @@
         {
           "date": "2026-06-16",
           "event": "2026-06-16: Ivanti finds only 42% of orgs truly know AI agent ownership"
+        },
+        {
+          "date": "2026-06-18",
+          "event": "2026-06-18: Pew - 49% of US adults used chatbots in 2026 (up from 33% in 2024), 63% feel AI advancing too fast; OpenAI/Anthropic form 'Deployment Companies' (~$4B), FDE role surges"
         }
       ],
       "created": "2026-06-15"
@@ -1060,7 +1072,7 @@
         "AWS"
       ],
       "trajectory": "accelerating",
-      "signal_count": 1,
+      "signal_count": 2,
       "weekly_counts": [
         1
       ],
@@ -1068,6 +1080,10 @@
         {
           "date": "2026-06-16",
           "event": "First detected"
+        },
+        {
+          "date": "2026-06-18",
+          "event": "2026-06-18: AI-driven memory shortage forces Apple price increases; Tim Cook calls RAM costs 'unsustainable'"
         }
       ],
       "created": "2026-06-16"
@@ -1094,6 +1110,77 @@
         }
       ],
       "created": "2026-06-16"
+    },
+    {
+      "id": "agent_context_memory_layer",
+      "name": "Agent Context & Memory Layer Productization",
+      "related_tags": [
+        "AI Agent",
+        "知识图谱",
+        "上下文层",
+        "AWS",
+        "RAG",
+        "记忆"
+      ],
+      "trajectory": "accelerating",
+      "signal_count": 1,
+      "weekly_counts": [
+        1
+      ],
+      "key_events": [
+        {
+          "date": "2026-06-18",
+          "event": "2026-06-18: AWS launches Context, a knowledge-graph service that learns from agent usage; positions a context-intelligence stack above RAG"
+        }
+      ],
+      "created": "2026-06-18"
+    },
+    {
+      "id": "ai_vertical_expansion_healthcare",
+      "name": "Generative/Conversational AI Expansion into Healthcare",
+      "related_tags": [
+        "医疗AI",
+        "Google",
+        "Nature",
+        "Midjourney",
+        "垂直应用"
+      ],
+      "trajectory": "accelerating",
+      "signal_count": 1,
+      "weekly_counts": [
+        1
+      ],
+      "key_events": [
+        {
+          "date": "2026-06-18",
+          "event": "2026-06-18: Google AMIE matches primary-care physicians on complex disease management (Nature); Midjourney launches Midjourney Medical"
+        }
+      ],
+      "created": "2026-06-18"
+    },
+    {
+      "id": "ai_deployment_company_fde_model",
+      "name": "Model-Vendor 'Deployment Companies' and FDE Delivery Model",
+      "related_tags": [
+        "部署公司",
+        "FDE",
+        "AI商业化",
+        "OpenAI",
+        "Anthropic",
+        "交付"
+      ],
+      "trajectory": "accelerating",
+      "signal_count": 1,
+      "weekly_counts": [
+        1
+      ],
+      "key_events": [
+        {
+          "date": "2026-06-18",
+          "event": "2026-06-18: OpenAI (+PE, ~$4B) and Anthropic (w/ Blackstone) form deployment JVs; Forward Deployment Engineer becomes hot Silicon Valley role"
+        }
+      ],
+      "created": "2026-06-18"
     }
   ]
 }
