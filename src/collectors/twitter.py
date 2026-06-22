@@ -68,9 +68,7 @@ class TwitterCollector(BaseCollector):
                 if tid and tid not in all_tweets:
                     all_tweets[tid] = t
 
-        if not all_tweets:
-            print(f"  Twitter: no data files for {previous} ~ {anchor}")
-            return []
+        # 注意：不在此早退——当天文件为空时，下面会走 48h 兜底逻辑
 
         # 仅时间过滤（质量/互动/语义过滤已在 x-monitor 上游完成）
         if self.cutoff_override:
@@ -83,15 +81,36 @@ class TwitterCollector(BaseCollector):
             cutoff = anchor_dt - timedelta(hours=self.hours)
         else:
             cutoff = datetime.now(timezone.utc) - timedelta(hours=self.hours)
+        items, skipped_old = self._window_items(all_tweets.values(), cutoff)
+
+        # 兜底：当天窗口 0 条（x-monitor 软封/未跑/文件缺失），放宽到最近 48h
+        # 捞回最后一批可用数据。signal 层有跨天去重，重复不影响。
+        if not items:
+            fb_cutoff = cutoff - timedelta(hours=self.hours)  # 窗口放宽到 2×hours
+            fb_tweets = {}
+            for d in [anchor - timedelta(days=2), previous, anchor]:
+                for t in self._load_file(DATA_DIR / f"{d.isoformat()}.json"):
+                    tid = t.get("id", "")
+                    if tid and tid not in fb_tweets:
+                        fb_tweets[tid] = t
+            items, _ = self._window_items(fb_tweets.values(), fb_cutoff)
+            if items:
+                print(f"  Twitter: 当天窗口为空，回退最近 {self.hours * 2}h "
+                      f"捞回 {len(items)} 条")
+
+        accounts = len(set(item.source_name for item in items))
+        print(f"  Twitter: {len(items)} tweets from {accounts} accounts "
+              f"(filtered {skipped_old} older than {self.hours}h)")
+        return items
+
+    def _window_items(self, tweets, cutoff):
+        """把推文 dict 列表转成 RawItem，按 cutoff 做时间窗过滤。"""
         items = []
         skipped_old = 0
-        for t in all_tweets.values():
-            username = t.get("username", "unknown")
+        for t in tweets:
             text = t.get("text", "")
             if not text:
                 continue
-
-            # 时间过滤：丢弃超过 N 小时的推文
             ts = t.get("timestamp", "")
             if ts:
                 try:
@@ -101,25 +120,24 @@ class TwitterCollector(BaseCollector):
                         continue
                 except (ValueError, TypeError):
                     pass
+            items.append(self._to_item(t))
+        return items, skipped_old
 
-            items.append(RawItem(
-                title=f"@{username}",
-                content=text,
-                source_type="twitter",
-                source_name=f"@{username}",
-                url=t.get("url", ""),
-                published=ts,
-                metadata={
-                    "tweet_id": t.get("id", ""),
-                    "images": t.get("images", []),
-                    "likes": t.get("likes", 0),
-                    "retweets": t.get("retweets", 0),
-                    "views": t.get("views", 0),
-                    "user_bio": t.get("user_bio", ""),
-                },
-            ))
-
-        accounts = len(set(item.source_name for item in items))
-        print(f"  Twitter: {len(items)} tweets from {accounts} accounts "
-              f"(filtered {skipped_old} older than {self.hours}h)")
-        return items
+    def _to_item(self, t) -> RawItem:
+        username = t.get("username", "unknown")
+        return RawItem(
+            title=f"@{username}",
+            content=t.get("text", ""),
+            source_type="twitter",
+            source_name=f"@{username}",
+            url=t.get("url", ""),
+            published=t.get("timestamp", ""),
+            metadata={
+                "tweet_id": t.get("id", ""),
+                "images": t.get("images", []),
+                "likes": t.get("likes", 0),
+                "retweets": t.get("retweets", 0),
+                "views": t.get("views", 0),
+                "user_bio": t.get("user_bio", ""),
+            },
+        )

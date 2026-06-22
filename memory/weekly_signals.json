@@ -1,903 +1,206 @@
 {
-  "current_week": "2026-W24",
+  "current_week": "2026-W25",
   "days": {
-    "2026-06-15": [
+    "2026-06-22": [
       {
-        "title": "Codex Gains Widespread Adoption as a Capable AI Agent, Pushing Boundaries of Autonomous Tool Use",
-        "signal_text": "OpenAI的Codex模型因其强大能力引发广泛关注。前Anthropic研究员Thibault Sottiaux（@thsottiaux）的推文称'Codex可以查看并设定自己的/goal'，获得超过2,900 likes和259k views。另一开发者疑似发现Codex自动注册网络服务，引起热议。这标志着AI Agent在自主决策和工具调用能力上达到了一个新高度。",
-        "signal_strength": 0.9,
-        "sources": [
-          {
-            "name": "Twitter/X - thsottiaux",
-            "url": "https://x.com/thsottiaux/status/2066270561081454989"
-          },
-          {
-            "name": "Twitter/X - steipete",
-            "url": "https://x.com/steipete/status/2065997212015067508"
-          },
-          {
-            "name": "Twitter/X - thsottiaux",
-            "url": "https://x.com/thsottiaux/status/2066022651760721931"
-          }
-        ],
-        "tags": [
-          "OpenAI",
-          "Codex",
-          "Autonomous Agent",
-          "Tool Use",
-          "AI Capability"
-        ],
-        "raw_item_indices": [
-          34,
-          80,
-          85
-        ]
-      },
-      {
-        "title": "OpenAI Launches Partner Network with $150M Investment to Accelerate Enterprise AI Adoption",
-        "signal_text": "OpenAI官方宣布推出合作伙伴网络（OpenAI Partner Network），并投入1.5亿美元，旨在帮助全球合作伙伴加速企业AI的采用、部署和转型。这表明OpenAI正通过构建生态渠道来深化其商业化路径，与微软、Anthropic等对手在企业级市场展开更直接的竞争。",
-        "signal_strength": 0.85,
+        "title": "三星向全球员工部署 ChatGPT Enterprise 与 Codex",
+        "signal_text": "据 OpenAI 官方博客，三星电子（Samsung Electronics）向其全球员工部署 ChatGPT Enterprise 与 Codex，OpenAI 称这是其规模最大的企业级 AI 部署之一。",
+        "insight": "头部制造业巨头整建制接入 ChatGPT＋Codex，企业级 AI 从试点转为全员标配。",
+        "implication": "大型企业全员铺开成为 AI 商业化主战场，做企业落地、部署服务与编码 agent 的团队迎来放量窗口。",
         "sources": [
           {
             "name": "OpenAI Blog",
-            "url": "https://openai.com/index/introducing-openai-partner-network"
+            "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment"
           }
         ],
         "tags": [
+          "企业AI",
           "OpenAI",
-          "Enterprise AI",
-          "Business Strategy",
-          "Partner Ecosystem",
-          "Investment"
-        ],
-        "raw_item_indices": [
-          16
-        ]
-      },
-      {
-        "title": "Google DeepMind Researcher Finds SFT Safety Filters Can Fail Due to Training Contamination from Previous Models",
-        "signal_text": "Google DeepMind语言模型可解释性团队在Alignment Forum上发表文章，详细解释了为什么简单的监督微调（SFT）过滤方法在确保模型安全属性时会失败。该团队指出，当用旧模型生成的输出去训练新模型时，新模型会继承旧模型的不良习惯且难以过滤，这有助于解释为什么同一模型族的不同版本感觉如此相似。",
-        "signal_strength": 0.85,
-        "sources": [
-          {
-            "name": "Alignment Forum",
-            "url": "https://www.alignmentforum.org/posts/wyZRNgpeiPeRXB6eT/why-do-naive-sft-filters-for-safety-properties-fail"
-          },
-          {
-            "name": "Twitter/X - emollick",
-            "url": "https://x.com/emollick/status/2066301578194166046"
-          }
-        ],
-        "tags": [
-          "Google DeepMind",
-          "AI Safety",
-          "Alignment",
-          "Model Training",
-          "Interpretability"
-        ],
-        "raw_item_indices": [
-          12,
-          29
-        ]
-      },
-      {
-        "title": "Meta Cuts Employee Token Usage and Pushes In-House AI Tools After Encouraging AI-Driven Impact",
-        "signal_text": "据The Information报道，在鼓励员工证明其'AI驱动的影响力'之后，Meta现在转为限制员工的token使用量，并将他们引导至内部AI工具。这表明Meta在内部AI推广策略上正在收紧，从开放式鼓励转向成本控制和工具标准化。",
-        "signal_strength": 0.78,
-        "sources": [
-          {
-            "name": "Twitter/X - theinformation",
-            "url": "https://x.com/theinformation/status/2066241778022240387"
-          }
-        ],
-        "tags": [
-          "Meta",
-          "Internal AI Adoption",
-          "Cost Control",
-          "Corporate Strategy",
-          "Tooling"
-        ],
-        "raw_item_indices": [
-          45
-        ]
-      },
-      {
-        "title": "Meta's Custom AI Chip Efforts Face Layoffs and Internal Fights Post-Rivos Acquisition",
-        "signal_text": "据The Information报道，Meta收购Rivos以加速其定制AI芯片工作已过去六个月，但此后裁员、战略转变和内部斗争正在减缓其削减英伟达成本的最大努力之一。这突显了大型科技公司在自研AI芯片道路上所面临的重大挑战。",
-        "signal_strength": 0.75,
-        "sources": [
-          {
-            "name": "Twitter/X - theinformation",
-            "url": "https://x.com/theinformation/status/2066188976017350917"
-          }
-        ],
-        "tags": [
-          "Meta",
-          "AI Chip",
-          "Semiconductor",
-          "Internal Challenges",
-          "NVIDIA"
-        ],
-        "raw_item_indices": [
-          65
-        ]
-      },
-      {
-        "title": "AI Coding Model Competition Intensifies: Composer 2.5, MiniMax-M3 and Open-Source Alternatives Challenge Frontier Models",
-        "signal_text": "多位AI研究员在Twitter/X上讨论编程模型的竞争格局。有观点指出（@NielsRogge），Cursor的Composer 2.5在95%的提示中可替代GPT 5.5或Opus 4.8，且价格更低。同时，MiniMax的M3模型在Hugging Face上获得500+ likes，被视为开源加速的又一例证。这表明前沿编码模型市场正快速从寡头转向多元化。",
-        "signal_strength": 0.75,
-        "sources": [
-          {
-            "name": "Twitter/X - NielsRogge",
-            "url": "https://x.com/NielsRogge/status/2066245456682758400"
-          },
-          {
-            "name": "Twitter/X - NielsRogge",
-            "url": "https://x.com/NielsRogge/status/2066251594073530552"
-          },
-          {
-            "name": "Hugging Face - MiniMaxAI/MiniMax-M3",
-            "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3"
-          }
-        ],
-        "tags": [
-          "Coding AI",
-          "Model Competition",
-          "Cursor",
-          "MiniMax",
-          "Open Source"
-        ],
-        "raw_item_indices": [
-          36,
-          38,
-          44,
-          113
-        ]
-      },
-      {
-        "title": "New Study Shows Generalist AI Models May Outperform Specialized Medical AIs, Methodology Debated",
-        "signal_text": "一项新的研究论文引发了关于通用模型是否优于专业医疗AI的辩论。沃顿商学院教授Ethan Mollick在Twitter/X上转发了一个方法论讨论串（获49+ likes, 12k+ views），概述了在医疗领域对AI进行基准测试的挑战，表明泛化能力与专业化之间正在形成新的竞争格局。",
-        "signal_strength": 0.72,
-        "sources": [
-          {
-            "name": "Twitter/X - emollick",
-            "url": "https://x.com/emollick/status/2066303566449418739"
-          }
-        ],
-        "tags": [
-          "AI in Medicine",
-          "Generalist vs. Specialist",
-          "Benchmarking",
-          "Research",
-          "LLM"
-        ],
-        "raw_item_indices": [
-          28
-        ]
-      },
-      {
-        "title": "AI-First Legal Workflow Automation 'Sandstone' Raises $30M Series A from Lightspeed",
-        "signal_text": "据TechCrunch报道，Sandstone公司开发了面向中小型企业法律团队的AI驱动工作流自动化工具，获得了由Lightspeed领投的3000万美元A轮融资。这表明AI在垂直行业（特别是法律领域）的自动化应用正获得资本市场的强力支持，且市场正从大型企业向中小企业下沉。",
-        "signal_strength": 0.7,
-        "sources": [
-          {
-            "name": "TechCrunch",
-            "url": "https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/"
-          },
-          {
-            "name": "Techmeme",
-            "url": "https://www.techmeme.com/260614/p19#a260614p19"
-          }
-        ],
-        "tags": [
-          "Legal AI",
-          "Startup Funding",
-          "Workflow Automation",
-          "SMB",
-          "Lightspeed"
-        ],
-        "raw_item_indices": [
-          4
-        ]
-      },
-      {
-        "title": "Snowflake Deploys AI Agents Internally to Sell Enterprise AI Adoption to Customers",
-        "signal_text": "据The Information报道，Snowflake正在其财务、人力资源和销售等部门内部部署AI Agent，然后利用这些案例说服客户也这样做。这种'吃自己的狗粮'策略展示了数据平台公司如何将AI Agent从技术概念转化为可复制的商业用例。",
-        "signal_strength": 0.7,
-        "sources": [
-          {
-            "name": "Twitter/X - theinformation",
-            "url": "https://x.com/theinformation/status/2066234243563307286"
-          }
-        ],
-        "tags": [
-          "Snowflake",
-          "Enterprise AI",
-          "AI Agent",
-          "Go-to-Market Strategy",
-          "Dogfooding"
-        ],
-        "raw_item_indices": [
-          48
-        ]
-      },
-      {
-        "title": "Gary Marcus Highlights New Study Showing LLMs Struggle with Abstract Reasoning and Learning Transfer",
-        "signal_text": "AI评论家Gary Marcus在Twitter/X上引用了一项新研究（获524+ likes, 32k views），该研究认为'如果AI无法将抽象课程应用于新情况，它就不是真正的推理或学习'。这为持续存在的关于大模型是否具备真正推理能力的辩论提供了新的证据。",
-        "signal_strength": 0.7,
-        "sources": [
-          {
-            "name": "Twitter/X - GaryMarcus",
-            "url": "https://x.com/GaryMarcus/status/2066177872637878369"
-          }
-        ],
-        "tags": [
-          "LLM",
-          "Reasoning",
-          "Generalization",
-          "AI Research",
-          "Criticism"
-        ],
-        "raw_item_indices": [
-          66
-        ]
-      }
-    ],
-    "2026-06-16": [
-      {
-        "title": "美政府下令封禁 Anthropic 新模型 Fable 5/Mythos 5 海外访问，白宫会谈仍未和解",
-        "signal_text": "据 The Verge、Wired、TechCrunch 报道，美政府向 Anthropic 下达出口管制指令，要求暂停其最新模型 Mythos 5 与 Fable 5 的海外访问；Anthropic 高层周一赴白宫会谈，但双方对 Fable 5 的风险评估仍存分歧。TechCrunch 指此举更像监管/政治博弈而非单纯安全事件。",
-        "insight": "前沿模型成地缘政治筹码，能力越强出口越受限。",
-        "implication": "模型可用性正被政策绑定，值得关注「多模型供给+合规分发」的基础设施窗口。",
-        "sources": [
-          {
-            "name": "The Verge",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls"
-          },
-          {
-            "name": "Wired",
-            "url": "https://www.wired.com/story/anthropic-is-still-at-odds-with-the-white-house-over-claude-fable-5/"
-          },
-          {
-            "name": "TechCrunch",
-            "url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/"
-          }
-        ],
-        "tags": [
-          "Anthropic",
-          "Export Control",
-          "Regulation",
-          "Frontier Model"
-        ],
-        "signal_strength": 0.93
-      },
-      {
-        "title": "高通拟以 80-100 亿美元收购 AI 芯片设计公司 Tenstorrent",
-        "signal_text": "据 The Information（经 Techmeme 转载）报道，Qualcomm 正洽谈以 80 亿-100 亿美元收购 AI 芯片设计公司 Tenstorrent；2025 年 Tenstorrent 曾以约 32 亿美元估值讨论融资 8 亿美元。若成交将是近期 AI 芯片领域的重大整合。",
-        "insight": "AI 芯片进入并购整合期，二线设计公司成巨头卡位标的。",
-        "implication": "算力供给格局在重排，值得关注非英伟达路线的推理芯片与异构生态机会。",
-        "sources": [
-          {
-            "name": "Techmeme",
-            "url": "https://www.techmeme.com/260615/p41#a260615p41"
-          },
-          {
-            "name": "The Information",
-            "url": "https://www.theinformation.com/articles/qualcomm-talks-buy-tenstorrent-expand-ai-chip-capabilities"
-          }
-        ],
-        "tags": [
-          "Qualcomm",
-          "Tenstorrent",
-          "AI Chip",
-          "M&A"
-        ],
-        "signal_strength": 0.85
-      },
-      {
-        "title": "Google 开源旗舰 Gemma 4 登上 HuggingFace 趋势榜，下载量破百万",
-        "signal_text": "Google 的 gemma-4-12B-it 在 HuggingFace 趋势榜居前，标注 any-to-any 多模态、Apache-2.0 许可，下载量约 116 万、获 1035 likes；同系扩散模型 diffusiongemma-26B-A4B-it 亦在榜（884 likes、31 万下载）。显示 Google 开源模型生态的强势扩张。",
-        "insight": "Google 用开源 Gemma 4 抢占端侧与开发者心智，开放权重成主战场。",
-        "implication": "高性价比开放权重模型快速可用，利好做轻量垂直应用与私有部署的团队。",
-        "sources": [
-          {
-            "name": "HuggingFace - gemma-4-12B-it",
-            "url": "https://huggingface.co/google/gemma-4-12B-it"
-          },
-          {
-            "name": "HuggingFace - diffusiongemma-26B-A4B-it",
-            "url": "https://huggingface.co/google/diffusiongemma-26B-A4B-it"
-          }
-        ],
-        "tags": [
-          "Google",
-          "Gemma 4",
-          "Open Weights",
-          "Multimodal"
-        ],
-        "signal_strength": 0.82
-      },
-      {
-        "title": "微软 CEO Nadella 撰文警告：少数前沿模型或商品化整个行业的专业能力",
-        "signal_text": "据 VentureBeat 报道，微软 CEO Satya Nadella 周日发表长文，称 AI 时代核心经济风险是「少数前沿模型吸收并商品化各行业的专业能力，令企业失去竞争壁垒」，并将其类比全球化带来的冲击。",
-        "insight": "模型层正向上吞噬应用层价值，护城河面临重估。",
-        "implication": "差异化壁垒回到数据与场景，值得关注「私有数据+工作流」的垂直 AI 创业。",
-        "sources": [
-          {
-            "name": "VentureBeat",
-            "url": "https://venturebeat.com/technology/satya-nadella-warns-that-ai-could-hollow-out-entire-industries-echoing-the-damage-done-by-globalization"
-          }
-        ],
-        "tags": [
-          "Microsoft",
-          "Nadella",
-          "Industry",
-          "Strategy"
-        ],
-        "signal_strength": 0.8
-      },
-      {
-        "title": "Sakana AI 推出首款商业产品 Marlin——自主产出 100+ 页报告的「虚拟 CSO」",
-        "signal_text": "据 VentureBeat 报道，东京 Sakana AI 正式发布首款商业产品 Marlin，定位「虚拟首席战略官」（Virtual CSO）：放弃即时生成，转而做长程推理，8 小时内产出 100+ 页的 B2B 深度研究报告。代表 deep research 类 Agent 从消费向企业级长任务延伸。",
-        "insight": "长程自主研究 Agent 进入商业化，竞争从「秒答」转向「深做」。",
-        "implication": "长任务 Agent 形态成型，垂直行业知识 Agent 的产品化窗口值得探索。",
-        "sources": [
-          {
-            "name": "VentureBeat",
-            "url": "https://venturebeat.com/technology/when-deep-research-isnt-enough-for-your-business-sakana-ai-launches-ultra-deep-research-agent-for-100-page-reports-in-8-hours"
-          }
-        ],
-        "tags": [
-          "Sakana AI",
-          "Deep Research",
-          "Agent",
-          "B2B"
-        ],
-        "signal_strength": 0.8
-      },
-      {
-        "title": "METR 新研究：测量前沿模型「无 CoT」可完成的任务时长",
-        "signal_text": "METR 在 LessWrong（Curated）发文，延续其「模型可靠完成的任务时长每数月翻倍」研究，进一步测量模型在不使用任何 chain-of-thought（CoT）情况下的任务完成时长，作为一项安全相关的能力评估指标。",
-        "insight": "把「无 CoT 能力」单列度量，揭示模型隐性自主能力边界。",
-        "implication": "能力评估方法持续细化，agent 安全与评测工具链值得关注。",
-        "sources": [
-          {
-            "name": "LessWrong (METR)",
-            "url": "https://www.lesswrong.com/posts/SieLowPgNgRSPGhFw/estimating-no-cot-task-completion-time-horizons-of-frontier"
-          }
-        ],
-        "tags": [
-          "METR",
-          "Evaluation",
-          "AI Safety",
-          "Capability"
-        ],
-        "signal_strength": 0.78
-      },
-      {
-        "title": "Google DeepMind：用合成文档微调向模型注入「积极特质」",
-        "signal_text": "Google DeepMind 语言模型可解释性团队在 Alignment Forum 发布第五篇研究更新，提出通过合成文档微调（synthetic document finetuning）向模型注入积极特质（positive traits）的方法，延续此前关于 SFT 安全过滤失效的研究脉络。",
-        "insight": "合成数据正从「补量」走向「定向塑造模型性格」。",
-        "implication": "数据合成成为对齐杠杆，偏好/合成数据方法值得持续跟踪。",
-        "sources": [
-          {
-            "name": "Alignment Forum (Google DeepMind)",
-            "url": "https://www.alignmentforum.org/posts/GTYJRLhqztxKF2v5R/synthetic-document-finetuning-for-instilling-positive-traits"
-          }
-        ],
-        "tags": [
-          "Google DeepMind",
-          "Synthetic Data",
-          "Alignment",
-          "Finetuning"
-        ],
-        "signal_strength": 0.75
-      },
-      {
-        "title": "Ivanti 调研：85% IT 称 AI agent 都有归属，仅 42% 真知道谁负责",
-        "signal_text": "据 VentureBeat 援引 Ivanti 对六国 3900 名员工的调研：85% IT 专业人士称每个 AI agent 都有明确负责人，但仅 42% 真正说得出归属；同时企业领导层隐藏自身 AI 使用的比例（42%）几乎是普通员工（23%）的两倍，52% 称为了「秘密优势」。",
-        "insight": "企业 AI agent 已进入「影子治理」，资产归属与审计严重滞后。",
-        "implication": "agent 登记、归属与审计是企业刚需，治理与可观测性工具有机会。",
-        "sources": [
-          {
-            "name": "VentureBeat",
-            "url": "https://venturebeat.com/security/85-of-it-teams-claim-every-ai-agent-is-under-control-only-42-actually-know-who-owns-them"
-          }
-        ],
-        "tags": [
-          "Enterprise AI",
-          "AI Governance",
-          "Agent",
-          "Ivanti"
-        ],
-        "signal_strength": 0.74
-      },
-      {
-        "title": "开源编码模型新一波：Kimi-K2.7-Code、Cohere North-Mini-Code 集体上榜",
-        "signal_text": "HuggingFace 趋势榜出现新一批面向编码/agent 的模型：月之暗面 moonshotai/Kimi-K2.7-Code（747 likes、5.7 万下载）、CohereLabs/North-Mini-Code-1.0（MoE、Apache-2.0、391 likes）、MiniMaxAI/MiniMax-M3（MoE、agent/coding 多模态、840 likes）。低成本编码模型供给持续加密。",
-        "insight": "编码 agent 模型走向「平价开源化」，性价比成主战场。",
-        "implication": "低价编码模型可堆叠，按任务难度做性价比路由的应用层值得探索。",
-        "sources": [
-          {
-            "name": "HuggingFace - Kimi-K2.7-Code",
-            "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code"
-          },
-          {
-            "name": "HuggingFace - North-Mini-Code-1.0",
-            "url": "https://huggingface.co/CohereLabs/North-Mini-Code-1.0"
-          },
-          {
-            "name": "HuggingFace - MiniMax-M3",
-            "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3"
-          }
-        ],
-        "tags": [
-          "Open Source",
-          "Coding Model",
-          "MoE",
-          "Agent"
-        ],
-        "signal_strength": 0.75
-      },
-      {
-        "title": "vLLM v0.23 发布：DeepSeek-V4 跨后端进一步成熟",
-        "signal_text": "推理框架 vLLM 发布 v0.23.0（来自 200 名贡献者的 408 次提交），其中 DeepSeek-V4 在多后端获得又一轮硬化与优化，其 sparse MLA 元数据已与 DeepSeek-V3.2 解耦；同时提示 MiniMax M3 暂未支持。开源推理栈对大模型的工程支撑持续跟进。",
-        "insight": "开源推理栈快速吃下新架构，部署侧门槛持续下探。",
-        "implication": "自托管前沿开源模型更易落地，私有化与混合部署方案值得关注。",
-        "sources": [
-          {
-            "name": "vLLM v0.23.0 Release",
-            "url": "https://github.com/vllm-project/vllm/releases/tag/v0.23.0"
-          }
-        ],
-        "tags": [
-          "vLLM",
-          "DeepSeek-V4",
-          "Inference",
-          "Open Source"
-        ],
-        "signal_strength": 0.72
-      }
-    ],
-    "2026-06-17": [
-      {
-        "title": "Z.ai 开源 GLM-5.2：多项长程编码基准超 GPT-5.5，成本仅 1/6",
-        "signal_text": "据 VentureBeat 报道，中国 AI 创业公司 Z.ai（前智谱 AI）发布 753B 参数开源（open-weights）大模型 GLM-5.2，主打「长程（long-horizon）」自主编码与工程任务，在多个长程编码基准上超过 GPT-5.5，且推理成本仅约其 1/6。模型即日上线 Hugging Face、Z.ai API 及 20+ 第三方平台。",
-        "insight": "开源模型把「长程编码」这一旗舰能力打到 1/6 价位，能力—成本拐点再下移。",
-        "implication": "高性价比开源旗舰持续逼近闭源，值得关注按任务难度做模型路由、以开源底座替换高价 API 的应用层机会。",
-        "sources": [
-          {
-            "name": "VentureBeat",
-            "url": "https://venturebeat.com/technology/z-ais-open-weights-glm-5-2-beats-gpt-5-5-on-multiple-long-horizon-coding-benchmarks-for-1-6th-the-cost"
-          },
-          {
-            "name": "Z.ai Blog",
-            "url": "https://z.ai/blog/glm-5.2"
-          },
-          {
-            "name": "Hugging Face - zai-org/GLM-5.2",
-            "url": "https://huggingface.co/zai-org/GLM-5.2"
-          }
-        ],
-        "tags": [
-          "Z.ai",
-          "GLM-5.2",
-          "Open Weights",
-          "Coding"
-        ],
-        "signal_strength": 0.88
-      },
-      {
-        "title": "美国罕见暂缓将 DeepSeek、长鑫等 100+ 企业列入实体清单",
-        "signal_text": "据 Reuters（经 Techmeme）报道，美国迄今未把 DeepSeek、CXMT（长鑫存储）及另外 100 多家被国安部门标记的企业加入实体清单（Entity List），该清单自去年 10 月以来未更新，是 10 多年来最长的一次空档期。",
-        "insight": "对华 AI 出口管制出现政策停摆，管制节奏本身成了不确定变量。",
-        "implication": "管制走向短期摇摆，做跨境 AI 供给与合规分发的团队，值得把「政策不确定性」前置纳入选型与备份方案。",
-        "sources": [
-          {
-            "name": "Reuters",
-            "url": "https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/"
-          },
-          {
-            "name": "Techmeme",
-            "url": "https://www.techmeme.com/260616/p46#a260616p46"
-          }
-        ],
-        "tags": [
-          "Export Control",
-          "DeepSeek",
-          "Geopolitics",
-          "Entity List"
-        ],
-        "signal_strength": 0.82
-      },
-      {
-        "title": "[Update] Anthropic 与白宫之争发酵：国会称未获通报，销售数据反显走强",
-        "signal_text": "Fable 5/Mythos 5 出口管制风波出现新进展：据 Politico，包括对 AI 政策有管辖权的商务委员会主席 Ted Cruz 在内，多名议员本周表示此前未就特朗普政府针对 Fable 5 的举措获得通报；另据 TechCrunch 引用 Ramp 支出数据，Anthropic 在企业用户中的采用仍在增长，这场与政府的对抗反而可能利好其销售。",
-        "insight": "行政封禁与立法机构脱节，市场用钱投票，监管反成 Anthropic 的品牌叙事。",
-        "implication": "政策与商业走向背离，值得关注「监管不确定性下企业仍在加仓」的真实采用信号，而非只看政治表态。",
-        "sources": [
-          {
-            "name": "Politico",
-            "url": "https://www.politico.com/news/2026/06/16/white-houses-anthropic-move-jolts-congress-back-into-the-ai-debate-00964614"
-          },
-          {
-            "name": "TechCrunch",
-            "url": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/"
-          }
-        ],
-        "tags": [
-          "Anthropic",
-          "Regulation",
-          "Congress",
-          "Enterprise Adoption"
-        ],
-        "signal_strength": 0.78
-      },
-      {
-        "title": "微博 VibeThinker-3B：30 亿参数模型称比肩旗舰推理，引发基准之争",
-        "signal_text": "据 VentureBeat 报道，新浪微博 9 人团队在 arXiv 发布 14 页技术报告，称其仅 30 亿参数（3B）的语言模型 VibeThinker-3B 在推理性能上可比肩甚至超过旗舰系统，结果在 AI 研究圈引发对 benchmark 可信度的新一轮争论。",
-        "insight": "小模型「碰瓷」旗舰推理，真正引爆的是对评测基准是否被刷分的信任危机。",
-        "implication": "小参数高分需审慎核验，值得关注更抗刷分的评测方法与第三方复现，而非只看榜单数字。",
-        "sources": [
-          {
-            "name": "VentureBeat",
-            "url": "https://venturebeat.com/technology/why-weibos-tiny-vibethinker-3b-has-the-ai-world-arguing-over-benchmarks-again"
-          }
-        ],
-        "tags": [
-          "VibeThinker",
-          "Small Models",
-          "Reasoning",
-          "Benchmarks"
-        ],
-        "signal_strength": 0.76
-      },
-      {
-        "title": "Databricks 称解决困扰 AI agent 的数十年数据管道难题，发布两款新品",
-        "signal_text": "据 VentureBeat 报道，Databricks 在 Data + AI Summit 上发布两款产品，旨在消除 AI agent 与其所需实时数据之间的管道延迟。其观点是：持续推理并对实时数据采取行动的 agent，无法容忍自身与信息之间存在传统数据管道，agent 让运营库与分析库的统一难题从「性能问题」变成了「结构性问题」。",
-        "insight": "Agent 把数据「实时可用性」从优化项升级为架构刚需，数据层成 agent 竞争新前线。",
-        "implication": "实时数据接入是长程 agent 的瓶颈，值得关注面向 agent 的低延迟数据/特征供给基础设施机会。",
-        "sources": [
-          {
-            "name": "VentureBeat",
-            "url": "https://venturebeat.com/data/databricks-says-it-solved-the-decades-old-data-pipeline-problem-thats-been-slowing-ai-agents"
-          }
-        ],
-        "tags": [
-          "Databricks",
-          "AI Agents",
-          "Data Infrastructure",
-          "Real-time"
-        ],
-        "signal_strength": 0.74
-      },
-      {
-        "title": "斯坦福 DeLM：无中心编排器，多 agent 任务成本直降 50%",
-        "signal_text": "据 VentureBeat 报道，斯坦福提出去中心化语言模型框架 DeLM（decentralized language model），挑战「多 agent 必须有中心编排器（orchestrator）」的假设——让 agent 之间直接协调而非每次请求都经中心路由，从而把多 agent 任务成本降低约 50%，并减少协调延迟。",
-        "insight": "多 agent 架构从「中心调度」转向「点对点协调」，编排范式被重新审视。",
-        "implication": "去中心化协调可能改写 agent 编排成本结构，值得关注无中心编排器的多 agent 框架与协议层探索。",
-        "sources": [
-          {
-            "name": "VentureBeat",
-            "url": "https://venturebeat.com/orchestration/stanfords-delm-cuts-multi-agent-task-costs-50-without-a-central-orchestrator"
-          }
-        ],
-        "tags": [
-          "Stanford",
-          "Multi-Agent",
-          "DeLM",
-          "Orchestration"
-        ],
-        "signal_strength": 0.73
-      },
-      {
-        "title": "Copilot 高危漏洞 SearchLeak：可窃取用户 2FA 验证码",
-        "signal_text": "据 Ars Technica 报道，一个名为 SearchLeak 的漏洞利用显示，Microsoft Copilot 存在高危漏洞，攻击者可借此窃取用户的 2FA 验证码。报道指出该案例再次暴露了业界处理 LLM 安全问题的方式反复失效。",
-        "insight": "LLM 把「读取上下文」变成新攻击面，2FA 这类敏感信息可被提示注入类手法外泄。",
-        "implication": "Agent/Copilot 接入敏感数据风险上升，值得关注面向 LLM 应用的输入隔离、输出审计与运行时防护工具。",
-        "sources": [
-          {
-            "name": "Ars Technica",
-            "url": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/"
-          }
-        ],
-        "tags": [
-          "Copilot",
-          "Security",
-          "Prompt Injection",
-          "LLM Safety"
-        ],
-        "signal_strength": 0.72
-      },
-      {
-        "title": "OpenAI 提出发布前安全预测法：用「模拟部署」预判模型真实风险",
-        "signal_text": "OpenAI 在 Alignment Forum 发布研究，介绍其发布前安全评审的方法：通过模拟部署（simulating deployment）、结合定向评测与红队等手段，在模型发布前预测它在真实使用中可能的行为与新风险。其观点是随着能力提升，「理解模型会怎么做」比「它能做什么」更重要。",
-        "insight": "安全评估从「测能力」转向「测部署后行为」，前置模拟成发布前关键关卡。",
-        "implication": "部署前行为预测正在方法化，值得关注面向模型上线的模拟评测、红队与行为度量工具链。",
-        "sources": [
-          {
-            "name": "Alignment Forum (OpenAI)",
-            "url": "https://www.alignmentforum.org/posts/xPXJfgqFTvuJxGZbE/predicting-llm-safety-before-release-by-simulating"
-          },
-          {
-            "name": "OpenAI Paper (PDF)",
-            "url": "https://cdn.openai.com/pdf/predicting-llm-safety-before-release-by-simulating-deployment.pdf"
-          }
-        ],
-        "tags": [
-          "OpenAI",
-          "AI Safety",
-          "Evaluation",
-          "Red-teaming"
-        ],
-        "signal_strength": 0.7
-      },
-      {
-        "title": "高通押注「后智能手机」：在研 40+ AI 可穿戴设备",
-        "signal_text": "据 TechCrunch 报道，高通 CEO Cristiano Amon 周二表示，公司正研发 40 多种 AI 可穿戴设备——包括首饰、带摄像头的耳机、胸针、手表等，并已为此发布两款产品，凸显其押注下一代主力计算平台不再是手机。",
-        "insight": "芯片巨头抢做「手机之后」的 AI 硬件入口，端侧 AI 形态进入百花齐放期。",
-        "implication": "可穿戴 AI 入口竞争升温，值得关注端侧小模型、低功耗多模态与可穿戴 agent 交互的早期机会。",
-        "sources": [
-          {
-            "name": "TechCrunch",
-            "url": "https://techcrunch.com/2026/06/16/qualcomm-wants-to-be-the-chip-inside-whatever-replaces-your-smartphone-and-it-just-announced-two-products-toward-that-end/"
-          }
-        ],
-        "tags": [
-          "Qualcomm",
-          "AI Wearables",
-          "Edge AI",
-          "Hardware"
-        ],
-        "signal_strength": 0.68
-      },
-      {
-        "title": "Kapwing 测试：新建 TikTok 账号「For You」约 60% 是 AI 垃圾内容，为 YouTube 的约 3 倍",
-        "signal_text": "据 Search Engine Journal 报道，Kapwing 的测试显示，给一个全新 TikTok 账号推送的前 500 条「For You」视频中，约 60% 为 AI 生成的低质内容（AI slop），约为新 YouTube 用户在 Shorts 中所见 AI 垃圾内容的 3 倍。",
-        "insight": "生成式内容正快速淹没主流信息流，平台分发与内容真实性面临系统性压力。",
-        "implication": "AI 内容泛滥催生新需求，值得关注内容溯源、AI 生成检测与质量分层的产品机会。",
-        "sources": [
-          {
-            "name": "Search Engine Journal",
-            "url": "https://www.searchenginejournal.com/tiktok-shows-3x-more-ai-slop-than-youtube-report-finds/579521/"
-          },
-          {
-            "name": "Techmeme",
-            "url": "https://www.techmeme.com/260616/p47#a260616p47"
-          }
-        ],
-        "tags": [
-          "AI Slop",
-          "TikTok",
-          "Content Ecosystem",
-          "Detection"
-        ],
-        "signal_strength": 0.64
-      }
-    ],
-    "2026-06-18": [
-      {
-        "title": "Noam Shazeer 离开 Google 重回 OpenAI，出任架构研究负责人",
-        "signal_text": "据 The Information 报道，Transformer 论文作者之一、Google Gemini 联合负责人 Noam Shazeer 离开 Google 加入 OpenAI，出任架构研究（architecture research）负责人。他曾于 2024 年随 Character.AI 交易回归 Google。",
-        "insight": "顶级架构科学家从 Gemini 核心流向 OpenAI，模型架构竞赛的人才天平再次倾斜。",
-        "implication": "架构创新仍是前沿模型的胜负手，可以关注 OpenAI 下一代架构路线与 Google 的人才补位节奏。",
-        "sources": [
-          {
-            "name": "Techmeme",
-            "url": "https://www.techmeme.com/260617/p52#a260617p52"
-          },
-          {
-            "name": "The Information",
-            "url": "https://www.theinformation.com/articles/star-google-ai-researcher-shazeer-joins-openai"
-          }
-        ],
-        "tags": [
-          "人才流动",
-          "OpenAI",
-          "模型架构"
+          "三星",
+          "Codex"
         ],
         "signal_strength": 0.85,
         "category": "strategic_move"
       },
       {
-        "title": "AWS 推出 Context 知识图谱服务，为 AI agent 构建会自学的上下文层",
-        "signal_text": "据 VentureBeat 报道，Amazon 发布面向 AI agent 的「上下文智能」三件套，核心是 AWS Context——一个随 agent 使用而持续变聪明的知识图谱服务，免去人工维护图谱，直指企业数据与 agent 之间的上下文中间层。",
-        "insight": "巨头把 agent 上下文/记忆层产品化，争夺 RAG 之上的新基础设施层。",
-        "implication": "上下文/记忆中间层正从自研走向标准服务，利好做 agent memory、知识图谱的早期基础设施团队。",
+        "title": "软银投资的具身智能机器人公司 Coowa 拟赴港 IPO，估值 30 亿美元",
+        "signal_text": "据《华尔街日报》（经 Techmeme），上海具身智能机器人公司 Coowa 计划在香港 IPO；该公司在最近一轮融资 6 亿美元后估值达 30 亿美元，背后有软银（SoftBank）支持。",
+        "insight": "具身智能进入二级市场叙事，中国机器人创业同时拿到大额资本与 IPO 通道。",
+        "implication": "具身智能/机器人成为资本下一个押注重心，可以关注硬件＋大模型结合的早期标的与供应链机会。",
         "sources": [
           {
-            "name": "VentureBeat",
-            "url": "https://venturebeat.com/data/aws-enters-the-context-layer-race-with-a-graph-that-learns-from-agents-not-manual-curation"
+            "name": "Wall Street Journal / Techmeme",
+            "url": "https://www.techmeme.com/260621/p12#a260621p12"
           }
         ],
         "tags": [
-          "AI Agent",
-          "知识图谱",
-          "上下文层",
-          "AWS"
+          "具身智能",
+          "机器人",
+          "IPO",
+          "中国AI"
         ],
-        "signal_strength": 0.82,
-        "category": "infrastructure"
+        "signal_strength": 0.78,
+        "category": "strategic_move"
       },
       {
-        "title": "Google 医疗 AI AMIE 登 Nature：复杂慢病管理比肩全科医生",
-        "signal_text": "据 Google 官方博客，发表于《Nature》的研究显示其对话式医疗 AI 系统 AMIE 在复杂疾病的长期管理上可与全科医生（primary care physicians）相当。",
-        "insight": "对话式 AI 在高门槛慢病管理上达到医生水平，医疗垂直应用进入临床级讨论。",
-        "implication": "医疗等强监管垂直场景的 AI 落地窗口正在打开，可以关注合规化的临床决策辅助创业方向。",
+        "title": "Aether AI 用「因果世界模型」教机器人理解因果，获 2000 万美元种子轮",
+        "signal_text": "据 The Next Web（经 Techmeme），圣地亚哥创业公司 Aether AI 正构建「causal world models」，让机器人学会因果关系而非单纯模式匹配，获 MPCi 领投的 2000 万美元种子轮。",
+        "insight": "世界模型从「预测下一帧」转向「理解因果」，物理 AI 的方法论开始分叉。",
+        "implication": "因果/世界模型是物理 AI 的关键卡位，做机器人认知层与仿真数据的早期团队值得关注。",
         "sources": [
           {
-            "name": "Google AI Blog",
-            "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/"
+            "name": "The Next Web / Techmeme",
+            "url": "https://www.techmeme.com/260621/p11#a260621p11"
           }
         ],
         "tags": [
-          "医疗AI",
-          "Google",
-          "Nature",
-          "垂直应用"
+          "世界模型",
+          "物理AI",
+          "机器人",
+          "融资"
         ],
-        "signal_strength": 0.8,
+        "signal_strength": 0.7,
         "category": "research_breakthrough"
       },
       {
-        "title": "Anthropic 大改版 Claude Design：导入设计系统、代码往返，并修复烧 token 顽疾",
-        "signal_text": "据 VentureBeat 报道，Anthropic 对今年 4 月作为研究预览推出、首周即破百万用户的 Claude Design 做了重大升级，新增设计系统导入、代码 round-trip，并修复了此前被诟病的 token 消耗过高问题。",
-        "insight": "设计/前端生成工具从惊艳但烧钱走向可用，token 效率成为 AI 产品留存关键。",
-        "implication": "AI 生成类产品的成本可控性正成为竞争点，做垂直生成工具的团队可把 token 效率当一等公民。",
+        "title": "消费 AI 落后美中，欧洲转向工业 AI 寻求突围",
+        "signal_text": "据彭博（经 Techmeme），在消费级 AI 落后于美国和中国之际，欧洲的工程公司与 AI 初创（报道点名 Mistral、Siemens、Schneider）正转向工业 AI 应用以提升效率。",
+        "insight": "欧洲避开消费 AI 正面战场，押注其有制造业底盘优势的工业 AI。",
+        "implication": "工业/垂直 AI 是后发地区的差异化路径，做产线、能源、制造场景 AI 的团队可关注欧洲市场与合作机会。",
         "sources": [
           {
-            "name": "VentureBeat",
-            "url": "https://venturebeat.com/technology/anthropic-ships-major-claude-design-overhaul-with-design-system-imports-code-round-trips-and-a-fix-for-its-token-burning-problem"
+            "name": "Bloomberg / Techmeme",
+            "url": "https://www.techmeme.com/260621/p9#a260621p9"
           }
         ],
         "tags": [
-          "Anthropic",
-          "设计工具",
-          "token成本",
-          "产品"
-        ],
-        "signal_strength": 0.72,
-        "category": "model_release"
-      },
-      {
-        "title": "[Update] Anthropic 出口管制风波：SK Telecom 成导火索，白宫要求堵死所有越狱",
-        "signal_text": "据 Wired 报道，白宫限制 Claude Mythos 5 之举，源于此前要求 Anthropic 以「涉嫌与中国有关联」为由撤销韩国 SK Telecom 的访问权限；官员还表示，若 Anthropic 想重新上线 Fable 5，须确保模型护栏无法被绕过，而安全专家认为这在技术上做不到。",
-        "insight": "模型出口管制从国家细化到具体企业关联，监管诉求与越狱不可消除的技术现实正面冲突。",
-        "implication": "前沿模型的合规边界正被地缘政治重塑，跨境部署的访问控制与可审计性将成硬约束，出海团队可提前布局。",
-        "sources": [
-          {
-            "name": "Wired (SK Telecom)",
-            "url": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/"
-          },
-          {
-            "name": "Wired (jailbreaks)",
-            "url": "https://www.wired.com/story/the-white-house-wants-anthropic-to-block-all-jailbreaks-that-may-not-be-possible/"
-          },
-          {
-            "name": "The Verge",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls"
-          }
-        ],
-        "tags": [
-          "出口管制",
-          "Anthropic",
-          "地缘政治",
-          "合规"
-        ],
-        "signal_strength": 0.8,
-        "category": "strategic_move"
-      },
-      {
-        "title": "模型公司集体组建部署公司，前线部署工程师 FDE 成硅谷最火新岗",
-        "signal_text": "据《硅谷101》播客，OpenAI 联合包括一家 PE 在内砸下约 40 亿美元成立 Deployment Company（部署公司），Anthropic 也与 Blackstone 等金融机构合资；这些头部模型公司不再只卖工具，而是深入企业把 AI 真正部署落地，催生了 Forward Deployment Engineer（FDE）这一既懂模型又懂客户业务的新工种。",
-        "insight": "模型层趋同后，价值正向把 AI 装进企业业务的部署/交付侧迁移。",
-        "implication": "AI 落地的瓶颈从模型转向交付，做行业 know-how + 部署服务的团队迎来窗口，可关注 FDE 化的服务型创业。",
-        "sources": [
-          {
-            "name": "硅谷101",
-            "url": "https://sv101.fireside.fm/253"
-          }
-        ],
-        "tags": [
-          "部署公司",
-          "FDE",
-          "AI商业化",
-          "OpenAI"
-        ],
-        "signal_strength": 0.75,
-        "category": "ecosystem_shift"
-      },
-      {
-        "title": "Pew 调研：美国成年人 chatbot 使用率升至 49%，但 63% 觉得 AI 发展太快",
-        "signal_text": "据 Pew Research Center，2026 年 49% 的美国成年人报告使用过 chatbot（2024 年为 33%），24% 每天使用，44% 用过 ChatGPT；同时 63% 认为 AI 进展过快。",
-        "insight": "chatbot 渗透两年翻倍逼近半数，但公众焦虑同步走高，普及与信任出现剪刀差。",
-        "implication": "大众市场已过早期采用临界点，做面向 C 端的可信/可控（透明、可关闭）AI 产品存在差异化机会。",
-        "sources": [
-          {
-            "name": "Pew Research Center / Techmeme",
-            "url": "https://www.techmeme.com/260617/p56#a260617p56"
-          },
-          {
-            "name": "The Verge",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly"
-          }
-        ],
-        "tags": [
-          "AI采用",
-          "Pew",
-          "C端",
-          "信任"
+          "工业AI",
+          "欧洲",
+          "Mistral",
+          "垂直应用"
         ],
         "signal_strength": 0.68,
         "category": "ecosystem_shift"
       },
       {
-        "title": "内存涨价压力下 Apple 将提价，Tim Cook 称成本不可持续",
-        "signal_text": "据《华尔街日报》采访，Apple CEO Tim Cook 称当前 RAM/内存成本「不可持续」、涨价「不可避免」，公司正设法缓冲但难以完全为消费者屏蔽；TechCrunch 指出 AI 需求推高的内存短缺正多方面冲击 Apple。",
-        "insight": "AI 算力争抢传导到消费电子，内存短缺开始改写终端硬件定价。",
-        "implication": "AI 引发的内存/算力涨价正外溢到全产业链，硬件成本结构变化值得端侧 AI 与硬件创业者纳入测算。",
+        "title": "Google DeepMind 研究扩散式 LLM DiffusionGemma 的推理透明度",
+        "signal_text": "Google DeepMind 可解释性团队（含 Neel Nanda、Rohin Shah、Arthur Conmy 等）发布论文，研究 DiffusionGemma 因更多计算发生在连续潜空间是否会降低推理透明度，并把透明度拆解为「变量透明度」等维度进行分析。",
+        "insight": "扩散式 LLM 的「黑箱」程度成为新课题，可解释性研究开始追赶非自回归架构。",
+        "implication": "新架构与可解释性/评测须同步推进，可以关注扩散 LLM 落地时的审计与对齐工具机会。",
         "sources": [
           {
-            "name": "The Verge",
-            "url": "https://www.theverge.com/tech/951948/apple-tim-cook-price-increases-ram"
-          },
-          {
-            "name": "TechCrunch",
-            "url": "https://techcrunch.com/2026/06/17/ai-is-hurting-apple-in-more-ways-than-one-it-may-force-iphone-price-increases/"
+            "name": "arXiv (Google DeepMind)",
+            "url": "https://arxiv.org/abs/2606.20560v1"
           }
         ],
         "tags": [
-          "内存短缺",
-          "Apple",
-          "算力成本",
-          "供应链"
+          "DiffusionGemma",
+          "可解释性",
+          "Google DeepMind",
+          "扩散模型"
         ],
-        "signal_strength": 0.66,
-        "category": "ecosystem_shift"
+        "signal_strength": 0.75,
+        "category": "research_breakthrough"
       },
       {
-        "title": "Gemini 加持的 Google Home 智能音箱终于发布",
-        "signal_text": "据 Wired 报道，Google 时隔约六年推出新款智能音箱，重新设计为承载 Gemini 聊天机器人的 HomePod 风格设备；同时 Google 确认停产 Nest Mini 与 Nest Audio（老设备继续支持）。",
-        "insight": "大模型重新激活智能音箱品类，环境式（ambient）AI 入口之争重启。",
-        "implication": "语音/环境入口成为大模型分发新战场，做家庭场景 AI 交互与硬件的团队可关注这波品类重置。",
+        "title": "iOS 27 的实用 AI 功能：不止 Siri 大改",
+        "signal_text": "据 TechCrunch，苹果 iOS 27 除了在 WWDC 抢镜的 Siri AI 大改之外，一些更实用的 AI 功能分散在系统的其他部分。",
+        "insight": "苹果把 AI 渗透进系统细节而非单点叫卖，端侧 AI 走向「无感融入」。",
+        "implication": "端侧/系统级 AI 体验成为平台竞争点，做端侧模型与系统集成的团队可关注 Apple 生态的接口开放节奏。",
         "sources": [
           {
-            "name": "Wired",
-            "url": "https://www.wired.com/story/the-gemini-powered-google-home-speaker-is-finally-here/"
-          },
-          {
-            "name": "Techmeme",
-            "url": "https://www.techmeme.com/260617/p53#a260617p53"
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/"
           }
         ],
         "tags": [
-          "智能音箱",
-          "Gemini",
-          "环境AI",
-          "Google"
+          "Apple",
+          "iOS27",
+          "端侧AI",
+          "Siri"
         ],
         "signal_strength": 0.6,
         "category": "model_release"
       },
       {
-        "title": "Midjourney 上线医疗方向 Midjourney Medical",
-        "signal_text": "Midjourney 推出 Midjourney Medical（midjourney.com/medical），在 Hacker News 获 95 points / 106 评论，标志这家图像生成公司向医疗影像/医疗场景延伸。",
-        "insight": "头部生图公司切入医疗垂直，生成式 AI 从通用创意走向专业高价值场景。",
-        "implication": "通用生成模型公司正寻找高客单的垂直变现，医疗影像等专业生成赛道值得关注新进入者动向。",
+        "title": "新版 robotaxi 记分卡显示中国领先",
+        "signal_text": "据 TechCrunch Mobility，一份新的 robotaxi 记分卡显示中国在自动驾驶出租车领域处于领先地位。",
+        "insight": "robotaxi 竞争格局被量化呈现，中国在规模化落地上占先。",
+        "implication": "自动驾驶商业化重心向中国市场倾斜，可以关注 robotaxi 运营、车端 AI 与数据闭环的相关机会。",
         "sources": [
           {
-            "name": "Midjourney / Hacker News",
-            "url": "https://news.ycombinator.com/item?id=48579650"
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/06/21/techcrunch-mobility-a-new-robotaxi-scorecard-shows-chinas-dominance/"
           }
         ],
         "tags": [
-          "Midjourney",
-          "医疗AI",
-          "生成式AI",
-          "垂直化"
+          "robotaxi",
+          "自动驾驶",
+          "中国",
+          "TechCrunch"
         ],
-        "signal_strength": 0.58,
-        "category": "strategic_move"
+        "signal_strength": 0.57,
+        "category": "ecosystem_shift"
+      },
+      {
+        "title": "日本五大芯片设备厂对华销售首现下滑，降 10%",
+        "signal_text": "据日经亚洲（经 Techmeme），日本前五大芯片制造设备厂商在截至 3 月 31 日的财年内对华销售合计下滑 10%，为首次下滑，原因是中国正扶持本土厂商。",
+        "insight": "中国半导体设备国产替代见效，全球算力供应链格局随之重排。",
+        "implication": "AI 算力上游的国产化趋势确立，可以关注国产芯片/设备链与算力本地化带来的结构性机会。",
+        "sources": [
+          {
+            "name": "Nikkei Asia / Techmeme",
+            "url": "https://www.techmeme.com/260621/p13#a260621p13"
+          }
+        ],
+        "tags": [
+          "半导体",
+          "芯片设备",
+          "国产替代",
+          "供应链"
+        ],
+        "signal_strength": 0.6,
+        "category": "ecosystem_shift"
+      },
+      {
+        "title": "Meta 论文：为生成式推荐结构化并 token 化用户兴趣上下文",
+        "signal_text": "Meta 研究者（含 Yinglong Xia、Hanqing Zeng 等）发布论文，提出对分布式用户兴趣上下文进行结构化与 tokenization，以改进工业推荐系统中桥接物品语义与推荐模型的 item tokenization。",
+        "insight": "生成式推荐成为工业推荐的新范式，item tokenization 是其核心瓶颈。",
+        "implication": "生成式推荐正从论文走向工业系统，可以关注推荐基建与 tokenization 方法在电商/内容平台的落地。",
+        "sources": [
+          {
+            "name": "arXiv (Meta)",
+            "url": "https://arxiv.org/abs/2606.20554v1"
+          }
+        ],
+        "tags": [
+          "生成式推荐",
+          "Meta",
+          "推荐系统",
+          "tokenization"
+        ],
+        "signal_strength": 0.65,
+        "category": "research_breakthrough"
+      },
+      {
+        "title": "开源工具 tokdiet：为编码 agent 计量并压缩 token 以省 API 成本",
+        "signal_text": "GitHub 趋势项目 tokdiet（69 stars）是位于 AI 编码 agent（Claude Code、Cursor、Codex）与模型 API 之间的本地流式反向代理，计量每个 token 与美元成本、压缩臃肿上下文以削减按量付费支出，并用 shadow-eval 验证质量未降。",
+        "insight": "按量付费时代，token 成本的可观测与压缩本身正长成一类工具品类。",
+        "implication": "token 成本治理是 agent 规模化的刚需，做计量、压缩、路由的成本优化工具存在独立创业空间。",
+        "sources": [
+          {
+            "name": "GitHub - agiwhitelist/tokdiet",
+            "url": "https://github.com/agiwhitelist/tokdiet"
+          }
+        ],
+        "tags": [
+          "token成本",
+          "编码agent",
+          "可观测性",
+          "开源"
+        ],
+        "signal_strength": 0.55,
+        "category": "open_source"
       }
     ]
   },
@@ -23009,6 +22312,910 @@
             "raw_item_indices": [
               7
             ]
+          }
+        ]
+      }
+    },
+    {
+      "week": "2026-W24",
+      "days": {
+        "2026-06-15": [
+          {
+            "title": "Codex Gains Widespread Adoption as a Capable AI Agent, Pushing Boundaries of Autonomous Tool Use",
+            "signal_text": "OpenAI的Codex模型因其强大能力引发广泛关注。前Anthropic研究员Thibault Sottiaux（@thsottiaux）的推文称'Codex可以查看并设定自己的/goal'，获得超过2,900 likes和259k views。另一开发者疑似发现Codex自动注册网络服务，引起热议。这标志着AI Agent在自主决策和工具调用能力上达到了一个新高度。",
+            "signal_strength": 0.9,
+            "sources": [
+              {
+                "name": "Twitter/X - thsottiaux",
+                "url": "https://x.com/thsottiaux/status/2066270561081454989"
+              },
+              {
+                "name": "Twitter/X - steipete",
+                "url": "https://x.com/steipete/status/2065997212015067508"
+              },
+              {
+                "name": "Twitter/X - thsottiaux",
+                "url": "https://x.com/thsottiaux/status/2066022651760721931"
+              }
+            ],
+            "tags": [
+              "OpenAI",
+              "Codex",
+              "Autonomous Agent",
+              "Tool Use",
+              "AI Capability"
+            ],
+            "raw_item_indices": [
+              34,
+              80,
+              85
+            ]
+          },
+          {
+            "title": "OpenAI Launches Partner Network with $150M Investment to Accelerate Enterprise AI Adoption",
+            "signal_text": "OpenAI官方宣布推出合作伙伴网络（OpenAI Partner Network），并投入1.5亿美元，旨在帮助全球合作伙伴加速企业AI的采用、部署和转型。这表明OpenAI正通过构建生态渠道来深化其商业化路径，与微软、Anthropic等对手在企业级市场展开更直接的竞争。",
+            "signal_strength": 0.85,
+            "sources": [
+              {
+                "name": "OpenAI Blog",
+                "url": "https://openai.com/index/introducing-openai-partner-network"
+              }
+            ],
+            "tags": [
+              "OpenAI",
+              "Enterprise AI",
+              "Business Strategy",
+              "Partner Ecosystem",
+              "Investment"
+            ],
+            "raw_item_indices": [
+              16
+            ]
+          },
+          {
+            "title": "Google DeepMind Researcher Finds SFT Safety Filters Can Fail Due to Training Contamination from Previous Models",
+            "signal_text": "Google DeepMind语言模型可解释性团队在Alignment Forum上发表文章，详细解释了为什么简单的监督微调（SFT）过滤方法在确保模型安全属性时会失败。该团队指出，当用旧模型生成的输出去训练新模型时，新模型会继承旧模型的不良习惯且难以过滤，这有助于解释为什么同一模型族的不同版本感觉如此相似。",
+            "signal_strength": 0.85,
+            "sources": [
+              {
+                "name": "Alignment Forum",
+                "url": "https://www.alignmentforum.org/posts/wyZRNgpeiPeRXB6eT/why-do-naive-sft-filters-for-safety-properties-fail"
+              },
+              {
+                "name": "Twitter/X - emollick",
+                "url": "https://x.com/emollick/status/2066301578194166046"
+              }
+            ],
+            "tags": [
+              "Google DeepMind",
+              "AI Safety",
+              "Alignment",
+              "Model Training",
+              "Interpretability"
+            ],
+            "raw_item_indices": [
+              12,
+              29
+            ]
+          },
+          {
+            "title": "Meta Cuts Employee Token Usage and Pushes In-House AI Tools After Encouraging AI-Driven Impact",
+            "signal_text": "据The Information报道，在鼓励员工证明其'AI驱动的影响力'之后，Meta现在转为限制员工的token使用量，并将他们引导至内部AI工具。这表明Meta在内部AI推广策略上正在收紧，从开放式鼓励转向成本控制和工具标准化。",
+            "signal_strength": 0.78,
+            "sources": [
+              {
+                "name": "Twitter/X - theinformation",
+                "url": "https://x.com/theinformation/status/2066241778022240387"
+              }
+            ],
+            "tags": [
+              "Meta",
+              "Internal AI Adoption",
+              "Cost Control",
+              "Corporate Strategy",
+              "Tooling"
+            ],
+            "raw_item_indices": [
+              45
+            ]
+          },
+          {
+            "title": "Meta's Custom AI Chip Efforts Face Layoffs and Internal Fights Post-Rivos Acquisition",
+            "signal_text": "据The Information报道，Meta收购Rivos以加速其定制AI芯片工作已过去六个月，但此后裁员、战略转变和内部斗争正在减缓其削减英伟达成本的最大努力之一。这突显了大型科技公司在自研AI芯片道路上所面临的重大挑战。",
+            "signal_strength": 0.75,
+            "sources": [
+              {
+                "name": "Twitter/X - theinformation",
+                "url": "https://x.com/theinformation/status/2066188976017350917"
+              }
+            ],
+            "tags": [
+              "Meta",
+              "AI Chip",
+              "Semiconductor",
+              "Internal Challenges",
+              "NVIDIA"
+            ],
+            "raw_item_indices": [
+              65
+            ]
+          },
+          {
+            "title": "AI Coding Model Competition Intensifies: Composer 2.5, MiniMax-M3 and Open-Source Alternatives Challenge Frontier Models",
+            "signal_text": "多位AI研究员在Twitter/X上讨论编程模型的竞争格局。有观点指出（@NielsRogge），Cursor的Composer 2.5在95%的提示中可替代GPT 5.5或Opus 4.8，且价格更低。同时，MiniMax的M3模型在Hugging Face上获得500+ likes，被视为开源加速的又一例证。这表明前沿编码模型市场正快速从寡头转向多元化。",
+            "signal_strength": 0.75,
+            "sources": [
+              {
+                "name": "Twitter/X - NielsRogge",
+                "url": "https://x.com/NielsRogge/status/2066245456682758400"
+              },
+              {
+                "name": "Twitter/X - NielsRogge",
+                "url": "https://x.com/NielsRogge/status/2066251594073530552"
+              },
+              {
+                "name": "Hugging Face - MiniMaxAI/MiniMax-M3",
+                "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3"
+              }
+            ],
+            "tags": [
+              "Coding AI",
+              "Model Competition",
+              "Cursor",
+              "MiniMax",
+              "Open Source"
+            ],
+            "raw_item_indices": [
+              36,
+              38,
+              44,
+              113
+            ]
+          },
+          {
+            "title": "New Study Shows Generalist AI Models May Outperform Specialized Medical AIs, Methodology Debated",
+            "signal_text": "一项新的研究论文引发了关于通用模型是否优于专业医疗AI的辩论。沃顿商学院教授Ethan Mollick在Twitter/X上转发了一个方法论讨论串（获49+ likes, 12k+ views），概述了在医疗领域对AI进行基准测试的挑战，表明泛化能力与专业化之间正在形成新的竞争格局。",
+            "signal_strength": 0.72,
+            "sources": [
+              {
+                "name": "Twitter/X - emollick",
+                "url": "https://x.com/emollick/status/2066303566449418739"
+              }
+            ],
+            "tags": [
+              "AI in Medicine",
+              "Generalist vs. Specialist",
+              "Benchmarking",
+              "Research",
+              "LLM"
+            ],
+            "raw_item_indices": [
+              28
+            ]
+          },
+          {
+            "title": "AI-First Legal Workflow Automation 'Sandstone' Raises $30M Series A from Lightspeed",
+            "signal_text": "据TechCrunch报道，Sandstone公司开发了面向中小型企业法律团队的AI驱动工作流自动化工具，获得了由Lightspeed领投的3000万美元A轮融资。这表明AI在垂直行业（特别是法律领域）的自动化应用正获得资本市场的强力支持，且市场正从大型企业向中小企业下沉。",
+            "signal_strength": 0.7,
+            "sources": [
+              {
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/"
+              },
+              {
+                "name": "Techmeme",
+                "url": "https://www.techmeme.com/260614/p19#a260614p19"
+              }
+            ],
+            "tags": [
+              "Legal AI",
+              "Startup Funding",
+              "Workflow Automation",
+              "SMB",
+              "Lightspeed"
+            ],
+            "raw_item_indices": [
+              4
+            ]
+          },
+          {
+            "title": "Snowflake Deploys AI Agents Internally to Sell Enterprise AI Adoption to Customers",
+            "signal_text": "据The Information报道，Snowflake正在其财务、人力资源和销售等部门内部部署AI Agent，然后利用这些案例说服客户也这样做。这种'吃自己的狗粮'策略展示了数据平台公司如何将AI Agent从技术概念转化为可复制的商业用例。",
+            "signal_strength": 0.7,
+            "sources": [
+              {
+                "name": "Twitter/X - theinformation",
+                "url": "https://x.com/theinformation/status/2066234243563307286"
+              }
+            ],
+            "tags": [
+              "Snowflake",
+              "Enterprise AI",
+              "AI Agent",
+              "Go-to-Market Strategy",
+              "Dogfooding"
+            ],
+            "raw_item_indices": [
+              48
+            ]
+          },
+          {
+            "title": "Gary Marcus Highlights New Study Showing LLMs Struggle with Abstract Reasoning and Learning Transfer",
+            "signal_text": "AI评论家Gary Marcus在Twitter/X上引用了一项新研究（获524+ likes, 32k views），该研究认为'如果AI无法将抽象课程应用于新情况，它就不是真正的推理或学习'。这为持续存在的关于大模型是否具备真正推理能力的辩论提供了新的证据。",
+            "signal_strength": 0.7,
+            "sources": [
+              {
+                "name": "Twitter/X - GaryMarcus",
+                "url": "https://x.com/GaryMarcus/status/2066177872637878369"
+              }
+            ],
+            "tags": [
+              "LLM",
+              "Reasoning",
+              "Generalization",
+              "AI Research",
+              "Criticism"
+            ],
+            "raw_item_indices": [
+              66
+            ]
+          }
+        ],
+        "2026-06-16": [
+          {
+            "title": "美政府下令封禁 Anthropic 新模型 Fable 5/Mythos 5 海外访问，白宫会谈仍未和解",
+            "signal_text": "据 The Verge、Wired、TechCrunch 报道，美政府向 Anthropic 下达出口管制指令，要求暂停其最新模型 Mythos 5 与 Fable 5 的海外访问；Anthropic 高层周一赴白宫会谈，但双方对 Fable 5 的风险评估仍存分歧。TechCrunch 指此举更像监管/政治博弈而非单纯安全事件。",
+            "insight": "前沿模型成地缘政治筹码，能力越强出口越受限。",
+            "implication": "模型可用性正被政策绑定，值得关注「多模型供给+合规分发」的基础设施窗口。",
+            "sources": [
+              {
+                "name": "The Verge",
+                "url": "https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls"
+              },
+              {
+                "name": "Wired",
+                "url": "https://www.wired.com/story/anthropic-is-still-at-odds-with-the-white-house-over-claude-fable-5/"
+              },
+              {
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/"
+              }
+            ],
+            "tags": [
+              "Anthropic",
+              "Export Control",
+              "Regulation",
+              "Frontier Model"
+            ],
+            "signal_strength": 0.93
+          },
+          {
+            "title": "高通拟以 80-100 亿美元收购 AI 芯片设计公司 Tenstorrent",
+            "signal_text": "据 The Information（经 Techmeme 转载）报道，Qualcomm 正洽谈以 80 亿-100 亿美元收购 AI 芯片设计公司 Tenstorrent；2025 年 Tenstorrent 曾以约 32 亿美元估值讨论融资 8 亿美元。若成交将是近期 AI 芯片领域的重大整合。",
+            "insight": "AI 芯片进入并购整合期，二线设计公司成巨头卡位标的。",
+            "implication": "算力供给格局在重排，值得关注非英伟达路线的推理芯片与异构生态机会。",
+            "sources": [
+              {
+                "name": "Techmeme",
+                "url": "https://www.techmeme.com/260615/p41#a260615p41"
+              },
+              {
+                "name": "The Information",
+                "url": "https://www.theinformation.com/articles/qualcomm-talks-buy-tenstorrent-expand-ai-chip-capabilities"
+              }
+            ],
+            "tags": [
+              "Qualcomm",
+              "Tenstorrent",
+              "AI Chip",
+              "M&A"
+            ],
+            "signal_strength": 0.85
+          },
+          {
+            "title": "Google 开源旗舰 Gemma 4 登上 HuggingFace 趋势榜，下载量破百万",
+            "signal_text": "Google 的 gemma-4-12B-it 在 HuggingFace 趋势榜居前，标注 any-to-any 多模态、Apache-2.0 许可，下载量约 116 万、获 1035 likes；同系扩散模型 diffusiongemma-26B-A4B-it 亦在榜（884 likes、31 万下载）。显示 Google 开源模型生态的强势扩张。",
+            "insight": "Google 用开源 Gemma 4 抢占端侧与开发者心智，开放权重成主战场。",
+            "implication": "高性价比开放权重模型快速可用，利好做轻量垂直应用与私有部署的团队。",
+            "sources": [
+              {
+                "name": "HuggingFace - gemma-4-12B-it",
+                "url": "https://huggingface.co/google/gemma-4-12B-it"
+              },
+              {
+                "name": "HuggingFace - diffusiongemma-26B-A4B-it",
+                "url": "https://huggingface.co/google/diffusiongemma-26B-A4B-it"
+              }
+            ],
+            "tags": [
+              "Google",
+              "Gemma 4",
+              "Open Weights",
+              "Multimodal"
+            ],
+            "signal_strength": 0.82
+          },
+          {
+            "title": "微软 CEO Nadella 撰文警告：少数前沿模型或商品化整个行业的专业能力",
+            "signal_text": "据 VentureBeat 报道，微软 CEO Satya Nadella 周日发表长文，称 AI 时代核心经济风险是「少数前沿模型吸收并商品化各行业的专业能力，令企业失去竞争壁垒」，并将其类比全球化带来的冲击。",
+            "insight": "模型层正向上吞噬应用层价值，护城河面临重估。",
+            "implication": "差异化壁垒回到数据与场景，值得关注「私有数据+工作流」的垂直 AI 创业。",
+            "sources": [
+              {
+                "name": "VentureBeat",
+                "url": "https://venturebeat.com/technology/satya-nadella-warns-that-ai-could-hollow-out-entire-industries-echoing-the-damage-done-by-globalization"
+              }
+            ],
+            "tags": [
+              "Microsoft",
+              "Nadella",
+              "Industry",
+              "Strategy"
+            ],
+            "signal_strength": 0.8
+          },
+          {
+            "title": "Sakana AI 推出首款商业产品 Marlin——自主产出 100+ 页报告的「虚拟 CSO」",
+            "signal_text": "据 VentureBeat 报道，东京 Sakana AI 正式发布首款商业产品 Marlin，定位「虚拟首席战略官」（Virtual CSO）：放弃即时生成，转而做长程推理，8 小时内产出 100+ 页的 B2B 深度研究报告。代表 deep research 类 Agent 从消费向企业级长任务延伸。",
+            "insight": "长程自主研究 Agent 进入商业化，竞争从「秒答」转向「深做」。",
+            "implication": "长任务 Agent 形态成型，垂直行业知识 Agent 的产品化窗口值得探索。",
+            "sources": [
+              {
+                "name": "VentureBeat",
+                "url": "https://venturebeat.com/technology/when-deep-research-isnt-enough-for-your-business-sakana-ai-launches-ultra-deep-research-agent-for-100-page-reports-in-8-hours"
+              }
+            ],
+            "tags": [
+              "Sakana AI",
+              "Deep Research",
+              "Agent",
+              "B2B"
+            ],
+            "signal_strength": 0.8
+          },
+          {
+            "title": "METR 新研究：测量前沿模型「无 CoT」可完成的任务时长",
+            "signal_text": "METR 在 LessWrong（Curated）发文，延续其「模型可靠完成的任务时长每数月翻倍」研究，进一步测量模型在不使用任何 chain-of-thought（CoT）情况下的任务完成时长，作为一项安全相关的能力评估指标。",
+            "insight": "把「无 CoT 能力」单列度量，揭示模型隐性自主能力边界。",
+            "implication": "能力评估方法持续细化，agent 安全与评测工具链值得关注。",
+            "sources": [
+              {
+                "name": "LessWrong (METR)",
+                "url": "https://www.lesswrong.com/posts/SieLowPgNgRSPGhFw/estimating-no-cot-task-completion-time-horizons-of-frontier"
+              }
+            ],
+            "tags": [
+              "METR",
+              "Evaluation",
+              "AI Safety",
+              "Capability"
+            ],
+            "signal_strength": 0.78
+          },
+          {
+            "title": "Google DeepMind：用合成文档微调向模型注入「积极特质」",
+            "signal_text": "Google DeepMind 语言模型可解释性团队在 Alignment Forum 发布第五篇研究更新，提出通过合成文档微调（synthetic document finetuning）向模型注入积极特质（positive traits）的方法，延续此前关于 SFT 安全过滤失效的研究脉络。",
+            "insight": "合成数据正从「补量」走向「定向塑造模型性格」。",
+            "implication": "数据合成成为对齐杠杆，偏好/合成数据方法值得持续跟踪。",
+            "sources": [
+              {
+                "name": "Alignment Forum (Google DeepMind)",
+                "url": "https://www.alignmentforum.org/posts/GTYJRLhqztxKF2v5R/synthetic-document-finetuning-for-instilling-positive-traits"
+              }
+            ],
+            "tags": [
+              "Google DeepMind",
+              "Synthetic Data",
+              "Alignment",
+              "Finetuning"
+            ],
+            "signal_strength": 0.75
+          },
+          {
+            "title": "Ivanti 调研：85% IT 称 AI agent 都有归属，仅 42% 真知道谁负责",
+            "signal_text": "据 VentureBeat 援引 Ivanti 对六国 3900 名员工的调研：85% IT 专业人士称每个 AI agent 都有明确负责人，但仅 42% 真正说得出归属；同时企业领导层隐藏自身 AI 使用的比例（42%）几乎是普通员工（23%）的两倍，52% 称为了「秘密优势」。",
+            "insight": "企业 AI agent 已进入「影子治理」，资产归属与审计严重滞后。",
+            "implication": "agent 登记、归属与审计是企业刚需，治理与可观测性工具有机会。",
+            "sources": [
+              {
+                "name": "VentureBeat",
+                "url": "https://venturebeat.com/security/85-of-it-teams-claim-every-ai-agent-is-under-control-only-42-actually-know-who-owns-them"
+              }
+            ],
+            "tags": [
+              "Enterprise AI",
+              "AI Governance",
+              "Agent",
+              "Ivanti"
+            ],
+            "signal_strength": 0.74
+          },
+          {
+            "title": "开源编码模型新一波：Kimi-K2.7-Code、Cohere North-Mini-Code 集体上榜",
+            "signal_text": "HuggingFace 趋势榜出现新一批面向编码/agent 的模型：月之暗面 moonshotai/Kimi-K2.7-Code（747 likes、5.7 万下载）、CohereLabs/North-Mini-Code-1.0（MoE、Apache-2.0、391 likes）、MiniMaxAI/MiniMax-M3（MoE、agent/coding 多模态、840 likes）。低成本编码模型供给持续加密。",
+            "insight": "编码 agent 模型走向「平价开源化」，性价比成主战场。",
+            "implication": "低价编码模型可堆叠，按任务难度做性价比路由的应用层值得探索。",
+            "sources": [
+              {
+                "name": "HuggingFace - Kimi-K2.7-Code",
+                "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code"
+              },
+              {
+                "name": "HuggingFace - North-Mini-Code-1.0",
+                "url": "https://huggingface.co/CohereLabs/North-Mini-Code-1.0"
+              },
+              {
+                "name": "HuggingFace - MiniMax-M3",
+                "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3"
+              }
+            ],
+            "tags": [
+              "Open Source",
+              "Coding Model",
+              "MoE",
+              "Agent"
+            ],
+            "signal_strength": 0.75
+          },
+          {
+            "title": "vLLM v0.23 发布：DeepSeek-V4 跨后端进一步成熟",
+            "signal_text": "推理框架 vLLM 发布 v0.23.0（来自 200 名贡献者的 408 次提交），其中 DeepSeek-V4 在多后端获得又一轮硬化与优化，其 sparse MLA 元数据已与 DeepSeek-V3.2 解耦；同时提示 MiniMax M3 暂未支持。开源推理栈对大模型的工程支撑持续跟进。",
+            "insight": "开源推理栈快速吃下新架构，部署侧门槛持续下探。",
+            "implication": "自托管前沿开源模型更易落地，私有化与混合部署方案值得关注。",
+            "sources": [
+              {
+                "name": "vLLM v0.23.0 Release",
+                "url": "https://github.com/vllm-project/vllm/releases/tag/v0.23.0"
+              }
+            ],
+            "tags": [
+              "vLLM",
+              "DeepSeek-V4",
+              "Inference",
+              "Open Source"
+            ],
+            "signal_strength": 0.72
+          }
+        ],
+        "2026-06-17": [
+          {
+            "title": "Z.ai 开源 GLM-5.2：多项长程编码基准超 GPT-5.5，成本仅 1/6",
+            "signal_text": "据 VentureBeat 报道，中国 AI 创业公司 Z.ai（前智谱 AI）发布 753B 参数开源（open-weights）大模型 GLM-5.2，主打「长程（long-horizon）」自主编码与工程任务，在多个长程编码基准上超过 GPT-5.5，且推理成本仅约其 1/6。模型即日上线 Hugging Face、Z.ai API 及 20+ 第三方平台。",
+            "insight": "开源模型把「长程编码」这一旗舰能力打到 1/6 价位，能力—成本拐点再下移。",
+            "implication": "高性价比开源旗舰持续逼近闭源，值得关注按任务难度做模型路由、以开源底座替换高价 API 的应用层机会。",
+            "sources": [
+              {
+                "name": "VentureBeat",
+                "url": "https://venturebeat.com/technology/z-ais-open-weights-glm-5-2-beats-gpt-5-5-on-multiple-long-horizon-coding-benchmarks-for-1-6th-the-cost"
+              },
+              {
+                "name": "Z.ai Blog",
+                "url": "https://z.ai/blog/glm-5.2"
+              },
+              {
+                "name": "Hugging Face - zai-org/GLM-5.2",
+                "url": "https://huggingface.co/zai-org/GLM-5.2"
+              }
+            ],
+            "tags": [
+              "Z.ai",
+              "GLM-5.2",
+              "Open Weights",
+              "Coding"
+            ],
+            "signal_strength": 0.88
+          },
+          {
+            "title": "美国罕见暂缓将 DeepSeek、长鑫等 100+ 企业列入实体清单",
+            "signal_text": "据 Reuters（经 Techmeme）报道，美国迄今未把 DeepSeek、CXMT（长鑫存储）及另外 100 多家被国安部门标记的企业加入实体清单（Entity List），该清单自去年 10 月以来未更新，是 10 多年来最长的一次空档期。",
+            "insight": "对华 AI 出口管制出现政策停摆，管制节奏本身成了不确定变量。",
+            "implication": "管制走向短期摇摆，做跨境 AI 供给与合规分发的团队，值得把「政策不确定性」前置纳入选型与备份方案。",
+            "sources": [
+              {
+                "name": "Reuters",
+                "url": "https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/"
+              },
+              {
+                "name": "Techmeme",
+                "url": "https://www.techmeme.com/260616/p46#a260616p46"
+              }
+            ],
+            "tags": [
+              "Export Control",
+              "DeepSeek",
+              "Geopolitics",
+              "Entity List"
+            ],
+            "signal_strength": 0.82
+          },
+          {
+            "title": "[Update] Anthropic 与白宫之争发酵：国会称未获通报，销售数据反显走强",
+            "signal_text": "Fable 5/Mythos 5 出口管制风波出现新进展：据 Politico，包括对 AI 政策有管辖权的商务委员会主席 Ted Cruz 在内，多名议员本周表示此前未就特朗普政府针对 Fable 5 的举措获得通报；另据 TechCrunch 引用 Ramp 支出数据，Anthropic 在企业用户中的采用仍在增长，这场与政府的对抗反而可能利好其销售。",
+            "insight": "行政封禁与立法机构脱节，市场用钱投票，监管反成 Anthropic 的品牌叙事。",
+            "implication": "政策与商业走向背离，值得关注「监管不确定性下企业仍在加仓」的真实采用信号，而非只看政治表态。",
+            "sources": [
+              {
+                "name": "Politico",
+                "url": "https://www.politico.com/news/2026/06/16/white-houses-anthropic-move-jolts-congress-back-into-the-ai-debate-00964614"
+              },
+              {
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/"
+              }
+            ],
+            "tags": [
+              "Anthropic",
+              "Regulation",
+              "Congress",
+              "Enterprise Adoption"
+            ],
+            "signal_strength": 0.78
+          },
+          {
+            "title": "微博 VibeThinker-3B：30 亿参数模型称比肩旗舰推理，引发基准之争",
+            "signal_text": "据 VentureBeat 报道，新浪微博 9 人团队在 arXiv 发布 14 页技术报告，称其仅 30 亿参数（3B）的语言模型 VibeThinker-3B 在推理性能上可比肩甚至超过旗舰系统，结果在 AI 研究圈引发对 benchmark 可信度的新一轮争论。",
+            "insight": "小模型「碰瓷」旗舰推理，真正引爆的是对评测基准是否被刷分的信任危机。",
+            "implication": "小参数高分需审慎核验，值得关注更抗刷分的评测方法与第三方复现，而非只看榜单数字。",
+            "sources": [
+              {
+                "name": "VentureBeat",
+                "url": "https://venturebeat.com/technology/why-weibos-tiny-vibethinker-3b-has-the-ai-world-arguing-over-benchmarks-again"
+              }
+            ],
+            "tags": [
+              "VibeThinker",
+              "Small Models",
+              "Reasoning",
+              "Benchmarks"
+            ],
+            "signal_strength": 0.76
+          },
+          {
+            "title": "Databricks 称解决困扰 AI agent 的数十年数据管道难题，发布两款新品",
+            "signal_text": "据 VentureBeat 报道，Databricks 在 Data + AI Summit 上发布两款产品，旨在消除 AI agent 与其所需实时数据之间的管道延迟。其观点是：持续推理并对实时数据采取行动的 agent，无法容忍自身与信息之间存在传统数据管道，agent 让运营库与分析库的统一难题从「性能问题」变成了「结构性问题」。",
+            "insight": "Agent 把数据「实时可用性」从优化项升级为架构刚需，数据层成 agent 竞争新前线。",
+            "implication": "实时数据接入是长程 agent 的瓶颈，值得关注面向 agent 的低延迟数据/特征供给基础设施机会。",
+            "sources": [
+              {
+                "name": "VentureBeat",
+                "url": "https://venturebeat.com/data/databricks-says-it-solved-the-decades-old-data-pipeline-problem-thats-been-slowing-ai-agents"
+              }
+            ],
+            "tags": [
+              "Databricks",
+              "AI Agents",
+              "Data Infrastructure",
+              "Real-time"
+            ],
+            "signal_strength": 0.74
+          },
+          {
+            "title": "斯坦福 DeLM：无中心编排器，多 agent 任务成本直降 50%",
+            "signal_text": "据 VentureBeat 报道，斯坦福提出去中心化语言模型框架 DeLM（decentralized language model），挑战「多 agent 必须有中心编排器（orchestrator）」的假设——让 agent 之间直接协调而非每次请求都经中心路由，从而把多 agent 任务成本降低约 50%，并减少协调延迟。",
+            "insight": "多 agent 架构从「中心调度」转向「点对点协调」，编排范式被重新审视。",
+            "implication": "去中心化协调可能改写 agent 编排成本结构，值得关注无中心编排器的多 agent 框架与协议层探索。",
+            "sources": [
+              {
+                "name": "VentureBeat",
+                "url": "https://venturebeat.com/orchestration/stanfords-delm-cuts-multi-agent-task-costs-50-without-a-central-orchestrator"
+              }
+            ],
+            "tags": [
+              "Stanford",
+              "Multi-Agent",
+              "DeLM",
+              "Orchestration"
+            ],
+            "signal_strength": 0.73
+          },
+          {
+            "title": "Copilot 高危漏洞 SearchLeak：可窃取用户 2FA 验证码",
+            "signal_text": "据 Ars Technica 报道，一个名为 SearchLeak 的漏洞利用显示，Microsoft Copilot 存在高危漏洞，攻击者可借此窃取用户的 2FA 验证码。报道指出该案例再次暴露了业界处理 LLM 安全问题的方式反复失效。",
+            "insight": "LLM 把「读取上下文」变成新攻击面，2FA 这类敏感信息可被提示注入类手法外泄。",
+            "implication": "Agent/Copilot 接入敏感数据风险上升，值得关注面向 LLM 应用的输入隔离、输出审计与运行时防护工具。",
+            "sources": [
+              {
+                "name": "Ars Technica",
+                "url": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/"
+              }
+            ],
+            "tags": [
+              "Copilot",
+              "Security",
+              "Prompt Injection",
+              "LLM Safety"
+            ],
+            "signal_strength": 0.72
+          },
+          {
+            "title": "OpenAI 提出发布前安全预测法：用「模拟部署」预判模型真实风险",
+            "signal_text": "OpenAI 在 Alignment Forum 发布研究，介绍其发布前安全评审的方法：通过模拟部署（simulating deployment）、结合定向评测与红队等手段，在模型发布前预测它在真实使用中可能的行为与新风险。其观点是随着能力提升，「理解模型会怎么做」比「它能做什么」更重要。",
+            "insight": "安全评估从「测能力」转向「测部署后行为」，前置模拟成发布前关键关卡。",
+            "implication": "部署前行为预测正在方法化，值得关注面向模型上线的模拟评测、红队与行为度量工具链。",
+            "sources": [
+              {
+                "name": "Alignment Forum (OpenAI)",
+                "url": "https://www.alignmentforum.org/posts/xPXJfgqFTvuJxGZbE/predicting-llm-safety-before-release-by-simulating"
+              },
+              {
+                "name": "OpenAI Paper (PDF)",
+                "url": "https://cdn.openai.com/pdf/predicting-llm-safety-before-release-by-simulating-deployment.pdf"
+              }
+            ],
+            "tags": [
+              "OpenAI",
+              "AI Safety",
+              "Evaluation",
+              "Red-teaming"
+            ],
+            "signal_strength": 0.7
+          },
+          {
+            "title": "高通押注「后智能手机」：在研 40+ AI 可穿戴设备",
+            "signal_text": "据 TechCrunch 报道，高通 CEO Cristiano Amon 周二表示，公司正研发 40 多种 AI 可穿戴设备——包括首饰、带摄像头的耳机、胸针、手表等，并已为此发布两款产品，凸显其押注下一代主力计算平台不再是手机。",
+            "insight": "芯片巨头抢做「手机之后」的 AI 硬件入口，端侧 AI 形态进入百花齐放期。",
+            "implication": "可穿戴 AI 入口竞争升温，值得关注端侧小模型、低功耗多模态与可穿戴 agent 交互的早期机会。",
+            "sources": [
+              {
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com/2026/06/16/qualcomm-wants-to-be-the-chip-inside-whatever-replaces-your-smartphone-and-it-just-announced-two-products-toward-that-end/"
+              }
+            ],
+            "tags": [
+              "Qualcomm",
+              "AI Wearables",
+              "Edge AI",
+              "Hardware"
+            ],
+            "signal_strength": 0.68
+          },
+          {
+            "title": "Kapwing 测试：新建 TikTok 账号「For You」约 60% 是 AI 垃圾内容，为 YouTube 的约 3 倍",
+            "signal_text": "据 Search Engine Journal 报道，Kapwing 的测试显示，给一个全新 TikTok 账号推送的前 500 条「For You」视频中，约 60% 为 AI 生成的低质内容（AI slop），约为新 YouTube 用户在 Shorts 中所见 AI 垃圾内容的 3 倍。",
+            "insight": "生成式内容正快速淹没主流信息流，平台分发与内容真实性面临系统性压力。",
+            "implication": "AI 内容泛滥催生新需求，值得关注内容溯源、AI 生成检测与质量分层的产品机会。",
+            "sources": [
+              {
+                "name": "Search Engine Journal",
+                "url": "https://www.searchenginejournal.com/tiktok-shows-3x-more-ai-slop-than-youtube-report-finds/579521/"
+              },
+              {
+                "name": "Techmeme",
+                "url": "https://www.techmeme.com/260616/p47#a260616p47"
+              }
+            ],
+            "tags": [
+              "AI Slop",
+              "TikTok",
+              "Content Ecosystem",
+              "Detection"
+            ],
+            "signal_strength": 0.64
+          }
+        ],
+        "2026-06-18": [
+          {
+            "title": "Noam Shazeer 离开 Google 重回 OpenAI，出任架构研究负责人",
+            "signal_text": "据 The Information 报道，Transformer 论文作者之一、Google Gemini 联合负责人 Noam Shazeer 离开 Google 加入 OpenAI，出任架构研究（architecture research）负责人。他曾于 2024 年随 Character.AI 交易回归 Google。",
+            "insight": "顶级架构科学家从 Gemini 核心流向 OpenAI，模型架构竞赛的人才天平再次倾斜。",
+            "implication": "架构创新仍是前沿模型的胜负手，可以关注 OpenAI 下一代架构路线与 Google 的人才补位节奏。",
+            "sources": [
+              {
+                "name": "Techmeme",
+                "url": "https://www.techmeme.com/260617/p52#a260617p52"
+              },
+              {
+                "name": "The Information",
+                "url": "https://www.theinformation.com/articles/star-google-ai-researcher-shazeer-joins-openai"
+              }
+            ],
+            "tags": [
+              "人才流动",
+              "OpenAI",
+              "模型架构"
+            ],
+            "signal_strength": 0.85,
+            "category": "strategic_move"
+          },
+          {
+            "title": "AWS 推出 Context 知识图谱服务，为 AI agent 构建会自学的上下文层",
+            "signal_text": "据 VentureBeat 报道，Amazon 发布面向 AI agent 的「上下文智能」三件套，核心是 AWS Context——一个随 agent 使用而持续变聪明的知识图谱服务，免去人工维护图谱，直指企业数据与 agent 之间的上下文中间层。",
+            "insight": "巨头把 agent 上下文/记忆层产品化，争夺 RAG 之上的新基础设施层。",
+            "implication": "上下文/记忆中间层正从自研走向标准服务，利好做 agent memory、知识图谱的早期基础设施团队。",
+            "sources": [
+              {
+                "name": "VentureBeat",
+                "url": "https://venturebeat.com/data/aws-enters-the-context-layer-race-with-a-graph-that-learns-from-agents-not-manual-curation"
+              }
+            ],
+            "tags": [
+              "AI Agent",
+              "知识图谱",
+              "上下文层",
+              "AWS"
+            ],
+            "signal_strength": 0.82,
+            "category": "infrastructure"
+          },
+          {
+            "title": "Google 医疗 AI AMIE 登 Nature：复杂慢病管理比肩全科医生",
+            "signal_text": "据 Google 官方博客，发表于《Nature》的研究显示其对话式医疗 AI 系统 AMIE 在复杂疾病的长期管理上可与全科医生（primary care physicians）相当。",
+            "insight": "对话式 AI 在高门槛慢病管理上达到医生水平，医疗垂直应用进入临床级讨论。",
+            "implication": "医疗等强监管垂直场景的 AI 落地窗口正在打开，可以关注合规化的临床决策辅助创业方向。",
+            "sources": [
+              {
+                "name": "Google AI Blog",
+                "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/"
+              }
+            ],
+            "tags": [
+              "医疗AI",
+              "Google",
+              "Nature",
+              "垂直应用"
+            ],
+            "signal_strength": 0.8,
+            "category": "research_breakthrough"
+          },
+          {
+            "title": "Anthropic 大改版 Claude Design：导入设计系统、代码往返，并修复烧 token 顽疾",
+            "signal_text": "据 VentureBeat 报道，Anthropic 对今年 4 月作为研究预览推出、首周即破百万用户的 Claude Design 做了重大升级，新增设计系统导入、代码 round-trip，并修复了此前被诟病的 token 消耗过高问题。",
+            "insight": "设计/前端生成工具从惊艳但烧钱走向可用，token 效率成为 AI 产品留存关键。",
+            "implication": "AI 生成类产品的成本可控性正成为竞争点，做垂直生成工具的团队可把 token 效率当一等公民。",
+            "sources": [
+              {
+                "name": "VentureBeat",
+                "url": "https://venturebeat.com/technology/anthropic-ships-major-claude-design-overhaul-with-design-system-imports-code-round-trips-and-a-fix-for-its-token-burning-problem"
+              }
+            ],
+            "tags": [
+              "Anthropic",
+              "设计工具",
+              "token成本",
+              "产品"
+            ],
+            "signal_strength": 0.72,
+            "category": "model_release"
+          },
+          {
+            "title": "[Update] Anthropic 出口管制风波：SK Telecom 成导火索，白宫要求堵死所有越狱",
+            "signal_text": "据 Wired 报道，白宫限制 Claude Mythos 5 之举，源于此前要求 Anthropic 以「涉嫌与中国有关联」为由撤销韩国 SK Telecom 的访问权限；官员还表示，若 Anthropic 想重新上线 Fable 5，须确保模型护栏无法被绕过，而安全专家认为这在技术上做不到。",
+            "insight": "模型出口管制从国家细化到具体企业关联，监管诉求与越狱不可消除的技术现实正面冲突。",
+            "implication": "前沿模型的合规边界正被地缘政治重塑，跨境部署的访问控制与可审计性将成硬约束，出海团队可提前布局。",
+            "sources": [
+              {
+                "name": "Wired (SK Telecom)",
+                "url": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/"
+              },
+              {
+                "name": "Wired (jailbreaks)",
+                "url": "https://www.wired.com/story/the-white-house-wants-anthropic-to-block-all-jailbreaks-that-may-not-be-possible/"
+              },
+              {
+                "name": "The Verge",
+                "url": "https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls"
+              }
+            ],
+            "tags": [
+              "出口管制",
+              "Anthropic",
+              "地缘政治",
+              "合规"
+            ],
+            "signal_strength": 0.8,
+            "category": "strategic_move"
+          },
+          {
+            "title": "模型公司集体组建部署公司，前线部署工程师 FDE 成硅谷最火新岗",
+            "signal_text": "据《硅谷101》播客，OpenAI 联合包括一家 PE 在内砸下约 40 亿美元成立 Deployment Company（部署公司），Anthropic 也与 Blackstone 等金融机构合资；这些头部模型公司不再只卖工具，而是深入企业把 AI 真正部署落地，催生了 Forward Deployment Engineer（FDE）这一既懂模型又懂客户业务的新工种。",
+            "insight": "模型层趋同后，价值正向把 AI 装进企业业务的部署/交付侧迁移。",
+            "implication": "AI 落地的瓶颈从模型转向交付，做行业 know-how + 部署服务的团队迎来窗口，可关注 FDE 化的服务型创业。",
+            "sources": [
+              {
+                "name": "硅谷101",
+                "url": "https://sv101.fireside.fm/253"
+              }
+            ],
+            "tags": [
+              "部署公司",
+              "FDE",
+              "AI商业化",
+              "OpenAI"
+            ],
+            "signal_strength": 0.75,
+            "category": "ecosystem_shift"
+          },
+          {
+            "title": "Pew 调研：美国成年人 chatbot 使用率升至 49%，但 63% 觉得 AI 发展太快",
+            "signal_text": "据 Pew Research Center，2026 年 49% 的美国成年人报告使用过 chatbot（2024 年为 33%），24% 每天使用，44% 用过 ChatGPT；同时 63% 认为 AI 进展过快。",
+            "insight": "chatbot 渗透两年翻倍逼近半数，但公众焦虑同步走高，普及与信任出现剪刀差。",
+            "implication": "大众市场已过早期采用临界点，做面向 C 端的可信/可控（透明、可关闭）AI 产品存在差异化机会。",
+            "sources": [
+              {
+                "name": "Pew Research Center / Techmeme",
+                "url": "https://www.techmeme.com/260617/p56#a260617p56"
+              },
+              {
+                "name": "The Verge",
+                "url": "https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly"
+              }
+            ],
+            "tags": [
+              "AI采用",
+              "Pew",
+              "C端",
+              "信任"
+            ],
+            "signal_strength": 0.68,
+            "category": "ecosystem_shift"
+          },
+          {
+            "title": "内存涨价压力下 Apple 将提价，Tim Cook 称成本不可持续",
+            "signal_text": "据《华尔街日报》采访，Apple CEO Tim Cook 称当前 RAM/内存成本「不可持续」、涨价「不可避免」，公司正设法缓冲但难以完全为消费者屏蔽；TechCrunch 指出 AI 需求推高的内存短缺正多方面冲击 Apple。",
+            "insight": "AI 算力争抢传导到消费电子，内存短缺开始改写终端硬件定价。",
+            "implication": "AI 引发的内存/算力涨价正外溢到全产业链，硬件成本结构变化值得端侧 AI 与硬件创业者纳入测算。",
+            "sources": [
+              {
+                "name": "The Verge",
+                "url": "https://www.theverge.com/tech/951948/apple-tim-cook-price-increases-ram"
+              },
+              {
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com/2026/06/17/ai-is-hurting-apple-in-more-ways-than-one-it-may-force-iphone-price-increases/"
+              }
+            ],
+            "tags": [
+              "内存短缺",
+              "Apple",
+              "算力成本",
+              "供应链"
+            ],
+            "signal_strength": 0.66,
+            "category": "ecosystem_shift"
+          },
+          {
+            "title": "Gemini 加持的 Google Home 智能音箱终于发布",
+            "signal_text": "据 Wired 报道，Google 时隔约六年推出新款智能音箱，重新设计为承载 Gemini 聊天机器人的 HomePod 风格设备；同时 Google 确认停产 Nest Mini 与 Nest Audio（老设备继续支持）。",
+            "insight": "大模型重新激活智能音箱品类，环境式（ambient）AI 入口之争重启。",
+            "implication": "语音/环境入口成为大模型分发新战场，做家庭场景 AI 交互与硬件的团队可关注这波品类重置。",
+            "sources": [
+              {
+                "name": "Wired",
+                "url": "https://www.wired.com/story/the-gemini-powered-google-home-speaker-is-finally-here/"
+              },
+              {
+                "name": "Techmeme",
+                "url": "https://www.techmeme.com/260617/p53#a260617p53"
+              }
+            ],
+            "tags": [
+              "智能音箱",
+              "Gemini",
+              "环境AI",
+              "Google"
+            ],
+            "signal_strength": 0.6,
+            "category": "model_release"
+          },
+          {
+            "title": "Midjourney 上线医疗方向 Midjourney Medical",
+            "signal_text": "Midjourney 推出 Midjourney Medical（midjourney.com/medical），在 Hacker News 获 95 points / 106 评论，标志这家图像生成公司向医疗影像/医疗场景延伸。",
+            "insight": "头部生图公司切入医疗垂直，生成式 AI 从通用创意走向专业高价值场景。",
+            "implication": "通用生成模型公司正寻找高客单的垂直变现，医疗影像等专业生成赛道值得关注新进入者动向。",
+            "sources": [
+              {
+                "name": "Midjourney / Hacker News",
+                "url": "https://news.ycombinator.com/item?id=48579650"
+              }
+            ],
+            "tags": [
+              "Midjourney",
+              "医疗AI",
+              "生成式AI",
+              "垂直化"
+            ],
+            "signal_strength": 0.58,
+            "category": "strategic_move"
           }
         ]
       }

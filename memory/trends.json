@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-18T11:00:00+08:00",
+  "last_updated": "2026-06-22T11:00:00+08:00",
   "trends": [
     {
       "id": "ai_safety_pivot_and_accelerated_agi_time",
@@ -18,7 +18,7 @@
         "Safety"
       ],
       "trajectory": "accelerating",
-      "signal_count": 138,
+      "signal_count": 139,
       "weekly_counts": [
         2,
         2,
@@ -105,6 +105,10 @@
         {
           "date": "2026-06-17",
           "event": "2026-06-17: Copilot 'SearchLeak' vuln can steal users' 2FA codes; OpenAI publishes pre-release safety prediction via simulated deployment"
+        },
+        {
+          "date": "2026-06-22",
+          "event": "2026-06-22: Google DeepMind interpretability team (Nanda, Shah, Conmy) studies reasoning transparency of diffusion LLM DiffusionGemma"
         }
       ],
       "created": "2026-02-25"
@@ -1004,7 +1008,7 @@
         "Cost Control"
       ],
       "trajectory": "accelerating",
-      "signal_count": 7,
+      "signal_count": 8,
       "weekly_counts": [
         1,
         1
@@ -1033,6 +1037,10 @@
         {
           "date": "2026-06-18",
           "event": "2026-06-18: Pew - 49% of US adults used chatbots in 2026 (up from 33% in 2024), 63% feel AI advancing too fast; OpenAI/Anthropic form 'Deployment Companies' (~$4B), FDE role surges"
+        },
+        {
+          "date": "2026-06-22",
+          "event": "2026-06-22: Samsung Electronics deploys ChatGPT Enterprise + Codex to employees worldwide (one of OpenAI's largest enterprise rollouts)"
         }
       ],
       "created": "2026-06-15"
@@ -1072,7 +1080,7 @@
         "AWS"
       ],
       "trajectory": "accelerating",
-      "signal_count": 2,
+      "signal_count": 3,
       "weekly_counts": [
         1
       ],
@@ -1084,6 +1092,10 @@
         {
           "date": "2026-06-18",
           "event": "2026-06-18: AI-driven memory shortage forces Apple price increases; Tim Cook calls RAM costs 'unsustainable'"
+        },
+        {
+          "date": "2026-06-22",
+          "event": "2026-06-22: Japan's top-5 chip equipment makers post first-ever fall in combined China sales (-10%) as China boosts local players; Toto invests $495M in 1nm chip materials"
         }
       ],
       "created": "2026-06-16"
@@ -1181,6 +1193,31 @@
         }
       ],
       "created": "2026-06-18"
+    },
+    {
+      "id": "embodied_ai_and_world_models",
+      "name": "Embodied AI & World Models",
+      "related_tags": [
+        "具身智能",
+        "世界模型",
+        "物理AI",
+        "机器人",
+        "因果",
+        "Coowa",
+        "Aether AI"
+      ],
+      "trajectory": "accelerating",
+      "signal_count": 3,
+      "weekly_counts": [
+        3
+      ],
+      "key_events": [
+        {
+          "date": "2026-06-22",
+          "event": "2026-06-22: SoftBank-backed embodied-AI robot maker Coowa ($3B valuation, $600M raised) plans Hong Kong IPO; Aether AI raises $20M seed for 'causal world models'; MaineCoon real-time audio-visual social world model trends on GitHub"
+        }
+      ],
+      "created": "2026-06-22"
     }
   ]
 }

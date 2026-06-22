@@ -114,14 +114,24 @@ def sign_url(webhook: str, secret: str) -> str:
 
 
 def main():
-    webhook = os.environ.get("DINGTALK_WEBHOOK", "").strip()
-    secret = os.environ.get("DINGTALK_SECRET", "").strip()
-    if not webhook or not secret:
-        print("::error:: 缺少 DINGTALK_WEBHOOK 或 DINGTALK_SECRET")
-        sys.exit(1)
-
     args = sys.argv[1:]
     dept = "--dept" in args
+
+    # dept 版（面向老板）走独立 bot，与个人版/运维彻底隔离；
+    # 未单独配置时回退到通用 webhook，保持向后兼容。
+    if dept:
+        webhook = (os.environ.get("DINGTALK_DEPT_WEBHOOK")
+                   or os.environ.get("DINGTALK_WEBHOOK", "")).strip()
+        secret = (os.environ.get("DINGTALK_DEPT_SECRET")
+                  or os.environ.get("DINGTALK_SECRET", "")).strip()
+        miss = "DINGTALK_DEPT_WEBHOOK/SECRET（或回退的 DINGTALK_WEBHOOK/SECRET）"
+    else:
+        webhook = os.environ.get("DINGTALK_WEBHOOK", "").strip()
+        secret = os.environ.get("DINGTALK_SECRET", "").strip()
+        miss = "DINGTALK_WEBHOOK 或 DINGTALK_SECRET"
+    if not webhook or not secret:
+        print(f"::error:: 缺少 {miss}")
+        sys.exit(1)
 
     # --text-file <path>：直接推送指定文件里的 markdown 原文（用于头条+语雀链接这类已生成好的消息）
     text_file = None
