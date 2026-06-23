@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-22T11:00:00+08:00",
+  "last_updated": "2026-06-23T11:00:00+08:00",
   "trends": [
     {
       "id": "ai_safety_pivot_and_accelerated_agi_time",
@@ -18,7 +18,7 @@
         "Safety"
       ],
       "trajectory": "accelerating",
-      "signal_count": 139,
+      "signal_count": 140,
       "weekly_counts": [
         2,
         2,
@@ -109,6 +109,10 @@
         {
           "date": "2026-06-22",
           "event": "2026-06-22: Google DeepMind interpretability team (Nanda, Shah, Conmy) studies reasoning transparency of diffusion LLM DiffusionGemma"
+        },
+        {
+          "date": "2026-06-23",
+          "event": "2026-06-23: Sen. Bernie Sanders proposes taxing major AI firms to seed a ~$7T public wealth fund — AI wealth-redistribution enters legislation"
         }
       ],
       "created": "2026-02-25"
@@ -132,7 +136,7 @@
         "Open Source AI"
       ],
       "trajectory": "accelerating",
-      "signal_count": 122,
+      "signal_count": 123,
       "weekly_counts": [
         0,
         1,
@@ -195,6 +199,10 @@
         {
           "date": "2026-06-17",
           "event": "2026-06-17: Z.ai open-sources GLM-5.2 (753B, beats GPT-5.5 on long-horizon coding at ~1/6 cost); Weibo VibeThinker-3B claims flagship-level reasoning at 3B, sparking benchmark-trust debate"
+        },
+        {
+          "date": "2026-06-23",
+          "event": "2026-06-23: ArtificialAnalysis AA-Briefcase (new agentic knowledge-work benchmark) shows open-weight models occupy most of the cost-performance Pareto frontier; GLM passes blind tests vs frontier"
         }
       ],
       "created": "2026-02-25"
@@ -455,7 +463,7 @@
         "Autonomous Coding"
       ],
       "trajectory": "accelerating",
-      "signal_count": 762,
+      "signal_count": 763,
       "weekly_counts": [
         2,
         2,
@@ -514,6 +522,10 @@
         {
           "date": "2026-06-17",
           "event": "2026-06-17: Databricks launches products to collapse data-pipeline latency for AI agents; Stanford DeLM cuts multi-agent task cost 50% without a central orchestrator"
+        },
+        {
+          "date": "2026-06-23",
+          "event": "2026-06-23: Sakana launches Fugu (multi-model orchestration, frontier perf via single OpenAI-compatible API); Google makes Gemini Interactions API GA with managed-agent orchestration"
         }
       ],
       "created": "2026-02-25"
@@ -532,7 +544,7 @@
         "Knowledge Work"
       ],
       "trajectory": "accelerating",
-      "signal_count": 103,
+      "signal_count": 104,
       "weekly_counts": [
         1,
         2,
@@ -607,6 +619,10 @@
         {
           "date": "2026-06-14",
           "event": "2026-06-13: LangChain 1.3.9 Adds Anthropic Prefix Enforcement for Prompt Injection Defense"
+        },
+        {
+          "date": "2026-06-23",
+          "event": "2026-06-23: OpenAI ships GPT-5.5-Cyber and Daybreak models that auto-discover and PATCH critical vulns in browsers/FreeBSD/Linux; launches 'Patch the Planet' OSS security initiative + Codex Security plugin"
         }
       ],
       "created": "2026-02-25"
@@ -851,7 +867,7 @@
         "并购"
       ],
       "trajectory": "accelerating",
-      "signal_count": 30,
+      "signal_count": 31,
       "weekly_counts": [
         0,
         0,
@@ -922,6 +938,10 @@
         {
           "date": "2026-06-16",
           "event": "2026-06-16: Qualcomm in talks to acquire AI chip designer Tenstorrent for $8B-$10B"
+        },
+        {
+          "date": "2026-06-23",
+          "event": "2026-06-23: Qualcomm in advanced talks to acquire Modular for ~$4B (up from $1.6B Sep-2025); Baseten raises $1.5B for Inference Cloud; Morgan Stanley pushes data-center leveraged loans"
         }
       ],
       "created": "2026-02-28"
@@ -942,7 +962,7 @@
         "Mythos 5"
       ],
       "trajectory": "accelerating",
-      "signal_count": 9,
+      "signal_count": 10,
       "weekly_counts": [
         1,
         1,
@@ -990,6 +1010,10 @@
         {
           "date": "2026-06-18",
           "event": "2026-06-18: White House Mythos 5 restriction traced to order revoking SK Telecom's Claude access over alleged China ties; officials demand un-jailbreakable guardrails for Fable 5 re-release"
+        },
+        {
+          "date": "2026-06-23",
+          "event": "2026-06-23: White House softens on Anthropic — Trump says it's no longer a national security threat; foreign access to Fable 5/Mythos 5 to move to case-by-case government approval"
         }
       ],
       "created": "2026-06-08"
