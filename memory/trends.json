@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-23T11:00:00+08:00",
+  "last_updated": "2026-06-24T11:00:00+08:00",
   "trends": [
     {
       "id": "ai_safety_pivot_and_accelerated_agi_time",
@@ -113,6 +113,10 @@
         {
           "date": "2026-06-23",
           "event": "2026-06-23: Sen. Bernie Sanders proposes taxing major AI firms to seed a ~$7T public wealth fund — AI wealth-redistribution enters legislation"
+        },
+        {
+          "date": "2026-06-24",
+          "event": "2026-06-24: NYT — NSA was red-teaming Mythos 5 (found it identified flaws in classified systems) before losing access amid the Anthropic dispute; AI PACs pour millions into a NY congressional primary (Bores loses to Lasher), making AI regulation a political proxy war"
         }
       ],
       "created": "2026-02-25"
@@ -203,6 +207,10 @@
         {
           "date": "2026-06-23",
           "event": "2026-06-23: ArtificialAnalysis AA-Briefcase (new agentic knowledge-work benchmark) shows open-weight models occupy most of the cost-performance Pareto frontier; GLM passes blind tests vs frontier"
+        },
+        {
+          "date": "2026-06-24",
+          "event": "2026-06-24: Z.ai GLM-5.2 widely called the top open-weight model (beats DeepSeek); 1-bit GGUF runs locally on Mac Studio M3 Ultra at ~21.6 tok/s; Together AI monthly token volume jumps 30B→400T YoY; some OpenAI/Anthropic customers cut AI costs 90%+ with cheaper models"
         }
       ],
       "created": "2026-02-25"
@@ -845,6 +853,10 @@
         {
           "date": "2026-06-14",
           "event": "2026-06-13: ilab-gpt-conjure: Open-Source WebUI Workbench for GPT-Image-2; OpenReshot: Native iOS 3D Gaussian Splatting App"
+        },
+        {
+          "date": "2026-06-24",
+          "event": "2026-06-24: ByteDance releases Seedance 2.5 — 30s 4K video, up to 50 reference assets, 3D model input, and built-in official IP licensing + revenue share; Krea 2 (Raw & Turbo) opens weights with enterprise-grade image generation in ~2s"
         }
       ],
       "created": "2026-02-26"
@@ -942,6 +954,10 @@
         {
           "date": "2026-06-23",
           "event": "2026-06-23: Qualcomm in advanced talks to acquire Modular for ~$4B (up from $1.6B Sep-2025); Baseten raises $1.5B for Inference Cloud; Morgan Stanley pushes data-center leveraged loans"
+        },
+        {
+          "date": "2026-06-24",
+          "event": "2026-06-24: AI-stock gut-check — Micron & Sandisk drop 13%+, Qualcomm/Marvell/AMAT off 8-9%; Oracle cuts 21,000 jobs to fund debt-fueled AI buildout; WSJ/Gary Marcus call the capital flood a 'giant warning sign'; Menlo Ventures raises $3B fund off its winning Anthropic bet"
         }
       ],
       "created": "2026-02-28"
@@ -1065,6 +1081,10 @@
         {
           "date": "2026-06-22",
           "event": "2026-06-22: Samsung Electronics deploys ChatGPT Enterprise + Codex to employees worldwide (one of OpenAI's largest enterprise rollouts)"
+        },
+        {
+          "date": "2026-06-24",
+          "event": "2026-06-24: Anthropic launches Claude Tag — embeds its top model in Slack as a persistent, @-mentionable teammate that learns/monitors/works autonomously (Box integration makes enterprise content portable); endorsed by Karpathy, Levie as a new collaboration-native interaction paradigm"
         }
       ],
       "created": "2026-06-15"
