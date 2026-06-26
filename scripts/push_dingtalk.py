@@ -117,21 +117,33 @@ def main():
     args = sys.argv[1:]
     dept = "--dept" in args
 
-    # dept 版（面向老板）走独立 bot，与个人版/运维彻底隔离；
+    # dept 版走独立 bot，与个人版/运维彻底隔离；可配多个部门群（DEPT + DEPT2 + DEPT3…）同时群发。
     # 未单独配置时回退到通用 webhook，保持向后兼容。
+    # targets: list of (label, webhook, secret)
     if dept:
-        webhook = (os.environ.get("DINGTALK_DEPT_WEBHOOK")
-                   or os.environ.get("DINGTALK_WEBHOOK", "")).strip()
-        secret = (os.environ.get("DINGTALK_DEPT_SECRET")
-                  or os.environ.get("DINGTALK_SECRET", "")).strip()
-        miss = "DINGTALK_DEPT_WEBHOOK/SECRET（或回退的 DINGTALK_WEBHOOK/SECRET）"
+        targets = []
+        primary_wh = (os.environ.get("DINGTALK_DEPT_WEBHOOK")
+                      or os.environ.get("DINGTALK_WEBHOOK", "")).strip()
+        primary_sec = (os.environ.get("DINGTALK_DEPT_SECRET")
+                       or os.environ.get("DINGTALK_SECRET", "")).strip()
+        if primary_wh and primary_sec:
+            targets.append(("dept", primary_wh, primary_sec))
+        # 额外部门群：DINGTALK_DEPT2_WEBHOOK/SECRET、DEPT3…（同一条头条群发到多个群）
+        for n in range(2, 10):
+            wh = os.environ.get(f"DINGTALK_DEPT{n}_WEBHOOK", "").strip()
+            sec = os.environ.get(f"DINGTALK_DEPT{n}_SECRET", "").strip()
+            if wh and sec:
+                targets.append((f"dept{n}", wh, sec))
+        if not targets:
+            print("::error:: 缺少 DINGTALK_DEPT_WEBHOOK/SECRET（或回退的 DINGTALK_WEBHOOK/SECRET）")
+            sys.exit(1)
     else:
         webhook = os.environ.get("DINGTALK_WEBHOOK", "").strip()
         secret = os.environ.get("DINGTALK_SECRET", "").strip()
-        miss = "DINGTALK_WEBHOOK 或 DINGTALK_SECRET"
-    if not webhook or not secret:
-        print(f"::error:: 缺少 {miss}")
-        sys.exit(1)
+        if not webhook or not secret:
+            print("::error:: 缺少 DINGTALK_WEBHOOK 或 DINGTALK_SECRET")
+            sys.exit(1)
+        targets = [("personal", webhook, secret)]
 
     # --text-file <path>：直接推送指定文件里的 markdown 原文（用于头条+语雀链接这类已生成好的消息）
     text_file = None
@@ -163,13 +175,23 @@ def main():
         "at": {"isAtAll": False},
     }).encode("utf-8")
 
-    url = sign_url(webhook, secret)
-    req = urllib.request.Request(url, data=body, headers={"Content-Type": "application/json"})
-    resp = json.loads(urllib.request.urlopen(req, timeout=20).read().decode())
-    if resp.get("errcode") == 0:
-        print(f"钉钉推送成功 ({len(text)} 字符)")
-    else:
-        print(f"::error:: 钉钉推送失败: {resp}")
+    # 群发到所有目标；单群失败不影响其它群，任一失败则整体非零退出
+    failures = []
+    for label, webhook, secret in targets:
+        url = sign_url(webhook, secret)
+        req = urllib.request.Request(url, data=body, headers={"Content-Type": "application/json"})
+        try:
+            resp = json.loads(urllib.request.urlopen(req, timeout=20).read().decode())
+        except Exception as e:  # noqa: BLE001
+            print(f"::error:: 钉钉推送异常 [{label}]: {e}")
+            failures.append(label)
+            continue
+        if resp.get("errcode") == 0:
+            print(f"钉钉推送成功 [{label}] ({len(text)} 字符)")
+        else:
+            print(f"::error:: 钉钉推送失败 [{label}]: {resp}")
+            failures.append(label)
+    if failures:
         sys.exit(1)
 
 
