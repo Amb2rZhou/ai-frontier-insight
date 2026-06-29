@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T11:30:00+08:00",
+  "last_updated": "2026-06-29T11:30:00+08:00",
   "trends": [
     {
       "id": "ai_safety_pivot_and_accelerated_agi_time",
@@ -483,7 +483,7 @@
         "Autonomous Coding"
       ],
       "trajectory": "accelerating",
-      "signal_count": 765,
+      "signal_count": 767,
       "weekly_counts": [
         2,
         2,
@@ -554,6 +554,10 @@
         {
           "date": "2026-06-26",
           "event": "2026-06-26: Gemini 3.5 Flash ships native computer use (browser/desktop/mobile); OpenAI Economic Research paper documents shift from chat to delegation; Patronus AI raises $50M for digital-world agent stress-testing"
+        },
+        {
+          "date": "2026-06-29",
+          "event": "agent 自主重试致计费失控（Anthropic 审计多收约$1.7M、OpenAI Codex 排查用量异常）；Google 重组 AI 编程突击队追赶 Anthropic"
         }
       ],
       "created": "2026-02-25"
@@ -572,7 +576,7 @@
         "Knowledge Work"
       ],
       "trajectory": "accelerating",
-      "signal_count": 104,
+      "signal_count": 105,
       "weekly_counts": [
         1,
         2,
@@ -651,6 +655,10 @@
         {
           "date": "2026-06-23",
           "event": "2026-06-23: OpenAI ships GPT-5.5-Cyber and Daybreak models that auto-discover and PATCH critical vulns in browsers/FreeBSD/Linux; launches 'Patch the Planet' OSS security initiative + Codex Security plugin"
+        },
+        {
+          "date": "2026-06-29",
+          "event": "BioCatch 报告称攻击者大规模用自主 agent 发起欺诈；VentureBeat 称 prompt injection 专打 agents/RAG/model router"
         }
       ],
       "created": "2026-02-25"
@@ -669,7 +677,7 @@
         "AI Adoption"
       ],
       "trajectory": "stable",
-      "signal_count": 79,
+      "signal_count": 80,
       "weekly_counts": [
         1,
         2,
@@ -776,6 +784,10 @@
         {
           "date": "2026-06-25",
           "event": "2026-06-25: GLM-5.2 以接近 Opus 能力、低成本拉低前沿实验室利润率"
+        },
+        {
+          "date": "2026-06-29",
+          "event": "开源 GLM-5.2 被指在网络安全/找漏洞场景已匹配 Anthropic Mythos"
         }
       ],
       "created": "2026-02-25"
@@ -903,7 +915,7 @@
         "并购"
       ],
       "trajectory": "accelerating",
-      "signal_count": 33,
+      "signal_count": 35,
       "weekly_counts": [
         0,
         0,
@@ -990,6 +1002,10 @@
         {
           "date": "2026-06-26",
           "event": "2026-06-26: OpenAI IPO may slip to 2027 (SoftBank -12%); Airwallex raises $320M Series H at $11B for AI expansion"
+        },
+        {
+          "date": "2026-06-29",
+          "event": "DeepSeek 完成 $7.4B 融资（CEO 称被 Mythos 预览说服需更多资金竞争）；Apptronik 以约 $5B 估值融资约 $1B，奔驰参投并已在工厂试用 Apollo"
         }
       ],
       "created": "2026-02-28"
@@ -1010,7 +1026,7 @@
         "Mythos 5"
       ],
       "trajectory": "accelerating",
-      "signal_count": 10,
+      "signal_count": 11,
       "weekly_counts": [
         1,
         1,
@@ -1062,6 +1078,10 @@
         {
           "date": "2026-06-23",
           "event": "2026-06-23: White House softens on Anthropic — Trump says it's no longer a national security threat; foreign access to Fable 5/Mythos 5 to move to case-by-case government approval"
+        },
+        {
+          "date": "2026-06-29",
+          "event": "奥地利游说欧盟在本土托管 Anthropic，主权 AI/数据驻留诉求升温"
         }
       ],
       "created": "2026-06-08"
@@ -1080,7 +1100,7 @@
         "Cost Control"
       ],
       "trajectory": "accelerating",
-      "signal_count": 10,
+      "signal_count": 12,
       "weekly_counts": [
         1,
         1
@@ -1125,6 +1145,10 @@
         {
           "date": "2026-06-26",
           "event": "2026-06-26: Some Anthropic/OpenAI customers cut AI spend 90%+ as cheaper models prove good enough; Vaudit flags billing inaccuracies"
+        },
+        {
+          "date": "2026-06-29",
+          "event": "HP×OpenAI 升级 Frontier 全栈部署合作；Ford 因 AI 未达预期回聘资深工程师，AI 提质幻觉被纠偏"
         }
       ],
       "created": "2026-06-15"
@@ -1168,7 +1192,7 @@
         "AWS"
       ],
       "trajectory": "accelerating",
-      "signal_count": 5,
+      "signal_count": 7,
       "weekly_counts": [
         1
       ],
@@ -1192,6 +1216,10 @@
         {
           "date": "2026-06-26",
           "event": "2026-06-26: US data-center backlash — 300+ local bans in 3 years, 75+ under review; 81% of economists expect AI build-out to add to inflation"
+        },
+        {
+          "date": "2026-06-29",
+          "event": "Jefferies 预计内存价格 Q3 涨 40-50%、Q4 涨 30-40%（Micron 被视为下一个 Nvidia）；中国超算 LineShine 重夺 TOP500 榜首"
         }
       ],
       "created": "2026-06-16"
