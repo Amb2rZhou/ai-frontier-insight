@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-29T11:30:00+08:00",
+  "last_updated": "2026-07-01T16:00:00+08:00",
   "trends": [
     {
       "id": "ai_safety_pivot_and_accelerated_agi_time",
@@ -15,10 +15,12 @@
         "AI Safety",
         "Platform Governance",
         "无 CoT",
-        "Safety"
+        "Safety",
+        "出口管制",
+        "AI Agent 立法"
       ],
       "trajectory": "accelerating",
-      "signal_count": 141,
+      "signal_count": 142,
       "weekly_counts": [
         2,
         2,
@@ -121,6 +123,10 @@
         {
           "date": "2026-06-26",
           "event": "2026-06-26: White House asks OpenAI to stagger GPT-5.6 to select partners — second forced delay in weeks; de-facto pre-release government review of frontier models"
+        },
+        {
+          "date": "2026-07-01",
+          "event": "Trump drops export restrictions on Anthropic Mythos/Fable; US Senate proposes first broad AI-agent regulatory framework"
         }
       ],
       "created": "2026-02-25"
@@ -141,10 +147,11 @@
         "Multimodal AI",
         "Learning Resources",
         "Community",
-        "Open Source AI"
+        "Open Source AI",
+        "Claude Sonnet 5"
       ],
       "trajectory": "accelerating",
-      "signal_count": 125,
+      "signal_count": 126,
       "weekly_counts": [
         0,
         1,
@@ -223,6 +230,10 @@
         {
           "date": "2026-06-26",
           "event": "2026-06-26: Google Gemma 4 surpasses 200M cumulative downloads (incl. 12b); Liquid AI LFM2.5-230M beats 4x-larger models at data extraction; Hugging Face crosses $100M ARR"
+        },
+        {
+          "date": "2026-07-01",
+          "event": "Anthropic Claude Sonnet 5 launched at mid-tier price with strong agentic ability; Cursor/Perplexity/VS Code same-day integration"
         }
       ],
       "created": "2026-02-25"
@@ -480,10 +491,13 @@
         "Model Competition",
         "Marlin",
         "长时程 Agent",
-        "Autonomous Coding"
+        "Autonomous Coding",
+        "AI for Science",
+        "GeneBench-Pro",
+        "金融 Agent"
       ],
       "trajectory": "accelerating",
-      "signal_count": 767,
+      "signal_count": 768,
       "weekly_counts": [
         2,
         2,
@@ -558,6 +572,10 @@
         {
           "date": "2026-06-29",
           "event": "agent 自主重试致计费失控（Anthropic 审计多收约$1.7M、OpenAI Codex 排查用量异常）；Google 重组 AI 编程突击队追赶 Anthropic"
+        },
+        {
+          "date": "2026-07-01",
+          "event": "Anthropic launches Claude Science for autonomous research; OpenAI releases GeneBench-Pro bio-agent benchmark; Morgan Stanley cuts P&L reconciliation in half via less-autonomous agents"
         }
       ],
       "created": "2026-02-25"
@@ -1097,10 +1115,12 @@
         "Enterprise AI",
         "护城河",
         "Agent 归属",
-        "Cost Control"
+        "Cost Control",
+        "ROI",
+        "本地模型"
       ],
       "trajectory": "accelerating",
-      "signal_count": 12,
+      "signal_count": 13,
       "weekly_counts": [
         1,
         1
@@ -1149,6 +1169,10 @@
         {
           "date": "2026-06-29",
           "event": "HP×OpenAI 升级 Frontier 全栈部署合作；Ford 因 AI 未达预期回聘资深工程师，AI 提质幻觉被纠偏"
+        },
+        {
+          "date": "2026-07-01",
+          "event": "Ramp/Box data: higher AI adoption correlates with faster headcount growth; Stanford: 71.3% of ChatGPT queries answerable by local models"
         }
       ],
       "created": "2026-06-15"
@@ -1189,10 +1213,13 @@
         "Cloud Competition",
         "Capacity Crunch",
         "GitHub",
-        "AWS"
+        "AWS",
+        "Etched",
+        "推理成本",
+        "NVIDIA"
       ],
       "trajectory": "accelerating",
-      "signal_count": 7,
+      "signal_count": 8,
       "weekly_counts": [
         1
       ],
@@ -1220,6 +1247,10 @@
         {
           "date": "2026-06-29",
           "event": "Jefferies 预计内存价格 Q3 涨 40-50%、Q4 涨 30-40%（Micron 被视为下一个 Nvidia）；中国超算 LineShine 重夺 TOP500 榜首"
+        },
+        {
+          "date": "2026-07-01",
+          "event": "Etched inference chip hardcodes attention into silicon (~10x cost cut); OpenAI halves inference cost; NVIDIA Blackwell cuts DeepSeek V4 token cost to 1/5"
         }
       ],
       "created": "2026-06-16"
@@ -1328,10 +1359,12 @@
         "机器人",
         "因果",
         "Coowa",
-        "Aether AI"
+        "Aether AI",
+        "AdaJEPA",
+        "LeCun"
       ],
       "trajectory": "accelerating",
-      "signal_count": 4,
+      "signal_count": 5,
       "weekly_counts": [
         3
       ],
@@ -1343,6 +1376,10 @@
         {
           "date": "2026-06-25",
           "event": "2026-06-25: 阿里 Qwen-AgentWorld 用世界模型预测 MCP/Search/Terminal/SWE/Android/Web/OS 七类环境返回，提升 agent 表现"
+        },
+        {
+          "date": "2026-07-01",
+          "event": "Yann LeCun team releases AdaJEPA adaptive latent world model"
         }
       ],
       "created": "2026-06-22"
