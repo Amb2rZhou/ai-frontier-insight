@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01T16:00:00+08:00",
+  "last_updated": "2026-07-06T11:18:08.112909+08:00",
   "trends": [
     {
       "id": "ai_safety_pivot_and_accelerated_agi_time",
@@ -148,12 +148,14 @@
         "Learning Resources",
         "Community",
         "Open Source AI",
-        "Claude Sonnet 5"
+        "Claude Sonnet 5",
+        "Nemotron",
+        "Palantir",
+        "开源复刻"
       ],
       "trajectory": "accelerating",
-      "signal_count": 126,
+      "signal_count": 129,
       "weekly_counts": [
-        0,
         1,
         2,
         1,
@@ -164,7 +166,8 @@
         3,
         1,
         3,
-        0
+        0,
+        2
       ],
       "key_events": [
         {
@@ -234,6 +237,14 @@
         {
           "date": "2026-07-01",
           "event": "Anthropic Claude Sonnet 5 launched at mid-tier price with strong agentic ability; Cursor/Perplexity/VS Code same-day integration"
+        },
+        {
+          "date": "2026-07-02",
+          "event": "2026-07-02: NVIDIA Quantizes GLM-5.2 to 4-bit FP4, Only 200G+ Storage Needed—Slam-Dunk for Local Deployment; Open Source Coding Agent Kimi K2.7 Lands in GitHub Copilot"
+        },
+        {
+          "date": "2026-07-06",
+          "event": "Palantir: US gov customers switch to Nvidia open-source Nemotron; Claude Science cloned by open-source local-first projects within days"
         }
       ],
       "created": "2026-02-25"
@@ -249,12 +260,13 @@
         "Mathematical Reasoning",
         "Scientific Discovery",
         "Inference",
-        "Model Efficiency"
+        "Model Efficiency",
+        "GPT-5.6",
+        "Codex"
       ],
       "trajectory": "accelerating",
-      "signal_count": 207,
+      "signal_count": 209,
       "weekly_counts": [
-        1,
         1,
         0,
         1,
@@ -263,6 +275,7 @@
         2,
         1,
         3,
+        1,
         1,
         1,
         1
@@ -363,6 +376,14 @@
         {
           "date": "2026-06-16",
           "event": "2026-06-16: METR study estimates no-CoT task-completion time horizons of frontier models double every ~7 months"
+        },
+        {
+          "date": "2026-07-02",
+          "event": "2026-07-02: GPT-5.5 Pro Solves 9 Frontier Math Problems, Signaling AI Reasoning Leap"
+        },
+        {
+          "date": "2026-07-06",
+          "event": "GPT-5.6 imminent: confirmed for Codex; Altman touts it \"discovering new math\""
         }
       ],
       "created": "2026-02-25"
@@ -484,22 +505,19 @@
       "id": "autonomous_ai_agent_development_ecosyste",
       "name": "Autonomous AI Agent Development Ecosystem Growth",
       "related_tags": [
-        "Observability",
-        "LangChain",
-        "深度研究",
-        "LangGraph",
         "Model Competition",
-        "Marlin",
-        "长时程 Agent",
         "Autonomous Coding",
-        "AI for Science",
-        "GeneBench-Pro",
-        "金融 Agent"
+        "金融 Agent",
+        "AI Coding",
+        "AWS",
+        "Marlin",
+        "知识图谱",
+        "RAG",
+        "预期管理"
       ],
       "trajectory": "accelerating",
-      "signal_count": 768,
+      "signal_count": 777,
       "weekly_counts": [
-        2,
         2,
         4,
         3,
@@ -510,52 +528,21 @@
         2,
         3,
         2,
-        1
+        1,
+        4
       ],
       "key_events": [
         {
-          "date": "2026-06-13",
-          "event": "2026-06-12: vLLM v0.23.0 Released with DeepSeek-V3 Support and 200+ Contributors"
-        },
-        {
-          "date": "2026-06-13",
-          "event": "2026-06-12: Box Survey: IT Leaders Report AI Adopters Plan to Increase Headcount, Countering Job Displacement Fears"
-        },
-        {
-          "date": "2026-06-14",
-          "event": "2026-06-13: browser-use 0.13.2 Adds BU3 Browser Use Models; LangChain 1.3.9 Tightens Anthropic Prefixes for Security; LangGraph 1.2.5 Fixes updateState Bug"
-        },
-        {
-          "date": "2026-06-14",
-          "event": "2026-06-13: AutoMegaKernel: Self-Compiling CUDA Megakernels for Batch-1 LLM Decode"
-        },
-        {
-          "date": "2026-06-14",
-          "event": "2026-06-13: LangChain 1.3.9 Tightens Anthropic Allowed Prefixes for Enterprise Security"
-        },
-        {
-          "date": "2026-06-14",
-          "event": "First detected"
-        },
-        {
-          "date": "2026-06-15",
-          "event": "Codex Gains Widespread Adoption as a Capable AI Agent, Pushing Boundaries of Autonomous Tool Use"
-        },
-        {
-          "date": "2026-06-15",
-          "event": "First detected"
-        },
-        {
           "date": "2026-06-16",
-          "event": "2026-06-16: Sakana AI launches Marlin 'Virtual CSO', a long-horizon autonomous B2B research agent (100+ page reports in 8h)"
-        },
-        {
-          "date": "2026-06-16",
-          "event": "2026-06-16: Sakana AI launches Marlin 'Virtual CSO', a long-horizon autonomous B2B research agent (100+ page reports in 8h)"
+          "event": "First detected"
         },
         {
           "date": "2026-06-17",
           "event": "2026-06-17: Databricks launches products to collapse data-pipeline latency for AI agents; Stanford DeLM cuts multi-agent task cost 50% without a central orchestrator"
+        },
+        {
+          "date": "2026-06-18",
+          "event": "2026-06-18: AWS launches Context, a knowledge-graph service that learns from agent usage; positions a context-intelligence stack above RAG"
         },
         {
           "date": "2026-06-23",
@@ -576,6 +563,18 @@
         {
           "date": "2026-07-01",
           "event": "Anthropic launches Claude Science for autonomous research; OpenAI releases GeneBench-Pro bio-agent benchmark; Morgan Stanley cuts P&L reconciliation in half via less-autonomous agents"
+        },
+        {
+          "date": "2026-07-02",
+          "event": "2026-07-02: Square Launches ChatGPT and Claude Plugins for Ordering, Embedding AI Agents into Payments; Anthropic Develops Claude Agent for Microsoft Teams, Challenging Copilot"
+        },
+        {
+          "date": "2026-07-02",
+          "event": "2026-07-02: Senior SWE-Bench: New OSS Benchmark Assesses Agents as Senior Engineers; Kimi K2.7 Lands in GitHub Copilot"
+        },
+        {
+          "date": "2026-07-06",
+          "event": "Zuckerberg tells employees AI agents advanced slower than expected despite up to $145B infra spend"
         }
       ],
       "created": "2026-02-25"
@@ -692,10 +691,13 @@
         "Emerging Markets",
         "Market Competition",
         "Market Adoption",
-        "AI Adoption"
+        "AI Adoption",
+        "拟人化监管",
+        "豆包",
+        "通义"
       ],
       "trajectory": "stable",
-      "signal_count": 80,
+      "signal_count": 81,
       "weekly_counts": [
         1,
         2,
@@ -806,6 +808,10 @@
         {
           "date": "2026-06-29",
           "event": "开源 GLM-5.2 被指在网络安全/找漏洞场景已匹配 Anthropic Mythos"
+        },
+        {
+          "date": "2026-07-06",
+          "event": "China anthropomorphic-AI rules: Doubao & Qwen to disable humanlike/user-created agents before Jul 15"
         }
       ],
       "created": "2026-02-25"
@@ -824,9 +830,8 @@
         "Unified Models"
       ],
       "trajectory": "accelerating",
-      "signal_count": 123,
+      "signal_count": 124,
       "weekly_counts": [
-        0,
         1,
         1,
         1,
@@ -837,7 +842,8 @@
         0,
         0,
         2,
-        0
+        0,
+        1
       ],
       "key_events": [
         {
@@ -911,6 +917,10 @@
         {
           "date": "2026-06-24",
           "event": "2026-06-24: ByteDance releases Seedance 2.5 — 30s 4K video, up to 50 reference assets, 3D model input, and built-in official IP licensing + revenue share; Krea 2 (Raw & Turbo) opens weights with enterprise-grade image generation in ~2s"
+        },
+        {
+          "date": "2026-07-02",
+          "event": "2026-07-02: Higgsfield AI in Talks for $300M-$500M Raise at $5B Valuation, AI Video Tool Market Heats Up"
         }
       ],
       "created": "2026-02-26"
@@ -933,10 +943,9 @@
         "并购"
       ],
       "trajectory": "accelerating",
-      "signal_count": 35,
+      "signal_count": 36,
       "weekly_counts": [
         0,
-        0,
         1,
         1,
         0,
@@ -945,6 +954,7 @@
         1,
         1,
         0,
+        1,
         1,
         1
       ],
@@ -1024,6 +1034,10 @@
         {
           "date": "2026-06-29",
           "event": "DeepSeek 完成 $7.4B 融资（CEO 称被 Mythos 预览说服需更多资金竞争）；Apptronik 以约 $5B 估值融资约 $1B，奔驰参投并已在工厂试用 Apollo"
+        },
+        {
+          "date": "2026-07-02",
+          "event": "2026-07-02: Higgsfield AI in Talks for $300M-$500M Raise at $5B Valuation, AI Video Tool Market Heats Up"
         }
       ],
       "created": "2026-02-28"
@@ -1108,40 +1122,25 @@
       "id": "enterprise_ai_adoption_acceleration",
       "name": "Enterprise AI Adoption Acceleration",
       "related_tags": [
-        "AI 治理",
-        "可观测性",
-        "Business Strategy",
-        "AI Agents",
         "Enterprise AI",
-        "护城河",
-        "Agent 归属",
+        "可观测性",
+        "FDE",
+        "AI商业化",
+        "本地模型",
+        "Anthropic",
         "Cost Control",
-        "ROI",
-        "本地模型"
+        "交付",
+        "模型路由",
+        "token 纪律"
       ],
       "trajectory": "accelerating",
-      "signal_count": 13,
+      "signal_count": 17,
       "weekly_counts": [
         1,
-        1
+        1,
+        2
       ],
       "key_events": [
-        {
-          "date": "2026-06-15",
-          "event": "First detected"
-        },
-        {
-          "date": "2026-06-15",
-          "event": "First detected"
-        },
-        {
-          "date": "2026-06-15",
-          "event": "First detected"
-        },
-        {
-          "date": "2026-06-16",
-          "event": "2026-06-16: Nadella warns frontier models may commoditize industry expertise; Ivanti finds only 42% of orgs truly know AI agent ownership"
-        },
         {
           "date": "2026-06-16",
           "event": "2026-06-16: Ivanti finds only 42% of orgs truly know AI agent ownership"
@@ -1149,6 +1148,10 @@
         {
           "date": "2026-06-18",
           "event": "2026-06-18: Pew - 49% of US adults used chatbots in 2026 (up from 33% in 2024), 63% feel AI advancing too fast; OpenAI/Anthropic form 'Deployment Companies' (~$4B), FDE role surges"
+        },
+        {
+          "date": "2026-06-18",
+          "event": "2026-06-18: OpenAI (+PE, ~$4B) and Anthropic (w/ Blackstone) form deployment JVs; Forward Deployment Engineer becomes hot Silicon Valley role"
         },
         {
           "date": "2026-06-22",
@@ -1173,6 +1176,14 @@
         {
           "date": "2026-07-01",
           "event": "Ramp/Box data: higher AI adoption correlates with faster headcount growth; Stanford: 71.3% of ChatGPT queries answerable by local models"
+        },
+        {
+          "date": "2026-07-02",
+          "event": "2026-07-02: Salesforce Bets Open AI Ecosystem on Slack, Yet Employees Fear Competition from Anthropic; Anthropic Develops Claude Agent for Microsoft Teams"
+        },
+        {
+          "date": "2026-07-06",
+          "event": "The Information: model routers become favored enterprise cost-cutting layer, pressuring frontier pricing"
         }
       ],
       "created": "2026-06-15"
@@ -1216,12 +1227,18 @@
         "AWS",
         "Etched",
         "推理成本",
-        "NVIDIA"
+        "NVIDIA",
+        "Anthropic",
+        "Samsung",
+        "自研芯片",
+        "KKR",
+        "数据中心并购"
       ],
       "trajectory": "accelerating",
-      "signal_count": 8,
+      "signal_count": 11,
       "weekly_counts": [
-        1
+        1,
+        2
       ],
       "key_events": [
         {
@@ -1251,56 +1268,17 @@
         {
           "date": "2026-07-01",
           "event": "Etched inference chip hardcodes attention into silicon (~10x cost cut); OpenAI halves inference cost; NVIDIA Blackwell cuts DeepSeek V4 token cost to 1/5"
+        },
+        {
+          "date": "2026-07-02",
+          "event": "2026-07-02: Meta Publishes AI Storage Blueprint at Scale; GPU Cloud Pricings Volatile as Nvidia Server Rack Prices Swing 40% Weekly"
+        },
+        {
+          "date": "2026-07-06",
+          "event": "Anthropic starts own AI chip work (Samsung talks); KKR-backed Helix hunts US data center M&A with $10B+"
         }
       ],
       "created": "2026-06-16"
-    },
-    {
-      "id": "open-source_ai_coding_and_developer_effi",
-      "name": "Open-Source AI Coding and Developer Efficiency Tools",
-      "related_tags": [
-        "Open Source",
-        "AI Coding",
-        "Developer Tools",
-        "Ponytail",
-        "Efficiency"
-      ],
-      "trajectory": "accelerating",
-      "signal_count": 1,
-      "weekly_counts": [
-        1
-      ],
-      "key_events": [
-        {
-          "date": "2026-06-16",
-          "event": "First detected"
-        }
-      ],
-      "created": "2026-06-16"
-    },
-    {
-      "id": "agent_context_memory_layer",
-      "name": "Agent Context & Memory Layer Productization",
-      "related_tags": [
-        "AI Agent",
-        "知识图谱",
-        "上下文层",
-        "AWS",
-        "RAG",
-        "记忆"
-      ],
-      "trajectory": "accelerating",
-      "signal_count": 1,
-      "weekly_counts": [
-        1
-      ],
-      "key_events": [
-        {
-          "date": "2026-06-18",
-          "event": "2026-06-18: AWS launches Context, a knowledge-graph service that learns from agent usage; positions a context-intelligence stack above RAG"
-        }
-      ],
-      "created": "2026-06-18"
     },
     {
       "id": "ai_vertical_expansion_healthcare",
@@ -1321,30 +1299,6 @@
         {
           "date": "2026-06-18",
           "event": "2026-06-18: Google AMIE matches primary-care physicians on complex disease management (Nature); Midjourney launches Midjourney Medical"
-        }
-      ],
-      "created": "2026-06-18"
-    },
-    {
-      "id": "ai_deployment_company_fde_model",
-      "name": "Model-Vendor 'Deployment Companies' and FDE Delivery Model",
-      "related_tags": [
-        "部署公司",
-        "FDE",
-        "AI商业化",
-        "OpenAI",
-        "Anthropic",
-        "交付"
-      ],
-      "trajectory": "accelerating",
-      "signal_count": 1,
-      "weekly_counts": [
-        1
-      ],
-      "key_events": [
-        {
-          "date": "2026-06-18",
-          "event": "2026-06-18: OpenAI (+PE, ~$4B) and Anthropic (w/ Blackstone) form deployment JVs; Forward Deployment Engineer becomes hot Silicon Valley role"
         }
       ],
       "created": "2026-06-18"
@@ -1383,6 +1337,56 @@
         }
       ],
       "created": "2026-06-22"
+    },
+    {
+      "id": "data_labeling_paradigm_shift",
+      "name": "Data Labeling Paradigm Shift (Crowdsourcing Sunset)",
+      "related_tags": [
+        "MTurk",
+        "数据标注",
+        "专家数据"
+      ],
+      "trajectory": "emerging",
+      "signal_count": 1,
+      "weekly_counts": [
+        1
+      ],
+      "key_events": [
+        {
+          "date": "2026-07-06",
+          "event": "First detected"
+        },
+        {
+          "date": "2026-07-06",
+          "event": "Amazon stops accepting new Mechanical Turk customers; crowdsourced labeling era winds down"
+        }
+      ],
+      "created": "2026-07-06"
+    },
+    {
+      "id": "robotaxi_scaling_and_autonomy",
+      "name": "Robotaxi Scaling & Driverless Expansion",
+      "related_tags": [
+        "Tesla",
+        "Robotaxi",
+        "自动驾驶"
+      ],
+      "trajectory": "emerging",
+      "signal_count": 1,
+      "weekly_counts": [
+        1
+      ],
+      "key_events": [
+        {
+          "date": "2026-07-06",
+          "event": "First detected"
+        },
+        {
+          "date": "2026-07-06",
+          "event": "Tesla launches monitor-free robotaxi in Miami (5th city), targets ~12 US states by end of 2026"
+        }
+      ],
+      "created": "2026-07-06"
     }
   ]
 }

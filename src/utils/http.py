@@ -1,79 +1,48 @@
-"""Robust HTTP GET with curl fallback.
+"""Robust HTTP GET (requests-only, no curl subprocess).
 
-Python 3.9 + LibreSSL 2.8.3 has intermittent SSL failures, especially
-through proxies. This module provides a robust_get() that automatically
-falls back to curl subprocess when requests fails with SSL errors.
+历史上这里在 requests 遇到 SSL 错误时会回退到 `/usr/bin/curl` 子进程，绕开
+Python 3.9 + LibreSSL 的间歇性 SSL 失败。该回退已移除：
+- curl 被星点（Starpoint 终端安全）当「风险程序」拦截，导致采集卡死；
+- urllib3 钉到兼容 LibreSSL 的版本后，requests 直连各源已稳定（实测 arxiv/
+  github/huggingface 均 200），不再需要 curl。
+现在改为 requests + 重试。
 """
 
-import subprocess
-from urllib.parse import urlencode
+import time
 
 import requests
 
+DEFAULT_UA = "AI-Frontier-Insight-Bot/1.0"
+
 
 def robust_get(url: str, headers: dict = None, params: dict = None,
-               timeout: int = 30) -> requests.Response:
-    """HTTP GET with automatic curl fallback on SSL errors.
-
-    First tries requests.get(). If it fails with SSLError or ConnectionError,
-    falls back to curl subprocess which uses the system's native TLS stack.
+               timeout: int = 30, retries: int = 3) -> requests.Response:
+    """HTTP GET，遇 SSL/连接/超时错误自动重试（纯 requests，不再 spawn curl）。
 
     Args:
-        url: The URL to fetch
-        headers: Optional HTTP headers dict
-        params: Optional query parameters dict
-        timeout: Request timeout in seconds
+        url: 目标 URL
+        headers: 可选请求头
+        params: 可选查询参数
+        timeout: 单次请求超时（秒）
+        retries: 最多尝试次数
 
     Returns:
-        requests.Response object
+        requests.Response
+
+    Raises:
+        最后一次的 requests 异常（重试用尽仍失败时）。
     """
-    kwargs = {"timeout": timeout}
-    if headers:
-        kwargs["headers"] = headers
-    if params:
-        kwargs["params"] = params
-
-    # Try requests twice (intermittent SSL failures)
-    for attempt in range(2):
+    # 拆成 (connect, read) 元组：连接阶段最多 10s、读阶段用 timeout，
+    # 避免卡在 TLS 握手/首字节等待上（单一标量 timeout 对 SSL 握手不总生效）。
+    to = (min(10, timeout), timeout)
+    last_exc = None
+    for attempt in range(retries):
         try:
-            resp = requests.get(url, **kwargs)
-            return resp
-        except (requests.exceptions.SSLError, requests.exceptions.ConnectionError):
-            pass
-
-    # Fallback: use curl subprocess
-    full_url = url
-    if params:
-        full_url = f"{url}?{urlencode(params)}"
-
-    cmd = ["/usr/bin/curl", "-sS", "--max-time", str(timeout), "-L",
-           "-w", "\n%{http_code}", "-o", "-"]
-    if headers:
-        for key, value in headers.items():
-            cmd.extend(["-H", f"{key}: {value}"])
-    cmd.append(full_url)
-
-    result = subprocess.run(cmd, capture_output=True, text=True,
-                            timeout=timeout + 10)
-
-    if result.returncode != 0:
-        raise requests.exceptions.ConnectionError(
-            f"curl failed (code {result.returncode}): {result.stderr.strip()}"
-        )
-
-    # Parse status code from last line (written by -w)
-    output = result.stdout
-    lines = output.rsplit("\n", 1)
-    body = lines[0] if len(lines) > 1 else output
-    try:
-        status_code = int(lines[-1].strip()) if len(lines) > 1 else 200
-    except ValueError:
-        status_code = 200
-
-    # Build a Response object
-    resp = requests.Response()
-    resp.status_code = status_code
-    resp._content = body.encode("utf-8")
-    resp.encoding = "utf-8"
-    resp.url = full_url
-    return resp
+            return requests.get(url, headers=headers, params=params, timeout=to)
+        except (requests.exceptions.SSLError,
+                requests.exceptions.ConnectionError,
+                requests.exceptions.Timeout) as e:
+            last_exc = e
+            if attempt < retries - 1:
+                time.sleep(1.5 * (attempt + 1))
+    raise last_exc

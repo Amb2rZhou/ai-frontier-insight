@@ -6,6 +6,7 @@ Adapted from daily-news-digest parse_feed() + fetch_raw_news().
 
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from concurrent.futures import TimeoutError as FuturesTimeoutError
 from datetime import datetime, timedelta
 from typing import Dict, List
 
@@ -117,25 +118,33 @@ class RSSCollector(BaseCollector):
                 for f in enabled_feeds
             }
 
-            for future in as_completed(futures, timeout=90):
-                feed_cfg = futures[future]
-                try:
-                    items = future.result(timeout=30)
-                    if items:
-                        stats["success"] += 1
-                        for item in items:
-                            src = item.source_name
-                            if src not in items_by_source:
-                                items_by_source[src] = []
-                            items_by_source[src].append(item)
-                    else:
-                        stats["empty"] += 1
-                except TimeoutError:
-                    stats["failed"] += 1
-                    print(f"  Warning: {feed_cfg.get('name', '?')} timed out (30s)")
-                except Exception as e:
-                    stats["failed"] += 1
-                    print(f"  Warning: {feed_cfg.get('name', '?')} error: {e}")
+            try:
+                for future in as_completed(futures, timeout=90):
+                    feed_cfg = futures[future]
+                    try:
+                        items = future.result(timeout=30)
+                        if items:
+                            stats["success"] += 1
+                            for item in items:
+                                src = item.source_name
+                                if src not in items_by_source:
+                                    items_by_source[src] = []
+                                items_by_source[src].append(item)
+                        else:
+                            stats["empty"] += 1
+                    except (FuturesTimeoutError, TimeoutError):
+                        stats["failed"] += 1
+                        print(f"  Warning: {feed_cfg.get('name', '?')} timed out (30s)")
+                    except Exception as e:
+                        stats["failed"] += 1
+                        print(f"  Warning: {feed_cfg.get('name', '?')} error: {e}")
+            except (FuturesTimeoutError, TimeoutError):
+                # 整体 90s 预算耗尽仍有 feed 未完成：用已采到的继续，别让整条 pipeline 挂
+                # 注：Py<3.11 下 as_completed 抛的是 concurrent.futures.TimeoutError，
+                #     与内建 TimeoutError 非同一类，必须显式接 FuturesTimeoutError
+                unfinished = [futures[f].get("name", "?") for f in futures if not f.done()]
+                stats["failed"] += len(unfinished)
+                print(f"  Warning: {len(unfinished)} feed(s) exceeded 90s overall budget, skipped: {', '.join(unfinished)}")
 
         elapsed = time.time() - start
         print(f"  RSS fetch: {elapsed:.1f}s | success={stats['success']} empty={stats['empty']} failed={stats['failed']}")

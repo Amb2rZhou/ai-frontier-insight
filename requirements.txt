@@ -1,6 +1,10 @@
 anthropic>=0.40.0
 openai>=1.0.0
 requests>=2.28.0
+# 本机是 LibreSSL 2.8.3，urllib3 v2 只支持 OpenSSL 1.1.1+（NotOpenSSLWarning），
+# SSL 间歇失败正是它导致的。钉到 1.26.x（官方支持 LibreSSL），requests 直连稳定，
+# 从而彻底去掉对 /usr/bin/curl 的回退依赖（curl 被星点终端安全拦截会卡死采集）。
+urllib3<2
 feedparser>=6.0.0
 pyyaml>=6.0.0
 openpyxl>=3.1.0

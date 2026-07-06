@@ -2,7 +2,7 @@
 title: Anthropic
 type: company
 created: 2026-02-25
-updated: 2026-06-16
+updated: 2026-07-02
 ---
 
 # Anthropic
@@ -11,6 +11,8 @@ updated: 2026-06-16
 
 ## Timeline
 
+- **2026-07-02**: [[salesforce|Salesforce]] Bets [[openai|Open AI]] Ecosystem on Slack, Yet Employees Fear Competition from Anthropic
+- **2026-07-02**: Anthropic Develops [[claude|Claude]] Agent for [[microsoft|Microsoft]] Teams, Challenging [[copilot|Copilot]]
 - **2026-06-16**: [[cursor-ai|Cursor]]'s Testy Relationship with Anthropic Revealed; Anthropic Told Cursor [[claude|Claude Code]] Was 'Mainly a Research Effort'
 - **2026-06-15**: [[openai|OpenAI]] Launches Partner Network with $150M Investment to Accelerate Enterprise AI Adoption
 - **2026-06-15**: [[codex|Codex]] Gains Widespread Adoption as a Capable [[agent-frameworks|AI Agent]], Pushing Boundaries of Autonomous Tool Use

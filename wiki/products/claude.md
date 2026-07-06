@@ -2,7 +2,7 @@
 title: Claude
 type: product
 created: 2026-02-25
-updated: 2026-06-16
+updated: 2026-07-02
 ---
 
 # Claude
@@ -11,6 +11,8 @@ updated: 2026-06-16
 
 ## Timeline
 
+- **2026-07-02**: [[anthropic|Anthropic]] Develops Claude Agent for [[microsoft|Microsoft]] Teams, Challenging [[copilot|Copilot]]
+- **2026-07-02**: Square Launches [[gpt|ChatGPT]] and Claude Plugins for Ordering, Embedding AI Agents into Payments
 - **2026-06-16**: [[cursor-ai|Cursor]]'s Testy Relationship with [[anthropic|Anthropic]] Revealed; Anthropic Told Cursor Claude Code Was 'Mainly a Research Effort'
 - **2026-06-15**: AI Coding Model Competition Intensifies: Composer 2.5, MiniMax-M3 and Open-Source Alternatives Challenge Frontier Models
 - **2026-06-13**: US Government Orders [[anthropic|Anthropic]] to Suspend Access to Mythos 5 and Fable 5 Globally Over National Security

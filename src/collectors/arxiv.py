@@ -7,33 +7,29 @@ huggingface.co（在部分网络环境下不可达）。按配置的分类拉取
 API: https://export.arxiv.org/api/query
 """
 
-import subprocess
 from datetime import datetime, timedelta
 from typing import List, Optional
 from zoneinfo import ZoneInfo  # noqa: F401
 
 import feedparser
+import requests
 
 from .base import BaseCollector, RawItem
 from ..utils.config import load_sources, get_timezone  # noqa: F401
+from ..utils.http import robust_get, DEFAULT_UA
 
 ARXIV_API = "https://export.arxiv.org/api/query"
 
 
-def _curl_text(url: str, timeout: int = 30) -> Optional[str]:
-    """Fetch raw text via curl subprocess（避开 LibreSSL 在 requests 下的问题）。"""
-    cmd = [
-        "/usr/bin/curl", "-sS", "--max-time", str(timeout), "-L",
-        "-H", "User-Agent: AI-Frontier-Insight-Bot/1.0",
-        url,
-    ]
+def _fetch_text(url: str, timeout: int = 30) -> Optional[str]:
+    """Fetch raw text via requests（带重试，不再 spawn curl）。"""
     try:
-        result = subprocess.run(cmd, capture_output=True, text=True, timeout=timeout + 10)
-        if result.returncode != 0:
-            print(f"  Papers: curl failed: {result.stderr.strip()}")
+        resp = robust_get(url, headers={"User-Agent": DEFAULT_UA}, timeout=timeout)
+        if resp.status_code != 200:
+            print(f"  Papers: HTTP {resp.status_code}")
             return None
-        return result.stdout
-    except subprocess.TimeoutExpired as e:
+        return resp.text
+    except requests.exceptions.RequestException as e:
         print(f"  Papers: fetch error: {e}")
         return None
 
@@ -52,7 +48,7 @@ def _fetch_arxiv(categories: List[str], max_results: int, sort_by: str) -> List[
         f"&sortBy={sort_by}&sortOrder=descending"
         f"&start=0&max_results={max_results}"
     )
-    xml = _curl_text(url)
+    xml = _fetch_text(url)
     if not xml:
         return []
 

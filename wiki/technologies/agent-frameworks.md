@@ -2,7 +2,7 @@
 title: Agent Frameworks
 type: technology
 created: 2026-02-25
-updated: 2026-06-16
+updated: 2026-07-02
 ---
 
 # Agent Frameworks
@@ -11,6 +11,9 @@ The rapidly evolving ecosystem of tools, SDKs, and platforms for building autono
 
 ## Timeline
 
+- **2026-07-02**: Senior SWE-Bench: New OSS Benchmark Assesses Agents as Senior Engineers
+- **2026-07-02**: [[anthropic|Anthropic]] Develops [[claude|Claude]] Agent for [[microsoft|Microsoft]] Teams, Challenging [[copilot|Copilot]]
+- **2026-07-02**: Square Launches [[gpt|ChatGPT]] and [[claude|Claude]] Plugins for Ordering, Embedding AI Agents into Payments
 - **2026-06-16**: Ivanti Research: 85% of IT Teams Say AI Agents Are Controlled, But Only 42% Know Who Owns Them
 - **2026-06-16**: Ponytail: Open-Source Tool to Make AI Agents 'Think Like the Laziest Senior Dev' (17k Stars)
 - **2026-06-15**: Snowflake Deploys AI Agents Internally to Sell Enterprise AI Adoption to Customers

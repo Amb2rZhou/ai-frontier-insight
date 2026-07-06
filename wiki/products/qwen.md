@@ -2,7 +2,7 @@
 title: Qwen
 type: product
 created: 2026-02-25
-updated: 2026-06-03
+updated: 2026-07-02
 ---
 
 # Qwen
@@ -11,6 +11,7 @@ updated: 2026-06-03
 
 ## Timeline
 
+- **2026-07-02**: Open Source Coding Agent Kimi K2.7 Lands in GitHub [[copilot|Copilot]]
 - **2026-06-03**: [[alibaba|Alibaba]] Releases Qwen3.7-Plus: Multimodal LLM with Text, Video, and Image Input at Competitive Pricing
 - **2026-05-30**: Pinterest Achieves 90% AI Cost Reduction by Modifying Frontier Model Architecture
 - **2026-05-28**: Qwen3.5 Achieves Record 580 TPS on TokenSpeed Engine for [[agent-frameworks|Agentic]] Workloads

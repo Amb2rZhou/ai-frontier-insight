@@ -1,66 +1,6 @@
 {
   "predictions": [
     {
-      "date": "2026-06-08T16:11:25.467085+08:00",
-      "prediction_text": "内容平台的AI编排团队可借鉴其抽象层设计，统一Agent行为在不同模型上的表现。",
-      "category": "open_source",
-      "source_signal": "OmniStack Agent: Platform-Agnostic AI Agent Compiled for ChatGPT, Claude, Copilot, Gemini & Cursor"
-    },
-    {
-      "date": "2026-06-08T16:11:25.472207+08:00",
-      "prediction_text": "社区平台可尝试为时尚/美妆等垂类内容Agent定制类似profile模板，提升推荐精准度。",
-      "category": "open_source",
-      "source_signal": "Scientific Agents: Standardized 'AGENTS.md' Profiles for Expert-Level AI Reasoning"
-    },
-    {
-      "date": "2026-06-08T16:11:25.475326+08:00",
-      "prediction_text": "内容安全与推荐系统可探索端侧轻量模型实现实时审核与个性化预筛选，降低云端延迟。",
-      "category": "open_source",
-      "source_signal": "Ollama v0.30.7-rc1: Continues to Improve On-Device LLM Deployment with Native Windows Support"
-    },
-    {
-      "date": "2026-06-08T16:28:40.306845+08:00",
-      "prediction_text": "创业方向建议避开通用超级应用，聚焦垂直场景的 Agent 中间件与插件生态。",
-      "category": "strategic_move",
-      "source_signal": "OpenAI Super App Ambitions Revealed: 'Chat Is Dead'"
-    },
-    {
-      "date": "2026-06-08T16:28:40.313001+08:00",
-      "prediction_text": "出海公司需评估欧洲本土云/模型供应商；投资可关注欧洲自研 AI 基础设施初创。",
-      "category": "ecosystem_shift",
-      "source_signal": "Europe's Systematic Ditching of American Tech: A WIRED Timeline"
-    },
-    {
-      "date": "2026-06-08T16:28:40.318155+08:00",
-      "prediction_text": "创业点在于提供成本优化的推理引擎或替代模型；投资考虑开源模型服务商。",
-      "category": "infrastructure",
-      "source_signal": "Rising Token Prices Signal 'Tokenpocalypse' Ahead of AI IPOs"
-    },
-    {
-      "date": "2026-06-08T16:28:40.323325+08:00",
-      "prediction_text": "建议 Agent 层内置多模型故障切换；值得关注模型中间件与可靠性监控创业团队。",
-      "category": "infrastructure",
-      "source_signal": "Notion Restores Anthropic Access After Unplanned Service Disruption"
-    },
-    {
-      "date": "2026-06-08T16:28:40.328283+08:00",
-      "prediction_text": "探索针对医疗、法律、金融等行业的 agent 配置文件模板商业化。",
-      "category": "open_source",
-      "source_signal": "Scientific Agents: '.agents.md' Profiles to Train Agents like Scientists"
-    },
-    {
-      "date": "2026-06-08T16:28:40.332722+08:00",
-      "prediction_text": "开发者工具层可借鉴此思路，构建统一 agent 编译与分发平台。",
-      "category": "open_source",
-      "source_signal": "Omnistack Agent: Platform-Agnostic AI Engineer Compiled for Multiple Models"
-    },
-    {
-      "date": "2026-06-08T16:28:40.337509+08:00",
-      "prediction_text": "生态内工具链（监控、部署、审计）是值得早期投资的细分方向。",
-      "category": "infrastructure",
-      "source_signal": "Anthropic SDK Updates: Managed Agents Types Refined"
-    },
-    {
       "date": "2026-06-08T16:28:40.342202+08:00",
       "prediction_text": "可复现性工具与权重审计平台有创业空间；学术投资需关注开源贡献度。",
       "category": "research_breakthrough",
@@ -599,6 +539,66 @@
       "prediction_text": " AI应用层创业需构建不可替代的垂直数据或UI壁垒，避免依赖单一模型提供商的优待。",
       "category": "ecosystem_shift",
       "source_signal": "Cursor's Testy Relationship with Anthropic Revealed; Anthropic Told Cursor Claude Code Was 'Mainly a Research Effort'"
+    },
+    {
+      "date": "2026-07-02T14:22:40.099454+08:00",
+      "prediction_text": "建议探索为垂直行业（如餐饮、零售）构建 agent 交易中间件，连接 AI 对话与后端支付系统。",
+      "category": "ecosystem_shift",
+      "source_signal": "Square Launches ChatGPT and Claude Plugins for Ordering, Embedding AI Agents into Payments"
+    },
+    {
+      "date": "2026-07-02T14:22:40.109215+08:00",
+      "prediction_text": "值得关注 AI for Science 方向，尤其是基于强推理模型的药物分子设计与数学定理证明创业。",
+      "category": "research_breakthrough",
+      "source_signal": "GPT-5.5 Pro Solves 9 Frontier Math Problems, Signaling AI Reasoning Leap"
+    },
+    {
+      "date": "2026-07-02T14:22:40.116333+08:00",
+      "prediction_text": "建议关注企业协作场景下多 agent 管理、安全隔离与数据主权产品，而非仅做单一 bot。",
+      "category": "strategic_move",
+      "source_signal": "Anthropic Develops Claude Agent for Microsoft Teams, Challenging Copilot"
+    },
+    {
+      "date": "2026-07-02T14:22:40.123215+08:00",
+      "prediction_text": "建议投资聚焦于解决特定行业（如广告、游戏）生产痛点的视频工具，而非通用生成平台。",
+      "category": "infrastructure",
+      "source_signal": "Higgsfield AI in Talks for $300M-$500M Raise at $5B Valuation, AI Video Tool Market Heats Up"
+    },
+    {
+      "date": "2026-07-02T14:22:40.128716+08:00",
+      "prediction_text": "AI 存储层产品化机会显现，值得探索为中小模型训练提供弹性、高性能存储的云服务。",
+      "category": "infrastructure",
+      "source_signal": "Meta Publishes AI Storage Blueprint at Scale (Meta Engineering Blog)"
+    },
+    {
+      "date": "2026-07-02T14:22:40.134210+08:00",
+      "prediction_text": "建议构建算力期货或波动率对冲工具，以及多云调度中间件，锁定中小 AI 公司的算力成本。",
+      "category": "ecosystem_shift",
+      "source_signal": "GPU Cloud Pricings Volatile as Nvidia Server Rack Prices Swing 40% Weekly"
+    },
+    {
+      "date": "2026-07-02T14:22:40.139862+08:00",
+      "prediction_text": "建议探索面向隐私敏感行业（医疗、金融）的本地私有化推理一体机，或端侧 agent 框架。",
+      "category": "open_source",
+      "source_signal": "NVIDIA Quantizes GLM-5.2 to 4-bit FP4, Only 200G+ Storage Needed—Slam-Dunk for Local Deployment"
+    },
+    {
+      "date": "2026-07-02T14:22:40.146080+08:00",
+      "prediction_text": "值得关注跨平台 agent 编排与统一管理工具，帮助企业在 Slack、Teams 等选择中保持灵活性。",
+      "category": "strategic_move",
+      "source_signal": "Salesforce Bets Open AI Ecosystem on Slack, Yet Employees Fear Competition from Anthropic"
+    },
+    {
+      "date": "2026-07-02T14:22:40.151451+08:00",
+      "prediction_text": "建议关注基于 Kimi 等开源代码模型构建的垂直开发辅助工具，尤其在中文或特定框架场景。",
+      "category": "open_source",
+      "source_signal": "Open Source Coding Agent Kimi K2.7 Lands in GitHub Copilot"
+    },
+    {
+      "date": "2026-07-02T14:22:40.156475+08:00",
+      "prediction_text": "建议开发面向 agent 代码质量、可维护性与架构设计的评估服务，帮助团队选型与迭代 agent。",
+      "category": "open_source",
+      "source_signal": "Senior SWE-Bench: New OSS Benchmark Assesses Agents as Senior Engineers"
     }
   ]
 }

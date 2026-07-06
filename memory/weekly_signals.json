@@ -1,427 +1,204 @@
 {
-  "current_week": "2026-W26",
+  "current_week": "2026-W27",
   "days": {
-    "2026-06-29": [
+    "2026-07-06": [
       {
-        "title": "DeepSeek 完成 74 亿美元融资，被 Anthropic 的 Mythos 预览惊到「需要更多钱才能竞争」",
-        "signal_text": "据 The Information 独家报道，DeepSeek 完成 74 亿美元融资。CEO 梁文锋在看过 Anthropic 的 Mythos 预览后认定，中国头部 AI 实验室需要远超此前的资金量才能维持竞争。",
-        "insight": "前沿模型的资本门槛再次抬高，中国头部实验室从「效率叙事」转入重资本军备竞赛。",
-        "implication": "国产前沿仍是「烧钱换代差」的游戏，可以关注押注国产算力、推理优化与开源生态的早期标的，性价比红利仍在。",
+        "title": "OpenAI GPT-5.6 呼之欲出：确认将进入 Codex，Altman 称其「发现新数学」",
+        "signal_text": "OpenAI 的 Thibault Sottiaux 发推确认 GPT-5.6 Sol Ultra 将进入编码 agent Codex，消息登上 Hacker News 热榜（73 points）；Sam Altman 同日发推把自家孩子的认知里程碑与「GPT-5.6 发现新数学」相提并论（获 1 万+ likes / 105 万 views），社区普遍解读为新模型发布临近。",
+        "insight": "旗舰模型的叙事从跑分转向「发现新数学」，科研能力成为下一代模型的主打卖点。",
+        "implication": "编码 agent 仍是新旗舰的第一落点，可关注 Codex 生态与「AI 做科研」方向的下游工具与评测机会。",
         "sources": [
           {
-            "name": "The Information (@theinformation)",
-            "url": "https://x.com/theinformation/status/2071262396727890323"
+            "name": "Thibault Sottiaux 推文 (via Hacker News)",
+            "url": "https://twitter.com/thsottiaux/status/2073933490513752151"
+          },
+          {
+            "name": "@sama",
+            "url": "https://x.com/sama/status/2073791666553844074"
           }
         ],
         "tags": [
-          "DeepSeek",
-          "融资",
-          "中国AI",
-          "资本"
+          "OpenAI",
+          "GPT-5.6",
+          "Codex",
+          "旗舰模型"
         ],
         "signal_strength": 0.9
       },
       {
-        "title": "内存价格预计 Q3 涨 40-50%，华尔街把美光 Micron 视为「下一个英伟达」",
-        "signal_text": "投行 Jefferies 预计 DRAM 等内存价格 2026 Q3 上涨 40-50%、Q4 再涨 30-40%，并称中国内存厂商短期难提供实质缓解（据 Wccftech/Techmeme）；TechCrunch 同日报道华尔街正把 Micron 视为「下一个英伟达」。",
-        "insight": "AI 涨价压力从 GPU 蔓延到内存，算力成本曲线下半年可能逆势抬升。",
-        "implication": "内存超级周期利好存储产业链，但会抬高推理单位成本；可以关注小模型、端侧与量化路线作为成本对冲方向。",
+        "title": "Anthropic 启动自研 AI 芯片，与三星洽谈代工",
+        "signal_text": "据 The Information 报道，Anthropic 已开始自研 AI 芯片的早期工作，并与三星电子洽谈潜在代工合作；此举跟随 OpenAI 的路线，意在掌控模型背后昂贵的算力体系。",
+        "insight": "头部模型商全面走向算力垂直整合，成本战已经打到硅片层。",
+        "implication": "长期推理成本曲线将被改写，可关注芯片设计服务、先进封装与代工产能等「军备竞赛卖水人」环节。",
         "sources": [
           {
-            "name": "Techmeme / Wccftech",
-            "url": "https://www.techmeme.com/260628/p16#a260628p16"
-          },
-          {
-            "name": "TechCrunch",
-            "url": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/"
+            "name": "The Information",
+            "url": "https://x.com/theinformation/status/2073799102165373204"
           }
         ],
         "tags": [
-          "内存",
-          "Micron",
-          "算力成本",
-          "半导体"
+          "Anthropic",
+          "自研芯片",
+          "三星",
+          "算力"
+        ],
+        "signal_strength": 0.88
+      },
+      {
+        "title": "Zuckerberg 向员工承认：AI agent 进展慢于预期",
+        "signal_text": "据支付行业媒体 PYMNTS 报道，Meta CEO Mark Zuckerberg 告诉员工，AI agent 的进展没有预期那么快——这位今年承诺最高 1450 亿美元 AI 基础设施投入、并围绕 AI 重组公司的高管罕见地公开降温。",
+        "insight": "巨头亲自为 agent 热潮做预期管理，能力成熟度与资本投入之间的落差被摆上台面。",
+        "implication": "agent 赛道可能进入挤泡沫阶段，围绕可靠性、评测与落地交付的「补差价」生意值得关注。",
+        "sources": [
+          {
+            "name": "PYMNTS",
+            "url": "https://x.com/pymnts/status/2073778858122219983"
+          }
+        ],
+        "tags": [
+          "Meta",
+          "Zuckerberg",
+          "agent",
+          "预期管理"
         ],
         "signal_strength": 0.85
       },
       {
-        "title": "中国超算 LineShine 登顶 TOP500，自 2018 年来首次夺回全球最快宝座",
-        "signal_text": "据 The Verge 报道，尽管面临高性能计算部件的对华出口限制，中国超算 LineShine 仍把 El Capitan 挤下 TOP500 榜首，这是中国自 2018 年以来首次重夺全球最快超算称号。",
-        "insight": "出口管制未能锁死中国高端算力，地缘技术封锁的有效性出现裂缝。",
-        "implication": "算力自主化叙事强化，可以关注国产 GPU/互联、超算软件栈与非美技术栈的长期机会。",
+        "title": "中国拟人化 AI 交互新规将生效，豆包与通义将下架拟人 agent",
+        "signal_text": "据南华早报（SCMP）报道，随着中国拟人化 AI 交互监管新规即将生效，字节跳动豆包与阿里通义将在 7 月 15 日前下架拟人化 agent 及用户自建 agent。",
+        "insight": "监管对象首次从生成内容延伸到交互形态，「拟人化程度」成为合规变量。",
+        "implication": "AI 陪伴与角色扮演类产品在中国面临形态重构，合规化改造与出海转移都值得留意。",
         "sources": [
           {
-            "name": "The Verge",
-            "url": "https://www.theverge.com/tech/958768/china-claims-the-worlds-fastest-supercomputer"
-          }
-        ],
-        "tags": [
-          "超算",
-          "TOP500",
-          "算力",
-          "地缘"
-        ],
-        "signal_strength": 0.8
-      },
-      {
-        "title": "[Update] 开源 GLM-5.2 被指在网络安全/找漏洞场景已能匹配 Anthropic Mythos",
-        "signal_text": "据 The Verge 报道，智谱（Z.ai）的开源权重模型 GLM-5.2 被部分研究者称在某些 bug-finding 与网络安全场景下已匹配 Anthropic Mythos，尽管通用任务仍落后于 Anthropic 与 OpenAI。Box CEO Aaron Levie 称很快会出现开放、人人可得的 mythos 级网络安全模型（获 540+ likes、10 万+ 浏览）。",
-        "insight": "开源权重在「安全/找漏洞」这类高价值垂直能力上逼平闭源，护城河被局部击穿。",
-        "implication": "开源前沿能力外溢到安全攻防，是双刃剑；可以关注基于开源权重的本地安全审计、红队工具创业窗口。",
-        "sources": [
-          {
-            "name": "The Verge",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity"
-          },
-          {
-            "name": "Aaron Levie (@levie)",
-            "url": "https://x.com/levie/status/2071253118252356001"
-          }
-        ],
-        "tags": [
-          "GLM-5.2",
-          "开源模型",
-          "网络安全",
-          "开闭源差距"
-        ],
-        "signal_strength": 0.85
-      },
-      {
-        "title": "The Information：Google 重组 AI 编程突击队，全力追赶 Anthropic",
-        "signal_text": "据 The Information 独家报道，Google 正重组其新设的 AI 编程工具突击队，以追赶在「最赚钱的 AI 应用」（编程 agent）上保持领先的 Anthropic。该推文获 4.7 万浏览。",
-        "insight": "编程 agent 被巨头公认为当前变现确定性最高的 AI 应用，竞争白热化。",
-        "implication": "coding agent 赛道格局未定但天花板高，可以关注垂直语言/垂直行业的编码 agent 与配套评测、可观测工具的早期机会。",
-        "sources": [
-          {
-            "name": "The Information (@theinformation)",
-            "url": "https://x.com/theinformation/status/2071247292116467976"
-          }
-        ],
-        "tags": [
-          "Google",
-          "Anthropic",
-          "编程Agent",
-          "竞争格局"
-        ],
-        "signal_strength": 0.85
-      },
-      {
-        "title": "agent 自主重试惹祸：Anthropic 账单审计查出约 170 万美元多收，Codex 排查用量异常飙升",
-        "signal_text": "The Information 报道，对 Anthropic 客户账单的审计发现约 170 万美元错误多收，可能原因之一是某个 AI agent 不断重试任务。几乎同时 OpenAI Codex 团队周日进驻 war room 排查可能导致部分用户用量异常飙升的问题（OpenAI 高管 thsottiaux 发推获 2800+ likes）。",
-        "insight": "agent 自主循环把用量与成本从可预测项变成会失控的变量，计费可信度成新痛点。",
-        "implication": "agent 时代的「用量可归因、成本可控、账单可对账」是刚需，可以关注做 agent 可观测、用量治理与成本审计的工具型创业。",
-        "sources": [
-          {
-            "name": "The Information (@theinformation)",
-            "url": "https://x.com/theinformation/status/2071360628032184790"
-          },
-          {
-            "name": "Thomas (@thsottiaux), OpenAI",
-            "url": "https://x.com/thsottiaux/status/2071357473659707441"
-          }
-        ],
-        "tags": [
-          "Agent",
-          "计费",
-          "用量治理",
-          "可观测性"
-        ],
-        "signal_strength": 0.82
-      },
-      {
-        "title": "agent 化攻击浮出水面：欺诈分子规模化用自主 agent，prompt injection 专打 agent/RAG/模型路由",
-        "signal_text": "行为风控公司 BioCatch 2026 年 6 月报告（调研 1440 名反欺诈/金融犯罪/风险从业者）称犯罪分子正越来越多部署自主 agent 规模化发起攻击；VentureBeat 同期报道 prompt injection 正利用企业 AI 设计缺陷，专门瞄准 agents、RAG 管线与 model router。",
-        "insight": "「自然语言即可改写系统行为」成了企业 AI 的头号攻击面，agent 安全从合规话题变成现实威胁。",
-        "implication": "agent 安全是确定性增长的新赛道，可以关注做注入检测、agent 防火墙、行为风控与红队评测的安全创业。",
-        "sources": [
-          {
-            "name": "VentureBeat",
-            "url": "https://venturebeat.com/security/prompt-injection-is-exploiting-enterprise-ais-biggest-design-flaws-by-targeting-agents-rag-pipelines-and-model-routers"
-          },
-          {
-            "name": "Fintech News Singapore",
-            "url": "https://fintechnews.sg/133560/ai/the-rise-of-agentic-ai-in-cyber-fraud-and-scams/"
-          }
-        ],
-        "tags": [
-          "AI安全",
-          "prompt injection",
-          "agentic fraud",
-          "RAG"
-        ],
-        "signal_strength": 0.82
-      },
-      {
-        "title": "主权 AI 升温：奥地利游说欧盟在本土托管 Anthropic",
-        "signal_text": "据 Bloomberg（经 Techmeme）报道，奥地利正推动欧盟考虑在其境内托管 Anthropic，凸显欧盟在对美访问受限背景下、提升对美中科技独立性的努力。",
-        "insight": "模型「在哪部署、归谁管」成为地缘与合规焦点，主权 AI 从口号走向落地诉求。",
-        "implication": "数据驻留、主权云与可私有化部署的需求上行，可以关注面向受监管行业/地区的合规化部署与本地化服务机会。",
-        "sources": [
-          {
-            "name": "Bloomberg / Techmeme",
-            "url": "https://www.techmeme.com/260628/p13#a260628p13"
-          }
-        ],
-        "tags": [
-          "主权AI",
-          "欧盟",
-          "Anthropic",
-          "私有化部署"
-        ],
-        "signal_strength": 0.78
-      },
-      {
-        "title": "人形机器人 Apptronik 融资约 10 亿美元、估值约 50 亿，奔驰参投并已在工厂试用",
-        "signal_text": "据 Bloomberg（经 Techmeme）报道，人形机器人公司 Apptronik 以约 50 亿美元估值融资约 10 亿美元，投资方包括奔驰（Mercedes-Benz）；奔驰工厂已部署少量 Apptronik 的 Apollo 机器人。",
-        "insight": "人形机器人从演示走向工厂实地试用，车企用资本+订单双重下注具身智能。",
-        "implication": "具身智能资本热度持续，可以关注机器人「大脑」（VLA 模型、仿真数据）与零部件供应链的投资机会。",
-        "sources": [
-          {
-            "name": "Bloomberg / Techmeme",
-            "url": "https://www.techmeme.com/260628/p15#a260628p15"
-          }
-        ],
-        "tags": [
-          "人形机器人",
-          "Apptronik",
-          "具身智能",
-          "融资"
-        ],
-        "signal_strength": 0.8
-      },
-      {
-        "title": "Ford 因 AI 未达预期重新雇回资深「灰胡子」工程师",
-        "signal_text": "据 TechCrunch 报道，福特（Ford）在 AI 未能产出高质量成果后重新雇回资深工程师，其高管坦言「我们曾错误地以为，只要引入 AI 就能产出高质量产品」。",
-        "insight": "「引入 AI 即提质」的幻觉被现实纠偏，深度领域经验仍是质量兜底。",
-        "implication": "企业 AI 进入「祛魅」阶段，可以关注做人机协作流程、专家在环（human-in-the-loop）与质量验证工具的务实型机会。",
-        "sources": [
-          {
-            "name": "TechCrunch",
-            "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/"
-          }
-        ],
-        "tags": [
-          "企业AI",
-          "AI落地",
-          "ROI",
-          "人机协作"
-        ],
-        "signal_strength": 0.75
-      }
-    ],
-    "2026-07-01": [
-      {
-        "title": "Anthropic 发布 Claude Sonnet 5：中端定价冲击 agentic 市场，Cursor/Perplexity/VS Code 当天集成",
-        "signal_text": "Anthropic 发布 Claude Sonnet 5，主打接近旗舰的 agentic 能力但定价压到中端（据 VentureBeat）。当天生态大规模接入：Cursor 称其 CursorBench 从 Sonnet 4.6 的 49% 升至 57%（获 2300+ likes / 28 万 views），Perplexity 将其作为 Computer 的 orchestrator 模型，VS Code、Box AI 企业评测也同步上线。",
-        "insight": "旗舰级 agentic 能力下沉到中端价位，成本曲线又一次被拉平。",
-        "implication": "性价比模型正快速商品化，做 agent 应用的团队可考虑把默认档位下移，把省下的预算投向工具与编排。",
-        "sources": [
-          {
-            "name": "VentureBeat",
-            "url": "https://venturebeat.com/technology/anthropic-launches-claude-sonnet-5-at-a-steep-discount-to-its-top-model-as-the-company-races-toward-a-blockbuster-ipo"
-          },
-          {
-            "name": "@cursor_ai",
-            "url": "https://x.com/cursor_ai/status/2072020786181988418"
-          }
-        ],
-        "tags": [
-          "模型发布",
-          "Anthropic",
-          "agentic",
-          "成本"
-        ],
-        "signal_strength": 0.95
-      },
-      {
-        "title": "特朗普政府撤销对 Anthropic Mythos/Fable 模型的出口限制，Fable 5 将全球恢复访问",
-        "signal_text": "据 TechCrunch 与 The Verge，特朗普政府撤销了此前对 Anthropic Mythos、Fable 模型的限制；Anthropic 称将于本周三起在 Claude 平台面向全球恢复 Fable 5 访问，并在 AWS、Google Cloud、Microsoft 重新开放。此前该系列曾因美出口管制被暂停。",
-        "insight": "美国 AI 出口政策反复无常，模型可用性成了地缘变量。",
-        "implication": "闭源模型的政策不确定性正推高开源替代的吸引力，多模型容灾与快速切换值得作为默认架构。",
-        "sources": [
-          {
-            "name": "TechCrunch",
-            "url": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/"
-          },
-          {
-            "name": "The Verge",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back"
+            "name": "SCMP via Techmeme",
+            "url": "https://www.techmeme.com/260705/p9#a260705p9"
           }
         ],
         "tags": [
           "监管",
-          "Anthropic",
-          "出口管制",
-          "开源替代"
+          "中国",
+          "拟人化AI",
+          "豆包",
+          "通义"
         ],
         "signal_strength": 0.85
       },
       {
-        "title": "AI 推理芯片初创 Etched 两年内造出把注意力硬编码进硅片的推理芯片，号称把智能成本降约 10 倍",
-        "signal_text": "多位知名研究者盛赞 AI 推理芯片公司 Etched：Together AI 的 Tri Dao（获 676 likes / 6.3 万 views）称其两年内就把 attention 直接硬编码进硅片、达到很高 MFU；投资人 @mathemagic1an 补充其用集群级内存做到 SRAM 的延迟、HBM 的成本，声称将把推理/智能成本降低约 10 倍。",
-        "insight": "专用推理硅片开始正面挑战通用 GPU 的成本结构。",
-        "implication": "推理侧硬件的分化正在打开端侧与垂直 Agent 的成本窗口，早期做轻量推理基础设施的团队值得关注。",
+        "title": "Amazon 将停收 Mechanical Turk 新客户，众包标注时代走向收尾",
+        "signal_text": "据 TechCrunch 报道，Amazon 将停止接受众包平台 Mechanical Turk 的新客户注册。MTurk 运营约二十年，长期是 AI 行业数据标注与人工任务外包的标志性基础设施，TechCrunch 评论称「这可能是 MTurk 的最后时光」。",
+        "insight": "通用众包标注被 AI 辅助标注与专家数据取代，一个训练数据时代落幕。",
+        "implication": "数据生产正向高价值专家数据与合成数据迁移，Scale/Surge 之外的专家数据网络仍有创业空间。",
         "sources": [
           {
-            "name": "@tri_dao",
-            "url": "https://x.com/tri_dao/status/2071974600548958480"
-          },
-          {
-            "name": "@mathemagic1an",
-            "url": "https://x.com/mathemagic1an/status/2071980787172270127"
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/"
           }
         ],
         "tags": [
-          "AI芯片",
-          "推理成本",
-          "硬件",
-          "Etched"
+          "Amazon",
+          "数据标注",
+          "MTurk",
+          "众包"
         ],
-        "signal_strength": 0.82
+        "signal_strength": 0.8
       },
       {
-        "title": "推理成本继续坍缩：OpenAI 称已把部分模型推理成本砍半，NVIDIA Blackwell 把 DeepSeek V4 的 token 成本降至 1/5",
-        "signal_text": "据 The Information，OpenAI 工程师发现新优化，将部分现有模型的推理成本降低一半以上。NVIDIA 同期称，仅靠 Blackwell 上的软件优化，一个月内把 DeepSeek V4 性能提升最高 5 倍、token 成本降到此前约 1/5（获 9 万+ views）。",
-        "insight": "软件侧优化仍在持续压低单 token 成本，拐点尚未见底。",
-        "implication": "推理越来越不构成瓶颈，价值正从「能不能跑得起」转向「编排与产品」，重资产押注推理算力的策略风险上升。",
+        "title": "Tesla Robotaxi 在迈阿密去掉安全员运营，年底目标扩到 12 个州",
+        "signal_text": "据 The Information 报道，Tesla 在迈阿密上线无安全员的 Robotaxi 服务，这是其第五个运营城市，并计划到 2026 年底扩展至美国约 12 个州。",
+        "insight": "Robotaxi 竞争进入「去安全员＋跨州复制」的规模化阶段。",
+        "implication": "自动驾驶的商业化叙事重新加速，可关注车队运营、远程接管与保险定价等配套环节。",
+        "sources": [
+          {
+            "name": "The Information via Techmeme",
+            "url": "https://www.techmeme.com/260705/p10#a260705p10"
+          }
+        ],
+        "tags": [
+          "Tesla",
+          "Robotaxi",
+          "自动驾驶"
+        ],
+        "signal_strength": 0.8
+      },
+      {
+        "title": "Palantir 称部分美国政府客户弃用闭源模型，改用 Nvidia 开源 Nemotron",
+        "signal_text": "据 The Information 报道，大数据分析公司 Palantir 的 CEO Alex Karp 称，部分美国政府客户已从闭源商业模型切换到 Nvidia 开源的 Nemotron 系列模型，卖点是把敏感工作留在可信的应用层内，而非直接依赖 OpenAI 或 Anthropic。",
+        "insight": "敏感场景的信任卖点从「最强模型」转向「开源模型＋可控应用层」，应用层拿走议价权。",
+        "implication": "开源模型加可信应用层的组合正在敏感行业验证商业模式，做行业应用层的公司可借此摆脱模型商绑定。",
         "sources": [
           {
             "name": "The Information",
-            "url": "https://x.com/theinformation/status/2071979609378140542"
-          },
-          {
-            "name": "@nvidia",
-            "url": "https://x.com/nvidia/status/2071979909199577560"
+            "url": "https://x.com/theinformation/status/2073806621088628915"
           }
         ],
         "tags": [
-          "推理成本",
-          "OpenAI",
-          "NVIDIA",
+          "Palantir",
+          "Nvidia",
+          "Nemotron",
+          "开源模型",
+          "政府"
+        ],
+        "signal_strength": 0.78
+      },
+      {
+        "title": "The Information：模型路由器成为企业压缩 AI 成本的主流选择",
+        "signal_text": "据 The Information 报道，模型路由器（model router）正成为企业削减 AI 成本的首选方式——把简单任务分流给便宜模型。报道认为路由的兴起会让客户的 token 支出更有纪律，对前沿模型厂商形成定价压力。",
+        "insight": "路由层正成为多模型时代的价值捕获点，token 支出进入纪律化阶段。",
+        "implication": "前沿模型商的定价权被路由稀释，路由/网关类基础设施的创业与投资窗口值得关注。",
+        "sources": [
+          {
+            "name": "The Information",
+            "url": "https://x.com/theinformation/status/2073821717886062970"
+          }
+        ],
+        "tags": [
+          "模型路由",
+          "成本",
           "基础设施"
         ],
-        "signal_strength": 0.85
+        "signal_strength": 0.75
       },
       {
-        "title": "AI 攻入科研：Anthropic 推出 Claude Science，OpenAI 发布生物研究基准 GeneBench-Pro",
-        "signal_text": "据 MIT Technology Review，Anthropic 面向药企与科研者推出新旗舰产品 Claude Science，可像 Claude Code 之于软件工程那样，按高层指令自主完成科研工作。同日 OpenAI 发布 GeneBench-Pro（获 2600+ likes / 35 万 views），评测 agent 处理杂乱生物数据、选择分析路径与做研究判断的能力。",
-        "insight": "科研成为继编程之后 agent 的下一个高价值垂直战场。",
-        "implication": "「为某个专业领域造自主 agent + 配套 benchmark」正在成为范式，垂直科研/专业服务是值得探索的创业方向。",
+        "title": "Claude Science 的开源替代品数日内密集出现，主打 local-first",
+        "signal_text": "GitHub 趋势榜短期内出现多个对标 Anthropic Claude Science 的开源项目：ai4s-research/open-science（153 stars）与 synthetic-sciences/openscience（139 stars），均主打 local-first、模型无关的 AI 科研工作台，基于 Tauri/MCP 与 agent skills 构建。",
+        "insight": "爆款 AI 产品形态从发布到被开源复刻只需数日，形态本身不构成护城河。",
+        "implication": "产品形态红利窗口持续缩短，闭源产品可考虑把壁垒押在数据、分发与工作流深度上而非界面形态。",
         "sources": [
           {
-            "name": "MIT Technology Review",
-            "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/"
+            "name": "GitHub - open-science",
+            "url": "https://github.com/ai4s-research/open-science"
           },
           {
-            "name": "@OpenAI",
-            "url": "https://x.com/OpenAI/status/2072004836674167294"
+            "name": "GitHub - openscience",
+            "url": "https://github.com/synthetic-sciences/openscience"
           }
         ],
         "tags": [
-          "AI for Science",
-          "Anthropic",
-          "OpenAI",
-          "Agent"
-        ],
-        "signal_strength": 0.85
-      },
-      {
-        "title": "Stanford 研究：71.3% 的 ChatGPT 查询本地模型即可准确回答",
-        "signal_text": "HuggingFace CEO Clement Delangue 引用 Stanford 研究（获 900+ likes / 7 万 views）称，71.3% 的 ChatGPT 查询本地模型即可准确回答，并推测大量企业 AI 负载也可本地免费运行、同时降低数据外泄风险。",
-        "insight": "多数日常查询并不需要 frontier 模型，「本地优先」的经济性被量化。",
-        "implication": "本地/小模型正在从边缘走向主力，做端侧推理与本地部署工具链的团队面临明确窗口。",
-        "sources": [
-          {
-            "name": "@ClementDelangue",
-            "url": "https://x.com/ClementDelangue/status/2071951499660292496"
-          }
-        ],
-        "tags": [
-          "本地模型",
           "开源",
-          "成本",
-          "隐私"
-        ],
-        "signal_strength": 0.8
-      },
-      {
-        "title": "Morgan Stanley 靠「让 agent 更不自主」把最高风险的对账工作砍掉一半",
-        "signal_text": "据 VentureBeat，Morgan Stanley 把 AI agent 用到银行最讲精度、最赶 deadline 的损益（P&L）对账上，工作量砍半；关键做法反直觉——通过让系统更少自主、保持人类紧密在环来实现。",
-        "insight": "高风险金融场景里，agent 的价值来自受控，而非放任自主。",
-        "implication": "「半自主 + 强审计」可能才是 agent 进入严肃业务的正确形态，做 agent 编排的团队可把人审/审计节点当默认能力而非附加项。",
-        "sources": [
-          {
-            "name": "VentureBeat",
-            "url": "https://venturebeat.com/orchestration/morgan-stanley-cut-its-riskiest-reconciliation-job-in-half-by-making-its-agents-less-autonomous"
-          }
-        ],
-        "tags": [
-          "企业AI",
-          "Agent",
-          "金融科技",
-          "人机协同"
-        ],
-        "signal_strength": 0.82
-      },
-      {
-        "title": "Ramp 与 Box 数据：企业 AI 采用越多，反而招得越多",
-        "signal_text": "据 Ramp 就业数据（HN 热议）与 Box CEO Aaron Levie 引用的 1600+ 家中大型企业调研（获 175 likes / 4.7 万 views），AI 采用度越高的公司，员工人数增长反而越快，与「AI 取代岗位」的普遍预期相反。",
-        "insight": "至少现阶段，AI 采用与扩张同向，而非替代。",
-        "implication": "「AI 掏空岗位」的叙事被数据挑战，做企业 AI 的团队可用 ROI 与增长证据、而非降本恐惧来做采用说服。",
-        "sources": [
-          {
-            "name": "Ramp（via Hacker News）",
-            "url": "https://ramp.com/data/ai-jobs-impact"
-          },
-          {
-            "name": "@levie",
-            "url": "https://x.com/levie/status/2071992799109824562"
-          }
-        ],
-        "tags": [
-          "企业AI",
-          "就业",
-          "ROI",
-          "采用"
-        ],
-        "signal_strength": 0.78
-      },
-      {
-        "title": "美参议院提出首个针对 AI agent 的广义监管框架",
-        "signal_text": "据 The Information，美国参议院提出一项新提案，试图建立首个全面治理 AI agent 的政策框架。",
-        "insight": "监管开始把「AI agent」当作独立治理对象，而非普通软件。",
-        "implication": "agent 的互操作、忠诚与责任边界将被立法定义，做 agent 平台的团队值得提前把审计与可追溯能力做进架构。",
-        "sources": [
-          {
-            "name": "The Information",
-            "url": "https://x.com/theinformation/status/2072017383250674013"
-          }
-        ],
-        "tags": [
-          "监管",
-          "AI Agent",
-          "政策"
+          "Claude Science",
+          "AI4Science",
+          "local-first"
         ],
         "signal_strength": 0.72
       },
       {
-        "title": "Yann LeCun 团队发布 AdaJEPA：可自适应的隐空间世界模型",
-        "signal_text": "Yann LeCun 与 Mengye Ren 等（Meta FAIR / NYU）在 arXiv 发布 AdaJEPA，一种自适应隐空间世界模型，针对隐空间世界模型在不同任务上固定表示的局限做改进，用于从高维观测做规划。",
-        "insight": "LeCun 持续押注 JEPA/世界模型路线，与主流自回归大模型分道。",
-        "implication": "世界模型是 agent 具身与规划能力的潜在底座，值得作为长期技术雷达跟踪，而非短期产品化押注。",
+        "title": "KKR 支持的 Helix 携 100 亿美元寻购美国数据中心",
+        "signal_text": "据 The Information 报道，KKR 支持的 Helix 正在美国寻找数据中心收购标的，以启动其 AI 基础设施布局；该项目背后有超过 100 亿美元资金，试图在超大规模云厂商需求降温前抢先清除瓶颈。",
+        "insight": "PE 巨头开始用并购而非新建的方式抢占 AI 数据中心产能，卡位窗口意识明显。",
+        "implication": "AI 基础设施进入金融化阶段，存量数据中心资产的估值与整合机会值得投资者留意。",
         "sources": [
           {
-            "name": "arXiv",
-            "url": "https://arxiv.org/abs/2606.32026v1"
+            "name": "The Information",
+            "url": "https://x.com/theinformation/status/2073791519379591372"
           }
         ],
         "tags": [
-          "世界模型",
-          "LeCun",
-          "研究",
-          "JEPA"
+          "KKR",
+          "数据中心",
+          "AI基础设施",
+          "并购"
         ],
-        "signal_strength": 0.7
+        "signal_strength": 0.68
       }
     ]
   },
@@ -24522,6 +24299,637 @@
               "企业AI"
             ],
             "signal_strength": 0.77
+          }
+        ]
+      }
+    },
+    {
+      "week": "2026-W26",
+      "days": {
+        "2026-06-29": [
+          {
+            "title": "DeepSeek 完成 74 亿美元融资，被 Anthropic 的 Mythos 预览惊到「需要更多钱才能竞争」",
+            "signal_text": "据 The Information 独家报道，DeepSeek 完成 74 亿美元融资。CEO 梁文锋在看过 Anthropic 的 Mythos 预览后认定，中国头部 AI 实验室需要远超此前的资金量才能维持竞争。",
+            "insight": "前沿模型的资本门槛再次抬高，中国头部实验室从「效率叙事」转入重资本军备竞赛。",
+            "implication": "国产前沿仍是「烧钱换代差」的游戏，可以关注押注国产算力、推理优化与开源生态的早期标的，性价比红利仍在。",
+            "sources": [
+              {
+                "name": "The Information (@theinformation)",
+                "url": "https://x.com/theinformation/status/2071262396727890323"
+              }
+            ],
+            "tags": [
+              "DeepSeek",
+              "融资",
+              "中国AI",
+              "资本"
+            ],
+            "signal_strength": 0.9
+          },
+          {
+            "title": "内存价格预计 Q3 涨 40-50%，华尔街把美光 Micron 视为「下一个英伟达」",
+            "signal_text": "投行 Jefferies 预计 DRAM 等内存价格 2026 Q3 上涨 40-50%、Q4 再涨 30-40%，并称中国内存厂商短期难提供实质缓解（据 Wccftech/Techmeme）；TechCrunch 同日报道华尔街正把 Micron 视为「下一个英伟达」。",
+            "insight": "AI 涨价压力从 GPU 蔓延到内存，算力成本曲线下半年可能逆势抬升。",
+            "implication": "内存超级周期利好存储产业链，但会抬高推理单位成本；可以关注小模型、端侧与量化路线作为成本对冲方向。",
+            "sources": [
+              {
+                "name": "Techmeme / Wccftech",
+                "url": "https://www.techmeme.com/260628/p16#a260628p16"
+              },
+              {
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/"
+              }
+            ],
+            "tags": [
+              "内存",
+              "Micron",
+              "算力成本",
+              "半导体"
+            ],
+            "signal_strength": 0.85
+          },
+          {
+            "title": "中国超算 LineShine 登顶 TOP500，自 2018 年来首次夺回全球最快宝座",
+            "signal_text": "据 The Verge 报道，尽管面临高性能计算部件的对华出口限制，中国超算 LineShine 仍把 El Capitan 挤下 TOP500 榜首，这是中国自 2018 年以来首次重夺全球最快超算称号。",
+            "insight": "出口管制未能锁死中国高端算力，地缘技术封锁的有效性出现裂缝。",
+            "implication": "算力自主化叙事强化，可以关注国产 GPU/互联、超算软件栈与非美技术栈的长期机会。",
+            "sources": [
+              {
+                "name": "The Verge",
+                "url": "https://www.theverge.com/tech/958768/china-claims-the-worlds-fastest-supercomputer"
+              }
+            ],
+            "tags": [
+              "超算",
+              "TOP500",
+              "算力",
+              "地缘"
+            ],
+            "signal_strength": 0.8
+          },
+          {
+            "title": "[Update] 开源 GLM-5.2 被指在网络安全/找漏洞场景已能匹配 Anthropic Mythos",
+            "signal_text": "据 The Verge 报道，智谱（Z.ai）的开源权重模型 GLM-5.2 被部分研究者称在某些 bug-finding 与网络安全场景下已匹配 Anthropic Mythos，尽管通用任务仍落后于 Anthropic 与 OpenAI。Box CEO Aaron Levie 称很快会出现开放、人人可得的 mythos 级网络安全模型（获 540+ likes、10 万+ 浏览）。",
+            "insight": "开源权重在「安全/找漏洞」这类高价值垂直能力上逼平闭源，护城河被局部击穿。",
+            "implication": "开源前沿能力外溢到安全攻防，是双刃剑；可以关注基于开源权重的本地安全审计、红队工具创业窗口。",
+            "sources": [
+              {
+                "name": "The Verge",
+                "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity"
+              },
+              {
+                "name": "Aaron Levie (@levie)",
+                "url": "https://x.com/levie/status/2071253118252356001"
+              }
+            ],
+            "tags": [
+              "GLM-5.2",
+              "开源模型",
+              "网络安全",
+              "开闭源差距"
+            ],
+            "signal_strength": 0.85
+          },
+          {
+            "title": "The Information：Google 重组 AI 编程突击队，全力追赶 Anthropic",
+            "signal_text": "据 The Information 独家报道，Google 正重组其新设的 AI 编程工具突击队，以追赶在「最赚钱的 AI 应用」（编程 agent）上保持领先的 Anthropic。该推文获 4.7 万浏览。",
+            "insight": "编程 agent 被巨头公认为当前变现确定性最高的 AI 应用，竞争白热化。",
+            "implication": "coding agent 赛道格局未定但天花板高，可以关注垂直语言/垂直行业的编码 agent 与配套评测、可观测工具的早期机会。",
+            "sources": [
+              {
+                "name": "The Information (@theinformation)",
+                "url": "https://x.com/theinformation/status/2071247292116467976"
+              }
+            ],
+            "tags": [
+              "Google",
+              "Anthropic",
+              "编程Agent",
+              "竞争格局"
+            ],
+            "signal_strength": 0.85
+          },
+          {
+            "title": "agent 自主重试惹祸：Anthropic 账单审计查出约 170 万美元多收，Codex 排查用量异常飙升",
+            "signal_text": "The Information 报道，对 Anthropic 客户账单的审计发现约 170 万美元错误多收，可能原因之一是某个 AI agent 不断重试任务。几乎同时 OpenAI Codex 团队周日进驻 war room 排查可能导致部分用户用量异常飙升的问题（OpenAI 高管 thsottiaux 发推获 2800+ likes）。",
+            "insight": "agent 自主循环把用量与成本从可预测项变成会失控的变量，计费可信度成新痛点。",
+            "implication": "agent 时代的「用量可归因、成本可控、账单可对账」是刚需，可以关注做 agent 可观测、用量治理与成本审计的工具型创业。",
+            "sources": [
+              {
+                "name": "The Information (@theinformation)",
+                "url": "https://x.com/theinformation/status/2071360628032184790"
+              },
+              {
+                "name": "Thomas (@thsottiaux), OpenAI",
+                "url": "https://x.com/thsottiaux/status/2071357473659707441"
+              }
+            ],
+            "tags": [
+              "Agent",
+              "计费",
+              "用量治理",
+              "可观测性"
+            ],
+            "signal_strength": 0.82
+          },
+          {
+            "title": "agent 化攻击浮出水面：欺诈分子规模化用自主 agent，prompt injection 专打 agent/RAG/模型路由",
+            "signal_text": "行为风控公司 BioCatch 2026 年 6 月报告（调研 1440 名反欺诈/金融犯罪/风险从业者）称犯罪分子正越来越多部署自主 agent 规模化发起攻击；VentureBeat 同期报道 prompt injection 正利用企业 AI 设计缺陷，专门瞄准 agents、RAG 管线与 model router。",
+            "insight": "「自然语言即可改写系统行为」成了企业 AI 的头号攻击面，agent 安全从合规话题变成现实威胁。",
+            "implication": "agent 安全是确定性增长的新赛道，可以关注做注入检测、agent 防火墙、行为风控与红队评测的安全创业。",
+            "sources": [
+              {
+                "name": "VentureBeat",
+                "url": "https://venturebeat.com/security/prompt-injection-is-exploiting-enterprise-ais-biggest-design-flaws-by-targeting-agents-rag-pipelines-and-model-routers"
+              },
+              {
+                "name": "Fintech News Singapore",
+                "url": "https://fintechnews.sg/133560/ai/the-rise-of-agentic-ai-in-cyber-fraud-and-scams/"
+              }
+            ],
+            "tags": [
+              "AI安全",
+              "prompt injection",
+              "agentic fraud",
+              "RAG"
+            ],
+            "signal_strength": 0.82
+          },
+          {
+            "title": "主权 AI 升温：奥地利游说欧盟在本土托管 Anthropic",
+            "signal_text": "据 Bloomberg（经 Techmeme）报道，奥地利正推动欧盟考虑在其境内托管 Anthropic，凸显欧盟在对美访问受限背景下、提升对美中科技独立性的努力。",
+            "insight": "模型「在哪部署、归谁管」成为地缘与合规焦点，主权 AI 从口号走向落地诉求。",
+            "implication": "数据驻留、主权云与可私有化部署的需求上行，可以关注面向受监管行业/地区的合规化部署与本地化服务机会。",
+            "sources": [
+              {
+                "name": "Bloomberg / Techmeme",
+                "url": "https://www.techmeme.com/260628/p13#a260628p13"
+              }
+            ],
+            "tags": [
+              "主权AI",
+              "欧盟",
+              "Anthropic",
+              "私有化部署"
+            ],
+            "signal_strength": 0.78
+          },
+          {
+            "title": "人形机器人 Apptronik 融资约 10 亿美元、估值约 50 亿，奔驰参投并已在工厂试用",
+            "signal_text": "据 Bloomberg（经 Techmeme）报道，人形机器人公司 Apptronik 以约 50 亿美元估值融资约 10 亿美元，投资方包括奔驰（Mercedes-Benz）；奔驰工厂已部署少量 Apptronik 的 Apollo 机器人。",
+            "insight": "人形机器人从演示走向工厂实地试用，车企用资本+订单双重下注具身智能。",
+            "implication": "具身智能资本热度持续，可以关注机器人「大脑」（VLA 模型、仿真数据）与零部件供应链的投资机会。",
+            "sources": [
+              {
+                "name": "Bloomberg / Techmeme",
+                "url": "https://www.techmeme.com/260628/p15#a260628p15"
+              }
+            ],
+            "tags": [
+              "人形机器人",
+              "Apptronik",
+              "具身智能",
+              "融资"
+            ],
+            "signal_strength": 0.8
+          },
+          {
+            "title": "Ford 因 AI 未达预期重新雇回资深「灰胡子」工程师",
+            "signal_text": "据 TechCrunch 报道，福特（Ford）在 AI 未能产出高质量成果后重新雇回资深工程师，其高管坦言「我们曾错误地以为，只要引入 AI 就能产出高质量产品」。",
+            "insight": "「引入 AI 即提质」的幻觉被现实纠偏，深度领域经验仍是质量兜底。",
+            "implication": "企业 AI 进入「祛魅」阶段，可以关注做人机协作流程、专家在环（human-in-the-loop）与质量验证工具的务实型机会。",
+            "sources": [
+              {
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/"
+              }
+            ],
+            "tags": [
+              "企业AI",
+              "AI落地",
+              "ROI",
+              "人机协作"
+            ],
+            "signal_strength": 0.75
+          }
+        ],
+        "2026-07-01": [
+          {
+            "title": "Anthropic 发布 Claude Sonnet 5：中端定价冲击 agentic 市场，Cursor/Perplexity/VS Code 当天集成",
+            "signal_text": "Anthropic 发布 Claude Sonnet 5，主打接近旗舰的 agentic 能力但定价压到中端（据 VentureBeat）。当天生态大规模接入：Cursor 称其 CursorBench 从 Sonnet 4.6 的 49% 升至 57%（获 2300+ likes / 28 万 views），Perplexity 将其作为 Computer 的 orchestrator 模型，VS Code、Box AI 企业评测也同步上线。",
+            "insight": "旗舰级 agentic 能力下沉到中端价位，成本曲线又一次被拉平。",
+            "implication": "性价比模型正快速商品化，做 agent 应用的团队可考虑把默认档位下移，把省下的预算投向工具与编排。",
+            "sources": [
+              {
+                "name": "VentureBeat",
+                "url": "https://venturebeat.com/technology/anthropic-launches-claude-sonnet-5-at-a-steep-discount-to-its-top-model-as-the-company-races-toward-a-blockbuster-ipo"
+              },
+              {
+                "name": "@cursor_ai",
+                "url": "https://x.com/cursor_ai/status/2072020786181988418"
+              }
+            ],
+            "tags": [
+              "模型发布",
+              "Anthropic",
+              "agentic",
+              "成本"
+            ],
+            "signal_strength": 0.95
+          },
+          {
+            "title": "特朗普政府撤销对 Anthropic Mythos/Fable 模型的出口限制，Fable 5 将全球恢复访问",
+            "signal_text": "据 TechCrunch 与 The Verge，特朗普政府撤销了此前对 Anthropic Mythos、Fable 模型的限制；Anthropic 称将于本周三起在 Claude 平台面向全球恢复 Fable 5 访问，并在 AWS、Google Cloud、Microsoft 重新开放。此前该系列曾因美出口管制被暂停。",
+            "insight": "美国 AI 出口政策反复无常，模型可用性成了地缘变量。",
+            "implication": "闭源模型的政策不确定性正推高开源替代的吸引力，多模型容灾与快速切换值得作为默认架构。",
+            "sources": [
+              {
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/"
+              },
+              {
+                "name": "The Verge",
+                "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back"
+              }
+            ],
+            "tags": [
+              "监管",
+              "Anthropic",
+              "出口管制",
+              "开源替代"
+            ],
+            "signal_strength": 0.85
+          },
+          {
+            "title": "AI 推理芯片初创 Etched 两年内造出把注意力硬编码进硅片的推理芯片，号称把智能成本降约 10 倍",
+            "signal_text": "多位知名研究者盛赞 AI 推理芯片公司 Etched：Together AI 的 Tri Dao（获 676 likes / 6.3 万 views）称其两年内就把 attention 直接硬编码进硅片、达到很高 MFU；投资人 @mathemagic1an 补充其用集群级内存做到 SRAM 的延迟、HBM 的成本，声称将把推理/智能成本降低约 10 倍。",
+            "insight": "专用推理硅片开始正面挑战通用 GPU 的成本结构。",
+            "implication": "推理侧硬件的分化正在打开端侧与垂直 Agent 的成本窗口，早期做轻量推理基础设施的团队值得关注。",
+            "sources": [
+              {
+                "name": "@tri_dao",
+                "url": "https://x.com/tri_dao/status/2071974600548958480"
+              },
+              {
+                "name": "@mathemagic1an",
+                "url": "https://x.com/mathemagic1an/status/2071980787172270127"
+              }
+            ],
+            "tags": [
+              "AI芯片",
+              "推理成本",
+              "硬件",
+              "Etched"
+            ],
+            "signal_strength": 0.82
+          },
+          {
+            "title": "推理成本继续坍缩：OpenAI 称已把部分模型推理成本砍半，NVIDIA Blackwell 把 DeepSeek V4 的 token 成本降至 1/5",
+            "signal_text": "据 The Information，OpenAI 工程师发现新优化，将部分现有模型的推理成本降低一半以上。NVIDIA 同期称，仅靠 Blackwell 上的软件优化，一个月内把 DeepSeek V4 性能提升最高 5 倍、token 成本降到此前约 1/5（获 9 万+ views）。",
+            "insight": "软件侧优化仍在持续压低单 token 成本，拐点尚未见底。",
+            "implication": "推理越来越不构成瓶颈，价值正从「能不能跑得起」转向「编排与产品」，重资产押注推理算力的策略风险上升。",
+            "sources": [
+              {
+                "name": "The Information",
+                "url": "https://x.com/theinformation/status/2071979609378140542"
+              },
+              {
+                "name": "@nvidia",
+                "url": "https://x.com/nvidia/status/2071979909199577560"
+              }
+            ],
+            "tags": [
+              "推理成本",
+              "OpenAI",
+              "NVIDIA",
+              "基础设施"
+            ],
+            "signal_strength": 0.85
+          },
+          {
+            "title": "AI 攻入科研：Anthropic 推出 Claude Science，OpenAI 发布生物研究基准 GeneBench-Pro",
+            "signal_text": "据 MIT Technology Review，Anthropic 面向药企与科研者推出新旗舰产品 Claude Science，可像 Claude Code 之于软件工程那样，按高层指令自主完成科研工作。同日 OpenAI 发布 GeneBench-Pro（获 2600+ likes / 35 万 views），评测 agent 处理杂乱生物数据、选择分析路径与做研究判断的能力。",
+            "insight": "科研成为继编程之后 agent 的下一个高价值垂直战场。",
+            "implication": "「为某个专业领域造自主 agent + 配套 benchmark」正在成为范式，垂直科研/专业服务是值得探索的创业方向。",
+            "sources": [
+              {
+                "name": "MIT Technology Review",
+                "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/"
+              },
+              {
+                "name": "@OpenAI",
+                "url": "https://x.com/OpenAI/status/2072004836674167294"
+              }
+            ],
+            "tags": [
+              "AI for Science",
+              "Anthropic",
+              "OpenAI",
+              "Agent"
+            ],
+            "signal_strength": 0.85
+          },
+          {
+            "title": "Stanford 研究：71.3% 的 ChatGPT 查询本地模型即可准确回答",
+            "signal_text": "HuggingFace CEO Clement Delangue 引用 Stanford 研究（获 900+ likes / 7 万 views）称，71.3% 的 ChatGPT 查询本地模型即可准确回答，并推测大量企业 AI 负载也可本地免费运行、同时降低数据外泄风险。",
+            "insight": "多数日常查询并不需要 frontier 模型，「本地优先」的经济性被量化。",
+            "implication": "本地/小模型正在从边缘走向主力，做端侧推理与本地部署工具链的团队面临明确窗口。",
+            "sources": [
+              {
+                "name": "@ClementDelangue",
+                "url": "https://x.com/ClementDelangue/status/2071951499660292496"
+              }
+            ],
+            "tags": [
+              "本地模型",
+              "开源",
+              "成本",
+              "隐私"
+            ],
+            "signal_strength": 0.8
+          },
+          {
+            "title": "Morgan Stanley 靠「让 agent 更不自主」把最高风险的对账工作砍掉一半",
+            "signal_text": "据 VentureBeat，Morgan Stanley 把 AI agent 用到银行最讲精度、最赶 deadline 的损益（P&L）对账上，工作量砍半；关键做法反直觉——通过让系统更少自主、保持人类紧密在环来实现。",
+            "insight": "高风险金融场景里，agent 的价值来自受控，而非放任自主。",
+            "implication": "「半自主 + 强审计」可能才是 agent 进入严肃业务的正确形态，做 agent 编排的团队可把人审/审计节点当默认能力而非附加项。",
+            "sources": [
+              {
+                "name": "VentureBeat",
+                "url": "https://venturebeat.com/orchestration/morgan-stanley-cut-its-riskiest-reconciliation-job-in-half-by-making-its-agents-less-autonomous"
+              }
+            ],
+            "tags": [
+              "企业AI",
+              "Agent",
+              "金融科技",
+              "人机协同"
+            ],
+            "signal_strength": 0.82
+          },
+          {
+            "title": "Ramp 与 Box 数据：企业 AI 采用越多，反而招得越多",
+            "signal_text": "据 Ramp 就业数据（HN 热议）与 Box CEO Aaron Levie 引用的 1600+ 家中大型企业调研（获 175 likes / 4.7 万 views），AI 采用度越高的公司，员工人数增长反而越快，与「AI 取代岗位」的普遍预期相反。",
+            "insight": "至少现阶段，AI 采用与扩张同向，而非替代。",
+            "implication": "「AI 掏空岗位」的叙事被数据挑战，做企业 AI 的团队可用 ROI 与增长证据、而非降本恐惧来做采用说服。",
+            "sources": [
+              {
+                "name": "Ramp（via Hacker News）",
+                "url": "https://ramp.com/data/ai-jobs-impact"
+              },
+              {
+                "name": "@levie",
+                "url": "https://x.com/levie/status/2071992799109824562"
+              }
+            ],
+            "tags": [
+              "企业AI",
+              "就业",
+              "ROI",
+              "采用"
+            ],
+            "signal_strength": 0.78
+          },
+          {
+            "title": "美参议院提出首个针对 AI agent 的广义监管框架",
+            "signal_text": "据 The Information，美国参议院提出一项新提案，试图建立首个全面治理 AI agent 的政策框架。",
+            "insight": "监管开始把「AI agent」当作独立治理对象，而非普通软件。",
+            "implication": "agent 的互操作、忠诚与责任边界将被立法定义，做 agent 平台的团队值得提前把审计与可追溯能力做进架构。",
+            "sources": [
+              {
+                "name": "The Information",
+                "url": "https://x.com/theinformation/status/2072017383250674013"
+              }
+            ],
+            "tags": [
+              "监管",
+              "AI Agent",
+              "政策"
+            ],
+            "signal_strength": 0.72
+          },
+          {
+            "title": "Yann LeCun 团队发布 AdaJEPA：可自适应的隐空间世界模型",
+            "signal_text": "Yann LeCun 与 Mengye Ren 等（Meta FAIR / NYU）在 arXiv 发布 AdaJEPA，一种自适应隐空间世界模型，针对隐空间世界模型在不同任务上固定表示的局限做改进，用于从高维观测做规划。",
+            "insight": "LeCun 持续押注 JEPA/世界模型路线，与主流自回归大模型分道。",
+            "implication": "世界模型是 agent 具身与规划能力的潜在底座，值得作为长期技术雷达跟踪，而非短期产品化押注。",
+            "sources": [
+              {
+                "name": "arXiv",
+                "url": "https://arxiv.org/abs/2606.32026v1"
+              }
+            ],
+            "tags": [
+              "世界模型",
+              "LeCun",
+              "研究",
+              "JEPA"
+            ],
+            "signal_strength": 0.7
+          }
+        ],
+        "2026-07-02": [
+          {
+            "title": "Square Launches ChatGPT and Claude Plugins for Ordering, Embedding AI Agents into Payments",
+            "signal_text": "Square 正式推出 ChatGPT app 和 Claude 插件，使消费者可直接在 AI 平台内发现餐厅并下单，商家无需任何技术对接即可接收来自用户及 AI agent 的订单，这是 AI agent 在商业交易场景中的重大落地，标志着支付/企效领域 AI agent 集成的新范式。",
+            "signal_strength": 0.86,
+            "sources": [
+              {
+                "name": "Square introduces ChatGPT and Claude integrations for sellers",
+                "url": "https://x.com/pymnts/status/2072388691440398451"
+              },
+              {
+                "name": "Square launch blog on VentureBeat",
+                "url": "https://venturebeat.com/technology/restaurants-can-now-accept-orders-placed-directly-from-chatgpt-and-claude-thanks-to-squares-new-low-fee-no-setup-integration"
+              }
+            ],
+            "tags": [
+              "重要产品与模型发布",
+              "AI Agent",
+              "AI支付/金融科技",
+              "新交互范式"
+            ],
+            "raw_item_indices": [
+              41,
+              46
+            ]
+          },
+          {
+            "title": "GPT-5.5 Pro Solves 9 Frontier Math Problems, Signaling AI Reasoning Leap",
+            "signal_text": "AI 研究员 Derya 指出，OpenAI 的 GPT-5.5 Pro 近日解决了 9 个前沿数学问题，这一突破性进展被许多 AI 新闻所忽视，预计该能力后续将延伸至物理等其他科研领域，表明大模型在数学推理方面取得了重大进展。",
+            "signal_strength": 0.79,
+            "sources": [
+              {
+                "name": "AI Researcher Derya on solving frontier math problems",
+                "url": "https://x.com/DeryaTR_/status/2072359372357873831"
+              }
+            ],
+            "tags": [
+              "技术突破",
+              "AI推理",
+              "科研自动化"
+            ],
+            "raw_item_indices": [
+              56
+            ]
+          },
+          {
+            "title": "Anthropic Develops Claude Agent for Microsoft Teams, Challenging Copilot",
+            "signal_text": "据 The Information 报道，Anthropic 已告知微软其计划为 Microsoft Teams 开发一个 Claude agent，此举直接挑战微软自家的 Copilot 在重要办公 app 中的地位，标志 AI agent 正从独立应用深入嵌入核心企业协作平台。",
+            "signal_strength": 0.78,
+            "sources": [
+              {
+                "name": "Anthropic plans Claude agent for Teams, per The Information",
+                "url": "https://x.com/theinformation/status/2072311796774408424"
+              }
+            ],
+            "tags": [
+              "头部公司战略动作",
+              "AI Agent",
+              "企业协作"
+            ],
+            "raw_item_indices": [
+              69
+            ]
+          },
+          {
+            "title": "Higgsfield AI in Talks for $300M-$500M Raise at $5B Valuation, AI Video Tool Market Heats Up",
+            "signal_text": "据 The Information 报道，AI 视频生成初创公司 Higgsfield AI 正在洽谈以 50 亿美元估值融资 3-5 亿美元，显示投资者和大科技公司对 AI 视频工具领域的兴趣重燃，该赛道竞争格局正在加速形成。",
+            "signal_strength": 0.75,
+            "sources": [
+              {
+                "name": "The Information on Higgsfield AI fundraising",
+                "url": "https://x.com/theinformation/status/2072394866999402624"
+              }
+            ],
+            "tags": [
+              "投资与资本动向",
+              "AI视频生成",
+              "新机会与创业方向"
+            ],
+            "raw_item_indices": [
+              44
+            ]
+          },
+          {
+            "title": "Meta Publishes AI Storage Blueprint at Scale (Meta Engineering Blog)",
+            "signal_text": "Meta 官方博客发布大规模 AI 存储蓝图，详细阐述为支撑不断加速的新模型发布周期（从数月缩短至数周），其如何在可靠性与速度之间平衡存储基础设施设计，这是头部公司 AI 基础设施深度架构的罕见公开，对行业架构师有重要参考价值。",
+            "signal_strength": 0.75,
+            "sources": [
+              {
+                "name": "Meta Engineering blog on AI Storage Blueprint",
+                "url": "https://engineering.fb.com/2026/07/01/data-infrastructure/metas-ai-storage-blueprint-at-scale/"
+              }
+            ],
+            "tags": [
+              "头部公司战略动作",
+              "AI基础设施",
+              "技术突破"
+            ],
+            "raw_item_indices": [
+              38
+            ]
+          },
+          {
+            "title": "GPU Cloud Pricings Volatile as Nvidia Server Rack Prices Swing 40% Weekly",
+            "signal_text": "据 The Information 报道，GPU 云提供商正面临成本预测困境，Nvidia 服务器机架价格变动周期从季度缩短至数周，某些部件价格周波动高达 40%，使 AI 算力市场更像大宗商品，对算力成本结构和中小 AI 公司构成重大挑战。",
+            "signal_strength": 0.74,
+            "sources": [
+              {
+                "name": "The Information on volatile GPU pricing",
+                "url": "https://x.com/theinformation/status/2072379785100103726"
+              }
+            ],
+            "tags": [
+              "产业链与算力/成本结构",
+              "AI基础设施",
+              "芯片与硬件"
+            ],
+            "raw_item_indices": [
+              48
+            ]
+          },
+          {
+            "title": "NVIDIA Quantizes GLM-5.2 to 4-bit FP4, Only 200G+ Storage Needed—Slam-Dunk for Local Deployment",
+            "signal_text": "NVIDIA 在 HuggingFace 发布 GLM-5.2-NVFP4，利用 Model Optimizer 将开源 GLM-5.2 量化为 4-bit FP4 精度（仅 200+ Likes，但下载量 13.6 万），极大降低大模型端侧/私有化部署的门槛，是推理效率的重要实践。",
+            "signal_strength": 0.74,
+            "sources": [
+              {
+                "name": "HuggingFace: nvidia/GLM-5.2-NVFP4",
+                "url": "https://huggingface.co/nvidia/GLM-5.2-NVFP4"
+              }
+            ],
+            "tags": [
+              "技术突破",
+              "开源生态",
+              "推理效率",
+              "端侧部署"
+            ],
+            "raw_item_indices": [
+              137
+            ]
+          },
+          {
+            "title": "Salesforce Bets Open AI Ecosystem on Slack, Yet Employees Fear Competition from Anthropic",
+            "signal_text": "据 The Information 报道，Salesforce 正押注开放的 AI 生态系统来强化 Slack，但内部员工担忧 Anthropic 的新产品会直接与 Slackbot 形成竞争，反映出企服生态中 AI 平台的“控制权”之争日趋激烈。",
+            "signal_strength": 0.72,
+            "sources": [
+              {
+                "name": "The Information on Salesforce and Slack AI strategy",
+                "url": "https://x.com/theinformation/status/2072319407640940665"
+              }
+            ],
+            "tags": [
+              "头部公司战略动作",
+              "企业AI应用",
+              "竞争格局"
+            ],
+            "raw_item_indices": [
+              66
+            ]
+          },
+          {
+            "title": "Open Source Coding Agent Kimi K2.7 Lands in GitHub Copilot",
+            "signal_text": "GitHub Changelog 宣布，阿里通义千问团队的 Kimi K2.7 代码模型现已可通过 GitHub Copilot 使用，将强大的开源 coding 能力直接集成到最流行的开发者工具中，是开源模型与商业开发平台融合的重要里程碑。",
+            "signal_strength": 0.72,
+            "sources": [
+              {
+                "name": "GitHub Changelog 官方发布",
+                "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/"
+              }
+            ],
+            "tags": [
+              "重要开源项目",
+              "开发者工具",
+              "头部公司战略动作"
+            ],
+            "raw_item_indices": [
+              13
+            ]
+          },
+          {
+            "title": "Senior SWE-Bench: New OSS Benchmark Assesses Agents as Senior Engineers",
+            "signal_text": "由 Snorkel AI 推出的 Senior SWE-Bench 开源基准测试发布（获 HN 54 points），旨在评估 coding agent 像高级工程师一样解决复杂 repo 级问题的能力，标志着对 AI agent 能力评估从“实习生”向“资深工程师”级别的升级。",
+            "signal_strength": 0.71,
+            "sources": [
+              {
+                "name": "Senior SWE-Bench announcement on Hacker News",
+                "url": "https://news.ycombinator.com/item?id=48755928"
+              },
+              {
+                "name": "Official site: senior-swe-bench.snorkel.ai",
+                "url": "https://senior-swe-bench.snorkel.ai/"
+              }
+            ],
+            "tags": [
+              "重要开源项目",
+              "AI Agent",
+              "开发者工具"
+            ],
+            "raw_item_indices": [
+              18
+            ]
           }
         ]
       }

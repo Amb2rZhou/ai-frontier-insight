@@ -2,7 +2,7 @@
 title: Salesforce
 type: company
 created: 2026-04-01
-updated: 2026-05-01
+updated: 2026-07-02
 ---
 
 # Salesforce
@@ -11,6 +11,7 @@ Enterprise CRM giant that has fully embraced AI agents, transforming its 27-year
 
 ## Timeline
 
+- **2026-07-02**: Salesforce Bets [[openai|Open AI]] Ecosystem on Slack, Yet Employees Fear Competition from [[anthropic|Anthropic]]
 - **2026-05-01**: Writer Launches [[agent-frameworks|Agent Framework]] That Acts Without Human Prompts, Taking on Enterprise Giants
 - **2026-04-23**: [[openai|OpenAI]] Launches Workspace Agents for Enterprise Automation · [VentureBeat](https://venturebeat.com/orchestration/openai-unveils-workspace-agents-a-successor-to-custom-gpts-for-enterprises-that-can-plug-directly-into-slack-salesforce-and-more) · [OpenAI Blog](https://openai.com/index/introducing-workspace-agents-in-chatgpt)
 - **2026-04-23**: Salesforce AI Research Addresses Calibration Issue in On-Policy Distillation · [arXiv (Salesforce AI Research)](https://huggingface.co/papers/2604.16830)

@@ -2,7 +2,7 @@
 title: Alibaba
 type: company
 created: 2026-02-25
-updated: 2026-06-05
+updated: 2026-07-02
 ---
 
 # Alibaba
@@ -11,6 +11,7 @@ Chinese tech giant and creator of the [[qwen|Qwen]] model family, a leading [[op
 
 ## Timeline
 
+- **2026-07-02**: Open Source Coding Agent Kimi K2.7 Lands in GitHub [[copilot|Copilot]]
 - **2026-06-05**: Alibaba Open-Sources AI-Powered Code Review CLI Tool 'Open Code Review'
 - **2026-06-03**: Alibaba Releases Qwen3.7-Plus: Multimodal LLM with Text, Video, and Image Input at Competitive Pricing
 - **2026-05-28**: Qwen3.5 Achieves Record 580 TPS on TokenSpeed Engine for [[agent-frameworks|Agentic]] Workloads

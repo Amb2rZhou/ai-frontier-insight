@@ -2,7 +2,7 @@
 title: RAG
 type: technology
 created: 2026-02-25
-updated: 2026-06-15
+updated: 2026-07-02
 ---
 
 # RAG
@@ -11,6 +11,8 @@ Retrieval-Augmented Generation and related techniques for grounding AI model out
 
 ## Timeline
 
+- **2026-07-02**: [[nvidia|NVIDIA]] Quantizes GLM-5.2 to 4-bit FP4, Only 200G+ Storage Needed—Slam-Dunk for Local Deployment
+- **2026-07-02**: [[meta|Meta]] Publishes AI Storage Blueprint at Scale (Meta Engineering Blog)
 - **2026-06-15**: [[meta|Meta]] Cuts Employee Token Usage and Pushes In-House AI Tools After Encouraging AI-Driven Impact
 - **2026-06-13**: CrewAI v1.14.7 Adds Pluggable Default Backends for Memory, Knowledge, and RAG
 - **2026-06-09**: Open-Source Search Agent Harness-1 Outperforms [[gpt|GPT-5]].4

@@ -2,7 +2,7 @@
 title: GPT
 type: product
 created: 2026-02-25
-updated: 2026-06-11
+updated: 2026-07-02
 ---
 
 # GPT
@@ -11,6 +11,8 @@ updated: 2026-06-11
 
 ## Timeline
 
+- **2026-07-02**: GPT-5.5 Pro Solves 9 Frontier Math Problems, Signaling AI Reasoning Leap
+- **2026-07-02**: Square Launches ChatGPT and [[claude|Claude]] Plugins for Ordering, Embedding AI Agents into Payments
 - **2026-06-11**: New 'Agents' Last Exam' Benchmark Shows GPT-5.5 Outperforming [[claude|Claude]] Fable 5
 - **2026-06-10**: Surge AI Reaches $1B Revenue: Bootstrapped Data Infrastructure for Frontier AI Labs
 - **2026-06-09**: Open-Source Search Agent Harness-1 Outperforms GPT-5.4

@@ -2,7 +2,7 @@
 title: Copilot
 type: product
 created: 2026-02-27
-updated: 2026-06-10
+updated: 2026-07-02
 ---
 
 # Copilot
@@ -11,6 +11,8 @@ updated: 2026-06-10
 
 ## Timeline
 
+- **2026-07-02**: Open Source Coding Agent Kimi K2.7 Lands in GitHub Copilot
+- **2026-07-02**: [[anthropic|Anthropic]] Develops [[claude|Claude]] Agent for [[microsoft|Microsoft]] Teams, Challenging Copilot
 - **2026-06-10**: [[anthropic|Anthropic]]'s Safety Gating Extends to Coding Agents: [[microsoft|Microsoft]] Azure and GitHub Copilot Integration, Fable 5 Degraded for Frontier LLM-Development
 - **2026-06-08**: Omnistack Agent: Platform-Agnostic 'One Full-Stack Engineer Brain' Adapter for All Major AI Chat Interfaces
 - **2026-06-08**: Omnistack Agent: Platform-Agnostic AI Engineer Compiled for Multiple Models

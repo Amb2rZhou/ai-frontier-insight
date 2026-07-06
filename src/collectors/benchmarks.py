@@ -14,14 +14,16 @@ RawItem signals when rankings change (new #1, new entries, significant moves).
 import json
 import os
 import re
-import subprocess
 import tempfile
 from datetime import datetime
 from typing import Dict, List, Optional
 from zoneinfo import ZoneInfo
 
+import requests
+
 from .base import BaseCollector, RawItem
 from ..utils.config import MEMORY_DIR, get_timezone
+from ..utils.http import robust_get, DEFAULT_UA
 
 SNAPSHOT_FILE = os.path.join(MEMORY_DIR, "benchmark_snapshots.json")
 
@@ -66,54 +68,44 @@ WATCHED_ORGS = [
 ]
 
 
-def _curl_json(url: str, timeout: int = 60) -> Optional[dict]:
-    """Fetch JSON via curl subprocess (bypasses LibreSSL issues)."""
-    cmd = [
-        "/usr/bin/curl", "-sS", "--max-time", str(timeout), "-L",
-        "-H", "User-Agent: AI-Frontier-Insight-Bot/1.0",
-        url,
-    ]
+def _fetch_json(url: str, timeout: int = 60) -> Optional[dict]:
+    """Fetch JSON via requests（带重试，不再 spawn curl）。"""
     try:
-        result = subprocess.run(cmd, capture_output=True, text=True, timeout=timeout + 10)
-        if result.returncode != 0:
-            print(f"  Benchmark: curl failed: {result.stderr.strip()}")
+        resp = robust_get(url, headers={"User-Agent": DEFAULT_UA}, timeout=timeout)
+        if resp.status_code != 200:
+            print(f"  Benchmark: HTTP {resp.status_code}")
             return None
-        return json.loads(result.stdout)
-    except (subprocess.TimeoutExpired, json.JSONDecodeError) as e:
+        return resp.json()
+    except (requests.exceptions.RequestException, json.JSONDecodeError) as e:
         print(f"  Benchmark: fetch error: {e}")
         return None
 
 
-def _curl_text(url: str, timeout: int = 60) -> Optional[str]:
-    """Fetch text content via curl subprocess."""
-    cmd = [
-        "/usr/bin/curl", "-sS", "--max-time", str(timeout), "-L",
-        "-H", "User-Agent: AI-Frontier-Insight-Bot/1.0",
-        url,
-    ]
+def _fetch_text(url: str, timeout: int = 60) -> Optional[str]:
+    """Fetch text content via requests。"""
     try:
-        result = subprocess.run(cmd, capture_output=True, text=True, timeout=timeout + 10)
-        if result.returncode != 0:
-            print(f"  Benchmark: curl failed: {result.stderr.strip()}")
+        resp = robust_get(url, headers={"User-Agent": DEFAULT_UA}, timeout=timeout)
+        if resp.status_code != 200:
+            print(f"  Benchmark: HTTP {resp.status_code}")
             return None
-        return result.stdout
-    except subprocess.TimeoutExpired as e:
+        return resp.text
+    except requests.exceptions.RequestException as e:
         print(f"  Benchmark: fetch error: {e}")
         return None
 
 
-def _curl_binary(url: str, output_path: str, timeout: int = 60) -> bool:
-    """Download binary file via curl subprocess."""
-    cmd = [
-        "/usr/bin/curl", "-sS", "--max-time", str(timeout), "-L",
-        "-H", "User-Agent: AI-Frontier-Insight-Bot/1.0",
-        "-o", output_path,
-        url,
-    ]
+def _fetch_binary(url: str, output_path: str, timeout: int = 60) -> bool:
+    """Download binary file via requests。"""
     try:
-        result = subprocess.run(cmd, capture_output=True, text=True, timeout=timeout + 10)
-        return result.returncode == 0
-    except subprocess.TimeoutExpired:
+        resp = robust_get(url, headers={"User-Agent": DEFAULT_UA}, timeout=timeout)
+        if resp.status_code != 200:
+            print(f"  Benchmark: HTTP {resp.status_code}")
+            return False
+        with open(output_path, "wb") as f:
+            f.write(resp.content)
+        return True
+    except requests.exceptions.RequestException as e:
+        print(f"  Benchmark: download error: {e}")
         return False
 
 
@@ -141,7 +133,7 @@ def _fetch_leaderboard_rows() -> List[Dict]:
 
     while True:
         url = f"{LEADERBOARD_FILTER_URL}&offset={offset}&length={page_size}"
-        data = _curl_json(url)
+        data = _fetch_json(url)
         if not data or "error" in data:
             if data:
                 print(f"  Benchmark: API error: {data.get('error')}")
@@ -255,7 +247,7 @@ def _diff_snapshots(old_top: List[Dict], new_top: List[Dict]) -> List[Dict]:
 
 def _fetch_swebench_verified() -> List[Dict]:
     """Fetch SWE-bench Verified leaderboard entries from GitHub."""
-    data = _curl_json(SWEBENCH_URL, timeout=60)
+    data = _fetch_json(SWEBENCH_URL, timeout=60)
     if not data:
         return []
 
@@ -279,7 +271,7 @@ def _fetch_swebench_verified() -> List[Dict]:
 
 def _fetch_arcagi2() -> List[Dict]:
     """Fetch ARC-AGI-2 leaderboard from arcprize.org JSON."""
-    data = _curl_json(ARCAGI_URL, timeout=60)
+    data = _fetch_json(ARCAGI_URL, timeout=60)
     if not data:
         return []
 
@@ -325,7 +317,7 @@ def _fetch_osworld_verified() -> List[Dict]:
         tmp_path = tmp.name
 
     try:
-        if not _curl_binary(OSWORLD_URL, tmp_path):
+        if not _fetch_binary(OSWORLD_URL, tmp_path):
             return []
 
         wb = openpyxl.load_workbook(tmp_path, read_only=True)
@@ -394,7 +386,7 @@ def _fetch_osworld_verified() -> List[Dict]:
 
 def _fetch_terminal_bench() -> List[Dict]:
     """Fetch Terminal-Bench 2.0 leaderboard from tbench.ai SSR data."""
-    html = _curl_text(TBENCH_URL, timeout=60)
+    html = _fetch_text(TBENCH_URL, timeout=60)
     if not html:
         return []
 
