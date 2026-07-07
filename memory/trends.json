@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-06T11:18:08.112909+08:00",
+  "last_updated": "2026-07-07T11:17:22.323972+08:00",
   "trends": [
     {
       "id": "ai_safety_pivot_and_accelerated_agi_time",
@@ -20,7 +20,7 @@
         "AI Agent 立法"
       ],
       "trajectory": "accelerating",
-      "signal_count": 142,
+      "signal_count": 143,
       "weekly_counts": [
         2,
         2,
@@ -127,6 +127,10 @@
         {
           "date": "2026-07-01",
           "event": "Trump drops export restrictions on Anthropic Mythos/Fable; US Senate proposes first broad AI-agent regulatory framework"
+        },
+        {
+          "date": "2026-07-07",
+          "event": "2026-07-07: Anthropic发布J-lens/J-Space，观测Claude内部类global-workspace结构，用于改进AI安全监控"
         }
       ],
       "created": "2026-02-25"
@@ -154,7 +158,7 @@
         "开源复刻"
       ],
       "trajectory": "accelerating",
-      "signal_count": 129,
+      "signal_count": 130,
       "weekly_counts": [
         1,
         2,
@@ -245,6 +249,10 @@
         {
           "date": "2026-07-06",
           "event": "Palantir: US gov customers switch to Nvidia open-source Nemotron; Claude Science cloned by open-source local-first projects within days"
+        },
+        {
+          "date": "2026-07-07",
+          "event": "2026-07-07: 腾讯开源Apache许可Hy3，半数参数多数评测胜GLM-5.2、Apache许可扫清EU/UK/SK合规障碍；NVIDIA Nemotron破1亿下载"
         }
       ],
       "created": "2026-02-25"
@@ -516,7 +524,7 @@
         "预期管理"
       ],
       "trajectory": "accelerating",
-      "signal_count": 777,
+      "signal_count": 778,
       "weekly_counts": [
         2,
         4,
@@ -575,6 +583,10 @@
         {
           "date": "2026-07-06",
           "event": "Zuckerberg tells employees AI agents advanced slower than expected despite up to $145B infra spend"
+        },
+        {
+          "date": "2026-07-07",
+          "event": "2026-07-07: agentic commerce卡在数据可读性(PayPal:仅1/5商家目录agent可读)与agent清算信任(Taurus共享账本)；新研究命名agent幽灵记忆(ghost memory)；Vercel主张模型与agent解耦"
         }
       ],
       "created": "2026-02-25"
@@ -697,7 +709,7 @@
         "通义"
       ],
       "trajectory": "stable",
-      "signal_count": 81,
+      "signal_count": 82,
       "weekly_counts": [
         1,
         2,
@@ -812,6 +824,10 @@
         {
           "date": "2026-07-06",
           "event": "China anthropomorphic-AI rules: Doubao & Qwen to disable humanlike/user-created agents before Jul 15"
+        },
+        {
+          "date": "2026-07-07",
+          "event": "2026-07-07: 腾讯Hy3以Apache许可+半数体量胜GLM-5.2，中国开源模型竞争焦点转向合规许可"
         }
       ],
       "created": "2026-02-25"
@@ -943,7 +959,7 @@
         "并购"
       ],
       "trajectory": "accelerating",
-      "signal_count": 36,
+      "signal_count": 37,
       "weekly_counts": [
         0,
         1,
@@ -1038,6 +1054,10 @@
         {
           "date": "2026-07-02",
           "event": "2026-07-02: Higgsfield AI in Talks for $300M-$500M Raise at $5B Valuation, AI Video Tool Market Heats Up"
+        },
+        {
+          "date": "2026-07-07",
+          "event": "2026-07-07: SpaceX更名SpaceXAI；Anthropic/OpenAI/SpaceX同期冲刺IPO引律所投行抢单；市场质疑LLM商品化下AI巨额capex回报"
         }
       ],
       "created": "2026-02-28"
@@ -1134,7 +1154,7 @@
         "token 纪律"
       ],
       "trajectory": "accelerating",
-      "signal_count": 17,
+      "signal_count": 18,
       "weekly_counts": [
         1,
         1,
@@ -1184,6 +1204,10 @@
         {
           "date": "2026-07-06",
           "event": "The Information: model routers become favored enterprise cost-cutting layer, pressuring frontier pricing"
+        },
+        {
+          "date": "2026-07-07",
+          "event": "2026-07-07: 小企业用Claude Code/Replit/Lovable自建应用替代Salesforce/HubSpot省40-80%；Tesla对工程师设每周$200 token上限、行业围剿tokenmaxxing"
         }
       ],
       "created": "2026-06-15"
@@ -1318,7 +1342,7 @@
         "LeCun"
       ],
       "trajectory": "accelerating",
-      "signal_count": 5,
+      "signal_count": 6,
       "weekly_counts": [
         3
       ],
@@ -1334,6 +1358,10 @@
         {
           "date": "2026-07-01",
           "event": "Yann LeCun team releases AdaJEPA adaptive latent world model"
+        },
+        {
+          "date": "2026-07-07",
+          "event": "2026-07-07: Google DeepMind与Apptronik扩大合作，Apollo 2人形机器人真实数据训练Gemini Robotics"
         }
       ],
       "created": "2026-06-22"
