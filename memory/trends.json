@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T11:17:22.323972+08:00",
+  "last_updated": "2026-07-08T11:00:00+08:00",
   "trends": [
     {
       "id": "ai_safety_pivot_and_accelerated_agi_time",
@@ -20,7 +20,7 @@
         "AI Agent 立法"
       ],
       "trajectory": "accelerating",
-      "signal_count": 143,
+      "signal_count": 144,
       "weekly_counts": [
         2,
         2,
@@ -131,6 +131,10 @@
         {
           "date": "2026-07-07",
           "event": "2026-07-07: Anthropic发布J-lens/J-Space，观测Claude内部类global-workspace结构，用于改进AI安全监控"
+        },
+        {
+          "date": "2026-07-08",
+          "event": "2026-07-08: FLI(Tegmark 参与)安全指数——Anthropic 领跑但仅 C+，头部实验室安全成熟度整体偏低"
         }
       ],
       "created": "2026-02-25"
@@ -273,7 +277,7 @@
         "Codex"
       ],
       "trajectory": "accelerating",
-      "signal_count": 209,
+      "signal_count": 210,
       "weekly_counts": [
         1,
         0,
@@ -392,6 +396,10 @@
         {
           "date": "2026-07-06",
           "event": "GPT-5.6 imminent: confirmed for Codex; Altman touts it \"discovering new math\""
+        },
+        {
+          "date": "2026-07-08",
+          "event": "2026-07-08: NVIDIA 把混合 MoE Nemotron-3-Super 压成 Puzzle-75B-A9B，交互吞吐约翻倍、质量基本保持；Anthropic 联合 Neuronpedia 发布基于阿里 Qwen 的开源演示"
         }
       ],
       "created": "2026-02-25"
@@ -524,7 +532,7 @@
         "预期管理"
       ],
       "trajectory": "accelerating",
-      "signal_count": 778,
+      "signal_count": 780,
       "weekly_counts": [
         2,
         4,
@@ -587,6 +595,10 @@
         {
           "date": "2026-07-07",
           "event": "2026-07-07: agentic commerce卡在数据可读性(PayPal:仅1/5商家目录agent可读)与agent清算信任(Taurus共享账本)；新研究命名agent幽灵记忆(ghost memory)；Vercel主张模型与agent解耦"
+        },
+        {
+          "date": "2026-07-08",
+          "event": "2026-07-08: Anthropic 将 Claude Cowork 推向手机/网页，关机后 agent 云端后台续跑、多数用户非编程；NVIDIA Vera 单线程 CPU 为 agentic 运行时定制（Perplexity 已试用），agent 长跑瓶颈由 GPU 转向 CPU"
         }
       ],
       "created": "2026-02-25"
@@ -709,7 +721,7 @@
         "通义"
       ],
       "trajectory": "stable",
-      "signal_count": 82,
+      "signal_count": 83,
       "weekly_counts": [
         1,
         2,
@@ -828,6 +840,10 @@
         {
           "date": "2026-07-07",
           "event": "2026-07-07: 腾讯Hy3以Apache许可+半数体量胜GLM-5.2，中国开源模型竞争焦点转向合规许可"
+        },
+        {
+          "date": "2026-07-08",
+          "event": "2026-07-08: The Information——智谱(Z.ai)与国内芯片设计商谈为 GLM 定制处理器，减少对英伟达/华为依赖"
         }
       ],
       "created": "2026-02-25"
@@ -846,7 +862,7 @@
         "Unified Models"
       ],
       "trajectory": "accelerating",
-      "signal_count": 124,
+      "signal_count": 125,
       "weekly_counts": [
         1,
         1,
@@ -937,6 +953,10 @@
         {
           "date": "2026-07-02",
           "event": "2026-07-02: Higgsfield AI in Talks for $300M-$500M Raise at $5B Valuation, AI Video Tool Market Heats Up"
+        },
+        {
+          "date": "2026-07-08",
+          "event": "2026-07-08: Meta Superintelligence Labs 发布首批自研媒体生成模型 Muse Image（可推理/精修/工具调用/test-time scaling）与 Muse Video 预览，含隐形水印 Content Seal；Instagram 公开照片默认可用于 AI 生成需 opt-out 引反弹"
         }
       ],
       "created": "2026-02-26"
@@ -1154,7 +1174,7 @@
         "token 纪律"
       ],
       "trajectory": "accelerating",
-      "signal_count": 18,
+      "signal_count": 21,
       "weekly_counts": [
         1,
         1,
@@ -1208,6 +1228,10 @@
         {
           "date": "2026-07-07",
           "event": "2026-07-07: 小企业用Claude Code/Replit/Lovable自建应用替代Salesforce/HubSpot省40-80%；Tesla对工程师设每周$200 token上限、行业围剿tokenmaxxing"
+        },
+        {
+          "date": "2026-07-08",
+          "event": "2026-07-08: 微软加入降本潮更多用自研模型（MAI-1 基准疑逊于 Sonnet 4.6）；Box 调研 1640 IT 决策者称内容访问/治理成 AI 领先分水岭；软银/Altimeter/D1 约 20 亿美元投 Thrive Holdings 押注 AI 落地服务而非造模型"
         }
       ],
       "created": "2026-06-15"
