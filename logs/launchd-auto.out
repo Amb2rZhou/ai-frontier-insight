@@ -125,3 +125,11 @@
 [11:00:04] 采集代理 off（直连降级，HF/Reddit 可能拿不到，不影响其它源）
 [11:00:04] 采集中...（硬超时 600s；PYTHONUNBUFFERED 进度实时入日志）
 [11:07:42] 唤起 headless claude（permission=bypass）...
+[11:16:28] ✅ claude 运行结束 exit=0
+[11:16:28] ===== 完成 MODE=full =====
+[11:00:00] ===== 自动日报 (2026-07-09) MODE=full =====
+[11:00:00] 采集代理 off（直连降级，HF/Reddit 可能拿不到，不影响其它源）
+[11:00:00] 采集中...（硬超时 600s；PYTHONUNBUFFERED 进度实时入日志）
+[11:07:31] 唤起 headless claude（permission=bypass）...
+[11:15:15] ❌ claude 运行 exit=1（详见本日志，必要时人工介入）
+[11:15:15] ===== 完成 MODE=full =====

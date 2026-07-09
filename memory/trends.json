@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08T11:00:00+08:00",
+  "last_updated": "2026-07-09",
   "trends": [
     {
       "id": "ai_safety_pivot_and_accelerated_agi_time",
@@ -162,7 +162,7 @@
         "开源复刻"
       ],
       "trajectory": "accelerating",
-      "signal_count": 130,
+      "signal_count": 131,
       "weekly_counts": [
         1,
         2,
@@ -257,6 +257,10 @@
         {
           "date": "2026-07-07",
           "event": "2026-07-07: 腾讯开源Apache许可Hy3，半数参数多数评测胜GLM-5.2、Apache许可扫清EU/UK/SK合规障碍；NVIDIA Nemotron破1亿下载"
+        },
+        {
+          "date": "2026-07-09",
+          "event": "DeepSeek-V4 runs locally via Unsloth GGUF; Cognition SWE-1.7 distilled from Kimi K2.7"
         }
       ],
       "created": "2026-02-25"
@@ -277,7 +281,7 @@
         "Codex"
       ],
       "trajectory": "accelerating",
-      "signal_count": 210,
+      "signal_count": 211,
       "weekly_counts": [
         1,
         0,
@@ -400,6 +404,10 @@
         {
           "date": "2026-07-08",
           "event": "2026-07-08: NVIDIA 把混合 MoE Nemotron-3-Super 压成 Puzzle-75B-A9B，交互吞吐约翻倍、质量基本保持；Anthropic 联合 Neuronpedia 发布基于阿里 Qwen 的开源演示"
+        },
+        {
+          "date": "2026-07-09",
+          "event": "Cornell Co-LMLM externalizes factual knowledge to KB; distillation goes mainstream (HF Training Agents 2)"
         }
       ],
       "created": "2026-02-25"
@@ -862,7 +870,7 @@
         "Unified Models"
       ],
       "trajectory": "accelerating",
-      "signal_count": 125,
+      "signal_count": 126,
       "weekly_counts": [
         1,
         1,
@@ -957,6 +965,10 @@
         {
           "date": "2026-07-08",
           "event": "2026-07-08: Meta Superintelligence Labs 发布首批自研媒体生成模型 Muse Image（可推理/精修/工具调用/test-time scaling）与 Muse Video 预览，含隐形水印 Content Seal；Instagram 公开照片默认可用于 AI 生成需 opt-out 引反弹"
+        },
+        {
+          "date": "2026-07-09",
+          "event": "Pika–Higgsfield feud over near-identical AI marketing videos exposes imitation risk"
         }
       ],
       "created": "2026-02-26"
@@ -979,7 +991,7 @@
         "并购"
       ],
       "trajectory": "accelerating",
-      "signal_count": 37,
+      "signal_count": 38,
       "weekly_counts": [
         0,
         1,
@@ -1078,6 +1090,10 @@
         {
           "date": "2026-07-07",
           "event": "2026-07-07: SpaceX更名SpaceXAI；Anthropic/OpenAI/SpaceX同期冲刺IPO引律所投行抢单；市场质疑LLM商品化下AI巨额capex回报"
+        },
+        {
+          "date": "2026-07-09",
+          "event": "Inference-chip startup Positron in talks to raise ~$750M at up to $5B valuation"
         }
       ],
       "created": "2026-02-28"
@@ -1366,7 +1382,7 @@
         "LeCun"
       ],
       "trajectory": "accelerating",
-      "signal_count": 6,
+      "signal_count": 7,
       "weekly_counts": [
         3
       ],
@@ -1386,6 +1402,10 @@
         {
           "date": "2026-07-07",
           "event": "2026-07-07: Google DeepMind与Apptronik扩大合作，Apollo 2人形机器人真实数据训练Gemini Robotics"
+        },
+        {
+          "date": "2026-07-09",
+          "event": "LeRobot 0.6 integrates NVIDIA GR00T 1.7 + Isaac Teleop; China wins RoboCup 2026 with humanoids"
         }
       ],
       "created": "2026-06-22"
@@ -1439,6 +1459,33 @@
         }
       ],
       "created": "2026-07-06"
+    },
+    {
+      "id": "benchmark_integrity_evaluation_trust",
+      "name": "Benchmark Integrity & Evaluation Trust",
+      "related_tags": [
+        "evaluation",
+        "benchmark",
+        "SWE-Bench",
+        "评测公信力"
+      ],
+      "trajectory": "emerging",
+      "signal_count": 1,
+      "weekly_counts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "key_events": [
+        {
+          "date": "2026-07-09",
+          "event": "First detected: OpenAI finds ~30% of SWE-Bench Pro tasks broken, retracts adoption recommendation"
+        }
+      ]
     }
   ]
 }
