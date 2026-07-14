@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-10",
+  "last_updated": "2026-07-14",
   "trends": [
     {
       "id": "ai_safety_pivot_and_accelerated_agi_time",
@@ -162,7 +162,7 @@
         "开源复刻"
       ],
       "trajectory": "accelerating",
-      "signal_count": 133,
+      "signal_count": 134,
       "weekly_counts": [
         1,
         2,
@@ -261,6 +261,10 @@
         {
           "date": "2026-07-09",
           "event": "DeepSeek-V4 runs locally via Unsloth GGUF; Cognition SWE-1.7 distilled from Kimi K2.7"
+        },
+        {
+          "date": "2026-07-14",
+          "event": "2026-07-13: 特朗普政府拟为对标中国的美国开源模型开辟简化发布通道；Nous Research(Hermes) 冲 15 亿估值融 7500 万"
         }
       ],
       "created": "2026-02-25"
@@ -281,7 +285,7 @@
         "Codex"
       ],
       "trajectory": "accelerating",
-      "signal_count": 211,
+      "signal_count": 212,
       "weekly_counts": [
         1,
         0,
@@ -408,6 +412,10 @@
         {
           "date": "2026-07-09",
           "event": "Cornell Co-LMLM externalizes factual knowledge to KB; distillation goes mainstream (HF Training Agents 2)"
+        },
+        {
+          "date": "2026-07-14",
+          "event": "2026-07-13: 开源 ACRouter 动态模型路由省 2.6x 成本；HF Transformers 可在 vLLM 原生速度运行"
         }
       ],
       "created": "2026-02-25"
@@ -426,7 +434,7 @@
         "Employee Activism"
       ],
       "trajectory": "accelerating",
-      "signal_count": 62,
+      "signal_count": 63,
       "weekly_counts": [
         0,
         1,
@@ -521,6 +529,10 @@
         {
           "date": "2026-06-18",
           "event": "2026-06-18: Noam Shazeer (Transformer co-author, Gemini co-lead) leaves Google to join OpenAI as architecture research lead"
+        },
+        {
+          "date": "2026-07-14",
+          "event": "2026-07-13: 苹果起诉 OpenAI，指其窃取商业机密、挖走 400+ 前员工，威胁 OpenAI 硬件与 IPO"
         }
       ],
       "created": "2026-02-25"
@@ -540,7 +552,7 @@
         "预期管理"
       ],
       "trajectory": "accelerating",
-      "signal_count": 782,
+      "signal_count": 783,
       "weekly_counts": [
         2,
         4,
@@ -607,6 +619,10 @@
         {
           "date": "2026-07-08",
           "event": "2026-07-08: Anthropic 将 Claude Cowork 推向手机/网页，关机后 agent 云端后台续跑、多数用户非编程；NVIDIA Vera 单线程 CPU 为 agentic 运行时定制（Perplexity 已试用），agent 长跑瓶颈由 GPU 转向 CPU"
+        },
+        {
+          "date": "2026-07-14",
+          "event": "2026-07-13: 开源 agent Hermes 母公司 Nous Research 冲 15 亿估值；ACRouter 把模型路由做成记忆型 agent"
         }
       ],
       "created": "2026-02-25"
@@ -991,7 +1007,7 @@
         "并购"
       ],
       "trajectory": "accelerating",
-      "signal_count": 40,
+      "signal_count": 41,
       "weekly_counts": [
         0,
         1,
@@ -1094,6 +1110,10 @@
         {
           "date": "2026-07-09",
           "event": "Inference-chip startup Positron in talks to raise ~$750M at up to $5B valuation"
+        },
+        {
+          "date": "2026-07-14",
+          "event": "2026-07-13: 阿里系/新加坡 PixVerse 融 4.39 亿美元估值破 20 亿；CoreWeave 31 亿贷款获超 190 亿认购"
         }
       ],
       "created": "2026-02-28"
@@ -1299,7 +1319,7 @@
         "数据中心并购"
       ],
       "trajectory": "accelerating",
-      "signal_count": 12,
+      "signal_count": 13,
       "weekly_counts": [
         1,
         2
@@ -1340,6 +1360,10 @@
         {
           "date": "2026-07-06",
           "event": "Anthropic starts own AI chip work (Samsung talks); KKR-backed Helix hunts US data center M&A with $10B+"
+        },
+        {
+          "date": "2026-07-14",
+          "event": "2026-07-13: 谷歌力推 TPU 作英伟达低价替代，英伟达以财务担保守云厂商客户"
         }
       ],
       "created": "2026-06-16"
@@ -1486,6 +1510,36 @@
           "event": "First detected: OpenAI finds ~30% of SWE-Bench Pro tasks broken, retracts adoption recommendation"
         }
       ]
+    },
+    {
+      "id": "system_level_ai_assistants_os",
+      "name": "System-Level AI Assistants (OS Integration)",
+      "related_tags": [
+        "Apple",
+        "Siri",
+        "端侧AI",
+        "AI助手",
+        "OS"
+      ],
+      "trajectory": "emerging",
+      "signal_count": 1,
+      "weekly_counts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "key_events": [
+        {
+          "date": "2026-07-14",
+          "event": "2026-07-13: 苹果革新版 Siri 随 iOS 27 公测登场，成为串联 iPhone 体验的系统级中枢"
+        }
+      ],
+      "created": "2026-07-14"
     }
   ]
 }

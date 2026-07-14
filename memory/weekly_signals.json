@@ -1,1029 +1,210 @@
 {
-  "current_week": "2026-W27",
+  "current_week": "2026-W28",
   "days": {
-    "2026-07-06": [
+    "2026-07-14": [
       {
-        "title": "OpenAI GPT-5.6 呼之欲出：确认将进入 Codex，Altman 称其「发现新数学」",
-        "signal_text": "OpenAI 的 Thibault Sottiaux 发推确认 GPT-5.6 Sol Ultra 将进入编码 agent Codex，消息登上 Hacker News 热榜（73 points）；Sam Altman 同日发推把自家孩子的认知里程碑与「GPT-5.6 发现新数学」相提并论（获 1 万+ likes / 105 万 views），社区普遍解读为新模型发布临近。",
-        "insight": "旗舰模型的叙事从跑分转向「发现新数学」，科研能力成为下一代模型的主打卖点。",
-        "implication": "编码 agent 仍是新旗舰的第一落点，可关注 Codex 生态与「AI 做科研」方向的下游工具与评测机会。",
+        "title": "苹果起诉 OpenAI，指其窃取商业机密、挖走 400 多名前员工",
+        "signal_text": "据 The Information，苹果指控 OpenAI 系统性窃取商业机密、招募逾 400 名苹果前员工以打造消费硬件，这起诉讼可能扰乱 OpenAI 首款硬件发布、并使其保密的 IPO 计划复杂化。",
+        "insight": "大厂借诉讼争夺 AI 人才与硬件 know-how，竞争从产品打到法务。",
+        "implication": "消费级 AI 硬件成新战场，早期硬件团队可留意巨头被诉讼拖慢时让出的窗口期。",
         "sources": [
           {
-            "name": "Thibault Sottiaux 推文 (via Hacker News)",
-            "url": "https://twitter.com/thsottiaux/status/2073933490513752151"
-          },
-          {
-            "name": "@sama",
-            "url": "https://x.com/sama/status/2073791666553844074"
+            "name": "The Information",
+            "url": "https://x.com/theinformation/status/2076675545320890551"
           }
         ],
         "tags": [
+          "Apple",
           "OpenAI",
-          "GPT-5.6",
-          "Codex",
-          "旗舰模型"
-        ],
-        "signal_strength": 0.9
-      },
-      {
-        "title": "Anthropic 启动自研 AI 芯片，与三星洽谈代工",
-        "signal_text": "据 The Information 报道，Anthropic 已开始自研 AI 芯片的早期工作，并与三星电子洽谈潜在代工合作；此举跟随 OpenAI 的路线，意在掌控模型背后昂贵的算力体系。",
-        "insight": "头部模型商全面走向算力垂直整合，成本战已经打到硅片层。",
-        "implication": "长期推理成本曲线将被改写，可关注芯片设计服务、先进封装与代工产能等「军备竞赛卖水人」环节。",
-        "sources": [
-          {
-            "name": "The Information",
-            "url": "https://x.com/theinformation/status/2073799102165373204"
-          }
-        ],
-        "tags": [
-          "Anthropic",
-          "自研芯片",
-          "三星",
-          "算力"
-        ],
-        "signal_strength": 0.88
-      },
-      {
-        "title": "Zuckerberg 向员工承认：AI agent 进展慢于预期",
-        "signal_text": "据支付行业媒体 PYMNTS 报道，Meta CEO Mark Zuckerberg 告诉员工，AI agent 的进展没有预期那么快——这位今年承诺最高 1450 亿美元 AI 基础设施投入、并围绕 AI 重组公司的高管罕见地公开降温。",
-        "insight": "巨头亲自为 agent 热潮做预期管理，能力成熟度与资本投入之间的落差被摆上台面。",
-        "implication": "agent 赛道可能进入挤泡沫阶段，围绕可靠性、评测与落地交付的「补差价」生意值得关注。",
-        "sources": [
-          {
-            "name": "PYMNTS",
-            "url": "https://x.com/pymnts/status/2073778858122219983"
-          }
-        ],
-        "tags": [
-          "Meta",
-          "Zuckerberg",
-          "agent",
-          "预期管理"
+          "诉讼",
+          "AI硬件",
+          "人才争夺"
         ],
         "signal_strength": 0.85
       },
       {
-        "title": "中国拟人化 AI 交互新规将生效，豆包与通义将下架拟人 agent",
-        "signal_text": "据南华早报（SCMP）报道，随着中国拟人化 AI 交互监管新规即将生效，字节跳动豆包与阿里通义将在 7 月 15 日前下架拟人化 agent 及用户自建 agent。",
-        "insight": "监管对象首次从生成内容延伸到交互形态，「拟人化程度」成为合规变量。",
-        "implication": "AI 陪伴与角色扮演类产品在中国面临形态重构，合规化改造与出海转移都值得留意。",
+        "title": "特朗普政府拟为「能力不超中国开源模型」的美国开源模型开辟简化发布通道",
+        "signal_text": "据《华盛顿邮报》，特朗普政府与产业界正讨论一套框架，简化发布能力等于或低于领先中国开源模型的美国开源模型，以在开源赛道上追赶中国的势头。",
+        "insight": "开源模型上升为国家竞争工具，美国试图用政策松绑追赶中国开源。",
+        "implication": "地缘政治开始塑造开源发布节奏，做开源生态与合规的团队值得关注政策红利与出口边界。",
         "sources": [
           {
-            "name": "SCMP via Techmeme",
-            "url": "https://www.techmeme.com/260705/p9#a260705p9"
+            "name": "Washington Post / Techmeme",
+            "url": "https://www.techmeme.com/260713/p32#a260713p32"
           }
         ],
         "tags": [
-          "监管",
-          "中国",
-          "拟人化AI",
-          "豆包",
-          "通义"
-        ],
-        "signal_strength": 0.85
-      },
-      {
-        "title": "Amazon 将停收 Mechanical Turk 新客户，众包标注时代走向收尾",
-        "signal_text": "据 TechCrunch 报道，Amazon 将停止接受众包平台 Mechanical Turk 的新客户注册。MTurk 运营约二十年，长期是 AI 行业数据标注与人工任务外包的标志性基础设施，TechCrunch 评论称「这可能是 MTurk 的最后时光」。",
-        "insight": "通用众包标注被 AI 辅助标注与专家数据取代，一个训练数据时代落幕。",
-        "implication": "数据生产正向高价值专家数据与合成数据迁移，Scale/Surge 之外的专家数据网络仍有创业空间。",
-        "sources": [
-          {
-            "name": "TechCrunch",
-            "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/"
-          }
-        ],
-        "tags": [
-          "Amazon",
-          "数据标注",
-          "MTurk",
-          "众包"
-        ],
-        "signal_strength": 0.8
-      },
-      {
-        "title": "Tesla Robotaxi 在迈阿密去掉安全员运营，年底目标扩到 12 个州",
-        "signal_text": "据 The Information 报道，Tesla 在迈阿密上线无安全员的 Robotaxi 服务，这是其第五个运营城市，并计划到 2026 年底扩展至美国约 12 个州。",
-        "insight": "Robotaxi 竞争进入「去安全员＋跨州复制」的规模化阶段。",
-        "implication": "自动驾驶的商业化叙事重新加速，可关注车队运营、远程接管与保险定价等配套环节。",
-        "sources": [
-          {
-            "name": "The Information via Techmeme",
-            "url": "https://www.techmeme.com/260705/p10#a260705p10"
-          }
-        ],
-        "tags": [
-          "Tesla",
-          "Robotaxi",
-          "自动驾驶"
-        ],
-        "signal_strength": 0.8
-      },
-      {
-        "title": "Palantir 称部分美国政府客户弃用闭源模型，改用 Nvidia 开源 Nemotron",
-        "signal_text": "据 The Information 报道，大数据分析公司 Palantir 的 CEO Alex Karp 称，部分美国政府客户已从闭源商业模型切换到 Nvidia 开源的 Nemotron 系列模型，卖点是把敏感工作留在可信的应用层内，而非直接依赖 OpenAI 或 Anthropic。",
-        "insight": "敏感场景的信任卖点从「最强模型」转向「开源模型＋可控应用层」，应用层拿走议价权。",
-        "implication": "开源模型加可信应用层的组合正在敏感行业验证商业模式，做行业应用层的公司可借此摆脱模型商绑定。",
-        "sources": [
-          {
-            "name": "The Information",
-            "url": "https://x.com/theinformation/status/2073806621088628915"
-          }
-        ],
-        "tags": [
-          "Palantir",
-          "Nvidia",
-          "Nemotron",
           "开源模型",
-          "政府"
+          "地缘政治",
+          "美国",
+          "中国",
+          "政策"
         ],
         "signal_strength": 0.78
       },
       {
-        "title": "The Information：模型路由器成为企业压缩 AI 成本的主流选择",
-        "signal_text": "据 The Information 报道，模型路由器（model router）正成为企业削减 AI 成本的首选方式——把简单任务分流给便宜模型。报道认为路由的兴起会让客户的 token 支出更有纪律，对前沿模型厂商形成定价压力。",
-        "insight": "路由层正成为多模型时代的价值捕获点，token 支出进入纪律化阶段。",
-        "implication": "前沿模型商的定价权被路由稀释，路由/网关类基础设施的创业与投资窗口值得关注。",
+        "title": "阿里投资、新加坡的视频生成公司 PixVerse 融资 4.39 亿美元、估值破 20 亿",
+        "signal_text": "据 TechCrunch，新加坡视频生成创业公司 PixVerse 完成 C 轮追加、该轮共募资 4.39 亿美元，估值超 20 亿美元，将用于扩展其 world model 产品并拓展跨地域客户。",
+        "insight": "视频生成 + world model 成资本新宠，东南亚 AI 创业获大额加注。",
+        "implication": "生成式视频与世界模型是拥挤但吸金的赛道，投资人可留意东南亚区域玩家的差异化机会。",
         "sources": [
           {
-            "name": "The Information",
-            "url": "https://x.com/theinformation/status/2073821717886062970"
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/"
+          }
+        ],
+        "tags": [
+          "PixVerse",
+          "视频生成",
+          "world model",
+          "融资",
+          "东南亚"
+        ],
+        "signal_strength": 0.72
+      },
+      {
+        "title": "Hermes 开发商 Nous Research 拟以 15 亿美元估值融资 7500 万美元",
+        "signal_text": "据 TechCrunch，开源 agent Hermes 的开发商、OpenClaw 竞品 Nous Research 正洽谈新一轮融资，由 Robot Ventures 领投、USV 等知名投资者参与，规模至少 7500 万美元，估值 15 亿美元。",
+        "insight": "开源 agent 阵营获资本认可，开放权重路线成 OpenClaw 的现实对手。",
+        "implication": "开源可自部署 agent 平台是活跃投资主题，看好开放权重 agent 生态的早期机会。",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/"
+          }
+        ],
+        "tags": [
+          "Nous Research",
+          "Hermes",
+          "开源agent",
+          "融资",
+          "OpenClaw"
+        ],
+        "signal_strength": 0.72
+      },
+      {
+        "title": "苹果革新版 Siri 随 iOS 27 公测登场，成为串联 iPhone 体验的中枢",
+        "signal_text": "据 Wired，苹果发布 iOS 27、macOS 27 等首个公测版，重构后的 Siri AI 公开亮相——不再只是语音助手，而成为贯穿 iPhone 使用体验的中枢，用户可通过 iOS 27 公测版试用。",
+        "insight": "苹果把 AI 助手升级为系统级中枢，端侧 AI 交互范式换挡。",
+        "implication": "系统级 AI 助手重定义手机入口，做端侧 agent 与个人助理的团队将面临平台方亲自下场的竞合。",
+        "sources": [
+          {
+            "name": "Wired",
+            "url": "https://www.wired.com/story/siri-ai-is-now-apple-everything-tool/"
+          }
+        ],
+        "tags": [
+          "Apple",
+          "Siri",
+          "端侧AI",
+          "iOS27",
+          "AI助手"
+        ],
+        "signal_strength": 0.7
+      },
+      {
+        "title": "Anthropic 分析 31 万条对话：Claude 的价值观与行为随模型和语言而变",
+        "signal_text": "Anthropic 基于约 31 万条匿名 Claude 对话的研究显示，模型表达的价值观与行为在不同模型版本、不同语言之间存在差异；MIT Technology Review 对该发现的意义与局限做了梳理。",
+        "insight": "同一模型跨语言「性格漂移」被量化，多语言一致性成 AI 部署新变量。",
+        "implication": "跨语言行为差异是被低估的评测维度，出海产品可探索按语言做行为与安全评测。",
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/"
+          }
+        ],
+        "tags": [
+          "Anthropic",
+          "Claude",
+          "多语言",
+          "模型行为",
+          "评测"
+        ],
+        "signal_strength": 0.68
+      },
+      {
+        "title": "开源框架 ACRouter 按任务动态选模型，成本比全程用 Opus 低 2.6 倍",
+        "signal_text": "据 VentureBeat，新开源框架 Agent-as-a-Router(ACRouter) 把模型路由从静态分类升级为「上下文-动作-反馈」的记忆型 agent，按任务动态选最合适的模型，成本比 Opus-only 方案低 2.6 倍；Box CEO Aaron Levie 也称「前沿模型当经理、低价模型做杂活」将成路由范式。",
+        "insight": "模型路由从静态规则进化为会学习的 agent，多模型时代的价值捕获点显现。",
+        "implication": "智能路由成多模型栈的关键层，做模型编排与成本优化的团队有明确的创业与产品化空间。",
+        "sources": [
+          {
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/orchestration/acrouter-picks-the-smartest-ai-model-per-task-beating-opus-only-setups-by-2-6x-on-cost"
+          },
+          {
+            "name": "@levie",
+            "url": "https://x.com/levie/status/2076839463410671637"
           }
         ],
         "tags": [
           "模型路由",
-          "成本",
-          "基础设施"
-        ],
-        "signal_strength": 0.75
-      },
-      {
-        "title": "Claude Science 的开源替代品数日内密集出现，主打 local-first",
-        "signal_text": "GitHub 趋势榜短期内出现多个对标 Anthropic Claude Science 的开源项目：ai4s-research/open-science（153 stars）与 synthetic-sciences/openscience（139 stars），均主打 local-first、模型无关的 AI 科研工作台，基于 Tauri/MCP 与 agent skills 构建。",
-        "insight": "爆款 AI 产品形态从发布到被开源复刻只需数日，形态本身不构成护城河。",
-        "implication": "产品形态红利窗口持续缩短，闭源产品可考虑把壁垒押在数据、分发与工作流深度上而非界面形态。",
-        "sources": [
-          {
-            "name": "GitHub - open-science",
-            "url": "https://github.com/ai4s-research/open-science"
-          },
-          {
-            "name": "GitHub - openscience",
-            "url": "https://github.com/synthetic-sciences/openscience"
-          }
-        ],
-        "tags": [
+          "ACRouter",
           "开源",
-          "Claude Science",
-          "AI4Science",
-          "local-first"
+          "成本优化",
+          "多模型"
         ],
         "signal_strength": 0.72
       },
       {
-        "title": "KKR 支持的 Helix 携 100 亿美元寻购美国数据中心",
-        "signal_text": "据 The Information 报道，KKR 支持的 Helix 正在美国寻找数据中心收购标的，以启动其 AI 基础设施布局；该项目背后有超过 100 亿美元资金，试图在超大规模云厂商需求降温前抢先清除瓶颈。",
-        "insight": "PE 巨头开始用并购而非新建的方式抢占 AI 数据中心产能，卡位窗口意识明显。",
-        "implication": "AI 基础设施进入金融化阶段，存量数据中心资产的估值与整合机会值得投资者留意。",
+        "title": "Hugging Face Transformers 模型现可在 vLLM 上以原生速度运行",
+        "signal_text": "Hugging Face CEO Clement Delangue 宣布，Transformers 库中的模型现可直接在 vLLM 中以原生速度运行，常能匹敌甚至超过手写实现，终结了新架构需在 Transformers 与 vLLM 各实现一遍的重复劳动。",
+        "insight": "训练与高性能推理栈打通，开源新模型上线部署的摩擦大幅降低。",
+        "implication": "开源推理基建持续降摩擦，利好做私有化部署与自托管推理服务的团队缩短上线周期。",
         "sources": [
           {
-            "name": "The Information",
-            "url": "https://x.com/theinformation/status/2073791519379591372"
+            "name": "@ClementDelangue",
+            "url": "https://x.com/ClementDelangue/status/2076763231788339669"
           }
         ],
         "tags": [
-          "KKR",
-          "数据中心",
-          "AI基础设施",
-          "并购"
-        ],
-        "signal_strength": 0.68
-      }
-    ],
-    "2026-07-07": [
-      {
-        "title": "腾讯开源 Apache 许可模型 Hy3：体量减半、多数评测胜过 GLM-5.2",
-        "signal_text": "据 VentureBeat，腾讯发布 Apache 2.0 许可的开源模型 Hy3，以约一半参数在多数评测上超过 GLM-5.2（仅编码落后）；社区（@NielsRogge、@gneubig）称其在 MCP-Atlas 等 agent 评测上刷新开源 SOTA，且 Apache 许可不排除欧盟/英国/韩国，扫清企业合规障碍。",
-        "insight": "中国开源模型的竞争焦点从跑分转向「许可证能否进合规」，Apache 化才能真正被企业采用。",
-        "implication": "无地域限制的可商用开源模型正打开受监管市场，值得关注围绕合规开源模型的私有部署与选型服务创业机会。",
-        "sources": [
-          {
-            "name": "VentureBeat",
-            "url": "https://venturebeat.com/technology/tencents-apache-licensed-hy3-takes-on-glm-5-2-at-half-the-size-and-wins-everywhere-except-coding"
-          },
-          {
-            "name": "@NielsRogge",
-            "url": "https://x.com/NielsRogge/status/2074204285051568285"
-          }
-        ],
-        "tags": [
-          "腾讯",
-          "Hy3",
-          "开源模型",
-          "Apache",
-          "GLM"
-        ],
-        "signal_strength": 0.82
-      },
-      {
-        "title": "小企业用 Claude Code、Replit、Lovable 自建应用替代 Salesforce，软件成本砍 40%–80%",
-        "signal_text": "据 The Information，越来越多小企业用 Claude Code、Replit、Lovable 等 AI 编码/搭建工具自建定制应用，替换 Salesforce、HubSpot，部分公司软件成本下降 40%–80%。",
-        "insight": "AI 编码把「自建替代 SaaS」从极客玩法变成中小企业的省钱现实，SaaS 订阅护城河首次被正面冲击。",
-        "implication": "「AI 自建 vs 买 SaaS」的临界点正在到来，利好做自建应用托管、模板与迁移工具的早期团队，也值得重估被替代 SaaS 的估值逻辑。",
-        "sources": [
-          {
-            "name": "The Information",
-            "url": "https://x.com/theinformation/status/2074146489605967970"
-          }
-        ],
-        "tags": [
-          "Claude Code",
-          "SaaS替代",
-          "Salesforce",
-          "低代码",
-          "企效"
-        ],
-        "signal_strength": 0.83
-      },
-      {
-        "title": "Tesla 给工程师设每周 200 美元 AI token 上限，行业围剿「tokenmaxxing」",
-        "signal_text": "据 The Information，Tesla 对内部工程师 AI token 消耗设每周 200 美元硬上限（此前部分工程师每周烧掉数千美元），报道称这是企业界收紧「tokenmaxxing」的行业性动作。",
-        "insight": "AI 编码从「无限报销」进入精细化成本治理，token 支出成为企业新的管理科目。",
-        "implication": "企业 AI 成本治理正在成为刚需，token 用量监控、成本分摊与优化工具是一条清晰的 to B 创业与投资赛道。",
-        "sources": [
-          {
-            "name": "The Information",
-            "url": "https://x.com/theinformation/status/2074259767128728003"
-          }
-        ],
-        "tags": [
-          "Tesla",
-          "token成本",
-          "企业AI治理",
-          "tokenmaxxing"
-        ],
-        "signal_strength": 0.8
-      },
-      {
-        "title": "Anthropic 发布「J-lens」：Claude 内部自发形成类似意识理论的「工作空间」",
-        "signal_text": "Anthropic 发表研究（VentureBeat 报道、@omarsar0 称「必读」）称 Claude 内部自发形成了类似人类意识主流理论（global workspace）的结构，并提出 J-lens/J-Space 方法观测内部推理，公司称已用于改进 AI 安全监控。",
-        "insight": "可解释性从观测 token 走向观测模型「内部工作空间」，为安全监控提供新抓手。",
-        "implication": "模型内部状态可解释性正成为安全与对齐的新前沿，值得关注可解释性工具与 AI 安全监控方向的研究与创业。",
-        "sources": [
-          {
-            "name": "VentureBeat",
-            "url": "https://venturebeat.com/technology/anthropics-new-j-lens-reveals-a-silent-workspace-inside-claude-that-mirrors-a-leading-theory-of-consciousness"
-          },
-          {
-            "name": "@omarsar0",
-            "url": "https://x.com/omarsar0/status/2074264122330612223"
-          }
-        ],
-        "tags": [
-          "Anthropic",
-          "可解释性",
-          "J-lens",
-          "AI安全",
-          "研究"
-        ],
-        "signal_strength": 0.85
-      },
-      {
-        "title": "SpaceX 更名 SpaceXAI，与 Anthropic、OpenAI 同期涌向 IPO",
-        "signal_text": "SpaceX 官方账号宣布更名为 @SpaceXAI（获 3200+ likes / 14 万 views）；同日 The Information 报道 Anthropic、OpenAI、SpaceX 正同期推进公开上市，引发顶级律所与投行抢单，Freshfields 拿下 Anthropic 的 IPO。",
-        "insight": "头部 AI/科技公司集中冲刺 IPO，AI 叙事成为资本市场今年最大主线。",
-        "implication": "一级市场向公开市场的集中兑现窗口打开，值得关注 AI 龙头上市对整个赛道估值与二级资金流向的带动。",
-        "sources": [
-          {
-            "name": "@SpaceXAI",
-            "url": "https://x.com/SpaceXAI/status/2074214064746832060"
-          },
-          {
-            "name": "The Information",
-            "url": "https://x.com/theinformation/status/2074214319076589659"
-          }
-        ],
-        "tags": [
-          "SpaceXAI",
-          "IPO",
-          "Anthropic",
-          "OpenAI",
-          "资本市场"
-        ],
-        "signal_strength": 0.8
-      },
-      {
-        "title": "agentic commerce 卡在基建层：商品目录 agent 不可读、agent 间交易缺共享账本",
-        "signal_text": "PYMNTS 两项研究指出 agentic commerce 的准备度鸿沟：联合 PayPal Open 发现仅约 1/5 商家的商品目录是 agent 可读格式；数字资产基建商 Taurus 高管称 AI agent 相互交易需要共享账本来建立信任、交换价值。",
-        "insight": "agent 购物的瓶颈不在模型，而在商品数据可读性与 agent 间清算信任层。",
-        "implication": "agentic commerce 的机会正从模型层下沉到「数据结构化 + agent 清算/身份」基建，是支付与电商交叉地带值得布局的创业窗口。",
-        "sources": [
-          {
-            "name": "PYMNTS×PayPal Open",
-            "url": "https://x.com/pymnts/status/2074184098260615462"
-          },
-          {
-            "name": "Taurus via PYMNTS",
-            "url": "https://x.com/pymnts/status/2074176649235476733"
-          }
-        ],
-        "tags": [
-          "agentic commerce",
-          "支付",
-          "RAG",
-          "清算",
-          "PayPal"
-        ],
-        "signal_strength": 0.78
-      },
-      {
-        "title": "Vercel CEO：生产环境要把模型与 agent 解耦、按性价比选型",
-        "signal_text": "Vercel CEO Guillermo Rauch 对 TechCrunch 表示，生产环境优化会走向看 price/performance、把「模型」和「agent」拆开，不再把具体模型与 agent 绑死。",
-        "insight": "agent 与底层模型正在解耦，模型走向可替换的性价比组件。",
-        "implication": "模型-agent 解耦利好做性价比路由、多模型编排的中间层，模型商品化下价值向应用与编排层转移。",
-        "sources": [
-          {
-            "name": "TechCrunch",
-            "url": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/"
-          }
-        ],
-        "tags": [
-          "Vercel",
-          "模型解耦",
-          "多模型路由",
-          "agent"
-        ],
-        "signal_strength": 0.72
-      },
-      {
-        "title": "「LLM 即将商品化」声浪渐起，市场质疑 AI 巨额资本开支能否收回",
-        "signal_text": "Gary Marcus 引 @MadisonMills22 报道称「LLM 正字面意义上走向商品化」（获 2 万+ views）；The Information 另称微软按分部估值可达约 3.8 万亿美元、远高于当前企业价值，差距反映投资者对 AI 支出与软件被颠覆的疑虑。",
-        "insight": "模型能力趋同叠加天量 capex，市场开始质疑 AI 基础层的回报率。",
-        "implication": "若模型走向商品化，价值将向应用与分发层转移，值得关注在成本下行中做垂直应用、以及押注「谁的 AI 支出收不回」的资本再定价。",
-        "sources": [
-          {
-            "name": "@GaryMarcus",
-            "url": "https://x.com/GaryMarcus/status/2074129913159074042"
-          },
-          {
-            "name": "The Information",
-            "url": "https://x.com/theinformation/status/2074131358545248576"
-          }
-        ],
-        "tags": [
-          "LLM商品化",
-          "capex",
-          "微软",
-          "AI泡沫",
-          "资本"
-        ],
-        "signal_strength": 0.72
-      },
-      {
-        "title": "Google DeepMind 与 Apptronik 扩大合作，用 Apollo 2 人形机器人真实数据训练 Gemini Robotics",
-        "signal_text": "Google DeepMind 官宣随 Apptronik 扩建 Robot Park 设施，最新 Apollo 2 人形平台采集的真实世界数据将用于训练并推进 Gemini Robotics（获 330+ likes / 3.4 万 views）。",
-        "insight": "头部大模型公司加码「真实世界数据 × 人形机器人」闭环，physical AI 竞赛升温。",
-        "implication": "具身智能的数据飞轮正在成形，机器人真实数据采集、仿真与 VLA 模型是下一波值得关注的创业与投资方向。",
-        "sources": [
-          {
-            "name": "@GoogleDeepMind",
-            "url": "https://x.com/GoogleDeepMind/status/2074157282477154597"
-          }
-        ],
-        "tags": [
-          "Google DeepMind",
-          "具身智能",
-          "人形机器人",
-          "Gemini Robotics",
-          "Apptronik"
-        ],
-        "signal_strength": 0.78
-      },
-      {
-        "title": "新研究命名 agent「幽灵记忆」：长跑 agent 自信复述已过时的旧事实",
-        "signal_text": "AI 研究策展人 @omarsar0 介绍的一项新研究把 agent 的一类失败命名为「ghost memory」——长时间运行的 agent 会自信重复几周前已失效的用户事实，症结在新旧事实及其过渡的处理。",
-        "insight": "记忆保鲜是长跑 agent 可靠性的关键短板，也是当前 agent 落地的隐性 bug 来源。",
-        "implication": "agent 记忆治理（知识保鲜、旧事实失效、冲突消解）是尚未被满足的基础能力，值得关注做 agent 记忆层的早期项目。",
-        "sources": [
-          {
-            "name": "@omarsar0",
-            "url": "https://x.com/omarsar0/status/2074121191846261022"
-          }
-        ],
-        "tags": [
-          "agent记忆",
-          "ghost memory",
-          "可靠性",
-          "研究"
-        ],
-        "signal_strength": 0.7
-      }
-    ],
-    "2026-07-08": [
-      {
-        "title": "Meta 发布首批自研媒体生成模型 Muse Image 与 Muse Video",
-        "signal_text": "Meta Superintelligence Labs 推出 Muse Image（其最强图像生成模型，支持推理、精修、工具调用与明显的 test-time scaling）及 Muse Video 预览版，已接入 Meta AI、Instagram、WhatsApp，并引入隐形水印 Content Seal 与 AI 图像检测工具。据 The Verge、Meta 官方 @AIatMeta；Instagram 公开账号照片默认可被他人用于 AI 生成、需手动 opt-out，引发用户反弹。",
-        "insight": "MSL 首秀落在多模态生成，Meta 用社交图库加默认授权补齐数据壁垒。",
-        "implication": "图像生成进入「可推理、可精修」阶段，端到端创意工具与合规水印、检测配套是值得探索的新产品位。",
-        "sources": [
-          {
-            "name": "The Verge",
-            "url": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram"
-          },
-          {
-            "name": "@AIatMeta",
-            "url": "https://x.com/AIatMeta/status/2074577662840832382"
-          }
-        ],
-        "tags": [
-          "多模态",
-          "Meta",
-          "图像生成",
-          "水印"
-        ],
-        "signal_strength": 0.85
-      },
-      {
-        "title": "Anthropic 把 Claude Cowork 推向手机与网页，多数用户并非在写代码",
-        "signal_text": "Anthropic 上线 Claude Cowork 网页版与移动版（先对 Max 订阅者 beta），关掉笔记本后 agent 仍在云端后台继续跑任务；官方使用数据显示多数用户做的是通用知识工作而非编程，网页端 Chat 与 Cowork 也合并为同一入口。据 VentureBeat、Wired。",
-        "insight": "编程 agent 向「随身、后台常驻的知识工作 agent」扩张，跨端后台执行成新交互范式。",
-        "implication": "长跑 agent 的价值正从桌面 IDE 转向移动加云端常驻，利好做通用办公自动化与任务托管的团队。",
-        "sources": [
-          {
-            "name": "VentureBeat",
-            "url": "https://venturebeat.com/technology/anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-data-shows-most-users-arent-coding"
-          }
-        ],
-        "tags": [
-          "Agent",
-          "Anthropic",
-          "交互范式",
-          "移动"
-        ],
-        "signal_strength": 0.82
-      },
-      {
-        "title": "微软加入 AI 降本潮、更多改用自研模型，但 MAI-1 基准疑逊于 Sonnet 4.6",
-        "signal_text": "TechCrunch 报道微软成为最新一家削减 AI 支出、转向更多依赖自研模型的硅谷巨头。沃顿教授 Ethan Mollick 指微软 MAI-1 尚无独立基准，官方释出的数据暗示其表现或不及 Anthropic Sonnet 4.6，用作 Office Copilot 前景存疑。",
-        "insight": "巨头「自研替代外采」降本，但自研模型质量差距仍是硬约束。",
-        "implication": "模型分层与「够用即自研」成企业主流，换用前用独立基准验证、辅以性价比路由是更稳的解。",
-        "sources": [
-          {
-            "name": "TechCrunch",
-            "url": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/"
-          },
-          {
-            "name": "@emollick",
-            "url": "https://x.com/emollick/status/2074595359364411651"
-          }
-        ],
-        "tags": [
-          "Microsoft",
-          "成本控制",
-          "模型分层",
-          "MAI-1"
-        ],
-        "signal_strength": 0.75
-      },
-      {
-        "title": "智谱启动自研 AI 芯片洽谈，减少对英伟达与华为依赖",
-        "signal_text": "The Information 独家：中国 AI 实验室智谱（Z.ai）已与国内芯片设计商就为其 GLM 模型定制处理器展开早期谈判，以缓解算力约束、降低对华为与英伟达的依赖，凸显头部 AI 厂商在出口管制下加速掌控自有基础设施。",
-        "insight": "出口管制下，中国头部模型厂从「买算力」转向「造算力」控成本。",
-        "implication": "开源模型加自研芯片的中国栈成本可能进一步下探，值得关注其对性价比路由与私有化选型的冲击。",
-        "sources": [
-          {
-            "name": "@theinformation",
-            "url": "https://x.com/theinformation/status/2074510438876737826"
-          }
-        ],
-        "tags": [
-          "智谱",
-          "AI芯片",
-          "出口管制",
-          "中国AI"
-        ],
-        "signal_strength": 0.7
-      },
-      {
-        "title": "OpenAI 大金主转押「AI 落地」：软银等向 Thrive Holdings 注资约 20 亿美元",
-        "signal_text": "The Information 独家：软银、Altimeter、D1 正以约 20 亿美元投资 Thrive Capital 关联的 Thrive Holdings——它收购会计、IT 等服务型公司并用 AI 重构。OpenAI 的部分最大金主正把赌注从「造模型」转向「AI 采用与落地」。",
-        "insight": "资本开始押注 AI 应用与传统服务改造，而非再堆模型。",
-        "implication": "「买下服务公司加 AI 重构」成新范式，AI 能力对外商业化可瞄准垂直服务场景的整包改造。",
-        "sources": [
-          {
-            "name": "@theinformation",
-            "url": "https://x.com/theinformation/status/2074516337607471226"
-          }
-        ],
-        "tags": [
-          "投资",
-          "AI落地",
-          "软银",
-          "商业模式"
-        ],
-        "signal_strength": 0.72
-      },
-      {
-        "title": "英伟达 Vera CPU 主打 agentic 运行时，Perplexity 已试用",
-        "signal_text": "英伟达推出 Vera——号称规模化下最强单线程 CPU，专为 agentic 系统「逐步串行推理、工具调用、代码执行」设计，缓解 CPU 拖慢整个 agent 循环、GPU 空转的问题。Perplexity CEO Aravind Srinivas 称已在为其 Perplexity Computer 的沙箱基础设施采用 Vera 并取得明显提升。",
-        "insight": "agent 长跑瓶颈从 GPU 转到单线程 CPU，硬件开始为 agentic 运行时定制。",
-        "implication": "agent 云运行时的成本结构正被重写，自建、私有化 agent 平台可重新评估算力配比。",
-        "sources": [
-          {
-            "name": "@nvidia",
-            "url": "https://x.com/nvidia/status/2074510027897844105"
-          },
-          {
-            "name": "@AravSrinivas",
-            "url": "https://x.com/AravSrinivas/status/2074619120847589444"
-          }
-        ],
-        "tags": [
-          "NVIDIA",
-          "Agent运行时",
-          "CPU",
-          "基础设施"
-        ],
-        "signal_strength": 0.7
-      },
-      {
-        "title": "英伟达把 Nemotron MoE 压成 Puzzle-75B-A9B，交互吞吐约翻倍",
-        "signal_text": "据 NVIDIA 论文（@omarsar0 转介），英伟达将混合 MoE 模型 Nemotron-3-Super 压缩为 Puzzle-75B-A9B，在交互式延迟下将服务器吞吐约提升一倍、质量基本保持。更大的 MoE 虽赢在质量，但在交互延迟下的服务仍然困难。",
-        "insight": "MoE 服务化的关键不是更大，而是交互延迟下的吞吐与成本。",
-        "implication": "面向自部署的模型压缩（结构裁剪加吞吐优化）是降本抓手，可纳入模型服务与私有化选型。",
-        "sources": [
-          {
-            "name": "@omarsar0 (NVIDIA)",
-            "url": "https://x.com/omarsar0/status/2074543978129793462"
-          }
-        ],
-        "tags": [
-          "NVIDIA",
-          "MoE",
-          "推理优化",
-          "模型压缩"
-        ],
-        "signal_strength": 0.68
-      },
-      {
-        "title": "Anthropic 发布基于阿里 Qwen 的开源演示，前沿闭源实验室罕见「站在中国开源上」",
-        "signal_text": "HuggingFace 联合创始人 Julien Chaumond 指出，Anthropic（联合 Neuronpedia）发布了构建在阿里 Qwen 之上的开源演示，直言「没想到会看到」。前沿闭源实验室在可解释性等工作上直接采用中国开源权重，值得注意。",
-        "insight": "中国开源权重成为连前沿闭源实验室都在用的研究基座。",
-        "implication": "开源模型可自部署、可深挖的价值再获背书，私有化部署与自建实验可优先纳入开源权重。",
-        "sources": [
-          {
-            "name": "@julien_c",
-            "url": "https://x.com/julien_c/status/2074496845565317358"
-          }
-        ],
-        "tags": [
-          "Anthropic",
-          "Qwen",
+          "Hugging Face",
+          "vLLM",
           "开源",
-          "可解释性"
-        ],
-        "signal_strength": 0.62
-      },
-      {
-        "title": "FLI 安全指数：领跑的 Anthropic 也只拿到 C+",
-        "signal_text": "据 The Information，由 MIT 教授、Future of Life Institute 主席 Max Tegmark 参与的报告显示，Anthropic 在 AI 实验室安全性上领先，但仅获 C+ 评级，头部实验室整体安全成熟度偏低。",
-        "insight": "连安全标杆都只到 C+，前沿实验室安全治理集体不及格。",
-        "implication": "第三方安全评测正成为公共标尺，评测、红队能力与安全 benchmark 值得作为长期储备。",
-        "sources": [
-          {
-            "name": "@theinformation",
-            "url": "https://x.com/theinformation/status/2074604588783542426"
-          }
-        ],
-        "tags": [
-          "AI安全",
-          "评测",
-          "FLI",
-          "Tegmark"
-        ],
-        "signal_strength": 0.6
-      },
-      {
-        "title": "Box 调研：内容获取与治理成 AI 领先与掉队企业的分水岭",
-        "signal_text": "Box 对美英法日 1640 名 IT 决策者的《State of AI in the enterprise》报告显示，内容访问、治理与平台灵活性正成为 AI 领先者与落后者的分界线；企业级 AI 成效更取决于能否让 agent 安全触达内部内容。",
-        "insight": "企业 AI 的胜负手从模型转向「内部内容能否被 agent 安全取用」。",
-        "implication": "知识库（RAG）与内容治理是企业 AI 落地的地基，做好权限内检索、元数据与知识保鲜即卡位价值点。",
-        "sources": [
-          {
-            "name": "VentureBeat",
-            "url": "https://venturebeat.com/orchestration/box-survey-why-enterprise-ai-leaders-are-outperforming-their-peers"
-          }
-        ],
-        "tags": [
-          "企业AI",
-          "数据治理",
-          "RAG",
-          "Box"
-        ],
-        "signal_strength": 0.66
-      }
-    ],
-    "2026-07-09": [
-      {
-        "title": "Cognition 发布 SWE-1.7：从 Kimi K2.7 训练而来，1000 tokens/秒逼近旗舰",
-        "signal_text": "AI 编程公司 Cognition（Devin 开发商）发布 SWE-1.7：基于月之暗面开源模型 Kimi K2.7 训练，推理速度达 1,000 tokens/秒，官方称在编码基准上接近 GPT-5.5 与 Claude Opus 4.8、成本更低。The Information 同日评论称，下半年可能属于「压推理运行成本」而非「堆更大模型」的公司。",
-        "insight": "编码模型竞争进入「蒸馏开源底座、卖速度和成本」阶段，模型层护城河变薄。",
-        "implication": "「开源底座 + 垂直蒸馏」的应用层打法值得关注，速度与单位成本正成为新的差异化窗口。",
-        "sources": [
-          {
-            "name": "Cognition",
-            "url": "https://cognition.com/blog/swe-1-7"
-          },
-          {
-            "name": "The Information",
-            "url": "https://x.com/theinformation/status/2074584267263271106"
-          }
-        ],
-        "tags": [
-          "coding-agent",
-          "distillation",
-          "inference-cost",
-          "open-source"
-        ],
-        "signal_strength": 0.9
-      },
-      {
-        "title": "OpenAI 审计发现 SWE-Bench Pro 约 30% 任务损坏，撤回采用建议",
-        "signal_text": "OpenAI 官方博客称在编码基准 SWE-Bench Pro 中发现大范围任务缺陷，估计约 30% 的任务本身已损坏，并撤回此前建议业界采用该基准的表态。",
-        "insight": "头部实验室公开打假主流基准，评测公信力成为行业基础设施级缺口。",
-        "implication": "可信评测与基准审计（「评测的评测」）是值得探索的创业与投资方向。",
-        "sources": [
-          {
-            "name": "OpenAI",
-            "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations"
-          }
-        ],
-        "tags": [
-          "evaluation",
-          "benchmark",
-          "SWE-Bench"
-        ],
-        "signal_strength": 0.85
-      },
-      {
-        "title": "DeepSeek-V4 已可本地运行：168GB 内存无损、110GB 的 Mac 可跑 3-bit",
-        "signal_text": "开源微调/量化框架 Unsloth（官方推文获 400+ likes）发布 DeepSeek-V4 的 GGUF 量化版本：DeepSeek-V4-Flash 在 168GB 内存上可无损运行，3-bit 版本可在 110GB 内存/显存的 Mac 等设备上跑，支持经 Unsloth Studio 或 llama.cpp 部署。",
-        "insight": "旗舰级开源模型量化后进入「单机可跑」区间，私有化与端侧推理成本骤降。",
-        "implication": "本地推理工具链与数据驻留场景的解决方案生意值得关注。",
-        "sources": [
-          {
-            "name": "Unsloth",
-            "url": "https://x.com/UnslothAI/status/2074509042341576977"
-          }
-        ],
-        "tags": [
-          "open-source",
-          "quantization",
-          "local-inference",
-          "DeepSeek"
-        ],
-        "signal_strength": 0.8
-      },
-      {
-        "title": "AI 推理芯片公司 Positron 洽谈融资约 7.5 亿美元，估值最高 50 亿美元",
-        "signal_text": "据 Bloomberg，被视为英伟达挑战者的美国 AI 推理芯片创业公司 Positron 正洽谈分两阶段融资约 7.5 亿美元：第一批按 35 亿美元估值、第二批按约 50 亿美元估值。",
-        "insight": "推理侧算力的资本热度外溢到英伟达之外，专用推理芯片赛道被重估。",
-        "implication": "投资视角可关注推理性价比芯片及其配套软件栈的生态位。",
-        "sources": [
-          {
-            "name": "Bloomberg",
-            "url": "https://www.bloomberg.com/news/articles/2026-07-08/nvidia-rival-positron-holds-talks-to-raise-funds-at-5-billion-valuation"
-          }
-        ],
-        "tags": [
-          "funding",
-          "AI-chip",
-          "inference"
-        ],
-        "signal_strength": 0.75
-      },
-      {
-        "title": "Pika 与 Higgsfield 就高度相似的 AI 营销视频互撕，创意模仿难以监管",
-        "signal_text": "据 The Information，AI 视频公司 Pika 与 Higgsfield 正因高度相似的 AI 生成营销视频发生纠纷；随着视频生成工具变得更便宜更快，「模仿」正变得越来越难以监管，给创意工作带来新风险。",
-        "insight": "AI 视频生成同质化后，风格与创意不再构成可防守的壁垒。",
-        "implication": "创意工具的护城河转向分发、工作流与品牌资产，纯生成能力难守。",
-        "sources": [
-          {
-            "name": "The Information",
-            "url": "https://x.com/theinformation/status/2074561604453036161"
-          }
-        ],
-        "tags": [
-          "AI-video",
-          "IP",
-          "creative-tools"
-        ],
-        "signal_strength": 0.7
-      },
-      {
-        "title": "SkillCenter 论文：21.7 万条可溯源技能，号称最大的开源 agent 技能库",
-        "signal_text": "研究者 Tianming Sha、Yue Zhao、Lichao Sun 等发布 SkillCenter，称是目前总量最大的开源 agent 技能库：216,938 条结构化技能、覆盖 24 个领域包，经 SkillGate 过滤管线保证技能可溯源（source-grounded），目标是让 agent 产出不止可执行，还要正确、安全、可维护。",
-        "insight": "agent 技能从作坊式手写走向规模化、可溯源的公共资产。",
-        "implication": "技能治理、审核与分发——agent 生态的「App Store 层」——值得创业者关注。",
-        "sources": [
-          {
-            "name": "arXiv",
-            "url": "https://arxiv.org/abs/2607.07676v1"
-          }
-        ],
-        "tags": [
-          "agent",
-          "skill-library",
-          "open-source"
+          "推理",
+          "部署"
         ],
         "signal_strength": 0.68
       },
       {
-        "title": "康奈尔团队提出 Co-LMLM：把事实知识外置到知识库，生成时按需取用",
-        "signal_text": "康奈尔大学知名学者 Kilian Weinberger、Yoav Artzi 等团队发布 Co-LMLM 论文：LMLM（limited memory LM）范式在预训练阶段把事实知识外置到外部知识库、而非记进权重，生成时按需检索，带来常规 LLM 做不到的知识可控性（可更新、可删改），该工作进一步提出连续查询机制。",
-        "insight": "把事实知识外置出权重，让「知识更新」与「能力训练」彻底解耦。",
-        "implication": "知识可控性（可删、可更新、可审计）可能成为企业级 LLM 的合规卖点，值得跟踪。",
-        "sources": [
-          {
-            "name": "arXiv",
-            "url": "https://arxiv.org/abs/2607.07707v1"
-          }
-        ],
-        "tags": [
-          "research",
-          "knowledge-base",
-          "RAG",
-          "architecture"
-        ],
-        "signal_strength": 0.7
-      },
-      {
-        "title": "LeRobot 0.6 集成英伟达 GR00T 1.7 与 Isaac Teleop，开源机器人栈升级",
-        "signal_text": "英伟达官方宣布与 HuggingFace 扩大合作：LeRobot 0.6 集成 Isaac GR00T 1.7（面向人形机器人的开源 VLA 模型）与 Isaac Teleop 遥操作框架，让 1,900 万开发者可直接使用前沿具身智能工具，并提供安装、数据采集的分步指南。",
-        "insight": "开源机器人栈补齐「模型 + 遥操作 + 社区」闭环，具身智能开发门槛快速下降。",
-        "implication": "具身智能的数据采集与仿真工具链存在早期机会，值得关注。",
-        "sources": [
-          {
-            "name": "NVIDIA Robotics",
-            "url": "https://x.com/NVIDIARobotics/status/2074380795855147072"
-          }
-        ],
-        "tags": [
-          "robotics",
-          "embodied-AI",
-          "open-source",
-          "NVIDIA"
-        ],
-        "signal_strength": 0.7
-      },
-      {
-        "title": "HuggingFace 开讲模型蒸馏：手把手教开发者训练定制 agent 模型",
-        "signal_text": "HuggingFace 官方推出「Training Agents」系列第二讲，以直播教程形式讲解如何用 model distillation 训练定制化的 agent 模型。",
-        "insight": "蒸馏定制专属 agent 小模型，正被平民化成标准开发工作流。",
-        "implication": "面向中小团队的「蒸馏即服务」与配套数据管线工具值得探索。",
-        "sources": [
-          {
-            "name": "HuggingFace",
-            "url": "https://x.com/huggingface/status/2074508881984934265"
-          }
-        ],
-        "tags": [
-          "distillation",
-          "agent",
-          "developer-tools"
-        ],
-        "signal_strength": 0.6
-      },
-      {
-        "title": "中国队夺得 RoboCup 2026：AI 人形机器人自主踢完整场足球",
-        "signal_text": "科技博主 Min Choi 报道，中国队伍凭借 AI 驱动的人形机器人夺得 RoboCup 2026 冠军：机器人自主完成看球、决策、队内协作与射门，展现出团队级协作能力。",
-        "insight": "自主人形机器人已能完成感知—决策—协作的整队比赛，具身协作在提速。",
-        "implication": "多机协同与团队级策略学习或是具身智能的下一个技术叙事，值得留意。",
-        "sources": [
-          {
-            "name": "@minchoi",
-            "url": "https://x.com/minchoi/status/2074495082389033157"
-          }
-        ],
-        "tags": [
-          "robotics",
-          "embodied-AI",
-          "China"
-        ],
-        "signal_strength": 0.55
-      }
-    ],
-    "2026-07-10": [
-      {
-        "title": "OpenAI 发布 GPT-5.6 模型家族，Codex 并入 ChatGPT 推出「ChatGPT Work」",
-        "signal_text": "OpenAI 正式发布 GPT-5.6 家族，分 Sol（长程编码/agentic 规划）、Terra、Luna 三档，官方称 token 效率大幅领先，并把编码 agent Codex 并入 ChatGPT、推出统一 agent 产品「ChatGPT Work」，同步登陆 Perplexity、VS Code、Microsoft Foundry，并成为 Microsoft Copilot 365 首选模型。据 TechCrunch。",
-        "insight": "旗舰战回摆 OpenAI，模型能力与「聊天+编码统一 agent」产品形态同步升级。",
-        "implication": "agentic 编码进入主入口，做 agent 编排与垂直工作流的团队可考虑围绕统一 agent 生态卡位。",
-        "sources": [
-          {
-            "name": "TechCrunch",
-            "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/"
-          },
-          {
-            "name": "@OpenAIDevs",
-            "url": "https://x.com/OpenAIDevs/status/2075286157186003348"
-          }
-        ],
-        "tags": [
-          "GPT-5.6",
-          "OpenAI",
-          "agent",
-          "model-release"
-        ],
-        "signal_strength": 0.95
-      },
-      {
-        "title": "Meta 发布 Muse Spark 1.1：支持 1M 上下文，官方称成本低于自托管开源模型",
-        "signal_text": "Meta 发布新旗舰 Muse Spark 1.1，主打 agentic 与编码，支持 1M 上下文，已上线 Meta Model API；据 Meta AI 负责人 Alexandr Wang，其 Vals Index 排名第 4、超过 GPT-5.5 与 Grok 4.5，并称「用它比自托管开源模型还便宜」。",
-        "insight": "开源阵营性价比标杆再升级，1M 上下文 + 低于自托管成本直接压向闭源。",
-        "implication": "模型层性价比持续内卷，利好做上层应用与垂直 agent 的创业者，自建模型的必要性进一步下降。",
-        "sources": [
-          {
-            "name": "@alexandr_wang",
-            "url": "https://x.com/alexandr_wang/status/2075218622520443168"
-          },
-          {
-            "name": "@shengjia_zhao",
-            "url": "https://x.com/shengjia_zhao/status/2075220782465290620"
-          }
-        ],
-        "tags": [
-          "Meta",
-          "Muse-Spark",
-          "open-model",
-          "cost-efficiency"
-        ],
-        "signal_strength": 0.9
-      },
-      {
-        "title": "中国放开阿里、字节、DeepSeek 采购限量英伟达 H200 芯片",
-        "signal_text": "据 The Information 独家，中国将允许阿里、字节跳动、DeepSeek 等头部 AI 公司采购限量英伟达 H200，以缓解高端训练算力短缺，同时仍在压降对美国芯片依赖。",
-        "insight": "中国前沿训练算力约束边际松动，但「限量 + 去美化」双轨基调不变。",
-        "implication": "中国开源/前沿模型迭代或提速，投资者可关注国产算力替代与中国模型出海两条线。",
+        "title": "谷歌力推 TPU 作为英伟达 GPU 的低价替代，英伟达以财务担保反击",
+        "signal_text": "据 The Information，谷歌正把 TPU 定位为比英伟达 GPU 更便宜、更可靠的替代品，瞄准围绕英伟达硬件搭建的云厂商；英伟达则以财务担保回应，帮这些厂商为新数据中心融资。",
+        "insight": "AI 算力争夺进入贴身战，英伟达罕见用金融手段守客户。",
+        "implication": "算力供给格局松动，芯片替代与数据中心融资结构是资本关注的新变量。",
         "sources": [
           {
             "name": "The Information",
-            "url": "https://x.com/theinformation/status/2075226006374248818"
-          },
-          {
-            "name": "MIT Technology Review",
-            "url": "https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/"
-          }
-        ],
-        "tags": [
-          "China",
-          "Nvidia",
-          "H200",
-          "compute"
-        ],
-        "signal_strength": 0.85
-      },
-      {
-        "title": "Anthropic 对消费者版最强模型 Claude Fable 5 改按用量收费",
-        "signal_text": "据 Wired，Anthropic 将要求 Claude 订阅用户为使用其最强消费级模型 Fable 5 额外支付按用量计费的费用，被视为「AI 订阅黄金时代」走向结束的信号。",
-        "insight": "旗舰模型定价从「包月无限」转向用量计价，成本随使用直接透传给用户。",
-        "implication": "用量计费成主流，做用量治理、成本优化与模型路由的工具型创业窗口打开。",
-        "sources": [
-          {
-            "name": "Wired",
-            "url": "https://www.wired.com/story/model-behavior-anthropic-will-charge-consumers-extra-to-use-claude-fable-5/"
-          }
-        ],
-        "tags": [
-          "Anthropic",
-          "pricing",
-          "business-model",
-          "subscription"
-        ],
-        "signal_strength": 0.8
-      },
-      {
-        "title": "OpenAI 二号人物 Fidji Simo 卸任 AGI 部署 CEO，转任兼职顾问",
-        "signal_text": "OpenAI 应用/AGI 部署负责人 Fidji Simo 因神经免疫疾病医疗休假超出预期，卸任全职职务、转为兼职顾问。此时正值 OpenAI 谋求 IPO 并在企业市场追赶 Anthropic。据 TechCrunch、The Verge。",
-        "insight": "关键高管在 IPO 与企业竞赛敏感期离场，OpenAI 应用/商业化条线出现领导真空。",
-        "implication": "头部实验室组织波动值得关注，企业采购方可考虑评估供应商的路线稳定性风险。",
-        "sources": [
-          {
-            "name": "TechCrunch",
-            "url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/"
-          },
-          {
-            "name": "The Verge",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor"
-          }
-        ],
-        "tags": [
-          "OpenAI",
-          "leadership",
-          "org",
-          "IPO"
-        ],
-        "signal_strength": 0.78
-      },
-      {
-        "title": "Google 发布端侧 Gemma 4，前沿级 AI 无需联网即可运行",
-        "signal_text": "Google 发布 Gemma 4，把前沿级 AI 带到本地设备，支持多模态与 agentic 体验、可离线运行；同日 Apple 加码 iPhone 端侧 AI，业界并有「数年内多数 AI 推理迁移至端侧」的讨论。",
-        "insight": "端侧/离线前沿模型能力显著增强，推理算力开始向设备侧转移。",
-        "implication": "端侧 AI 打开轻量垂直应用与隐私敏感场景创业窗口，利好边缘推理与本地 agent 工具团队。",
-        "sources": [
-          {
-            "name": "@googledevs",
-            "url": "https://x.com/googledevs/status/2075384509382443107"
-          },
-          {
-            "name": "The Information",
-            "url": "https://x.com/theinformation/status/2075320465971675363"
+            "url": "https://x.com/theinformation/status/2076766138164252928"
           }
         ],
         "tags": [
           "Google",
-          "Gemma",
-          "on-device",
-          "edge-ai"
-        ],
-        "signal_strength": 0.78
-      },
-      {
-        "title": "SK Hynix 融资 265 亿美元，创外企在美最大规模上市、超额认购 7 倍",
-        "signal_text": "据 Bloomberg，SK Hynix 以每股 149 美元发售 1.779 亿份 ADR，募资 265 亿美元，成为外国公司在美最大规模上市，认购超额 7 倍以上。",
-        "insight": "AI 内存需求把存储巨头推向史级募资，资本市场对 AI 硬件链高度追捧。",
-        "implication": "HBM/内存是 AI 算力扩张的硬约束，投资者可关注存储与供应链的持续景气。",
-        "sources": [
-          {
-            "name": "Bloomberg (via Techmeme)",
-            "url": "https://www.techmeme.com/260709/p41#a260709p41"
-          }
-        ],
-        "tags": [
-          "SK-Hynix",
-          "HBM",
-          "memory",
-          "capital-markets"
-        ],
-        "signal_strength": 0.75
-      },
-      {
-        "title": "新研究：企业多模型对冲降低失败率被高估约 2.25 倍",
-        "signal_text": "VentureBeat 引述一项评测 21 家厂商 67 个前沿模型的研究：多模型「互相补盲」的假设不成立，模型间失败高度相关（co-failure ceiling），企业实际失败率被低估约 2.25 倍。",
-        "insight": "多模型冗余的独立性假设被证伪，容灾可靠性可能只是纸面安全。",
-        "implication": "评测与可靠性工程被低估，做模型失败相关性度量与可靠性基建的团队有机会。",
-        "sources": [
-          {
-            "name": "VentureBeat",
-            "url": "https://venturebeat.com/orchestration/enterprises-using-multiple-ai-models-are-underestimating-failure-rates-by-2-25x"
-          }
-        ],
-        "tags": [
-          "evaluation",
-          "multi-model",
-          "reliability",
-          "research"
-        ],
-        "signal_strength": 0.75
-      },
-      {
-        "title": "MiniMax 拟融资最高 19 亿美元：售 3560 万股 + 约 8.3 亿美元可转债",
-        "signal_text": "据 Bloomberg，MiniMax 拟以每股约 34 美元出售 3560 万股、募资最高 19 亿美元，并发行约 8.3 亿美元 2027 年到期可转债。",
-        "insight": "中国头部模型公司加速资本化，为算力与竞赛补充弹药。",
-        "implication": "中国 AI 融资窗口活跃，投资者可关注国产模型公司的资本化节奏与估值锚。",
-        "sources": [
-          {
-            "name": "Bloomberg (via Techmeme)",
-            "url": "https://www.techmeme.com/260709/p45#a260709p45"
-          }
-        ],
-        "tags": [
-          "MiniMax",
-          "funding",
-          "China",
-          "capital-markets"
-        ],
-        "signal_strength": 0.72
-      },
-      {
-        "title": "OpenAI 关停 agentic 浏览器 ChatGPT Atlas，能力并入 ChatGPT Work",
-        "signal_text": "据 The Verge，OpenAI 将「日落」发布不到一年的 agentic 浏览器 ChatGPT Atlas，相关 computer-use 能力随 ChatGPT Work 并入主 agent 产品。",
-        "insight": "独立 agentic 浏览器形态收敛，computer-use 回归统一 agent 入口。",
-        "implication": "「独立浏览器 agent」未必是好载体，创业者可重估把 computer-use 内嵌主 agent 的路径。",
-        "sources": [
-          {
-            "name": "The Verge",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset"
-          }
-        ],
-        "tags": [
-          "OpenAI",
-          "Atlas",
-          "browser-agent",
-          "computer-use"
+          "TPU",
+          "Nvidia",
+          "算力",
+          "数据中心"
         ],
         "signal_strength": 0.7
+      },
+      {
+        "title": "CoreWeave 31 亿美元贷款吸引超 190 亿美元认购，AI 基建债务需求火爆",
+        "signal_text": "据 The Information，摩根士丹利为 CoreWeave 安排的 31 亿美元贷款吸引超过 190 亿美元投资者订单，显示市场对 AI 基础设施债务的旺盛胃口；但报道提醒这些贷款的期限可能长过其支撑的芯片与客户合同。",
+        "insight": "资本疯抢 AI 基建债，但资产寿命与债务期限错配的隐忧浮现。",
+        "implication": "AI 基建融资热度极高，投资人可警惕算力资产折旧快于债务的错配风险。",
+        "sources": [
+          {
+            "name": "The Information",
+            "url": "https://x.com/theinformation/status/2076751047507263725"
+          }
+        ],
+        "tags": [
+          "CoreWeave",
+          "AI基建",
+          "债务",
+          "融资",
+          "数据中心"
+        ],
+        "signal_strength": 0.66
       }
     ]
   },
@@ -25755,6 +24936,1036 @@
             "raw_item_indices": [
               18
             ]
+          }
+        ]
+      }
+    },
+    {
+      "week": "2026-W27",
+      "days": {
+        "2026-07-06": [
+          {
+            "title": "OpenAI GPT-5.6 呼之欲出：确认将进入 Codex，Altman 称其「发现新数学」",
+            "signal_text": "OpenAI 的 Thibault Sottiaux 发推确认 GPT-5.6 Sol Ultra 将进入编码 agent Codex，消息登上 Hacker News 热榜（73 points）；Sam Altman 同日发推把自家孩子的认知里程碑与「GPT-5.6 发现新数学」相提并论（获 1 万+ likes / 105 万 views），社区普遍解读为新模型发布临近。",
+            "insight": "旗舰模型的叙事从跑分转向「发现新数学」，科研能力成为下一代模型的主打卖点。",
+            "implication": "编码 agent 仍是新旗舰的第一落点，可关注 Codex 生态与「AI 做科研」方向的下游工具与评测机会。",
+            "sources": [
+              {
+                "name": "Thibault Sottiaux 推文 (via Hacker News)",
+                "url": "https://twitter.com/thsottiaux/status/2073933490513752151"
+              },
+              {
+                "name": "@sama",
+                "url": "https://x.com/sama/status/2073791666553844074"
+              }
+            ],
+            "tags": [
+              "OpenAI",
+              "GPT-5.6",
+              "Codex",
+              "旗舰模型"
+            ],
+            "signal_strength": 0.9
+          },
+          {
+            "title": "Anthropic 启动自研 AI 芯片，与三星洽谈代工",
+            "signal_text": "据 The Information 报道，Anthropic 已开始自研 AI 芯片的早期工作，并与三星电子洽谈潜在代工合作；此举跟随 OpenAI 的路线，意在掌控模型背后昂贵的算力体系。",
+            "insight": "头部模型商全面走向算力垂直整合，成本战已经打到硅片层。",
+            "implication": "长期推理成本曲线将被改写，可关注芯片设计服务、先进封装与代工产能等「军备竞赛卖水人」环节。",
+            "sources": [
+              {
+                "name": "The Information",
+                "url": "https://x.com/theinformation/status/2073799102165373204"
+              }
+            ],
+            "tags": [
+              "Anthropic",
+              "自研芯片",
+              "三星",
+              "算力"
+            ],
+            "signal_strength": 0.88
+          },
+          {
+            "title": "Zuckerberg 向员工承认：AI agent 进展慢于预期",
+            "signal_text": "据支付行业媒体 PYMNTS 报道，Meta CEO Mark Zuckerberg 告诉员工，AI agent 的进展没有预期那么快——这位今年承诺最高 1450 亿美元 AI 基础设施投入、并围绕 AI 重组公司的高管罕见地公开降温。",
+            "insight": "巨头亲自为 agent 热潮做预期管理，能力成熟度与资本投入之间的落差被摆上台面。",
+            "implication": "agent 赛道可能进入挤泡沫阶段，围绕可靠性、评测与落地交付的「补差价」生意值得关注。",
+            "sources": [
+              {
+                "name": "PYMNTS",
+                "url": "https://x.com/pymnts/status/2073778858122219983"
+              }
+            ],
+            "tags": [
+              "Meta",
+              "Zuckerberg",
+              "agent",
+              "预期管理"
+            ],
+            "signal_strength": 0.85
+          },
+          {
+            "title": "中国拟人化 AI 交互新规将生效，豆包与通义将下架拟人 agent",
+            "signal_text": "据南华早报（SCMP）报道，随着中国拟人化 AI 交互监管新规即将生效，字节跳动豆包与阿里通义将在 7 月 15 日前下架拟人化 agent 及用户自建 agent。",
+            "insight": "监管对象首次从生成内容延伸到交互形态，「拟人化程度」成为合规变量。",
+            "implication": "AI 陪伴与角色扮演类产品在中国面临形态重构，合规化改造与出海转移都值得留意。",
+            "sources": [
+              {
+                "name": "SCMP via Techmeme",
+                "url": "https://www.techmeme.com/260705/p9#a260705p9"
+              }
+            ],
+            "tags": [
+              "监管",
+              "中国",
+              "拟人化AI",
+              "豆包",
+              "通义"
+            ],
+            "signal_strength": 0.85
+          },
+          {
+            "title": "Amazon 将停收 Mechanical Turk 新客户，众包标注时代走向收尾",
+            "signal_text": "据 TechCrunch 报道，Amazon 将停止接受众包平台 Mechanical Turk 的新客户注册。MTurk 运营约二十年，长期是 AI 行业数据标注与人工任务外包的标志性基础设施，TechCrunch 评论称「这可能是 MTurk 的最后时光」。",
+            "insight": "通用众包标注被 AI 辅助标注与专家数据取代，一个训练数据时代落幕。",
+            "implication": "数据生产正向高价值专家数据与合成数据迁移，Scale/Surge 之外的专家数据网络仍有创业空间。",
+            "sources": [
+              {
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/"
+              }
+            ],
+            "tags": [
+              "Amazon",
+              "数据标注",
+              "MTurk",
+              "众包"
+            ],
+            "signal_strength": 0.8
+          },
+          {
+            "title": "Tesla Robotaxi 在迈阿密去掉安全员运营，年底目标扩到 12 个州",
+            "signal_text": "据 The Information 报道，Tesla 在迈阿密上线无安全员的 Robotaxi 服务，这是其第五个运营城市，并计划到 2026 年底扩展至美国约 12 个州。",
+            "insight": "Robotaxi 竞争进入「去安全员＋跨州复制」的规模化阶段。",
+            "implication": "自动驾驶的商业化叙事重新加速，可关注车队运营、远程接管与保险定价等配套环节。",
+            "sources": [
+              {
+                "name": "The Information via Techmeme",
+                "url": "https://www.techmeme.com/260705/p10#a260705p10"
+              }
+            ],
+            "tags": [
+              "Tesla",
+              "Robotaxi",
+              "自动驾驶"
+            ],
+            "signal_strength": 0.8
+          },
+          {
+            "title": "Palantir 称部分美国政府客户弃用闭源模型，改用 Nvidia 开源 Nemotron",
+            "signal_text": "据 The Information 报道，大数据分析公司 Palantir 的 CEO Alex Karp 称，部分美国政府客户已从闭源商业模型切换到 Nvidia 开源的 Nemotron 系列模型，卖点是把敏感工作留在可信的应用层内，而非直接依赖 OpenAI 或 Anthropic。",
+            "insight": "敏感场景的信任卖点从「最强模型」转向「开源模型＋可控应用层」，应用层拿走议价权。",
+            "implication": "开源模型加可信应用层的组合正在敏感行业验证商业模式，做行业应用层的公司可借此摆脱模型商绑定。",
+            "sources": [
+              {
+                "name": "The Information",
+                "url": "https://x.com/theinformation/status/2073806621088628915"
+              }
+            ],
+            "tags": [
+              "Palantir",
+              "Nvidia",
+              "Nemotron",
+              "开源模型",
+              "政府"
+            ],
+            "signal_strength": 0.78
+          },
+          {
+            "title": "The Information：模型路由器成为企业压缩 AI 成本的主流选择",
+            "signal_text": "据 The Information 报道，模型路由器（model router）正成为企业削减 AI 成本的首选方式——把简单任务分流给便宜模型。报道认为路由的兴起会让客户的 token 支出更有纪律，对前沿模型厂商形成定价压力。",
+            "insight": "路由层正成为多模型时代的价值捕获点，token 支出进入纪律化阶段。",
+            "implication": "前沿模型商的定价权被路由稀释，路由/网关类基础设施的创业与投资窗口值得关注。",
+            "sources": [
+              {
+                "name": "The Information",
+                "url": "https://x.com/theinformation/status/2073821717886062970"
+              }
+            ],
+            "tags": [
+              "模型路由",
+              "成本",
+              "基础设施"
+            ],
+            "signal_strength": 0.75
+          },
+          {
+            "title": "Claude Science 的开源替代品数日内密集出现，主打 local-first",
+            "signal_text": "GitHub 趋势榜短期内出现多个对标 Anthropic Claude Science 的开源项目：ai4s-research/open-science（153 stars）与 synthetic-sciences/openscience（139 stars），均主打 local-first、模型无关的 AI 科研工作台，基于 Tauri/MCP 与 agent skills 构建。",
+            "insight": "爆款 AI 产品形态从发布到被开源复刻只需数日，形态本身不构成护城河。",
+            "implication": "产品形态红利窗口持续缩短，闭源产品可考虑把壁垒押在数据、分发与工作流深度上而非界面形态。",
+            "sources": [
+              {
+                "name": "GitHub - open-science",
+                "url": "https://github.com/ai4s-research/open-science"
+              },
+              {
+                "name": "GitHub - openscience",
+                "url": "https://github.com/synthetic-sciences/openscience"
+              }
+            ],
+            "tags": [
+              "开源",
+              "Claude Science",
+              "AI4Science",
+              "local-first"
+            ],
+            "signal_strength": 0.72
+          },
+          {
+            "title": "KKR 支持的 Helix 携 100 亿美元寻购美国数据中心",
+            "signal_text": "据 The Information 报道，KKR 支持的 Helix 正在美国寻找数据中心收购标的，以启动其 AI 基础设施布局；该项目背后有超过 100 亿美元资金，试图在超大规模云厂商需求降温前抢先清除瓶颈。",
+            "insight": "PE 巨头开始用并购而非新建的方式抢占 AI 数据中心产能，卡位窗口意识明显。",
+            "implication": "AI 基础设施进入金融化阶段，存量数据中心资产的估值与整合机会值得投资者留意。",
+            "sources": [
+              {
+                "name": "The Information",
+                "url": "https://x.com/theinformation/status/2073791519379591372"
+              }
+            ],
+            "tags": [
+              "KKR",
+              "数据中心",
+              "AI基础设施",
+              "并购"
+            ],
+            "signal_strength": 0.68
+          }
+        ],
+        "2026-07-07": [
+          {
+            "title": "腾讯开源 Apache 许可模型 Hy3：体量减半、多数评测胜过 GLM-5.2",
+            "signal_text": "据 VentureBeat，腾讯发布 Apache 2.0 许可的开源模型 Hy3，以约一半参数在多数评测上超过 GLM-5.2（仅编码落后）；社区（@NielsRogge、@gneubig）称其在 MCP-Atlas 等 agent 评测上刷新开源 SOTA，且 Apache 许可不排除欧盟/英国/韩国，扫清企业合规障碍。",
+            "insight": "中国开源模型的竞争焦点从跑分转向「许可证能否进合规」，Apache 化才能真正被企业采用。",
+            "implication": "无地域限制的可商用开源模型正打开受监管市场，值得关注围绕合规开源模型的私有部署与选型服务创业机会。",
+            "sources": [
+              {
+                "name": "VentureBeat",
+                "url": "https://venturebeat.com/technology/tencents-apache-licensed-hy3-takes-on-glm-5-2-at-half-the-size-and-wins-everywhere-except-coding"
+              },
+              {
+                "name": "@NielsRogge",
+                "url": "https://x.com/NielsRogge/status/2074204285051568285"
+              }
+            ],
+            "tags": [
+              "腾讯",
+              "Hy3",
+              "开源模型",
+              "Apache",
+              "GLM"
+            ],
+            "signal_strength": 0.82
+          },
+          {
+            "title": "小企业用 Claude Code、Replit、Lovable 自建应用替代 Salesforce，软件成本砍 40%–80%",
+            "signal_text": "据 The Information，越来越多小企业用 Claude Code、Replit、Lovable 等 AI 编码/搭建工具自建定制应用，替换 Salesforce、HubSpot，部分公司软件成本下降 40%–80%。",
+            "insight": "AI 编码把「自建替代 SaaS」从极客玩法变成中小企业的省钱现实，SaaS 订阅护城河首次被正面冲击。",
+            "implication": "「AI 自建 vs 买 SaaS」的临界点正在到来，利好做自建应用托管、模板与迁移工具的早期团队，也值得重估被替代 SaaS 的估值逻辑。",
+            "sources": [
+              {
+                "name": "The Information",
+                "url": "https://x.com/theinformation/status/2074146489605967970"
+              }
+            ],
+            "tags": [
+              "Claude Code",
+              "SaaS替代",
+              "Salesforce",
+              "低代码",
+              "企效"
+            ],
+            "signal_strength": 0.83
+          },
+          {
+            "title": "Tesla 给工程师设每周 200 美元 AI token 上限，行业围剿「tokenmaxxing」",
+            "signal_text": "据 The Information，Tesla 对内部工程师 AI token 消耗设每周 200 美元硬上限（此前部分工程师每周烧掉数千美元），报道称这是企业界收紧「tokenmaxxing」的行业性动作。",
+            "insight": "AI 编码从「无限报销」进入精细化成本治理，token 支出成为企业新的管理科目。",
+            "implication": "企业 AI 成本治理正在成为刚需，token 用量监控、成本分摊与优化工具是一条清晰的 to B 创业与投资赛道。",
+            "sources": [
+              {
+                "name": "The Information",
+                "url": "https://x.com/theinformation/status/2074259767128728003"
+              }
+            ],
+            "tags": [
+              "Tesla",
+              "token成本",
+              "企业AI治理",
+              "tokenmaxxing"
+            ],
+            "signal_strength": 0.8
+          },
+          {
+            "title": "Anthropic 发布「J-lens」：Claude 内部自发形成类似意识理论的「工作空间」",
+            "signal_text": "Anthropic 发表研究（VentureBeat 报道、@omarsar0 称「必读」）称 Claude 内部自发形成了类似人类意识主流理论（global workspace）的结构，并提出 J-lens/J-Space 方法观测内部推理，公司称已用于改进 AI 安全监控。",
+            "insight": "可解释性从观测 token 走向观测模型「内部工作空间」，为安全监控提供新抓手。",
+            "implication": "模型内部状态可解释性正成为安全与对齐的新前沿，值得关注可解释性工具与 AI 安全监控方向的研究与创业。",
+            "sources": [
+              {
+                "name": "VentureBeat",
+                "url": "https://venturebeat.com/technology/anthropics-new-j-lens-reveals-a-silent-workspace-inside-claude-that-mirrors-a-leading-theory-of-consciousness"
+              },
+              {
+                "name": "@omarsar0",
+                "url": "https://x.com/omarsar0/status/2074264122330612223"
+              }
+            ],
+            "tags": [
+              "Anthropic",
+              "可解释性",
+              "J-lens",
+              "AI安全",
+              "研究"
+            ],
+            "signal_strength": 0.85
+          },
+          {
+            "title": "SpaceX 更名 SpaceXAI，与 Anthropic、OpenAI 同期涌向 IPO",
+            "signal_text": "SpaceX 官方账号宣布更名为 @SpaceXAI（获 3200+ likes / 14 万 views）；同日 The Information 报道 Anthropic、OpenAI、SpaceX 正同期推进公开上市，引发顶级律所与投行抢单，Freshfields 拿下 Anthropic 的 IPO。",
+            "insight": "头部 AI/科技公司集中冲刺 IPO，AI 叙事成为资本市场今年最大主线。",
+            "implication": "一级市场向公开市场的集中兑现窗口打开，值得关注 AI 龙头上市对整个赛道估值与二级资金流向的带动。",
+            "sources": [
+              {
+                "name": "@SpaceXAI",
+                "url": "https://x.com/SpaceXAI/status/2074214064746832060"
+              },
+              {
+                "name": "The Information",
+                "url": "https://x.com/theinformation/status/2074214319076589659"
+              }
+            ],
+            "tags": [
+              "SpaceXAI",
+              "IPO",
+              "Anthropic",
+              "OpenAI",
+              "资本市场"
+            ],
+            "signal_strength": 0.8
+          },
+          {
+            "title": "agentic commerce 卡在基建层：商品目录 agent 不可读、agent 间交易缺共享账本",
+            "signal_text": "PYMNTS 两项研究指出 agentic commerce 的准备度鸿沟：联合 PayPal Open 发现仅约 1/5 商家的商品目录是 agent 可读格式；数字资产基建商 Taurus 高管称 AI agent 相互交易需要共享账本来建立信任、交换价值。",
+            "insight": "agent 购物的瓶颈不在模型，而在商品数据可读性与 agent 间清算信任层。",
+            "implication": "agentic commerce 的机会正从模型层下沉到「数据结构化 + agent 清算/身份」基建，是支付与电商交叉地带值得布局的创业窗口。",
+            "sources": [
+              {
+                "name": "PYMNTS×PayPal Open",
+                "url": "https://x.com/pymnts/status/2074184098260615462"
+              },
+              {
+                "name": "Taurus via PYMNTS",
+                "url": "https://x.com/pymnts/status/2074176649235476733"
+              }
+            ],
+            "tags": [
+              "agentic commerce",
+              "支付",
+              "RAG",
+              "清算",
+              "PayPal"
+            ],
+            "signal_strength": 0.78
+          },
+          {
+            "title": "Vercel CEO：生产环境要把模型与 agent 解耦、按性价比选型",
+            "signal_text": "Vercel CEO Guillermo Rauch 对 TechCrunch 表示，生产环境优化会走向看 price/performance、把「模型」和「agent」拆开，不再把具体模型与 agent 绑死。",
+            "insight": "agent 与底层模型正在解耦，模型走向可替换的性价比组件。",
+            "implication": "模型-agent 解耦利好做性价比路由、多模型编排的中间层，模型商品化下价值向应用与编排层转移。",
+            "sources": [
+              {
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/"
+              }
+            ],
+            "tags": [
+              "Vercel",
+              "模型解耦",
+              "多模型路由",
+              "agent"
+            ],
+            "signal_strength": 0.72
+          },
+          {
+            "title": "「LLM 即将商品化」声浪渐起，市场质疑 AI 巨额资本开支能否收回",
+            "signal_text": "Gary Marcus 引 @MadisonMills22 报道称「LLM 正字面意义上走向商品化」（获 2 万+ views）；The Information 另称微软按分部估值可达约 3.8 万亿美元、远高于当前企业价值，差距反映投资者对 AI 支出与软件被颠覆的疑虑。",
+            "insight": "模型能力趋同叠加天量 capex，市场开始质疑 AI 基础层的回报率。",
+            "implication": "若模型走向商品化，价值将向应用与分发层转移，值得关注在成本下行中做垂直应用、以及押注「谁的 AI 支出收不回」的资本再定价。",
+            "sources": [
+              {
+                "name": "@GaryMarcus",
+                "url": "https://x.com/GaryMarcus/status/2074129913159074042"
+              },
+              {
+                "name": "The Information",
+                "url": "https://x.com/theinformation/status/2074131358545248576"
+              }
+            ],
+            "tags": [
+              "LLM商品化",
+              "capex",
+              "微软",
+              "AI泡沫",
+              "资本"
+            ],
+            "signal_strength": 0.72
+          },
+          {
+            "title": "Google DeepMind 与 Apptronik 扩大合作，用 Apollo 2 人形机器人真实数据训练 Gemini Robotics",
+            "signal_text": "Google DeepMind 官宣随 Apptronik 扩建 Robot Park 设施，最新 Apollo 2 人形平台采集的真实世界数据将用于训练并推进 Gemini Robotics（获 330+ likes / 3.4 万 views）。",
+            "insight": "头部大模型公司加码「真实世界数据 × 人形机器人」闭环，physical AI 竞赛升温。",
+            "implication": "具身智能的数据飞轮正在成形，机器人真实数据采集、仿真与 VLA 模型是下一波值得关注的创业与投资方向。",
+            "sources": [
+              {
+                "name": "@GoogleDeepMind",
+                "url": "https://x.com/GoogleDeepMind/status/2074157282477154597"
+              }
+            ],
+            "tags": [
+              "Google DeepMind",
+              "具身智能",
+              "人形机器人",
+              "Gemini Robotics",
+              "Apptronik"
+            ],
+            "signal_strength": 0.78
+          },
+          {
+            "title": "新研究命名 agent「幽灵记忆」：长跑 agent 自信复述已过时的旧事实",
+            "signal_text": "AI 研究策展人 @omarsar0 介绍的一项新研究把 agent 的一类失败命名为「ghost memory」——长时间运行的 agent 会自信重复几周前已失效的用户事实，症结在新旧事实及其过渡的处理。",
+            "insight": "记忆保鲜是长跑 agent 可靠性的关键短板，也是当前 agent 落地的隐性 bug 来源。",
+            "implication": "agent 记忆治理（知识保鲜、旧事实失效、冲突消解）是尚未被满足的基础能力，值得关注做 agent 记忆层的早期项目。",
+            "sources": [
+              {
+                "name": "@omarsar0",
+                "url": "https://x.com/omarsar0/status/2074121191846261022"
+              }
+            ],
+            "tags": [
+              "agent记忆",
+              "ghost memory",
+              "可靠性",
+              "研究"
+            ],
+            "signal_strength": 0.7
+          }
+        ],
+        "2026-07-08": [
+          {
+            "title": "Meta 发布首批自研媒体生成模型 Muse Image 与 Muse Video",
+            "signal_text": "Meta Superintelligence Labs 推出 Muse Image（其最强图像生成模型，支持推理、精修、工具调用与明显的 test-time scaling）及 Muse Video 预览版，已接入 Meta AI、Instagram、WhatsApp，并引入隐形水印 Content Seal 与 AI 图像检测工具。据 The Verge、Meta 官方 @AIatMeta；Instagram 公开账号照片默认可被他人用于 AI 生成、需手动 opt-out，引发用户反弹。",
+            "insight": "MSL 首秀落在多模态生成，Meta 用社交图库加默认授权补齐数据壁垒。",
+            "implication": "图像生成进入「可推理、可精修」阶段，端到端创意工具与合规水印、检测配套是值得探索的新产品位。",
+            "sources": [
+              {
+                "name": "The Verge",
+                "url": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram"
+              },
+              {
+                "name": "@AIatMeta",
+                "url": "https://x.com/AIatMeta/status/2074577662840832382"
+              }
+            ],
+            "tags": [
+              "多模态",
+              "Meta",
+              "图像生成",
+              "水印"
+            ],
+            "signal_strength": 0.85
+          },
+          {
+            "title": "Anthropic 把 Claude Cowork 推向手机与网页，多数用户并非在写代码",
+            "signal_text": "Anthropic 上线 Claude Cowork 网页版与移动版（先对 Max 订阅者 beta），关掉笔记本后 agent 仍在云端后台继续跑任务；官方使用数据显示多数用户做的是通用知识工作而非编程，网页端 Chat 与 Cowork 也合并为同一入口。据 VentureBeat、Wired。",
+            "insight": "编程 agent 向「随身、后台常驻的知识工作 agent」扩张，跨端后台执行成新交互范式。",
+            "implication": "长跑 agent 的价值正从桌面 IDE 转向移动加云端常驻，利好做通用办公自动化与任务托管的团队。",
+            "sources": [
+              {
+                "name": "VentureBeat",
+                "url": "https://venturebeat.com/technology/anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-data-shows-most-users-arent-coding"
+              }
+            ],
+            "tags": [
+              "Agent",
+              "Anthropic",
+              "交互范式",
+              "移动"
+            ],
+            "signal_strength": 0.82
+          },
+          {
+            "title": "微软加入 AI 降本潮、更多改用自研模型，但 MAI-1 基准疑逊于 Sonnet 4.6",
+            "signal_text": "TechCrunch 报道微软成为最新一家削减 AI 支出、转向更多依赖自研模型的硅谷巨头。沃顿教授 Ethan Mollick 指微软 MAI-1 尚无独立基准，官方释出的数据暗示其表现或不及 Anthropic Sonnet 4.6，用作 Office Copilot 前景存疑。",
+            "insight": "巨头「自研替代外采」降本，但自研模型质量差距仍是硬约束。",
+            "implication": "模型分层与「够用即自研」成企业主流，换用前用独立基准验证、辅以性价比路由是更稳的解。",
+            "sources": [
+              {
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/"
+              },
+              {
+                "name": "@emollick",
+                "url": "https://x.com/emollick/status/2074595359364411651"
+              }
+            ],
+            "tags": [
+              "Microsoft",
+              "成本控制",
+              "模型分层",
+              "MAI-1"
+            ],
+            "signal_strength": 0.75
+          },
+          {
+            "title": "智谱启动自研 AI 芯片洽谈，减少对英伟达与华为依赖",
+            "signal_text": "The Information 独家：中国 AI 实验室智谱（Z.ai）已与国内芯片设计商就为其 GLM 模型定制处理器展开早期谈判，以缓解算力约束、降低对华为与英伟达的依赖，凸显头部 AI 厂商在出口管制下加速掌控自有基础设施。",
+            "insight": "出口管制下，中国头部模型厂从「买算力」转向「造算力」控成本。",
+            "implication": "开源模型加自研芯片的中国栈成本可能进一步下探，值得关注其对性价比路由与私有化选型的冲击。",
+            "sources": [
+              {
+                "name": "@theinformation",
+                "url": "https://x.com/theinformation/status/2074510438876737826"
+              }
+            ],
+            "tags": [
+              "智谱",
+              "AI芯片",
+              "出口管制",
+              "中国AI"
+            ],
+            "signal_strength": 0.7
+          },
+          {
+            "title": "OpenAI 大金主转押「AI 落地」：软银等向 Thrive Holdings 注资约 20 亿美元",
+            "signal_text": "The Information 独家：软银、Altimeter、D1 正以约 20 亿美元投资 Thrive Capital 关联的 Thrive Holdings——它收购会计、IT 等服务型公司并用 AI 重构。OpenAI 的部分最大金主正把赌注从「造模型」转向「AI 采用与落地」。",
+            "insight": "资本开始押注 AI 应用与传统服务改造，而非再堆模型。",
+            "implication": "「买下服务公司加 AI 重构」成新范式，AI 能力对外商业化可瞄准垂直服务场景的整包改造。",
+            "sources": [
+              {
+                "name": "@theinformation",
+                "url": "https://x.com/theinformation/status/2074516337607471226"
+              }
+            ],
+            "tags": [
+              "投资",
+              "AI落地",
+              "软银",
+              "商业模式"
+            ],
+            "signal_strength": 0.72
+          },
+          {
+            "title": "英伟达 Vera CPU 主打 agentic 运行时，Perplexity 已试用",
+            "signal_text": "英伟达推出 Vera——号称规模化下最强单线程 CPU，专为 agentic 系统「逐步串行推理、工具调用、代码执行」设计，缓解 CPU 拖慢整个 agent 循环、GPU 空转的问题。Perplexity CEO Aravind Srinivas 称已在为其 Perplexity Computer 的沙箱基础设施采用 Vera 并取得明显提升。",
+            "insight": "agent 长跑瓶颈从 GPU 转到单线程 CPU，硬件开始为 agentic 运行时定制。",
+            "implication": "agent 云运行时的成本结构正被重写，自建、私有化 agent 平台可重新评估算力配比。",
+            "sources": [
+              {
+                "name": "@nvidia",
+                "url": "https://x.com/nvidia/status/2074510027897844105"
+              },
+              {
+                "name": "@AravSrinivas",
+                "url": "https://x.com/AravSrinivas/status/2074619120847589444"
+              }
+            ],
+            "tags": [
+              "NVIDIA",
+              "Agent运行时",
+              "CPU",
+              "基础设施"
+            ],
+            "signal_strength": 0.7
+          },
+          {
+            "title": "英伟达把 Nemotron MoE 压成 Puzzle-75B-A9B，交互吞吐约翻倍",
+            "signal_text": "据 NVIDIA 论文（@omarsar0 转介），英伟达将混合 MoE 模型 Nemotron-3-Super 压缩为 Puzzle-75B-A9B，在交互式延迟下将服务器吞吐约提升一倍、质量基本保持。更大的 MoE 虽赢在质量，但在交互延迟下的服务仍然困难。",
+            "insight": "MoE 服务化的关键不是更大，而是交互延迟下的吞吐与成本。",
+            "implication": "面向自部署的模型压缩（结构裁剪加吞吐优化）是降本抓手，可纳入模型服务与私有化选型。",
+            "sources": [
+              {
+                "name": "@omarsar0 (NVIDIA)",
+                "url": "https://x.com/omarsar0/status/2074543978129793462"
+              }
+            ],
+            "tags": [
+              "NVIDIA",
+              "MoE",
+              "推理优化",
+              "模型压缩"
+            ],
+            "signal_strength": 0.68
+          },
+          {
+            "title": "Anthropic 发布基于阿里 Qwen 的开源演示，前沿闭源实验室罕见「站在中国开源上」",
+            "signal_text": "HuggingFace 联合创始人 Julien Chaumond 指出，Anthropic（联合 Neuronpedia）发布了构建在阿里 Qwen 之上的开源演示，直言「没想到会看到」。前沿闭源实验室在可解释性等工作上直接采用中国开源权重，值得注意。",
+            "insight": "中国开源权重成为连前沿闭源实验室都在用的研究基座。",
+            "implication": "开源模型可自部署、可深挖的价值再获背书，私有化部署与自建实验可优先纳入开源权重。",
+            "sources": [
+              {
+                "name": "@julien_c",
+                "url": "https://x.com/julien_c/status/2074496845565317358"
+              }
+            ],
+            "tags": [
+              "Anthropic",
+              "Qwen",
+              "开源",
+              "可解释性"
+            ],
+            "signal_strength": 0.62
+          },
+          {
+            "title": "FLI 安全指数：领跑的 Anthropic 也只拿到 C+",
+            "signal_text": "据 The Information，由 MIT 教授、Future of Life Institute 主席 Max Tegmark 参与的报告显示，Anthropic 在 AI 实验室安全性上领先，但仅获 C+ 评级，头部实验室整体安全成熟度偏低。",
+            "insight": "连安全标杆都只到 C+，前沿实验室安全治理集体不及格。",
+            "implication": "第三方安全评测正成为公共标尺，评测、红队能力与安全 benchmark 值得作为长期储备。",
+            "sources": [
+              {
+                "name": "@theinformation",
+                "url": "https://x.com/theinformation/status/2074604588783542426"
+              }
+            ],
+            "tags": [
+              "AI安全",
+              "评测",
+              "FLI",
+              "Tegmark"
+            ],
+            "signal_strength": 0.6
+          },
+          {
+            "title": "Box 调研：内容获取与治理成 AI 领先与掉队企业的分水岭",
+            "signal_text": "Box 对美英法日 1640 名 IT 决策者的《State of AI in the enterprise》报告显示，内容访问、治理与平台灵活性正成为 AI 领先者与落后者的分界线；企业级 AI 成效更取决于能否让 agent 安全触达内部内容。",
+            "insight": "企业 AI 的胜负手从模型转向「内部内容能否被 agent 安全取用」。",
+            "implication": "知识库（RAG）与内容治理是企业 AI 落地的地基，做好权限内检索、元数据与知识保鲜即卡位价值点。",
+            "sources": [
+              {
+                "name": "VentureBeat",
+                "url": "https://venturebeat.com/orchestration/box-survey-why-enterprise-ai-leaders-are-outperforming-their-peers"
+              }
+            ],
+            "tags": [
+              "企业AI",
+              "数据治理",
+              "RAG",
+              "Box"
+            ],
+            "signal_strength": 0.66
+          }
+        ],
+        "2026-07-09": [
+          {
+            "title": "Cognition 发布 SWE-1.7：从 Kimi K2.7 训练而来，1000 tokens/秒逼近旗舰",
+            "signal_text": "AI 编程公司 Cognition（Devin 开发商）发布 SWE-1.7：基于月之暗面开源模型 Kimi K2.7 训练，推理速度达 1,000 tokens/秒，官方称在编码基准上接近 GPT-5.5 与 Claude Opus 4.8、成本更低。The Information 同日评论称，下半年可能属于「压推理运行成本」而非「堆更大模型」的公司。",
+            "insight": "编码模型竞争进入「蒸馏开源底座、卖速度和成本」阶段，模型层护城河变薄。",
+            "implication": "「开源底座 + 垂直蒸馏」的应用层打法值得关注，速度与单位成本正成为新的差异化窗口。",
+            "sources": [
+              {
+                "name": "Cognition",
+                "url": "https://cognition.com/blog/swe-1-7"
+              },
+              {
+                "name": "The Information",
+                "url": "https://x.com/theinformation/status/2074584267263271106"
+              }
+            ],
+            "tags": [
+              "coding-agent",
+              "distillation",
+              "inference-cost",
+              "open-source"
+            ],
+            "signal_strength": 0.9
+          },
+          {
+            "title": "OpenAI 审计发现 SWE-Bench Pro 约 30% 任务损坏，撤回采用建议",
+            "signal_text": "OpenAI 官方博客称在编码基准 SWE-Bench Pro 中发现大范围任务缺陷，估计约 30% 的任务本身已损坏，并撤回此前建议业界采用该基准的表态。",
+            "insight": "头部实验室公开打假主流基准，评测公信力成为行业基础设施级缺口。",
+            "implication": "可信评测与基准审计（「评测的评测」）是值得探索的创业与投资方向。",
+            "sources": [
+              {
+                "name": "OpenAI",
+                "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations"
+              }
+            ],
+            "tags": [
+              "evaluation",
+              "benchmark",
+              "SWE-Bench"
+            ],
+            "signal_strength": 0.85
+          },
+          {
+            "title": "DeepSeek-V4 已可本地运行：168GB 内存无损、110GB 的 Mac 可跑 3-bit",
+            "signal_text": "开源微调/量化框架 Unsloth（官方推文获 400+ likes）发布 DeepSeek-V4 的 GGUF 量化版本：DeepSeek-V4-Flash 在 168GB 内存上可无损运行，3-bit 版本可在 110GB 内存/显存的 Mac 等设备上跑，支持经 Unsloth Studio 或 llama.cpp 部署。",
+            "insight": "旗舰级开源模型量化后进入「单机可跑」区间，私有化与端侧推理成本骤降。",
+            "implication": "本地推理工具链与数据驻留场景的解决方案生意值得关注。",
+            "sources": [
+              {
+                "name": "Unsloth",
+                "url": "https://x.com/UnslothAI/status/2074509042341576977"
+              }
+            ],
+            "tags": [
+              "open-source",
+              "quantization",
+              "local-inference",
+              "DeepSeek"
+            ],
+            "signal_strength": 0.8
+          },
+          {
+            "title": "AI 推理芯片公司 Positron 洽谈融资约 7.5 亿美元，估值最高 50 亿美元",
+            "signal_text": "据 Bloomberg，被视为英伟达挑战者的美国 AI 推理芯片创业公司 Positron 正洽谈分两阶段融资约 7.5 亿美元：第一批按 35 亿美元估值、第二批按约 50 亿美元估值。",
+            "insight": "推理侧算力的资本热度外溢到英伟达之外，专用推理芯片赛道被重估。",
+            "implication": "投资视角可关注推理性价比芯片及其配套软件栈的生态位。",
+            "sources": [
+              {
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com/news/articles/2026-07-08/nvidia-rival-positron-holds-talks-to-raise-funds-at-5-billion-valuation"
+              }
+            ],
+            "tags": [
+              "funding",
+              "AI-chip",
+              "inference"
+            ],
+            "signal_strength": 0.75
+          },
+          {
+            "title": "Pika 与 Higgsfield 就高度相似的 AI 营销视频互撕，创意模仿难以监管",
+            "signal_text": "据 The Information，AI 视频公司 Pika 与 Higgsfield 正因高度相似的 AI 生成营销视频发生纠纷；随着视频生成工具变得更便宜更快，「模仿」正变得越来越难以监管，给创意工作带来新风险。",
+            "insight": "AI 视频生成同质化后，风格与创意不再构成可防守的壁垒。",
+            "implication": "创意工具的护城河转向分发、工作流与品牌资产，纯生成能力难守。",
+            "sources": [
+              {
+                "name": "The Information",
+                "url": "https://x.com/theinformation/status/2074561604453036161"
+              }
+            ],
+            "tags": [
+              "AI-video",
+              "IP",
+              "creative-tools"
+            ],
+            "signal_strength": 0.7
+          },
+          {
+            "title": "SkillCenter 论文：21.7 万条可溯源技能，号称最大的开源 agent 技能库",
+            "signal_text": "研究者 Tianming Sha、Yue Zhao、Lichao Sun 等发布 SkillCenter，称是目前总量最大的开源 agent 技能库：216,938 条结构化技能、覆盖 24 个领域包，经 SkillGate 过滤管线保证技能可溯源（source-grounded），目标是让 agent 产出不止可执行，还要正确、安全、可维护。",
+            "insight": "agent 技能从作坊式手写走向规模化、可溯源的公共资产。",
+            "implication": "技能治理、审核与分发——agent 生态的「App Store 层」——值得创业者关注。",
+            "sources": [
+              {
+                "name": "arXiv",
+                "url": "https://arxiv.org/abs/2607.07676v1"
+              }
+            ],
+            "tags": [
+              "agent",
+              "skill-library",
+              "open-source"
+            ],
+            "signal_strength": 0.68
+          },
+          {
+            "title": "康奈尔团队提出 Co-LMLM：把事实知识外置到知识库，生成时按需取用",
+            "signal_text": "康奈尔大学知名学者 Kilian Weinberger、Yoav Artzi 等团队发布 Co-LMLM 论文：LMLM（limited memory LM）范式在预训练阶段把事实知识外置到外部知识库、而非记进权重，生成时按需检索，带来常规 LLM 做不到的知识可控性（可更新、可删改），该工作进一步提出连续查询机制。",
+            "insight": "把事实知识外置出权重，让「知识更新」与「能力训练」彻底解耦。",
+            "implication": "知识可控性（可删、可更新、可审计）可能成为企业级 LLM 的合规卖点，值得跟踪。",
+            "sources": [
+              {
+                "name": "arXiv",
+                "url": "https://arxiv.org/abs/2607.07707v1"
+              }
+            ],
+            "tags": [
+              "research",
+              "knowledge-base",
+              "RAG",
+              "architecture"
+            ],
+            "signal_strength": 0.7
+          },
+          {
+            "title": "LeRobot 0.6 集成英伟达 GR00T 1.7 与 Isaac Teleop，开源机器人栈升级",
+            "signal_text": "英伟达官方宣布与 HuggingFace 扩大合作：LeRobot 0.6 集成 Isaac GR00T 1.7（面向人形机器人的开源 VLA 模型）与 Isaac Teleop 遥操作框架，让 1,900 万开发者可直接使用前沿具身智能工具，并提供安装、数据采集的分步指南。",
+            "insight": "开源机器人栈补齐「模型 + 遥操作 + 社区」闭环，具身智能开发门槛快速下降。",
+            "implication": "具身智能的数据采集与仿真工具链存在早期机会，值得关注。",
+            "sources": [
+              {
+                "name": "NVIDIA Robotics",
+                "url": "https://x.com/NVIDIARobotics/status/2074380795855147072"
+              }
+            ],
+            "tags": [
+              "robotics",
+              "embodied-AI",
+              "open-source",
+              "NVIDIA"
+            ],
+            "signal_strength": 0.7
+          },
+          {
+            "title": "HuggingFace 开讲模型蒸馏：手把手教开发者训练定制 agent 模型",
+            "signal_text": "HuggingFace 官方推出「Training Agents」系列第二讲，以直播教程形式讲解如何用 model distillation 训练定制化的 agent 模型。",
+            "insight": "蒸馏定制专属 agent 小模型，正被平民化成标准开发工作流。",
+            "implication": "面向中小团队的「蒸馏即服务」与配套数据管线工具值得探索。",
+            "sources": [
+              {
+                "name": "HuggingFace",
+                "url": "https://x.com/huggingface/status/2074508881984934265"
+              }
+            ],
+            "tags": [
+              "distillation",
+              "agent",
+              "developer-tools"
+            ],
+            "signal_strength": 0.6
+          },
+          {
+            "title": "中国队夺得 RoboCup 2026：AI 人形机器人自主踢完整场足球",
+            "signal_text": "科技博主 Min Choi 报道，中国队伍凭借 AI 驱动的人形机器人夺得 RoboCup 2026 冠军：机器人自主完成看球、决策、队内协作与射门，展现出团队级协作能力。",
+            "insight": "自主人形机器人已能完成感知—决策—协作的整队比赛，具身协作在提速。",
+            "implication": "多机协同与团队级策略学习或是具身智能的下一个技术叙事，值得留意。",
+            "sources": [
+              {
+                "name": "@minchoi",
+                "url": "https://x.com/minchoi/status/2074495082389033157"
+              }
+            ],
+            "tags": [
+              "robotics",
+              "embodied-AI",
+              "China"
+            ],
+            "signal_strength": 0.55
+          }
+        ],
+        "2026-07-10": [
+          {
+            "title": "OpenAI 发布 GPT-5.6 模型家族，Codex 并入 ChatGPT 推出「ChatGPT Work」",
+            "signal_text": "OpenAI 正式发布 GPT-5.6 家族，分 Sol（长程编码/agentic 规划）、Terra、Luna 三档，官方称 token 效率大幅领先，并把编码 agent Codex 并入 ChatGPT、推出统一 agent 产品「ChatGPT Work」，同步登陆 Perplexity、VS Code、Microsoft Foundry，并成为 Microsoft Copilot 365 首选模型。据 TechCrunch。",
+            "insight": "旗舰战回摆 OpenAI，模型能力与「聊天+编码统一 agent」产品形态同步升级。",
+            "implication": "agentic 编码进入主入口，做 agent 编排与垂直工作流的团队可考虑围绕统一 agent 生态卡位。",
+            "sources": [
+              {
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/"
+              },
+              {
+                "name": "@OpenAIDevs",
+                "url": "https://x.com/OpenAIDevs/status/2075286157186003348"
+              }
+            ],
+            "tags": [
+              "GPT-5.6",
+              "OpenAI",
+              "agent",
+              "model-release"
+            ],
+            "signal_strength": 0.95
+          },
+          {
+            "title": "Meta 发布 Muse Spark 1.1：支持 1M 上下文，官方称成本低于自托管开源模型",
+            "signal_text": "Meta 发布新旗舰 Muse Spark 1.1，主打 agentic 与编码，支持 1M 上下文，已上线 Meta Model API；据 Meta AI 负责人 Alexandr Wang，其 Vals Index 排名第 4、超过 GPT-5.5 与 Grok 4.5，并称「用它比自托管开源模型还便宜」。",
+            "insight": "开源阵营性价比标杆再升级，1M 上下文 + 低于自托管成本直接压向闭源。",
+            "implication": "模型层性价比持续内卷，利好做上层应用与垂直 agent 的创业者，自建模型的必要性进一步下降。",
+            "sources": [
+              {
+                "name": "@alexandr_wang",
+                "url": "https://x.com/alexandr_wang/status/2075218622520443168"
+              },
+              {
+                "name": "@shengjia_zhao",
+                "url": "https://x.com/shengjia_zhao/status/2075220782465290620"
+              }
+            ],
+            "tags": [
+              "Meta",
+              "Muse-Spark",
+              "open-model",
+              "cost-efficiency"
+            ],
+            "signal_strength": 0.9
+          },
+          {
+            "title": "中国放开阿里、字节、DeepSeek 采购限量英伟达 H200 芯片",
+            "signal_text": "据 The Information 独家，中国将允许阿里、字节跳动、DeepSeek 等头部 AI 公司采购限量英伟达 H200，以缓解高端训练算力短缺，同时仍在压降对美国芯片依赖。",
+            "insight": "中国前沿训练算力约束边际松动，但「限量 + 去美化」双轨基调不变。",
+            "implication": "中国开源/前沿模型迭代或提速，投资者可关注国产算力替代与中国模型出海两条线。",
+            "sources": [
+              {
+                "name": "The Information",
+                "url": "https://x.com/theinformation/status/2075226006374248818"
+              },
+              {
+                "name": "MIT Technology Review",
+                "url": "https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/"
+              }
+            ],
+            "tags": [
+              "China",
+              "Nvidia",
+              "H200",
+              "compute"
+            ],
+            "signal_strength": 0.85
+          },
+          {
+            "title": "Anthropic 对消费者版最强模型 Claude Fable 5 改按用量收费",
+            "signal_text": "据 Wired，Anthropic 将要求 Claude 订阅用户为使用其最强消费级模型 Fable 5 额外支付按用量计费的费用，被视为「AI 订阅黄金时代」走向结束的信号。",
+            "insight": "旗舰模型定价从「包月无限」转向用量计价，成本随使用直接透传给用户。",
+            "implication": "用量计费成主流，做用量治理、成本优化与模型路由的工具型创业窗口打开。",
+            "sources": [
+              {
+                "name": "Wired",
+                "url": "https://www.wired.com/story/model-behavior-anthropic-will-charge-consumers-extra-to-use-claude-fable-5/"
+              }
+            ],
+            "tags": [
+              "Anthropic",
+              "pricing",
+              "business-model",
+              "subscription"
+            ],
+            "signal_strength": 0.8
+          },
+          {
+            "title": "OpenAI 二号人物 Fidji Simo 卸任 AGI 部署 CEO，转任兼职顾问",
+            "signal_text": "OpenAI 应用/AGI 部署负责人 Fidji Simo 因神经免疫疾病医疗休假超出预期，卸任全职职务、转为兼职顾问。此时正值 OpenAI 谋求 IPO 并在企业市场追赶 Anthropic。据 TechCrunch、The Verge。",
+            "insight": "关键高管在 IPO 与企业竞赛敏感期离场，OpenAI 应用/商业化条线出现领导真空。",
+            "implication": "头部实验室组织波动值得关注，企业采购方可考虑评估供应商的路线稳定性风险。",
+            "sources": [
+              {
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/"
+              },
+              {
+                "name": "The Verge",
+                "url": "https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor"
+              }
+            ],
+            "tags": [
+              "OpenAI",
+              "leadership",
+              "org",
+              "IPO"
+            ],
+            "signal_strength": 0.78
+          },
+          {
+            "title": "Google 发布端侧 Gemma 4，前沿级 AI 无需联网即可运行",
+            "signal_text": "Google 发布 Gemma 4，把前沿级 AI 带到本地设备，支持多模态与 agentic 体验、可离线运行；同日 Apple 加码 iPhone 端侧 AI，业界并有「数年内多数 AI 推理迁移至端侧」的讨论。",
+            "insight": "端侧/离线前沿模型能力显著增强，推理算力开始向设备侧转移。",
+            "implication": "端侧 AI 打开轻量垂直应用与隐私敏感场景创业窗口，利好边缘推理与本地 agent 工具团队。",
+            "sources": [
+              {
+                "name": "@googledevs",
+                "url": "https://x.com/googledevs/status/2075384509382443107"
+              },
+              {
+                "name": "The Information",
+                "url": "https://x.com/theinformation/status/2075320465971675363"
+              }
+            ],
+            "tags": [
+              "Google",
+              "Gemma",
+              "on-device",
+              "edge-ai"
+            ],
+            "signal_strength": 0.78
+          },
+          {
+            "title": "SK Hynix 融资 265 亿美元，创外企在美最大规模上市、超额认购 7 倍",
+            "signal_text": "据 Bloomberg，SK Hynix 以每股 149 美元发售 1.779 亿份 ADR，募资 265 亿美元，成为外国公司在美最大规模上市，认购超额 7 倍以上。",
+            "insight": "AI 内存需求把存储巨头推向史级募资，资本市场对 AI 硬件链高度追捧。",
+            "implication": "HBM/内存是 AI 算力扩张的硬约束，投资者可关注存储与供应链的持续景气。",
+            "sources": [
+              {
+                "name": "Bloomberg (via Techmeme)",
+                "url": "https://www.techmeme.com/260709/p41#a260709p41"
+              }
+            ],
+            "tags": [
+              "SK-Hynix",
+              "HBM",
+              "memory",
+              "capital-markets"
+            ],
+            "signal_strength": 0.75
+          },
+          {
+            "title": "新研究：企业多模型对冲降低失败率被高估约 2.25 倍",
+            "signal_text": "VentureBeat 引述一项评测 21 家厂商 67 个前沿模型的研究：多模型「互相补盲」的假设不成立，模型间失败高度相关（co-failure ceiling），企业实际失败率被低估约 2.25 倍。",
+            "insight": "多模型冗余的独立性假设被证伪，容灾可靠性可能只是纸面安全。",
+            "implication": "评测与可靠性工程被低估，做模型失败相关性度量与可靠性基建的团队有机会。",
+            "sources": [
+              {
+                "name": "VentureBeat",
+                "url": "https://venturebeat.com/orchestration/enterprises-using-multiple-ai-models-are-underestimating-failure-rates-by-2-25x"
+              }
+            ],
+            "tags": [
+              "evaluation",
+              "multi-model",
+              "reliability",
+              "research"
+            ],
+            "signal_strength": 0.75
+          },
+          {
+            "title": "MiniMax 拟融资最高 19 亿美元：售 3560 万股 + 约 8.3 亿美元可转债",
+            "signal_text": "据 Bloomberg，MiniMax 拟以每股约 34 美元出售 3560 万股、募资最高 19 亿美元，并发行约 8.3 亿美元 2027 年到期可转债。",
+            "insight": "中国头部模型公司加速资本化，为算力与竞赛补充弹药。",
+            "implication": "中国 AI 融资窗口活跃，投资者可关注国产模型公司的资本化节奏与估值锚。",
+            "sources": [
+              {
+                "name": "Bloomberg (via Techmeme)",
+                "url": "https://www.techmeme.com/260709/p45#a260709p45"
+              }
+            ],
+            "tags": [
+              "MiniMax",
+              "funding",
+              "China",
+              "capital-markets"
+            ],
+            "signal_strength": 0.72
+          },
+          {
+            "title": "OpenAI 关停 agentic 浏览器 ChatGPT Atlas，能力并入 ChatGPT Work",
+            "signal_text": "据 The Verge，OpenAI 将「日落」发布不到一年的 agentic 浏览器 ChatGPT Atlas，相关 computer-use 能力随 ChatGPT Work 并入主 agent 产品。",
+            "insight": "独立 agentic 浏览器形态收敛，computer-use 回归统一 agent 入口。",
+            "implication": "「独立浏览器 agent」未必是好载体，创业者可重估把 computer-use 内嵌主 agent 的路径。",
+            "sources": [
+              {
+                "name": "The Verge",
+                "url": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset"
+              }
+            ],
+            "tags": [
+              "OpenAI",
+              "Atlas",
+              "browser-agent",
+              "computer-use"
+            ],
+            "signal_strength": 0.7
           }
         ]
       }
