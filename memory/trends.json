@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14",
+  "last_updated": "2026-07-15",
   "trends": [
     {
       "id": "ai_safety_pivot_and_accelerated_agi_time",
@@ -285,7 +285,7 @@
         "Codex"
       ],
       "trajectory": "accelerating",
-      "signal_count": 212,
+      "signal_count": 213,
       "weekly_counts": [
         1,
         0,
@@ -416,6 +416,10 @@
         {
           "date": "2026-07-14",
           "event": "2026-07-13: 开源 ACRouter 动态模型路由省 2.6x 成本；HF Transformers 可在 vLLM 原生速度运行"
+        },
+        {
+          "date": "2026-07-15",
+          "event": "2026-07-15: PrismML 27B 1-bit 量化 54GB→3.8GB、腾讯近前沿 300B 压 1-bit 仅降约 5%；Meta Muse Spark 亚洲物理奥赛拿 30/30 满分"
         }
       ],
       "created": "2026-02-25"
@@ -641,7 +645,7 @@
         "Knowledge Work"
       ],
       "trajectory": "accelerating",
-      "signal_count": 105,
+      "signal_count": 106,
       "weekly_counts": [
         1,
         2,
@@ -724,6 +728,10 @@
         {
           "date": "2026-06-29",
           "event": "BioCatch 报告称攻击者大规模用自主 agent 发起欺诈；VentureBeat 称 prompt injection 专打 agents/RAG/model router"
+        },
+        {
+          "date": "2026-07-15",
+          "event": "2026-07-15: SpaceXAI 的 Grok Build CLI 曾把用户整个代码库（含禁读文件）上传至云端，agent 数据边界失守"
         }
       ],
       "created": "2026-02-25"
@@ -1210,7 +1218,7 @@
         "token 纪律"
       ],
       "trajectory": "accelerating",
-      "signal_count": 22,
+      "signal_count": 23,
       "weekly_counts": [
         1,
         1,
@@ -1268,6 +1276,10 @@
         {
           "date": "2026-07-08",
           "event": "2026-07-08: 微软加入降本潮更多用自研模型（MAI-1 基准疑逊于 Sonnet 4.6）；Box 调研 1640 IT 决策者称内容访问/治理成 AI 领先分水岭；软银/Altimeter/D1 约 20 亿美元投 Thrive Holdings 押注 AI 落地服务而非造模型"
+        },
+        {
+          "date": "2026-07-15",
+          "event": "2026-07-15: 1Password 上线 AI 用量/成本管理，token 支出进入企业 FinOps 治理；Canva Code 2.0 向 2.65 亿用户免费开放自然语言建站"
         }
       ],
       "created": "2026-06-15"
@@ -1319,7 +1331,7 @@
         "数据中心并购"
       ],
       "trajectory": "accelerating",
-      "signal_count": 13,
+      "signal_count": 14,
       "weekly_counts": [
         1,
         2
@@ -1364,6 +1376,10 @@
         {
           "date": "2026-07-14",
           "event": "2026-07-13: 谷歌力推 TPU 作英伟达低价替代，英伟达以财务担保守云厂商客户"
+        },
+        {
+          "date": "2026-07-15",
+          "event": "2026-07-15: 纽约州签全美首个全州数据中心暂建令；数据中心已推高公众电费约 230 亿美元、PJM 拍卖再增 63 亿；CoreWeave 探索用金融衍生品对冲内存芯片价格——AI 基建能源/资金成本外溢"
         }
       ],
       "created": "2026-06-16"
@@ -1522,7 +1538,7 @@
         "OS"
       ],
       "trajectory": "emerging",
-      "signal_count": 1,
+      "signal_count": 2,
       "weekly_counts": [
         0,
         0,
@@ -1537,6 +1553,10 @@
         {
           "date": "2026-07-14",
           "event": "2026-07-13: 苹果革新版 Siri 随 iOS 27 公测登场，成为串联 iPhone 体验的系统级中枢"
+        },
+        {
+          "date": "2026-07-15",
+          "event": "2026-07-15: OpenAI 首款硬件曝光=无屏、可自主移动的 ChatGPT 智能音箱，押注语音+环境感知陪伴型设备"
         }
       ],
       "created": "2026-07-14"
