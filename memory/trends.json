@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15",
+  "last_updated": "2026-07-16",
   "trends": [
     {
       "id": "ai_safety_pivot_and_accelerated_agi_time",
@@ -162,7 +162,7 @@
         "开源复刻"
       ],
       "trajectory": "accelerating",
-      "signal_count": 134,
+      "signal_count": 135,
       "weekly_counts": [
         1,
         2,
@@ -265,6 +265,10 @@
         {
           "date": "2026-07-14",
           "event": "2026-07-13: 特朗普政府拟为对标中国的美国开源模型开辟简化发布通道；Nous Research(Hermes) 冲 15 亿估值融 7500 万"
+        },
+        {
+          "date": "2026-07-16",
+          "event": "2026-07-16: Thinking Machines(Mira Murati)首发开源多模态 MoE 模型 Inkling，开放权重+可在 Tinker 微调，登 HuggingFace 趋势榜"
         }
       ],
       "created": "2026-02-25"
@@ -438,7 +442,7 @@
         "Employee Activism"
       ],
       "trajectory": "accelerating",
-      "signal_count": 63,
+      "signal_count": 64,
       "weekly_counts": [
         0,
         1,
@@ -537,6 +541,10 @@
         {
           "date": "2026-07-14",
           "event": "2026-07-13: 苹果起诉 OpenAI，指其窃取商业机密、挖走 400+ 前员工，威胁 OpenAI 硬件与 IPO"
+        },
+        {
+          "date": "2026-07-16",
+          "event": "2026-07-16: 微软训练销售贬低 OpenAI/Anthropic 力推自家便宜模型；OpenAI 在苹果硬件诉讼中推出230美元 Codex 键盘与 Codex Micro"
         }
       ],
       "created": "2026-02-25"
@@ -556,7 +564,7 @@
         "预期管理"
       ],
       "trajectory": "accelerating",
-      "signal_count": 783,
+      "signal_count": 784,
       "weekly_counts": [
         2,
         4,
@@ -627,6 +635,10 @@
         {
           "date": "2026-07-14",
           "event": "2026-07-13: 开源 agent Hermes 母公司 Nous Research 冲 15 亿估值；ACRouter 把模型路由做成记忆型 agent"
+        },
+        {
+          "date": "2026-07-16",
+          "event": "2026-07-16: EDA 巨头 Cadence 发布 AuraStack AI 超级 Agent(PCB/芯片封装设计)，Nvidia/TSMC 早期用户；OpenAI 预测 AI 2026-09 达实习研究员、2028-03 达正式研究员水平"
         }
       ],
       "created": "2026-02-25"
@@ -645,7 +657,7 @@
         "Knowledge Work"
       ],
       "trajectory": "accelerating",
-      "signal_count": 106,
+      "signal_count": 107,
       "weekly_counts": [
         1,
         2,
@@ -732,6 +744,10 @@
         {
           "date": "2026-07-15",
           "event": "2026-07-15: SpaceXAI 的 Grok Build CLI 曾把用户整个代码库（含禁读文件）上传至云端，agent 数据边界失守"
+        },
+        {
+          "date": "2026-07-16",
+          "event": "2026-07-16: OpenAI 自建 LLM 超级黑客 GPT-Red，用自动化红队对抗训练把 GPT-5.6 练得更抗提示注入"
         }
       ],
       "created": "2026-02-25"
@@ -753,7 +769,7 @@
         "通义"
       ],
       "trajectory": "stable",
-      "signal_count": 84,
+      "signal_count": 85,
       "weekly_counts": [
         1,
         2,
@@ -876,6 +892,10 @@
         {
           "date": "2026-07-08",
           "event": "2026-07-08: The Information——智谱(Z.ai)与国内芯片设计商谈为 GLM 定制处理器，减少对英伟达/华为依赖"
+        },
+        {
+          "date": "2026-07-16",
+          "event": "2026-07-16: DeepSeek 首轮融资后一月即寻求估值十倍跃升，靠80%毛利与模型销售推进融资及 IPO"
         }
       ],
       "created": "2026-02-25"
@@ -1218,7 +1238,7 @@
         "token 纪律"
       ],
       "trajectory": "accelerating",
-      "signal_count": 23,
+      "signal_count": 24,
       "weekly_counts": [
         1,
         1,
@@ -1280,6 +1300,10 @@
         {
           "date": "2026-07-15",
           "event": "2026-07-15: 1Password 上线 AI 用量/成本管理，token 支出进入企业 FinOps 治理；Canva Code 2.0 向 2.65 亿用户免费开放自然语言建站"
+        },
+        {
+          "date": "2026-07-16",
+          "event": "2026-07-16: VB Transform 2026——企业 agent 卡在部署与可靠性(85%试点仅5%投产)、多数'agent'仍是 chatbot 包装；Meta 称仅约20个月为 agent 重建基建"
         }
       ],
       "created": "2026-06-15"
