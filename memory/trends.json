@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-16",
+  "last_updated": "2026-07-17",
   "trends": [
     {
       "id": "ai_safety_pivot_and_accelerated_agi_time",
@@ -162,7 +162,7 @@
         "开源复刻"
       ],
       "trajectory": "accelerating",
-      "signal_count": 135,
+      "signal_count": 136,
       "weekly_counts": [
         1,
         2,
@@ -175,7 +175,7 @@
         1,
         3,
         0,
-        2
+        3
       ],
       "key_events": [
         {
@@ -269,6 +269,10 @@
         {
           "date": "2026-07-16",
           "event": "2026-07-16: Thinking Machines(Mira Murati)首发开源多模态 MoE 模型 Inkling，开放权重+可在 Tinker 微调，登 HuggingFace 趋势榜"
+        },
+        {
+          "date": "2026-07-17",
+          "event": "2026-07-16: Moonshot 开源 Kimi K3（2.8T 参数，史上最大开源模型）登顶 Frontend Code Arena、智能指数反超 Opus 4.8，业界称「新的 DeepSeek 时刻」，智能成本沿最陡商品化曲线下探"
         }
       ],
       "created": "2026-02-25"
@@ -289,7 +293,7 @@
         "Codex"
       ],
       "trajectory": "accelerating",
-      "signal_count": 213,
+      "signal_count": 214,
       "weekly_counts": [
         1,
         0,
@@ -302,7 +306,7 @@
         1,
         1,
         1,
-        1
+        2
       ],
       "key_events": [
         {
@@ -424,6 +428,10 @@
         {
           "date": "2026-07-15",
           "event": "2026-07-15: PrismML 27B 1-bit 量化 54GB→3.8GB、腾讯近前沿 300B 压 1-bit 仅降约 5%；Meta Muse Spark 亚洲物理奥赛拿 30/30 满分"
+        },
+        {
+          "date": "2026-07-17",
+          "event": "2026-07-16: OpenAI GPT-5.6 Sol Pro 解决统计学一道悬置多年的公开难题（Bubeck/Noam Brown 佐证），AI 从做题迈向真实科研解题"
         }
       ],
       "created": "2026-02-25"
@@ -564,7 +572,7 @@
         "预期管理"
       ],
       "trajectory": "accelerating",
-      "signal_count": 784,
+      "signal_count": 785,
       "weekly_counts": [
         2,
         4,
@@ -577,7 +585,7 @@
         3,
         2,
         1,
-        4
+        5
       ],
       "key_events": [
         {
@@ -639,6 +647,10 @@
         {
           "date": "2026-07-16",
           "event": "2026-07-16: EDA 巨头 Cadence 发布 AuraStack AI 超级 Agent(PCB/芯片封装设计)，Nvidia/TSMC 早期用户；OpenAI 预测 AI 2026-09 达实习研究员、2028-03 达正式研究员水平"
+        },
+        {
+          "date": "2026-07-17",
+          "event": "2026-07-16: Google 为 Gemini API 托管 agent 上线成本控制、免费层与定时触发器，agent 编排的成本治理与调度走向平台标配"
         }
       ],
       "created": "2026-02-25"
@@ -1035,7 +1047,7 @@
         "并购"
       ],
       "trajectory": "accelerating",
-      "signal_count": 41,
+      "signal_count": 42,
       "weekly_counts": [
         0,
         1,
@@ -1048,7 +1060,7 @@
         0,
         1,
         1,
-        1
+        2
       ],
       "key_events": [
         {
@@ -1142,6 +1154,10 @@
         {
           "date": "2026-07-14",
           "event": "2026-07-13: 阿里系/新加坡 PixVerse 融 4.39 亿美元估值破 20 亿；CoreWeave 31 亿贷款获超 190 亿认购"
+        },
+        {
+          "date": "2026-07-17",
+          "event": "2026-07-16: Databricks 估值半年跳涨约 40% 至 1880 亿美元（Coatue 领投 30 亿）；Anthropic 洽谈数十亿授信备战年内 IPO；PayPal 董事会认为 Stripe/Advent 530 亿收购报价过低"
         }
       ],
       "created": "2026-02-28"
@@ -1238,11 +1254,11 @@
         "token 纪律"
       ],
       "trajectory": "accelerating",
-      "signal_count": 24,
+      "signal_count": 25,
       "weekly_counts": [
         1,
         1,
-        2
+        3
       ],
       "key_events": [
         {
@@ -1304,6 +1320,10 @@
         {
           "date": "2026-07-16",
           "event": "2026-07-16: VB Transform 2026——企业 agent 卡在部署与可靠性(85%试点仅5%投产)、多数'agent'仍是 chatbot 包装；Meta 称仅约20个月为 agent 重建基建"
+        },
+        {
+          "date": "2026-07-17",
+          "event": "2026-07-16: VentureBeat 107 家企业调研——54% 已发生 agent 安全事件且多数共享凭证、买算力快过算账、RAG 瓶颈从检索转向可信；Netflix 约 300 部作品用生成式 AI"
         }
       ],
       "created": "2026-06-15"
@@ -1508,9 +1528,9 @@
         "自动驾驶"
       ],
       "trajectory": "emerging",
-      "signal_count": 1,
+      "signal_count": 2,
       "weekly_counts": [
-        1
+        2
       ],
       "key_events": [
         {
@@ -1520,6 +1540,10 @@
         {
           "date": "2026-07-06",
           "event": "Tesla launches monitor-free robotaxi in Miami (5th city), targets ~12 US states by end of 2026"
+        },
+        {
+          "date": "2026-07-17",
+          "event": "2026-07-16: Waymo 致旧金山数小时大堵车后，市长致函州监管要求收紧对 robotaxi 运营商的监管（扩张撞上城市治理红线）"
         }
       ],
       "created": "2026-07-06"
